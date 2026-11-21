@@ -1,0 +1,2735 @@
+#3712
+Ouvrir l'éditeur en langage à contacts
+Abrir editor Ladder
+打开梯形图编辑器
+Открыть редактор LAD
+Otwórz edytor LAD
+LAD-szerkesztő megnyitása
+Abrir editor Ladder
+
+#3713
+Langage de programmation
+Linguagem de programação
+编程语言
+Язык программирования
+Język programowania
+Programozási nyelv
+Lenguaje de programación
+
+#3714
+Transmetteur 0-10 V (3 fils)
+Transmissor 0-10 V (3 fios)
+变送器 0-10 V（三线制）
+Датчик 0-10 В (3-проводный)
+Przetwornik 0-10 V (3-przewodowy)
+Távadó 0-10 V (3 vezetékes)
+Transmisor 0-10 V (3 hilos)
+
+#3715
+Transmetteur 3 fils : +24 V et 0 V l'alimentent, OUT donne 0-10 V pour 0-100 % de son échelle. Raccordez OUT à une entrée analogique de l'automate (AI0 la lit en IW64, 0-27648). Liez-le à une cuve ou une ligne dans la vue Process pour que la valeur suive le procédé.
+Transmissor 3 fios: +24 V e 0 V o alimentam, OUT fornece 0-10 V para 0-100 % da faixa. Ligue OUT a uma entrada analógica do CLP (AI0 lê como IW64, 0-27648). Vincule-o a um tanque ou a uma linha na vista Planta para que o valor siga o processo.
+三线制变送器：+24 V 和 0 V 供电，OUT 在量程 0-100 % 时输出 0-10 V。把 OUT 接到 PLC 模拟量输入（AI0 读作 IW64，0-27648）。在工艺视图中把它关联到储罐或管线，让数值跟随工艺变化。
+Трёхпроводный датчик: питание +24 В и 0 В, OUT выдаёт 0-10 В на 0-100 % диапазона. Подключите OUT к аналоговому входу ПЛК (AI0 читает его как IW64, 0-27648). Свяжите его с баком или линией на виде «Установка», чтобы значение следовало за процессом.
+Przetwornik 3-przewodowy: zasilany z +24 V i 0 V, OUT daje 0-10 V dla 0-100 % zakresu. Podłącz OUT do wejścia analogowego PLC (AI0 odczytuje go jako IW64, 0-27648). Powiąż go ze zbiornikiem lub rurociągiem w widoku Instalacja, aby wartość śledziła proces.
+3 vezetékes távadó: +24 V és 0 V táplálja, az OUT 0-10 V-ot ad a méréshatár 0-100 %-ára. Kösse az OUT-ot egy PLC analóg bemenetre (az AI0 IW64-ként olvassa, 0-27648). Kapcsolja egy tartályhoz vagy vezetékhez a Technológia nézetben, hogy az érték kövesse a folyamatot.
+Transmisor de 3 hilos: +24 V y 0 V lo alimentan, OUT da 0-10 V para 0-100 % de su rango. Cablee OUT a una entrada analógica del PLC (AI0 la lee como IW64, 0-27648). Vincúlelo a un depósito o a una línea en la vista Planta para que el valor siga al proceso.
+
+#3716
+Mesure
+Mede
+测量
+Измеряет
+Mierzy
+Mér
+Mide
+
+#3717
+Hors service (sortie 0 V)
+Queimado (saída 0 V)
+损坏（输出 0 V）
+Неисправен (выход 0 В)
+Uszkodzony (wyjście 0 V)
+Nem működik (0 V kimenet)
+Averiado (salida 0 V)
+
+#3718
+Bloqué à 10 V
+Travado em 10 V
+卡在 10 V
+Застрял на 10 В
+Zablokowany na 10 V
+10 V-on ragadt
+Bloqueado en 10 V
+
+#3719
+Le courant passe dans toute la ligne. Les sorties sont à ON.
+A energia passa por toda a linha. As saídas estão em ON.
+能流通过整个梯级。输出为 ON。
+Ток проходит через всю цепь. Выходы в ON.
+Prąd płynie przez cały szczebel. Wyjścia są w stanie ON.
+Az áram végigfolyik az egész létrafokon. A kimenetek ON állapotúak.
+La corriente pasa por toda la línea. Las salidas están en ON.
+
+#3720
+Adresse inconnue.
+Endereço desconhecido.
+未知地址。
+Неизвестный адрес.
+Nieznany adres.
+Ismeretlen cím.
+Dirección desconocida.
+
+#3721
+La ligne est FAUSSE.
+A linha é FALSA.
+该梯级为 FALSE。
+Цепь в состоянии FALSE.
+Szczebel ma wartość FALSE.
+A létrafok értéke FALSE.
+La línea es FALSA.
+
+#3722
+Le nom du temporisateur doit être T0-T31.
+O nome do temporizador deve ser T0-T31.
+定时器名称必须为 T0-T31。
+Имя таймера должно быть T0-T31.
+Nazwa timera musi być T0-T31.
+Az időzítő neve T0-T31 lehet.
+El nombre del temporizador debe ser T0-T31.
+
+#3723
+Le nom du compteur doit être C0-C15.
+O nome do contador deve ser C0-C15.
+计数器名称必须为 C0-C15。
+Имя счётчика должно быть C0-C15.
+Nazwa licznika musi być C0-C15.
+A számláló neve C0-C15 lehet.
+El nombre del contador debe ser C0-C15.
+
+#3724
+La sortie de SCALE doit être un mot MW ou QW80.
+A saída do SCALE deve ser uma palavra MW ou QW80.
+SCALE 输出必须是字 MW 或 QW80。
+Выход SCALE должен быть словом MW или QW80.
+Wyjście SCALE musi być słowem MW lub QW80.
+A SCALE kimenete MW szó vagy QW80 lehet.
+La salida de SCALE debe ser una palabra MW o QW80.
+
+#3725
+Les limites haute et basse de SCALE sont égales.
+Os limites alto e baixo do SCALE são iguais.
+SCALE 的上下限相等。
+Верхний и нижний пределы SCALE равны.
+Górna i dolna granica SCALE są równe.
+A SCALE felső és alsó határa egyenlő.
+Los límites alto y bajo de SCALE son iguales.
+
+#3726
+Division par zéro.
+Divisão por zero.
+除数为零。
+Деление на ноль.
+Dzielenie przez zero.
+Nullával osztás.
+División por cero.
+
+#3727
+Source d'eau / réseau
+Fonte de água / rede
+水源 / 市政供水
+Источник воды / водопровод
+Źródło wody / wodociąg
+Vízforrás / hálózat
+Fuente de agua / red
+
+#3728
+Source d'eau à pression fixe : un puisard, un puits ou le réseau de ville. Réglez sa pression et sa température.
+Fonte de água com pressão fixa: um poço de sucção, um poço artesiano ou a rede da cidade. Ajuste a pressão e a temperatura.
+恒压水源：集水坑、水井或市政管网。设置它的压力和温度。
+Источник воды с постоянным давлением: приямок, скважина или городской водопровод. Задайте его давление и температуру.
+Źródło wody o stałym ciśnieniu: studzienka, studnia lub sieć miejska. Ustaw jego ciśnienie i temperaturę.
+Állandó nyomású vízforrás: zsomp, kút vagy a városi hálózat. Állítsa be a nyomását és a hőmérsékletét.
+Fuente de agua a presión fija: un pozo de bombeo, un pozo o la red municipal. Ajuste su presión y temperatura.
+
+#3729
+Égout
+Dreno
+排水口
+Слив
+Odpływ
+Lefolyó
+Desagüe
+
+#3730
+Égout ouvert à 0 bar. L'eau ne fait qu'y entrer.
+Dreno aberto a 0 bar. A água só entra.
+0 bar 的敞开排水口。水只进不出。
+Открытый слив при 0 бар. Вода только уходит в него.
+Otwarty odpływ przy 0 bar. Woda tylko do niego wpływa.
+Nyitott lefolyó 0 bar nyomáson. A víz csak befolyik.
+Desagüe abierto a 0 bar. El agua solo entra.
+
+#3731
+Cuve avec instruments de niveau
+Tanque com instrumentos de nível
+带液位仪表的水箱
+Бак с приборами уровня
+Zbiornik z oprzyrządowaniem poziomu
+Tartály szintműszerekkel
+Depósito con instrumentos de nivel
+
+#3732
+Cuve ouverte. Les entrées du haut sont à la hauteur de la cuve : une pompe doit donc y monter l'eau. Les sorties du bas sont à la pression de la colonne d'eau. Liez un transmetteur de niveau, jusqu'à 4 interrupteurs à flotteur, un réchauffeur et une sonde de température à des composants de l'armoire.
+Tanque aberto. As entradas de cima ficam na altura do tanque, então uma bomba precisa elevar a água até lá. As saídas de baixo ficam na pressão da coluna de água. Vincule um transmissor de nível, até 4 chaves de nível (boia), um aquecedor e um sensor de temperatura a componentes do painel.
+敞口水箱。顶部进口位于水箱高度，所以需要水泵把水打上去。底部出口的压力等于水柱压力。可把液位变送器、最多 4 个浮球开关、加热器和温度传感器关联到电柜上的元件。
+Открытый бак. Верхние входы находятся на высоте бака, поэтому насос должен поднять воду туда. Нижние выходы под давлением столба воды. Свяжите датчик уровня, до 4 поплавковых выключателей, нагреватель и датчик температуры с компонентами шкафа.
+Zbiornik otwarty. Górne wloty są na wysokości zbiornika, więc pompa musi podnieść tam wodę. Dolne wyloty mają ciśnienie słupa wody. Powiąż przetwornik poziomu, do 4 łączników pływakowych, grzałkę i czujnik temperatury z elementami w szafie.
+Nyitott tartály. A felső bemenetek a tartály magasságában vannak, ezért egy szivattyúnak kell oda felemelnie a vizet. Az alsó kimeneteken a vízoszlop nyomása van. Kapcsoljon hozzá szinttávadót, legfeljebb 4 úszókapcsolót, fűtőbetétet és hőmérséklet-érzékelőt a szekrény alkatrészei közül.
+Depósito abierto. Las entradas superiores están a la altura del depósito, así que una bomba debe subir el agua hasta allí. Las salidas inferiores están a la presión de la columna de agua. Vincule un transmisor de nivel, hasta 4 interruptores de flotador, un calentador y un sensor de temperatura a componentes del cuadro.
+
+#3733
+Pompe centrifuge
+Bomba centrífuga
+离心泵
+Центробежный насос
+Pompa odśrodkowa
+Centrifugális szivattyú
+Bomba centrífuga
+
+#3734
+Entraînée par un moteur de l'armoire (liez son repère). La hauteur manométrique croît avec le carré de la vitesse. Fermer le refoulement réduit le débit et le courant du moteur. Une aspiration vide la fait caviter (marche à sec).
+Acionada por um motor do painel (vincule o tag dele). A altura manométrica cresce com o quadrado da velocidade. Fechar o recalque reduz a vazão e a corrente do motor. Sucção vazia faz a bomba cavitar (funcionamento a seco).
+由电柜上的电机驱动（关联它的位号）。扬程随转速的平方增长。关小出口会降低流量和电机电流。吸入口无水会产生汽蚀（干转）。
+Приводится двигателем из шкафа (свяжите его позицию). Напор растёт пропорционально квадрату скорости. Прикрытие нагнетания снижает расход и ток двигателя. Пустой всас вызывает кавитацию (сухой ход).
+Napędzana silnikiem z szafy (powiąż jego oznaczenie). Wysokość podnoszenia rośnie z kwadratem prędkości. Zamknięcie tłoczenia zmniejsza przepływ i prąd silnika. Brak wody na ssaniu powoduje kawitację (praca na sucho).
+A szekrény egyik motorja hajtja (kapcsolja hozzá az azonosítóját). Az emelőmagasság a fordulatszám négyzetével nő. A nyomóoldal zárása csökkenti az áramlást és a motoráramot. Üres szívóoldalnál kavitál (szárazon futás).
+Accionada por un motor del cuadro (vincule su etiqueta). La altura crece con el cuadrado de la velocidad. Cerrar la impulsión reduce el caudal y la corriente del motor. Una aspiración vacía la hace cavitar (marcha en seco).
+
+#3735
+Vanne manuelle
+Válvula manual
+手动阀门
+Ручной кран
+Zawór ręczny
+Kézi szelep
+Válvula manual
+
+#3736
+Vanne à boisseau sphérique. Touchez-la en mode Test pour l'ouvrir ou la fermer.
+Válvula esfera. Toque nela no modo Teste para abrir ou fechar.
+球阀。在测试模式下点击它来打开或关闭。
+Шаровой кран. Нажмите на него в режиме теста, чтобы открыть или закрыть.
+Zawór kulowy. Dotknij go w trybie testu, aby go otworzyć lub zamknąć.
+Golyóscsap. Érintse meg Teszt módban a nyitáshoz vagy záráshoz.
+Válvula de bola. Tóquela en modo Prueba para abrirla o cerrarla.
+
+#3737
+Électrovanne (liée)
+Válvula solenoide (vinculada)
+电磁阀（已关联）
+Электромагнитный клапан (связанный)
+Elektrozawór (powiązany)
+Mágnesszelep (kapcsolt)
+Electroválvula (vinculada)
+
+#3738
+Normalement fermée. S'ouvre quand la bobine liée dans l'armoire est alimentée.
+Normalmente fechada. Abre quando o solenoide vinculado no painel é energizado.
+常闭。电柜上关联的电磁线圈得电时打开。
+Нормально закрыт. Открывается, когда на связанную катушку в шкафу подано питание.
+Normalnie zamknięty. Otwiera się, gdy powiązana cewka w szafie jest zasilona.
+Alaphelyzetben zárt. Kinyit, amikor a szekrényben lévő kapcsolt mágnestekercs feszültséget kap.
+Normalmente cerrada. Se abre cuando se energiza el solenoide vinculado del cuadro.
+
+#3739
+Clapet anti-retour (NRV)
+Válvula de retenção (NRV)
+止回阀（NRV）
+Обратный клапан (NRV)
+Zawór zwrotny (NRV)
+Visszacsapó szelep (NRV)
+Válvula antirretorno (NRV)
+
+#3740
+Ne laisse passer l'eau que dans le sens de la flèche.
+Deixa a água passar só no sentido da seta.
+只允许水按箭头方向流动。
+Пропускает воду только по направлению стрелки.
+Przepuszcza wodę tylko w kierunku strzałki.
+Csak a nyíl irányában engedi át a vizet.
+Deja pasar el agua solo en el sentido de la flecha.
+
+#3741
+Filtre (sable / cartouche)
+Filtro (areia / cartucho)
+过滤器（砂滤 / 滤芯）
+Фильтр (песчаный / картриджный)
+Filtr (piaskowy / wkładowy)
+Szűrő (homok / betétes)
+Filtro (arena / cartucho)
+
+#3742
+S'encrasse avec l'eau qui passe. Surveillez la hausse de la perte de charge, puis faites un contre-lavage ou changez la cartouche.
+Suja com a água que passa. Acompanhe o aumento da perda de carga e então faça a retrolavagem ou troque o cartucho.
+随着水流过会逐渐变脏。观察压差上升，然后反洗或更换滤芯。
+Загрязняется проходящей водой. Следите за ростом перепада давления, затем сделайте обратную промывку или замените картридж.
+Brudzi się od przepływającej wody. Obserwuj wzrost spadku ciśnienia, potem wykonaj płukanie wsteczne lub wymień wkład.
+Az átfolyó víztől elszennyeződik. Figyelje a nyomásesés növekedését, majd végezzen visszaöblítést vagy cseréljen betétet.
+Se ensucia con el agua que pasa. Vigile cómo sube la pérdida de carga y luego haga un contralavado o cambie el cartucho.
+
+#3743
+Membrane RO
+Membrana RO
+RO 膜
+Мембрана RO
+Membrana RO
+RO membrán
+Membrana RO
+
+#3744
+Osmose inverse. L'eau ne traverse la membrane qu'au-dessus de la pression osmotique (environ 2 bar). Le perméat augmente avec la pression et la température d'alimentation. La vanne de concentrat règle le taux de conversion.
+Osmose reversa. A água só atravessa a membrana acima da pressão osmótica (cerca de 2 bar). O permeado aumenta com a pressão e a temperatura de alimentação. A válvula de rejeito define a recuperação.
+反渗透。只有高于渗透压（约 2 bar）时水才能透过膜。产水量随进水压力和温度升高而增加。浓水阀决定回收率。
+Обратный осмос. Вода проходит через мембрану только выше осмотического давления (около 2 бар). Пермеат растёт с давлением и температурой питающей воды. Клапан концентрата задаёт степень извлечения.
+Odwrócona osmoza. Woda przechodzi przez membranę tylko powyżej ciśnienia osmotycznego (około 2 bar). Ilość permeatu rośnie z ciśnieniem i temperaturą zasilania. Zawór koncentratu ustala odzysk.
+Fordított ozmózis. A víz csak az ozmotikus nyomás (kb. 2 bar) felett jut át a membránon. A permeátum a betáplálási nyomással és hőmérséklettel nő. A koncentrátumszelep állítja be a kihozatalt.
+Ósmosis inversa. El agua atraviesa la membrana solo por encima de la presión osmótica (unos 2 bar). El permeado aumenta con la presión y la temperatura de alimentación. La válvula de rechazo fija la recuperación.
+
+#3745
+Échangeur à plaques
+Trocador de calor a placas
+板式换热器
+Пластинчатый теплообменник
+Wymiennik płytowy
+Lemezes hőcserélő
+Intercambiador de placas
+
+#3746
+Côté chaud du haut-gauche vers le bas-droite, côté froid du bas-gauche vers le haut-droite (contre-courant). Les deux côtés doivent avoir du débit pour échanger la chaleur.
+Lado quente de cima à esquerda para baixo à direita, lado frio de baixo à esquerda para cima à direita (contracorrente). Os dois lados precisam de vazão para trocar calor.
+热侧从左上到右下，冷侧从左下到右上（逆流）。两侧都要有流量才能换热。
+Горячая сторона: сверху слева вниз направо, холодная: снизу слева вверх направо (противоток). Для теплообмена нужен расход с обеих сторон.
+Strona gorąca od lewej góry do prawego dołu, strona zimna od lewego dołu do prawej góry (przeciwprąd). Obie strony potrzebują przepływu, aby wymieniać ciepło.
+Meleg oldal balra fentről jobbra le, hideg oldal balra lentről jobbra fel (ellenáram). A hőcseréhez mindkét oldalon áramlás kell.
+Lado caliente de arriba a la izquierda a abajo a la derecha, lado frío de abajo a la izquierda a arriba a la derecha (contracorriente). Ambos lados necesitan caudal para intercambiar calor.
+
+#3747
+Transmetteur de pression (lié)
+Transmissor de pressão (vinculado)
+压力变送器（已关联）
+Датчик давления (связанный)
+Przetwornik ciśnienia (powiązany)
+Nyomástávadó (kapcsolt)
+Transmisor de presión (vinculado)
+
+#3748
+Envoie la pression de la ligne à un transmetteur lié dans l'armoire (TX 4-20 mA ou 0-10 V).
+Envia a pressão da linha a um transmissor vinculado no painel (TX 4-20 mA ou 0-10 V).
+把管线压力送到电柜上关联的变送器（TX 4-20 mA 或 0-10 V）。
+Передаёт давление в линии на связанный датчик в шкафу (TX 4-20 мА или 0-10 В).
+Przekazuje ciśnienie w rurociągu do powiązanego przetwornika w szafie (TX 4-20 mA lub 0-10 V).
+A vezeték nyomását a szekrény kapcsolt távadójára küldi (TX 4-20 mA vagy 0-10 V).
+Envía la presión de la línea a un transmisor vinculado del cuadro (TX 4-20 mA o 0-10 V).
+
+#3749
+Pressostat (lié)
+Pressostato (vinculado)
+压力开关（已关联）
+Реле давления (связанное)
+Presostat (powiązany)
+Nyomáskapcsoló (kapcsolt)
+Presostato (vinculado)
+
+#3750
+Actionne le pressostat lié dans l'armoire quand la pression de la ligne dépasse la consigne.
+Aciona o pressostato vinculado no painel quando a pressão da linha está acima do set point.
+管线压力高于设定值时，使电柜上关联的压力开关动作。
+Задействует связанное реле давления в шкафу, когда давление в линии выше уставки.
+Załącza powiązany presostat w szafie, gdy ciśnienie w rurociągu przekracza nastawę.
+Működteti a szekrény kapcsolt nyomáskapcsolóját, ha a vezeték nyomása az alapjel felett van.
+Acciona el presostato vinculado del cuadro cuando la presión de la línea supera la consigna.
+
+#3751
+Contrôleur de débit (lié)
+Chave de fluxo (vinculada)
+流量开关（已关联）
+Реле протока (связанное)
+Łącznik przepływu (powiązany)
+Áramláskapcsoló (kapcsolt)
+Interruptor de caudal (vinculado)
+
+#3752
+Actionne le contrôleur de débit lié dans l'armoire quand le débit dépasse la consigne.
+Aciona a chave de fluxo vinculada no painel quando a vazão está acima do set point.
+流量高于设定值时，使电柜上关联的流量开关动作。
+Задействует связанное реле протока в шкафу, когда расход выше уставки.
+Załącza powiązany łącznik przepływu w szafie, gdy przepływ przekracza nastawę.
+Működteti a szekrény kapcsolt áramláskapcsolóját, ha az áramlás az alapjel felett van.
+Acciona el interruptor de caudal vinculado del cuadro cuando el caudal supera la consigna.
+
+#3753
+Sonde de température (liée)
+Sensor de temperatura (vinculado)
+温度传感器（已关联）
+Датчик температуры (связанный)
+Czujnik temperatury (powiązany)
+Hőmérséklet-érzékelő (kapcsolt)
+Sensor de temperatura (vinculado)
+
+#3754
+Envoie la température de la ligne à une PT100 ou à un transmetteur de l'armoire.
+Envia a temperatura da linha a um PT100 ou a um transmissor do painel.
+把管线温度送到电柜上的 PT100 或变送器。
+Передаёт температуру в линии на PT100 или преобразователь в шкафу.
+Przekazuje temperaturę w rurociągu do PT100 lub przetwornika w szafie.
+A vezeték hőmérsékletét egy PT100-ra vagy a szekrény egyik távadójára küldi.
+Envía la temperatura de la línea a una PT100 o a un transmisor del cuadro.
+
+#3755
+Manomètre local à aiguille. Lisez la pression à cet endroit de la ligne.
+Manômetro local de ponteiro. Leia a pressão neste ponto da linha.
+现场指针压力表。读取管线此处的压力。
+Местный стрелочный манометр. Считайте давление в этой точке линии.
+Manometr miejscowy ze wskazówką. Odczytaj ciśnienie w tym punkcie rurociągu.
+Helyi mutatós nyomásmérő. Olvassa le a nyomást a vezeték ezen pontján.
+Manómetro local de aguja. Lea la presión en este punto de la línea.
+
+#3756
+Débitmètre
+Medidor de vazão
+流量计
+Расходомер
+Przepływomierz
+Áramlásmérő
+Caudalímetro
+
+#3757
+Affiche le débit en L/min et le volume total.
+Mostra a vazão em L/min e o volume total.
+显示流量（L/min）和累计体积。
+Показывает расход в л/мин и общий объём.
+Pokazuje przepływ w L/min i całkowitą objętość.
+Mutatja az áramlást L/min-ben és az összes térfogatot.
+Muestra el caudal en L/min y el volumen total.
+
+#3758
+Té / croix
+Tê / cruzeta
+三通 / 四通
+Тройник / крестовина
+Trójnik / czwórnik
+T-idom / keresztidom
+T / cruz
+
+#3759
+Raccorde jusqu'à 4 tuyaux en un point.
+Une até 4 tubos em um ponto.
+在一点连接最多 4 根管道。
+Соединяет до 4 труб в одной точке.
+Łączy do 4 rur w jednym punkcie.
+Legfeljebb 4 csövet köt össze egy pontban.
+Une hasta 4 tuberías en un punto.
+
+#3760
+Aucun moteur n'est lié à la pompe. Choisissez le repère du moteur dans ses propriétés.
+A bomba não tem motor vinculado. Escolha o tag do motor nas propriedades dela.
+水泵没有关联电机。在它的属性中选择电机位号。
+К насосу не привязан двигатель. Выберите позицию двигателя в его свойствах.
+Pompa nie ma powiązanego silnika. Wybierz oznaczenie silnika w jej właściwościach.
+A szivattyúhoz nincs motor kapcsolva. Válassza ki a motor azonosítóját a tulajdonságaiban.
+La bomba no tiene motor vinculado. Elija la etiqueta del motor en sus propiedades.
+
+#3761
+Cavitation / marche à sec : pas d'eau à l'aspiration (cuve vide ou vanne d'aspiration fermée).
+Cavitação / funcionamento a seco: a sucção está sem água (tanque vazio ou válvula de sucção fechada).
+汽蚀 / 干转：吸入口无水（水箱空或吸入阀关闭）。
+Кавитация / сухой ход: на всасе нет воды (бак пуст или кран на всасе закрыт).
+Kawitacja / praca na sucho: brak wody na ssaniu (pusty zbiornik lub zamknięty zawór ssawny).
+Kavitáció / szárazon futás: nincs víz a szívóoldalon (üres tartály vagy zárt szívószelep).
+Cavitación / marcha en seco: no hay agua en la aspiración (depósito vacío o válvula de aspiración cerrada).
+
+#3762
+Marche refoulement fermé : pas de débit, l'eau chauffe.
+Funcionando com o recalque fechado: sem vazão, a água esquenta.
+出口关闭运行（憋压）：没有流量，水会发热。
+Работа на закрытую задвижку: расхода нет, вода нагревается.
+Praca przy zamkniętym tłoczeniu: brak przepływu, woda się nagrzewa.
+Zárt nyomóoldal elleni üzem: nincs áramlás, a víz melegszik.
+Funcionando con la impulsión cerrada: sin caudal, el agua se calienta.
+
+#3763
+Le moteur tourne à l'envers : la pompe ne donne qu'un tiers de sa hauteur. Inversez deux phases.
+O motor gira ao contrário: a bomba dá só um terço da altura. Inverta duas fases.
+电机反转：水泵只有三分之一的扬程。对调两相。
+Двигатель вращается в обратную сторону: насос даёт только треть напора. Поменяйте местами две фазы.
+Silnik obraca się w przeciwną stronę: pompa daje tylko jedną trzecią wysokości podnoszenia. Zamień dwie fazy.
+A motor visszafelé forog: a szivattyú csak az emelőmagasság harmadát adja. Cseréljen fel két fázist.
+El motor gira al revés: la bomba da solo un tercio de su altura. Intercambie dos fases.
+
+#3764
+La cuve déborde.
+O tanque está transbordando.
+水箱溢流。
+Бак переполняется.
+Zbiornik się przelewa.
+A tartály túlcsordul.
+El depósito rebosa.
+
+#3765
+Le filtre se colmate (perte de charge élevée). Faites un contre-lavage ou changez-le.
+O filtro está entupindo (perda de carga alta). Faça a retrolavagem ou troque-o.
+过滤器正在堵塞（压差高）。反洗或更换。
+Фильтр забивается (большой перепад давления). Промойте его обратным током или замените.
+Filtr się zatyka (duży spadek ciśnienia). Wykonaj płukanie wsteczne lub go wymień.
+A szűrő eltömődik (nagy nyomásesés). Öblítse vissza vagy cserélje.
+El filtro se está colmatando (pérdida de carga alta). Haga un contralavado o cámbielo.
+
+#3766
+Pression d'alimentation sous environ 2,5 bar : presque pas de perméat.
+Pressão de alimentação abaixo de cerca de 2,5 bar: quase nenhum permeado.
+进水压力低于约 2.5 bar：几乎没有产水。
+Давление питания ниже примерно 2,5 бар: пермеата почти нет.
+Ciśnienie zasilania poniżej ok. 2,5 bar: prawie brak permeatu.
+Betáplálási nyomás kb. 2,5 bar alatt: szinte nincs permeátum.
+Presión de alimentación por debajo de unos 2,5 bar: casi no hay permeado.
+
+#3767
+Cuve d'eau : pompe étoile-triangle par automate
+Tanque de água: bomba estrela-triângulo com CLP
+水箱：PLC 星三角水泵
+Бак воды: насос звезда-треугольник от ПЛК
+Zbiornik wody: pompa gwiazda-trójkąt sterowana z PLC
+Víztartály: PLC-vezérelt csillag-delta szivattyú
+Depósito de agua: bomba estrella-triángulo por PLC
+
+#3768
+Une pompe de puisard remplit une cuve. Un automate compact démarre la pompe en étoile-triangle d'après le transmetteur de niveau : marche sous 20 %, arrêt à 90 %. LSHH l'arrête et allume l'alarme.
+Uma bomba de poço enche um tanque. Um CLP compacto aciona a bomba em estrela-triângulo pelo transmissor de nível: liga abaixo de 20 %, desliga em 90 %. O LSHH a desliga e acende o alarme.
+集水坑水泵向水箱注水。小型 PLC 根据液位变送器以星三角方式控制水泵：低于 20 % 启动，到 90 % 停止。LSHH 使其停止并点亮报警灯。
+Насос из приямка наполняет бак. Компактный ПЛК пускает насос по схеме звезда-треугольник по датчику уровня: пуск ниже 20 %, стоп на 90 %. LSHH останавливает его и включает аварийную сигнализацию.
+Pompa ze studzienki napełnia zbiornik. Kompaktowy PLC uruchamia pompę w układzie gwiazda-trójkąt na podstawie przetwornika poziomu: start poniżej 20 %, stop przy 90 %. LSHH ją zatrzymuje i zapala alarm.
+Egy zsompszivattyú tölt egy tartályt. Egy kompakt PLC csillag-deltában indítja a szivattyút a szinttávadó alapján: indítás 20 % alatt, leállítás 90 %-nál. Az LSHH leállítja és bekapcsolja a riasztást.
+Una bomba de pozo llena un depósito. Un PLC compacto arranca la bomba en estrella-triángulo según el transmisor de nivel: arranca por debajo del 20 %, para al 90 %. LSHH la para y enciende la alarma.
+
+#3769
+Enclenchez QM1 et F1, puis appuyez sur S1 (Marche). Observez KM1 + KM2 (étoile), puis KM3 (triangle) après 5 s.
+Ligue QM1 e F1 e depois pressione S1 (Partida). Observe KM1 + KM2 (estrela) e depois KM3 (triângulo) após 5 s.
+合上 QM1 和 F1，然后按 S1（启动）。观察 KM1 + KM2（星形），5 s 后 KM3（三角形）吸合。
+Включите QM1 и F1, затем нажмите S1 (Пуск). Смотрите: KM1 + KM2 (звезда), через 5 с KM3 (треугольник).
+Załącz QM1 i F1, potem naciśnij S1 (Start). Obserwuj KM1 + KM2 (gwiazda), a po 5 s KM3 (trójkąt).
+Kapcsolja be a QM1-et és az F1-et, majd nyomja meg az S1-et (Start). Figyelje a KM1 + KM2-t (csillag), majd 5 s után a KM3-at (delta).
+Conecte QM1 y F1 y pulse S1 (Marcha). Observe KM1 + KM2 (estrella) y luego KM3 (triángulo) tras 5 s.
+
+#3770
+Ouvrez la vue Ladder : suivez le flux de courant vert pendant le fonctionnement.
+Abra a vista Ladder: acompanhe o fluxo de energia verde enquanto funciona.
+打开梯形图视图：运行时跟随绿色能流。
+Откройте вид LAD: следите за зелёным потоком тока во время работы.
+Otwórz widok LAD: śledź zielony przepływ prądu podczas pracy.
+Nyissa meg a LAD nézetet: kövesse a zöld áramfolyást működés közben.
+Abra la vista Ladder: siga el flujo de corriente verde mientras funciona.
+
+#3771
+Placez la pince sur un fil du moteur : comparez le courant en étoile et en triangle.
+Coloque o alicate em um fio do motor: compare a corrente em estrela e em triângulo.
+用钳形表夹住一根电机线：比较星形和三角形时的电流。
+Обхватите клещами провод двигателя: сравните ток в звезде и в треугольнике.
+Załóż cęgi na przewód silnika: porównaj prąd w gwieździe i w trójkącie.
+Tegye a lakatfogót egy motorvezetékre: hasonlítsa össze a csillag és a delta áramot.
+Ponga la pinza en un cable del motor: compare la corriente en estrella y en triángulo.
+
+#3772
+Fermez V1 dans la vue Process : la cuve se remplit jusqu'à 90 % et la pompe s'arrête.
+Feche V1 na vista Planta: o tanque enche até 90 % e a bomba para.
+在工艺视图中关闭 V1：水箱注满到 90 %，水泵停止。
+Закройте V1 на виде «Установка»: бак наполнится до 90 %, и насос остановится.
+Zamknij V1 w widoku Instalacja: zbiornik napełni się do 90 % i pompa się zatrzyma.
+Zárja el a V1-et a Technológia nézetben: a tartály 90 %-ig telik, és a szivattyú leáll.
+Cierre V1 en la vista Planta: el depósito se llena hasta el 90 % y la bomba para.
+
+#3773
+Provoquez une panne (Composant, Simulation de défaut) et trouvez-la avec les appareils de mesure et le diagnostic en langage à contacts.
+Provoque uma falha (Componente, Simulação de falha) e encontre-a com os medidores e o diagnóstico do Ladder.
+制造一个故障（元件，故障模拟），然后用仪表和梯形图诊断把它找出来。
+Создайте неисправность (Компонент, Имитация неисправности) и найдите её приборами и диагностикой LAD.
+Zepsuj coś (Element, Symulacja usterki) i znajdź to miernikami oraz diagnostyką LAD.
+Rontson el valamit (Alkatrész, Hibaszimuláció), és keresse meg a műszerekkel és a LAD-diagnosztikával.
+Provoque una avería (Componente, Simulación de avería) y encuéntrela con los instrumentos y el diagnóstico Ladder.
+
+#3774
+Pompe de surpression sur variateur (VFD)
+Bomba booster com inversor (VFD)
+变频器（VFD）驱动的增压泵
+Повысительный насос на ПЧ (VFD)
+Pompa podnosząca ciśnienie na falowniku (VFD)
+Nyomásfokozó szivattyú frekvenciaváltóval (VFD)
+Bomba de presión con variador (VFD)
+
+#3775
+Une pompe sur VFD fait circuler l'eau d'une bâche tampon à travers une vanne d'utilisation. Changez la vitesse avec RV1 et observez la pression et le débit. B1 donne la pression en 0-10 V : mesurez-la.
+Uma bomba com VFD circula água de um tanque intermediário através de uma válvula de consumo. Mude a velocidade com RV1 e observe pressão e vazão. B1 fornece a pressão em 0-10 V: meça.
+一台变频水泵把水从中间水箱经用户阀循环。用 RV1 改变转速，观察压力和流量。B1 以 0-10 V 输出压力：测量它。
+Насос на ПЧ гоняет воду из буферного бака через клапан потребителя. Меняйте скорость RV1 и следите за давлением и расходом. B1 выдаёт давление как 0-10 В: измерьте его.
+Pompa na falowniku przetłacza wodę ze zbiornika buforowego przez zawór odbiornika. Zmieniaj prędkość RV1 i obserwuj ciśnienie i przepływ. B1 podaje ciśnienie jako 0-10 V: zmierz je.
+Egy VFD-s szivattyú egy puffertartályból egy fogyasztói szelepen át keringeti a vizet. Változtassa a fordulatszámot az RV1-gyel, és figyelje a nyomást és az áramlást. A B1 0-10 V-ként adja a nyomást: mérje meg.
+Una bomba con VFD hace circular agua desde un depósito intermedio a través de una válvula de consumo. Cambie la velocidad con RV1 y observe la presión y el caudal. B1 da la presión en 0-10 V: mídala.
+
+#3776
+Enclenchez QF1, mettez SA1 sur marche, puis tournez RV1 : la pression croît avec le carré de la vitesse.
+Ligue QF1, gire SA1 para funcionar e depois gire RV1: a pressão cresce com o quadrado da velocidade.
+合上 QF1，把 SA1 转到运行，再旋转 RV1：压力随转速的平方增长。
+Включите QF1, поверните SA1 в положение «работа», затем вращайте RV1: давление растёт пропорционально квадрату скорости.
+Załącz QF1, przestaw SA1 na pracę, potem kręć RV1: ciśnienie rośnie z kwadratem prędkości.
+Kapcsolja be a QF1-et, fordítsa az SA1-et üzem állásba, majd forgassa az RV1-et: a nyomás a fordulatszám négyzetével nő.
+Conecte QF1, gire SA1 a marcha y luego gire RV1: la presión crece con el cuadrado de la velocidad.
+
+#3777
+Fermez V1 lentement : le débit baisse, la pression monte, le courant moteur diminue.
+Feche V1 devagar: a vazão cai, a pressão sobe, a corrente do motor diminui.
+慢慢关小 V1：流量下降，压力上升，电机电流减小。
+Медленно закрывайте V1: расход падает, давление растёт, ток двигателя снижается.
+Powoli zamykaj V1: przepływ spada, ciśnienie rośnie, prąd silnika maleje.
+Zárja el lassan a V1-et: az áramlás csökken, a nyomás nő, a motoráram csökken.
+Cierre V1 despacio: el caudal baja, la presión sube, la corriente del motor disminuye.
+
+#3778
+Mesurez B1 OUT par rapport au 0V avec le multimètre et comparez avec PT1.
+Meça B1 OUT em relação a 0V com o multímetro e compare com PT1.
+用万用表测量 B1 OUT 对 0V 的电压，并与 PT1 比较。
+Измерьте мультиметром B1 OUT относительно 0V и сравните с PT1.
+Zmierz multimetrem B1 OUT względem 0V i porównaj z PT1.
+Mérje meg multiméterrel a B1 OUT és a 0V közötti feszültséget, és hasonlítsa össze a PT1-gyel.
+Mida B1 OUT respecto a 0V con el multímetro y compárelo con PT1.
+
+#3779
+Station d'eau RO avec échangeur
+Estação de água RO com trocador de calor
+带换热器的 RO 水站
+Установка RO с теплообменником
+Stacja uzdatniania RO z wymiennikiem ciepła
+RO vízkezelő állomás hőcserélővel
+Estación de agua RO con intercambiador
+
+#3780
+L'eau de ville est réchauffée dans un échangeur à plaques, filtrée (sable + cartouche), puis une pompe haute pression alimente la membrane RO. Le perméat va dans une cuve, le concentrat à l'égout. L'automate déclenche la pompe sur basse pression d'aspiration et l'arrête quand la cuve est pleine.
+A água da rede é aquecida em um trocador de calor a placas, filtrada (areia + cartucho) e então uma bomba de alta pressão alimenta a membrana RO. O permeado vai para um tanque, o rejeito para o dreno. O CLP desarma a bomba por baixa pressão de sucção e a desliga quando o tanque está cheio.
+市政水先在板式换热器中加热，经过过滤（砂滤 + 滤芯），再由高压泵送入 RO 膜。产水进入水箱，浓水排到排水口。吸入压力低时 PLC 使水泵跳停，水箱满时停泵。
+Водопроводная вода нагревается в пластинчатом теплообменнике, фильтруется (песок + картридж), затем насос высокого давления подаёт её на мембрану RO. Пермеат идёт в бак, концентрат в слив. ПЛК аварийно отключает насос при низком давлении на всасе и останавливает его, когда бак полон.
+Woda miejska jest podgrzewana w wymienniku płytowym, filtrowana (piasek + wkład), potem pompa wysokiego ciśnienia zasila membranę RO. Permeat trafia do zbiornika, koncentrat do odpływu. PLC wyłącza awaryjnie pompę przy niskim ciśnieniu ssania i zatrzymuje ją, gdy zbiornik jest pełny.
+A városi vizet lemezes hőcserélő melegíti, majd szűrik (homok + betét), végül egy nagynyomású szivattyú táplálja az RO membránt. A permeátum tartályba, a koncentrátum a lefolyóba megy. A PLC alacsony szívónyomásnál lekapcsolja a szivattyút, és leállítja, ha a tartály tele van.
+El agua de red se calienta en un intercambiador de placas, se filtra (arena + cartucho) y luego una bomba de alta presión alimenta la membrana RO. El permeado va a un depósito y el rechazo al desagüe. El PLC dispara la bomba por baja presión de aspiración y la para cuando el depósito está lleno.
+
+#3781
+Enclenchez QM1 et F1, appuyez sur S1. Lisez le taux de conversion et le perméat sur RO1.
+Ligue QM1 e F1, pressione S1. Leia a recuperação e o permeado em RO1.
+合上 QM1 和 F1，按 S1。在 RO1 上读取回收率和产水量。
+Включите QM1 и F1, нажмите S1. Посмотрите степень извлечения и пермеат на RO1.
+Załącz QM1 i F1, naciśnij S1. Odczytaj odzysk i permeat na RO1.
+Kapcsolja be a QM1-et és az F1-et, nyomja meg az S1-et. Olvassa le a kihozatalt és a permeátumot az RO1-en.
+Conecte QM1 y F1, pulse S1. Lea la recuperación y el permeado en RO1.
+
+#3782
+Fermez V3 (eau chaude) : l'alimentation refroidit et le perméat baisse.
+Feche V3 (água quente): a alimentação esfria e o permeado cai.
+关闭 V3（热水）：进水变冷，产水量下降。
+Закройте V3 (горячая вода): питающая вода остывает, пермеат падает.
+Zamknij V3 (gorąca woda): zasilanie się ochładza i permeat spada.
+Zárja el a V3-at (melegvíz): a betáplálás lehűl, és a permeátum csökken.
+Cierre V3 (agua caliente): la alimentación se enfría y el permeado baja.
+
+#3783
+Fermez V1 (entrée) : PS1 retombe, après 3 s l'automate déclenche la pompe et allume H1. Appuyez sur S1 pour réarmer.
+Feche V1 (entrada): PS1 cai, após 3 s o CLP desarma a bomba e acende H1. Pressione S1 para rearmar.
+关闭 V1（进口）：PS1 释放，3 s 后 PLC 使水泵跳停并点亮 H1。按 S1 复位。
+Закройте V1 (вход): PS1 отпадает, через 3 с ПЛК отключает насос и зажигает H1. Нажмите S1 для сброса.
+Zamknij V1 (wlot): PS1 odpada, po 3 s PLC wyłącza pompę i zapala H1. Naciśnij S1, aby skasować.
+Zárja el a V1-et (bemenet): a PS1 elenged, 3 s után a PLC lekapcsolja a szivattyút és felgyújtja a H1-et. Nyugtázáshoz nyomja meg az S1-et.
+Cierre V1 (entrada): PS1 cae, tras 3 s el PLC dispara la bomba y enciende H1. Pulse S1 para rearmar.
+
+#3784
+Laissez tourner en accéléré (x20) : les filtres se colmatent. Faites leur contre-lavage depuis leurs propriétés.
+Deixe rodar rápido (x20): os filtros entopem. Faça a retrolavagem pelas propriedades deles.
+快速运行（x20）：过滤器会堵塞。在它们的属性中进行反洗。
+Запустите в ускоренном режиме (x20): фильтры забьются. Промойте их обратным током из их свойств.
+Puść w przyspieszeniu (x20): filtry się zatykają. Wykonaj płukanie wsteczne z ich właściwości.
+Futtassa gyorsítva (x20): a szűrők eltömődnek. Öblítse vissza őket a tulajdonságaikból.
+Déjelo correr rápido (x20): los filtros se colmatan. Haga su contralavado desde sus propiedades.
+
+#3785
+Mon projet
+Meu projeto
+我的项目
+Мой проект
+Mój projekt
+Saját projekt
+Mi proyecto
+
+#3786
+(pas de sortie)
+(sem saída)
+（无输出）
+(нет выхода)
+(brak wyjścia)
+(nincs kimenet)
+(sin salida)
+
+#3787
+Ajoutez d'abord un automate à l'armoire.
+Adicione primeiro um CLP ao painel.
+请先在电柜中添加 PLC。
+Сначала добавьте ПЛК в шкаф.
+Najpierw dodaj PLC do szafy.
+Először tegyen egy PLC-t a szekrénybe.
+Añada primero un PLC al cuadro.
+
+#3788
+Six sorties au plus par réseau.
+No máximo seis saídas por rede.
+每个程序段最多六个输出。
+Не более шести выходов на сегмент.
+Najwyżej sześć wyjść na sieć.
+Hálózatonként legfeljebb hat kimenet.
+Seis salidas como máximo por segmento.
+
+#3789
+Adresse (sortie Q0.x ou mémento M)
+Endereço (saída Q0.x ou bit de memória M)
+地址（Q0.x 输出或 M 存储位）
+Адрес (выход Q0.x или бит памяти M)
+Adres (wyjście Q0.x lub bit pamięci M)
+Cím (Q0.x kimenet vagy M memóriabit)
+Dirección (salida Q0.x o marca M)
+
+#3790
+Temporisateur (T1-T31)
+Temporizador (T1-T31)
+定时器（T1-T31）
+Таймер (T1-T31)
+Timer (T1-T31)
+Időzítő (T1-T31)
+Temporizador (T1-T31)
+
+#3791
+Temps de présélection PT (s)
+Tempo de preset PT (s)
+预设时间 PT（s）
+Уставка времени PT (с)
+Czas zadany PT (s)
+Előre beállított idő PT (s)
+Tiempo preseleccionado PT (s)
+
+#3792
+Compteur (C1-C15)
+Contador (C1-C15)
+计数器（C1-C15）
+Счётчик (C1-C15)
+Licznik (C1-C15)
+Számláló (C1-C15)
+Contador (C1-C15)
+
+#3793
+Présélection PV
+Preset PV
+预设值 PV
+Уставка PV
+Wartość zadana PV
+Előre beállított érték PV
+Valor preseleccionado PV
+
+#3794
+Bit de remise à zéro (facultatif)
+Bit de reset (opcional)
+复位位（可选）
+Бит сброса (необязательно)
+Bit resetu (opcjonalny)
+Törlőbit (opcionális)
+Bit de reset (opcional)
+
+#3795
+Convertit une valeur analogique brute 0-27648 (0-10 V) en unités physiques.
+Converte um valor analógico bruto 0-27648 (0-10 V) em unidades de engenharia.
+把原始模拟量 0-27648（0-10 V）换算成工程单位。
+Преобразует сырое аналоговое значение 0-27648 (0-10 В) в инженерные единицы.
+Przelicza surową wartość analogową 0-27648 (0-10 V) na jednostki fizyczne.
+Egy nyers analóg értéket (0-27648, 0-10 V) mérnöki egységekre vált át.
+Convierte un valor analógico bruto 0-27648 (0-10 V) en unidades de ingeniería.
+
+#3796
+Limite basse
+Limite inferior
+下限
+Нижний предел
+Dolna granica
+Alsó határ
+Límite inferior
+
+#3797
+Limite haute
+Limite superior
+上限
+Верхний предел
+Górna granica
+Felső határ
+Límite superior
+
+#3798
+Sortie
+Saída
+输出
+Выход
+Wyjście
+Kimenet
+Salida
+
+#3799
+Instruction
+Instrução
+指令
+Инструкция
+Instrukcja
+Utasítás
+Instrucción
+
+#3800
+Valeur A
+Valor A
+值 A
+Значение A
+Wartość A
+A érték
+Valor A
+
+#3801
+Comparer
+Comparar
+比较
+Сравнение
+Porównanie
+Összehasonlítás
+Comparar
+
+#3802
+Valeur B (nombre ou adresse)
+Valor B (número ou endereço)
+值 B（数字或地址）
+Значение B (число или адрес)
+Wartość B (liczba lub adres)
+B érték (szám vagy cím)
+Valor B (número o dirección)
+
+#3803
+Adresse (I, Q, M, T, C)
+Endereço (I, Q, M, T, C)
+地址（I、Q、M、T、C）
+Адрес (I, Q, M, T, C)
+Adres (I, Q, M, T, C)
+Cím (I, Q, M, T, C)
+Dirección (I, Q, M, T, C)
+
+#3804
+Front montant ┤P├
+Borda de subida ┤P├
+上升沿 ┤P├
+Передний фронт ┤P├
+Zbocze narastające ┤P├
+Felfutó él ┤P├
+Flanco ascendente ┤P├
+
+#3805
+Front descendant ┤N├
+Borda de descida ┤N├
+下降沿 ┤N├
+Задний фронт ┤N├
+Zbocze opadające ┤N├
+Lefutó él ┤N├
+Flanco descendente ┤N├
+
+#3806
+bobine
+bobina
+线圈
+катушка
+cewka
+tekercs
+bobina
+
+#3807
+mise à un
+setar
+置位
+установка
+ustawienie
+beállítás
+activar
+
+#3808
+mise à zéro
+resetar
+复位
+сброс
+kasowanie
+törlés
+desactivar
+
+#3809
+temporisation au travail
+temporizador com retardo na ligação
+接通延时定时器
+таймер с задержкой включения
+timer opóźnionego załączenia
+bekapcsolás-késleltetett időzítő
+temporizador de retardo a la conexión
+
+#3810
+temporisation au repos
+temporizador com retardo no desligamento
+断开延时定时器
+таймер с задержкой выключения
+timer opóźnionego wyłączenia
+kikapcsolás-késleltetett időzítő
+temporizador de retardo a la desconexión
+
+#3811
+temporisation d'impulsion
+temporizador de pulso
+脉冲定时器
+импульсный таймер
+timer impulsowy
+impulzusidőzítő
+temporizador de impulso
+
+#3812
+compteur croissant
+contador crescente
+加计数器
+суммирующий счётчик
+licznik w górę
+felfelé számláló
+contador ascendente
+
+#3813
+mise à l'échelle analogique
+escalonar analógico
+模拟量标定
+масштабирование аналога
+skalowanie analogowe
+analóg skálázás
+escalar analógica
+
+#3814
+copier une valeur
+mover valor
+传送值
+перенос значения
+przesłanie wartości
+érték mozgatása
+mover valor
+
+#3815
+addition
+somar
+加
+сложение
+dodawanie
+összeadás
+sumar
+
+#3816
+soustraction
+subtrair
+减
+вычитание
+odejmowanie
+kivonás
+restar
+
+#3817
+multiplication
+multiplicar
+乘
+умножение
+mnożenie
+szorzás
+multiplicar
+
+#3818
+division
+dividir
+除
+деление
+dzielenie
+osztás
+dividir
+
+#3819
+Nom (mnémonique), facultatif
+Nome (símbolo), opcional
+名称（符号），可选
+Имя (символ), необязательно
+Nazwa (symbol), opcjonalna
+Név (szimbólum), opcionális
+Nombre (símbolo), opcional
+
+#3820
+Ajouter une branche à ce bloc parallèle
+Adicionar um caminho a este bloco paralelo
+给此并联块添加一条支路
+Добавить ветвь в этот параллельный блок
+Dodaj gałąź do tego bloku równoległego
+Ág hozzáadása ehhez a párhuzamos blokkhoz
+Añadir una rama a este bloque paralelo
+
+#3821
+Supprimer le réseau
+Excluir rede
+删除程序段
+Удалить сегмент
+Usuń sieć
+Hálózat törlése
+Eliminar segmento
+
+#3822
+Commentaire du réseau
+Comentário da rede
+程序段注释
+Комментарий сегмента
+Komentarz sieci
+Hálózat megjegyzése
+Comentario del segmento
+
+#3823
+64 réseaux au maximum.
+No máximo 64 redes.
+最多 64 个程序段。
+Не более 64 сегментов.
+Najwyżej 64 sieci.
+Legfeljebb 64 hálózat.
+64 segmentos como máximo.
+
+#3824
+Chargé dans
+Carregado em
+已下载到
+Загружено в
+Załadowano do
+Letöltve ide:
+Cargado en
+
+#3825
+erreurs,
+erros,
+个错误，
+ошибок,
+błędów,
+hiba,
+errores,
+
+#3826
+avertissements. Voir le panneau Composant.
+avisos. Veja o painel Componente.
+个警告。请查看元件面板。
+предупреждений. См. панель «Компонент».
+ostrzeżeń. Zobacz panel Element.
+figyelmeztetés. Lásd az Alkatrész panelt.
+avisos. Vea el panel Componente.
+
+#3827
+: aucun problème trouvé. Le programme tourne maintenant.
+: nenhum problema encontrado. Já está rodando.
+：未发现问题。现在开始运行。
+: проблем не найдено. Программа работает.
+: nie znaleziono problemów. Program już działa.
+: nincs hiba. Most már fut.
+: no se encontraron problemas. Ya está en marcha.
+
+#3828
+Vérification :
+Verificação:
+检查：
+Проверка:
+Sprawdzenie:
+Ellenőrzés:
+Comprobación:
+
+#3829
+constats dans le panneau Composant.
+ocorrências no painel Componente.
+项发现，见元件面板。
+замечаний на панели «Компонент».
+uwag w panelu Element.
+megállapítás az Alkatrész panelen.
+hallazgos en el panel Componente.
+
+#3830
+Vérification : aucun problème trouvé.
+Verificação: nenhum problema encontrado.
+检查：未发现问题。
+Проверка: проблем не найдено.
+Sprawdzenie: nie znaleziono problemów.
+Ellenőrzés: nincs hiba.
+Comprobación: no se encontraron problemas.
+
+#3831
+Table des mnémoniques
+Tabela de símbolos
+符号表
+Таблица символов
+Tablica symboli
+Szimbólumtábla
+Tabla de símbolos
+
+#3832
+Donnez un nom aux adresses. Les noms s'affichent au-dessus de chaque contact et bobine.
+Dê um nome aos endereços. Os nomes aparecem acima de cada contato e bobina.
+给地址起名字。名称会显示在每个触点和线圈上方。
+Дайте адресам имена. Имена показываются над каждым контактом и катушкой.
+Nadaj adresom nazwy. Nazwy wyświetlają się nad każdym stykiem i cewką.
+Adjon nevet a címeknek. A nevek minden érintkező és tekercs fölött megjelennek.
+Dé un nombre a las direcciones. Los nombres aparecen encima de cada contacto y bobina.
+
+#3833
+Ajouter
+Adicionar
+添加
+Добавить
+Dodaj
+Hozzáadás
+Añadir
+
+#3834
+Adresse non valide.
+Endereço inválido.
+不是有效地址。
+Недопустимый адрес.
+Nieprawidłowy adres.
+Érvénytelen cím.
+Dirección no válida.
+
+#3835
+Pas d'automate
+Sem CLP
+无 PLC
+Нет ПЛК
+Brak PLC
+Nincs PLC
+Sin PLC
+
+#3836
+Ajoutez un automate à l'armoire pour écrire un programme en langage à contacts.
+Adicione um CLP ao painel para escrever um programa Ladder.
+在电柜中添加 PLC 才能编写梯形图程序。
+Добавьте ПЛК в шкаф, чтобы написать программу LAD.
+Dodaj PLC do szafy, aby napisać program LAD.
+Tegyen PLC-t a szekrénybe, hogy LAD programot írhasson.
+Añada un PLC al cuadro para escribir un programa Ladder.
+
+#3837
+Vérification du programme
+Verificação do programa
+程序检查
+Проверка программы
+Sprawdzenie programu
+Programellenőrzés
+Comprobación del programa
+
+#3838
+Aucun problème trouvé.
+Nenhum problema encontrado.
+未发现问题。
+Проблем не найдено.
+Nie znaleziono problemów.
+Nincs hiba.
+No se encontraron problemas.
+
+#3839
+Table de visualisation
+Tabela de monitoração
+监控表
+Таблица наблюдения
+Tablica obserwacji
+Figyelőtábla
+Tabla de observación
+
+#3840
+Valeurs en direct de l'automate. Touchez un bit M pour le changer (modifier).
+Valores ao vivo do CLP. Toque em um bit M para alterá-lo (modificar).
+来自 PLC 的实时值。点击 M 位即可修改（modify）。
+Текущие значения из ПЛК. Нажмите на бит M, чтобы изменить его (modify).
+Wartości na żywo z PLC. Dotknij bitu M, aby go zmienić (modyfikacja).
+Élő értékek a PLC-ből. Érintsen meg egy M bitet a módosításhoz (modify).
+Valores en vivo del PLC. Toque un bit M para cambiarlo (modificar).
+
+#3841
+Alimentation 24 V
+Alimentação 24 V
+24 V 电源
+Питание 24 В
+Zasilanie 24 V
+24 V táp
+Alimentación 24 V
+
+#3842
+PAS DE TENSION
+SEM ENERGIA
+无电源
+НЕТ ПИТАНИЯ
+BRAK ZASILANIA
+NINCS TÁP
+SIN TENSIÓN
+
+#3843
+Erreurs dans le cycle
+Erros no ciclo
+扫描中的错误
+Ошибки в цикле
+Błędy w cyklu
+Hibák a ciklusban
+Errores en el ciclo
+
+#3844
+Pas encore d'adresses.
+Ainda não há endereços.
+还没有地址。
+Адресов пока нет.
+Brak adresów.
+Még nincs cím.
+Aún no hay direcciones.
+
+#3845
+Pas d'automate dans l'armoire
+Nenhum CLP no painel
+电柜中没有 PLC
+В шкафу нет ПЛК
+Brak PLC w szafie
+Nincs PLC a szekrényben
+No hay PLC en el cuadro
+
+#3846
+Les programmes en langage à contacts tournent dans un automate. Ajoutez-en un, câblez ses entrées et sorties, puis revenez ici.
+Programas Ladder rodam em um CLP. Adicione um, ligue as entradas e saídas e depois volte aqui.
+梯形图程序在 PLC 中运行。先添加一台 PLC，接好输入和输出，再回到这里。
+Программы LAD выполняются в ПЛК. Добавьте его, подключите входы и выходы и вернитесь сюда.
+Programy LAD działają w PLC. Dodaj sterownik, podłącz jego wejścia i wyjścia, potem wróć tutaj.
+A LAD programok PLC-ben futnak. Tegyen be egyet, kösse be a be- és kimeneteit, majd jöjjön vissza ide.
+Los programas Ladder se ejecutan en un PLC. Añada uno, cablee sus entradas y salidas y vuelva aquí.
+
+#3847
+Ajouter un automate à relais
+Adicionar um CLP a relé
+添加继电器输出 PLC
+Добавить ПЛК с релейными выходами
+Dodaj PLC przekaźnikowy
+Relés PLC hozzáadása
+Añadir un PLC de relés
+
+#3848
+Ouvrir un projet prêt
+Abrir um projeto pronto
+打开现成项目
+Открыть готовый проект
+Otwórz gotowy projekt
+Kész projekt megnyitása
+Abrir un proyecto listo
+
+#3849
+NON CHARGÉ
+NÃO CARREGADO
+未下载
+НЕ ЗАГРУЖЕНО
+NIE ZAŁADOWANO
+NINCS LETÖLTVE
+NO CARGADO
+
+#3850
+Charger dans l'automate
+Carregar no CLP
+下载到 PLC
+Загрузить в ПЛК
+Załaduj do PLC
+Letöltés a PLC-be
+Cargar en el PLC
+
+#3851
+Réseau
+Rede
+程序段
+Сегмент
+Sieć
+Hálózat
+Segmento
+
+#3852
+Mnémoniques
+Símbolos
+符号
+Символы
+Symbole
+Szimbólumok
+Símbolos
+
+#3853
+Vérifier le programme
+Verificar programa
+检查程序
+Проверить программу
+Sprawdź program
+Program ellenőrzése
+Comprobar programa
+
+#3854
+Cet automate exécute un programme texte
+Este CLP roda um programa em texto
+该 PLC 运行的是文本程序
+Этот ПЛК выполняет текстовую программу
+Ten PLC wykonuje program tekstowy
+Ez a PLC szöveges programot futtat
+Este PLC ejecuta un programa de texto
+
+#3855
+Commencez un programme en langage à contacts. Le programme texte reste enregistré et vous pouvez y revenir depuis les propriétés de l'automate.
+Comece um programa Ladder. O programa em texto continua salvo e você pode voltar a ele pelas propriedades do CLP.
+新建梯形图程序。文本程序仍会保存，可以从 PLC 属性中切换回去。
+Начните программу LAD. Текстовая программа останется сохранённой, к ней можно вернуться в свойствах ПЛК.
+Rozpocznij program LAD. Program tekstowy zostaje zapisany i możesz do niego wrócić we właściwościach PLC.
+Kezdjen egy LAD programot. A szöveges program mentve marad, és a PLC tulajdonságaiból visszatérhet hozzá.
+Empiece un programa Ladder. El programa de texto queda guardado y puede volver a él desde las propiedades del PLC.
+
+#3856
+Commencer un programme en langage à contacts
+Começar um programa Ladder
+新建梯形图程序
+Начать программу LAD
+Rozpocznij program LAD
+Új LAD program
+Empezar un programa Ladder
+
+#3857
+Modifié hors ligne. Appuyez sur "Charger dans l'automate" pour exécuter les modifications et voir les valeurs en direct.
+Editado offline. Pressione "Carregar no CLP" para executar as alterações e ver os valores ao vivo.
+已离线编辑。按"下载到 PLC"以运行修改并查看实时值。
+Изменено офлайн. Нажмите «Загрузить в ПЛК», чтобы запустить изменения и увидеть текущие значения.
+Edytowano offline. Naciśnij "Załaduj do PLC", aby uruchomić zmiany i zobaczyć wartości na żywo.
+Offline szerkesztve. Nyomja meg a "Letöltés a PLC-be" gombot a módosítások futtatásához és az élő értékekhez.
+Editado sin conexión. Pulse "Cargar en el PLC" para ejecutar los cambios y ver los valores en vivo.
+
+#3858
+Réseau
+Rede
+程序段
+Сегмент
+Sieć
+Hálózat
+Segmento
+
+#3859
+(ajouter un commentaire)
+(adicionar um comentário)
+（添加注释）
+(добавьте комментарий)
+(dodaj komentarz)
+(megjegyzés hozzáadása)
+(añadir un comentario)
+
+#3860
+Programme vide. Appuyez sur + Réseau.
+Programa vazio. Pressione + Rede.
+空程序。请按 + 程序段。
+Пустая программа. Нажмите + Сегмент.
+Pusty program. Naciśnij + Sieć.
+Üres program. Nyomja meg a + Hálózat gombot.
+Programa vacío. Pulse + Segmento.
+
+#3861
+Ajouter un réseau
+Adicionar rede
+添加程序段
+Добавить сегмент
+Dodaj sieć
+Hálózat hozzáadása
+Añadir segmento
+
+#3862
+Modifier
+Editar
+编辑
+Изменить
+Edytuj
+Szerkesztés
+Editar
+
+#3863
+Contact après
+Contato depois
+后接触点
+Контакт после
+Styk za
+Érintkező utána
+Contacto después
+
+#3864
+Branche parallèle
+Ramo paralelo
+并联支路
+Параллельная ветвь
+Gałąź równoległa
+Párhuzamos ág
+Rama paralela
+
+#3865
+Touchez un contact ou une bobine pour le sélectionner, touchez encore pour le modifier. Ajoutez des instructions depuis la liste Composants.
+Toque em um contato ou bobina para selecioná-lo, toque de novo para editar. Adicione instruções pela lista Componentes.
+点击触点或线圈选中它，再点一次进行编辑。从元件库列表添加指令。
+Нажмите на контакт или катушку, чтобы выбрать, нажмите ещё раз, чтобы изменить. Добавляйте инструкции из списка «Компоненты».
+Dotknij styku lub cewki, aby go zaznaczyć, dotknij ponownie, aby edytować. Dodawaj instrukcje z listy Elementy.
+Érintsen meg egy érintkezőt vagy tekercset a kijelöléshez, érintse meg újra a szerkesztéshez. Utasításokat az Alkatrészek listából adhat hozzá.
+Toque un contacto o bobina para seleccionarlo, vuelva a tocar para editarlo. Añada instrucciones desde la lista Componentes.
+
+#3866
+Pourquoi est-il à OFF ?
+Por que está em OFF?
+为什么是 OFF？
+Почему OFF?
+Dlaczego jest OFF?
+Miért OFF?
+¿Por qué está en OFF?
+
+#3867
+Contacts et comparaison
+Contatos e comparação
+触点和比较
+Контакты и сравнение
+Styki i porównanie
+Érintkezők és összehasonlítás
+Contactos y comparación
+
+#3868
+Bobines et boîtes
+Bobinas e blocos
+线圈和功能框
+Катушки и блоки
+Cewki i bloki
+Tekercsek és blokkok
+Bobinas y bloques
+
+#3869
+Pas encore de procédé
+Ainda não há processo
+还没有工艺
+Процесса пока нет
+Brak procesu
+Még nincs folyamat
+Aún no hay proceso
+
+#3870
+Ajoutez une cuve, une pompe et des vannes, puis reliez leurs piquages par des tuyaux. Liez la pompe à un moteur de l'armoire et les capteurs aux flotteurs et transmetteurs.
+Adicione um tanque, uma bomba e válvulas e depois ligue as conexões com tubos. Vincule a bomba a um motor do painel e os sensores a boias e transmissores.
+添加储罐、水泵和阀门，然后用管道连接它们的接口。把水泵关联到电柜上的电机，把传感器关联到浮球开关和变送器。
+Добавьте бак, насос и клапаны, затем соедините их патрубки трубами. Свяжите насос с двигателем в шкафу, а датчики — с поплавковыми выключателями и преобразователями.
+Dodaj zbiornik, pompę i zawory, potem połącz ich króćce rurami. Powiąż pompę z silnikiem w szafie, a czujniki z pływakami i przetwornikami.
+Tegyen be tartályt, szivattyút és szelepeket, majd kösse össze a csonkjaikat csövekkel. Kapcsolja a szivattyút a szekrény egyik motorjához, az érzékelőket pedig úszókhoz és távadókhoz.
+Añada un depósito, una bomba y válvulas y luego una sus bocas con tuberías. Vincule la bomba a un motor del cuadro y los sensores a flotadores y transmisores.
+
+#3871
+Ajouter un équipement
+Adicionar um equipamento
+添加设备
+Добавить узел
+Dodaj urządzenie
+Egység hozzáadása
+Añadir un equipo
+
+#3872
+Touchez un autre piquage pour poser le tuyau
+Toque em outra conexão para instalar o tubo
+点击另一个接口来铺设管道
+Нажмите на другой патрубок, чтобы проложить трубу
+Dotknij innego króćca, aby ułożyć rurę
+Érintsen meg egy másik csonkot a cső lefektetéséhez
+Toque otra boca para tender la tubería
+
+#3873
+Un tuyau doit relier deux équipements différents.
+Um tubo precisa de dois equipamentos diferentes.
+一根管道需要连接两个不同的设备。
+Труба должна соединять два разных узла.
+Rura wymaga dwóch różnych urządzeń.
+Egy csőhöz két különböző egység kell.
+Una tubería necesita dos equipos distintos.
+
+#3874
+Tuyau posé :
+Tubo instalado:
+已铺设管道：
+Труба проложена:
+Rura ułożona:
+Cső lefektetve:
+Tubería tendida:
+
+#3875
+ouverture
+abrindo
+正在打开
+открывается
+otwieranie
+nyit
+abriendo
+
+#3876
+fermeture
+fechando
+正在关闭
+закрывается
+zamykanie
+zár
+cerrando
+
+#3877
+Ajouté :
+Adicionado:
+已添加：
+Добавлено:
+Dodano:
+Hozzáadva:
+Añadido:
+
+#3878
+Faites-le glisser en place, puis touchez un piquage pour poser un tuyau.
+Arraste até o lugar e depois toque em uma conexão para instalar um tubo.
+把它拖到位置上，然后点击接口铺设管道。
+Перетащите его на место, затем нажмите на патрубок, чтобы проложить трубу.
+Przeciągnij go na miejsce, potem dotknij króćca, aby ułożyć rurę.
+Húzza a helyére, majd érintsen meg egy csonkot a cső lefektetéséhez.
+Arrástrelo a su sitio y luego toque una boca para tender una tubería.
+
+#3879
+Ajouter un équipement de procédé
+Adicionar um equipamento de processo
+添加工艺设备
+Добавить технологический узел
+Dodaj urządzenie procesowe
+Technológiai egység hozzáadása
+Añadir un equipo de proceso
+
+#3880
+Équipements de procédé
+Equipamentos de processo
+工艺设备
+Технологические узлы
+Urządzenia procesowe
+Technológiai egységek
+Equipos de proceso
+
+#3881
+(non lié)
+(não vinculado)
+（未关联）
+(не связан)
+(niepowiązany)
+(nincs kapcsolva)
+(no vinculado)
+
+#3882
+absent de l'armoire
+não está no painel
+不在电柜中
+нет в шкафу
+brak w szafie
+nincs a szekrényben
+no está en el cuadro
+
+#3883
+Pression (bar)
+Pressão (bar)
+压力（bar）
+Давление (бар)
+Ciśnienie (bar)
+Nyomás (bar)
+Presión (bar)
+
+#3884
+Température (°C)
+Temperatura (°C)
+温度（°C）
+Температура (°C)
+Temperatura (°C)
+Hőmérséklet (°C)
+Temperatura (°C)
+
+#3885
+Volume (L)
+Volume (L)
+容积（L）
+Объём (л)
+Objętość (L)
+Térfogat (L)
+Volumen (L)
+
+#3886
+Hauteur (m)
+Altura (m)
+高度（m）
+Высота (м)
+Wysokość (m)
+Magasság (m)
+Altura (m)
+
+#3887
+Niveau initial (%)
+Nível inicial (%)
+初始液位（%）
+Начальный уровень (%)
+Poziom początkowy (%)
+Kezdeti szint (%)
+Nivel inicial (%)
+
+#3888
+Température initiale (°C)
+Temperatura inicial (°C)
+初始温度（°C）
+Начальная температура (°C)
+Temperatura początkowa (°C)
+Kezdeti hőmérséklet (°C)
+Temperatura inicial (°C)
+
+#3889
+Transmetteur de niveau (armoire)
+Transmissor de nível (painel)
+液位变送器（电柜）
+Датчик уровня (шкаф)
+Przetwornik poziomu (szafa)
+Szinttávadó (szekrény)
+Transmisor de nivel (cuadro)
+
+#3890
+Sonde de température (armoire)
+Sensor de temperatura (painel)
+温度传感器（电柜）
+Датчик температуры (шкаф)
+Czujnik temperatury (szafa)
+Hőmérséklet-érzékelő (szekrény)
+Sensor de temperatura (cuadro)
+
+#3891
+Réchauffeur (armoire)
+Aquecedor (painel)
+加热器（电柜）
+Нагреватель (шкаф)
+Grzałka (szafa)
+Fűtőbetét (szekrény)
+Calentador (cuadro)
+
+#3892
+Moteur (armoire)
+Motor (painel)
+电机（电柜）
+Двигатель (шкаф)
+Silnik (szafa)
+Motor (szekrény)
+Motor (cuadro)
+
+#3893
+Hauteur max. (m)
+Altura máx. (m)
+最大扬程（m）
+Макс. напор (м)
+Maks. wysokość podnoszenia (m)
+Max. emelőmagasság (m)
+Altura máx. (m)
+
+#3894
+Débit max. (L/min)
+Vazão máx. (L/min)
+最大流量（L/min）
+Макс. расход (л/мин)
+Maks. przepływ (L/min)
+Max. áramlás (L/min)
+Caudal máx. (L/min)
+
+#3895
+Miroir
+Espelhar
+镜像
+Отразить
+Odbij lustrzanie
+Tükrözés
+Reflejar
+
+#3896
+Taille (L/min à 1 bar)
+Tamanho (L/min a 1 bar)
+规格（1 bar 下 L/min）
+Размер (л/мин при 1 бар)
+Rozmiar (L/min przy 1 bar)
+Méret (L/min 1 bar-on)
+Tamaño (L/min a 1 bar)
+
+#3897
+Bobine (armoire)
+Solenoide (painel)
+电磁线圈（电柜）
+Катушка (шкаф)
+Cewka (szafa)
+Mágnestekercs (szekrény)
+Solenoide (cuadro)
+
+#3898
+Saleté dans l'eau (x)
+Sujeira na água (x)
+水中污物（x）
+Загрязнённость воды (x)
+Zanieczyszczenie wody (x)
+Szennyeződés a vízben (x)
+Suciedad del agua (x)
+
+#3899
+Ouverture vanne de concentrat (%)
+Abertura da válvula de rejeito (%)
+浓水阀开度（%）
+Открытие клапана концентрата (%)
+Otwarcie zaworu koncentratu (%)
+Koncentrátumszelep nyitása (%)
+Apertura de la válvula de rechazo (%)
+
+#3900
+Conductivité d'alimentation (µS/cm)
+Condutividade da alimentação (µS/cm)
+进水电导率（µS/cm）
+Электропроводность питающей воды (мкСм/см)
+Przewodność zasilania (µS/cm)
+Betáplálás vezetőképessége (µS/cm)
+Conductividad de alimentación (µS/cm)
+
+#3901
+Efficacité (0-1)
+Efetividade (0-1)
+效能（0-1）
+Эффективность (0-1)
+Skuteczność (0-1)
+Hatásosság (0-1)
+Efectividad (0-1)
+
+#3902
+Transmetteur (armoire)
+Transmissor (painel)
+变送器（电柜）
+Преобразователь (шкаф)
+Przetwornik (szafa)
+Távadó (szekrény)
+Transmisor (cuadro)
+
+#3903
+Plage (pleine échelle)
+Faixa (fundo de escala)
+量程（满量程）
+Диапазон (полная шкала)
+Zakres (pełna skala)
+Méréshatár (végkitérés)
+Rango (fondo de escala)
+
+#3904
+Interrupteur (armoire)
+Chave (painel)
+开关（电柜）
+Выключатель (шкаф)
+Łącznik (szafa)
+Kapcsoló (szekrény)
+Interruptor (cuadro)
+
+#3905
+Consigne
+Set point
+设定值
+Уставка
+Nastawa
+Alapjel
+Consigna
+
+#3906
+Débit
+Vazão
+流量
+Расход
+Przepływ
+Áramlás
+Caudal
+
+#3907
+Supprimer le tuyau
+Excluir tubo
+删除管道
+Удалить трубу
+Usuń rurę
+Cső törlése
+Eliminar tubería
+
+#3908
+Procédé (installation)
+Processo (planta)
+工艺（装置）
+Процесс (установка)
+Proces (instalacja)
+Folyamat (technológia)
+Proceso (planta)
+
+#3909
+Mode Construction : faites glisser les équipements, touchez un piquage puis un autre pour poser un tuyau. Mode Test : touchez les vannes pour les ouvrir ou les fermer. Les équipements suivent l'armoire : une pompe ne tourne que si son moteur lié tourne.
+Modo Montagem: arraste os equipamentos, toque em uma conexão e depois em outra para instalar um tubo. Modo Teste: toque nas válvulas para abrir ou fechar. Os equipamentos funcionam pelo painel: uma bomba só gira quando o motor vinculado gira.
+搭建模式：拖动设备，点击一个接口再点击另一个接口来铺设管道。测试模式：点击阀门来打开或关闭。设备由电柜驱动：只有关联的电机转动时水泵才会转。
+Режим сборки: перетаскивайте узлы, нажмите на один патрубок, затем на другой, чтобы проложить трубу. Режим теста: нажимайте на клапаны, чтобы открыть или закрыть их. Узлы управляются из шкафа: насос вращается, только когда вращается связанный с ним двигатель.
+Tryb budowy: przeciągaj urządzenia, dotknij króćca, a potem drugiego, aby ułożyć rurę. Tryb testu: dotykaj zaworów, aby je otworzyć lub zamknąć. Urządzenia działają z szafy: pompa obraca się tylko wtedy, gdy obraca się powiązany silnik.
+Építés mód: húzza az egységeket, érintsen meg egy csonkot, majd egy másikat a cső lefektetéséhez. Teszt mód: érintse meg a szelepeket a nyitáshoz vagy záráshoz. Az egységek a szekrényről működnek: a szivattyú csak akkor forog, ha a kapcsolt motorja forog.
+Modo Montaje: arrastre los equipos, toque una boca y luego otra para tender una tubería. Modo Prueba: toque las válvulas para abrirlas o cerrarlas. Los equipos funcionan desde el cuadro: una bomba solo gira cuando gira su motor vinculado.
+
+#3910
+Fermer la vanne
+Fechar válvula
+关闭阀门
+Закрыть клапан
+Zamknij zawór
+Szelep zárása
+Cerrar válvula
+
+#3911
+Ouvrir la vanne
+Abrir válvula
+打开阀门
+Открыть клапан
+Otwórz zawór
+Szelep nyitása
+Abrir válvula
+
+#3912
+cartouche neuve posée
+cartucho novo instalado
+已装上新滤芯
+установлен новый картридж
+założono nowy wkład
+új betét behelyezve
+cartucho nuevo colocado
+
+#3913
+contre-lavé, de nouveau propre
+retrolavado, limpo de novo
+已反洗，恢复干净
+промыт обратным током, снова чистый
+wypłukany wstecznie, znów czysty
+visszaöblítve, újra tiszta
+contralavado, limpio de nuevo
+
+#3914
+Changer la cartouche
+Trocar cartucho
+更换滤芯
+Заменить картридж
+Wymień wkład
+Betétcsere
+Cambiar cartucho
+
+#3915
+Contre-lavage
+Retrolavagem
+反洗
+Обратная промывка
+Płukanie wsteczne
+Visszaöblítés
+Contralavado
+
+#3916
+Réinitialiser le niveau
+Redefinir nível
+重置液位
+Сбросить уровень
+Resetuj poziom
+Szint visszaállítása
+Restablecer nivel
+
+#3917
+Vider
+Esvaziar
+排空
+Опорожнить
+Opróżnij
+Leürítés
+Vaciar
+
+#3918
+Propriétés et liaisons
+Propriedades e vínculos
+属性和关联
+Свойства и связи
+Właściwości i powiązania
+Tulajdonságok és kapcsolatok
+Propiedades y vínculos
+
+#3919
+Sable / multicouche
+Areia / multimídia
+砂 / 多介质
+Песок / многослойный
+Piasek / wielowarstwowy
+Homok / többrétegű
+Arena / multimedia
+
+#3920
+Cartouche 5 µm
+Cartucho 5 µm
+滤芯 5 µm
+Картридж 5 мкм
+Wkład 5 µm
+Betét 5 µm
+Cartucho 5 µm
+
+#3921
+Interrupteurs de niveau (flotteurs)
+Chaves de nível (boias)
+液位开关（浮球）
+Реле уровня (поплавки)
+Łączniki poziomu (pływaki)
+Szintkapcsolók (úszók)
+Interruptores de nivel (flotadores)
+
+#3922
+Un flotteur bascule quand l'eau est au-dessus de son niveau. Liez-le à un interrupteur à flotteur de l'armoire pour que l'armoire et l'automate le voient.
+Uma boia atua quando a água está acima do nível dela. Vincule-a a uma chave de nível no painel para que o painel e o CLP a vejam.
+水位高于浮球所在高度时浮球动作。把它关联到电柜上的浮球开关，这样电柜和 PLC 才能检测到。
+Поплавок срабатывает, когда вода выше его уровня. Свяжите его с поплавковым выключателем в шкафу, чтобы его видели шкаф и ПЛК.
+Pływak zadziała, gdy woda jest powyżej jego poziomu. Powiąż go z łącznikiem pływakowym w szafie, aby szafa i PLC go widziały.
+Az úszó akkor kapcsol, ha a víz a szintje fölött van. Kapcsolja a szekrény egyik úszókapcsolójához, hogy a szekrény és a PLC is lássa.
+Un flotador actúa cuando el agua está por encima de su nivel. Vincúlelo a un interruptor de flotador del cuadro para que el cuadro y el PLC lo vean.
+
+#3923
+Vérification du procédé
+Verificação do processo
+工艺检查
+Проверка процесса
+Sprawdzenie procesu
+Folyamat-ellenőrzés
+Comprobación del proceso
+
+#3924
+Vide.
+Vazio.
+空。
+Пусто.
+Pusto.
+Üres.
+Vacío.
+
+#3925
+Niveau
+Nível
+液位
+Уровень
+Poziom
+Szint
+Nivel
+
+#3926
+Volume
+Volume
+体积
+Объём
+Objętość
+Térfogat
+Volumen
+
+#3927
+Débit net entrant
+Vazão líquida de entrada
+净流入量
+Чистый приток
+Dopływ netto
+Nettó beáramlás
+Caudal neto de entrada
+
+#3928
+Température
+Temperatura
+温度
+Температура
+Temperatura
+Hőmérséklet
+Temperatura
+
+#3929
+Réchauffeur
+Aquecedor
+加热器
+Нагреватель
+Grzałka
+Fűtőbetét
+Calentador
+
+#3930
+Vitesse
+Velocidade
+转速
+Скорость
+Prędkość
+Fordulatszám
+Velocidad
+
+#3931
+Hausse de pression
+Aumento de pressão
+升压
+Прирост давления
+Przyrost ciśnienia
+Nyomásnövekedés
+Aumento de presión
+
+#3932
+Aspiration
+Sucção
+吸入
+Всас
+Ssanie
+Szívóoldal
+Aspiración
+
+#3933
+Refoulement
+Recalque
+出口
+Нагнетание
+Tłoczenie
+Nyomóoldal
+Impulsión
+
+#3934
+Ouverture
+Abertura
+开度
+Открытие
+Otwarcie
+Nyitás
+Apertura
+
+#3935
+Pression
+Pressão
+压力
+Давление
+Ciśnienie
+Nyomás
+Presión
+
+#3936
+Perte de charge
+Perda de carga
+压差
+Перепад давления
+Spadek ciśnienia
+Nyomásesés
+Pérdida de carga
+
+#3937
+Encrassement
+Carga de sujeira
+污物负荷
+Загрязнение
+Zanieczyszczenie
+Szennyezettség
+Carga de suciedad
+
+#3938
+Pression d'alimentation
+Pressão de alimentação
+进水压力
+Давление питания
+Ciśnienie zasilania
+Betáplálási nyomás
+Presión de alimentación
+
+#3939
+Perméat
+Permeado
+产水
+Пермеат
+Permeat
+Permeátum
+Permeado
+
+#3940
+Concentrat
+Rejeito
+浓水
+Концентрат
+Koncentrat
+Koncentrátum
+Rechazo
+
+#3941
+Taux de conversion
+Recuperação
+回收率
+Степень извлечения
+Odzysk
+Kihozatal
+Recuperación
+
+#3942
+Qualité du perméat
+Qualidade do permeado
+产水水质
+Качество пермеата
+Jakość permeatu
+Permeátum minősége
+Calidad del permeado
+
+#3943
+Température d'alimentation
+Temperatura de alimentação
+进水温度
+Температура питающей воды
+Temperatura zasilania
+Betáplálási hőmérséklet
+Temperatura de alimentación
+
+#3944
+Côté chaud
+Lado quente
+热侧
+Горячая сторона
+Strona gorąca
+Meleg oldal
+Lado caliente
+
+#3945
+Côté froid
+Lado frio
+冷侧
+Холодная сторона
+Strona zimna
+Hideg oldal
+Lado frío
+
+#3946
+Total
+Total
+累计
+Всего
+Suma
+Összesen
+Total
+
+#3947
+Armoire
+Painel
+电柜
+Шкаф
+Szafa
+Szekrény
+Cuadro
+
+#3948
+Process
+Planta
+工艺
+Установка
+Instalacja
+Technológia
+Planta
+
+#3949
+Ladder
+Ladder
+梯形图
+Схема LAD
+LAD
+LAD
+Ladder
+
+#3950
+Non enregistré : le stockage du navigateur est plein. Téléchargez plutôt le projet sous forme de fichier.
+Não salvo: o armazenamento do navegador está cheio. Baixe o projeto como arquivo.
+未保存：浏览器存储已满。请改为将项目下载为文件。
+Не сохранено: хранилище браузера заполнено. Скачайте проект в виде файла.
+Nie zapisano: pamięć przeglądarki jest pełna. Zamiast tego pobierz projekt jako plik.
+Nincs mentve: a böngésző tárhelye megtelt. Töltse le inkább a projektet fájlként.
+No guardado: el almacenamiento del navegador está lleno. Descargue el proyecto como archivo.
+
+#3951
+Remplacer ce qui est sur la paillasse ? (Enregistrez-le d'abord comme projet si vous en avez besoin.)
+Substituir o que está na bancada agora? (Salve como projeto antes, se precisar.)
+替换工作台上现有的内容？（如果还需要，请先保存为项目。）
+Заменить то, что сейчас на стенде? (Если нужно, сначала сохраните это как проект.)
+Zastąpić to, co jest teraz na stanowisku? (Jeśli tego potrzebujesz, najpierw zapisz jako projekt.)
+Lecseréli, ami most a munkapadon van? (Ha kell, előbb mentse projektként.)
+¿Reemplazar lo que hay ahora en el banco? (Guárdelo antes como proyecto si lo necesita.)
+
+#3952
+Projet vide : ajoutez des composants dans l'armoire, des équipements dans le procédé et un programme en langage à contacts.
+Projeto vazio: adicione componentes no painel, equipamentos na planta e um programa Ladder.
+空项目：在电柜中添加元件，在工艺中添加设备，并编写梯形图程序。
+Пустой проект: добавьте компоненты в шкаф, узлы в установку и программу LAD.
+Pusty projekt: dodaj elementy w szafie, urządzenia w instalacji i program LAD.
+Üres projekt: tegyen alkatrészeket a szekrénybe, egységeket a technológiába, és írjon LAD programot.
+Proyecto vacío: añada componentes en el cuadro, equipos en la planta y un programa Ladder.
+
+#3953
+Trop volumineux pour le navigateur. Utilisez Télécharger.
+Grande demais para guardar no navegador. Use Baixar.
+太大，无法保存在浏览器中。请使用"下载"。
+Слишком большой для хранения в браузере. Используйте «Скачать».
+Za duży, by przechować w przeglądarce. Użyj Pobierz.
+Túl nagy a böngészőben tároláshoz. Használja a Letöltést.
+Demasiado grande para guardarlo en el navegador. Use Descargar.
+
+#3954
+Vous pouvez garder
+Você pode manter
+最多可保存
+Можно хранить
+Możesz przechowywać
+Legfeljebb
+Puede guardar
+
+#3955
+projets. Supprimez-en un d'abord.
+projetos. Exclua um antes.
+个项目。请先删除一个。
+проектов. Сначала удалите один.
+projektów. Najpierw usuń jeden.
+projektet tárolhat. Előbb töröljön egyet.
+proyectos. Elimine uno primero.
+
+#3956
+Enregistré :
+Salvo:
+已保存：
+Сохранено:
+Zapisano:
+Mentve:
+Guardado:
+
+#3957
+Projets
+Projetos
+项目
+Проекты
+Projekty
+Projektek
+Proyectos
+
+#3958
+Construisez un système complet et faites-le tourner : câblez l'armoire, implantez le procédé avec cuves, pompes, vannes et tuyaux, et programmez l'automate en langage à contacts. Ensuite mesurez, provoquez une panne et trouvez le défaut.
+Monte um sistema completo e coloque para funcionar: ligue o painel, monte o processo com tanques, bombas, válvulas e tubos e programe o CLP em Ladder. Depois meça, provoque uma falha e encontre o defeito.
+搭建并运行一个完整系统：给电柜接线，用储罐、水泵、阀门和管道布置工艺，再用梯形图给 PLC 编程。然后测量、制造故障并把故障找出来。
+Соберите и запустите целую систему: смонтируйте шкаф, проложите процесс с баками, насосами, клапанами и трубами и запрограммируйте ПЛК на LAD. Затем измеряйте, создайте неисправность и найдите её.
+Zbuduj cały system i uruchom go: okabluj szafę, rozplanuj proces ze zbiornikami, pompami, zaworami i rurami, i zaprogramuj PLC w LAD. Potem mierz, psuj i znajdź usterkę.
+Építsen meg egy teljes rendszert, és működtesse: huzalozza be a szekrényt, rendezze el a folyamatot tartályokkal, szivattyúkkal, szelepekkel és csövekkel, és programozza a PLC-t LAD nyelven. Aztán mérjen, rontson el valamit, és keresse meg a hibát.
+Monte un sistema completo y póngalo en marcha: cablee el cuadro, distribuya el proceso con depósitos, bombas, válvulas y tuberías, y programe el PLC en Ladder. Luego mida, provoque una avería y encuentre el fallo.
+
+#3959
+Commencer un projet vide
+Começar um projeto vazio
+新建空项目
+Начать пустой проект
+Rozpocznij pusty projekt
+Üres projekt indítása
+Empezar un proyecto vacío
+
+#3960
+Aller à la paillasse
+Ir para a bancada
+前往工作台
+Перейти к стенду
+Przejdź do stanowiska
+Ugrás a munkapadhoz
+Ir al banco
+
+#3961
+Projets prêts
+Projetos prontos
+现成项目
+Готовые проекты
+Gotowe projekty
+Kész projektek
+Proyectos listos
+
+#3962
+À essayer
+O que testar
+可以尝试
+Что попробовать
+Co wypróbować
+Mit próbáljon ki
+Qué probar
+
+#3963
+Ouvrir l'armoire
+Abrir o painel
+打开电柜
+Открыть шкаф
+Otwórz szafę
+Szekrény megnyitása
+Abrir el cuadro
+
+#3964
+Ouvrir le Ladder
+Abrir o Ladder
+打开梯形图
+Открыть LAD
+Otwórz LAD
+LAD megnyitása
+Abrir el Ladder
+
+#3965
+Mes projets (enregistrés sur cet appareil)
+Meus projetos (salvos neste dispositivo)
+我的项目（保存在此设备上）
+Мои проекты (сохранены на этом устройстве)
+Moje projekty (zapisane na tym urządzeniu)
+Saját projektek (ezen az eszközön mentve)
+Mis proyectos (guardados en este dispositivo)
+
+#3966
+Nom du projet
+Nome do projeto
+项目名称
+Имя проекта
+Nazwa projektu
+Projekt neve
+Nombre del proyecto
+
+#3967
+Enregistrez sous un nom ce qui est sur la paillasse (armoire, procédé et ladder). Téléchargez-le pour garder une copie ou l'envoyer à un collègue.
+Salve com um nome o que está na bancada agora (painel, planta e Ladder). Baixe para guardar uma cópia ou enviar a um colega.
+把工作台上现有的内容（电柜、工艺和梯形图）以一个名称保存。下载它可以留一份副本或发给同事。
+Сохраните под именем то, что сейчас на стенде (шкаф, установка и LAD). Скачайте, чтобы оставить копию или отправить коллеге.
+Zapisz pod nazwą to, co jest teraz na stanowisku (szafa, instalacja i LAD). Pobierz, aby mieć kopię lub wysłać koledze.
+Mentse el egy néven, ami most a munkapadon van (szekrény, technológia és LAD). Töltse le, hogy legyen másolata, vagy elküldhesse egy kollégának.
+Guarde con un nombre lo que hay ahora en el banco (cuadro, planta y Ladder). Descárguelo para tener una copia o enviarlo a un compañero.
+
+#3968
+Enregistrer la paillasse comme projet
+Salvar a bancada como projeto
+将工作台保存为项目
+Сохранить стенд как проект
+Zapisz stanowisko jako projekt
+Munkapad mentése projektként
+Guardar el banco como proyecto
+
+#3969
+Ouvrir un fichier projet
+Abrir um arquivo de projeto
+打开项目文件
+Открыть файл проекта
+Otwórz plik projektu
+Projektfájl megnyitása
+Abrir un archivo de proyecto
+
+#3970
+Rien d'enregistré pour l'instant.
+Nada salvo ainda.
+还没有保存任何内容。
+Пока ничего не сохранено.
+Nic jeszcze nie zapisano.
+Még nincs mentés.
+Aún no hay nada guardado.
+
+#3971
+Ouvert :
+Aberto:
+已打开：
+Открыто:
+Otwarto:
+Megnyitva:
+Abierto:
+
+#3972
+Impossible de lire ce projet.
+Não foi possível ler este projeto.
+无法读取此项目。
+Не удалось прочитать этот проект.
+Nie można odczytać tego projektu.
+Ez a projekt nem olvasható.
+No se pudo leer este proyecto.
+
+#3973
+Télécharger
+Baixar
+下载
+Скачать
+Pobierz
+Letöltés
+Descargar
+
+#3974
+Supprimer le projet
+Excluir projeto
+删除项目
+Удалить проект
+Usuń projekt
+Projekt törlése
+Eliminar proyecto
+
+#3975
+Fichier trop volumineux (3 Mo max.).
+Arquivo grande demais (máx. 3 MB).
+文件太大（最大 3 MB）。
+Файл слишком большой (макс. 3 МБ).
+Plik za duży (maks. 3 MB).
+A fájl túl nagy (max. 3 MB).
+Archivo demasiado grande (máx. 3 MB).
+
+#3976
+Projet ouvert depuis le fichier.
+Projeto aberto do arquivo.
+已从文件打开项目。
+Проект открыт из файла.
+Projekt otwarty z pliku.
+Projekt megnyitva a fájlból.
+Proyecto abierto desde el archivo.
+
+#3977
+Ce fichier n'est pas un projet du labo.
+Este arquivo não é um projeto do laboratório.
+此文件不是实验室项目。
+Этот файл не является проектом лаборатории.
+Ten plik nie jest projektem laboratorium.
+Ez a fájl nem labor-projekt.
+Este archivo no es un proyecto del laboratorio.
+
+#3978
+Une nouvelle version est prête
+Uma nova versão está pronta
+新版本已就绪
+Доступна новая версия
+Nowa wersja jest gotowa
+Új verzió érhető el
+Hay una nueva versión lista
+
+#3979
+Plus tard
+Depois
+稍后
+Позже
+Później
+Később
+Más tarde
+
+#3980
+Mettre à jour
+Atualizar agora
+立即更新
+Обновить сейчас
+Aktualizuj teraz
+Frissítés most
+Actualizar ahora
+
+#3981
+Point ouvert : {1} (contact{2}{3}) {4} ouvert. Tension présente en amont : {5} V. {6}
+Ponto aberto: {1} (contato{2}{3}) {4} aberto. Tensão presente a montante: {5} V. {6}
+断开点：{1}（触点{2}{3}）{4}断开。上游带电电压：{5} V。{6}
+Точка разрыва: {1} (контакт{2}{3}) {4} разомкнут. Напряжение до точки разрыва: {5} В. {6}
+Punkt otwarty: {1} (styk{2}{3}) {4} otwarty. Napięcie przed nim: {5} V. {6}
+Nyitott pont: {1} (érintkező{2}{3}) {4} nyitva. Feszültség előtte: {5} V. {6}
+Punto abierto: {1} (contacto{2}{3}) {4} abierto. Tensión presente aguas arriba: {5} V. {6}
+
+#3982
+Ajouté {1} x {2}{3}. Faites glisser pour placer, touchez deux bornes pour câbler.
+Adicionado {1} x {2}{3}. Arraste para posicionar, toque em dois terminais para ligar.
+已添加 {1} x {2}{3}。拖动放置，点击两个端子接线。
+Добавлено {1} x {2}{3}. Перетащите на место, нажмите на две клеммы, чтобы соединить.
+Dodano {1} x {2}{3}. Przeciągnij, aby umieścić, dotknij dwóch zacisków, aby połączyć.
+Hozzáadva: {1} x {2}{3}. Húzza a helyére, érintsen meg két kapcsot a bekötéshez.
+Añadido {1} x {2}{3}. Arrastre para colocar, toque dos bornes para cablear.
+
+#3983
+{1} verrouillé {2}{3}
+{1} bloqueado {2}{3}
+{1} 已上锁 {2}{3}
+{1} заблокирован {2}{3}
+{1} zablokowany {2}{3}
+{1} lezárva {2}{3}
+{1} bloqueado {2}{3}
+
+#3984
+{1}{2} C'est un vrai point de consignation.
+{1}{2} É um ponto de isolamento real.
+{1}{2} 这是真正的隔离点。
+{1}{2} Это настоящая точка отключения.
+{1}{2} To jest prawdziwy punkt odłączenia.
+{1}{2} Ez valódi leválasztási pont.
+{1}{2} Es un punto de aislamiento real.
+
+#3985
+Bus DC : {1} V{2}
+Barramento CC indica {1} V{2}
+直流母线读数 {1} V{2}
+Шина DC: {1} В{2}
+Szyna DC wskazuje {1} V{2}
+DC köri feszültség: {1} V{2}
+El bus de CC marca {1} V{2}
+
+#3986
+Aucune des {1} branches parallèles n'est fermée :
+Nenhum dos {1} caminhos paralelos está fechado:
+{1} 条并联支路都没有闭合：
+Ни одна из {1} параллельных ветвей не замкнута:
+Żadna z {1} gałęzi równoległych nie jest zamknięta:
+A(z) {1} párhuzamos ág közül egyik sem zárt:
+Ninguna de las {1} ramas paralelas está cerrada:
+
+#3987
+{1} = {2}{3} : "{2} {4} {5}" est faux, donc la comparaison bloque.
+{1} = {2}{3}: "{2} {4} {5}" é falso, então a comparação bloqueia.
+{1} = {2}{3}："{2} {4} {5}" 为假，所以比较指令不导通。
+{1} = {2}{3}: «{2} {4} {5}» ложно, поэтому сравнение не пропускает.
+{1} = {2}{3}: "{2} {4} {5}" jest fałszywe, więc porównanie blokuje.
+{1} = {2}{3}: a(z) "{2} {4} {5}" hamis, ezért az összehasonlítás blokkol.
+{1} = {2}{3}: "{2} {4} {5}" es falso, así que la comparación bloquea.
+
+#3988
+{1} = {2}, {3} = {4} : "{2} {5} {4}" est faux, donc la comparaison bloque.
+{1} = {2}, {3} = {4}: "{2} {5} {4}" é falso, então a comparação bloqueia.
+{1} = {2}，{3} = {4}："{2} {5} {4}" 为假，所以比较指令不导通。
+{1} = {2}, {3} = {4}: «{2} {5} {4}» ложно, поэтому сравнение не пропускает.
+{1} = {2}, {3} = {4}: "{2} {5} {4}" jest fałszywe, więc porównanie blokuje.
+{1} = {2}, {3} = {4}: a(z) "{2} {5} {4}" hamis, ezért az összehasonlítás blokkol.
+{1} = {2}, {3} = {4}: "{2} {5} {4}" es falso, así que la comparación bloquea.
+
+#3989
+{1} = 0, donc le contact NO est ouvert.
+{1} = 0, então o contato NO está aberto.
+{1} = 0，所以 NO 触点断开。
+{1} = 0, поэтому контакт NO разомкнут.
+{1} = 0, więc styk NO jest otwarty.
+{1} = 0, ezért a NO érintkező nyitva van.
+{1} = 0, así que el contacto NO está abierto.
+
+#3990
+{1} = 1, donc le contact NC est ouvert.
+{1} = 1, então o contato NC está aberto.
+{1} = 1，所以 NC 触点断开。
+{1} = 1, поэтому контакт NC разомкнут.
+{1} = 1, więc styk NC jest otwarty.
+{1} = 1, ezért az NC érintkező nyitva van.
+{1} = 1, así que el contacto NC está abierto.
+
+#3991
+En attente d'un changement {1} de {2}. Un contact de front ne se ferme que pendant un seul cycle.
+Aguardando uma mudança {1} de {2}. Um contato de borda fecha só por um ciclo.
+正在等待 {2} 的{1}变化。边沿触点只闭合一个扫描周期。
+Ожидание изменения {1} у {2}. Контакт фронта замыкается только на один цикл.
+Oczekiwanie na zmianę {1} sygnału {2}. Styk zbocza zamyka się tylko na jeden cykl.
+Várakozás a(z) {2} {1} változására. Az élérzékelő érintkező csak egy ciklusra zár.
+Esperando un cambio {1} de {2}. Un contacto de flanco se cierra solo durante un ciclo.
+
+#3992
+Rien n'est câblé sur la borne I{1} de {2}.
+Nada está ligado ao terminal I{1} de {2}.
+{2} 的端子 I{1} 没有接线。
+К клемме I{1} модуля {2} ничего не подключено.
+Do zacisku I{1} w {2} nic nie jest podłączone.
+A(z) {2} I{1} kapcsára nincs semmi bekötve.
+No hay nada cableado al borne I{1} de {2}.
+
+#3993
+L'entrée voit {1}. Vérifiez {2} et le fil vers {3}:I{4} avec le multimètre.
+A entrada vê {1}. Verifique {2} e o fio até {3}:I{4} com o multímetro.
+输入端看到的是 {1}。用万用表检查 {2} 以及到 {3}:I{4} 的导线。
+Вход видит {1}. Проверьте мультиметром {2} и провод до {3}:I{4}.
+Wejście widzi {1}. Sprawdź multimetrem {2} i przewód do {3}:I{4}.
+A bemenet ezt látja: {1}. Ellenőrizze multiméterrel a(z) {2} elemet és a {3}:I{4} felé menő vezetéket.
+La entrada ve {1}. Compruebe {2} y el cable hasta {3}:I{4} con el multímetro.
+
+#3994
+Aucune boîte de temporisation n'utilise {1}.
+Nenhum bloco temporizador usa {1}.
+没有定时器功能框使用 {1}。
+Ни один блок таймера не использует {1}.
+Żaden blok timera nie używa {1}.
+Egyik időzítő blokk sem használja: {1}.
+Ningún bloque temporizador usa {1}.
+
+#3995
+Le temps est écoulé ({1} s). C'est ainsi que se termine l'étape étoile.
+O tempo acabou ({1} s). É assim que termina a etapa estrela.
+时间已到（{1} s）。星形阶段就是这样结束的。
+Время истекло ({1} с). Так заканчивается ступень «звезда».
+Czas minął ({1} s). Tak kończy się etap gwiazdy.
+Az idő letelt ({1} s). Így ér véget a csillag fázis.
+El tiempo ha terminado ({1} s). Así termina la etapa en estrella.
+
+#3996
+Le temporisateur {1} a compté {2} sur {3} s (activé dans le réseau {4}{5}).
+O temporizador {1} já contou {2} de {3} s (habilitado na rede {4}{5}).
+定时器 {1} 已运行 {2} / {3} s（在程序段 {4}{5} 中使能）。
+Таймер {1} отсчитал {2} из {3} с (разрешён в сегменте {4}{5}).
+Timer {1} odliczył {2} z {3} s (włączony w sieci {4}{5}).
+A(z) {1} időzítő {2} / {3} s-ot futott (engedélyezve a(z) {4}{5} hálózatban).
+El temporizador {1} lleva {2} de {3} s (habilitado en el segmento {4}{5}).
+
+#3997
+C'est un verrouillage : il bloque cette ligne tant que {1} est à ON.
+Este é um intertravamento: ele mantém esta linha desligada enquanto {1} estiver em ON.
+这是一个互锁：{1} 为 ON 时它使该梯级保持断开。
+Это блокировка: она держит эту цепь выключенной, пока {1} в ON.
+To jest blokada: utrzymuje ten szczebel wyłączony, dopóki {1} jest w ON.
+Ez egy reteszelés: amíg a(z) {1} ON, kikapcsolva tartja ezt a létrafokot.
+Es un enclavamiento: mantiene esta línea desactivada mientras {1} está en ON.
+
+#3998
+Rien dans le programme n'active {1}.
+Nada no programa seta {1}.
+程序中没有任何地方置位 {1}。
+Ничто в программе не устанавливает {1}.
+Nic w programie nie ustawia {1}.
+A programban semmi sem állítja be: {1}.
+Nada en el programa activa {1}.
+
+#3999
+Il est activé dans le réseau {1} : regardez d'abord là.
+Ele é setado na rede {1}: olhe lá primeiro.
+它在程序段 {1} 中被置位：先看那里。
+Он устанавливается в сегменте {1}: сначала смотрите там.
+Jest ustawiany w sieci {1}: zacznij od niej.
+A(z) {1} hálózatban állítódik be: először ott nézze meg.
+Se activa en el segmento {1}: mire ahí primero.
+
+#4000
+{1} "{2}" n'est pas une adresse de bit valide (I0.0-I0.7, Q0.0-Q0.{3}, M0.0-M15.7, T0-T31, C0-C15).
+{1} "{2}" não é um endereço de bit válido (I0.0-I0.7, Q0.0-Q0.{3}, M0.0-M15.7, T0-T31, C0-C15).
+{1} "{2}" 不是有效的位地址（I0.0-I0.7、Q0.0-Q0.{3}、M0.0-M15.7、T0-T31、C0-C15）。
+{1} «{2}» не является допустимым битовым адресом (I0.0-I0.7, Q0.0-Q0.{3}, M0.0-M15.7, T0-T31, C0-C15).
+{1} "{2}" nie jest prawidłowym adresem bitu (I0.0-I0.7, Q0.0-Q0.{3}, M0.0-M15.7, T0-T31, C0-C15).
+{1} "{2}" nem érvényes bitcím (I0.0-I0.7, Q0.0-Q0.{3}, M0.0-M15.7, T0-T31, C0-C15).
+{1} "{2}" no es una dirección de bit válida (I0.0-I0.7, Q0.0-Q0.{3}, M0.0-M15.7, T0-T31, C0-C15).
+
+#4001
+{1} "{2}" n'est ni un nombre ni une adresse de mot (MW0-MW62, IW64, IW66, QW80, T1, C1).
+{1} "{2}" não é um número nem um endereço de palavra (MW0-MW62, IW64, IW66, QW80, T1, C1).
+{1} "{2}" 既不是数字也不是字地址（MW0-MW62、IW64、IW66、QW80、T1、C1）。
+{1} «{2}» не является ни числом, ни адресом слова (MW0-MW62, IW64, IW66, QW80, T1, C1).
+{1} "{2}" nie jest liczbą ani adresem słowa (MW0-MW62, IW64, IW66, QW80, T1, C1).
+{1} "{2}" nem szám és nem szócím (MW0-MW62, IW64, IW66, QW80, T1, C1).
+{1} "{2}" no es un número ni una dirección de palabra (MW0-MW62, IW64, IW66, QW80, T1, C1).
+
+#4002
+Le réseau {1}{2} n'a pas de sortie, il ne fait donc rien.
+A rede {1}{2} não tem saída, então não faz nada.
+程序段 {1}{2} 没有输出，所以不起作用。
+Сегмент {1}{2} не имеет выхода, поэтому ничего не делает.
+Sieć {1}{2} nie ma wyjścia, więc nic nie robi.
+A(z) {1}{2} hálózatnak nincs kimenete, így nem csinál semmit.
+El segmento {1}{2} no tiene salida, así que no hace nada.
+
+#4003
+La bobine "{1}" doit être une sortie Q0.0-Q0.{2} ou un mémento M.
+A bobina "{1}" deve ser uma saída Q0.0-Q0.{2} ou um bit de memória M.
+线圈 "{1}" 必须是输出 Q0.0-Q0.{2} 或存储位 M。
+Катушка «{1}» должна быть выходом Q0.0-Q0.{2} или битом памяти M.
+Cewka "{1}" musi być wyjściem Q0.0-Q0.{2} lub bitem pamięci M.
+A(z) "{1}" tekercs csak Q0.0-Q0.{2} kimenet vagy M memóriabit lehet.
+La bobina "{1}" debe ser una salida Q0.0-Q0.{2} o una marca M.
+
+#4004
+Le temporisateur {1} a une présélection de 0 s.
+O temporizador {1} tem preset de 0 s.
+定时器 {1} 的预设值为 0 s。
+У таймера {1} уставка 0 с.
+Timer {1} ma nastawę 0 s.
+A(z) {1} időzítő előre beállított ideje 0 s.
+El temporizador {1} tiene una preselección de 0 s.
+
+#4005
+La sortie de {1} doit être un mot MW ou QW80.
+A saída de {1} deve ser uma palavra MW ou QW80.
+{1} 的输出必须是字 MW 或 QW80。
+Выход {1} должен быть словом MW или QW80.
+Wyjście {1} musi być słowem MW lub QW80.
+A(z) {1} kimenete MW szó vagy QW80 lehet.
+La salida de {1} debe ser una palabra MW o QW80.
+
+#4006
+Double bobine : {1} est écrit dans les réseaux {2}. Seul le dernier compte.
+Bobina dupla: {1} é escrita nas redes {2}. Só a última vale.
+双线圈：{1} 在程序段 {2} 中被写入。只有最后一个有效。
+Двойная катушка: {1} записывается в сегментах {2}. Действует только последний.
+Podwójna cewka: {1} jest zapisywane w sieciach {2}. Liczy się tylko ostatnia.
+Kettős tekercs: a(z) {1} a(z) {2} hálózatokban kap értéket. Csak az utolsó számít.
+Bobina doble: {1} se escribe en los segmentos {2}. Solo cuenta el último.
+
+#4007
+{1} est lu mais rien dans le programme ne l'active, il reste donc à 0.
+{1} é lido, mas nada no programa o seta, então fica em 0.
+{1} 被读取，但程序中没有任何地方置位它，所以一直为 0。
+{1} читается, но ничто в программе его не устанавливает, поэтому он остаётся 0.
+{1} jest odczytywany, ale nic w programie go nie ustawia, więc pozostaje 0.
+A(z) {1} olvasva van, de a programban semmi sem állítja be, így 0 marad.
+{1} se lee pero nada en el programa lo activa, así que se queda en 0.
+
+#4008
+{1} est lu mais jamais écrit, il reste donc à 0.
+{1} é lido, mas nunca escrito, então fica em 0.
+{1} 被读取，但从未被写入，所以一直为 0。
+{1} читается, но никогда не записывается, поэтому остаётся 0.
+{1} jest odczytywany, ale nigdy zapisywany, więc pozostaje 0.
+A(z) {1} olvasva van, de soha nem kap értéket, így 0 marad.
+{1} se lee pero nunca se escribe, así que se queda en 0.
+
+#4009
+{1} est utilisé, mais rien n'est câblé sur la borne I{2} de {3}.
+{1} é usado, mas nada está ligado ao terminal I{2} de {3}.
+{1} 被使用，但 {3} 的端子 I{2} 没有接线。
+{1} используется, но к клемме I{2} модуля {3} ничего не подключено.
+{1} jest używany, ale do zacisku I{2} w {3} nic nie jest podłączone.
+A(z) {1} használatban van, de a(z) {3} I{2} kapcsára nincs semmi bekötve.
+{1} se usa, pero no hay nada cableado al borne I{2} de {3}.
+
+#4010
+{1} lit l'entrée analogique AI{2}, mais rien n'y est câblé.
+{1} lê a entrada analógica AI{2}, mas nada está ligado a ela.
+{1} 读取模拟量输入 AI{2}，但它没有接线。
+{1} читает аналоговый вход AI{2}, но к нему ничего не подключено.
+{1} odczytuje wejście analogowe AI{2}, ale nic do niego nie jest podłączone.
+A(z) {1} az AI{2} analóg bemenetet olvassa, de arra nincs semmi bekötve.
+{1} lee la entrada analógica AI{2}, pero no hay nada cableado a ella.
+
+#4011
+La sortie {1} est utilisée, mais la borne {2} de {3} n'est pas câblée : elle ne commande donc rien.
+A saída {1} é usada, mas o terminal {2} de {3} não está ligado, então não aciona nada.
+输出 {1} 被使用，但 {3} 的端子 {2} 没有接线，所以它什么也控制不了。
+Выход {1} используется, но клемма {2} модуля {3} не подключена, поэтому он ничего не включает.
+Wyjście {1} jest używane, ale zacisk {2} w {3} nie jest podłączony, więc niczego nie załącza.
+A(z) {1} kimenet használatban van, de a(z) {3} {2} kapcsa nincs bekötve, így semmit sem kapcsol.
+La salida {1} se usa, pero el borne {2} de {3} no está cableado, así que no conmuta nada.
+
+#4012
+Le moteur lié "{1}" n'est pas dans l'armoire.
+O motor vinculado "{1}" não está no painel.
+关联的电机 "{1}" 不在电柜中。
+Связанный двигатель «{1}» отсутствует в шкафу.
+Powiązanego silnika "{1}" nie ma w szafie.
+A kapcsolt "{1}" motor nincs a szekrényben.
+El motor vinculado "{1}" no está en el cuadro.
+
+#4013
+Liaison du transmetteur de niveau "{1}" introuvable dans l'armoire.
+Vínculo do transmissor de nível "{1}" não encontrado no painel.
+在电柜中找不到液位变送器关联 "{1}"。
+Связанный датчик уровня «{1}» не найден в шкафу.
+Nie znaleziono w szafie powiązanego przetwornika poziomu "{1}".
+A kapcsolt "{1}" szinttávadó nem található a szekrényben.
+No se encuentra en el cuadro el transmisor de nivel vinculado "{1}".
+
+#4014
+{1} est lié à "{2}", qui n'est pas dans l'armoire.
+{1} está vinculado a "{2}", que não está no painel.
+{1} 关联到 "{2}"，但它不在电柜中。
+{1} связан с «{2}», которого нет в шкафу.
+{1} jest powiązany z "{2}", którego nie ma w szafie.
+A(z) {1} ehhez van kapcsolva: "{2}", de az nincs a szekrényben.
+{1} está vinculado a "{2}", que no está en el cuadro.
+
+#4015
+Piquage libre : {1}
+Conexão aberta: {1}
+未连接接口：{1}
+Свободный патрубок: {1}
+Wolny króciec: {1}
+Szabad csonk: {1}
+Boca abierta: {1}

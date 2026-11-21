@@ -16,7 +16,9 @@ An offline training web app for maintenance technicians: Bench (circuit simulato
 cd source
 node build.js                        # -> dist/electrical-lab.html (+ dist/build.txt = build stamp)
 node tools/pwa.js                    # -> pwa/ : index.html with hash CSP, sw.js, manifest, icons, version.json
-node test/t_plant.js; node test/t_proj.js; for t in test/t_*.js; do node $t; done   # t_inst.js has 1 known megger failure
+node test/t_plant.js; node test/t_proj.js; for t in test/t_*.js; do node $t; done   # known old failures: t_inst.js (1 megger line), t_core.js (stale test: EL.models === EL.defs)
+node test/ui_scratch.js d|m          # builds a tank project from scratch through the UI
+for t in qa_projects qa_plant qa_ladder qa_bench qa_mobile qa_lang; do node test/$t.js; done   # QA click-through suites (qa_mobile: toolbar scroll + 1 off-screen-port check are known test notes)
 node test/e2e_pwa_security.js        # serves pwa/ on :8099: CSP, offline, update bar, hostile files
 node test/ui_proj.js d|m             # screenshots to /tmp/claude-0/shots
 MSG="..." NOTE="..." REPO=<path of this repo clone> ./tools/deploy.sh
@@ -40,3 +42,7 @@ i18n: strings are `[English, Arabic]` pairs; other languages come from `i18n/key
 ## Changelog
 - 2026-11-18: PWA published on GitHub Pages.
 - 2026-11-21: Projects (panel + plant + ladder), 3 ready projects, network-first updates with update bar, hash CSP, import hardening, source moved into this repo.
+  Engineering review fixes: starved pumps deliver only what the suction gives (so low-suction trips work), fail-safe wiring (LSHH/LSH on NC, transmitter-dead and KM1-feedback latched faults in the tank ladder), motor current scaled to pump load, RO osmotic pressure rises with recovery, RO temperature/recovery warnings, supply internal resistance, star time 10 s.
+  R&D fixes: "Create it on the panel, wired" in every plant link (ui/autowire.js), PLC kit button in the Ladder view, side-by-side placement, phone fit, ladder rungs scale to phone width.
+  QA fixes: < > kept in ladder/text programs on reload (circuit.js), selection bar above the phone dock, empty tank rendering, number limits, duplicate pipe toast, Ctrl+Z in Plant, ladder palette search.
+  Not possible from the cloud session: repo branch protection (settings API blocked); secret scanning + push protection are on.

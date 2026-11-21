@@ -1,0 +1,24 @@
+const { chromium } = require('/opt/npm-tools/node_modules/playwright');
+(async () => {
+  const b = await chromium.launch(); const ctx = await b.newContext({ viewport: { width: 1440, height: 900 }, deviceScaleFactor: 1.5 });
+  const p = await ctx.newPage(); const errs = [];
+  p.on('console', (m) => { if (m.type() === 'error') errs.push(m.text()); });
+  p.on('pageerror', (e) => errs.push('PAGEERR ' + e.message));
+  await p.goto('file:///home/claude/lab/dist/electrical-lab.html'); await p.waitForTimeout(800);
+  await p.click('#tabs .tab[data-v=loto]'); await p.waitForTimeout(500);
+  const tap = async (pt) => { const box = await p.evaluate((id) => { const e = document.querySelector('.prsvg [data-pt="' + id + '"]'); const r = e.getBoundingClientRect(); return { x: r.x + r.width / 2, y: r.y + r.height / 2 }; }, pt); await p.mouse.click(box.x, box.y); await p.waitForTimeout(150); };
+  const tool = async (t) => { const box = await p.evaluate((id) => { const r = document.querySelector('.prsvg [data-tool="' + id + '"]').getBoundingClientRect(); return { x: r.x + r.width / 2, y: r.y + r.height / 2 }; }, t); await p.mouse.click(box.x, box.y); await p.waitForTimeout(150); };
+  const st = () => p.evaluate(() => ({ r: EL.lotoPractice.rd }));
+  await p.evaluate(() => { document.querySelector('.pr-sel').value = 'motor'; document.querySelector('.pr-sel').dispatchEvent(new Event('change')); });
+  await tap('plugB'); await tap('plugR'); await tap('pb1'); await p.waitForTimeout(500);
+  await tap('pb2'); await tap('q1');
+  await tool('pl_red'); await tap('q1'); await tool('tag'); await tap('q1');
+  await tool('tester'); await p.click('.pr-hand ~ .row .btn'); await tap('tp2'); await p.click('.pr-hand ~ .row .btn');
+  await tool('tester'); await tap('pb1');
+  await p.evaluate(() => { [...document.querySelectorAll('.pr-task .btn')].find((b) => /Check/.test(b.textContent)).click(); });
+  await p.waitForTimeout(400);
+  console.log(await p.evaluate(() => document.querySelector('.pr-res') && document.querySelector('.pr-res').innerText));
+  await p.screenshot({ path: '/tmp/claude-0/shots/pr2.png' });
+  console.log(errs.length ? errs.join('\n') : 'no errors');
+  await b.close();
+})();

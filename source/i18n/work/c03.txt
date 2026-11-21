@@ -1,0 +1,1340 @@
+#204
+La pointe rouge est dans la prise A alors que le sélecteur est sur mA : c'est permis, mais utilisez la prise mA pour les petits courants.
+A ponta vermelha está na entrada A com o seletor em mA: é permitido, mas use a entrada mA para correntes pequenas.
+红表笔插在A孔，但旋钮在mA档：这是允许的，不过小电流请使用mA孔。
+Красный щуп в гнезде A, а переключатель на mA: это допустимо, но для малых токов используйте гнездо mA.
+Czerwona sonda jest w gnieździe A, a pokrętło na mA: to dozwolone, ale dla małych prądów używaj gniazda mA.
+A piros mérőhegy az A aljzatban van, miközben a tárcsa mA állásban áll: ez megengedett, de kis áramokhoz az mA aljzatot használja.
+La punta roja está en la toma A con el dial en mA: está permitido, pero use la toma mA para corrientes pequeñas.
+
+#205
+Le sélecteur est sur A mais la pointe est dans la prise mA. Le fusible est de 0,44 A.
+O seletor está em A, mas a ponta está na entrada mA. O fusível é de 0,44 A.
+旋钮在A档，但表笔插在mA孔。保险丝是0.44 A。
+Переключатель на A, но щуп в гнезде mA. Предохранитель на 0,44 А.
+Pokrętło jest na A, ale sonda jest w gnieździe mA. Bezpiecznik ma 0,44 A.
+A tárcsa A állásban van, de a mérőhegy az mA aljzatban. A biztosíték 0,44 A.
+El dial está en A pero la punta está en la toma mA. El fusible es de 0,44 A.
+
+#206
+Tension aux bornes de l'appareil en mode courant. Est-il bien en série ?
+Tensão sobre o medidor no modo de corrente. Ele está em série?
+电流档下表两端有电压。它是串联在回路里的吗？
+Напряжение на приборе в режиме измерения тока. Он включён последовательно?
+Napięcie na mierniku w trybie prądowym. Czy jest włączony szeregowo?
+Feszültség esik a műszeren áram módban. Sorba van kötve?
+Tensión en bornes del medidor en modo corriente. ¿Está en serie?
+
+#207
+La pointe rouge est dans une prise courant ! L'appareil agit comme un court-circuit. Déplacez-la sur VΩ.
+A ponta vermelha está em uma entrada de corrente! O medidor está agindo como um curto-circuito. Mude-a para VΩ.
+红表笔插在电流孔里！此时万用表相当于短路。请换到VΩ孔。
+Красный щуп в гнезде тока! Прибор работает как короткое замыкание. Переставьте его в VΩ.
+Czerwona sonda jest w gnieździe prądowym! Miernik działa jak zwarcie. Przełóż ją do VΩ.
+A piros mérőhegy áramaljzatban van! A műszer zárlatként viselkedik. Tegye át a VΩ aljzatba.
+¡La punta roja está en una toma de corriente! El medidor actúa como un cortocircuito. Muévala a VΩ.
+
+#208
+pointes sur des circuits séparés
+pontas em circuitos separados
+表笔接在不同的电路上
+щупы на разных цепях
+sondy w oddzielnych obwodach
+a mérőhegyek külön áramkörökön vannak
+puntas en circuitos separados
+
+#209
+continuité
+continuidade
+通断
+прозвонка
+ciągłość
+szakadásmérés
+continuidad
+
+#210
+ouvert / polarisé en inverse
+aberto / polarização reversa
+开路 / 反向偏置
+обрыв / обратное смещение
+otwarte / spolaryzowane zaporowo
+szakadás / záróirányú előfeszítés
+abierto / polarizado en inverso
+
+#211
+chute directe
+queda direta
+正向压降
+прямое падение
+spadek w kierunku przewodzenia
+nyitóirányú feszültségesés
+caída directa
+
+#212
+Touchez une borne pour placer la pince autour de son fil
+Toque em um terminal para abraçar o fio dele com o alicate
+点击一个端子，把钳口夹在它的导线上
+Нажмите на клемму, чтобы охватить клещами её провод
+Dotknij zacisku, aby objąć cęgami jego przewód
+Érintsen meg egy kapcsot, hogy a fogót a vezetéke köré tegye
+Toque un borne para abrazar su cable con la pinza
+
+#213
+Une barre n'a pas de conducteur unique à enserrer. Placez la pince sur la borne d'un appareil.
+Uma barra não tem um condutor único para abraçar. Use o alicate em um terminal de dispositivo.
+母排没有可以单独夹住的导线。请夹在设备端子的导线上。
+У шины нет отдельного проводника, который можно охватить. Охватите клещами провод у клеммы устройства.
+Szyna nie ma pojedynczego przewodu do objęcia. Załóż cęgi na zacisk urządzenia.
+A gyűjtősínnek nincs egyetlen átfogható vezetője. Fogja át egy készülék kapcsának vezetékét.
+Una barra no tiene un único conductor que abrazar. Coloque la pinza en un borne de un aparato.
+
+#214
+Placez les cordons (en général sur une phase et sur PE)
+Coloque as pontas (geralmente em uma fase e no PE)
+请接上测试线（通常一根接相线，一根接PE）
+Подключите щупы (обычно на фазу и на PE)
+Umieść przewody (zwykle na fazie i na PE)
+Helyezze fel a mérőzsinórokat (általában egy fázisra és a PE-re)
+Ponga las puntas (normalmente en una fase y en PE)
+
+#215
+Tension présente. Essai refusé. Isolez et consignez d'abord.
+Há tensão. Teste recusado. Isole e bloqueie primeiro.
+线路带电，测试被拒绝。请先隔离并上锁挂牌。
+Напряжение присутствует. Испытание отклонено. Сначала изолируйте и заблокируйте.
+Występuje napięcie. Test odrzucony. Najpierw odizoluj i zablokuj.
+Feszültség van jelen. A mérés megtagadva. Előbb válassza le és zárja le.
+Hay tensión. Prueba rechazada. Aísle y bloquee primero.
+
+#216
+Placez OUT+ (rouge) et OUT- (noir) sur des bornes
+Coloque OUT+ (vermelho) e OUT- (preto) em terminais
+请把OUT+（红）和OUT-（黑）接到端子上
+Подключите OUT+ (красный) и OUT- (чёрный) к клеммам
+Umieść OUT+ (czerwony) i OUT- (czarny) na zaciskach
+Helyezze az OUT+ (piros) és OUT- (fekete) csatlakozót kapcsokra
+Ponga OUT+ (rojo) y OUT- (negro) en bornes
+
+#217
+Limite de conformité : la charge demande plus de 24 V pour ce courant. Le calibrateur ne peut pas la piloter.
+Limite de conformidade: a carga precisa de mais de 24 V para essa corrente. O calibrador não consegue acioná-la.
+达到顺从电压上限：这个电流需要负载上超过24 V，校准器推不动。
+Предел напряжения источника: для этого тока нагрузке нужно больше 24 В. Калибратор не может её обеспечить.
+Limit napięcia zgodności: obciążenie wymaga dla tego prądu więcej niż 24 V. Kalibrator nie może go wymusić.
+Megfelelési határ: a terhelés ehhez az áramhoz 24 V-nál többet igényel. A kalibrátor nem tudja kihajtani.
+Límite de conformidad: la carga necesita más de 24 V para esta corriente. El calibrador no puede impulsarla.
+
+#218
+Aucun courant ne circule : circuit ouvert ou cordons pas sur la charge.
+Nenhuma corrente flui: circuito aberto ou pontas fora da carga.
+没有电流流过：电路开路，或测试线没有接在负载上。
+Ток не течёт: обрыв цепи или щупы не на нагрузке.
+Prąd nie płynie: obwód otwarty lub przewody nie są na obciążeniu.
+Nem folyik áram: szakadt az áramkör, vagy a mérőzsinórok nincsenek a terhelésen.
+No circula corriente: circuito abierto o las puntas no están en la carga.
+
+#219
+Charge trop lourde pour la sortie en tension (limite d'environ 25 mA).
+Carga pesada demais para a saída de tensão (limite de cerca de 25 mA).
+负载太重，电压输出带不动（上限约25 mA）。
+Нагрузка слишком велика для выхода по напряжению (предел около 25 мА).
+Obciążenie za duże dla wyjścia napięciowego (limit około 25 mA).
+A terhelés túl nehéz a feszültségkimenetnek (a határ kb. 25 mA).
+Carga demasiado pesada para la salida de tensión (límite de unos 25 mA).
+
+#220
+Autotest OK (pile en bon état)
+Autoteste OK (bateria boa)
+自检正常（电池良好）
+Самопроверка в норме (батарея исправна)
+Autotest OK (bateria sprawna)
+Önteszt rendben (az elem jó)
+Autotest correcto (pila en buen estado)
+
+#221
+Placez les deux pointes
+Coloque as duas pontas de prova
+请放上两支表笔
+Приложите оба щупа
+Umieść obie sondy
+Helyezze fel mindkét mérőhegyet
+Ponga ambas puntas
+
+#222
+Aucune tension détectée
+Nenhuma tensão detectada
+未检测到电压
+Напряжение не обнаружено
+Nie wykryto napięcia
+Nem észlelhető feszültség
+No se detecta tensión
+
+#223
+Touchez une borne pour tenir le stylo près de son fil
+Toque em um terminal para aproximar a caneta do fio dele
+点击一个端子，把验电笔靠近它的导线
+Нажмите на клемму, чтобы поднести ручку к её проводу
+Dotknij zacisku, aby przyłożyć długopis do jego przewodu
+Érintsen meg egy kapcsot, hogy a tollat a vezetéke mellé tegye
+Toque un borne para acercar el lápiz a su cable
+
+#224
+Un stylo NCV ne détecte pas la tension continue.
+Uma caneta NCV não detecta tensão contínua.
+NCV验电笔检测不到直流电压。
+Ручка NCV не обнаруживает постоянное напряжение.
+Długopis NCV nie wykrywa napięcia stałego.
+Az NCV-toll nem érzékeli az egyenfeszültséget.
+Un lápiz NCV no detecta la tensión continua.
+
+#225
+Alimentation triphasée 400 V
+Alimentação trifásica 400 V
+三相电源 400 V
+Трёхфазное питание 400 В
+Zasilanie trójfazowe 400 V
+Háromfázisú tápellátás 400 V
+Alimentación trifásica 400 V
+
+#226
+Arrivée du réseau / TGBT : L1, L2, L3, neutre et terre. 400 V entre phases, 230 V phase-neutre, 50 Hz. Le neutre est relié à la terre à la source (TN-S).
+Entrada da concessionária / QGBT: L1, L2, L3, neutro e terra. 400 V entre fases, 230 V fase-neutro, 50 Hz. O neutro é aterrado na origem (TN-S).
+市电 / 低压总配电柜进线：L1、L2、L3、零线和地线。线电压400 V，相电压230 V，50 Hz。零线在电源端与地连接（TN-S）。
+Ввод от сети / ГРЩ: L1, L2, L3, нейтраль и земля. 400 В между фазами, 230 В фаза-нейтраль, 50 Гц. Нейтраль соединена с землёй у источника (TN-S).
+Zasilanie z sieci / rozdzielnicy głównej: L1, L2, L3, przewód neutralny i uziemienie. 400 V międzyfazowo, 230 V fazowo, 50 Hz. Neutralny jest połączony z ziemią przy źródle (TN-S).
+Hálózati betáp / főelosztó: L1, L2, L3, nulla és föld. 400 V fázisok között, 230 V fázis és nulla között, 50 Hz. A nulla a forrásnál van összekötve a földdel (TN-S).
+Acometida de red / CGBT: L1, L2, L3, neutro y tierra. 400 V entre fases, 230 V fase-neutro, 50 Hz. El neutro está unido a tierra en el origen (TN-S).
+
+#227
+Alimentation monophasée 230 V
+Alimentação monofásica 230 V
+单相电源 230 V
+Однофазное питание 230 В
+Zasilanie jednofazowe 230 V
+Egyfázisú tápellátás 230 V
+Alimentación monofásica 230 V
+
+#228
+Alimentation monophasée 230 V 50 Hz (L, N, PE).
+Alimentação monofásica 230 V 50 Hz (L, N, PE).
+单相230 V 50 Hz电源（L、N、PE）。
+Однофазное питание 230 В 50 Гц (L, N, PE).
+Zasilanie jednofazowe 230 V 50 Hz (L, N, PE).
+Egyfázisú 230 V 50 Hz betáp (L, N, PE).
+Alimentación monofásica 230 V 50 Hz (L, N, PE).
+
+#229
+Alimentation CC (batterie / flottante)
+Fonte CC (bateria / flutuante)
+直流电源（电池 / 浮地）
+Источник постоянного тока (батарея / изолированный)
+Zasilanie DC (akumulator / pływające)
+DC tápforrás (akkumulátor / lebegő)
+Fuente de CC (batería / flotante)
+
+#230
+Source CC flottante (non reliée à la terre). Choisissez 12, 24 ou 48 V. Utilisez-la pour les circuits de commande, les capteurs et les boucles.
+Fonte CC flutuante (não ligada à terra). Escolha 12, 24 ou 48 V. Use para circuitos de comando, sensores e malhas.
+浮地直流电源（不接地）。可选12、24或48 V。用于控制回路、传感器和信号回路。
+Изолированный источник постоянного тока (не связан с землёй). Выберите 12, 24 или 48 В. Используйте для цепей управления, датчиков и токовых контуров.
+Pływające źródło DC (niepołączone z ziemią). Wybierz 12, 24 lub 48 V. Używaj go do obwodów sterowania, czujników i pętli.
+Lebegő DC forrás (nincs földelve). Válasszon 12, 24 vagy 48 V-ot. Használja vezérlőáramkörökhöz, érzékelőkhöz és hurkokhoz.
+Fuente de CC flotante (no unida a tierra). Elija 12, 24 o 48 V. Úsela para circuitos de mando, sensores y lazos.
+
+#231
+Tension (V)
+Tensão (V)
+电压（V）
+Напряжение (В)
+Napięcie (V)
+Feszültség (V)
+Tensión (V)
+
+#232
+Alimentation 230 V CA vers 24 V CC
+Fonte 230 VCA para 24 VCC
+电源 230 V交流转24 V直流
+Блок питания 230 В AC в 24 В DC
+Zasilacz 230 V AC na 24 V DC
+Tápegység 230 V AC / 24 V DC
+Fuente de alimentación 230 V CA a 24 V CC
+
+#233
+Alimentation à découpage. Entrée 90 à 265 V CA. Sortie 24 V CC, 5 A, isolée et flottante. S'arrête en cas de surcharge.
+Fonte chaveada. Entrada de 90 a 265 V CA. Saída de 24 V CC, 5 A, isolada e flutuante. Desliga em sobrecarga.
+开关电源。输入90至265 V交流，输出24 V直流，5 A，隔离且浮地。过载时关断。
+Импульсный блок питания. Вход 90–265 В AC. Выход 24 В DC, 5 А, гальванически изолированный и изолированный от земли. Отключается при перегрузке.
+Zasilacz impulsowy. Wejście 90 do 265 V AC. Wyjście 24 V DC, 5 A, izolowane i pływające. Wyłącza się przy przeciążeniu.
+Kapcsolóüzemű tápegység. Bemenet 90–265 V AC. Kimenet 24 V DC, 5 A, leválasztott és lebegő. Túlterhelésnél lekapcsol.
+Fuente conmutada. Entrada de 90 a 265 V CA. Salida de 24 V CC, 5 A, aislada y flotante. Se apaga por sobrecarga.
+
+#234
+Morte (pas de sortie)
+Morta (sem saída)
+损坏（无输出）
+Неисправен (нет выхода)
+Uszkodzony (brak wyjścia)
+Tönkrement (nincs kimenet)
+Averiada (sin salida)
+
+#235
+Transformateur de commande
+Transformador de comando
+控制变压器
+Трансформатор управления
+Transformator sterowniczy
+Vezérlő transzformátor
+Transformador de mando
+
+#236
+Transformateur d'isolement. Primaire 230 V (ou 400 V entre deux phases). Secondaire 24 / 110 / 230 V. 100 VA.
+Transformador de isolamento. Primário 230 V (ou 400 V entre duas fases). Secundário 24 / 110 / 230 V. 100 VA.
+隔离变压器。一次侧230 V（或两相之间400 V）。二次侧24 / 110 / 230 V。100 VA。
+Разделительный трансформатор. Первичная обмотка 230 В (или 400 В между двумя фазами). Вторичная 24 / 110 / 230 В. 100 ВА.
+Transformator separacyjny. Uzwojenie pierwotne 230 V (lub 400 V między dwiema fazami). Wtórne 24 / 110 / 230 V. 100 VA.
+Leválasztó transzformátor. Primer 230 V (vagy 400 V két fázis között). Szekunder 24 / 110 / 230 V. 100 VA.
+Transformador de aislamiento. Primario 230 V (o 400 V entre dos fases). Secundario 24 / 110 / 230 V. 100 VA.
+
+#237
+Primaire (V)
+Primário (V)
+一次侧（V）
+Первичная (В)
+Pierwotne (V)
+Primer (V)
+Primario (V)
+
+#238
+Secondaire (V)
+Secundário (V)
+二次侧（V）
+Вторичная (В)
+Wtórne (V)
+Szekunder (V)
+Secundario (V)
+
+#239
+Enroulement primaire ouvert
+Enrolamento primário aberto
+一次绕组开路
+Обрыв первичной обмотки
+Przerwa w uzwojeniu pierwotnym
+Szakadt primer tekercs
+Devanado primario abierto
+
+#240
+Réglage Ir (A)
+Ajuste Ir (A)
+整定值 Ir（A）
+Уставка Ir (А)
+Nastawa Ir (A)
+Beállítás Ir (A)
+Ajuste Ir (A)
+
+#241
+Consigné
+Bloqueado
+已上锁
+Заблокирован
+Zablokowany
+Lezárva
+Bloqueado
+
+#242
+Calibre (A)
+Corrente nominal (A)
+额定电流（A）
+Номинал (А)
+Prąd znamionowy (A)
+Névleges áram (A)
+Calibre (A)
+
+#243
+Courbe
+Curva
+曲线
+Характеристика
+Charakterystyka
+Karakterisztika
+Curva
+
+#244
+Le pôle central ne conduit pas
+O polo central não conduz
+中间极不导通
+Средний полюс не проводит
+Środkowy biegun nie przewodzi
+A középső pólus nem vezet
+El polo central no conduce
+
+#245
+Ne se ferme pas
+Não fecha
+无法合闸
+Не включается
+Nie załącza się
+Nem kapcsol be
+No cierra
+
+#246
+Le contact ne conduit pas
+O contato não conduz
+触点不导通
+Контакт не проводит
+Styk nie przewodzi
+Az érintkező nem vezet
+El contacto no conduce
+
+#247
+Consigné. Retirez d'abord le cadenas (LOTO).
+Bloqueado. Remova primeiro o cadeado (LOTO).
+已上锁。请先移除锁具（LOTO）。
+Заблокирован. Сначала снимите замок (LOTO).
+Zablokowany. Najpierw zdejmij kłódkę (LOTO).
+Lezárva. Először távolítsa el a lakatot (LOTO).
+Bloqueado. Retire primero el candado (LOTO).
+
+#248
+Remis sur OFF. Remettez sur ON.
+Voltou para OFF. Ligue de novo.
+已复位到关闭位。请再次合闸。
+Сброшен в положение ВЫКЛ. Включите снова.
+Przywrócono na OFF. Włącz ponownie.
+Visszaállt OFF-ra. Kapcsolja újra BE.
+Rearmado en OFF. Vuelva a ponerlo en ON.
+
+#249
+La manette ne reste pas sur ON (défaut du mécanisme).
+A alavanca não fica em ON (falha no mecanismo).
+手柄无法保持在合闸位（机构故障）。
+Рукоятка не удерживается во включённом положении (неисправность механизма).
+Dźwignia nie zostaje w pozycji ON (usterka mechanizmu).
+A kar nem marad BE állásban (mechanikai hiba).
+La maneta no se queda en ON (fallo del mecanismo).
+
+#250
+Disjoncteur modulaire. Protège le câble contre la surcharge (thermique) et le court-circuit (magnétique). La courbe C déclenche instantanément au-delà de 10 fois le calibre.
+Disjuntor em miniatura. Protege o cabo contra sobrecarga (térmica) e curto-circuito (magnética). A curva C atua instantaneamente acima de 10 vezes a corrente nominal.
+微型断路器。保护电缆免受过载（热脱扣）和短路（磁脱扣）。C曲线在超过额定电流10倍时瞬时脱扣。
+Модульный автоматический выключатель. Защищает кабель от перегрузки (тепловой расцепитель) и короткого замыкания (электромагнитный). Характеристика C срабатывает мгновенно при токе выше 10-кратного номинала.
+Wyłącznik nadprądowy. Chroni kabel przed przeciążeniem (termicznie) i zwarciem (magnetycznie). Charakterystyka C wyzwala natychmiast powyżej 10-krotności prądu znamionowego.
+Kismegszakító. Védi a kábelt túlterhelés (termikus) és zárlat (mágneses) ellen. A C karakterisztika a névleges érték 10-szerese felett azonnal old.
+Interruptor magnetotérmico. Protege el cable contra sobrecarga (térmica) y cortocircuito (magnética). La curva C dispara al instante por encima de 10 veces el calibre.
+
+#251
+Disjoncteur-moteur (type GV2). Réglage thermique Ir ajustable plus déclenchement magnétique à 13x. Réglez Ir sur le courant de la plaque signalétique du moteur.
+Disjuntor-motor (tipo GV2). Ajuste térmico Ir regulável mais disparo magnético em 13x. Ajuste Ir para a corrente da placa do motor.
+电机保护断路器（类似GV2）。热脱扣整定值Ir可调，磁脱扣为13倍。把Ir设为电机铭牌电流。
+Автомат защиты двигателя (типа GV2). Регулируемая тепловая уставка Ir плюс электромагнитный расцепитель на 13-кратном токе. Установите Ir по току на шильдике двигателя.
+Wyłącznik silnikowy (jak GV2). Regulowana nastawa termiczna Ir oraz wyzwalacz magnetyczny przy 13x. Ustaw Ir na prąd z tabliczki znamionowej silnika.
+Motorvédő megszakító (mint a GV2). Állítható termikus beállítás Ir, plusz mágneses kioldás 13-szorosnál. Állítsa az Ir-t a motor adattáblájának áramára.
+Guardamotor (tipo GV2). Ajuste térmico Ir regulable más disparo magnético a 13x. Ajuste Ir a la corriente de la placa del motor.
+
+#252
+Sectionneur. Coupure manuelle sans protection. Cadenassable, c'est donc le point de consignation habituel d'un coffret.
+Seccionadora. Desconexão manual sem proteção. Pode receber cadeado, por isso é o ponto usual de LOTO de um painel.
+隔离开关。手动分断，不带保护。可上锁，所以通常是配电柜的LOTO隔离点。
+Разъединитель. Ручное отключение без защиты. Допускает блокировку замком, поэтому это обычная точка LOTO для щита.
+Rozłącznik izolacyjny. Ręczne odłączenie bez zabezpieczenia. Można go zablokować kłódką, więc to zwykły punkt LOTO dla rozdzielnicy.
+Szakaszoló kapcsoló. Kézi leválasztás védelem nélkül. Lakattal zárható, ezért a szekrények szokásos LOTO-pontja.
+Seccionador. Desconexión manual sin protección. Se puede bloquear con candado, por eso es el punto habitual de LOTO de un cuadro.
+
+#253
+Disjoncteur unipolaire
+Disjuntor unipolar
+1P微型断路器
+Автомат 1-полюсный
+Wyłącznik 1-biegunowy
+Kismegszakító 1 pólusú
+Interruptor magnetotérmico 1 polo
+
+#254
+Disjoncteur tripolaire
+Disjuntor tripolar
+3P微型断路器
+Автомат 3-полюсный
+Wyłącznik 3-biegunowy
+Kismegszakító 3 pólusú
+Interruptor magnetotérmico 3 polos
+
+#255
+Disjoncteur-moteur
+Disjuntor-motor
+电机保护断路器
+Автомат защиты двигателя
+Wyłącznik silnikowy
+Motorvédő megszakító
+Guardamotor
+
+#256
+Sectionneur tripolaire
+Seccionadora tripolar
+3P隔离开关
+Разъединитель 3-полюсный
+Rozłącznik 3-biegunowy
+Szakaszoló kapcsoló 3 pólusú
+Seccionador 3 polos
+
+#257
+Porte-fusible
+Porta-fusível
+熔断器座
+Держатель предохранителя
+Podstawa bezpiecznikowa
+Biztosítéktartó
+Portafusibles
+
+#258
+Fusible cartouche dans un porte-fusible. Fond en cas de surcharge ou de court-circuit. Ne remplacez que par le même calibre.
+Fusível de cartucho em um porta-fusível. Queima em sobrecarga ou curto-circuito. Substitua somente por outro com o mesmo valor nominal.
+装在熔断器座里的管状熔断器。过载或短路时熔断。只能换成相同额定值的。
+Цилиндрический предохранитель в держателе. Перегорает при перегрузке или коротком замыкании. Меняйте только на такой же номинал.
+Bezpiecznik wkładkowy w podstawie. Przepala się przy przeciążeniu lub zwarciu. Wymieniaj tylko na bezpiecznik o tej samej wartości.
+Patronos biztosíték tartóban. Túlterhelésnél vagy zárlatnál kiég. Csak azonos névleges értékűre cserélje.
+Fusible cilíndrico en un portafusibles. Se funde por sobrecarga o cortocircuito. Sustitúyalo solo por otro del mismo calibre.
+
+#259
+Fondu
+Queimado
+已熔断
+Перегорел
+Przepalony
+Kiégett
+Fundido
+
+#260
+Fusible remplacé par un neuf.
+Fusível substituído por um novo.
+熔断器已换成新的。
+Предохранитель заменён новым.
+Bezpiecznik wymieniony na nowy.
+A biztosíték újra cserélve.
+Fusible sustituido por uno nuevo.
+
+#261
+Barre de bornes / jeu de barres
+Barra de bornes / barramento
+端子排 / 母排
+Клеммная шина / сборная шина
+Listwa zaciskowa / szyna zbiorcza
+Kapocsléc / gyűjtősín
+Barra de bornes / embarrado
+
+#262
+Une barre qui relie tous ses bornes entre elles. Utilisez-la comme barre PE, barre de neutre, rail 24 V ou 0 V. Le type PE est relié à la terre.
+Uma barra que une todos os seus terminais. Use como barra PE, barra de neutro, trilho de 24 V ou 0 V. O tipo PE é ligado à terra.
+一根把所有端子连在一起的母排。可以用作PE排、零线排、24 V或0 V电源排。PE型与大地相连。
+Шина, которая объединяет все свои клеммы. Используйте её как шину PE, шину нейтрали, рельс 24 В или 0 В. Тип PE соединён с землёй.
+Szyna łącząca wszystkie swoje zaciski. Użyj jej jako szyny PE, szyny neutralnej, szyny 24 V lub 0 V. Typ PE jest połączony z ziemią.
+Olyan sín, amely az összes kapcsát összeköti. Használhatja PE-sínként, nullasínként, 24 V-os vagy 0 V-os sínként. A PE típus földelve van.
+Una barra que une todos sus bornes. Úsela como barra PE, barra de neutro, carril de 24 V o de 0 V. El tipo PE está unido a tierra.
+
+#263
+Type de barre
+Tipo de barra
+母排类型
+Тип шины
+Typ szyny
+Sín típusa
+Tipo de barra
+
+#264
+Variateur de fréquence
+Inversor de frequência
+变频器
+Частотный преобразователь
+Falownik
+Frekvenciaváltó
+Variador de frecuencia
+
+#265
+Variateur de fréquence. Entrée R/S/T (400 V), sortie U/V/W vers le moteur. Marche par un contact 24 V sur DI1 (avant) ou DI2 (arrière). Réglez la vitesse au clavier ou par 0-10 V sur AI1. Le bus continu reste chargé après la coupure, attendez et mesurez avant de toucher.
+Inversor de frequência. Entrada R/S/T (400 V), saída U/V/W para o motor. Dê partida com um contato de 24 V em DI1 (avante) ou DI2 (reverso). Ajuste a velocidade pelo teclado ou por 0-10 V em AI1. O barramento CC continua carregado após desligar: aguarde e meça antes de tocar.
+变频器。输入R/S/T（400 V），输出U/V/W接电机。用24 V触点接DI1（正转）或DI2（反转）来运行。速度可在键盘上设定，也可由AI1的0-10 V给定。断电后直流母线仍带电，触碰前要等待并测量。
+Частотный преобразователь. Вход R/S/T (400 В), выход U/V/W на двигатель. Пуск контактом 24 В на DI1 (вперёд) или DI2 (назад). Скорость задаётся с панели или сигналом 0–10 В на AI1. Шина постоянного тока остаётся заряженной после отключения питания, поэтому подождите и измерьте, прежде чем касаться.
+Falownik. Wejście R/S/T (400 V), wyjście U/V/W do silnika. Uruchamiany stykiem 24 V na DI1 (w przód) lub DI2 (wstecz). Prędkość zadaj z panelu lub sygnałem 0-10 V na AI1. Szyna DC pozostaje naładowana po wyłączeniu zasilania, więc poczekaj i zmierz przed dotknięciem.
+Frekvenciaváltó. Bemenet R/S/T (400 V), kimenet U/V/W a motorhoz. Indítás 24 V-os érintkezővel a DI1 (előre) vagy DI2 (hátra) bemeneten. A sebességet a kezelőpanelről vagy az AI1-re adott 0-10 V-tal állítsa. Kikapcsolás után a DC köztes kör feltöltve marad, ezért várjon és mérjen, mielőtt hozzányúl.
+Variador de frecuencia. Entrada R/S/T (400 V), salida U/V/W al motor. Marcha con un contacto de 24 V en DI1 (adelante) o DI2 (atrás). Fije la velocidad desde el teclado o con 0-10 V en AI1. El bus de CC sigue cargado tras apagar, así que espere y mida antes de tocar.
+
+#266
+Taille du variateur (kW)
+Potência do inversor (kW)
+变频器容量（kW）
+Мощность преобразователя (кВт)
+Moc falownika (kW)
+Hajtás mérete (kW)
+Tamaño del variador (kW)
+
+#267
+Ordre de marche depuis
+Comando de partida vindo de
+运行命令来源
+Команда пуска от
+Polecenie startu z
+Indítási parancs forrása
+Orden de marcha desde
+
+#268
+Référence de vitesse
+Referência de velocidade
+速度给定
+Задание скорости
+Zadawanie prędkości
+Sebességalapjel
+Referencia de velocidad
+
+#269
+Fréquence au clavier (Hz)
+Frequência no teclado (Hz)
+键盘频率（Hz）
+Частота с панели (Гц)
+Częstotliwość z panelu (Hz)
+Frekvencia a kezelőpanelről (Hz)
+Frecuencia del teclado (Hz)
+
+#270
+Temps de rampe (s)
+Tempo de rampa (s)
+斜坡时间（s）
+Время разгона (с)
+Czas rampy (s)
+Rámpaidő (s)
+Tiempo de rampa (s)
+
+#271
+Mort (pas d'affichage)
+Morto (sem display)
+损坏（无显示）
+Неисправен (нет индикации)
+Uszkodzony (brak wyświetlacza)
+Tönkrement (nincs kijelző)
+Averiado (sin pantalla)
+
+#272
+RUN au clavier
+RUN no teclado
+键盘RUN
+RUN с панели
+RUN z panelu
+RUN a kezelőpanelről
+RUN desde el teclado
+
+#273
+L'ordre de marche est réglé sur les bornes (DI1/DI2). Changez-le dans les propriétés.
+O comando de partida está configurado para os terminais (DI1/DI2). Altere nas propriedades.
+运行命令设置为端子控制（DI1/DI2）。请在属性中修改。
+Команда пуска задана с клемм (DI1/DI2). Измените это в свойствах.
+Polecenie startu ustawiono na zaciski (DI1/DI2). Zmień to we właściwościach.
+Az indítási parancs a kapcsokra (DI1/DI2) van állítva. Módosítsa a tulajdonságokban.
+La orden de marcha está configurada en bornes (DI1/DI2). Cámbiela en las propiedades.
+
+#274
+Le contact ne se ferme jamais (sale / cassé)
+O contato nunca fecha (sujo / quebrado)
+触点始终不闭合（脏污 / 损坏）
+Контакт никогда не замыкается (грязный / сломан)
+Styk nigdy się nie zamyka (brudny / uszkodzony)
+Az érintkező soha nem zár (piszkos / törött)
+El contacto nunca cierra (sucio / roto)
+
+#275
+Contact collé fermé
+Contato preso fechado
+触点粘在闭合位
+Контакт залип в замкнутом положении
+Styk zablokowany w pozycji zamkniętej
+Az érintkező zárva ragadt
+Contacto atascado cerrado
+
+#276
+Bouton-poussoir NO (marche)
+Botão NA (partida)
+常开按钮（启动）
+Кнопка NO (пуск)
+Przycisk NO (start)
+Nyomógomb NO (indítás)
+Pulsador NA (marcha)
+
+#277
+Bouton-poussoir normalement ouvert. Le contact 3-4 ne se ferme que pendant l'appui. Utilisez-le comme START.
+Botão normalmente aberto. O contato 3-4 só fecha enquanto você o pressiona. Use como START.
+常开按钮。触点3-4只在按下时闭合。用作START（启动）。
+Нормально разомкнутая кнопка. Контакт 3-4 замкнут только пока вы её нажимаете. Используйте как START.
+Przycisk normalnie otwarty. Styk 3-4 zamyka się tylko podczas naciskania. Użyj go jako START.
+Záró (NO) nyomógomb. A 3-4 érintkező csak a lenyomás alatt zár. Használja START gombként.
+Pulsador normalmente abierto. El contacto 3-4 solo cierra mientras lo pulsa. Úselo como START.
+
+#278
+Bouton-poussoir NF (arrêt)
+Botão NF (parada)
+常闭按钮（停止）
+Кнопка NC (стоп)
+Przycisk NC (stop)
+Nyomógomb NC (leállítás)
+Pulsador NC (paro)
+
+#279
+Bouton-poussoir normalement fermé. Le contact 1-2 est fermé au repos et s'ouvre pendant l'appui. Utilisez-le comme STOP.
+Botão normalmente fechado. O contato 1-2 fica fechado em repouso e abre enquanto você o pressiona. Use como STOP.
+常闭按钮。触点1-2静止时闭合，按下时断开。用作STOP（停止）。
+Нормально замкнутая кнопка. Контакт 1-2 в покое замкнут и размыкается при нажатии. Используйте как STOP.
+Przycisk normalnie zamknięty. Styk 1-2 w spoczynku jest zwarty i otwiera się podczas naciskania. Użyj go jako STOP.
+Nyitó (NC) nyomógomb. Az 1-2 érintkező nyugalomban zárt, és a lenyomás alatt nyit. Használja STOP gombként.
+Pulsador normalmente cerrado. El contacto 1-2 está cerrado en reposo y abre mientras lo pulsa. Úselo como STOP.
+
+#280
+Arrêt d'urgence (à verrouillage)
+Parada de emergência (com trava)
+急停按钮（自锁）
+Аварийный стоп (с фиксацией)
+Wyłącznik awaryjny (z blokadą)
+Vészleállító (reteszelő)
+Parada de emergencia (con enclavamiento)
+
+#281
+Tête champignon, contact NF 1-2, verrouillé à l'enfoncement. Cliquez à nouveau pour le déverrouiller par rotation.
+Cabeça de cogumelo, contato NF 1-2, trava ao ser pressionado. Clique de novo para destravar girando.
+蘑菇头，常闭触点1-2，按下后自锁。再点一次即可旋转复位。
+Грибовидная головка, контакт NC 1-2, фиксируется при нажатии. Щёлкните ещё раз, чтобы отпустить поворотом.
+Grzybkowa głowica, styk NC 1-2, blokuje się po wciśnięciu. Kliknij ponownie, aby odblokować obrotem.
+Gombafej, NC 1-2 érintkező, lenyomáskor reteszel. Kattintson újra az elfordításos kioldáshoz.
+Cabeza de seta, contacto NC 1-2, se enclava al pulsar. Haga clic de nuevo para liberarlo girando.
+
+#282
+Sélecteur 2 positions
+Seletor de 2 posições
+二位选择开关
+Переключатель на 2 положения
+Przełącznik 2-pozycyjny
+Választókapcsoló 2 állású
+Selector de 2 posiciones
+
+#283
+Sélecteur maintenu à 2 positions avec un contact NO 3-4. Cliquez pour tourner.
+Seletor de 2 posições com retenção e um contato NA 3-4. Clique para girar.
+带保持的二位选择开关，有一个常开触点3-4。点击旋转。
+Переключатель на 2 фиксированных положения с одним контактом NO 3-4. Щёлкните, чтобы повернуть.
+Przełącznik 2-pozycyjny z zatrzaskiem i jednym stykiem NO 3-4. Kliknij, aby obrócić.
+Rögzített 2 állású választókapcsoló egy NO 3-4 érintkezővel. Kattintson az elforgatáshoz.
+Selector fijo de 2 posiciones con un contacto NA 3-4. Haga clic para girar.
+
+#284
+Sélecteur Manuel-Arrêt-Auto
+Seletor Manual-Desligado-Automático
+手动-关-自动选择开关
+Переключатель Ручной-Откл.-Авто
+Przełącznik Ręczny-Wył.-Auto
+Kézi-Ki-Automata választókapcsoló
+Selector Manual-Paro-Automático
+
+#285
+Sélecteur à 3 positions. HAND ferme 13-14, AUTO ferme 23-24, OFF ouvre les deux. Cliquez à gauche, au centre ou à droite du bouton.
+Seletor de 3 posições. HAND fecha 13-14, AUTO fecha 23-24, OFF abre os dois. Clique à esquerda, no centro ou à direita do botão.
+三位选择开关。HAND闭合13-14，AUTO闭合23-24，OFF两个都断开。点击旋钮的左侧、中间或右侧。
+Переключатель на 3 положения. HAND замыкает 13-14, AUTO замыкает 23-24, OFF размыкает оба. Щёлкайте слева, в центре или справа от рукоятки.
+Przełącznik 3-pozycyjny. HAND zamyka 13-14, AUTO zamyka 23-24, OFF otwiera oba. Kliknij lewą, środkową lub prawą część pokrętła.
+3 állású választókapcsoló. A HAND zárja a 13-14-et, az AUTO a 23-24-et, az OFF mindkettőt nyitja. Kattintson a gomb bal, középső vagy jobb oldalára.
+Selector de 3 posiciones. HAND cierra 13-14, AUTO cierra 23-24, OFF abre ambos. Haga clic a la izquierda, al centro o a la derecha del mando.
+
+#286
+Les contacts ne se ferment jamais
+Os contatos nunca fecham
+触点始终不闭合
+Контакты никогда не замыкаются
+Styki nigdy się nie zamykają
+Az érintkezők soha nem zárnak
+Los contactos nunca cierran
+
+#287
+Contacts sales (ne se ferment jamais)
+Contatos sujos (nunca fecham)
+触点脏污（始终不闭合）
+Контакты загрязнены (никогда не замыкаются)
+Styki brudne (nigdy się nie zamykają)
+Piszkos érintkezők (soha nem zárnak)
+Contactos sucios (nunca cierran)
+
+#288
+Bloqué en position actionnée
+Preso na posição acionada
+卡在动作位
+Заклинило во включённом положении
+Zablokowany w pozycji zadziałania
+Működtetett állásban elakadt
+Atascado accionado
+
+#289
+Fin de course (inverseur)
+Fim de curso (reversor)
+行程开关（转换触点）
+Концевой выключатель (переключающий)
+Wyłącznik krańcowy (przełączny)
+Végálláskapcsoló (váltóérintkezős)
+Final de carrera (conmutado)
+
+#290
+Fin de course inverseur. Cliquez pour l'actionner. Au repos C-NC est fermé ; actionné, C-NO est fermé.
+Fim de curso reversor. Clique para acioná-lo. Em repouso C-NF está fechado; acionado, C-NA fica fechado.
+转换触点的行程开关。点击使其动作。静止时C-NC闭合；动作后C-NO闭合。
+Концевой выключатель с переключающим контактом. Щёлкните, чтобы задействовать. В покое замкнут C-NC; при срабатывании замыкается C-NO.
+Wyłącznik krańcowy przełączny. Kliknij, aby go zadziałać. W spoczynku C-NC jest zwarty; po zadziałaniu zwarty jest C-NO.
+Váltóérintkezős végálláskapcsoló. Kattintson a működtetéséhez. Nyugalomban a C-NC zárt; működtetve a C-NO zár.
+Final de carrera conmutado. Haga clic para accionarlo. En reposo C-NC está cerrado; accionado, C-NA está cerrado.
+
+#291
+Pressostat (inverseur)
+Pressostato (reversor)
+压力开关（转换触点）
+Реле давления (переключающее)
+Presostat (przełączny)
+Nyomáskapcsoló (váltóérintkezős)
+Presostato (conmutado)
+
+#292
+Pressostat avec un contact inverseur. Cliquez pour simuler la pression atteinte.
+Pressostato com contato reversor. Clique para simular que a pressão foi atingida.
+带转换触点的压力开关。点击模拟压力已达到。
+Реле давления с переключающим контактом. Щёлкните, чтобы имитировать достижение давления.
+Presostat ze stykiem przełącznym. Kliknij, aby zasymulować osiągnięcie ciśnienia.
+Nyomáskapcsoló váltóérintkezővel. Kattintson a nyomás elérésének szimulálásához.
+Presostato con un contacto conmutado. Haga clic para simular que se alcanzó la presión.
+
+#293
+Bobine ouverte
+Bobina aberta
+线圈开路
+Обрыв катушки
+Przerwa w cewce
+Szakadt tekercs
+Bobina abierta
+
+#294
+Bobine grillée
+Bobina queimada
+线圈烧毁
+Катушка сгорела
+Cewka spalona
+Kiégett tekercs
+Bobina quemada
+
+#295
+Les contacts ne se ferment pas (bloqués)
+Os contatos não fecham (travados)
+触点无法闭合（卡死）
+Контакты не замыкаются (заклинило)
+Styki nie zamykają się (zablokowane)
+Az érintkezők nem zárnak (elakadtak)
+Los contactos no cierran (atascados)
+
+#296
+Contacts soudés fermés
+Contatos soldados fechados
+触点熔焊闭合
+Контакты приварились в замкнутом положении
+Styki sklejone w pozycji zamkniętej
+Az érintkezők összehegedtek
+Contactos soldados cerrados
+
+#297
+Contacteur tripolaire
+Contator tripolar
+三极接触器
+Контактор 3-полюсный
+Stycznik 3-biegunowy
+Kontaktor 3 pólusú
+Contactor tripolar
+
+#298
+Contacteur de puissance. La bobine A1-A2 ferme les 3 pôles de puissance (1-2, 3-4, 5-6) et les auxiliaires NO 13-14, 23-24, et ouvre les auxiliaires NF 31-32, 41-42. Vérifiez la tension de la bobine avant de l'alimenter : une bobine 24 V sur 230 V grille.
+Contator de potência. A bobina A1-A2 fecha os 3 polos de potência (1-2, 3-4, 5-6) e os auxiliares NA 13-14, 23-24, e abre os auxiliares NF 31-32, 41-42. Confira a tensão da bobina antes de energizar: uma bobina de 24 V em 230 V queima.
+动力接触器。线圈A1-A2使3个主触头（1-2、3-4、5-6）和辅助常开13-14、23-24闭合，并使辅助常闭31-32、41-42断开。通电前先核对线圈电压：24 V的线圈接230 V会烧毁。
+Силовой контактор. Катушка A1-A2 замыкает 3 силовых полюса (1-2, 3-4, 5-6) и вспомогательные NO 13-14, 23-24 и размыкает вспомогательные NC 31-32, 41-42. Перед подачей питания проверьте напряжение катушки: катушка на 24 В при подаче 230 В сгорит.
+Stycznik mocy. Cewka A1-A2 zamyka 3 bieguny mocy (1-2, 3-4, 5-6) i styki pomocnicze NO 13-14, 23-24, a otwiera styki pomocnicze NC 31-32, 41-42. Przed zasileniem sprawdź napięcie cewki: cewka 24 V na 230 V spali się.
+Teljesítménykontaktor. Az A1-A2 tekercs behúzza a 3 főpólust (1-2, 3-4, 5-6) és a 13-14, 23-24 NO segédérintkezőket, és nyitja a 31-32, 41-42 NC segédérintkezőket. Feszültség alá helyezés előtt ellenőrizze a tekercs feszültségét: egy 24 V-os tekercs 230 V-on kiég.
+Contactor de potencia. La bobina A1-A2 cierra los 3 polos de potencia (1-2, 3-4, 5-6) y los auxiliares NA 13-14, 23-24, y abre los auxiliares NC 31-32, 41-42. Compruebe la tensión de la bobina antes de energizar: una bobina de 24 V en 230 V se quema.
+
+#299
+Tension de la bobine
+Tensão da bobina
+线圈电压
+Напряжение катушки
+Napięcie cewki
+Tekercsfeszültség
+Tensión de la bobina
+
+#300
+Relais 2 inverseurs
+Relé 2 reversores
+继电器 2组转换触点
+Реле 2 переключающих контакта
+Przekaźnik 2 styki przełączne
+Relé 2 váltóérintkezővel
+Relé 2 conmutados
+
+#301
+Relais 4 inverseurs
+Relé 4 reversores
+继电器 4组转换触点
+Реле 4 переключающих контакта
+Przekaźnik 4 styki przełączne
+Relé 4 váltóérintkezővel
+Relé 4 conmutados
+
+#302
+Temporisateur à l'appel
+Temporizador com retardo na energização
+通电延时定时器
+Реле времени с задержкой на включение
+Przekaźnik czasowy z opóźnionym załączeniem
+Meghúzás-késleltetett időrelé
+Temporizador a la conexión
+
+#303
+Temporisateur à l'appel, alimentation 24-240 V CA/CC sur A1-A2. Après le temps réglé, le contact inverseur bascule : 15-18 se ferme, 15-16 s'ouvre. La coupure de l'alimentation le remet à zéro.
+Temporizador com retardo na energização, alimentação de 24-240 V CA/CC em A1-A2. Após o tempo ajustado o contato reversor muda: 15-18 fecha, 15-16 abre. Desligar a alimentação o reinicia.
+通电延时定时器，A1-A2接24-240 V交流/直流电源。到达设定时间后转换触点动作：15-18闭合，15-16断开。断电后复位。
+Реле времени с задержкой на включение, питание 24–240 В AC/DC на A1-A2. По истечении выдержки переключающий контакт переключается: 15-18 замыкается, 15-16 размыкается. Отключение питания сбрасывает его.
+Przekaźnik czasowy z opóźnionym załączeniem, zasilanie 24-240 V AC/DC na A1-A2. Po nastawionym czasie styk przełączny zmienia położenie: 15-18 zamyka się, 15-16 otwiera. Wyłączenie zasilania go resetuje.
+Meghúzás-késleltetett időrelé, 24-240 V AC/DC táplálás az A1-A2-n. A beállított idő után a váltóérintkező átvált: a 15-18 zár, a 15-16 nyit. A táp kikapcsolása visszaállítja.
+Temporizador a la conexión, alimentación de 24-240 V CA/CC en A1-A2. Tras el tiempo ajustado el contacto conmutado cambia: 15-18 cierra, 15-16 abre. Quitar la alimentación lo repone.
+
+#304
+Retard (s)
+Atraso (s)
+延时（s）
+Задержка (с)
+Opóźnienie (s)
+Késleltetés (s)
+Retardo (s)
+
+#305
+Mort (ne temporise jamais)
+Morto (nunca completa o tempo)
+损坏（永不延时到）
+Неисправно (выдержка не отрабатывает)
+Uszkodzony (nigdy nie odmierza czasu)
+Tönkrement (soha nem jár le az idő)
+Averiado (nunca completa el tiempo)
+
+#306
+Temporisateur étoile-triangle
+Temporizador estrela-triângulo
+星三角定时器
+Реле времени звезда-треугольник
+Przekaźnik czasowy gwiazda-trójkąt
+Csillag-delta időrelé
+Temporizador estrella-triángulo
+
+#307
+Temporisateur étoile-triangle. À la mise sous tension : le contact STAR 17-18 se ferme aussitôt. Après le temps réglé il s'ouvre, puis après un court temps mort (0,1 s) le contact DELTA 27-28 se ferme. La coupure de l'alimentation remet à zéro.
+Temporizador estrela-triângulo. Ao energizar: o contato STAR 17-18 fecha de imediato. Após o tempo ajustado ele abre e, depois de um curto tempo morto (0,1 s), o contato DELTA 27-28 fecha. Desligar a alimentação reinicia.
+星三角定时器。通电时：STAR触点17-18立即闭合。到达设定时间后断开，再经过短暂的死区时间（0.1 s），DELTA触点27-28闭合。断电后复位。
+Реле времени звезда-треугольник. При подаче питания контакт STAR 17-18 замыкается сразу. По истечении выдержки он размыкается, а после короткой паузы (0,1 с) замыкается контакт DELTA 27-28. Отключение питания сбрасывает реле.
+Przekaźnik czasowy gwiazda-trójkąt. Po włączeniu zasilania styk STAR 17-18 zamyka się od razu. Po nastawionym czasie otwiera się, a po krótkiej przerwie (0,1 s) zamyka się styk DELTA 27-28. Wyłączenie zasilania resetuje.
+Csillag-delta időrelé. Bekapcsoláskor a STAR 17-18 érintkező azonnal zár. A beállított idő után nyit, majd egy rövid holtidő (0,1 s) után a DELTA 27-28 érintkező zár. A táp kikapcsolása visszaállítja.
+Temporizador estrella-triángulo. Al conectar: el contacto STAR 17-18 cierra de inmediato. Tras el tiempo ajustado abre y, tras un breve tiempo muerto (0,1 s), cierra el contacto DELTA 27-28. Quitar la alimentación lo repone.
+
+#308
+Temps en étoile (s)
+Tempo em estrela (s)
+星形时间（s）
+Время звезды (с)
+Czas gwiazdy (s)
+Csillag idő (s)
+Tiempo en estrella (s)
+
+#309
+Mort (reste en étoile)
+Morto (fica em estrela)
+损坏（一直停在星形）
+Неисправно (остаётся в звезде)
+Uszkodzony (zostaje w gwieździe)
+Tönkrement (csillagban marad)
+Averiado (se queda en estrella)
+
+#310
+Relais thermique de surcharge
+Relé térmico de sobrecarga
+热过载继电器
+Тепловое реле перегрузки
+Przekaźnik termiczny przeciążeniowy
+Hőkioldó relé
+Relé térmico de sobrecarga
+
+#311
+Relais thermique de surcharge. Câblez ses pôles 2-4-6 au moteur. Réglez le cadran sur le courant de la plaque signalétique du moteur. En cas de surcharge il déclenche : NF 95-96 s'ouvre (coupe la bobine) et NO 97-98 se ferme. Cliquez dessus pour le réarmer après refroidissement.
+Relé térmico de sobrecarga. Ligue os polos 2-4-6 ao motor. Ajuste o dial para a corrente da placa do motor. Na sobrecarga ele atua: o NF 95-96 abre (corta a bobina) e o NA 97-98 fecha. Clique nele para rearmar depois que esfriar.
+热过载继电器。把它的触头2-4-6接到电机。把旋钮设为电机铭牌电流。过载时它会动作：常闭95-96断开（切断线圈），常开97-98闭合。冷却后点击它复位。
+Тепловое реле перегрузки. Подключите его полюса 2-4-6 к двигателю. Установите шкалу по току на шильдике двигателя. При перегрузке оно срабатывает: NC 95-96 размыкается (отключает катушку), а NO 97-98 замыкается. После остывания щёлкните по нему, чтобы сбросить.
+Przekaźnik termiczny przeciążeniowy. Podłącz jego bieguny 2-4-6 do silnika. Ustaw pokrętło na prąd z tabliczki znamionowej silnika. Przy przeciążeniu zadziała: NC 95-96 otwiera się (odcina cewkę), a NO 97-98 zamyka się. Kliknij go, aby zresetować po ostygnięciu.
+Hőkioldó relé. Kösse a 2-4-6 pólusait a motorhoz. Állítsa a tárcsát a motor adattáblájának áramára. Túlterhelésnél kiold: az NC 95-96 nyit (megszakítja a tekercset), az NO 97-98 zár. Lehűlés után kattintson rá a visszaállításhoz.
+Relé térmico de sobrecarga. Cablee sus polos 2-4-6 al motor. Ajuste el dial a la corriente de la placa del motor. Con sobrecarga dispara: NC 95-96 abre (corta la bobina) y NA 97-98 cierra. Haga clic para rearmarlo cuando se enfríe.
+
+#312
+Réglage du courant (A)
+Ajuste de corrente (A)
+电流整定值（A）
+Уставка по току (А)
+Nastawa prądu (A)
+Áramérték beállítása (A)
+Ajuste de corriente (A)
+
+#313
+Classe de déclenchement
+Classe de disparo
+脱扣等级
+Класс расцепления
+Klasa wyzwalania
+Kioldási osztály
+Clase de disparo
+
+#314
+Contact 95-96 ouvert
+Contato 95-96 aberto
+触点95-96断开
+Контакт 95-96 разомкнут
+Styk 95-96 otwarty
+A 95-96 érintkező nyitott
+Contacto 95-96 abierto
+
+#315
+Le pôle 4 ne conduit pas
+O polo 4 não conduz
+第4极不导通
+Полюс 4 не проводит
+Biegun 4 nie przewodzi
+A 4. pólus nem vezet
+El polo 4 no conduce
+
+#316
+Encore chaud. Attendez que le bilame refroidisse, puis réarmez.
+Ainda quente. Aguarde o bimetal esfriar e então rearme.
+仍然很热。等双金属片冷却后再复位。
+Ещё горячее. Подождите, пока биметалл остынет, затем сбросьте.
+Nadal gorący. Poczekaj, aż bimetal ostygnie, potem zresetuj.
+Még meleg. Várja meg, míg a bimetál lehűl, majd állítsa vissza.
+Aún caliente. Espere a que el bimetal se enfríe y luego rearme.
+
+#317
+Relais réarmé.
+Relé rearmado.
+过载继电器已复位。
+Реле сброшено.
+Przekaźnik zresetowany.
+A relé visszaállítva.
+Relé rearmado.
+
+#318
+Moteur asynchrone à cage, 400 V couplage triangle. Le couplage triangle donne la pleine puissance sur 400 V. L'étoile sur 400 V ne donne que 1/3 du couple (c'est ce qu'utilise un démarreur étoile-triangle au démarrage). Choisissez le couplage de la boîte à bornes ou utilisez 6 fils pour l'étoile-triangle. Permutez deux phases pour inverser le sens.
+Motor de indução gaiola de esquilo, 400 V ligação triângulo. A ligação triângulo dá potência total em 400 V. A estrela em 400 V dá apenas 1/3 do torque (é o que uma partida estrela-triângulo usa na partida). Escolha a ligação da caixa de terminais ou use 6 fios para estrela-triângulo. Troque duas fases para inverter o sentido.
+鼠笼式异步电机，400 V三角形接法额定。三角形接法在400 V下输出全功率；400 V下接成星形只有1/3转矩（星三角启动器在启动阶段就是这样用的）。可以选择接线盒接法，或用6根线做星三角。对调任意两相即可反转。
+Асинхронный двигатель с короткозамкнутым ротором, 400 В, соединение треугольником. Треугольник даёт полную мощность на 400 В. Звезда на 400 В даёт только 1/3 момента (именно так работает пускатель звезда-треугольник при пуске). Выберите соединение в клеммной коробке или используйте 6 проводов для звезда-треугольник. Для реверса поменяйте местами две фазы.
+Silnik indukcyjny klatkowy, 400 V w połączeniu w trójkąt. Połączenie w trójkąt daje pełną moc na 400 V. Gwiazda na 400 V daje tylko 1/3 momentu (tak działa rozrusznik gwiazda-trójkąt przy starcie). Wybierz połączenie w skrzynce zaciskowej lub użyj 6 przewodów do gwiazda-trójkąt. Zamień dwie fazy, aby zmienić kierunek.
+Kalickás indukciós motor, 400 V deltára méretezve. A deltakapcsolás 400 V-on teljes teljesítményt ad. A csillagkapcsolás 400 V-on csak 1/3 nyomatékot ad (a csillag-delta indító indításkor ezt használja). Válassza ki a kapocsdoboz kapcsolását, vagy használjon 6 vezetéket a csillag-deltához. Két fázis felcserélésével fordítható meg az irány.
+Motor de inducción de jaula de ardilla, 400 V en triángulo. La conexión en triángulo da la potencia completa a 400 V. La estrella a 400 V da solo 1/3 del par (es lo que usa un arrancador estrella-triángulo al arrancar). Elija la conexión de la caja de bornes o use 6 hilos para estrella-triángulo. Intercambie dos fases para invertir el giro.
+
+#319
+Puissance (kW)
+Potência (kW)
+功率（kW）
+Мощность (кВт)
+Moc (kW)
+Teljesítmény (kW)
+Potencia (kW)
+
+#320
+Barrettes de la boîte à bornes
+Ligações da caixa de terminais
+接线盒连片
+Перемычки клеммной коробки
+Mostki w skrzynce zaciskowej
+Kapocsdoboz áthidalói
+Puentes de la caja de bornes
+
+#321
+Charge mécanique
+Carga mecânica
+机械负载
+Механическая нагрузка
+Obciążenie mechaniczne
+Mechanikai terhelés
+Carga mecánica
+
+#322
+Isolement (MΩ)
+Isolação (MΩ)
+绝缘电阻（MΩ）
+Изоляция (МОм)
+Izolacja (MΩ)
+Szigetelés (MΩ)
+Aislamiento (MΩ)
+
+#323
+Enroulement W ouvert
+Enrolamento W aberto
+W绕组开路
+Обрыв обмотки W
+Przerwa w uzwojeniu W
+Szakadt W tekercs
+Devanado W abierto
+
+#324
+Isolement faible vers la terre
+Isolação baixa para a terra
+对地绝缘偏低
+Низкое сопротивление изоляции на землю
+Niska izolacja względem ziemi
+Alacsony szigetelés a föld felé
+Aislamiento bajo a tierra
+
+#325
+Spires en court-circuit dans l'enroulement U
+Espiras em curto no enrolamento U
+U绕组匝间短路
+Витковое замыкание в обмотке U
+Zwarte zwoje w uzwojeniu U
+Menetzárlat az U tekercsben
+Espiras en cortocircuito en el devanado U
+
+#326
+Rotor bloqué (grippé)
+Rotor travado (emperrado)
+转子卡死（堵转）
+Ротор заклинило
+Wirnik zablokowany (zatarty)
+Forgórész elakadt
+Rotor bloqueado (agarrotado)
+
+#327
+Voyant lumineux
+Lâmpada de sinalização
+指示灯
+Сигнальная лампа
+Lampka sygnalizacyjna
+Jelzőlámpa
+Lámpara piloto
+
+#328
+Voyant de 2 W. S'allume quand il reçoit à peu près sa tension nominale. Au-delà de 130 % il grille.
+Lâmpada de sinalização de 2 W. Acende quando recebe aproximadamente sua tensão nominal. Acima de 130 % ela queima.
+2 W指示灯。接近额定电压时点亮。超过130 %就会烧毁。
+Сигнальная лампа 2 Вт. Загорается при напряжении, близком к номинальному. При напряжении выше 130 % перегорает.
+Lampka sygnalizacyjna 2 W. Świeci, gdy dostaje napięcie zbliżone do znamionowego. Powyżej 130 % się przepala.
+2 W-os jelzőlámpa. Körülbelül a névleges feszültségnél világít. 130 % felett kiég.
+Lámpara piloto de 2 W. Se enciende cuando recibe aproximadamente su tensión nominal. Por encima del 130 % se quema.
+
+#329
+Couleur
+Cor
+颜色
+Цвет
+Kolor
+Szín
+Color
+
+#330
+Grillé
+Queimado
+已烧毁
+Перегорела
+Przepalona
+Kiégett
+Quemada
+
+#331
+Électrovanne 24 V CC (3 W)
+Válvula solenoide 24 V CC (3 W)
+24 V直流电磁阀（3 W）
+Соленоидный клапан 24 В DC (3 Вт)
+Elektrozawór 24 V DC (3 W)
+24 V DC mágnesszelep (3 W)
+Electroválvula 24 V CC (3 W)
+
+#332
+Électrovanne basse consommation 12 V (0,25 W)
+Válvula solenoide de baixa potência 12 V (0,25 W)
+低功耗电磁阀 12 V（0.25 W）
+Маломощный соленоидный клапан 12 В (0,25 Вт)
+Elektrozawór małej mocy 12 V (0,25 W)
+Kis fogyasztású mágnesszelep 12 V (0,25 W)
+Electroválvula de bajo consumo 12 V (0,25 W)
+
+#333
+Positionneur de vanne I/P 4-20 mA
+Posicionador de válvula I/P 4-20 mA
+I/P阀门定位器 4-20 mA
+Позиционер клапана I/P 4–20 мА
+Pozycjoner zaworu I/P 4-20 mA
+I/P szelepállító 4-20 mA
+Posicionador de válvula I/P 4-20 mA
+
+#334
+Électrovanne / vanne de régulation
+Válvula solenoide / de controle
+电磁阀 / 调节阀
+Соленоидный / регулирующий клапан
+Elektrozawór / zawór regulacyjny
+Mágnesszelep / szabályozó szelep
+Electroválvula / válvula de control
+
+#335
+Trois modèles. Électrovanne 24 V : demande environ 100 mA. Bobine basse consommation : s'ouvre dès environ 17 mA, un calibrateur 24 mA peut donc la piloter, mais 24 V la grille. Positionneur I/P : la vanne s'ouvre proportionnellement au signal 4-20 mA.
+Três modelos. Solenoide de 24 V: precisa de cerca de 100 mA. Bobina de baixa potência: abre a partir de cerca de 17 mA, então um calibrador de 24 mA pode acioná-la, mas 24 V a queimam. Posicionador I/P: a válvula abre proporcionalmente ao sinal de 4-20 mA.
+三种型号。24 V电磁阀：需要约100 mA。低功耗线圈：约17 mA就能打开，所以24 mA的校准器可以驱动它，但24 V会把它烧掉。I/P定位器：阀门开度与4-20 mA信号成正比。
+Три модели. Соленоид 24 В: нужен ток около 100 мА. Маломощная катушка: открывается примерно с 17 мА, поэтому её может питать калибратор на 24 мА, но 24 В её сожжёт. Позиционер I/P: клапан открывается пропорционально сигналу 4–20 мА.
+Trzy modele. Elektrozawór 24 V: potrzebuje około 100 mA. Cewka małej mocy: otwiera się od około 17 mA, więc może ją wysterować kalibrator 24 mA, ale 24 V ją spali. Pozycjoner I/P: zawór otwiera się proporcjonalnie do sygnału 4-20 mA.
+Három modell. 24 V-os mágnesszelep: kb. 100 mA kell neki. Kis fogyasztású tekercs: kb. 17 mA-től nyit, így egy 24 mA-es kalibrátor meghajthatja, de a 24 V kiégeti. I/P szelepállító: a szelep a 4-20 mA jellel arányosan nyit.
+Tres modelos. Electroválvula de 24 V: necesita unos 100 mA. Bobina de bajo consumo: abre desde unos 17 mA, así que un calibrador de 24 mA puede accionarla, pero 24 V la quema. Posicionador I/P: la válvula abre proporcionalmente a la señal de 4-20 mA.
+
+#336
+Modèle
+Modelo
+型号
+Модель
+Model
+Modell
+Modelo
+
+#337
+Bobine ouverte
+Bobina aberta
+线圈开路
+Обрыв катушки
+Przerwa w cewce
+Szakadt tekercs
+Bobina abierta
+
+#338
+Vanne bloquée fermée
+Válvula presa fechada
+阀门卡在关闭位
+Клапан заклинило в закрытом положении
+Zawór zablokowany w pozycji zamkniętej
+A szelep zárva elakadt
+Válvula atascada cerrada
+
+#339
+Résistance / charge résistive
+Resistor / carga resistiva
+电阻 / 电阻性负载
+Резистор / резистивная нагрузка
+Rezystor / obciążenie rezystancyjne
+Ellenállás / ohmos terhelés
+Resistencia / carga resistiva
+
+#340
+Résistance simple. Réglez la valeur dans les propriétés. Servez-vous-en pour vous entraîner aux mesures d'ohms et de diviseur de tension.
+Resistor simples. Defina o valor nas propriedades. Use para praticar medições de ohm e de divisor de tensão.
+普通电阻。在属性中设置阻值。用它练习电阻和分压器的测量。
+Обычный резистор. Задайте номинал в свойствах. Используйте его для тренировки измерения сопротивления и делителя напряжения.
+Zwykły rezystor. Ustaw wartość we właściwościach. Użyj go do ćwiczenia pomiarów omów i dzielnika napięcia.
+Egyszerű ellenállás. Az értéket a tulajdonságokban állítsa be. Használja ohm- és feszültségosztó-mérések gyakorlására.
+Resistencia simple. Fije el valor en las propiedades. Úsela para practicar mediciones de ohmios y de divisor de tensión.
+
+#341
+Résistance (Ω)
+Resistência (Ω)
+电阻值（Ω）
+Сопротивление (Ом)
+Rezystancja (Ω)
+Ellenállás (Ω)
+Resistencia (Ω)
+
+#342
+Ouverte (grillée)
+Aberto (queimado)
+开路（烧毁）
+Обрыв (сгорел)
+Otwarty (spalony)
+Szakadt (kiégett)
+Abierta (quemada)
+
+#343
+Valeur dérivée x3
+Valor derivou x3
+阻值漂移到3倍
+Номинал ушёл в 3 раза
+Wartość zmieniona x3
+Az érték 3-szorosára tolódott
+Valor desviado x3
+
+#344
+LED / diode
+LED / diodo
+LED / 二极管
+Светодиод / диод
+LED / dioda
+LED / dióda
+LED / diodo
+
+#345
+LED ou diode. Ne conduit que de A (anode) vers K (cathode). Une LED demande une résistance en série : sans elle, elle grille.
+LED ou diodo. Conduz somente de A (ânodo) para K (cátodo). Um LED precisa de um resistor em série: sem ele, queima.
+LED或二极管。只能从A（阳极）向K（阴极）导通。LED需要串联电阻：没有电阻会烧毁。
+Светодиод или диод. Проводит ток только от A (анод) к K (катод). Светодиоду нужен последовательный резистор: без него он сгорает.
+LED lub dioda. Przewodzi tylko od A (anoda) do K (katoda). LED wymaga rezystora szeregowego: bez niego się spali.
+LED vagy dióda. Csak A (anód) felől K (katód) felé vezet. A LED-hez soros ellenállás kell: nélküle kiég.
+LED o diodo. Conduce solo de A (ánodo) a K (cátodo). Un LED necesita una resistencia en serie: sin ella se quema.
+
+#346
+Type
+Tipo
+类型
+Тип
+Typ
+Típus
+Tipo
+
+#347
+En court-circuit
+Em curto
+短路
+Короткое замыкание
+Zwarty
+Zárlatos
+En cortocircuito
+
+#348
+Potentiomètre
+Potenciômetro
+电位器
+Потенциометр
+Potencjometr
+Potenciométer
+Potenciómetro
+
+#349
+Potentiomètre avec extrémités 1 et 3 et curseur W. Utilisez-le avec une référence 10 V pour fournir 0-10 V à l'entrée AI1 d'un variateur. Cliquez sur le bouton pour l'augmenter de 10 %.
+Potenciômetro com extremidades 1 e 3 e cursor W. Use com uma referência de 10 V para fornecer 0-10 V à entrada AI1 de um inversor. Clique no botão para aumentar em 10 %.
+带两端1和3以及滑动端W的电位器。配合10 V基准使用，可向变频器AI1提供0-10 V信号。点击旋钮每次增加10 %。
+Потенциометр с выводами 1 и 3 и движком W. Используйте его с опорным напряжением 10 В, чтобы подавать 0–10 В на вход AI1 преобразователя. Щёлкните по ручке, чтобы повысить значение на 10 %.
+Potencjometr z końcówkami 1 i 3 oraz suwakiem W. Użyj go z napięciem odniesienia 10 V, aby podać 0-10 V na wejście AI1 falownika. Kliknij pokrętło, aby zwiększyć o 10 %.
+Potenciométer az 1 és 3 végekkel és a W csúszkával. Használja 10 V referenciával, hogy 0-10 V-ot adjon egy frekvenciaváltó AI1 bemenetére. Kattintson a gombra, hogy 10 %-kal feljebb vigye.
+Potenciómetro con extremos 1 y 3 y cursor W. Úselo con una referencia de 10 V para dar 0-10 V a la entrada AI1 de un variador. Haga clic en el mando para subirlo un 10 %.
+
+#350
+Total (kΩ)
+Total (kΩ)
+总阻值（kΩ）
+Всего (кОм)
+Razem (kΩ)
+Összesen (kΩ)
+Total (kΩ)
+
+#351
+Position (%)
+Posição (%)
+位置（%）
+Положение (%)
+Położenie (%)
+Állás (%)
+Posición (%)
+
+#352
+Transmetteur 2 fils 4-20 mA
+Transmissor 2 fios 4-20 mA
+两线制变送器 4-20 mA
+Двухпроводный преобразователь 4–20 мА
+Przetwornik 2-przewodowy 4-20 mA
+2 vezetékes jeladó 4-20 mA
+Transmisor a 2 hilos 4-20 mA

@@ -1,0 +1,350 @@
+#4016
+Aspiration insuffisante (cavitation / marche à sec) : la pompe ne reçoit pas assez d'eau. Vérifiez le niveau du bac d'aspiration, les vannes d'aspiration et les filtres.
+Sucção insuficiente (cavitação / funcionamento a seco): não chega água suficiente à bomba. Verifique o nível do tanque de sucção, as válvulas de sucção e os filtros.
+吸入不足（汽蚀 / 干转）：到达水泵的水不够。检查吸水罐液位、吸入阀门和过滤器。
+Недостаточное всасывание (кавитация / сухой ход): к насосу поступает мало воды. Проверьте уровень в баке всасывания, всасывающие задвижки и фильтры.
+Niedobór na ssaniu (kawitacja / praca na sucho): do pompy dopływa za mało wody. Sprawdź poziom w zbiorniku ssawnym, zawory ssawne i filtry.
+Szívási vízhiány (kavitáció / szárazon futás): nem jut elég víz a szivattyúhoz. Ellenőrizze a szívótartály szintjét, a szívóoldali szelepeket és a szűrőket.
+Aspiración insuficiente (cavitación / marcha en seco): no llega suficiente agua a la bomba. Revise el nivel del tanque de aspiración, las válvulas de aspiración y los filtros.
+
+#4017
+Fonctionne contre un refoulement fermé (débit nul) : aucun débit. Une pompe laissée ainsi surchauffe.
+Funcionando contra descarga fechada (shut-off): sem vazão. Uma bomba deixada assim superaquece.
+在关闭的出口下运行（憋压）：没有流量。水泵长时间这样会过热。
+Работа на закрытую задвижку нагнетания: расхода нет. Насос в таком режиме перегревается.
+Praca na zamknięty zawór tłoczny: brak przepływu. Pompa pozostawiona tak się przegrzewa.
+Zárt nyomóoldallal üzemel: nincs átfolyás. Az így hagyott szivattyú túlmelegszik.
+Funciona contra la descarga cerrada: sin caudal. Una bomba que se deja así se sobrecalienta.
+
+#4018
+L'eau repasse à l'envers dans la pompe à l'arrêt. Montez un clapet anti-retour au refoulement.
+A água volta ao contrário pela bomba parada. Instale uma válvula de retenção na descarga.
+水从停止的水泵倒流。在出口加装止回阀。
+Вода идёт обратно через стоящий насос. Поставьте обратный клапан на нагнетании.
+Woda płynie wstecz przez zatrzymaną pompę. Zamontuj zawór zwrotny na tłoczeniu.
+A víz visszafelé folyik az álló szivattyún. Szereljen visszacsapó szelepet a nyomóoldalra.
+El agua retrocede por la bomba parada. Ponga una válvula de retención en la descarga.
+
+#4019
+Taux de conversion au-dessus de 80 % : les sels entartrent la membrane. Ouvrez la vanne de concentrat.
+Recuperação acima de 80 %: os sais incrustam a membrana. Abra a válvula de rejeito.
+回收率超过 80 %：盐类在膜上结垢。打开浓水阀。
+Выход пермеата выше 80 %: соли зарастают мембрану. Откройте клапан концентрата.
+Odzysk powyżej 80 %: sole osadzają się na membranie. Otwórz zawór koncentratu.
+80 % feletti kihozatal: a sók lerakódnak a membránon. Nyissa ki a koncentrátum szelepet.
+Recuperación por encima del 80 %: las sales incrustan la membrana. Abra la válvula de rechazo.
+
+#4020
+Taux de conversion sous 10 % : la plupart de l'eau part à l'égout.
+Recuperação abaixo de 10 %: a maior parte da água vai para o dreno.
+回收率低于 10 %：大部分水排进了下水。
+Выход пермеата ниже 10 %: большая часть воды уходит в дренаж.
+Odzysk poniżej 10 %: większość wody idzie do kanalizacji.
+10 % alatti kihozatal: a víz nagy része a lefolyóba megy.
+Recuperación por debajo del 10 %: la mayor parte del agua se va al desagüe.
+
+#4021
+Eau d'alimentation au-dessus de 45 °C : une membrane polyamide est endommagée. Restez vers 25 °C.
+Água de alimentação acima de 45 °C: a membrana de poliamida se danifica. Mantenha perto de 25 °C.
+进水温度超过 45 °C：聚酰胺膜会损坏。保持在 25 °C 左右。
+Питающая вода выше 45 °C: полиамидная мембрана повреждается. Держите около 25 °C.
+Woda zasilająca powyżej 45 °C: membrana poliamidowa ulega uszkodzeniu. Utrzymuj około 25 °C.
+45 °C feletti tápvíz: a poliamid membrán károsodik. Tartsa 25 °C körül.
+Agua de alimentación por encima de 45 °C: la membrana de poliamida se daña. Manténgala cerca de 25 °C.
+
+#4022
+Une pompe de puisard remplit une cuve. Un petit automate pilote la pompe en étoile-triangle d'après le transmetteur de niveau : démarrage sous 20 %, arrêt à 90 %. LSHH (câblé en sécurité positive), un transmetteur mort ou un contacteur qui ne colle pas déclenchent l'arrêt et allument l'alarme.
+Uma bomba de poço enche um tanque. Um CLP compacto aciona a bomba em estrela-triângulo pelo transmissor de nível: parte abaixo de 20 %, para em 90 %. O LSHH (ligado à prova de falha), um transmissor morto ou um contator que não fecha desligam a bomba e acendem o alarme.
+集水坑水泵向储罐注水。小型 PLC 根据液位变送器以星三角方式控制水泵：低于 20 % 启动，到 90 % 停止。LSHH（故障安全接线）、变送器失效或接触器不吸合都会跳停并点亮报警灯。
+Насос из приямка заполняет бак. Компактный ПЛК пускает насос звезда-треугольник по датчику уровня: пуск ниже 20 %, стоп на 90 %. LSHH (подключён по отказобезопасной схеме), мёртвый датчик или не втянувшийся контактор отключают насос и включают аварийную лампу.
+Pompa ze studzienki napełnia zbiornik. Mały sterownik PLC uruchamia pompę w gwiazdę-trójkąt według przetwornika poziomu: start poniżej 20 %, stop przy 90 %. LSHH (podłączony bezpiecznie), martwy przetwornik albo stycznik, który nie zadziała, wyłączają pompę i zapalają alarm.
+Egy aknaszivattyú tölt fel egy tartályt. Egy kompakt PLC csillag-delta indítással üzemelteti a szivattyút a szinttávadó alapján: 20 % alatt indul, 90 %-nál áll le. Az LSHH (hibabiztos bekötéssel), egy halott távadó vagy egy be nem húzó mágneskapcsoló leállítja és felkapcsolja a riasztást.
+Una bomba de pozo llena un tanque. Un PLC compacto arranca la bomba en estrella-triángulo según el transmisor de nivel: arranca por debajo del 20 %, para al 90 %. El LSHH (cableado a prueba de fallos), un transmisor muerto o un contactor que no cierra la disparan y encienden la alarma.
+
+#4023
+Enclenchez QM1 et F1, puis appuyez sur S1 (Marche). Observez KM1 + KM2 (étoile), puis KM3 (triangle) après 10 s.
+Ligue QM1 e F1 e aperte S1 (Partida). Observe KM1 + KM2 (estrela) e depois KM3 (triângulo) após 10 s.
+合上 QM1 和 F1，然后按 S1（启动）。观察 KM1 + KM2（星形），10 s 后 KM3（三角形）。
+Включите QM1 и F1, затем нажмите S1 (Пуск). Смотрите KM1 + KM2 (звезда), затем через 10 s KM3 (треугольник).
+Załącz QM1 i F1, potem naciśnij S1 (Start). Obserwuj KM1 + KM2 (gwiazda), a po 10 s KM3 (trójkąt).
+Kapcsolja be a QM1-et és az F1-et, majd nyomja meg az S1-et (Indítás). Figyelje a KM1 + KM2-t (csillag), majd 10 s után a KM3-at (delta).
+Conecte QM1 y F1 y pulse S1 (Marcha). Observe KM1 + KM2 (estrella) y luego KM3 (triángulo) a los 10 s.
+
+#4024
+Placez la pince sur le câble moteur U1 : en étoile il porte le courant de ligne, en triangle seulement le courant d'enroulement (courant de ligne ÷ 1.73).
+Coloque o alicate no cabo U1 do motor: em estrela ele leva a corrente de linha, em triângulo só a corrente do enrolamento (corrente de linha ÷ 1.73).
+把钳表夹在电机电缆 U1 上：星形时是线电流，三角形时只是绕组电流（线电流 ÷ 1.73）。
+Наденьте клещи на кабель двигателя U1: в звезде по нему идёт линейный ток, в треугольнике только ток обмотки (линейный ток ÷ 1.73).
+Załóż cęgi na przewód silnika U1: w gwieździe płynie nim prąd linii, w trójkącie tylko prąd uzwojenia (prąd linii ÷ 1.73).
+Tegye a lakatfogót a motor U1 kábelére: csillagban a vonali áramot viszi, deltában csak a tekercsáramot (vonali áram ÷ 1.73).
+Ponga la pinza en el cable U1 del motor: en estrella lleva la corriente de línea, en triángulo solo la del devanado (corriente de línea ÷ 1.73).
+
+#4025
+Test de sécurité : donnez à B1 le défaut "Mort" ou supprimez le fil SL1:12. L'automate arrête la pompe et allume H1. Appuyez sur S1 pour réarmer après réparation.
+Teste de segurança: dê a B1 a falha "Morto" ou apague o fio SL1:12. O CLP para a bomba e acende H1. Aperte S1 para rearmar depois do reparo.
+安全测试：给 B1 设置故障“失效”或删除导线 SL1:12。PLC 停泵并点亮 H1。修好后按 S1 复位。
+Проверка безопасности: задайте B1 неисправность «Мёртвый» или удалите провод SL1:12. ПЛК останавливает насос и включает H1. После ремонта нажмите S1 для сброса.
+Test bezpieczeństwa: ustaw B1 usterkę "Martwy" albo usuń przewód SL1:12. PLC zatrzymuje pompę i zapala H1. Po naprawie naciśnij S1, aby skasować.
+Biztonsági teszt: adja a B1-nek a "Halott" hibát, vagy törölje az SL1:12 vezetéket. A PLC leállítja a szivattyút és felkapcsolja a H1-et. Javítás után nyomja meg az S1-et a nyugtázáshoz.
+Prueba de seguridad: ponga a B1 la falla "Muerto" o borre el cable SL1:12. El PLC para la bomba y enciende H1. Pulse S1 para rearmar tras la reparación.
+
+#4026
+Créé sur le tableau : 
+Criado no painel: 
+已在配电盘上创建：
+Создано на щите: 
+Utworzono na rozdzielnicy: 
+Létrehozva a kapcsolószekrényben: 
+Creado en el tablero: 
+
+#4027
+ avec arrêt 
+ com parada 
+ ，停止按钮 
+ с кнопкой стоп 
+ z przyciskiem stop 
+ leállítóval: 
+ con paro 
+
+#4028
+ et marche 
+ e partida 
+ ，启动按钮 
+ и пуск 
+ i start 
+ és indítóval: 
+ y marcha 
+
+#4029
+ (démarrage direct). Appuyez sur 
+ (partida direta). Aperte 
+ （直接启动）。按 
+ (прямой пуск). Нажмите 
+ (rozruch bezpośredni). Naciśnij 
+ (direkt indítás). Nyomja meg: 
+ (arranque directo). Pulse 
+
+#4030
+ en mode Test pour faire tourner la pompe.
+ no modo Teste para ligar a bomba.
+ （测试模式下）让水泵运行。
+ в режиме Тест, чтобы запустить насос.
+ w trybie Test, aby uruchomić pompę.
+ Teszt módban a szivattyú indításához.
+ en modo Prueba para que funcione la bomba.
+
+#4031
+Créé 
+Criado 
+已创建 
+Создано 
+Utworzono 
+Létrehozva: 
+Creado 
+
+#4032
+ sur le tableau. Câblez son contact (C, NC, NO) dans votre circuit de commande.
+ no painel. Ligue o contato dele (C, NC, NO) no seu circuito de comando.
+ 在配电盘上。把它的触点（C、NC、NO）接入你的控制回路。
+ на щите. Подключите его контакт (C, NC, NO) в свою схему управления.
+ na rozdzielnicy. Podłącz jego styk (C, NC, NO) do swojego obwodu sterowania.
+ a kapcsolószekrényben. Kösse be az érintkezőjét (C, NC, NO) a vezérlőkörbe.
+ en el tablero. Cablee su contacto (C, NC, NO) en su circuito de mando.
+
+#4033
+, mais l'automate n'a plus d'entrée libre. Câblez-le vous-même.
+, mas o CLP não tem entrada livre. Ligue você mesmo.
+，但 PLC 没有空闲输入。请自己接线。
+, но у ПЛК нет свободного входа. Подключите сами.
+, ale PLC nie ma wolnego wejścia. Podłącz go samodzielnie.
+, de a PLC-nek nincs szabad bemenete. Kösse be maga.
+, pero el PLC no tiene entrada libre. Cabléelo usted.
+
+#4034
+, câblé sur 
+, ligado em 
+，接到 
+, подключено к 
+, podłączony do 
+, bekötve ide: 
+, cableado a 
+
+#4035
+ par son contact NC (sécurité positive : 1 = sain, 0 = niveau haut ou fil coupé).
+ pelo contato NC (à prova de falha: 1 = normal, 0 = nível alto ou fio rompido).
+ 通过常闭触点（故障安全：1 = 正常，0 = 高液位或断线）。
+ через контакт NC (отказобезопасно: 1 = норма, 0 = высокий уровень или обрыв провода).
+ przez styk NC (bezpiecznie: 1 = sprawny, 0 = wysoki poziom lub przerwany przewód).
+ az NC érintkezőn át (hibabiztos: 1 = ép, 0 = magas szint vagy szakadt vezeték).
+ por su contacto NC (a prueba de fallos: 1 = sano, 0 = nivel alto o cable cortado).
+
+#4036
+ par son contact NO (1 = actionné).
+ pelo contato NO (1 = acionado).
+ 通过常开触点（1 = 动作）。
+ через контакт NO (1 = сработал).
+ przez styk NO (1 = zadziałał).
+ az NO érintkezőn át (1 = működtetve).
+ por su contacto NO (1 = accionado).
+
+#4037
+ (0-10 V). Alimentez-le en +24 V / 0 V et câblez OUT sur une entrée analogique.
+ (0-10 V). Alimente com +24 V / 0 V e ligue OUT numa entrada analógica.
+ （0-10 V）。给它 +24 V / 0 V 供电，并把 OUT 接到模拟量输入。
+ (0-10 V). Подайте +24 V / 0 V и подключите OUT к аналоговому входу.
+ (0-10 V). Zasil go +24 V / 0 V i podłącz OUT do wejścia analogowego.
+ (0-10 V). Táplálja +24 V / 0 V-tal, és kösse az OUT-ot egy analóg bemenetre.
+ (0-10 V). Aliméntelo con +24 V / 0 V y cablee OUT a una entrada analógica.
+
+#4038
+ (0-27648 = 0-100 %). Utilisez SCALE dans le ladder.
+ (0-27648 = 0-100 %). Use SCALE no ladder.
+ （0-27648 = 0-100 %）。在梯形图中用 SCALE。
+ (0-27648 = 0-100 %). Используйте SCALE в схеме LAD.
+ (0-27648 = 0-100 %). Użyj SCALE w drabince.
+ (0-27648 = 0-100 %). Használja a SCALE-t a létrában.
+ (0-27648 = 0-100 %). Use SCALE en el ladder.
+
+#4039
+, mais l'automate n'a plus d'entrée analogique libre.
+, mas o CLP não tem entrada analógica livre.
+，但 PLC 没有空闲的模拟量输入。
+, но у ПЛК нет свободного аналогового входа.
+, ale PLC nie ma wolnego wejścia analogowego.
+, de a PLC-nek nincs szabad analóg bemenete.
+, pero el PLC no tiene entrada analógica libre.
+
+#4040
+ (24 V). Câblez + et − sur votre commande 24 V.
+ (24 V). Ligue + e − no seu comando 24 V.
+ （24 V）。把 + 和 − 接到 24 V 控制回路。
+ (24 V). Подключите + и − к своему управлению 24 V.
+ (24 V). Podłącz + i − do swojego sterowania 24 V.
+ (24 V). Kösse a +-t és a −-t a 24 V-os vezérléshez.
+ (24 V). Cablee + y − a su mando de 24 V.
+
+#4041
+, commandé par la sortie Q0.
+, acionado pela saída Q0.
+，由输出 Q0.
+, управляется выходом Q0.
+, sterowany wyjściem Q0.
+, a Q0.
+, accionado por la salida Q0.
+
+#4042
+ sur le tableau. Raccordez-le à son alimentation.
+ no painel. Ligue-o à sua alimentação.
+ 在配电盘上。把它接到电源。
+ на щите. Подключите его к питанию.
+ na rozdzielnicy. Podłącz go do zasilania.
+ a kapcsolószekrényben. Kösse rá a tápellátásra.
+ en el tablero. Conéctelo a su alimentación.
+
+#4043
+ : l'automate a son 24 V et ses communs relais C0-C3 reçoivent 230 V depuis 
+: o CLP tem 24 V e os comuns dos relés C0-C3 recebem 230 V de 
+：PLC 已有 24 V，继电器公共端 C0-C3 由以下提供 230 V：
+: у ПЛК есть 24 V, а общие релейные C0-C3 получают 230 V от 
+: PLC ma 24 V, a wspólne przekaźników C0-C3 dostają 230 V z 
+: a PLC-nek megvan a 24 V, a C0-C3 relé közösök 230 V-ot kapnak innen: 
+: el PLC tiene 24 V y sus comunes de relé C0-C3 reciben 230 V de 
+
+#4044
+. Câblez les entrées et sorties, puis ajoutez des réseaux.
+. Ligue entradas e saídas e depois adicione networks.
+。接好输入和输出，然后添加网络。
+. Подключите входы и выходы, затем добавьте сегменты.
+. Podłącz wejścia i wyjścia, potem dodaj sieci.
+. Kösse be a be- és kimeneteket, majd adjon hozzá hálózatokat.
+. Cablee entradas y salidas y luego agregue segmentos.
+
+#4045
+Ajouter un automate avec son alimentation 24 V
+Adicionar um CLP com sua fonte de 24 V
+添加带 24 V 电源的 PLC
+Добавить ПЛК с блоком питания 24 V
+Dodaj PLC z zasilaczem 24 V
+PLC hozzáadása a 24 V-os tápjával
+Agregar un PLC con su fuente de 24 V
+
+#4046
+Ces deux raccords sont déjà reliés.
+Essas duas conexões já estão ligadas.
+这两个接口已经连通了。
+Эти два патрубка уже соединены.
+Te dwa króćce są już połączone.
+Ez a két csatlakozó már össze van kötve.
+Estas dos conexiones ya están unidas.
+
+#4047
+Le créer sur le tableau, câblé
+Criar no painel, já ligado
+在配电盘上创建并接好线
+Создать на щите с подключением
+Utwórz na rozdzielnicy, podłączony
+Létrehozás a szekrényben, bekötve
+Crearlo en el tablero, cableado
+
+#4048
+Le courant passe dans tout le réseau : la sortie Q0.{1} est active. Si l'appareil raccordé ne marche pas, mesurez sur {2}:Q{1}{3}, puis le fil vers {4}, la bobine et son retour au N / 0 V.
+A energia passa pela linha inteira: a saída Q0.{1} está ligada. Se o equipamento nela não funcionar, meça em {2}:Q{1}{3}, depois o fio até {4}, a bobina e o retorno ao N / 0 V.
+整条梯级都有能流：输出 Q0.{1} 已接通。如果它带的设备不工作，测量 {2}:Q{1}{3}，再测到 {4} 的导线、线圈及其回到 N / 0 V 的回路。
+Ток проходит через всю цепь: выход Q0.{1} включён. Если устройство на нём не работает, измерьте на {2}:Q{1}{3}, затем провод к {4}, катушку и её возврат на N / 0 V.
+Zasilanie przechodzi przez cały szczebel: wyjście Q0.{1} jest załączone. Jeśli urządzenie na nim nie działa, zmierz na {2}:Q{1}{3}, potem przewód do {4}, cewkę i jej powrót do N / 0 V.
+Az áram átfolyik az egész létrafokon: a Q0.{1} kimenet bekapcsolt. Ha a rajta lévő készülék nem működik, mérjen a {2}:Q{1}{3} ponton, majd a {4} felé menő vezetéken, a tekercsen és a visszatérőn az N / 0 V felé.
+La energía pasa por todo el segmento: la salida Q0.{1} está activada. Si el equipo conectado no funciona, mida en {2}:Q{1}{3}, luego el cable a {4}, la bobina y su retorno a N / 0 V.
+
+#4049
+{1} = {2}{3} : "{2} {4} {5}" est faux, donc la comparaison bloque.{6}
+{1} = {2}{3}: "{2} {4} {5}" é falso, então a comparação bloqueia.{6}
+{1} = {2}{3}："{2} {4} {5}" 不成立，所以比较指令断开。{6}
+{1} = {2}{3}: "{2} {4} {5}" ложно, поэтому сравнение блокирует.{6}
+{1} = {2}{3}: "{2} {4} {5}" jest fałszywe, więc porównanie blokuje.{6}
+{1} = {2}{3}: "{2} {4} {5}" hamis, ezért az összehasonlítás blokkol.{6}
+{1} = {2}{3}: "{2} {4} {5}" es falso, así que la comparación bloquea.{6}
+
+#4050
+L'entrée voit {1} venant de {2}. Soit cet appareil est vraiment dans cet état, soit lui ou son fil vers {3}:I{4} est en défaut : vérifiez au multimètre.
+A entrada vê {1} vindo de {2}. Ou esse equipamento está mesmo nesse estado, ou ele ou o fio até {3}:I{4} está com defeito: verifique com o multímetro.
+输入从 {2} 看到 {1}。要么该设备确实处于此状态，要么它或它到 {3}:I{4} 的导线有故障：用万用表检查。
+Вход видит {1} от {2}. Либо устройство действительно в этом состоянии, либо неисправно оно или его провод к {3}:I{4}: проверьте мультиметром.
+Wejście widzi {1} z {2}. Albo to urządzenie naprawdę jest w tym stanie, albo ono lub jego przewód do {3}:I{4} jest uszkodzony: sprawdź miernikiem.
+A bemenet {1} értéket lát innen: {2}. Vagy a készülék tényleg ebben az állapotban van, vagy ő maga vagy a {3}:I{4} felé menő vezetéke hibás: ellenőrizze műszerrel.
+La entrada ve {1} desde {2}. O ese equipo realmente está en ese estado, o él o su cable a {3}:I{4} tiene falla: compruébelo con el multímetro.
+
+#4051
+La temporisation {1} est terminée ({2} s), donc son contact NC est ouvert.
+O temporizador {1} terminou ({2} s), então o contato NC dele está aberto.
+定时器 {1} 已到时（{2} s），所以它的常闭触点断开。
+Таймер {1} отсчитал ({2} s), поэтому его контакт NC разомкнут.
+Timer {1} odliczył ({2} s), więc jego styk NC jest otwarty.
+A(z) {1} időzítő lejárt ({2} s), ezért az NC érintkezője nyitott.
+El temporizador {1} terminó ({2} s), así que su contacto NC está abierto.
+
+#4052
+Il est mémorisé : activé au réseau {1}{2}. Supprimez la cause, puis réarmez.
+Está retido (latch): setado na network {1}{2}. Elimine a causa e depois rearme.
+已自锁：在网络 {1} 中置位{2}。消除原因后再复位。
+Он зафиксирован: устанавливается в сегменте {1}{2}. Устраните причину, затем сбросьте.
+Jest zatrzaśnięty: ustawiany w sieci {1}{2}. Usuń przyczynę, potem skasuj.
+Reteszelve van: beállítva a(z) {1}. hálózatban{2}. Szüntesse meg az okot, majd nyugtázza.
+Está enclavado: se activa en el segmento {1}{2}. Elimine la causa y luego rearme.
+
+#4053
+ ({1} vient du réseau {2}{3}.)
+ ({1} vem da network {2}{3}.)
+ （{1} 来自网络 {2}{3}。）
+ ({1} берётся из сегмента {2}{3}.)
+ ({1} pochodzi z sieci {2}{3}.)
+ ({1} a(z) {2}. hálózatból jön{3}.)
+ ({1} viene del segmento {2}{3}.)
+
+#4054
+ {1} vient du réseau {2}{3} ({4} de {5}) : AI{6} lit {7} V depuis {8}. Si cela ne correspond pas au procédé réel, vérifiez le transmetteur et son câblage.
+ {1} vem da network {2}{3} ({4} de {5}): AI{6} lê {7} V de {8}. Se isso não bater com o processo real, verifique o transmissor e a ligação dele.
+ {1} 来自网络 {2}{3}（{5} 的 {4}）：AI{6} 从 {8} 读到 {7} V。如果与实际工艺不符，检查变送器及其接线。
+ {1} берётся из сегмента {2}{3} ({4} от {5}): AI{6} читает {7} V от {8}. Если это не совпадает с реальным процессом, проверьте датчик и его подключение.
+ {1} pochodzi z sieci {2}{3} ({4} z {5}): AI{6} odczytuje {7} V z {8}. Jeśli to nie zgadza się z rzeczywistym procesem, sprawdź przetwornik i jego okablowanie.
+ {1} a(z) {2}. hálózatból jön{3} ({5} {4}): az AI{6} {7} V-ot olvas innen: {8}. Ha ez nem egyezik a valós folyamattal, ellenőrizze a távadót és a bekötését.
+ {1} viene del segmento {2}{3} ({4} de {5}): AI{6} lee {7} V desde {8}. Si no coincide con el proceso real, revise el transmisor y su cableado.

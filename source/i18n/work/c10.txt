@@ -1,0 +1,2052 @@
+#1678
+Date
+Data
+日期
+Дата
+Data
+Dátum
+Fecha
+
+#1679
+Motif
+Motivo
+原因
+Причина
+Powód
+Ok
+Motivo
+
+#1680
+Changement de roulement
+Troca de rolamento
+更换轴承
+Замена подшипника
+Wymiana łożyska
+Csapágycsere
+Cambio de rodamiento
+
+#1681
+Téléphone
+Telefone
+电话
+Телефон
+Telefon
+Telefon
+Teléfono
+
+#1682
+Poste 214
+Ramal 214
+分机 214
+Доб. 214
+wew. 214
+Mellék 214
+Ext. 214
+
+#1683
+Seule la personne nommée ici peut la retirer
+Somente a pessoa nomeada aqui a remove
+只有这里写明的人才能取下
+Снимает её только человек, указанный здесь
+Zdejmuje ją tylko osoba wymieniona tutaj
+Csak az itt megnevezett személy távolíthatja el
+Solo la persona nombrada aquí la retira
+
+#1684
+En-tête
+Cabeçalho
+标题栏
+Шапка
+Nagłówek
+Fejléc
+Encabezado
+
+#1685
+Rouge et blanc, pour être vu de loin. Le mot DANGER ne peut pas passer inaperçu.
+Vermelho e branco, para ser visto de longe. A palavra PERIGO não pode passar despercebida.
+红白两色，从远处就能看到。"危险"二字不可能被忽略。
+Красный и белый, чтобы быть заметным издалека. Слово ОПАСНО невозможно не заметить.
+Czerwono-biały, aby było widać z daleka. Słowa NIEBEZPIECZEŃSTWO nie da się przeoczyć.
+Piros és fehér, hogy messziről látszódjon. A VESZÉLY szót nem lehet nem észrevenni.
+Rojo y blanco, para verse de lejos. La palabra PELIGRO no puede pasar inadvertida.
+
+#1686
+Nom et service
+Nome e departamento
+姓名和部门
+Имя и отдел
+Imię i nazwisko oraz dział
+Név és részleg
+Nombre y departamento
+
+#1687
+Qui a verrouillé. Les autres intervenants peuvent demander à cette personne avant d'agir.
+Quem bloqueou. Os outros trabalhadores podem perguntar a essa pessoa antes de fazer qualquer coisa.
+是谁上的锁。其他作业人员在动手之前可以先问这个人。
+Кто заблокировал. Другие работники могут спросить этого человека, прежде чем что-либо делать.
+Kto zablokował. Inni pracownicy mogą zapytać tę osobę, zanim cokolwiek zrobią.
+Ki zárta le. A többi dolgozó megkérdezheti ezt a személyt, mielőtt bármit tenne.
+Quién bloqueó. Los demás trabajadores pueden preguntar a esta persona antes de hacer nada.
+
+#1688
+Quel travail est en cours. Cela empêche quelqu'un de démarrer la machine « pour vérifier ».
+Que trabalho está sendo feito. Isso evita que alguém ligue a máquina "só para conferir".
+正在做什么工作。这样可以防止有人为了"检查一下"而启动机器。
+Какая работа выполняется. Это не даёт кому-то запустить машину «чтобы проверить».
+Jaka praca jest wykonywana. To powstrzymuje kogoś przed uruchomieniem maszyny „żeby sprawdzić".
+Milyen munka folyik. Ez megakadályozza, hogy valaki „ellenőrzésképpen" elindítsa a gépet.
+Qué trabajo se está haciendo. Evita que alguien arranque la máquina «para comprobar».
+
+#1689
+Pour que le responsable soit joignable en cas de question.
+Para que o responsável possa ser contatado em caso de dúvida.
+这样有疑问时可以联系到负责人。
+Чтобы владельца можно было найти, если возникнет вопрос.
+Aby właściciela można było znaleźć w razie pytań.
+Hogy kérdés esetén a tulajdonos elérhető legyen.
+Para poder localizar al responsable si hay alguna duda.
+
+#1690
+Remplissez nom, service, date, motif et téléphone avant de l'accrocher.
+Preencha nome, departamento, data, motivo e telefone antes de pendurar.
+挂上之前，先填好姓名、部门、日期、原因和电话。
+Заполните имя, отдел, дату, причину и телефон перед тем, как повесить.
+Wypełnij imię i nazwisko, dział, datę, powód i telefon przed powieszeniem.
+Akasztás előtt töltse ki a nevet, a részleget, a dátumot, az okot és a telefonszámot.
+Rellene nombre, departamento, fecha, motivo y teléfono antes de colgarla.
+
+#1691
+Accrochez-la au cadenas ou au dispositif d'isolement avec un collier en plastique.
+Pendure-a no cadeado ou no dispositivo de isolamento com uma abraçadeira de plástico.
+用塑料扎带把它挂在挂锁或隔离装置上。
+Повесьте её на замок или на устройство отключения пластиковой стяжкой.
+Zawieś ją na kłódce lub urządzeniu odcinającym za pomocą plastikowej opaski.
+Akassza a lakatra vagy a leválasztó eszközre műanyag kötözővel.
+Cuélguela en el candado o en el dispositivo de aislamiento con una brida de plástico.
+
+#1692
+Accrocher une étiquette vierge.
+Pendurar uma etiqueta em branco.
+挂一张空白标签。
+Повесить пустую бирку.
+Powieszenie pustej zawieszki.
+Üres címkét felakasztani.
+Colgar una etiqueta en blanco.
+
+#1693
+Utiliser une étiquette sans cadenas là où un cadenas peut être posé.
+Usar uma etiqueta sem cadeado onde um cadeado pode ser instalado.
+在可以装锁的地方只用标签而不上锁。
+Использовать бирку без замка там, где можно поставить замок.
+Używanie zawieszki bez kłódki tam, gdzie można założyć kłódkę.
+Címkét használni lakat nélkül ott, ahol lakat felszerelhető.
+Usar una etiqueta sin candado donde se puede colocar un candado.
+
+#1694
+ANSI Z535.5 / OSHA 1910.145 : étiquettes de danger.
+ANSI Z535.5 / OSHA 1910.145: etiquetas de perigo.
+ANSI Z535.5 / OSHA 1910.145：危险标签。
+ANSI Z535.5 / OSHA 1910.145: бирки опасности.
+ANSI Z535.5 / OSHA 1910.145: zawieszki ostrzegawcze.
+ANSI Z535.5 / OSHA 1910.145: veszélycímkék.
+ANSI Z535.5 / OSHA 1910.145: etiquetas de peligro.
+
+#1695
+1. Prouver
+1. Comprovar
+1. 验证
+1. Проверить
+1. Sprawdzić
+1. Igazolás
+1. Comprobar
+
+#1696
+2. Tester le point
+2. Testar o ponto
+2. 测试该点
+2. Проверить точку
+2. Zbadać punkt
+2. A pont vizsgálata
+2. Probar el punto
+
+#1697
+3. Prouver à nouveau
+3. Comprovar de novo
+3. 再次验证
+3. Проверить снова
+3. Sprawdzić ponownie
+3. Újra igazolás
+3. Comprobar de nuevo
+
+#1698
+Étape
+Passo
+步骤
+Шаг
+Krok
+Lépés
+Paso
+
+#1699
+Testeur de tension bipolaire : prouver, tester, prouver
+Testador de tensão bipolar: comprovar, testar, comprovar
+双极验电器：验证—测试—再验证
+Двухполюсный указатель напряжения: проверить–измерить–проверить
+Dwubiegunowy próbnik napięcia: sprawdź–zmierz–sprawdź
+Kétpólusú feszültségvizsgáló: ellenőrzés–mérés–ellenőrzés
+Comprobador de tensión bipolar: comprobar-medir-comprobar
+
+#1700
+Un relevé à zéro ne signifie rien si le testeur est en panne. On prouve donc qu'il fonctionne sur une source sous tension connue, on teste le point isolé, puis on le prouve à nouveau sur la source connue. Alors seulement le zéro est crédible. Utilisez un testeur bipolaire adapté à la tension, et testez chaque phase ainsi que vers la terre.
+Uma leitura zero não significa nada se o testador estiver quebrado. Por isso você comprova que ele funciona em uma fonte viva conhecida, testa o ponto isolado e comprova de novo na fonte conhecida. Só então o zero é confiável. Use um testador bipolar com classificação para a tensão, testado em cada fase e para a terra.
+如果验电器坏了，读数为零就毫无意义。所以要先在已知带电的电源上验证它能用，再测试已隔离的点，然后再回到已知电源上验证一次。这样零读数才可信。请使用额定电压合适的双极验电器，对每一相以及对地都要测试。
+Нулевое показание ничего не значит, если указатель неисправен. Поэтому сначала вы проверяете его работу на заведомо находящемся под напряжением источнике, затем проверяете отключённую точку, потом снова проверяете на известном источнике. Только после этого ноль можно считать достоверным. Используйте двухполюсный указатель напряжения, рассчитанный на данное напряжение, и проверяйте каждую фазу, а также каждую фазу относительно земли.
+Odczyt zero nic nie znaczy, jeśli próbnik jest uszkodzony. Dlatego sprawdzasz jego działanie na znanym źródle pod napięciem, testujesz odcięty punkt, a potem znów sprawdzasz go na znanym źródle. Dopiero wtedy zero jest wiarygodne. Użyj dwubiegunowego próbnika napięcia o odpowiednim napięciu znamionowym i testuj każdą fazę oraz każdą fazę względem ziemi.
+A nulla leolvasás semmit sem ér, ha a vizsgáló elromlott. Ezért először ismert feszültség alatti forráson igazolja, hogy működik, majd megvizsgálja a leválasztott pontot, aztán újra igazolja az ismert forráson. Csak ezután hihető a nulla. Használjon a feszültségre méretezett kétpólusú feszültségvizsgálót, és minden fázison, valamint a föld felé is vizsgáljon.
+Una lectura de cero no significa nada si el comprobador está averiado. Por eso se comprueba que funciona en una fuente con tensión conocida, se prueba el punto aislado y se vuelve a comprobar en la fuente conocida. Solo entonces el cero es creíble. Use un comprobador bipolar apto para la tensión y pruebe cada fase y hacia tierra.
+
+#1701
+Utilisé après : l'isolement et le verrouillage, avant de toucher les conducteurs.
+Usado depois de: isolamento e bloqueio, antes de tocar nos condutores.
+使用时机：隔离并上锁之后，触碰导体之前。
+Применяется после: отключения и блокировки, перед прикосновением к проводникам.
+Używany po: odcięciu i zablokowaniu, przed dotknięciem przewodów.
+Ekkor használják: a leválasztás és lezárás után, a vezetők megérintése előtt.
+Se usa después de: el aislamiento y el bloqueo, antes de tocar los conductores.
+
+#1702
+1. Prouver sur une source sous tension connue
+1. Comprovar em uma fonte viva conhecida
+1. 在已知带电的电源上验证
+1. Проверить на известном источнике напряжения
+1. Sprawdzić na znanym źródle pod napięciem
+1. Igazolás ismert feszültség alatti forráson
+1. Comprobar en una fuente con tensión conocida
+
+#1703
+2. Tester le point isolé
+2. Testar o ponto isolado
+2. 测试已隔离的点
+2. Проверить отключённую точку
+2. Zbadać odcięty punkt
+2. A leválasztott pont vizsgálata
+2. Probar el punto aislado
+
+#1704
+3. Prouver à nouveau sur la source connue
+3. Comprovar de novo na fonte conhecida
+3. 在已知电源上再次验证
+3. Снова проверить на известном источнике
+3. Sprawdzić ponownie na znanym źródle
+3. Újra igazolás az ismert forráson
+3. Comprobar de nuevo en la fuente conocida
+
+#1705
+Point isolé, verrouillé
+Ponto isolado, bloqueado
+已隔离并上锁的点
+Отключённая точка, заблокирована
+Odcięty punkt, zablokowany
+Leválasztott pont, lezárva
+Punto aislado, bloqueado
+
+#1706
+Source sous tension connue
+Fonte viva conhecida
+已知带电电源
+Известный источник напряжения
+Znane źródło pod napięciem
+Ismert feszültség alatti forrás
+Fuente con tensión conocida
+
+#1707
+0 V n'est crédible que parce que les étapes 1 et 3 prouvent le testeur
+0 V só é confiável porque os passos 1 e 3 comprovam o testador
+只有第1步和第3步验证了验电器，0 V才可信
+0 В достоверен только потому, что шаги 1 и 3 подтверждают исправность указателя
+0 V jest wiarygodne tylko dlatego, że kroki 1 i 3 potwierdzają próbnik
+A 0 V csak azért hihető, mert az 1. és a 3. lépés igazolja a vizsgálót
+0 V es creíble solo porque los pasos 1 y 3 comprueban el comprobador
+
+#1708
+Le testeur indique la tension : il fonctionne
+O testador mostra a tensão: ele funciona
+验电器显示了电压：它是好的
+Указатель показывает напряжение: он исправен
+Próbnik pokazuje napięcie: działa
+A vizsgáló mutatja a feszültséget: működik
+El comprobador muestra la tensión: funciona
+
+#1709
+Testez L1-L2, L2-L3, L1-L3 et chacune vers la terre
+Teste L1-L2, L2-L3, L1-L3 e cada uma para a terra
+测试L1-L2、L2-L3、L1-L3，以及每一相对地
+Проверьте L1-L2, L2-L3, L1-L3 и каждую фазу на землю
+Zbadaj L1-L2, L2-L3, L1-L3 i każdą fazę względem ziemi
+Vizsgálja L1-L2, L2-L3, L1-L3 között, és mindegyiket a föld felé
+Pruebe L1-L2, L2-L3, L1-L3 y cada una a tierra
+
+#1710
+Pointes de touche
+Pontas de prova
+测试笔尖
+Щупы
+Końcówki sond
+Mérőcsúcsok
+Puntas de prueba
+
+#1711
+Ne touchez que les poignées isolées. Appuyez fermement les deux pointes sur du métal nu.
+Toque somente nos cabos isolados. Segure as duas pontas firmemente em metal exposto.
+只能碰绝缘手柄。把两个笔尖牢牢压在裸露的金属上。
+Беритесь только за изолированные рукоятки. Плотно прижмите оба щупа к голому металлу.
+Dotykaj tylko izolowanych rączek. Dociśnij mocno obie końcówki do gołego metalu.
+Csak a szigetelt fogantyúkat érintse. Tartsa mindkét csúcsot szilárdan csupasz fémen.
+Toque solo las empuñaduras aisladas. Apoye firmemente las dos puntas en metal desnudo.
+
+#1712
+Indique le niveau de tension. Un affichage éteint sur un point de test n'est le résultat voulu qu'après une bonne preuve.
+Mostra o nível de tensão. Um visor apagado em um ponto de teste só é o resultado desejado depois de uma boa comprovação.
+显示电压等级。测试点上显示屏不亮，只有在验证无误之后才是我们想要的结果。
+Показывает уровень напряжения. Тёмный дисплей на контрольной точке — желаемый результат только после правильной проверки.
+Pokazuje poziom napięcia. Ciemny wyświetlacz na punkcie pomiarowym jest pożądanym wynikiem dopiero po prawidłowym sprawdzeniu.
+Mutatja a feszültségszintet. Egy mérési ponton a sötét kijelző csak jó igazolás után a kívánt eredmény.
+Muestra el nivel de tensión. Una pantalla apagada en un punto de prueba es el resultado buscado solo tras una buena comprobación.
+
+#1713
+Échelle de LED
+Escala de LEDs
+LED梯形指示灯
+Светодиодная шкала
+Drabinka LED
+LED-es létra
+Escalera de LED
+
+#1714
+Chaque voyant est un palier de tension. Fonctionne sans pile sur la plupart des modèles.
+Cada luz é um degrau de tensão. Funciona sem bateria na maioria dos modelos.
+每个灯代表一个电压等级。大多数型号不用电池也能工作。
+Каждый светодиод — ступень напряжения. На большинстве моделей работает без батареи.
+Każda dioda to stopień napięcia. W większości modeli działa bez baterii.
+Minden lámpa egy feszültséglépcső. A legtöbb típus elem nélkül is működik.
+Cada luz es un escalón de tensión. Funciona sin pila en la mayoría de los modelos.
+
+#1715
+Appuyez pour appliquer une charge qui prouve le testeur et élimine la tension fantôme.
+Pressione para aplicar uma carga que comprova o testador e elimina a tensão fantasma.
+按下可施加负载，既能验证验电器，又能消除感应的"幽灵电压"。
+Нажмите, чтобы подключить нагрузку, которая проверяет указатель и снимает наведённое напряжение.
+Naciśnij, aby przyłożyć obciążenie, które sprawdza próbnik i usuwa napięcie pozorne.
+Nyomja meg a terhelés rákapcsolásához, amely igazolja a vizsgálót, és lecsapolja a szellemfeszültséget.
+Púlselo para aplicar una carga que comprueba el comprobador y elimina la tensión fantasma.
+
+#1716
+Prouver : une source sous tension connue indique la tension.
+Comprovar: uma fonte viva conhecida mostra a tensão.
+验证：已知带电电源显示有电压。
+Проверить: известный источник напряжения показывает напряжение.
+Sprawdzić: znane źródło pod napięciem pokazuje napięcie.
+Igazolás: az ismert feszültség alatti forrás feszültséget mutat.
+Comprobar: una fuente con tensión conocida muestra tensión.
+
+#1717
+Tester : chaque paire de phases et chaque phase vers la terre indique 0.
+Testar: cada par de fases e cada fase para a terra indica 0.
+测试：每对相线之间以及每相对地都读数为0。
+Измерить: каждая пара фаз и каждая фаза на землю показывает 0.
+Zmierzyć: każda para faz i każda faza względem ziemi pokazuje 0.
+Mérés: minden fázispár és minden fázis a föld felé 0-t mutat.
+Medir: cada par de fases y cada fase a tierra marca 0.
+
+#1718
+Prouver à nouveau : la source connue indique de nouveau la tension.
+Comprovar de novo: a fonte conhecida mostra a tensão de novo.
+再次验证：已知电源再次显示有电压。
+Проверить снова: известный источник снова показывает напряжение.
+Sprawdzić ponownie: znane źródło znów pokazuje napięcie.
+Újra igazolás: az ismert forrás ismét feszültséget mutat.
+Comprobar de nuevo: la fuente conocida vuelve a mostrar tensión.
+
+#1719
+Tester seulement L1 vers N sur une machine triphasée.
+Testar somente L1 para N em uma máquina trifásica.
+在三相机器上只测L1对N。
+Проверять только L1 на N на трёхфазной машине.
+Testowanie tylko L1 do N na maszynie trójfazowej.
+Háromfázisú gépen csak L1 és N között vizsgálni.
+Probar solo L1 a N en una máquina trifásica.
+
+#1720
+Utiliser un détecteur sans contact comme seule preuve.
+Usar uma caneta sem contato como única comprovação.
+只把非接触式验电笔当作唯一的证明。
+Использовать бесконтактный индикатор как единственное доказательство.
+Używanie bezdotykowego wskaźnika jako jedynego dowodu.
+Érintésmentes tollat használni egyetlen bizonyítékként.
+Usar un detector sin contacto como única prueba.
+
+#1721
+Sauter la deuxième preuve.
+Pular a segunda comprovação.
+跳过第二次验证。
+Пропустить вторую проверку.
+Pominięcie drugiego sprawdzenia.
+A második igazolást kihagyni.
+Saltarse la segunda comprobación.
+
+#1722
+IEC 61243-3 (détecteurs de tension bipolaires) ; EN 50110-1.
+IEC 61243-3 (detectores de tensão bipolares); EN 50110-1.
+IEC 61243-3（双极电压检测器）；EN 50110-1。
+IEC 61243-3 (двухполюсные указатели напряжения); EN 50110-1.
+IEC 61243-3 (dwubiegunowe wskaźniki napięcia); EN 50110-1.
+IEC 61243-3 (kétpólusú feszültségjelzők); EN 50110-1.
+IEC 61243-3 (detectores de tensión bipolares); EN 50110-1.
+
+#1723
+Sectionneur OFF
+Seccionadora OFF
+隔离开关 OFF
+Разъединитель OFF
+Rozłącznik OFF
+Szakaszoló OFF
+Seccionador OFF
+
+#1724
+Sectionneur ON
+Seccionadora ON
+隔离开关 ON
+Разъединитель ON
+Rozłącznik ON
+Szakaszoló ON
+Seccionador ON
+
+#1725
+Sectionneur principal
+Seccionadora principal
+主隔离开关
+Главный разъединитель
+Rozłącznik główny
+Főszakaszoló
+Seccionador principal
+
+#1726
+Le cadenas sur la poignée du sectionneur l'empêche de passer sur ON.
+O cadeado no manípulo da seccionadora impede que ela vá para ON.
+隔离开关手柄上的挂锁使它无法转到ON。
+Замок на рукоятке разъединителя не даёт перевести его в положение ON.
+Kłódka na rączce rozłącznika uniemożliwia przestawienie go na ON.
+A szakaszoló karján lévő lakat megakadályozza, hogy ON állásba kerüljön.
+El candado en la palanca del seccionador impide que pase a ON.
+
+#1727
+Petite armoire de commande (porte et intérieur)
+Pequeno painel de comando (porta e interior)
+小型控制柜（柜门和内部）
+Небольшой шкаф управления (дверь и внутренняя часть)
+Mała szafa sterownicza (drzwi i wnętrze)
+Kis vezérlőszekrény (ajtó és belső tér)
+Pequeño armario de control (puerta e interior)
+
+#1728
+Une armoire a un sectionneur principal sur la porte. Mettez-le sur OFF et verrouillez-le : tout ce qui est en aval est hors tension. Mais les bornes côté alimentation du sectionneur restent sous tension, car il est alimenté par l'usine. L'armoire a donc une zone sous tension même à l'arrêt. Les boutons, l'arrêt d'urgence et l'automate sont des organes de commande : ils arrêtent la machine mais ne l'isolent pas. N'ouvrez la porte qu'après avoir verrouillé le sectionneur, puis testez avec le testeur.
+Um painel tem um seccionador principal na porta. Coloque-o em OFF e bloqueie, e tudo a jusante dele fica sem energia. Mas os terminais do lado da alimentação do seccionador continuam energizados, porque o seccionador é alimentado pela planta. Então o painel tem uma zona viva mesmo desligado. Os botões, a parada de emergência e o CLP são dispositivos de comando: eles param a máquina, mas não a isolam. Abra a porta somente depois de bloquear o seccionador e então teste com o testador.
+控制柜门上有一个主隔离开关。把它转到OFF并上锁，它下游的一切都断电。但隔离开关电源侧的端子仍然带电，因为隔离开关是由工厂供电的。所以柜子即使关断，仍然有一个带电区域。按钮、急停和PLC都是控制设备：它们能让机器停下，但不能隔离机器。只有在锁住隔离开关之后才能开门，然后用验电器测试。
+На двери шкафа находится главный разъединитель. Переведите его в положение OFF и заблокируйте, и всё, что находится после него, обесточено. Но клеммы на стороне питания разъединителя остаются под напряжением, потому что он получает питание от сети предприятия. Поэтому в шкафу есть зона под напряжением даже при выключенном аппарате. Кнопки, аварийный стоп и ПЛК — это устройства управления: они останавливают машину, но не отключают её. Открывайте дверь только после блокировки разъединителя, затем проверьте указателем напряжения.
+Szafa ma jeden rozłącznik główny na drzwiach. Przełącz go na OFF i zablokuj, a wszystko za nim jest bez napięcia. Ale zaciski po stronie zasilania rozłącznika nadal są pod napięciem, bo rozłącznik jest zasilany z zakładu. Szafa ma więc strefę pod napięciem nawet po wyłączeniu. Przyciski, wyłącznik awaryjny i PLC to urządzenia sterujące: zatrzymują maszynę, ale jej nie odcinają. Otwórz drzwi dopiero po zablokowaniu rozłącznika, potem sprawdź próbnikiem.
+A szekrény ajtaján egy főszakaszoló van. Kapcsolja OFF állásba és zárja le, és minden, ami utána következik, áramtalan. De a szakaszoló betáplálási oldali kapcsai feszültség alatt maradnak, mert a szakaszolót az üzem táplálja. A szekrénynek tehát kikapcsolt állapotban is van feszültség alatti zónája. A gombok, a vészleállító és a PLC vezérlőeszközök: megállítják a gépet, de nem választják le. Az ajtót csak a szakaszoló lezárása után nyissa ki, majd vizsgálja meg a vizsgálóval.
+Un armario tiene un seccionador principal en la puerta. Póngalo en OFF y bloquéelo, y todo lo que está aguas abajo queda sin tensión. Pero los bornes del lado de alimentación del seccionador siguen con tensión, porque el seccionador se alimenta desde la planta. Así que el armario tiene una zona con tensión incluso apagado. Los pulsadores, la parada de emergencia y el PLC son dispositivos de mando: paran la máquina pero no la aíslan. Abra la puerta solo después de bloquear el seccionador y luego pruebe con el comprobador.
+
+#1729
+Alimente : les moteurs et commandes de la machine sur cette armoire.
+Alimenta: os motores e comandos da máquina neste painel.
+供电对象：该柜子上的机器电机和控制装置。
+Питает: двигатели и цепи управления машины в этом шкафу.
+Zasila: silniki i sterowanie maszyny w tej szafie.
+Táplál: a gép motorjait és vezérlését ezen a szekrényen.
+Alimenta: los motores y mandos de la máquina en este armario.
+
+#1730
+=
+=
+=
+=
+=
+=
+=
+
+#1731
+Sectionneur, haut sous tension
+Seccionadora, parte superior energizada
+隔离开关，上部带电
+Разъединитель, верх под напряжением
+Rozłącznik, góra pod napięciem
+Szakaszoló, felső rész feszültség alatt
+Seccionador, parte superior con tensión
+
+#1732
+=
+=
+=
+=
+=
+=
+=
+
+#1733
+Alimentation 24 V
+Fonte 24 V
+24 V电源
+Блок питания 24 В
+Zasilacz 24 V
+24 V-os tápegység
+Fuente de 24 V
+
+#1734
+Contacteur
+Contator
+接触器
+Контактор
+Stycznik
+Kontaktor
+Contactor
+
+#1735
+Poignée du sectionneur principal
+Manípulo da seccionadora principal
+主隔离开关手柄
+Рукоятка главного разъединителя
+Rączka rozłącznika głównego
+Főszakaszoló kar
+Palanca del seccionador principal
+
+#1736
+Le seul dispositif d'isolement que vous verrouillez. Il a un verrouillage de porte : la porte ne s'ouvre pas tant qu'il est sur ON.
+O único dispositivo de isolamento que você bloqueia. Tem um intertravamento de porta: a porta não abre enquanto ele estiver em ON.
+你要上锁的唯一隔离装置。它带有门联锁：处于ON时门打不开。
+Единственное устройство отключения, которое вы блокируете. Имеет блокировку двери: дверь не откроется, пока он в положении ON.
+Jedyne urządzenie odcinające, które blokujesz. Ma blokadę drzwi: drzwi nie otworzą się, gdy jest na ON.
+Az egyetlen leválasztó eszköz, amelyet lezár. Ajtóreteszelése van: az ajtó nem nyílik ki, amíg ON állásban van.
+El único dispositivo de aislamiento que usted bloquea. Tiene enclavamiento de puerta: la puerta no se abre mientras está en ON.
+
+#1737
+Il arrête vite la machine. Ce n'est PAS un isolement : il peut être réarmé et la machine redémarre.
+Ele para a máquina rapidamente. NÃO é isolamento: pode ser liberado e a máquina reinicia.
+它能让机器迅速停下。它不是隔离：可以被复位，机器会重新启动。
+Быстро останавливает машину. Это НЕ отключение: его можно вернуть, и машина снова запустится.
+Szybko zatrzymuje maszynę. To NIE jest odcięcie: można go zwolnić i maszyna ruszy ponownie.
+Gyorsan megállítja a gépet. NEM leválasztás: ki lehet oldani, és a gép újraindul.
+Para la máquina rápido. NO es aislamiento: se puede rearmar y la máquina vuelve a arrancar.
+
+#1738
+Sélecteur
+Seletora
+选择开关
+Селекторный переключатель
+Przełącznik wybierakowy
+Választókapcsoló
+Selector
+
+#1739
+Un organe de commande. Jamais un arrêt sûr pour travailler.
+Um dispositivo de comando. Nunca uma parada segura para trabalho.
+一种控制设备。绝不能作为作业时的安全停机。
+Устройство управления. Никогда не является безопасной остановкой для работы.
+Urządzenie sterujące. Nigdy nie jest bezpiecznym zatrzymaniem do pracy.
+Vezérlőeszköz. Soha nem biztonságos leállítás munkához.
+Un dispositivo de mando. Nunca es una parada segura para trabajar.
+
+#1740
+Il affiche l'état de la machine. Un écran sombre ne veut pas dire que l'armoire est hors tension.
+Mostra o estado da máquina. Uma tela escura não significa que o painel está sem energia.
+它显示机器状态。屏幕是黑的并不代表柜子已断电。
+Показывает состояние машины. Тёмный экран не означает, что шкаф обесточен.
+Pokazuje stan maszyny. Ciemny ekran nie oznacza, że szafa jest bez napięcia.
+A gép állapotát mutatja. A sötét képernyő nem jelenti, hogy a szekrény áramtalan.
+Muestra el estado de la máquina. Una pantalla apagada no significa que el armario esté sin tensión.
+
+#1741
+Étiquette de danger
+Etiqueta de perigo
+危险标识
+Предупреждающая табличка
+Etykieta ostrzegawcza
+Veszélyjelző címke
+Etiqueta de peligro
+
+#1742
+Elle avertit que des parties restent sous tension à l'intérieur même avec le sectionneur sur OFF.
+Avisa que partes vivas permanecem dentro mesmo com a seccionadora em OFF.
+它警告：即使隔离开关处于OFF，柜内仍有带电部分。
+Предупреждает, что внутри остаются части под напряжением, даже когда разъединитель в положении OFF.
+Ostrzega, że wewnątrz pozostają części pod napięciem nawet przy rozłączniku na OFF.
+Figyelmeztet, hogy bent feszültség alatti részek maradnak akkor is, ha a szakaszoló OFF állásban van.
+Advierte de que quedan partes con tensión dentro incluso con el seccionador en OFF.
+
+#1743
+Sectionneur et bornes sous tension
+Seccionadora e terminais energizados
+隔离开关与带电端子
+Разъединитель и клеммы под напряжением
+Rozłącznik i zaciski pod napięciem
+Szakaszoló és feszültség alatti kapcsok
+Seccionador y bornes con tensión
+
+#1744
+Le cadre rouge en pointillés est sous tension en permanence. Ne touchez pas les bornes du haut, même sur OFF et verrouillé.
+A caixa vermelha tracejada está energizada o tempo todo. Não toque nos terminais superiores, mesmo em OFF e bloqueado.
+红色虚线框内一直带电。即使处于OFF并已上锁，也不要碰上面的端子。
+Красная пунктирная рамка всегда под напряжением. Не прикасайтесь к верхним клеммам, даже когда аппарат в положении OFF и заблокирован.
+Czerwona przerywana ramka jest cały czas pod napięciem. Nie dotykaj górnych zacisków, nawet przy OFF i zablokowanym.
+A szaggatott piros keret mindig feszültség alatt van. Ne érintse a felső kapcsokat, még OFF állásban és lezárva sem.
+El recuadro rojo de trazos está siempre con tensión. No toque los bornes superiores, ni siquiera en OFF y bloqueado.
+
+#1745
+Disjoncteurs
+Disjuntores
+断路器
+Автоматы
+Wyłączniki
+Megszakítók
+Interruptores
+
+#1746
+Ils protègent chaque circuit. Les couper n'est pas une consignation de l'armoire.
+Protegem cada circuito. Desligá-los não é um bloqueio do painel.
+保护每条回路。把它们关掉并不等于给柜子上锁。
+Защищают каждую цепь. Их отключение — это не блокировка шкафа.
+Chronią każdy obwód. Wyłączenie ich nie jest zablokowaniem szafy.
+Minden áramkört védenek. Kikapcsolásuk nem a szekrény lezárása.
+Protegen cada circuito. Apagarlos no es un bloqueo del armario.
+
+#1747
+Sa sortie peut garder une charge quelques secondes. Son entrée est du côté sous tension.
+A saída pode reter carga por alguns segundos. A entrada fica no lado vivo.
+它的输出端可以保留电荷几秒钟。输入端在带电一侧。
+Выход может держать заряд несколько секунд. Вход находится на стороне под напряжением.
+Jego wyjście może utrzymywać ładunek przez kilka sekund. Jego wejście jest po stronie pod napięciem.
+A kimenete néhány másodpercig tarthat töltést. A bemenete a feszültség alatti oldalon van.
+Su salida puede retener carga unos segundos. Su entrada está en el lado con tensión.
+
+#1748
+Il commute le moteur. C'est un organe de commande, pas un isolement.
+Liga o motor. É um dispositivo de comando, não isolamento.
+它负责接通电机。它是控制设备，不是隔离装置。
+Коммутирует двигатель. Это устройство управления, а не отключение.
+Załącza silnik. To urządzenie sterujące, nie odcięcie.
+A motort kapcsolja. Vezérlőeszköz, nem leválasztás.
+Conmuta el motor. Es un dispositivo de mando, no aislamiento.
+
+#1749
+Automate
+CLP
+PLC
+ПЛК
+PLC
+PLC
+PLC
+
+#1750
+Son programme peut démarrer des sorties tout seul. Isolez avant de toucher au câblage.
+O programa pode ligar saídas sozinho. Isole antes de tocar na fiação.
+它的程序可能自行启动输出。碰接线之前先隔离。
+Его программа может сама включить выходы. Отключите питание, прежде чем прикасаться к проводке.
+Jego program może sam uruchomić wyjścia. Odetnij zasilanie, zanim dotkniesz okablowania.
+A programja önállóan is bekapcsolhat kimeneteket. A huzalozás érintése előtt válassza le.
+Su programa puede activar salidas por sí solo. Aísle antes de tocar el cableado.
+
+#1751
+Bornier
+Régua de terminais
+端子排
+Клеммная колодка
+Listwa zaciskowa
+Kapocsléc
+Regleta de bornes
+
+#1752
+Une tension étrangère (venant d'une autre armoire) peut être présente même quand celle-ci est hors tension. Testez-les.
+Tensão externa (de outro painel) pode estar presente mesmo com este painel sem energia. Teste-os.
+即使这个柜子已断电，也可能存在来自其他柜子的外来电压。要逐个测试。
+Постороннее напряжение (из другого шкафа) может присутствовать, даже если этот шкаф обесточен. Проверьте их.
+Napięcie obce (z innej szafy) może występować, nawet gdy ta szafa jest bez napięcia. Sprawdź je.
+Idegen feszültség (egy másik szekrényből) akkor is lehet jelen, ha ez a szekrény áramtalan. Vizsgálja meg őket.
+Puede haber tensión ajena (de otro armario) aunque este esté sin tensión. Pruébelos.
+
+#1753
+Arrêtez la machine normalement, puis mettez le sectionneur principal sur OFF.
+Pare a máquina normalmente e depois coloque a seccionadora principal em OFF.
+先按正常方式停机，然后把主隔离开关转到OFF。
+Остановите машину в обычном порядке, затем переведите главный разъединитель в положение OFF.
+Zatrzymaj maszynę w normalny sposób, potem przełącz rozłącznik główny na OFF.
+Állítsa le a gépet a szokásos módon, majd kapcsolja a főszakaszolót OFF állásba.
+Pare la máquina de la forma normal y luego ponga el seccionador principal en OFF.
+
+#1754
+Posez votre cadenas et votre étiquette sur la poignée du sectionneur.
+Coloque seu cadeado e etiqueta no manípulo da seccionadora.
+把你的挂锁和标签装在隔离开关手柄上。
+Установите свой замок и бирку на рукоятку разъединителя.
+Załóż swoją kłódkę i zawieszkę na rączce rozłącznika.
+Tegye fel a lakatját és a címkéjét a szakaszoló karjára.
+Ponga su candado y su etiqueta en la palanca del seccionador.
+
+#1755
+Ouvrez la porte, puis testez avec le testeur : prouver, tester, prouver. Restez à l'écart des bornes du haut sous tension.
+Abra a porta e depois teste com o testador: comprovar, testar, comprovar. Mantenha distância dos terminais superiores energizados.
+打开柜门，然后用验电器测试：验证、测试、再验证。远离带电的上部端子。
+Откройте дверь, затем проверьте указателем напряжения: проверить, измерить, проверить. Держитесь подальше от верхних клемм под напряжением.
+Otwórz drzwi, potem sprawdź próbnikiem: sprawdź, zmierz, sprawdź. Trzymaj się z dala od górnych zacisków pod napięciem.
+Nyissa ki az ajtót, majd vizsgálja meg a vizsgálóval: ellenőrzés, mérés, ellenőrzés. Maradjon távol a felső, feszültség alatti kapcsoktól.
+Abra la puerta y luego pruebe con el comprobador: comprobar, medir, comprobar. Manténgase lejos de los bornes superiores con tensión.
+
+#1756
+Testeur bipolaire sur chaque phase et vers la terre aux bornes de la charge : 0 V.
+Testador bipolar em cada fase e para a terra nos terminais da carga: 0 V.
+用双极验电器测每一相以及负载端子对地：0 V。
+Двухполюсный указатель на каждой фазе и на землю у клемм нагрузки: 0 В.
+Próbnik dwubiegunowy na każdej fazie i względem ziemi na zaciskach odbioru: 0 V.
+Kétpólusú vizsgáló minden fázison és a föld felé a terhelés kapcsain: 0 V.
+Comprobador bipolar en cada fase y a tierra en los bornes de la carga: 0 V.
+
+#1757
+Travailler à l'intérieur avec seulement l'arrêt d'urgence enfoncé.
+Trabalhar lá dentro apenas com a parada de emergência pressionada.
+只按下急停就在柜子里面作业。
+Работать внутри, нажав только аварийный стоп.
+Praca w środku z naciśniętym tylko wyłącznikiem awaryjnym.
+Belül dolgozni úgy, hogy csak a vészleállító van benyomva.
+Trabajar dentro solo con la parada de emergencia pulsada.
+
+#1758
+Neutraliser le verrouillage de porte avec le sectionneur sur ON.
+Anular o intertravamento da porta com a seccionadora em ON.
+在隔离开关处于ON的情况下强行解除门联锁。
+Обходить блокировку двери при разъединителе в положении ON.
+Obejście blokady drzwi przy rozłączniku na ON.
+Az ajtóreteszelést kijátszani, miközben a szakaszoló ON állásban van.
+Anular el enclavamiento de la puerta con el seccionador en ON.
+
+#1759
+Toucher les bornes du haut du sectionneur.
+Tocar nos terminais superiores da seccionadora.
+碰隔离开关上面的端子。
+Прикасаться к верхним клеммам разъединителя.
+Dotykanie górnych zacisków rozłącznika.
+A szakaszoló felső kapcsainak megérintése.
+Tocar los bornes superiores del seccionador.
+
+#1760
+IEC 60204-1 : dispositif de coupure de l'alimentation et verrouillage de porte ; EN 50110-1.
+IEC 60204-1: dispositivo de seccionamento da alimentação e intertravamento de porta; EN 50110-1.
+IEC 60204-1：电源断开装置与门联锁；EN 50110-1。
+IEC 60204-1: устройство отключения питания и блокировка двери; EN 50110-1.
+IEC 60204-1: urządzenie odłączające zasilanie i blokada drzwi; EN 50110-1.
+IEC 60204-1: a betáplálást megszakító eszköz és az ajtóreteszelés; EN 50110-1.
+IEC 60204-1: dispositivo de desconexión de la alimentación y enclavamiento de puerta; EN 50110-1.
+
+#1761
+Machines et alimentation
+Máquinas e alimentação
+机器与供电
+Машины и питание
+Maszyny i zasilanie
+Gépek és betáplálás
+Máquinas y alimentación
+
+#1762
+Air et fluides
+Ar e fluido
+气与流体
+Воздух и жидкости
+Powietrze i płyny
+Levegő és folyadék
+Aire y fluidos
+
+#1763
+Kit LOTO
+Kit LOTO
+LOTO套件
+Комплект LOTO
+Zestaw LOTO
+LOTO-készlet
+Kit LOTO
+
+#1764
+=
+=
+=
+=
+=
+=
+=
+
+#1765
+Interrupteur d'éclairage (éclairage monophasé)
+Interruptor de luz (iluminação monofásica)
+灯具开关（单相照明）
+Выключатель света (однофазное освещение)
+Włącznik światła (oświetlenie jednofazowe)
+Villanykapcsoló (egyfázisú világítás)
+Interruptor de luz (alumbrado monofásico)
+
+#1766
+Un interrupteur mural ne coupe que le fil sous tension d'un circuit de lampe. C'est un organe de commande, pas un sectionneur : le fil reste sous tension dans le boîtier et côté alimentation. Pour travailler sur l'éclairage, coupez le disjoncteur d'éclairage et verrouillez-le. Le cache rouge empêche seulement quelqu'un d'allumer une lampe pendant que vous travaillez dessus.
+Um interruptor de parede interrompe somente o fio vivo de um circuito de lâmpada. É um dispositivo de comando, não um seccionador: o fio continua vivo dentro da caixa e no lado da alimentação. Para trabalho de iluminação, desligue o disjuntor da iluminação e bloqueie-o. A tampa vermelha só impede que alguém acenda uma lâmpada enquanto você trabalha nela.
+墙壁开关只断开一条灯具回路的相线。它是控制设备，不是隔离开关：线路在盒子里和电源侧仍然带电。做照明作业时，要关掉照明断路器并给它上锁。红色盖板只能防止有人在你检修某一盏灯时把灯打开。
+Настенный выключатель разрывает только фазный провод цепи одного светильника. Это устройство управления, а не разъединитель: провод остаётся под напряжением внутри коробки и на стороне питания. Для работ по освещению отключите автомат освещения и заблокируйте его. Красная крышка лишь не даёт кому-то включить светильник, пока вы работаете с этим светильником.
+Włącznik ścienny przerywa tylko przewód fazowy jednego obwodu lampy. To urządzenie sterujące, nie rozłącznik: przewód nadal jest pod napięciem w puszce i po stronie zasilania. Przy pracach przy oświetleniu wyłącz wyłącznik obwodu oświetlenia i zablokuj go. Czerwona osłona tylko powstrzymuje kogoś przed włączeniem lampy, gdy pracujesz przy tej jednej lampie.
+A fali kapcsoló csak egy lámpakör fázisvezetékét szakítja meg. Vezérlőeszköz, nem szakaszoló: a vezeték a dobozban és a betáplálási oldalon továbbra is feszültség alatt van. Világítási munkánál kapcsolja ki a világítási megszakítót, és zárja le azt. A piros fedél csak azt akadályozza meg, hogy valaki felkapcsoljon egy lámpát, miközben Ön azon az egy lámpán dolgozik.
+Un interruptor de pared solo corta el cable de fase de un circuito de lámpara. Es un dispositivo de mando, no un seccionador: el cable sigue con tensión dentro de la caja y en el lado de alimentación. Para trabajos de alumbrado, apague el interruptor automático de alumbrado y bloquéelo. La tapa roja solo impide que alguien encienda una lámpara mientras usted trabaja en esa lámpara.
+
+#1767
+Alimente : un circuit d'éclairage, 230 V, monophasé (L et N).
+Alimenta: um circuito de iluminação, 230 V, monofásico (L e N).
+供电对象：一条照明回路，230 V，单相（L和N）。
+Питает: одну цепь освещения, 230 В, однофазная (L и N).
+Zasila: jeden obwód oświetleniowy, 230 V, jednofazowy (L i N).
+Táplál: egy világítási kört, 230 V, egyfázisú (L és N).
+Alimenta: un circuito de alumbrado, 230 V, monofásico (L y N).
+
+#1768
+ON : la lame ferme l'intervalle
+ON: a lâmina fecha a abertura
+ON：触片接通间隙
+ON: пластина замыкает зазор
+ON: styk zwiera szczelinę
+ON: a lap áthidalja a rést
+ON: la lámina cierra el hueco
+
+#1769
+OFF : entrefer
+OFF: entreferro
+OFF：空气间隙
+OFF: воздушный зазор
+OFF: szczelina powietrzna
+OFF: légrés
+OFF: entrehierro
+
+#1770
+Bascule
+Tecla
+翘板按键
+Клавиша
+Klawisz
+Billenő
+Tecla
+
+#1771
+La partie sur laquelle vous appuyez. Elle ne déplace qu'une petite lame à l'intérieur.
+A parte que você pressiona. Ela só move uma pequena lâmina lá dentro.
+你按的部分。它只带动里面的一片小触片。
+Часть, на которую вы нажимаете. Она лишь перемещает маленькую пластину внутри.
+Część, którą naciskasz. Porusza tylko małą blaszkę w środku.
+Az a rész, amelyet megnyom. Csak egy kis lapot mozgat belül.
+La parte que usted pulsa. Solo mueve una pequeña lámina en el interior.
+
+#1772
+Vis
+Parafusos
+螺钉
+Винты
+Śruby
+Csavarok
+Tornillos
+
+#1773
+Elles fixent la plaque à la boîte. Derrière elles, le câblage est sous tension même lampe éteinte.
+Prendem a placa à caixa. Atrás deles há fiação viva mesmo com a lâmpada apagada.
+把面板固定在接线盒上。即使灯是关的，它们后面的线路也带电。
+Крепят пластину к коробке. За ними проводка под напряжением, даже когда лампа выключена.
+Mocują płytkę do puszki. Za nimi jest okablowanie pod napięciem nawet przy wyłączonej lampie.
+A lapot rögzítik a dobozhoz. Mögöttük a huzalozás akkor is feszültség alatt van, ha a lámpa ki van kapcsolva.
+Sujetan la placa a la caja. Detrás hay cableado con tensión aunque la lámpara esté apagada.
+
+#1774
+Borne sous tension
+Terminal energizado
+带电端子
+Клемма под напряжением
+Zacisk pod napięciem
+Feszültség alatti kapocs
+Borne con tensión
+
+#1775
+Le fil marron est le conducteur de phase venant du disjoncteur. Il est sous tension ici, que l'interrupteur soit allumé ou éteint.
+O fio marrom é o condutor vivo (fase) que vem do disjuntor. Está vivo aqui, com o interruptor ligado ou desligado.
+棕色线是来自断路器的相线（带电导线）。无论开关是开还是关，这里都带电。
+Коричневый провод — это фазный проводник от автомата. Он под напряжением здесь независимо от того, включён выключатель или выключен.
+Brązowy przewód to przewód fazowy z wyłącznika. Jest tu pod napięciem niezależnie od tego, czy włącznik jest włączony, czy wyłączony.
+A barna vezeték a megszakítóból érkező fázisvezető. Itt feszültség alatt van, akár be van kapcsolva a kapcsoló, akár ki.
+El cable marrón es el conductor de fase que viene del interruptor automático. Tiene tensión aquí, esté el interruptor encendido o apagado.
+
+#1776
+Lame mobile
+Lâmina móvel
+活动触片
+Подвижная пластина
+Ruchoma blaszka
+Mozgó lap
+Lámina móvil
+
+#1777
+Ferme ou ouvre l'intervalle entre les deux contacts fixes. Un ressort à déclic la déplace rapidement.
+Fecha ou abre a abertura entre os dois contatos fixos. Uma mola de estalo a move rapidamente.
+闭合或断开两个固定触点之间的间隙。一根速动弹簧让它快速动作。
+Замыкает или размыкает зазор между двумя неподвижными контактами. Пружина мгновенного действия двигает её быстро.
+Zamyka lub otwiera szczelinę między dwoma stałymi stykami. Sprężyna zatrzaskowa porusza nią szybko.
+Zárja vagy nyitja a rést a két álló érintkező között. Egy pattanórugó mozgatja gyorsan.
+Cierra o abre el hueco entre los dos contactos fijos. Un muelle de resorte rápido la mueve deprisa.
+
+#1778
+Entrefer
+Entreferro
+空气间隙
+Воздушный зазор
+Szczelina powietrzna
+Légrés
+Entrehierro
+
+#1779
+En OFF il n'y a que quelques millimètres d'air. C'est suffisant pour une lampe, pas pour un isolement sûr d'une machine.
+Em OFF há apenas alguns milímetros de ar. Isso basta para uma lâmpada, mas não para um isolamento seguro de uma máquina.
+在OFF时只有几毫米空气间隙。对灯来说够了，但不足以对机器做安全隔离。
+В положении OFF остаётся лишь несколько миллиметров воздуха. Для лампы этого достаточно, для безопасного отключения машины — нет.
+W pozycji OFF jest tylko kilka milimetrów powietrza. To wystarcza dla lampy, ale nie do bezpiecznego odcięcia maszyny.
+OFF állásban csak néhány milliméter levegő van. Lámpához ez elég, egy gép biztonságos leválasztásához nem.
+En OFF solo hay unos milímetros de aire. Eso basta para una lámpara, pero no para un aislamiento seguro de una máquina.
+
+#1780
+Le neutre passe sans être coupé
+O neutro passa direto
+中性线直接通过
+Нейтраль проходит мимо
+Przewód neutralny przechodzi obok
+A nullavezeték elmegy mellette
+El neutro pasa de largo
+
+#1781
+Le neutre bleu n'est pas coupé. Une lampe n'est pas hors tension simplement parce que son interrupteur est éteint.
+O neutro azul não é seccionado. Uma lâmpada não está sem energia só porque o interruptor está desligado.
+蓝色的中性线不经过开关。灯并不会因为开关关了就一定不带电。
+Синяя нейтраль не коммутируется. Лампа не обесточена только потому, что её выключатель выключен.
+Niebieski przewód neutralny nie jest przełączany. Lampa nie jest bez napięcia tylko dlatego, że jej włącznik jest wyłączony.
+A kék nullavezetéket nem kapcsolja a kapcsoló. A lámpa nem áramtalan csak azért, mert a kapcsolója ki van kapcsolva.
+El neutro azul no se conmuta. Una lámpara no está sin tensión solo porque su interruptor esté apagado.
+
+#1782
+Coupez d'abord le disjoncteur d'éclairage. C'est le vrai isolement.
+Desligue primeiro o disjuntor da iluminação. Esse é o isolamento real.
+先关掉照明断路器。那才是真正的隔离。
+Сначала отключите автомат освещения. Это и есть настоящее отключение.
+Najpierw wyłącz wyłącznik obwodu oświetlenia. To jest prawdziwe odcięcie.
+Először kapcsolja ki a világítási megszakítót. Ez az igazi leválasztás.
+Apague primero el interruptor automático de alumbrado. Ese es el aislamiento real.
+
+#1783
+Posez le cache d'interrupteur sur la bascule (position OFF).
+Instale a tampa do interruptor sobre a tecla (posição OFF).
+把开关盖罩在翘板按键上（OFF位置）。
+Установите крышку выключателя поверх клавиши (положение OFF).
+Załóż osłonę włącznika na klawisz (pozycja OFF).
+Tegye a kapcsolófedelet a billenőre (OFF állás).
+Coloque la tapa del interruptor sobre la tecla (posición OFF).
+
+#1784
+Ajoutez votre cadenas et votre étiquette pour que personne n'allume la lampe pendant que vous êtes dans le luminaire.
+Adicione seu cadeado e etiqueta para que ninguém acenda a lâmpada enquanto você estiver na luminária.
+加上你的挂锁和标签，这样你在灯具里作业时没人会把灯打开。
+Добавьте свой замок и бирку, чтобы никто не включил лампу, пока вы работаете в светильнике.
+Dodaj swoją kłódkę i zawieszkę, aby nikt nie włączył lampy, gdy pracujesz w oprawie.
+Tegye fel a lakatját és a címkét, hogy senki ne kapcsolja fel a lámpát, amíg a lámpatestben dolgozik.
+Añada su candado y su etiqueta para que nadie encienda la lámpara mientras usted está en la luminaria.
+
+#1785
+Testez les bornes de la lampe avec un testeur bipolaire : L vers N, L vers la terre, N vers la terre.
+Teste os terminais da lâmpada com um testador bipolar: L para N, L para a terra, N para a terra.
+用双极验电器测试灯具端子：L对N、L对地、N对地。
+Проверьте клеммы светильника двухполюсным указателем: L на N, L на землю, N на землю.
+Sprawdź zaciski lampy dwubiegunowym próbnikiem: L do N, L do ziemi, N do ziemi.
+Vizsgálja meg a lámpa kapcsait kétpólusú vizsgálóval: L és N, L és föld, N és föld között.
+Pruebe los bornes de la lámpara con un comprobador bipolar: L a N, L a tierra, N a tierra.
+
+#1786
+Se fier à l'interrupteur : le fil sous tension est toujours dans le boîtier.
+Confiar no interruptor: o fio vivo ainda está na caixa.
+相信开关：带电的线还在盒子里。
+Доверять выключателю: фазный провод всё ещё в коробке.
+Zaufanie włącznikowi: przewód pod napięciem nadal jest w puszce.
+A kapcsolóban bízni: a feszültség alatti vezeték még mindig a dobozban van.
+Fiarse del interruptor: el cable con tensión sigue en la caja.
+
+#1787
+Changer une douille avec l'interrupteur éteint mais le disjoncteur enclenché.
+Trocar um soquete de lâmpada com o interruptor desligado mas o disjuntor ligado.
+开关关着但断路器还合着，就更换灯座。
+Менять патрон с выключенным выключателем, но включённым автоматом.
+Wymiana oprawki przy wyłączonym włączniku, ale włączonym wyłączniku nadprądowym.
+Lámpafoglalat cseréje kikapcsolt kapcsolóval, de bekapcsolt megszakítóval.
+Cambiar un portalámparas con el interruptor apagado pero el automático encendido.
+
+#1788
+IEC 60364-5-53 : un interrupteur de commande n'est pas un moyen d'isolement pour les travaux.
+IEC 60364-5-53: um interruptor de comando não é meio de isolamento para trabalho.
+IEC 60364-5-53：用于控制的开关不是作业时的隔离手段。
+IEC 60364-5-53: выключатель управления не является средством отключения для работ.
+IEC 60364-5-53: łącznik sterowniczy nie jest środkiem odcięcia do prac.
+IEC 60364-5-53: a vezérlésre szolgáló kapcsoló nem leválasztási eszköz munkavégzéshez.
+IEC 60364-5-53: un interruptor de mando no es un medio de aislamiento para trabajar.
+
+#1789
+Débranché
+Desconectado
+已拔下
+Отключена от розетки
+Wyjęta z gniazda
+Kihúzva
+Desenchufado
+
+#1790
+Branché
+Conectado
+已插上
+Вставлена в розетку
+Włożona do gniazda
+Bedugva
+Enchufado
+
+#1791
+Fiche
+Plugue
+插头
+Вилка
+Wtyczka
+Dugó
+Enchufe
+
+#1792
+Fiche et prise (monophasé 230 V)
+Plugue e tomada (monofásico 230 V)
+插头和插座（单相230 V）
+Вилка и розетка (однофазная 230 В)
+Wtyczka i gniazdo (jednofazowe 230 V)
+Dugó és aljzat (egyfázisú 230 V)
+Enchufe y base (monofásico 230 V)
+
+#1793
+Débrancher est un vrai isolement : on voit la coupure. Le danger est que quelqu'un la rebranche. La fiche est donc recouverte d'un blocage de fiche avec votre cadenas, ou elle reste dans votre poche. Une machine à cordon peut encore garder une charge dans un condensateur quelques secondes.
+Desconectar o plugue é um isolamento real: você vê a interrupção. O perigo é alguém ligá-lo de volta. Por isso o plugue é coberto com um bloqueio de plugue e seu cadeado, ou fica no seu bolso. Uma máquina com cabo ainda pode reter carga em um capacitor por alguns segundos.
+拔下插头是真正的隔离：你能看到断开点。危险在于有人把它重新插上。所以要给插头罩上插头锁具并挂上你的挂锁，或者把它放进你的口袋。带电源线的机器内部电容仍可能保留电荷几秒钟。
+Выдернуть вилку — это настоящее отключение: разрыв виден. Опасность в том, что кто-то воткнёт её обратно. Поэтому вилку закрывают блокиратором вилки и вашим замком или держат у себя в кармане. Машина с шнуром может ещё несколько секунд хранить заряд в конденсаторе.
+Wyjęcie wtyczki to prawdziwe odcięcie: widać przerwę. Niebezpieczeństwo polega na tym, że ktoś włoży ją z powrotem. Dlatego wtyczkę zakrywa się blokadą wtyczki i Twoją kłódką albo trzyma się ją w kieszeni. Maszyna z przewodem może jeszcze przez kilka sekund trzymać ładunek w kondensatorze.
+A dugó kihúzása valódi leválasztás: látható a megszakítás. A veszély az, hogy valaki visszadugja. Ezért a dugót dugóblokkolóval és az Ön lakatjával fedik le, vagy a zsebében marad. A vezetékes gép belső kondenzátorában még néhány másodpercig maradhat töltés.
+Desenchufar es un aislamiento real: se ve la ruptura. El peligro es que alguien lo vuelva a enchufar. Por eso el enchufe se cubre con un bloqueo de enchufe y su candado, o se queda en su bolsillo. Una máquina con cable aún puede retener carga en un condensador unos segundos.
+
+#1794
+Alimente : une machine raccordée par cordon, 230 V, L + N + terre.
+Alimenta: uma máquina ligada por cabo, 230 V, L + N + terra.
+供电对象：带电源线的机器，230 V，L + N + 地线。
+Питает: машину, подключаемую шнуром, 230 В, L + N + земля.
+Zasila: maszynę podłączoną przewodem, 230 V, L + N + ziemia.
+Táplál: vezetékes gépet, 230 V, L + N + föld.
+Alimenta: una máquina conectada con cable, 230 V, L + N + tierra.
+
+#1795
+Coupure visible
+Interrupção visível
+可见断点
+Видимый разрыв
+Widoczna przerwa
+Látható megszakítás
+Ruptura visible
+
+#1796
+Entrée de prise
+Entrada da tomada
+插座入口
+Вход розетки
+Wejście gniazda
+Aljzatnyílás
+Entrada de la base
+
+#1797
+Alvéoles à obturateurs sur des contacts en laiton. Sous tension tant que le disjoncteur qui alimente la prise est enclenché.
+Fendas com obturadores sobre contatos de latão. Vivas enquanto o disjuntor que alimenta a tomada estiver ligado.
+带保护门的插孔，里面是黄铜触点。只要给插座供电的断路器合着，就一直带电。
+Щели с шторками над латунными контактами. Под напряжением, пока включён автомат, питающий розетку.
+Szczeliny z przesłonami nad mosiężnymi stykami. Pod napięciem, dopóki włączony jest wyłącznik zasilający gniazdo.
+Zsaluzott nyílások sárgaréz érintkezők felett. Addig feszültség alatt vannak, amíg az aljzatot tápláló megszakító be van kapcsolva.
+Ranuras con obturadores sobre contactos de latón. Con tensión mientras esté conectado el automático que alimenta la base.
+
+#1798
+Corps de la fiche
+Corpo do plugue
+插头本体
+Корпус вилки
+Korpus wtyczki
+Dugó háza
+Cuerpo del enchufe
+
+#1799
+Tenez la fiche, pas le câble. Après le débranchement, plus rien n'est sous tension sur les broches.
+Segure o plugue, não o cabo. Depois de desconectar, nada nos pinos está vivo.
+拿插头，不要拉线缆。拔下后，插脚上不再带电。
+Держите вилку, а не кабель. После отключения на штырях нет напряжения.
+Trzymaj wtyczkę, nie przewód. Po wyjęciu na bolcach nic nie jest pod napięciem.
+A dugót fogja, ne a kábelt. A kihúzás után a tüskéken semmi sincs feszültség alatt.
+Sujete el enchufe, no el cable. Tras desenchufar, nada en las clavijas tiene tensión.
+
+#1800
+Broche de phase
+Pino de fase
+相线插脚
+Штырь фазы
+Bolec fazy
+Fázistüske
+Clavija de fase
+
+#1801
+Une broche porte la phase, l'autre le neutre. Une fiche peut se brancher dans les deux sens : ne vous fiez jamais à laquelle est laquelle.
+Um pino leva a fase, o outro o neutro. Um plugue pode ser encaixado dos dois lados: nunca confie em qual é qual.
+一个插脚接相线，另一个接中性线。插头可以正反两种方向插入：绝不要指望分得清哪个是哪个。
+Один штырь несёт фазу, другой нейтраль. Вилку можно вставить любой стороной: никогда не полагайтесь на то, какой штырь какой.
+Jeden bolec prowadzi fazę, drugi neutralny. Wtyczkę można włożyć w obu kierunkach: nigdy nie polegaj na tym, który jest który.
+Az egyik tüske a fázist, a másik a nullát vezeti. A dugó mindkét irányban bedugható: soha ne hagyatkozzon arra, hogy melyik melyik.
+Una clavija lleva la fase y la otra el neutro. Un enchufe puede conectarse en ambos sentidos: nunca confíe en cuál es cuál.
+
+#1802
+Broche de neutre
+Pino de neutro
+中性线插脚
+Штырь нейтрали
+Bolec neutralny
+Nullatüske
+Clavija de neutro
+
+#1803
+Il porte aussi du courant. Considérez-le sous tension jusqu'à preuve du contraire.
+Também conduz corrente. Trate como vivo até comprovar que está sem energia.
+它同样通电流。在证明无电之前，一律当作带电。
+Тоже проводит ток. Считайте его находящимся под напряжением, пока не доказано обратное.
+Również przewodzi prąd. Traktuj go jako będący pod napięciem, dopóki nie zostanie potwierdzone, że jest bez napięcia.
+Ez is áramot vezet. Tekintse feszültség alattinak, amíg nem igazolták az ellenkezőjét.
+También conduce corriente. Trátelo como si tuviera tensión hasta comprobar lo contrario.
+
+#1804
+Fil de terre
+Fio terra
+接地线
+Провод заземления
+Przewód ziemi
+Földvezeték
+Cable de tierra
+
+#1805
+La terre (PE) est le chemin de sécurité du corps de la machine. Elle se connecte en premier et part en dernier.
+A terra (PE) é o caminho de segurança da carcaça da máquina. Conecta primeiro e sai por último.
+接地（PE）是机器外壳的安全通路。它最先接通，最后断开。
+Земля (PE) — защитный путь для корпуса машины. Она подключается первой и отключается последней.
+Ziemia (PE) to ścieżka bezpieczeństwa dla obudowy maszyny. Łączy się pierwsza i rozłącza ostatnia.
+A föld (PE) a gép burkolatának biztonsági útja. Elsőként csatlakozik, és utolsóként szakad meg.
+La tierra (PE) es la vía de seguridad de la carcasa de la máquina. Conecta primero y se desconecta la última.
+
+#1806
+Serre-câble
+Prensa-cabo
+线缆夹
+Кабельный зажим
+Zacisk przewodu
+Kábelbilincs
+Sujetacables
+
+#1807
+Décharge de traction. Un câble tiré qui se détache peut amener un fil sous tension à l'extérieur.
+Alívio de tração. Um cabo puxado que se solta pode levar um fio vivo para fora.
+拉力释放装置。被拉扯脱出的线缆可能把带电导线带到外面。
+Разгрузка от натяжения. Выдернутый кабель может вывести наружу провод под напряжением.
+Odciążenie. Wyrwany przewód może wynieść przewód pod napięciem na zewnątrz.
+Húzásmentesítő. A kihúzott kábel, ha kilazul, feszültség alatti vezetéket hozhat a külső oldalra.
+Descarga de tracción. Un cable tirado que se suelta puede sacar un conductor con tensión al exterior.
+
+#1808
+Éteignez normalement la machine, puis débranchez la fiche (tenez la fiche, pas le câble).
+Desligue a máquina normalmente e depois puxe o plugue (segure o plugue, não o cabo).
+先按正常方式关机，然后拔下插头（拿插头，不要拉线缆）。
+Выключите машину в обычном порядке, затем выньте вилку (держитесь за вилку, а не за кабель).
+Wyłącz maszynę w normalny sposób, potem wyjmij wtyczkę (trzymaj wtyczkę, nie przewód).
+Kapcsolja ki a gépet a szokásos módon, majd húzza ki a dugót (a dugót fogja, ne a kábelt).
+Apague la máquina de la forma normal y luego desenchufe (sujete el enchufe, no el cable).
+
+#1809
+Posez le cache de blocage sur la fiche.
+Instale a tampa de bloqueio de plugue sobre o plugue.
+把插头锁具罩盖在插头上。
+Наденьте блокиратор вилки на вилку.
+Załóż osłonę blokującą na wtyczkę.
+Tegye a dugóblokkoló fedelet a dugóra.
+Coloque la tapa de bloqueo sobre el enchufe.
+
+#1810
+Ajoutez votre cadenas et votre étiquette. La clé reste sur vous.
+Adicione seu cadeado e etiqueta. A chave fica com você.
+加上你的挂锁和标签。钥匙留在你身上。
+Добавьте свой замок и бирку. Ключ остаётся у вас.
+Dodaj swoją kłódkę i zawieszkę. Klucz zostaje przy Tobie.
+Tegye fel a lakatját és a címkét. A kulcs az Ön kezében marad.
+Añada su candado y su etiqueta. La llave se queda con usted.
+
+#1811
+Attendez quelques secondes pour les condensateurs internes, puis testez l'entrée de la machine : L vers N, L vers la terre, N vers la terre.
+Espere alguns segundos pelos capacitores internos e depois teste a entrada da máquina: L para N, L para a terra, N para a terra.
+等几秒钟让内部电容放电，然后测试机器输入端：L对N、L对地、N对地。
+Подождите несколько секунд, пока разрядятся внутренние конденсаторы, затем проверьте вход машины: L на N, L на землю, N на землю.
+Poczekaj kilka sekund na wewnętrzne kondensatory, potem zbadaj wejście maszyny: L do N, L do ziemi, N do ziemi.
+Várjon néhány másodpercet a belső kondenzátorok miatt, majd vizsgálja meg a gép bemenetét: L és N, L és föld, N és föld között.
+Espere unos segundos por los condensadores internos y luego pruebe la entrada de la máquina: L a N, L a tierra, N a tierra.
+
+#1812
+Laisser la fiche non verrouillée par terre : n'importe qui peut la rebrancher.
+Deixar o plugue sem bloqueio no chão: qualquer um pode ligá-lo de volta.
+把没上锁的插头丢在地上：任何人都可以把它插回去。
+Оставить вилку без блокировки лежать на полу: любой может воткнуть её обратно.
+Pozostawienie niezablokowanej wtyczki na podłodze: każdy może ją włożyć z powrotem.
+A nem lezárt dugót a földön hagyni: bárki visszadughatja.
+Dejar el enchufe sin bloquear en el suelo: cualquiera puede volver a enchufarlo.
+
+#1813
+Éteindre à la machine sans débrancher.
+Desligar na máquina e não desconectar o plugue.
+只在机器上关闭而不拔插头。
+Выключить на машине, но не вынимать вилку.
+Wyłączenie na maszynie bez wyjęcia wtyczki.
+A gépen kikapcsolni, de nem kihúzni a dugót.
+Apagar en la máquina y no desenchufar.
+
+#1814
+Une fiche que vous voyez débranchée et gardez sous votre contrôle est acceptée comme isolement (note OSHA 1910.147, IEC 60364).
+Um plugue que você vê desconectado e mantém sob seu controle é aceito como isolamento (nota OSHA 1910.147, IEC 60364).
+你能看到已拔下、并且一直在你控制之下的插头，被认可为一种隔离（OSHA 1910.147注释，IEC 60364）。
+Вилка, которую вы видите выдернутой и держите под своим контролем, принимается как отключение (примечание OSHA 1910.147, IEC 60364).
+Wtyczka, którą widzisz wyjętą i trzymasz pod swoją kontrolą, jest akceptowana jako odcięcie (uwaga OSHA 1910.147, IEC 60364).
+Az a dugó, amelyet kihúzva lát, és az Ön ellenőrzése alatt tart, leválasztásként elfogadott (OSHA 1910.147 megjegyzés, IEC 60364).
+Un enchufe que usted ve desenchufado y mantiene bajo su control se acepta como aislamiento (nota de OSHA 1910.147, IEC 60364).
+
+#1815
+1. Alimentation : d'où vient l'énergie
+1. Alimentação: de onde vem a energia
+1. 供电：能量从哪里来
+1. Питание: откуда берётся энергия
+1. Zasilanie: skąd pochodzi energia
+1. Betáplálás: honnan jön az energia
+1. Alimentación: de dónde viene la energía
+
+#1816
+L'alimentation de l'usine comporte trois phases sous tension et un neutre. Le monophasé prend une phase et le neutre (230 V). Le biphasé prend deux phases (400 V). Le triphasé prend les trois. Chaque sectionneur ci-dessous coupe cette énergie en aval. L'alimentation elle-même reste sous tension.
+A alimentação da planta tem três fases vivas e um neutro. O monofásico usa uma fase e o neutro (230 V). O bifásico usa duas fases (400 V). O trifásico usa as três. Cada seccionador abaixo corta essa energia a jusante. A alimentação em si continua viva.
+工厂供电有三根带电的相线和一根中性线。单相取一根相线和中性线（230 V）。两相取两根相线（400 V）。三相取全部三根相线。下面每个隔离开关都会切断它下游的这些能量。电源本身仍然带电。
+В заводской сети три фазы под напряжением и нейтраль. Однофазное питание использует одну фазу и нейтраль (230 В). Двухфазное использует две фазы (400 В). Трёхфазное использует все три. Каждый разъединитель ниже отключает эту энергию после себя. Сам источник питания остаётся под напряжением.
+Zasilanie zakładu ma trzy fazy pod napięciem i przewód neutralny. Jednofazowe bierze jedną fazę i neutralny (230 V). Dwufazowe bierze dwie fazy (400 V). Trójfazowe bierze wszystkie trzy. Każdy rozłącznik poniżej odcina tę energię za sobą. Samo zasilanie pozostaje pod napięciem.
+Az üzem betáplálásának három feszültség alatti fázisa és egy nullavezetője van. Az egyfázisú egy fázist és a nullát veszi (230 V). A kétfázisú két fázist (400 V). A háromfázisú mind a hármat. Az alábbi minden szakaszoló az utána lévő részen szakítja meg ezt az energiát. Maga a betáplálás feszültség alatt marad.
+La alimentación de la planta tiene tres fases con tensión y un neutro. El monofásico toma una fase y el neutro (230 V). El bifásico toma dos fases (400 V). El trifásico toma las tres. Cada seccionador de abajo corta esta energía aguas abajo. La propia alimentación sigue con tensión.
+
+#1817
+2. Points monophasés et biphasés
+2. Pontos monofásicos e bifásicos
+2. 单相与两相点位
+2. Однофазные и двухфазные точки
+2. Punkty jednofazowe i dwufazowe
+2. Egyfázisú és kétfázisú pontok
+2. Puntos monofásicos y bifásicos
+
+#1818
+Éclairage, prises et petites machines. Un interrupteur ne fait que commander. Le disjoncteur ou la fiche est le vrai isolement.
+Iluminação, tomadas e pequenas máquinas. Um interruptor só comanda. O disjuntor ou o plugue é o isolamento real.
+照明、插座和小型机器。开关只起控制作用。断路器或插头才是真正的隔离。
+Освещение, розетки и небольшие машины. Выключатель только управляет. Настоящее отключение — это автомат или вилка.
+Oświetlenie, gniazda i małe maszyny. Włącznik tylko steruje. Prawdziwym odcięciem jest wyłącznik lub wtyczka.
+Világítás, aljzatok és kis gépek. A kapcsoló csak vezérel. Az igazi leválasztás a megszakító vagy a dugó.
+Alumbrado, bases y máquinas pequeñas. Un interruptor solo manda. El automático o el enchufe es el aislamiento real.
+
+#1819
+3. Isolement triphasé
+3. Isolamento trifásico
+3. 三相隔离
+3. Трёхфазное отключение
+3. Odcięcie trójfazowe
+3. Háromfázisú leválasztás
+3. Aislamiento trifásico
+
+#1820
+Machines et armoires. Ces appareils coupent les trois phases ensemble et reçoivent un cadenas ou un clip de consignation.
+Máquinas e painéis. Esses dispositivos cortam as três fases juntas e aceitam um cadeado ou um clipe de bloqueio.
+机器和控制柜。这些装置同时切断三相，并可以挂挂锁或装锁定卡扣。
+Машины и шкафы. Эти устройства отключают все три фазы вместе и принимают замок или блокировочную скобу.
+Maszyny i szafy. Te urządzenia odcinają wszystkie trzy fazy razem i przyjmują kłódkę lub zacisk blokujący.
+Gépek és szekrények. Ezek az eszközök mindhárom fázist együtt szakítják meg, és lakatot vagy lezáró csipeszt fogadnak.
+Máquinas y armarios. Estos dispositivos cortan las tres fases a la vez y admiten un candado o un clip de bloqueo.
+
+#1821
+4. Petite armoire de commande
+4. Pequeno painel de comando
+4. 小型控制柜
+4. Небольшой шкаф управления
+4. Mała szafa sterownicza
+4. Kis vezérlőszekrény
+4. Pequeño armario de control
+
+#1822
+Un sectionneur sur la porte coupe l'alimentation. Les boutons, l'arrêt d'urgence, le contacteur et l'automate ne font que commander. Certaines bornes restent sous tension même armoire isolée.
+Um seccionador na porta corta a energia. Os botões, a parada de emergência, o contator e o CLP só comandam. Alguns terminais continuam vivos mesmo com o painel isolado.
+门上的一个隔离开关切断电源。按钮、急停、接触器和PLC只起控制作用。即使柜子已隔离，有些端子仍然带电。
+Один разъединитель на двери отключает питание. Кнопки, аварийный стоп, контактор и ПЛК только управляют. Некоторые клеммы остаются под напряжением, даже когда шкаф отключён.
+Jeden rozłącznik na drzwiach odcina zasilanie. Przyciski, wyłącznik awaryjny, stycznik i PLC tylko sterują. Niektóre zaciski pozostają pod napięciem, nawet gdy szafa jest odcięta.
+Az ajtón lévő egy szakaszoló szakítja meg az áramot. A gombok, a vészleállító, a kontaktor és a PLC csak vezérel. Néhány kapocs akkor is feszültség alatt marad, ha a szekrény le van választva.
+Un seccionador en la puerta corta la energía. Los pulsadores, la parada de emergencia, el contactor y el PLC solo mandan. Algunos bornes siguen con tensión aunque el armario esté aislado.
+
+#1823
+5. Machines (les charges)
+5. Máquinas (as cargas)
+5. 机器（负载）
+5. Машины (нагрузки)
+5. Maszyny (odbiory)
+5. Gépek (a terhelések)
+5. Máquinas (las cargas)
+
+#1824
+Une machine n'est hors tension qu'après verrouillage du sectionneur en amont et test des bornes à 0 V.
+Uma máquina só está sem energia depois que o seccionador a montante é bloqueado e os terminais testam em 0 V.
+只有在上游的隔离开关上锁、端子测试为0 V之后，机器才算断电。
+Машина обесточена только после того, как заблокирован вышестоящий разъединитель и клеммы показали 0 В.
+Maszyna jest bez napięcia dopiero po zablokowaniu rozłącznika powyżej i zbadaniu zacisków na 0 V.
+A gép csak akkor áramtalan, ha az előtte lévő szakaszolót lezárták, és a kapcsok 0 V-ot mutatnak.
+Una máquina está sin tensión solo después de bloquear el seccionador aguas arriba y comprobar los bornes a 0 V.
+
+#1825
+6. Air et fluides
+6. Ar e fluido
+6. 气与流体
+6. Воздух и жидкости
+6. Powietrze i płyny
+6. Levegő és folyadék
+6. Aire y fluidos
+
+#1826
+Fermez et verrouillez la vanne, puis purgez la pression qui reste piégée en aval.
+Feche e bloqueie a válvula e depois alivie a pressão que fica retida a jusante.
+关闭并锁住阀门，然后泄放滞留在下游的压力。
+Закройте и заблокируйте клапан, затем сбросьте давление, оставшееся в линии после него.
+Zamknij i zablokuj zawór, potem spuść ciśnienie uwięzione za nim.
+Zárja el és zárja le a szelepet, majd engedje ki az utána rekedt nyomást.
+Cierre y bloquee la válvula, y luego purgue la presión que queda atrapada aguas abajo.
+
+#1827
+7. Énergie stockée
+7. Energia armazenada
+7. 储存的能量
+7. Накопленная энергия
+7. Zmagazynowana energia
+7. Tárolt energia
+7. Energía almacenada
+
+#1828
+L'énergie qui reste après la coupure : pression, charge, poids, ressorts et chaleur. Libérez-la, puis prouvez qu'elle a disparu.
+A energia que ainda existe depois que a chave é desligada: pressão, carga, peso, molas e calor. Libere-a e comprove que acabou.
+开关关断后仍然留着的能量：压力、电荷、重量、弹簧和热量。把它释放掉，然后证明它已经没了。
+Энергия, которая остаётся после отключения: давление, заряд, вес, пружины и тепло. Сбросьте её, затем докажите, что её нет.
+Energia, która pozostaje po wyłączeniu: ciśnienie, ładunek, ciężar, sprężyny i ciepło. Uwolnij ją, potem potwierdź, że jej nie ma.
+Az az energia, amely a kikapcsolás után is megmarad: nyomás, töltés, súly, rugók és hő. Engedje ki, majd igazolja, hogy eltűnt.
+La energía que sigue ahí después de apagar el interruptor: presión, carga, peso, muelles y calor. Libérela y luego compruebe que ha desaparecido.
+
+#1829
+8. Kit LOTO
+8. Kit LOTO
+8. LOTO套件
+8. Комплект LOTO
+8. Zestaw LOTO
+8. LOTO-készlet
+8. Kit LOTO
+
+#1830
+Ce que vous portez : votre propre cadenas, un moraillon pour l'équipe, une boîte de groupe, une étiquette et un testeur.
+O que você leva: seu próprio cadeado, uma presilha para a equipe, uma caixa de grupo, uma etiqueta e um testador.
+你随身携带的东西：自己的挂锁、供班组使用的搭扣、集体锁箱、标签和验电器。
+Что вы носите с собой: личный замок, накладку для бригады, групповой бокс, бирку и указатель напряжения.
+To, co nosisz ze sobą: własną kłódkę, zaczep dla ekipy, skrzynkę grupową, zawieszkę i próbnik.
+Amit magával visz: saját lakat, fül a csapatnak, csoportos doboz, címke és vizsgáló.
+Lo que usted lleva: su propio candado, un pestillo para el equipo, una caja de grupo, una etiqueta y un comprobador.
+
+#1831
+La source n'est pas verrouillée ici. Verrouillez le sectionneur en aval, puis testez L1 L2 L3 et la terre.
+A fonte não é bloqueada aqui. Bloqueie a seccionadora a jusante e depois teste L1 L2 L3 e a terra.
+电源不在这里上锁。锁住下游的隔离开关，然后测试L1 L2 L3和地。
+Источник здесь не блокируется. Заблокируйте разъединитель после него, затем проверьте L1 L2 L3 и землю.
+Źródło nie jest tu blokowane. Zablokuj rozłącznik za nim, potem zbadaj L1 L2 L3 i ziemię.
+A forrást itt nem zárják le. Zárja le a lejjebb lévő szakaszolót, majd vizsgálja meg az L1 L2 L3 és a föld között.
+La fuente no se bloquea aquí. Bloquee el seccionador aguas abajo y luego pruebe L1 L2 L3 y tierra.
+
+#1832
+Commande seulement. Le fil de la lampe est toujours sous tension dans le boîtier. Verrouillez plutôt le disjoncteur d'éclairage.
+Somente comando. O fio da lâmpada continua vivo na caixa. Bloqueie o disjuntor da iluminação.
+仅用于控制。灯的线路在盒子里仍然带电。应该锁住照明断路器。
+Только управление. Провод светильника всё ещё под напряжением в коробке. Вместо этого заблокируйте автомат освещения.
+Tylko sterowanie. Przewód lampy nadal jest pod napięciem w puszce. Zablokuj zamiast tego wyłącznik obwodu oświetlenia.
+Csak vezérlés. A lámpa vezetéke a dobozban továbbra is feszültség alatt van. Inkább a világítási megszakítót zárja le.
+Solo mando. El cable de la lámpara sigue con tensión en la caja. Bloquee en su lugar el automático de alumbrado.
+
+#1833
+Débranché, blocage de fiche sur les broches, cadenas et étiquette. Prouvez 0 V à la machine.
+Desconectado, bloqueio de plugue sobre os pinos, cadeado e etiqueta. Comprove 0 V na máquina.
+已拔下，插头锁具罩住插脚，挂锁和标签。在机器处验证0 V。
+Вилка выдернута, блокиратор вилки на штырях, замок и бирка. Подтвердите 0 В у машины.
+Wyjęta, blokada wtyczki na bolcach, kłódka i zawieszka. Potwierdź 0 V przy maszynie.
+Kihúzva, dugóblokkoló a tüskéken, lakat és címke. Igazolja a 0 V-ot a gépnél.
+Desenchufado, bloqueo de enchufe sobre las clavijas, candado y etiqueta. Compruebe 0 V en la máquina.
+
+#1834
+OFF, clip sur la manette, cadenas, étiquette. Testez côté charge : 0 V.
+OFF, clipe na alavanca, cadeado, etiqueta. Teste o lado da carga: 0 V.
+OFF，卡扣卡在拨杆上，挂锁，标签。测试负载侧：0 V。
+OFF, скоба на рычаге, замок, бирка. Проверьте сторону нагрузки: 0 В.
+OFF, zacisk na dźwigni, kłódka, zawieszka. Zbadaj stronę odbioru: 0 V.
+OFF, csipesz a karon, lakat, címke. Vizsgálja a terhelési oldalt: 0 V.
+OFF, clip en la palanca, candado, etiqueta. Pruebe el lado de la carga: 0 V.
+
+#1835
+Les deux pôles sur OFF, clip bipolaire, cadenas, étiquette. Testez L vers N et L vers la terre.
+Os dois polos em OFF, clipe bipolar, cadeado, etiqueta. Teste L para N e L para a terra.
+两极都在OFF，2极卡扣，挂锁，标签。测试L对N和L对地。
+Оба полюса в положении OFF, двухполюсная скоба, замок, бирка. Проверьте L на N и L на землю.
+Oba bieguny na OFF, zacisk dwubiegunowy, kłódka, zawieszka. Zbadaj L do N i L do ziemi.
+Mindkét pólus OFF, kétpólusú csipesz, lakat, címke. Vizsgálja L és N, valamint L és föld között.
+Ambos polos en OFF, clip bipolar, candado, etiqueta. Pruebe L a N y L a tierra.
+
+#1836
+Les trois pôles sur OFF, clip tripolaire, cadenas, étiquette. Testez L1 L2 L3 et la terre.
+Os três polos em OFF, clipe tripolar, cadeado, etiqueta. Teste L1 L2 L3 e a terra.
+三极都在OFF，3极卡扣，挂锁，标签。测试L1 L2 L3和地。
+Все три полюса в положении OFF, трёхполюсная скоба, замок, бирка. Проверьте L1 L2 L3 и землю.
+Wszystkie trzy bieguny na OFF, zacisk trójbiegunowy, kłódka, zawieszka. Zbadaj L1 L2 L3 i ziemię.
+Mindhárom pólus OFF, hárompólusú csipesz, lakat, címke. Vizsgálja az L1 L2 L3 és a föld között.
+Los tres polos en OFF, clip tripolar, candado, etiqueta. Pruebe L1 L2 L3 y tierra.
+
+#1837
+OFF, blocage de poignée, cadenas, étiquette. Testez chaque paire de phases et vers la terre.
+OFF, bloqueio de manípulo, cadeado, etiqueta. Teste cada par de fases e para a terra.
+OFF，手柄锁具，挂锁，标签。测试每对相线之间以及对地。
+OFF, блокиратор рукоятки, замок, бирка. Проверьте каждую пару фаз и на землю.
+OFF, blokada rączki, kłódka, zawieszka. Zbadaj każdą parę faz i względem ziemi.
+OFF, karblokkoló, lakat, címke. Vizsgálja minden fázispár között és a föld felé.
+OFF, bloqueo de palanca, candado, etiqueta. Pruebe cada par de fases y a tierra.
+
+#1838
+Porte-fusible retiré et verrouillé dans son support, ou interrupteur-fusible sur OFF et verrouillé. Testez.
+Porta-fusível retirado e bloqueado no suporte, ou chave-fusível em OFF e bloqueada. Teste.
+熔断器座抽出并锁在其支架里，或者熔断器开关处于OFF并上锁。进行测试。
+Патрон предохранителя вынут и заблокирован в держателе, либо выключатель-предохранитель в положении OFF и заблокирован. Проверьте.
+Wkładka bezpiecznikowa wyjęta i zablokowana w uchwycie albo rozłącznik bezpiecznikowy na OFF i zablokowany. Zbadaj.
+A biztosítóbetét-tartó kihúzva és a foglalatában lezárva, vagy a biztosítós kapcsoló OFF állásban és lezárva. Vizsgálja meg.
+Portafusibles extraído y bloqueado en su soporte, o interruptor-fusible en OFF y bloqueado. Pruebe.
+
+#1839
+Lame ouverte, cadenas dans le trou de la poignée, étiquette. Testez côté charge.
+Lâmina aberta, cadeado no furo do manípulo, etiqueta. Teste o lado da carga.
+刀片断开，挂锁穿过手柄孔，标签。测试负载侧。
+Нож разомкнут, замок в отверстии рукоятки, бирка. Проверьте сторону нагрузки.
+Nóż otwarty, kłódka w otworze rączki, zawieszka. Zbadaj stronę odbioru.
+A kés nyitva, a lakat a kar lyukában, címke. Vizsgálja a terhelési oldalt.
+Cuchilla abierta, candado en el orificio de la palanca, etiqueta. Pruebe el lado de la carga.
+
+#1840
+Poignée sur 0, cadenas dans le trou intégré, étiquette. Testez en aval. Les bornes du haut restent sous tension.
+Manípulo em 0, cadeado no furo integrado, etiqueta. Teste a jusante. Os terminais superiores continuam vivos.
+手柄在0位，挂锁挂在内置孔里，标签。测试下游。上面的端子仍然带电。
+Рукоятка на 0, замок во встроенном отверстии, бирка. Проверьте после аппарата. Верхние клеммы остаются под напряжением.
+Rączka na 0, kłódka we wbudowanym otworze, zawieszka. Zbadaj poniżej. Górne zaciski pozostają pod napięciem.
+A kar 0 állásban, a lakat a beépített lyukban, címke. Vizsgálja a lefelé eső oldalt. A felső kapcsok feszültség alatt maradnak.
+Palanca en 0, candado en el orificio integrado, etiqueta. Pruebe aguas abajo. Los bornes superiores siguen con tensión.
+
+#1841
+Sectionneur principal sur OFF et cadenassé, étiquette. Ouvrez la porte, puis prouver-tester-prouver. Restez à l'écart des bornes du haut sous tension.
+Seccionador principal em OFF e com cadeado, etiqueta. Abra a porta e depois comprovar-testar-comprovar. Mantenha distância dos terminais superiores energizados.
+主隔离开关在OFF并挂锁，标签。打开柜门，然后验证—测试—再验证。远离带电的上部端子。
+Главный разъединитель в положении OFF и закрыт на замок, бирка. Откройте дверь, затем проверить–измерить–проверить. Держитесь подальше от верхних клемм под напряжением.
+Rozłącznik główny na OFF i zablokowany kłódką, zawieszka. Otwórz drzwi, potem sprawdź–zmierz–sprawdź. Trzymaj się z dala od górnych zacisków pod napięciem.
+A főszakaszoló OFF állásban és lakattal lezárva, címke. Nyissa ki az ajtót, majd ellenőrzés–mérés–ellenőrzés. Maradjon távol a felső, feszültség alatti kapcsoktól.
+Seccionador principal en OFF y con candado, etiqueta. Abra la puerta y luego comprobar-medir-comprobar. Manténgase lejos de los bornes superiores con tensión.
+
+#1842
+Commande seulement. L'appuyer arrête la machine mais ne l'isole pas. Verrouillez le sectionneur principal.
+Somente comando. Pressioná-la para a máquina, mas não a isola. Bloqueie o seccionador principal.
+仅用于控制。按下它能让机器停下，但不能隔离。要锁住主隔离开关。
+Только управление. Нажатие останавливает машину, но не отключает её. Заблокируйте главный разъединитель.
+Tylko sterowanie. Jego naciśnięcie zatrzymuje maszynę, ale jej nie odcina. Zablokuj rozłącznik główny.
+Csak vezérlés. A megnyomása megállítja a gépet, de nem választja le. Zárja le a főszakaszolót.
+Solo mando. Pulsarla para la máquina pero no la aísla. Bloquee el seccionador principal.
+
+#1843
+Commande seulement. Ses contacts peuvent rester collés fermés. Isolez en amont et testez.
+Somente comando. Os contatos podem ficar colados fechados. Isole a montante e teste.
+仅用于控制。它的触点可能粘在闭合状态。在上游隔离并测试。
+Только управление. Его контакты могут залипнуть в замкнутом состоянии. Отключите выше по цепи и проверьте.
+Tylko sterowanie. Jego styki mogą się zakleić w stanie zamkniętym. Odetnij wyżej w obwodzie i zbadaj.
+Csak vezérlés. Az érintkezői zárva ragadhatnak. Válassza le az előtte lévő oldalon, és vizsgálja meg.
+Solo mando. Sus contactos pueden quedar pegados cerrados. Aísle aguas arriba y pruebe.
+
+#1844
+Source de 24 V. Isolez son entrée 230 V, attendez que la sortie retombe, testez 0 V.
+Fonte de 24 V. Isole sua entrada de 230 V, espere a saída cair e teste 0 V.
+24 V电源。隔离它的230 V输入，等输出降下来，测试0 V。
+Источник 24 В. Отключите его вход 230 В, подождите, пока выход упадёт, проверьте 0 В.
+Źródło 24 V. Odetnij jego wejście 230 V, poczekaj, aż wyjście spadnie, zbadaj 0 V.
+24 V-os forrás. Válassza le a 230 V-os bemenetét, várja meg, amíg a kimenet lecsökken, vizsgálja a 0 V-ot.
+Fuente de 24 V. Aísle su entrada de 230 V, espere a que la salida caiga y compruebe 0 V.
+
+#1845
+Commande seulement. Un programme peut démarrer des sorties tout seul. Isolez en amont et testez.
+Somente comando. Um programa pode ligar saídas sozinho. Isole a montante e teste.
+仅用于控制。程序可能自行启动输出。在上游隔离并测试。
+Только управление. Программа может сама включить выходы. Отключите выше по цепи и проверьте.
+Tylko sterowanie. Program może sam uruchomić wyjścia. Odetnij wyżej w obwodzie i zbadaj.
+Csak vezérlés. Egy program önállóan is bekapcsolhat kimeneteket. Válassza le az előtte lévő oldalon, és vizsgálja meg.
+Solo mando. Un programa puede activar salidas por sí solo. Aísle aguas arriba y pruebe.
+
+#1846
+Hors tension seulement quand son disjoncteur ou sa fiche est verrouillé. Déchargez ensuite le condensateur de marche.
+Sem energia somente quando o disjuntor ou o plugue está bloqueado. Depois descarregue o capacitor de funcionamento.
+只有它的断路器或插头上锁之后才算断电。然后给运行电容放电。
+Обесточен только когда его автомат или вилка заблокированы. Затем разрядите рабочий конденсатор.
+Bez napięcia dopiero po zablokowaniu jego wyłącznika lub wtyczki. Potem rozładuj kondensator pracy.
+Csak akkor áramtalan, ha a megszakítóját vagy dugóját lezárták. Ezután süsse ki az üzemi kondenzátort.
+Sin tensión solo cuando su automático o su enchufe está bloqueado. Luego descargue el condensador de marcha.
+
+#1847
+Hors tension seulement quand son sectionneur est verrouillé. Testez U V W aux bornes. L'arbre peut encore être entraîné par la charge.
+Sem energia somente quando a seccionadora está bloqueada. Teste U V W nos terminais. O eixo ainda pode ser girado pela carga.
+只有它的隔离开关上锁之后才算断电。在端子处测试U V W。轴仍可能被负载带动旋转。
+Обесточен только когда его разъединитель заблокирован. Проверьте U V W на клеммах. Вал всё ещё может проворачиваться нагрузкой.
+Bez napięcia dopiero po zablokowaniu jego rozłącznika. Zbadaj U V W na zaciskach. Wał nadal może być obracany przez obciążenie.
+Csak akkor áramtalan, ha a szakaszolóját lezárták. Vizsgálja az U V W kapcsokat. A tengelyt a terhelés még elforgathatja.
+Sin tensión solo cuando su seccionador está bloqueado. Pruebe U V W en los bornes. El eje todavía puede girarlo la carga.
+
+#1848
+Verrouillez son sectionneur, attendez le temps de l'étiquette, prouvez que le bus continu est à 0 V.
+Bloqueie a seccionadora, espere o tempo da etiqueta, comprove que o barramento CC está em 0 V.
+锁住它的隔离开关，等待标签上的时间，证明直流母线为0 V。
+Заблокируйте его разъединитель, подождите время, указанное на табличке, подтвердите, что шина постоянного тока на 0 В.
+Zablokuj jego rozłącznik, poczekaj czas z etykiety, potwierdź, że szyna DC jest na 0 V.
+Zárja le a szakaszolóját, várja meg a címkén megadott időt, igazolja, hogy a DC köztes kör 0 V-on van.
+Bloquee su seccionador, espere el tiempo de la etiqueta y compruebe que el bus de CC está a 0 V.
+
+#1849
+Levier fermé, blocage de vanne, cadenas, étiquette. Purgez la pression en aval à 0 bar.
+Alavanca fechada, bloqueio de válvula, cadeado, etiqueta. Alivie a pressão a jusante até 0 bar.
+手柄关闭，阀门锁具，挂锁，标签。把下游压力泄放到0 bar。
+Рычаг закрыт, блокиратор клапана, замок, бирка. Сбросьте давление после клапана до 0 бар.
+Dźwignia zamknięta, blokada zaworu, kłódka, zawieszka. Spuść ciśnienie za zaworem do 0 bar.
+A kar zárva, szelepblokkoló, lakat, címke. Engedje ki a lejjebb lévő nyomást 0 barra.
+Palanca cerrada, bloqueo de válvula, candado, etiqueta. Purgue la presión aguas abajo hasta 0 bar.
+
+#1850
+Volant fermé, cache de volant, cadenas, étiquette. Purgez à 0 bar.
+Volante fechado, tampa de volante, cadeado, etiqueta. Alivie até 0 bar.
+手轮关闭，手轮罩盖，挂锁，标签。泄压到0 bar。
+Маховик закрыт, крышка маховика, замок, бирка. Сбросьте до 0 бар.
+Kółko zamknięte, osłona kółka, kłódka, zawieszka. Spuść do 0 bar.
+A kézikerék zárva, kerékfedél, lakat, címke. Engedje ki 0 barra.
+Volante cerrado, tapa de volante, candado, etiqueta. Purgue hasta 0 bar.
+
+#1851
+Levier fermé dans son cran, plaque de blocage, cadenas, étiquette. Purgez à 0 bar.
+Alavanca fechada em seu entalhe, placa de bloqueio, cadeado, etiqueta. Alivie até 0 bar.
+手柄关在它的槽口里，锁定板，挂锁，标签。泄压到0 bar。
+Рычаг закрыт в своём пазу, блокировочная пластина, замок, бирка. Сбросьте до 0 бар.
+Dźwignia zamknięta w swoim wycięciu, płytka blokująca, kłódka, zawieszka. Spuść do 0 bar.
+A kar zárva a bevágásában, lezáró lemez, lakat, címke. Engedje ki 0 barra.
+Palanca cerrada en su muesca, placa de bloqueo, candado, etiqueta. Purgue hasta 0 bar.
+
+#1852
+Raccord déconnecté, capuchon de blocage sur la prise, cadenas, étiquette. Purgez côté machine.
+Engate desconectado, tampa de bloqueio no soquete, cadeado, etiqueta. Ventile o lado da máquina.
+接头已断开，插座上装锁定帽，挂锁，标签。把机器侧放空。
+Муфта разъединена, блокировочный колпачок на розетке, замок, бирка. Сбросьте давление со стороны машины.
+Złączka rozłączona, nasadka blokująca na gnieździe, kłódka, zawieszka. Odpowietrz stronę maszyny.
+A csatlakozó szétkapcsolva, lezáró sapka az aljzaton, lakat, címke. Légtelenítse a gép oldalát.
+Acoplamiento desconectado, tapón de bloqueo en la toma, candado, etiqueta. Ventee el lado de la máquina.
+
+#1853
+Vanne de décharge tirée fermée (elle purge la machine), cadenas dans son trou, étiquette. Manomètre à 0 bar.
+Válvula de descarga puxada para fechar (ela ventila a máquina), cadeado no furo, etiqueta. Manômetro em 0 bar.
+泄放阀拉到关闭位（它会给机器放空），挂锁穿过它的孔，标签。压力表为0 bar。
+Сбросной клапан закрыт вытягиванием (он сбрасывает давление машины), замок в его отверстии, бирка. Манометр на 0 бар.
+Zawór upustowy zamknięty przez pociągnięcie (odpowietrza maszynę), kłódka w jego otworze, zawieszka. Manometr na 0 bar.
+A leeresztő szelep behúzva zárt állásban (légteleníti a gépet), lakat a lyukában, címke. A manométer 0 baron áll.
+Válvula de descarga cerrada tirando (ventea la máquina), candado en su orificio, etiqueta. Manómetro a 0 bar.
+
+#1854
+Vanne d'entrée verrouillée fermée, purge ouverte, manomètre à 0 bar. Gardez la purge ouverte.
+Válvula de entrada bloqueada fechada, dreno aberto, manômetro em 0 bar. Mantenha o dreno aberto.
+进气阀锁在关闭位，排放口打开，压力表为0 bar。保持排放口打开。
+Входной клапан заблокирован в закрытом положении, дренаж открыт, манометр на 0 бар. Держите дренаж открытым.
+Zawór wlotowy zablokowany w pozycji zamkniętej, spust otwarty, manometr na 0 bar. Utrzymuj spust otwarty.
+A bemeneti szelep zárva lezárva, a leeresztő nyitva, a manométer 0 baron áll. Tartsa nyitva a leeresztőt.
+Válvula de entrada bloqueada cerrada, drenaje abierto, manómetro a 0 bar. Mantenga el drenaje abierto.
+
+#1855
+Pompe verrouillée, purge ouverte vers le réservoir, manomètre d'huile à 0 bar. La précharge de gaz reste.
+Bomba bloqueada, válvula de sangria aberta para o tanque, manômetro de óleo em 0 bar. A pré-carga de gás permanece.
+泵已上锁，泄压阀向油箱打开，油压表为0 bar。气体预充压力仍保留。
+Насос заблокирован, сбросной клапан на бак открыт, масляный манометр на 0 бар. Газовая предварительная зарядка остаётся.
+Pompa zablokowana, zawór upustowy do zbiornika otwarty, manometr oleju na 0 bar. Ciśnienie wstępne gazu pozostaje.
+A szivattyú lezárva, a tartályba vezető légtelenítő szelep nyitva, az olajmanométer 0 baron áll. A gáz előfeszítés megmarad.
+Bomba bloqueada, válvula de purga abierta al depósito, manómetro de aceite a 0 bar. La precarga de gas permanece.
+
+#1856
+Alimentation verrouillée, attente terminée, déchargé avec une perche à résistance. Le multimètre indique 0 V.
+Alimentação bloqueada, espera concluída, descarregado com vara de resistor. O multímetro indica 0 V.
+电源已上锁，等待时间已到，已用电阻放电棒放电。万用表读数为0 V。
+Питание заблокировано, ожидание выдержано, разряжено штангой с резистором. Мультиметр показывает 0 В.
+Zasilanie zablokowane, czas oczekiwania minął, rozładowano drążkiem z rezystorem. Multimetr pokazuje 0 V.
+A betáplálás lezárva, a várakozás letelt, ellenállásos rúddal kisütve. A multiméter 0 V-ot mutat.
+Alimentación bloqueada, espera cumplida, descargado con pértiga de resistencia. El polímetro marca 0 V.
+
+#1857
+Air isolé et purgé, cale de sécurité sous le coulisseau, cadenas sur la cale.
+Ar isolado e ventilado, calço de segurança sob o êmbolo, cadeado no calço.
+气源已隔离并放空，滑块下面装了安全支撑块，挂锁挂在支撑块上。
+Воздух отключён и сброшен, страховочный упор под ползуном, замок на упоре.
+Powietrze odcięte i odpowietrzone, blokada bezpieczeństwa pod suwakiem, kłódka na blokadzie.
+A levegő leválasztva és légtelenítve, biztonsági támasz a szán alatt, lakat a támaszon.
+Aire aislado y venteado, calzo de seguridad bajo el carro, candado en el calzo.
+
+#1858
+Ressort relâché ou retenu par une goupille. La goupille porte un cadenas.
+Mola liberada ou presa por um pino. O pino leva um cadeado.
+弹簧已释放，或由销固定住。销上挂有挂锁。
+Пружина сброшена или удерживается штифтом. На штифте висит замок.
+Sprężyna zwolniona lub trzymana sworzniem. Na sworzniu jest kłódka.
+A rugó kiengedve vagy szeggel tartva. A szegen lakat van.
+Muelle liberado o sujeto por un pasador. El pasador lleva un candado.
+
+#1859
+Isolé, vidangé et refroidi. Surface sous la limite, zone barrée et étiquetée.
+Isolado, drenado e resfriado. Superfície abaixo do limite, área isolada com barreira e etiquetada.
+已隔离、已排空、已冷却。表面温度低于限值，区域已设围栏并挂标签。
+Отключено, слито и остыло. Поверхность ниже предела, зона ограждена и обозначена бирками.
+Odcięte, spuszczone i ostudzone. Powierzchnia poniżej limitu, strefa odgrodzona i oznaczona zawieszką.
+Leválasztva, leürítve és lehűtve. A felület a határérték alatt van, a terület elkerítve és címkézve.
+Aislado, drenado y enfriado. Superficie por debajo del límite, zona balizada y etiquetada.
+
+#1860
+Votre propre cadenas, votre propre clé. La clé reste sur vous.
+Seu próprio cadeado, sua própria chave. A chave fica com você.
+你自己的锁，你自己的钥匙。钥匙留在你身上。
+Ваш собственный замок, ваш собственный ключ. Ключ остаётся у вас.
+Twoja własna kłódka, Twój własny klucz. Klucz zostaje przy Tobie.
+Saját lakat, saját kulcs. A kulcs az Ön kezében marad.
+Su propio candado, su propia llave. La llave se queda con usted.
+
+#1861
+Un moraillon, un cadenas par intervenant. Il reste jusqu'à ce que le dernier cadenas soit retiré.
+Uma presilha, um cadeado por trabalhador. Ela permanece até o último cadeado ser removido.
+一个搭扣，每人一把锁。直到最后一把锁取下之前它都留着。
+Одна накладка, по одному замку на каждого работника. Остаётся, пока не снят последний замок.
+Jeden zaczep, jedna kłódka na pracownika. Zostaje, dopóki nie zostanie zdjęta ostatnia kłódka.
+Egy fül, dolgozónként egy lakat. Addig marad, amíg az utolsó lakatot is le nem veszik.
+Un pestillo, un candado por trabajador. Se queda hasta que se quita el último candado.
+
+#1862
+Les clés des cadenas des points vont dans la boîte. Chaque intervenant verrouille la boîte.
+As chaves dos cadeados dos pontos vão na caixa. Cada trabalhador bloqueia a caixa.
+各点位挂锁的钥匙放进锁箱。每位作业人员都给锁箱上锁。
+Ключи от замков точек кладутся в бокс. Каждый работник блокирует бокс.
+Klucze do kłódek punktów trafiają do skrzynki. Każdy pracownik blokuje skrzynkę.
+A pontok lakatjainak kulcsai a dobozba kerülnek. Minden dolgozó lezárja a dobozt.
+Las llaves de los candados de los puntos van en la caja. Cada trabajador bloquea la caja.
+
+#1863
+Nom, date, motif et téléphone. Rempli avant d'être accroché.
+Nome, data, motivo e telefone. Preenchida antes de ser pendurada.
+姓名、日期、原因和电话。挂上之前就要填好。
+Имя, дата, причина и телефон. Заполняется до того, как бирка будет повешена.
+Imię i nazwisko, data, powód i telefon. Wypełniona przed powieszeniem.
+Név, dátum, ok és telefonszám. Az akasztás előtt kitöltve.
+Nombre, fecha, motivo y teléfono. Rellena antes de colgarla.
+
+#1864
+Prouvez sur une source connue, testez le point, prouvez à nouveau.
+Comprove em uma fonte conhecida, teste o ponto, comprove de novo.
+在已知电源上验证，测试该点，再次验证。
+Проверьте на известном источнике, измерьте в точке, проверьте снова.
+Sprawdź na znanym źródle, zbadaj punkt, sprawdź ponownie.
+Igazolja ismert forráson, vizsgálja a pontot, igazolja újra.
+Compruebe en una fuente conocida, pruebe el punto, vuelva a comprobar.
+
+#1865
+Commande seulement
+Somente comando
+仅用于控制
+Только управление
+Tylko sterowanie
+Csak vezérlés
+Solo mando
+
+#1866
+Machine
+Máquina
+机器
+Машина
+Maszyna
+Gép
+Máquina
+
+#1867
+Élément du kit
+Item do kit
+套件物品
+Предмет комплекта
+Element zestawu
+Készletelem
+Elemento del kit
+
+#1868
+Poignée sur 0, mon cadenas dans le trou, étiquette posée, testé 0 V en aval.
+Manípulo em 0, meu cadeado no furo, etiqueta colocada, testado 0 V a jusante.
+手柄在0位，我的挂锁挂在孔里，已挂标签，下游测试为0 V。
+Рукоятка на 0, мой замок в отверстии, бирка повешена, после аппарата измерено 0 В.
+Rączka na 0, moja kłódka w otworze, zawieszka założona, zbadano 0 V za aparatem.
+A kar 0 állásban, a lakatom a lyukban, a címke felakasztva, lefelé 0 V-ot mértem.
+Palanca en 0, mi candado en el orificio, etiqueta puesta, probado 0 V aguas abajo.
+
+#1869
+Correct : isoler, verrouiller, étiqueter, tester.
+Correto: isolar, bloquear, etiquetar, testar.
+正确：隔离、上锁、挂标签、测试。
+Правильно: отключить, заблокировать, повесить бирку, проверить.
+Poprawnie: odciąć, zablokować, oznaczyć zawieszką, zbadać.
+Helyes: leválasztás, lezárás, címkézés, vizsgálat.
+Correcto: aislar, bloquear, etiquetar, probar.
+
+#1870
+J'ai éteint la lampe à l'interrupteur mural et j'y ai accroché une étiquette.
+Desliguei a lâmpada no interruptor de parede e pendurei uma etiqueta nele.
+我在墙壁开关上把灯关了，并在上面挂了标签。
+Я выключил лампу настенным выключателем и повесил на него бирку.
+Wyłączyłem lampę włącznikiem ściennym i powiesiłem na nim zawieszkę.
+Kikapcsoltam a lámpát a fali kapcsolónál, és címkét akasztottam rá.
+Apagué la lámpara en el interruptor de pared y le colgué una etiqueta.
+
+#1871
+Un interrupteur est une commande, pas un isolement. Le fil sous tension est toujours dans le boîtier. Verrouillez le disjoncteur d'éclairage.
+Um interruptor é comando, não isolamento. O fio vivo continua na caixa. Bloqueie o disjuntor da iluminação.
+开关是控制，不是隔离。带电的线还在盒子里。要锁住照明断路器。
+Выключатель — это управление, а не отключение. Фазный провод всё ещё в коробке. Заблокируйте автомат освещения.
+Włącznik to sterowanie, nie odcięcie. Przewód pod napięciem nadal jest w puszce. Zablokuj wyłącznik obwodu oświetlenia.
+A kapcsoló vezérlés, nem leválasztás. A feszültség alatti vezeték még a dobozban van. Zárja le a világítási megszakítót.
+Un interruptor es mando, no aislamiento. El cable con tensión sigue en la caja. Bloquee el automático de alumbrado.
+
+#1872
+Arrêt d'urgence enfoncé. Je garde la main près du réarmement pour que personne ne le libère.
+Parada de emergência pressionada. Mantenho a mão perto do reset para que ninguém a libere.
+急停已按下。我把手放在复位旁边，免得有人松开它。
+Аварийный стоп нажат. Я держу руку возле сброса, чтобы никто его не отпустил.
+Wyłącznik awaryjny wciśnięty. Trzymam rękę przy resecie, żeby nikt go nie zwolnił.
+A vészleállító benyomva. A kezemet a visszaállítás mellett tartom, hogy senki ne oldja ki.
+Parada de emergencia pulsada. Mantengo la mano cerca del rearme para que nadie la libere.
+
+#1873
+Un arrêt d'urgence n'est pas un isolement et une main n'est pas un cadenas. Verrouillez le sectionneur principal.
+Uma parada de emergência não é isolamento e uma mão não é um cadeado. Bloqueie o seccionador principal.
+急停不是隔离，手也不是锁。要锁住主隔离开关。
+Аварийный стоп — не отключение, а рука — не замок. Заблокируйте главный разъединитель.
+Wyłącznik awaryjny to nie odcięcie, a ręka to nie kłódka. Zablokuj rozłącznik główny.
+A vészleállító nem leválasztás, és a kéz nem lakat. Zárja le a főszakaszolót.
+Una parada de emergencia no es aislamiento y una mano no es un candado. Bloquee el seccionador principal.
+
+#1874
+Levier de vanne fermé, blocage et cadenas posés. Je n'ai pas regardé le manomètre.
+Alavanca da válvula fechada, bloqueio e cadeado instalados. Não olhei o manômetro.
+阀门手柄已关，锁具和挂锁已装上。我没有看压力表。
+Рычаг клапана закрыт, блокиратор и замок установлены. Я не смотрел на манометр.
+Dźwignia zaworu zamknięta, blokada i kłódka założone. Nie spojrzałem na manometr.
+A szelepkar zárva, a blokkoló és a lakat felszerelve. A manométerre nem néztem rá.
+Palanca de válvula cerrada, bloqueo y candado puestos. No miré el manómetro.
+
+#1875
+La pression peut rester piégée en aval. Purgez-la et lisez 0 bar.
+A pressão pode ficar retida a jusante. Alivie e leia 0 bar.
+压力可能滞留在下游。把它泄放掉，并读到0 bar。
+Давление может остаться в линии после клапана. Сбросьте его и убедитесь в показании 0 бар.
+Ciśnienie może pozostać uwięzione za zaworem. Spuść je i odczytaj 0 bar.
+A nyomás lejjebb rekedhet. Engedje ki, és olvasson le 0 bart.
+La presión puede quedar atrapada aguas abajo. Purgue y lea 0 bar.
+
+#1876
+Entrée verrouillée, purge laissée ouverte, le manomètre indique 0 bar après une minute.
+Entrada bloqueada, dreno deixado aberto, o manômetro indica 0 bar após um minuto.
+进气已上锁，排放口保持打开，一分钟后压力表为0 bar。
+Вход заблокирован, дренаж оставлен открытым, манометр показывает 0 бар через минуту.
+Wlot zablokowany, spust pozostawiony otwarty, manometr pokazuje 0 bar po minucie.
+A bemenet lezárva, a leeresztő nyitva hagyva, a manométer egy perc után 0 bart mutat.
+Entrada bloqueada, drenaje dejado abierto, el manómetro marca 0 bar tras un minuto.
+
+#1877
+Correct : l'air stocké est libéré et prouvé.
+Correto: o ar armazenado é liberado e comprovado.
+正确：储存的空气已释放并得到证明。
+Правильно: накопленный воздух сброшен и это подтверждено.
+Poprawnie: zmagazynowane powietrze zostało uwolnione i potwierdzone.
+Helyes: a tárolt levegő kiengedve és igazolva.
+Correcto: el aire almacenado se libera y se comprueba.
+
+#1878
+Alimentation du variateur verrouillée. J'ai ouvert le capot tout de suite pour gagner du temps.
+Alimentação do inversor bloqueada. Abri a tampa imediatamente para economizar tempo.
+变频器电源已上锁。为了省时间，我马上打开了盖板。
+Питание преобразователя заблокировано. Я сразу открыл крышку, чтобы сэкономить время.
+Zasilanie falownika zablokowane. Od razu otworzyłem pokrywę, żeby zaoszczędzić czas.
+A hajtás betáplálása lezárva. Azonnal kinyitottam a fedelet, hogy időt spóroljak.
+Alimentación del variador bloqueada. Abrí la tapa enseguida para ahorrar tiempo.
+
+#1879
+Les condensateurs gardent la charge pendant des minutes. Attendez et prouvez 0 V sur le bus continu.
+Os capacitores mantêm a carga por minutos. Espere e comprove 0 V no barramento CC.
+电容会保持电荷好几分钟。要等待，并在直流母线上证明为0 V。
+Конденсаторы удерживают заряд несколько минут. Подождите и подтвердите 0 В на шине постоянного тока.
+Kondensatory trzymają ładunek przez kilka minut. Poczekaj i potwierdź 0 V na szynie DC.
+A kondenzátorok percekig tartják a töltést. Várjon, és igazolja a 0 V-ot a DC köztes körön.
+Los condensadores retienen la carga durante minutos. Espere y compruebe 0 V en el bus de CC.
+
+#1880
+Cadenas posé, la seule clé est dans la poche de ma combinaison.
+Cadeado colocado, a única chave está no bolso do meu macacão.
+挂锁已挂上，唯一的钥匙在我工作服的口袋里。
+Замок установлен, единственный ключ лежит в кармане моей спецовки.
+Kłódka założona, jedyny klucz jest w kieszeni mojego kombinezonu.
+A lakat fent van, az egyetlen kulcs az overallom zsebében van.
+Candado puesto, la única llave está en el bolsillo de mi mono.
+
+#1881
+Correct : un cadenas, une clé, avec son propriétaire.
+Correto: um cadeado, uma chave, com seu dono.
+正确：一把锁，一把钥匙，由它的主人保管。
+Правильно: один замок, один ключ, у своего владельца.
+Poprawnie: jedna kłódka, jeden klucz, u swojego właściciela.
+Helyes: egy lakat, egy kulcs, a gazdájánál.
+Correcto: un candado, una llave, con su dueño.
+
+#1882
+Vanne d'air fermée et purgée. Le coulisseau est en haut et je vais passer la main dessous rapidement.
+Válvula de ar fechada e ventilada. O êmbolo está no alto e vou enfiar a mão embaixo rapidamente.
+空气阀已关闭并放空。滑块在上面，我要很快地把手伸到下面去。
+Воздушный клапан закрыт и сброшен. Ползун поднят, и я быстро просуну руку под него.
+Zawór powietrza zamknięty i odpowietrzony. Suwak jest w górze i szybko sięgnę pod niego.
+A levegőszelep zárva és légtelenítve. A szán fent van, és gyorsan benyúlok alá.
+Válvula de aire cerrada y venteada. El carro está arriba y meteré la mano debajo rápidamente.
+
+#1883
+La gravité peut le faire tomber. Placez une cale mécanique de sécurité dessous et verrouillez-la.
+A gravidade pode derrubá-lo. Coloque um calço mecânico de segurança sob ele e bloqueie.
+重力会让它掉下来。在它下面放一个机械安全支撑块并上锁。
+Гравитация может уронить его. Поставьте под него механический страховочный упор и заблокируйте.
+Grawitacja może go zrzucić. Umieść pod nim mechaniczną blokadę bezpieczeństwa i zablokuj ją.
+A gravitáció leejtheti. Tegyen alá mechanikus biztonsági támaszt, és zárja le.
+La gravedad puede hacerlo caer. Ponga debajo un calzo mecánico de seguridad y bloquéelo.
+
+#1884
+Débranché, blocage de fiche sur les broches, mon cadenas et mon étiquette.
+Desconectado, bloqueio de plugue sobre os pinos, meu cadeado e minha etiqueta.
+已拔下，插头锁具罩住插脚，我的挂锁和标签。
+Вилка выдернута, блокиратор вилки на штырях, мой замок и моя бирка.
+Wyjęta, blokada wtyczki na bolcach, moja kłódka i zawieszka.
+Kihúzva, dugóblokkoló a tüskéken, az én lakatom és címkém.
+Desenchufado, bloqueo de enchufe sobre las clavijas, mi candado y mi etiqueta.
+
+#1885
+Correct : une coupure visible plus un cadenas.
+Correto: uma interrupção visível mais um cadeado.
+正确：可见断点加上一把锁。
+Правильно: видимый разрыв плюс замок.
+Poprawnie: widoczna przerwa plus kłódka.
+Helyes: látható megszakítás és egy lakat.
+Correcto: una ruptura visible más un candado.
+
+#1886
+Nous sommes trois sur le travail. Nous partageons mon cadenas pour faire simple.
+Somos três no trabalho. Compartilhamos meu cadeado para simplificar.
+这项工作我们有三个人。为了简单，我们共用我的一把锁。
+Нас трое на этой работе. Мы пользуемся одним моим замком, чтобы было проще.
+Jest nas trzech przy tej pracy. Dzielimy się moją kłódką, żeby było prościej.
+Hárman vagyunk a munkán. Az egyszerűség kedvéért megosztjuk az én lakatomat.
+Somos tres en el trabajo. Compartimos mi candado para simplificar.
+
+#1887
+Chaque personne a besoin d'un cadenas personnel sur le moraillon.
+Cada pessoa precisa de um cadeado pessoal na presilha.
+每个人都需要在搭扣上挂自己的个人挂锁。
+Каждому человеку нужен личный замок на накладке.
+Każda osoba potrzebuje osobistej kłódki na zaczepie.
+Mindenkinek személyes lakatra van szüksége a fülön.
+Cada persona necesita un candado personal en el pestillo.
+
+#1888
+J'ai testé les bornes et obtenu 0 V. Je n'ai pas prouvé le testeur d'abord.
+Testei os terminais e deu 0 V. Não comprovei o testador antes.
+我测了端子，读数是0 V。我没有先验证验电器。
+Я проверил клеммы и получил 0 В. Я не проверил сначала сам указатель.
+Zbadałem zaciski i wyszło 0 V. Nie sprawdziłem wcześniej próbnika.
+Megvizsgáltam a kapcsokat, és 0 V-ot kaptam. Előtte nem igazoltam a vizsgálót.
+Probé los bornes y obtuve 0 V. No comprobé antes el comprobador.
+
+#1889
+Un testeur en panne indique aussi 0 V. Prouver, tester, prouver.
+Um testador quebrado também mostra 0 V. Comprovar, testar, comprovar.
+坏了的验电器也会显示0 V。要验证、测试、再验证。
+Неисправный указатель тоже покажет 0 В. Проверить, измерить, проверить.
+Zepsuty próbnik też pokazuje 0 V. Sprawdź, zmierz, sprawdź.
+A hibás vizsgáló is 0 V-ot mutat. Ellenőrzés, mérés, ellenőrzés.
+Un comprobador averiado también marca 0 V. Comprobar, medir, comprobar.
+
+#1890
+Pompe verrouillée, purge ouverte vers le réservoir, manomètre d'huile à 0 bar.
+Bomba bloqueada, válvula de sangria aberta para o tanque, manômetro de óleo em 0 bar.
+泵已上锁，泄压阀向油箱打开，油压表为0 bar。
+Насос заблокирован, сбросной клапан на бак открыт, масляный манометр на 0 бар.
+Pompa zablokowana, zawór upustowy do zbiornika otwarty, manometr oleju na 0 bar.
+A szivattyú lezárva, a tartályba vezető légtelenítő szelep nyitva, az olajmanométer 0 baron áll.
+Bomba bloqueada, válvula de purga abierta al depósito, manómetro de aceite a 0 bar.
+
+#1891
+Correct. Que la précharge de gaz reste est normal.
+Correto. É normal a pré-carga de gás permanecer.
+正确。气体预充压力保留是正常的。
+Правильно. То, что газовая предварительная зарядка остаётся, нормально.
+Poprawnie. To normalne, że ciśnienie wstępne gazu pozostaje.
+Helyes. Normális, hogy a gáz előfeszítés megmarad.
+Correcto. Es normal que la precarga de gas permanezca.
+
+#1892
+Trouvez les erreurs
+Encontre os erros
+找出错误
+Найдите ошибки
+Znajdź błędy
+Keresse meg a hibákat
+Encuentre los errores
+
+#1893
+Douze techniciens décrivent ce qu'ils ont fait. Marquez chacun Sûr ou Pas sûr, puis vérifiez. Touchez une image pour regarder l'intérieur de l'appareil.
+Doze técnicos descrevem o que fizeram. Marque cada um como Seguro ou Não seguro e depois confira. Toque em uma imagem para ver dentro do dispositivo.
+十二位技术人员描述了他们的做法。把每一项标为"安全"或"不安全"，然后核对。点一下图片可以查看装置内部。
+Двенадцать техников описывают, что они сделали. Отметьте каждого как «Безопасно» или «Небезопасно», затем проверьте. Нажмите на картинку, чтобы заглянуть внутрь устройства.
+Dwunastu techników opisuje, co zrobili. Oznacz każdego jako Bezpiecznie lub Niebezpiecznie, potem sprawdź. Dotknij obrazka, aby zajrzeć do wnętrza urządzenia.
+Tizenkét technikus leírja, mit tett. Jelölje meg mindegyiket Biztonságosnak vagy Nem biztonságosnak, majd ellenőrizze. Érintsen meg egy képet, hogy bepillantson az eszköz belsejébe.
+Doce técnicos describen lo que hicieron. Marque cada uno como Seguro o No seguro y luego compruebe. Toque una imagen para ver el interior del dispositivo.
+
+#1894
+Sûr
+Seguro
+安全
+Безопасно
+Bezpiecznie
+Biztonságos
+Seguro
+
+#1895
+Pas sûr
+Não seguro
+不安全
+Небезопасно
+Niebezpiecznie
+Nem biztonságos
+No seguro
+
+#1896
+Pas tout à fait.
+Não exatamente.
+不对。
+Не совсем.
+Nie całkiem.
+Nem egészen.
+No exactamente.
+
+#1897
+Éléments non sûrs trouvés :
+Itens não seguros encontrados:
+找到的不安全项：
+Найдено небезопасных пунктов:
+Znalezione niebezpieczne pozycje:
+Talált nem biztonságos elemek:
+Elementos no seguros encontrados:
+
+#1898
+. Éléments sûrs que vous avez marqués non sûrs :
+. Itens seguros que você marcou como não seguros:
+。你误标为不安全的安全项：
+. Безопасных пунктов, отмеченных вами как небезопасные:
+. Bezpieczne pozycje oznaczone przez Ciebie jako niebezpieczne:
+. Biztonságos elemek, amelyeket nem biztonságosnak jelölt:
+. Elementos seguros que usted marcó como no seguros:
+
+#1899
+Vérifier mes réponses
+Conferir minhas respostas
+核对我的答案
+Проверить мои ответы
+Sprawdź moje odpowiedzi
+Válaszaim ellenőrzése
+Comprobar mis respuestas
+
+#1900
+Un échantillon de tout ce que vous rencontrez sur site : interrupteurs, vannes, monophasé, biphasé et triphasé, une petite armoire de commande, des machines, de l'énergie stockée et le kit LOTO. Passez sur « Après LOTO » pour voir comment chacun est isolé. Touchez une vignette pour voir l'intérieur.
+Uma amostra de tudo que você encontra na planta: interruptores, válvulas, mono, bi e trifásico, um pequeno painel de comando, máquinas, energia armazenada e o kit LOTO. Mude para "Depois do LOTO" para ver como cada um é isolado. Toque em qualquer bloco para ver por dentro.
+这里汇集了你在现场会遇到的各种设备：开关、阀门、单相、两相和三相、一个小型控制柜、机器、储存的能量以及LOTO套件。切换到"LOTO后"，就能看到每一种是怎样隔离的。点击任意一块可查看内部。
+Выборка всего, с чем вы сталкиваетесь на предприятии: выключатели, клапаны, одно-, двух- и трёхфазные точки, небольшой шкаф управления, машины, накопленная энергия и комплект LOTO. Переключитесь на «После LOTO», чтобы увидеть, как отключается каждый элемент. Нажмите на любую плитку, чтобы заглянуть внутрь.
+Próbka wszystkiego, z czym spotykasz się w zakładzie: włączniki, zawory, punkty jedno-, dwu- i trójfazowe, mała szafa sterownicza, maszyny, zmagazynowana energia i zestaw LOTO. Przełącz na „Po LOTO", aby zobaczyć, jak każdy element jest odcięty. Dotknij dowolnego kafelka, aby zajrzeć do środka.
+Minden, amivel az üzemben találkozik, mintaszerűen: kapcsolók, szelepek, egy-, két- és háromfázisú pontok, egy kis vezérlőszekrény, gépek, tárolt energia és a LOTO-készlet. Váltson a „LOTO után" nézetre, hogy lássa, hogyan van leválasztva mindegyik. Érintsen meg bármelyik csempét a belső nézethez.
+Una muestra de todo lo que encuentra en planta: interruptores, válvulas, monofásico, bifásico y trifásico, un pequeño armario de control, máquinas, energía almacenada y el kit LOTO. Cambie a «Después del LOTO» para ver cómo se aísla cada uno. Toque cualquier ficha para ver el interior.
+
+#1901
+Avant LOTO
+Antes do LOTO
+LOTO前
+До LOTO
+Przed LOTO
+LOTO előtt
+Antes del LOTO
+
+#1902
+Après LOTO
+Depois do LOTO
+LOTO后
+После LOTO
+Po LOTO
+LOTO után
+Después del LOTO
+
+#1903
+Vert : dispositif d'isolement, verrouillé et étiqueté
+Verde: dispositivo de isolamento, bloqueado e etiquetado
+绿色：隔离装置，已上锁并挂标签
+Зелёный: устройство отключения, заблокировано и с биркой
+Zielony: urządzenie odcinające, zablokowane i oznaczone zawieszką
+Zöld: leválasztó eszköz, lezárva és címkézve
+Verde: dispositivo de aislamiento, bloqueado y etiquetado
+
+#1904
+Orange : commande seulement, ne vous y fiez jamais
+Âmbar: somente comando, nunca confie nele
+琥珀色：仅用于控制，绝不能依赖它
+Янтарный: только управление, никогда не полагайтесь на него
+Bursztynowy: tylko sterowanie, nigdy na nim nie polegaj
+Borostyán: csak vezérlés, soha ne hagyatkozzon rá
+Ámbar: solo mando, no se fíe nunca de él
+
+#1905
+Bleu : énergie stockée libérée et prouvée
+Azul: energia armazenada liberada e comprovada
+蓝色：储存的能量已释放并得到证明
+Синий: накопленная энергия сброшена и подтверждена
+Niebieski: zmagazynowana energia uwolniona i potwierdzona
+Kék: a tárolt energia kiengedve és igazolva
+Azul: energía almacenada liberada y comprobada
+

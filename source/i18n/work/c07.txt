@@ -1,0 +1,2070 @@
+#988
+Molette thermique (Ir)
+Seletor térmico (Ir)
+热脱扣旋钮（Ir）
+Регулятор теплового расцепителя (Ir)
+Pokrętło termiczne (Ir)
+Termikus tárcsa (Ir)
+Selector térmico (Ir)
+
+#989
+Règle le courant de surcharge. Réglé trop haut, le câble peut surchauffer avant que le disjoncteur ne déclenche.
+Ajusta a corrente de sobrecarga. Se for ajustado alto demais, o cabo pode superaquecer antes de o disjuntor disparar.
+设定过载电流。调得太高时，电缆可能在断路器脱扣之前就过热了。
+Задаёт ток перегрузки. Если выставить слишком высоко, кабель может перегреться раньше, чем сработает автомат.
+Ustawia prąd przeciążeniowy. Ustawiony zbyt wysoko, może doprowadzić do przegrzania kabla, zanim wyłącznik zadziała.
+Beállítja a túláramot. Túl magasra állítva a kábel túlmelegedhet, mielőtt a megszakító kioldana.
+Fija la corriente de sobrecarga. Si se ajusta demasiado alto, el cable puede sobrecalentarse antes de que el interruptor dispare.
+
+#990
+Molette magnétique (Im)
+Seletor magnético (Im)
+磁脱扣旋钮（Im）
+Регулятор электромагнитного расцепителя (Im)
+Pokrętło magnetyczne (Im)
+Mágneses tárcsa (Im)
+Selector magnético (Im)
+
+#991
+Règle le seuil de court-circuit. Trop haut, un défaut éloigné peut ne pas le faire déclencher.
+Ajusta o limite de curto-circuito. Alto demais, uma falta distante pode não fazê-lo disparar.
+设定短路动作值。调得太高，远处的故障可能无法使其脱扣。
+Задаёт порог срабатывания при коротком замыкании. Если слишком высокий, удалённое повреждение может его не отключить.
+Ustawia próg zadziałania przy zwarciu. Zbyt wysoki może nie zadziałać przy odległej usterce.
+Beállítja a zárlati kioldási küszöböt. Túl magasan egy távoli hiba esetleg nem oldja ki.
+Fija el umbral de cortocircuito. Si es demasiado alto, una avería lejana puede no dispararlo.
+
+#992
+Bornes d'arrivée (haut)
+Terminais de entrada (topo)
+进线端子（上方）
+Входные клеммы (сверху)
+Zaciski zasilające (góra)
+Betáplálási kapcsok (felül)
+Bornes de entrada (arriba)
+
+#993
+Toujours sous tension : le cadenas ne les met pas en sécurité.
+Sempre energizados: o cadeado não os torna seguros.
+始终带电：挂锁并不能使它们安全。
+Всегда под напряжением: замок не делает их безопасными.
+Zawsze pod napięciem: kłódka nie czyni ich bezpiecznymi.
+Mindig feszültség alatt vannak: a lakat nem teszi őket biztonságossá.
+Siempre con tensión: el candado no los hace seguros.
+
+#994
+Cosse d'arrivée
+Terminal de entrada
+进线接线鼻
+Входной наконечник
+Końcówka zasilająca
+Betáplálási saru
+Terminal de entrada
+
+#995
+Cosse en cuivre pour le câble ou le jeu de barres. Sous tension depuis l'alimentation même sur OFF.
+Terminal de cobre para o cabo ou barramento. Energizado pela alimentação mesmo em OFF.
+接电缆或母排的铜接线鼻。即使在OFF位置，也因电源侧而带电。
+Медный наконечник для кабеля или шины. Находится под напряжением от сети даже в положении OFF.
+Miedziana końcówka dla kabla lub szyny zbiorczej. Pod napięciem od zasilania nawet w pozycji OFF.
+Rézsaru a kábelhez vagy gyűjtősínhez. A betáplálás felől KI állásban is feszültség alatt van.
+Terminal de cobre para el cable o el embarrado. Con tensión desde la alimentación incluso en OFF.
+
+#996
+Contact et chambre de coupure
+Contato e câmara de extinção
+触点和灭弧室
+Контакт и дугогасительная камера
+Styk i komora gaszeniowa
+Érintkező és ívoltó kamra
+Contacto y cámara de extinción
+
+#997
+Les gros contacts s'ouvrent vite. Les plaques divisent l'arc pour qu'il refroidisse et s'éteigne.
+Contatos pesados abrem rápido. As placas dividem o arco para que ele esfrie e se apague.
+大触点断开很快。灭弧片把电弧分割，使其冷却熄灭。
+Мощные контакты размыкаются быстро. Пластины разделяют дугу, чтобы она остыла и погасла.
+Duże styki otwierają się szybko. Płytki dzielą łuk, aby ostygł i zgasł.
+A nagy érintkezők gyorsan nyitnak. A lemezek feldarabolják az ívet, hogy lehűljön és kialudjon.
+Los contactos grandes se abren rápido. Las placas dividen el arco para que se enfríe y se apague.
+
+#998
+Bilame thermique
+Bimetal térmico
+热双金属片
+Тепловой биметалл
+Bimetal termiczny
+Termikus bimetál
+Bimetal térmico
+
+#999
+Se courbe sous la chaleur du courant de surcharge.
+Curva-se com o calor da corrente de sobrecarga.
+被过载电流产生的热量加热而弯曲。
+Изгибается от тепла тока перегрузки.
+Wygina się pod wpływem ciepła od prądu przeciążeniowego.
+A túláram hőjétől elhajlik.
+Se curva con el calor de la corriente de sobrecarga.
+
+#1000
+Bobine magnétique
+Bobina magnética
+磁脱扣线圈
+Электромагнитная катушка
+Cewka magnetyczna
+Mágneses tekercs
+Bobina magnética
+
+#1001
+Une forte attraction magnétique lors d'un court-circuit ouvre les contacts presque instantanément.
+Uma forte atração magnética em um curto-circuito abre os contatos quase instantaneamente.
+短路时强大的磁力几乎瞬间使触点断开。
+Сильное магнитное притяжение при коротком замыкании размыкает контакты почти мгновенно.
+Silne przyciąganie magnetyczne przy zwarciu otwiera styki niemal natychmiast.
+Zárlatkor az erős mágneses vonzás szinte azonnal megnyitja az érintkezőket.
+Una fuerte atracción magnética ante un cortocircuito abre los contactos casi al instante.
+
+#1002
+Barre de déclenchement commune
+Barra de disparo comum
+共用脱扣杆
+Общая планка расцепления
+Wspólny łącznik wyzwalania
+Közös kioldó rúd
+Barra de disparo común
+
+#1003
+Relie les trois pôles pour qu'ils s'ouvrent ensemble.
+Une os três polos para que abram juntos.
+把三个极连在一起，使它们同时断开。
+Соединяет три полюса, чтобы они размыкались вместе.
+Łączy trzy bieguny, aby otwierały się razem.
+Összeköti a három pólust, hogy együtt nyissanak.
+Une los tres polos para que se abran juntos.
+
+#1004
+Mettez la poignée complètement sur OFF (après un déclenchement : poussez d'abord sur OFF).
+Coloque o manípulo totalmente em OFF (após um disparo: empurre primeiro para OFF).
+把手柄完全拨到OFF（脱扣后：先推到OFF）。
+Переведите рукоятку полностью в положение OFF (после срабатывания: сначала в OFF).
+Przełącz rączkę całkowicie na OFF (po zadziałaniu: najpierw dociśnij do OFF).
+Kapcsolja a kart teljesen KI állásba (kioldás után: előbb nyomja KI-re).
+Ponga la palanca del todo en OFF (tras un disparo: empuje primero a OFF).
+
+#1005
+Posez le clip de consignation pour poignée large.
+Instale o clipe de bloqueio para manípulo largo.
+装上宽手柄锁扣。
+Установите фиксатор для широкой рукоятки.
+Załóż zaślepkę blokującą na szeroką rączkę.
+Tegye fel a széles karhoz való lezáró klipet.
+Coloque el clip de bloqueo para palanca ancha.
+
+#1006
+Ajoutez votre cadenas et votre étiquette. Pour une équipe, ajoutez un moraillon ou une boîte de consignation de groupe.
+Adicione seu cadeado e sua etiqueta. Para uma equipe, adicione uma presilha ou uma caixa de bloqueio em grupo.
+加上你的挂锁和标签。多人作业时，再加搭扣或集体锁箱。
+Добавьте свой замок и бирку. Для бригады добавьте накладку или групповой замковый бокс.
+Dodaj swoją kłódkę i zawieszkę. Dla zespołu dodaj zaczep lub skrzynkę blokady grupowej.
+Tegye fel a lakatját és a címkéjét. Csapatnál tegyen fel fület vagy csoportos lezárási dobozt.
+Añada su candado y su etiqueta. Para un equipo, añada un pestillo o una caja de bloqueo en grupo.
+
+#1007
+Testez les bornes de charge : toutes les paires et vers la terre. Testez votre testeur sur une source connue avant et après.
+Teste os terminais de carga: todos os pares e para a terra. Teste seu testador em uma fonte conhecida antes e depois.
+测试负载端子：每一对之间以及对地。测试前后都要在已知电源上验证你的验电器。
+Проверьте клеммы нагрузки: все пары и на землю. До и после проверьте сам указатель на известном источнике.
+Przetestuj zaciski obciążenia: wszystkie pary i do ziemi. Przed i po sprawdź swój tester na znanym źródle.
+Vizsgálja meg a terhelési kapcsokat: minden párat és a föld felé. Előtte és utána próbálja ki a vizsgálóját ismert forráson.
+Pruebe los bornes de carga: todos los pares y a tierra. Compruebe su comprobador en una fuente conocida antes y después.
+
+#1008
+Verrouiller un disjoncteur déclenché : il n'est pas sur OFF, seulement déclenché.
+Bloquear um disjuntor desarmado: ele não está em OFF, apenas desarmado.
+给已脱扣的断路器上锁：它并不在OFF位置，只是脱扣了。
+Блокировать сработавший автомат: он не в положении OFF, а лишь сработал.
+Blokowanie wyłącznika, który zadziałał: nie jest on w pozycji OFF, tylko zadziałał.
+Kioldott megszakító lezárása: nem KI állásban van, csak kioldott.
+Bloquear un interruptor disparado: no está en OFF, solo disparado.
+
+#1009
+Se fier aux bornes d'arrivée après OFF : elles sont toujours sous tension.
+Confiar nos terminais de entrada depois do OFF: eles ainda estão energizados.
+OFF之后就信任进线端子：它们仍然带电。
+Доверять входным клеммам после OFF: они всё ещё под напряжением.
+Zaufanie zaciskom zasilającym po OFF: nadal są pod napięciem.
+Megbízni a betáplálási kapcsokban OFF után: még mindig feszültség alatt vannak.
+Fiarse de los bornes de entrada después de OFF: siguen con tensión.
+
+#1010
+IEC 60947-2. Apte à l'isolement seulement s'il porte le symbole de sectionneur.
+IEC 60947-2. Adequado para isolamento somente se marcado com o símbolo de seccionador.
+IEC 60947-2。只有标有隔离开关符号时才适合用于隔离。
+IEC 60947-2. Пригоден для отключения только если маркирован символом разъединителя.
+IEC 60947-2. Nadaje się do izolacji tylko wtedy, gdy ma symbol rozłącznika.
+IEC 60947-2. Csak akkor alkalmas leválasztásra, ha szakaszoló jelzés van rajta.
+IEC 60947-2. Apto para aislamiento solo si lleva el símbolo de seccionador.
+
+#1011
+Sectionneur rotatif (interrupteur principal)
+Seccionadora rotativa (chave geral)
+旋转隔离开关（主开关）
+Поворотный разъединитель (главный выключатель)
+Rozłącznik obrotowy (wyłącznik główny)
+Forgókaros szakaszoló (főkapcsoló)
+Seccionador rotativo (interruptor general)
+
+#1012
+Un interrupteur à coupure en charge avec poignée tournante. Il ouvre les trois phases ensemble avec une double coupure de type visible sur chaque pôle. La poignée a un trou pour cadenas en position OFF, donc on la verrouille directement. Sur une porte d'armoire, c'est aussi le verrouillage de porte.
+Uma chave com poder de interrupção em carga e manípulo giratório. Abre as três fases juntas com uma dupla interrupção do tipo visível em cada polo. O manípulo tem um furo para cadeados na posição OFF, então é bloqueado diretamente. Em uma porta de painel, é também o intertravamento da porta.
+带旋转手柄的负荷开关。它同时断开三相，每极有类似可见断点的双断口。手柄在OFF位置有挂锁孔，所以可以直接上锁。装在柜门上时，它还兼作柜门联锁。
+Выключатель нагрузки с поворотной рукояткой. Размыкает все три фазы вместе с двойным разрывом видимого типа на каждом полюсе. В положении OFF в рукоятке есть отверстие под замки, поэтому она блокируется напрямую. На дверце щита она же служит блокировкой двери.
+Rozłącznik z napędem obrotowym. Otwiera wszystkie trzy fazy razem z podwójnym rozwarciem typu widocznego na każdym biegunie. Rączka ma otwór na kłódki w pozycji OFF, więc blokuje się ją bezpośrednio. Na drzwiach szafy jest też blokadą drzwi.
+Terhelés alatt kapcsoló, forgókaros kapcsoló. Mindhárom fázist együtt nyitja, pólusonként látható jellegű kettős megszakítással. A karon KI állásban lakatlyuk van, ezért közvetlenül lezárható. A szekrényajtón egyben ajtóreteszelés is.
+Un interruptor con poder de corte en carga y palanca giratoria. Abre las tres fases juntas con una doble ruptura de tipo visible en cada polo. La palanca tiene un orificio para candados en la posición OFF, así que se bloquea directamente. En la puerta de un cuadro es también el enclavamiento de puerta.
+
+#1013
+Alimente : une machine ou un tableau complet, en général triphasé 400 V.
+Alimenta: uma máquina ou um painel inteiro, geralmente trifásico 400 V.
+供电对象：一台机器或整个配电柜，通常为三相400 V。
+Питает: машину или весь щит, обычно трёхфазное 400 В.
+Zasila: maszynę lub całą szafę, zwykle trójfazowo 400 V.
+Táplál: egy gépet vagy egy egész szekrényt, általában háromfázisú 400 V.
+Alimenta: una máquina o un cuadro entero, normalmente trifásico 400 V.
+
+#1014
+Sectionneur
+Seccionadora
+隔离开关
+Разъединитель
+Rozłącznik
+Szakaszoló
+Seccionador
+
+#1015
+Contact auxiliaire
+Contato auxiliar
+辅助触点
+Вспомогательный контакт
+Styk pomocniczy
+Segédérintkező
+Contacto auxiliar
+
+#1016
+Poignée
+Manípulo
+手柄
+Рукоятка
+Rączka
+Kar
+Palanca
+
+#1017
+Tournez sur 0 (OFF). En OFF, l'ergot de la poignée s'aligne avec le trou du cadenas : on peut donc la verrouiller directement. Elle ne peut pas être tournée sur I tant qu'elle est verrouillée.
+Gire para 0 (OFF). Em OFF, a aba do manípulo alinha com o furo do cadeado, então você pode bloqueá-lo diretamente. Não pode ser girado para I enquanto estiver bloqueado.
+转到0（OFF）。在OFF位置，手柄上的凸片正对着挂锁孔，所以可以直接上锁。锁住时无法转到I。
+Поверните в положение 0 (OFF). В положении OFF язычок рукоятки совпадает с отверстием под замок, поэтому её можно блокировать напрямую. Пока она заблокирована, её нельзя повернуть в положение I.
+Obróć na 0 (OFF). W pozycji OFF ucho rączki pokrywa się z otworem na kłódkę, więc można ją zablokować bezpośrednio. Zablokowanej nie da się przekręcić na I.
+Fordítsa 0-ra (KI). KI állásban a kar füle egybeesik a lakatlyukkal, így közvetlenül lezárható. Lezárva nem fordítható I állásba.
+Gire a 0 (OFF). En OFF, la lengüeta de la palanca queda alineada con el orificio del candado, así que se puede bloquear directamente. No se puede girar a I mientras está bloqueada.
+
+#1018
+Plaque signalétique
+Placa de características
+铭牌
+Шильдик
+Tabliczka znamionowa
+Adattábla
+Placa de características
+
+#1019
+Vérifiez le calibre (A), la catégorie d'emploi (AC-23 = charges moteur) et qu'il est marqué comme sectionneur.
+Verifique a corrente nominal (A), a categoria de utilização (AC-23 = cargas de motor) e se está marcado como seccionador.
+检查额定值（A）、使用类别（AC-23 = 电机负载）以及是否标明为隔离开关。
+Проверьте номинал (А), категорию применения (AC-23 = двигательная нагрузка) и что он маркирован как разъединитель.
+Sprawdź wartość znamionową (A), kategorię użytkowania (AC-23 = obciążenia silnikowe) i czy jest oznaczony jako rozłącznik.
+Ellenőrizze a névleges értéket (A), a használati kategóriát (AC-23 = motorterhelés), és hogy szakaszolóként van-e megjelölve.
+Compruebe el calibre (A), la categoría de utilización (AC-23 = cargas de motor) y que esté marcado como seccionador.
+
+#1020
+Vis de fixation
+Parafusos de fixação
+安装螺钉
+Крепёжные винты
+Śruby mocujące
+Rögzítőcsavarok
+Tornillos de fijación
+
+#1021
+Le boîtier n'est pas l'isolement. Derrière, les bornes d'arrivée restent sous tension.
+O invólucro não é o isolamento. Atrás dele, os terminais de entrada continuam energizados.
+外壳不等于隔离。壳体后面的进线端子仍然带电。
+Корпус — это не отключение. За ним входные клеммы остаются под напряжением.
+Obudowa to nie odcięcie. Za nią zaciski zasilające pozostają pod napięciem.
+A burkolat nem leválasztás. Mögötte a betáplálási kapcsok feszültség alatt maradnak.
+La envolvente no es el aislamiento. Detrás, los bornes de entrada siguen con tensión.
+
+#1022
+Bornes d'arrivée 1, 3, 5
+Terminais de entrada 1, 3, 5
+进线端子1、3、5
+Входные клеммы 1, 3, 5
+Zaciski zasilające 1, 3, 5
+Betáplálási kapcsok 1, 3, 5
+Bornes de entrada 1, 3, 5
+
+#1023
+Alimentation entrante. Toujours sous tension sur OFF : gardez les doigts à l'écart.
+Alimentação de entrada. Ainda energizada em OFF: mantenha os dedos afastados.
+进线电源。OFF时仍然带电：手指要远离。
+Входящее питание. В положении OFF всё ещё под напряжением: держите пальцы подальше.
+Zasilanie wejściowe. Nadal pod napięciem w OFF: trzymaj palce z daleka.
+Bejövő betáplálás. KI állásban is feszültség alatt van: tartsa távol az ujjait.
+Alimentación entrante. Sigue con tensión en OFF: mantenga los dedos alejados.
+
+#1024
+Contacts fixes
+Contatos fixos
+静触点
+Неподвижные контакты
+Styki stałe
+Állóérintkezők
+Contactos fijos
+
+#1025
+Plots argentés. Chaque pôle en a deux, donc le courant est coupé à deux endroits.
+Pastilhas prateadas. Cada polo tem duas, então a corrente é interrompida em dois lugares.
+镀银触头。每极有两个，所以电流在两处被切断。
+Посеребрённые площадки. На каждом полюсе их по две, поэтому ток разрывается в двух местах.
+Posrebrzane styki. Każdy biegun ma po dwa, więc prąd jest przerywany w dwóch miejscach.
+Ezüstözött érintkezőfelületek. Pólusonként kettő van, így az áramot két helyen szakítja meg.
+Pastillas plateadas. Cada polo tiene dos, así que la corriente se corta en dos puntos.
+
+#1026
+Pont tournant
+Ponte giratória
+旋转桥
+Вращающийся мостик
+Obrotowy mostek
+Forgó híd
+Puente giratorio
+
+#1027
+Tourne de 90 degrés avec la poignée. En OFF, il est à la verticale : on voit l'intervalle.
+Gira 90 graus com o manípulo. Em OFF, fica em pé: dá para ver o vão.
+随手柄转动90度。在OFF位置它是竖直的：可以看到间隙。
+Поворачивается на 90 градусов вместе с рукояткой. В положении OFF стоит вертикально: виден воздушный зазор.
+Obraca się o 90 stopni wraz z rączką. W pozycji OFF stoi pionowo: widać przerwę.
+A karral együtt 90 fokot fordul. KI állásban függőlegesen áll: látszik a rés.
+Gira 90 grados con la palanca. En OFF queda vertical: se ve el hueco.
+
+#1028
+L'intervalle en OFF est grand et fixé par la came, donc l'interrupteur peut servir de sectionneur.
+O vão em OFF é grande e fixado pela came, então a chave pode ser usada como seccionador.
+OFF时的间隙很大，并由凸轮固定，所以这个开关可以当隔离开关使用。
+Зазор в положении OFF большой и определяется кулачком, поэтому выключатель можно использовать как разъединитель.
+Przerwa w pozycji OFF jest duża i ustalona przez krzywkę, więc łącznik może służyć jako rozłącznik.
+A rés KI állásban nagy, és a bütyök rögzíti, ezért a kapcsoló szakaszolóként használható.
+El hueco en OFF es grande y lo fija la leva, así que el interruptor puede usarse como seccionador.
+
+#1029
+Contact auxiliaire
+Contato auxiliar
+辅助触点
+Вспомогательный контакт
+Styk pomocniczy
+Segédérintkező
+Contacto auxiliar
+
+#1030
+S'ouvre avant les contacts principaux et indique au circuit de commande de s'arrêter d'abord.
+Abre antes dos contatos principais e avisa o circuito de comando para parar primeiro.
+比主触点先断开，通知控制回路先行停机。
+Размыкается раньше главных контактов и сообщает цепи управления остановиться первой.
+Otwiera się przed stykami głównymi i informuje obwód sterowania, aby zatrzymał się jako pierwszy.
+A főérintkezők előtt nyit, és szól a vezérlő áramkörnek, hogy előbb álljon le.
+Se abre antes que los contactos principales y avisa al circuito de mando de que pare primero.
+
+#1031
+Arrêtez d'abord la machine normalement (le sectionneur n'est pas fait pour couper un fort courant de défaut).
+Pare primeiro a máquina normalmente (o seccionador não é feito para interromper grande corrente de falta).
+先正常停机（隔离开关不是用来切断大故障电流的）。
+Сначала остановите машину штатно (разъединитель не предназначен для отключения большого тока повреждения).
+Najpierw zatrzymaj maszynę w normalny sposób (rozłącznik nie jest przeznaczony do wyłączania dużego prądu zwarciowego).
+Először állítsa le a gépet normál módon (a szakaszoló nem nagy hibaáram megszakítására való).
+Pare primero la máquina normalmente (el seccionador no está hecho para cortar una gran corriente de avería).
+
+#1032
+Tournez la poignée sur 0 (OFF).
+Gire o manípulo para 0 (OFF).
+把手柄转到0（OFF）。
+Поверните рукоятку в положение 0 (OFF).
+Obróć rączkę na 0 (OFF).
+Fordítsa a kart 0-ra (KI).
+Gire la palanca a 0 (OFF).
+
+#1033
+Passez votre cadenas personnel dans le trou de la poignée, ajoutez une étiquette. Pour plusieurs personnes, utilisez un moraillon.
+Passe seu cadeado pessoal pelo furo do manípulo e adicione uma etiqueta. Para várias pessoas, use uma presilha.
+把你的个人挂锁穿过手柄孔，再挂上标签。多人作业时使用搭扣。
+Проденьте личный замок в отверстие рукоятки, добавьте бирку. Для нескольких человек используйте накладку.
+Przełóż swoją osobistą kłódkę przez otwór w rączce, dodaj zawieszkę. Dla kilku osób użyj zaczepu.
+Fűzze át a személyi lakatját a kar lyukán, és tegyen fel címkét. Több személynél használjon fület.
+Pase su candado personal por el orificio de la palanca y añada una etiqueta. Para varias personas use un pestillo.
+
+#1034
+Ouvrez l'armoire (si votre procédure le permet) et testez les bornes de charge avec un testeur bipolaire, toutes les paires et vers la terre, en prouvant le testeur avant et après.
+Abra o painel (se o seu procedimento permitir) e teste os terminais de carga com um testador bipolar, todos os pares e para a terra, comprovando o testador antes e depois.
+打开配电柜（如果你的程序允许），用双极验电器测试负载端子，每一对之间以及对地，测试前后都要验证验电器。
+Откройте щит (если это разрешает ваша процедура) и проверьте клеммы нагрузки двухполюсным указателем, все пары и на землю, проверяя сам указатель до и после.
+Otwórz szafę (jeśli Twoja procedura na to pozwala) i przetestuj zaciski obciążenia testerem dwubiegunowym, wszystkie pary i do ziemi, sprawdzając tester przed i po.
+Nyissa ki a szekrényt (ha az eljárása megengedi), és vizsgálja meg a terhelési kapcsokat kétpólusú vizsgálóval, minden párat és a föld felé, a vizsgálót előtte és utána igazolva.
+Abra el cuadro (si su procedimiento lo permite) y pruebe los bornes de carga con un comprobador bipolar, todos los pares y a tierra, comprobando el comprobador antes y después.
+
+#1035
+Rappel : les bornes d'arrivée de ce sectionneur sont toujours sous tension.
+Lembre-se: os terminais de entrada deste seccionador continuam energizados.
+记住：这个隔离开关的进线端子仍然带电。
+Помните: входные клеммы этого разъединителя всё ещё под напряжением.
+Pamiętaj: zaciski zasilające tego rozłącznika nadal są pod napięciem.
+Ne feledje: ennek a szakaszolónak a betáplálási kapcsai még feszültség alatt vannak.
+Recuerde: los bornes de entrada de este seccionador siguen con tensión.
+
+#1036
+Verrouiller le verrouillage de porte mais pas la poignée.
+Bloquear o intertravamento da porta mas não o manípulo.
+锁住了门联锁，却没有锁手柄。
+Блокировать блокировку двери, но не рукоятку.
+Blokowanie blokady drzwi, ale nie rączki.
+Az ajtóreteszelést zárják le, de a kart nem.
+Bloquear el enclavamiento de la puerta pero no la palanca.
+
+#1037
+Utiliser la dérogation de poignée pour ouvrir la porte et laisser le sectionneur sur ON.
+Usar o desvio do manípulo para abrir a porta e deixar o seccionador em ON.
+用手柄应急解锁打开柜门，却把隔离开关留在ON。
+Использовать аварийное открытие для доступа к двери и оставить разъединитель включённым.
+Użycie obejścia rączki do otwarcia drzwi i pozostawienie rozłącznika w ON.
+A kar felülbírálásával kinyitni az ajtót, és a szakaszolót BE állásban hagyni.
+Usar el desbloqueo de la palanca para abrir la puerta y dejar el seccionador en ON.
+
+#1038
+IEC 60947-3 et IEC 60204-1 (6.3) : le dispositif de sectionnement de l'alimentation doit pouvoir être verrouillé en OFF.
+IEC 60947-3 e IEC 60204-1 (6.3): o dispositivo de seccionamento da alimentação deve poder ser bloqueado em OFF.
+IEC 60947-3和IEC 60204-1（6.3）：电源隔离装置必须能锁定在OFF位置。
+IEC 60947-3 и IEC 60204-1 (6.3): устройство отключения питания должно блокироваться в положении OFF.
+IEC 60947-3 i IEC 60204-1 (6.3): urządzenie odłączające zasilanie musi dać się zablokować w pozycji OFF.
+IEC 60947-3 és IEC 60204-1 (6.3): a betáplálás leválasztó eszközét KI állásban le kell tudni zárni.
+IEC 60947-3 e IEC 60204-1 (6.3): el dispositivo de desconexión de la alimentación debe poder bloquearse en OFF.
+
+#1039
+Fermé
+Fechado
+闭合
+Замкнут
+Zamknięty
+Zárt
+Cerrado
+
+#1040
+Interrupteur à couteaux (à fusibles)
+Chave faca (fusível)
+刀闸开关（熔断器式）
+Ножевой выключатель (с предохранителями)
+Rozłącznik nożowy (bezpiecznikowy)
+Késes (biztosítós) kapcsoló
+Interruptor de cuchillas (con fusibles)
+
+#1041
+Un sectionneur ancien mais très lisible. Les couteaux sortent de leurs mâchoires et on voit l'intervalle de ses propres yeux. Beaucoup ont des fusibles dans les couteaux. Attention : le côté charnière ou les mâchoires côté arrivée peuvent rester sous tension.
+Um seccionador antigo mas muito claro. As lâminas saem das garras e você vê o vão com seus próprios olhos. Muitos têm fusíveis nas lâminas. Cuidado: o lado da articulação ou as garras do lado da entrada podem continuar energizados.
+一种老式但非常直观的隔离开关。刀片从夹座中摆出，你能亲眼看到间隙。很多刀片里带有熔断器。注意：铰链侧或进线侧的夹座可能仍然带电。
+Старый, но очень наглядный разъединитель. Ножи выходят из губок, и зазор виден своими глазами. У многих в ножах стоят предохранители. Осторожно: сторона шарнира или губки со стороны питания могут оставаться под напряжением.
+Stary, ale bardzo czytelny rozłącznik. Noże wychodzą ze szczęk i widać przerwę na własne oczy. Wiele z nich ma bezpieczniki w nożach. Uwaga: strona zawiasu lub szczęki od strony zasilania mogą pozostać pod napięciem.
+Régi, de nagyon szemléletes szakaszoló. A kések kiforognak a befogóikból, és a rést saját szemmel láthatja. Sokban biztosíték van a késekben. Vigyázat: a csuklós oldal vagy a betáplálási oldali befogók feszültség alatt maradhatnak.
+Un seccionador antiguo pero muy claro. Las cuchillas salen de las mordazas y se ve el hueco con los propios ojos. Muchos llevan fusibles en las cuchillas. Cuidado: el lado de la bisagra o las mordazas del lado de entrada pueden seguir con tensión.
+
+#1042
+Alimente : anciens moteurs et tableaux, 400 V.
+Alimenta: motores e painéis mais antigos, 400 V.
+供电对象：老式电机和配电柜，400 V。
+Питает: старые двигатели и щиты, 400 В.
+Zasila: starsze silniki i szafy, 400 V.
+Táplál: régebbi motorokat és szekrényeket, 400 V.
+Alimenta: motores y cuadros antiguos, 400 V.
+
+#1043
+L'intervalle est visible
+O vão é visível
+间隙清晰可见
+Зазор виден
+Przerwa jest widoczna
+A rés látható
+El hueco es visible
+
+#1044
+Barre de manœuvre
+Barra do manípulo
+操作杆
+Рукоятка-перекладина
+Dźwignia
+Kezelőrúd
+Barra de maniobra
+
+#1045
+Déplace les trois couteaux ensemble. Un cadenas passe dans le trou de la poignée.
+Move as três lâminas juntas. Um cadeado passa pelo furo do manípulo.
+带动三片刀片一起动作。挂锁穿过手柄孔。
+Перемещает все три ножа вместе. Замок продевается в отверстие рукоятки.
+Przesuwa trzy noże razem. Kłódka przechodzi przez otwór w rączce.
+A három kést együtt mozgatja. A lakat a kar lyukán megy át.
+Mueve las tres cuchillas juntas. Un candado pasa por el orificio de la palanca.
+
+#1046
+Fusible dans le couteau
+Fusível na lâmina
+刀片内的熔断器
+Предохранитель в ноже
+Bezpiecznik w nożu
+Biztosíték a késben
+Fusible en la cuchilla
+
+#1047
+Beaucoup d'interrupteurs à couteaux portent le fusible dans le couteau : ouvrir l'interrupteur retire aussi le fusible du circuit.
+Muitas chaves faca levam o fusível na lâmina: abrir a chave também tira o fusível do circuito.
+很多刀闸开关把熔断器装在刀片里：断开开关的同时也把熔断器从回路中取出。
+Во многих ножевых выключателях предохранитель стоит в самом ноже: при размыкании выключателя предохранитель тоже выходит из цепи.
+Wiele rozłączników nożowych ma bezpiecznik w noży: otwarcie rozłącznika wyjmuje też bezpiecznik z obwodu.
+Sok késes kapcsolóban a biztosíték a késben van: a kapcsoló nyitása a biztosítékot is kiveszi az áramkörből.
+Muchos interruptores de cuchillas llevan el fusible en la cuchilla: al abrir el interruptor también se saca el fusible del circuito.
+
+#1048
+Borne de charnière
+Terminal da articulação
+铰链端子
+Клемма шарнира
+Zacisk zawiasu
+Csuklós kapocs
+Borne de la bisagra
+
+#1049
+La charnière est le côté arrivée sur de nombreux tableaux : sous tension même interrupteur ouvert. Vérifiez quel côté est l'alimentation.
+A articulação é o lado da entrada em muitos quadros: energizada mesmo com a chave aberta. Verifique qual lado é a alimentação.
+在很多配电板上，铰链侧是进线侧：即使开关已断开也带电。要确认哪一侧是电源。
+На многих щитах шарнир — это сторона питания: под напряжением даже при разомкнутом выключателе. Проверьте, какая сторона подводит питание.
+Na wielu tablicach zawias to strona zasilania: pod napięciem nawet przy otwartym łączniku. Sprawdź, która strona jest zasilaniem.
+Sok táblán a csuklós oldal a betáplálási oldal: nyitott kapcsolónál is feszültség alatt van. Ellenőrizze, melyik oldal a betáplálás.
+La bisagra es el lado de entrada en muchos cuadros: con tensión aunque el interruptor esté abierto. Compruebe qué lado es la alimentación.
+
+#1050
+Mâchoire (pince)
+Garra (clipe)
+夹座（卡口）
+Губка (зажим)
+Szczęka (zacisk)
+Befogó (klip)
+Mordaza (pinza)
+
+#1051
+Le couteau se loge dans la mâchoire. Des mâchoires usées chauffent : cherchez des traces de brûlure.
+A lâmina encaixa na garra. Garras desgastadas esquentam: procure marcas de queima.
+刀片插入夹座。夹座磨损会发热：检查有无烧灼痕迹。
+Нож входит в губку. Изношенные губки перегреваются: ищите следы пригара.
+Nóż osadza się w szczęce. Zużyte szczęki się przegrzewają: szukaj śladów przypalenia.
+A kés a befogóba ül. A kopott befogók túlmelegednek: keressen égésnyomokat.
+La cuchilla se asienta en la mordaza. Las mordazas desgastadas se calientan: busque marcas de quemadura.
+
+#1052
+Ouvrez complètement les couteaux et vérifiez l'intervalle à l'œil.
+Abra totalmente as lâminas e confira o vão a olho.
+把刀片完全打开，并用眼睛确认间隙。
+Полностью раскройте ножи и проверьте зазор на глаз.
+Otwórz noże całkowicie i sprawdź przerwę wzrokowo.
+Nyissa ki teljesen a késeket, és szemrevételezéssel ellenőrizze a rést.
+Abra las cuchillas por completo y compruebe el hueco a simple vista.
+
+#1053
+Passez un cadenas dans le trou de la poignée, ou utilisez un moraillon et un cadenas à câble.
+Passe um cadeado pelo furo do manípulo ou use uma presilha e um bloqueio por cabo.
+把挂锁穿过手柄孔，或使用搭扣和线缆锁。
+Проденьте замок в отверстие рукоятки или используйте накладку и тросовый замок.
+Przełóż kłódkę przez otwór w rączce lub użyj zaczepu i blokady linkowej.
+Fűzzön lakatot a kar lyukán, vagy használjon fület és kábeles zárat.
+Pase un candado por el orificio de la palanca o use un pestillo y un bloqueo de cable.
+
+#1054
+Ajoutez une étiquette.
+Adicione uma etiqueta.
+挂上标签。
+Добавьте бирку.
+Dodaj zawieszkę.
+Tegyen fel címkét.
+Añada una etiqueta.
+
+#1055
+Testez le côté charge des fusibles entre eux et vers la terre.
+Teste o lado da carga dos fusíveis entre si e para a terra.
+测试熔断器负载侧之间以及对地。
+Проверьте сторону нагрузки предохранителей между собой и на землю.
+Przetestuj stronę obciążenia bezpieczników między sobą i do ziemi.
+Vizsgálja meg a biztosítékok terhelési oldalát egymás között és a föld felé.
+Pruebe el lado de carga de los fusibles entre sí y a tierra.
+
+#1056
+Travailler sur les bornes de charnière en pensant qu'un interrupteur ouvert veut dire hors tension.
+Trabalhar nos terminais da articulação achando que chave aberta significa sem tensão.
+在铰链端子上作业，却以为开关断开就等于没电。
+Работать на клеммах шарнира, считая, что разомкнутый выключатель означает отсутствие напряжения.
+Praca na zaciskach zawiasu w przekonaniu, że otwarty łącznik oznacza brak napięcia.
+Dolgozni a csuklós kapcsokon abban a hitben, hogy a nyitott kapcsoló feszültségmentességet jelent.
+Trabajar en los bornes de la bisagra pensando que un interruptor abierto significa sin tensión.
+
+#1057
+Ouvrir un interrupteur à couteaux sous forte charge : il peut s'amorcer en arc.
+Abrir uma chave faca sob carga pesada: pode formar arco.
+在大负载下拉开刀闸开关：可能产生电弧。
+Размыкать ножевой выключатель под большой нагрузкой: может возникнуть дуга.
+Otwieranie rozłącznika nożowego pod dużym obciążeniem: może powstać łuk.
+Késes kapcsoló nyitása nagy terhelés alatt: ív keletkezhet.
+Abrir un interruptor de cuchillas bajo gran carga: puede producirse un arco.
+
+#1058
+Une coupure visible est la forme d'isolement la plus sûre.
+Uma interrupção visível é a forma mais forte de isolamento.
+可见断口是最可靠的隔离形式。
+Видимый разрыв — самая надёжная форма отключения.
+Widoczne rozwarcie to najpewniejsza forma izolacji.
+A látható megszakítás a leválasztás legerősebb formája.
+Una ruptura visible es la forma más sólida de aislamiento.
+
+#1059
+Fusible retiré
+Fusível removido
+熔断器已取出
+Предохранитель извлечён
+Bezpiecznik wyjęty
+Biztosíték kivéve
+Fusible retirado
+
+#1060
+Fusible en place
+Fusível instalado
+熔断器已装入
+Предохранитель установлен
+Bezpiecznik włożony
+Biztosíték betéve
+Fusible puesto
+
+#1061
+Porte-fusible et fusible
+Porta-fusível e fusível
+熔断器座和熔断器
+Держатель и предохранитель
+Podstawa i bezpiecznik
+Biztosítékfoglalat és biztosíték
+Portafusibles y fusible
+
+#1062
+Un fusible est un maillon faible voulu : le fil fin fond en cas de surcharge ou de court-circuit. Un porte-fusible à tiroir extractible peut isoler un circuit : retirez le fusible et verrouillez le tiroir ou le porte-fusible vide. Ne remettez jamais un fusible d'un autre calibre.
+Um fusível é um elo fraco proposital: o elemento fino derrete em sobrecarga ou curto-circuito. Um porta-fusível com gaveta removível pode isolar um circuito: retire o fusível e bloqueie a gaveta ou o suporte vazio. Nunca recoloque um fusível de outra corrente nominal.
+熔断器是刻意设计的薄弱环节：细熔丝在过载或短路时熔断。带抽出式载体的熔断器座可以隔离一条回路：取出熔断器，并锁住载体或空座。绝不要装入不同规格的熔断器。
+Предохранитель — намеренно слабое звено: тонкий элемент плавится при перегрузке или коротком замыкании. Держатель с выдвижной кареткой может отключить цепь: выньте предохранитель и заблокируйте каретку или пустой держатель. Никогда не устанавливайте предохранитель другого номинала.
+Bezpiecznik to celowo słabe ogniwo: cienki element topi się przy przeciążeniu lub zwarciu. Podstawa z wysuwaną wkładką może odciąć obwód: wyjmij bezpiecznik i zablokuj wkładkę lub pustą podstawę. Nigdy nie wkładaj bezpiecznika o innej wartości znamionowej.
+A biztosíték szándékosan gyenge láncszem: a vékony betét túláram vagy zárlat esetén megolvad. A kihúzható tartós foglalat leválaszthat egy áramkört: vegye ki a biztosítékot, és zárja le a tartót vagy az üres foglalatot. Soha ne tegyen vissza más névleges értékű biztosítékot.
+Un fusible es un eslabón débil deliberado: el elemento delgado se funde en una sobrecarga o cortocircuito. Un portafusibles con portacartucho extraíble puede aislar un circuito: saque el fusible y bloquee el portacartucho o el portafusibles vacío. Nunca vuelva a poner un fusible de otro calibre.
+
+#1063
+Alimente : circuits de commande, petites charges, départs moteur.
+Alimenta: circuitos de comando, pequenas cargas, ramais de motor.
+供电对象：控制回路、小负载、电机支路。
+Питает: цепи управления, небольшие нагрузки, ответвления к двигателям.
+Zasila: obwody sterowania, małe odbiorniki, odpływy silnikowe.
+Táplál: vezérlő áramköröket, kis terheléseket, motorágakat.
+Alimenta: circuitos de mando, cargas pequeñas, derivaciones de motor.
+
+#1064
+Fusible en main
+Fusível na mão
+手持的熔断器
+Предохранитель в руке
+Bezpiecznik w ręku
+Biztosíték a kézben
+Fusible en la mano
+
+#1065
+Corps céramique rempli de sable
+Corpo cerâmico cheio de areia
+充满石英砂的陶瓷管体
+Керамический корпус, заполненный песком
+Ceramiczny korpus wypełniony piaskiem
+Homokkal töltött kerámiatest
+Cuerpo cerámico lleno de arena
+
+#1066
+Bornes du porte-fusible
+Terminais do suporte
+熔断器座端子
+Клеммы держателя
+Zaciski podstawy
+Foglalat kapcsai
+Bornes del portafusibles
+
+#1067
+Les deux bornes d'un porte-fusible vide peuvent rester sous tension côté alimentation.
+Os dois terminais de um suporte vazio podem continuar energizados do lado da alimentação.
+空熔断器座的两个端子在电源侧仍可能带电。
+Обе клеммы пустого держателя могут оставаться под напряжением со стороны питания.
+Oba zaciski pustej podstawy mogą pozostać pod napięciem od strony zasilania.
+Az üres foglalat mindkét kapcsa feszültség alatt maradhat a betáplálási oldalon.
+Los dos bornes de un portafusibles vacío pueden seguir con tensión en el lado de alimentación.
+
+#1068
+Tiroir porte-fusible
+Gaveta do fusível
+熔断器载体
+Каретка предохранителя
+Wkładka bezpiecznikowa
+Biztosítéktartó
+Portacartucho
+
+#1069
+Le retirer ouvre le circuit. Un cache de consignation l'empêche d'être remis en place.
+Retirá-lo abre o circuito. Uma capa de bloqueio impede que seja empurrado de volta.
+拔出它就断开了回路。锁具罩可防止它被推回去。
+Если её вынуть, цепь размыкается. Блокирующий колпак не даёт вставить её обратно.
+Wyjęcie jej otwiera obwód. Osłona blokująca nie pozwala wsunąć jej z powrotem.
+Kihúzása megnyitja az áramkört. A lezáró burkolat megakadályozza a visszatolását.
+Al sacarlo se abre el circuito. Una cubierta de bloqueo impide que se vuelva a empujar.
+
+#1070
+Embout
+Tampa terminal
+端帽
+Торцевой колпачок
+Nasadka końcowa
+Végsapka
+Casquillo
+
+#1071
+Surface de contact. Un mauvais contact ici fait chauffer le fusible.
+Superfície de contato. Mau contato aqui esquenta o fusível.
+接触面。这里接触不良会使熔断器发热。
+Контактная поверхность. Плохой контакт здесь нагревает предохранитель.
+Powierzchnia styku. Słaby styk w tym miejscu nagrzewa bezpiecznik.
+Érintkezési felület. Itt a rossz érintkezés felmelegíti a biztosítékot.
+Superficie de contacto. Un mal contacto aquí calienta el fusible.
+
+#1072
+Partie étroite
+Estreitamento
+窄颈
+Узкая перемычка
+Przewężenie
+Keskeny nyak
+Cuello estrecho
+
+#1073
+L'élément est le plus fin ici : il fond donc en premier en cas de surcharge.
+O elemento é mais fino aqui, então derrete primeiro em sobrecarga.
+熔丝在这里最细，所以过载时最先熔断。
+Здесь элемент самый тонкий, поэтому при перегрузке он плавится первым.
+Element jest tu najcieńszy, więc przy przeciążeniu topi się pierwszy.
+A betét itt a legvékonyabb, ezért túláramnál itt olvad meg először.
+El elemento es más delgado aquí, así que se funde primero en una sobrecarga.
+
+#1074
+Remplissage de sable
+Enchimento de areia
+石英砂填料
+Песчаный наполнитель
+Wypełnienie piaskiem
+Homoktöltet
+Relleno de arena
+
+#1075
+Absorbe l'énergie et éteint l'arc quand l'élément fond.
+Absorve a energia e extingue o arco quando o elemento derrete.
+熔丝熔断时吸收能量并熄灭电弧。
+Поглощает энергию и гасит дугу, когда плавится элемент.
+Pochłania energię i gasi łuk, gdy element się topi.
+Elnyeli az energiát, és eloltja az ívet, amikor a betét megolvad.
+Absorbe la energía y apaga el arco cuando se funde el elemento.
+
+#1076
+Indicateur
+Indicador
+指示器
+Индикатор
+Wskaźnik
+Jelző
+Indicador
+
+#1077
+Une petite tige sort quand le fusible a fondu.
+Um pequeno pino salta quando o fusível queimou.
+熔断器熔断后，一个小销钉会弹出。
+Маленький штифт выскакивает, когда предохранитель перегорел.
+Mały trzpień wyskakuje, gdy bezpiecznik się przepalił.
+Egy kis csap kiugrik, ha a biztosíték kiégett.
+Un pequeño pasador salta cuando el fusible se ha fundido.
+
+#1078
+Coupez la charge, puis retirez le tiroir porte-fusible ou le fusible.
+Desligue a carga e depois retire a gaveta do fusível ou o fusível.
+先切断负载，再拔出熔断器载体或熔断器。
+Отключите нагрузку, затем выньте каретку предохранителя или сам предохранитель.
+Wyłącz obciążenie, potem wyjmij wkładkę bezpiecznikową lub bezpiecznik.
+Kapcsolja le a terhelést, majd húzza ki a biztosítéktartót vagy a biztosítékot.
+Desconecte la carga y luego saque el portacartucho o el fusible.
+
+#1079
+Posez le cache de consignation de fusible sur le tiroir ou sur le porte-fusible vide.
+Instale a capa de bloqueio de fusível sobre a gaveta ou sobre o suporte vazio.
+把熔断器锁具罩装在载体或空座上。
+Установите блокирующий колпак предохранителя на каретку или на пустой держатель.
+Załóż osłonę blokującą bezpiecznik na wkładkę lub pustą podstawę.
+Tegye fel a biztosíték lezáró burkolatot a tartóra vagy az üres foglalatra.
+Coloque la cubierta de bloqueo de fusible sobre el portacartucho o el portafusibles vacío.
+
+#1080
+Ajoutez votre cadenas et votre étiquette. Gardez le fusible avec vous.
+Adicione seu cadeado e sua etiqueta. Fique com o fusível.
+加上你的挂锁和标签。熔断器自己随身保管。
+Добавьте свой замок и бирку. Держите предохранитель при себе.
+Dodaj swoją kłódkę i zawieszkę. Trzymaj bezpiecznik przy sobie.
+Tegye fel a lakatját és a címkéjét. A biztosítékot tartsa magánál.
+Añada su candado y su etiqueta. Quédese con el fusible.
+
+#1081
+Testez le côté charge du porte-fusible avec un testeur bipolaire.
+Teste o lado da carga do suporte com um testador bipolar.
+用双极验电器测试熔断器座的负载侧。
+Проверьте сторону нагрузки держателя двухполюсным указателем.
+Przetestuj stronę obciążenia podstawy testerem dwubiegunowym.
+Vizsgálja meg a foglalat terhelési oldalát kétpólusú vizsgálóval.
+Pruebe el lado de carga del portafusibles con un comprobador bipolar.
+
+#1082
+Remplacer un fusible fondu par un plus gros ou par un fil : le câble protège alors le circuit en brûlant.
+Trocar um fusível queimado por um maior ou por um fio: o cabo passa a proteger o circuito queimando.
+用更大的熔断器或一根导线代替烧断的熔断器：那样就变成电缆靠烧毁来保护回路了。
+Заменять перегоревший предохранитель на больший или на проволоку: тогда цепь защищает кабель, сгорая.
+Wymiana przepalonego bezpiecznika na większy lub drut: wtedy kabel chroni obwód, spalając się.
+Kiégett biztosíték cseréje nagyobbra vagy drótra: ekkor a kábel úgy védi az áramkört, hogy elég.
+Sustituir un fusible fundido por uno mayor o por un hilo: entonces el cable protege el circuito quemándose.
+
+#1083
+Retirer un fusible en charge : arc électrique.
+Retirar um fusível sob carga: arco elétrico.
+带负载拔熔断器：会产生电弧。
+Вынимать предохранитель под нагрузкой: возникает дуга.
+Wyjmowanie bezpiecznika pod obciążeniem: powstaje łuk.
+Biztosíték kihúzása terhelés alatt: ívképződés.
+Sacar un fusible bajo carga: arco eléctrico.
+
+#1084
+IEC 60269. Un fusible est une protection, pas un sectionneur, sauf s'il est dans un sectionneur à fusibles.
+IEC 60269. Um fusível é proteção, não um seccionador, a menos que esteja em um seccionador-fusível.
+IEC 60269。熔断器是保护器件，不是隔离开关，除非它装在熔断器式隔离开关中。
+IEC 60269. Предохранитель — это защита, а не разъединитель, если только он не стоит в предохранителе-разъединителе.
+IEC 60269. Bezpiecznik to zabezpieczenie, a nie rozłącznik, chyba że znajduje się w rozłączniku bezpiecznikowym.
+IEC 60269. A biztosíték védelem, nem szakaszoló, kivéve ha biztosítós szakaszolóban van.
+IEC 60269. Un fusible es una protección, no un seccionador, a menos que esté en un seccionador fusible.
+
+#1085
+Hors tension
+Desenergizado
+断电
+Обесточен
+Bez zasilania
+Feszültségmentes
+Desenergizado
+
+#1086
+Sous tension
+Energizado
+通电
+Под напряжением
+Zasilony
+Feszültség alatt
+Energizado
+
+#1087
+Contacteur (commutation moteur)
+Contator (acionamento de motor)
+接触器（电机通断）
+Контактор (коммутация двигателя)
+Stycznik (załączanie silnika)
+Kontaktor (motorkapcsolás)
+Contactor (conmutación de motor)
+
+#1088
+Un contacteur est un interrupteur commandé électriquement. Une bobine attire une armature et trois contacts de puissance se ferment. Il démarre et arrête le moteur toute la journée, mais ce N'EST PAS un sectionneur : les contacts peuvent se souder fermés, l'armature peut être enfoncée à la main ou maintenue par une sortie d'automate, et les bornes au-dessus restent sous tension. Isolez en amont.
+Um contator é uma chave acionada eletricamente. Uma bobina puxa uma armadura e três contatos de potência fecham. Ele liga e desliga o motor o dia todo, mas NÃO é um seccionador: os contatos podem soldar fechados, a armadura pode ser pressionada à mão ou mantida por uma saída de CLP, e os terminais acima continuam energizados. Isole a montante.
+接触器是电动操作的开关。线圈吸合衔铁，三个主触点闭合。它整天负责电机的启停，但它不是隔离开关：触点可能熔焊在闭合状态，衔铁可以被手按下，或被PLC输出保持吸合，而且上方的端子仍然带电。要在上游隔离。
+Контактор — это выключатель с электрическим приводом. Катушка притягивает якорь, и три силовых контакта замыкаются. Он целый день включает и останавливает двигатель, но он НЕ разъединитель: контакты могут привариться в замкнутом состоянии, якорь можно нажать рукой или удерживать выходом ПЛК, а клеммы над ним остаются под напряжением. Отключайте выше по цепи.
+Stycznik to łącznik sterowany elektrycznie. Cewka przyciąga zworę i zamykają się trzy styki mocy. Uruchamia i zatrzymuje silnik przez cały dzień, ale NIE jest rozłącznikiem: styki mogą się zespawać w stanie zamkniętym, zwora może być wciśnięta ręką lub utrzymywana przez wyjście PLC, a zaciski nad nim pozostają pod napięciem. Odetnij wyżej w obwodzie.
+A kontaktor elektromosan működtetett kapcsoló. A tekercs behúzza a kotvát, és három főérintkező zár. Egész nap indítja és leállítja a motort, de NEM szakaszoló: az érintkezők összehegedhetnek zárt állapotban, a kotva kézzel benyomható vagy PLC-kimenettel bent tartható, és a felette lévő kapcsok feszültség alatt maradnak. Az előtte lévő oldalon válasszon le.
+Un contactor es un interruptor accionado eléctricamente. Una bobina atrae una armadura y se cierran tres contactos de potencia. Arranca y para el motor todo el día, pero NO es un seccionador: los contactos pueden soldarse cerrados, la armadura puede pulsarse a mano o mantenerse por una salida de PLC, y los bornes de arriba siguen con tensión. Aísle aguas arriba.
+
+#1089
+Alimente : un moteur ou un chauffage, commuté par un signal de commande.
+Alimenta: um motor ou aquecedor, acionado por um sinal de comando.
+供电对象：电机或加热器，由控制信号通断。
+Питает: двигатель или нагреватель, коммутируемый управляющим сигналом.
+Zasila: silnik lub grzałkę, załączane sygnałem sterującym.
+Táplál: egy motort vagy fűtést, vezérlőjellel kapcsolva.
+Alimenta: un motor o calefactor, conmutado por una señal de mando.
+
+#1090
+Bobine 24 V CC
+Bobina 24 V CC
+线圈 24 V 直流
+Катушка 24 В DC
+Cewka 24 V DC
+Tekercs 24 V DC
+Bobina 24 V CC
+
+#1091
+appuyer pour tester
+pressione para testar
+按下测试
+нажать для проверки
+naciśnij, aby przetestować
+nyomja meg a teszthez
+pulsar para probar
+
+#1092
+Alimentée : l'armature est attirée
+Energizada: a armadura está puxada
+通电：衔铁吸合
+Под напряжением: якорь притянут
+Zasilona: zwora przyciągnięta
+Feszültség alatt: a kotva behúzva
+Energizada: la armadura está atraída
+
+#1093
+Le ressort maintient les contacts ouverts
+A mola mantém os contatos abertos
+弹簧使触点保持断开
+Пружина удерживает контакты разомкнутыми
+Sprężyna utrzymuje styki otwarte
+A rugó nyitva tartja az érintkezőket
+El muelle mantiene los contactos abiertos
+
+#1094
+entrefer
+entreferro
+气隙
+воздушный зазор
+szczelina powietrzna
+légrés
+entrehierro
+
+#1095
+Bornes 1, 3, 5 (arrivée)
+Terminais 1, 3, 5 (entrada)
+端子1、3、5（进线）
+Клеммы 1, 3, 5 (питание)
+Zaciski 1, 3, 5 (zasilanie)
+1, 3, 5 kapcsok (betáplálás)
+Bornes 1, 3, 5 (entrada)
+
+#1096
+Côté alimentation : sous tension en permanence. Ouvrir le contacteur ne l'enlève pas.
+Lado da alimentação: energizado o tempo todo. Abrir o contator não remove isso.
+电源侧：始终带电。断开接触器并不会去掉它。
+Сторона питания: постоянно под напряжением. Размыкание контактора её не снимает.
+Strona zasilania: cały czas pod napięciem. Otwarcie stycznika tego nie usuwa.
+Betáplálási oldal: állandóan feszültség alatt. A kontaktor nyitása ezt nem szünteti meg.
+Lado de alimentación: con tensión todo el tiempo. Abrir el contactor no la quita.
+
+#1097
+Bouton de test
+Botão de teste
+测试按钮
+Кнопка проверки
+Przycisk testowy
+Tesztgomb
+Botón de prueba
+
+#1098
+L'enfoncer ferme les contacts à la main. Une main ou un outil peut démarrer le moteur même bobine hors tension.
+Pressioná-lo fecha os contatos à mão. Uma mão ou uma ferramenta pode dar partida no motor mesmo com a bobina sem energia.
+按下它会用手动方式闭合触点。即使线圈没有电，用手或工具也能启动电机。
+Нажатие замыкает контакты вручную. Рука или инструмент могут запустить двигатель даже при обесточенной катушке.
+Jego wciśnięcie zamyka styki ręcznie. Ręka lub narzędzie może uruchomić silnik nawet przy bezprądowej cewce.
+A benyomása kézzel zárja az érintkezőket. Kéz vagy szerszám elindíthatja a motort akkor is, ha a tekercs feszültségmentes.
+Pulsarlo cierra los contactos a mano. Una mano o una herramienta puede arrancar el motor aunque la bobina no tenga tensión.
+
+#1099
+Bornes de bobine A1/A2
+Terminais da bobina A1/A2
+线圈端子A1/A2
+Клеммы катушки A1/A2
+Zaciski cewki A1/A2
+Tekercskapcsok A1/A2
+Bornes de bobina A1/A2
+
+#1100
+La bobine peut être alimentée depuis une autre armoire. Isoler le circuit de puissance ne supprime pas cette tension.
+A bobina pode ser alimentada por outro painel. Isolar o circuito de potência não remove essa tensão.
+线圈可能由另一个柜供电。隔离主回路并不会消除这个电压。
+Катушка может питаться от другого шкафа. Отключение силовой цепи это напряжение не снимает.
+Cewka może być zasilana z innej szafy. Odcięcie obwodu mocy nie usuwa tego napięcia.
+A tekercset másik szekrény is táplálhatja. A főáramkör leválasztása ezt a feszültséget nem szünteti meg.
+La bobina puede alimentarse desde otro cuadro. Aislar el circuito de potencia no quita esa tensión.
+
+#1101
+AC-3 = service de démarrage moteur. Vérifiez la tension de bobine avant de tester.
+AC-3 = serviço de partida de motor. Verifique a tensão da bobina antes de testar.
+AC-3 = 电机起动工况。测试前先检查线圈电压。
+AC-3 = режим пуска двигателя. Перед проверкой уточните напряжение катушки.
+AC-3 = praca rozruchowa silnika. Przed testem sprawdź napięcie cewki.
+AC-3 = motorindítási üzem. Mérés előtt ellenőrizze a tekercsfeszültséget.
+AC-3 = servicio de arranque de motor. Compruebe la tensión de la bobina antes de probar.
+
+#1102
+Contacts mobiles
+Contatos móveis
+动触点
+Подвижные контакты
+Styki ruchome
+Mozgó érintkezők
+Contactos móviles
+
+#1103
+Contacts en pont argentés. Ils peuvent se souder après un court-circuit et rester fermés bobine hors tension.
+Contatos de ponte prateados. Podem soldar após um curto-circuito e ficar fechados com a bobina sem energia.
+镀银桥式触点。短路后可能熔焊在一起，线圈断电后仍保持闭合。
+Посеребрённые мостиковые контакты. После короткого замыкания они могут свариться и оставаться замкнутыми при обесточенной катушке.
+Posrebrzane styki mostkowe. Po zwarciu mogą się zespawać i pozostać zamknięte przy bezprądowej cewce.
+Ezüstözött hídérintkezők. Zárlat után összehegedhetnek, és a tekercs feszültségmentessége mellett is zárva maradhatnak.
+Contactos puente plateados. Pueden soldarse tras un cortocircuito y quedar cerrados con la bobina sin tensión.
+
+#1104
+Ressort de rappel
+Mola de retorno
+复位弹簧
+Возвратная пружина
+Sprężyna powrotna
+Visszahúzó rugó
+Muelle de retorno
+
+#1105
+Repousse l'armature et ouvre les contacts quand la bobine n'est plus alimentée.
+Empurra a armadura de volta e abre os contatos quando a bobina perde energia.
+线圈失电时把衔铁推回并使触点断开。
+Возвращает якорь и размыкает контакты, когда катушка обесточивается.
+Odpycha zworę i otwiera styki, gdy cewka traci zasilanie.
+Visszatolja a kotvát, és megnyitja az érintkezőket, amikor a tekercs elveszti a tápot.
+Empuja la armadura de vuelta y abre los contactos cuando la bobina pierde alimentación.
+
+#1106
+Armature
+Armadura
+衔铁
+Якорь
+Zwora
+Kotva
+Armadura
+
+#1107
+Le fer mobile. Une sortie d'automate, un relais ou une main peut le maintenir attiré.
+O ferro móvel. Uma saída de CLP, um relé ou uma mão pode mantê-lo puxado.
+可动铁芯。PLC输出、继电器或手都可以把它保持在吸合状态。
+Подвижное железо. Выход ПЛК, реле или рука могут удерживать его притянутым.
+Ruchomy rdzeń. Wyjście PLC, przekaźnik lub ręka mogą go utrzymać przyciągniętego.
+A mozgó vasmag. PLC-kimenet, relé vagy kéz bent tarthatja.
+El hierro móvil. Una salida de PLC, un relé o una mano pueden mantenerlo atraído.
+
+#1108
+Bobine
+Bobina
+线圈
+Катушка
+Cewka
+Tekercs
+Bobina
+
+#1109
+Quelques watts suffisent à maintenir les contacts. Une bobine hors tension signifie seulement absence de signal de commande, pas isolement.
+Alguns watts mantêm os contatos. Bobina sem energia significa apenas ausência de sinal de comando, não isolamento.
+几瓦的功率就能保持触点吸合。线圈没电只表示没有控制信号，不等于隔离。
+Нескольких ватт достаточно для удержания контактов. Обесточенная катушка означает лишь отсутствие сигнала управления, а не отключение.
+Kilka watów wystarcza do utrzymania styków. Bezprądowa cewka oznacza tylko brak sygnału sterującego, a nie odcięcie.
+Néhány watt elég az érintkezők tartásához. A feszültségmentes tekercs csak vezérlőjel hiányát jelenti, nem leválasztást.
+Unos pocos vatios mantienen los contactos. Una bobina sin tensión solo significa que no hay señal de mando, no aislamiento.
+
+#1110
+La paire du haut est le côté arrivée, toujours sous tension.
+O par de cima é o lado da entrada, sempre energizado.
+上面那一排是进线侧，始终带电。
+Верхний ряд — сторона питания, всегда под напряжением.
+Górna para to strona zasilania, zawsze pod napięciem.
+A felső pár a betáplálási oldal, mindig feszültség alatt.
+La fila de arriba es el lado de entrada, siempre con tensión.
+
+#1111
+Un contacteur ne peut pas être verrouillé comme point d'isolement.
+Um contator não pode ser bloqueado como ponto de isolamento.
+接触器不能被锁定作为隔离点。
+Контактор нельзя заблокировать как точку отключения.
+Stycznika nie można zablokować jako punktu odcięcia.
+A kontaktor nem zárható le leválasztási pontként.
+Un contactor no puede bloquearse como punto de aislamiento.
+
+#1112
+Isolez en amont : le disjoncteur ou le sectionneur rotatif qui l'alimente.
+Isole a montante: o disjuntor ou a seccionadora rotativa que o alimenta.
+在上游隔离：给它供电的断路器或旋转隔离开关。
+Отключайте выше по цепи: автомат или поворотный разъединитель, который его питает.
+Odetnij wyżej: wyłącznik lub rozłącznik obrotowy, który go zasila.
+Az előtte lévő oldalon válasszon le: a megszakítón vagy forgókaros szakaszolón, amely táplálja.
+Aísle aguas arriba: el interruptor o el seccionador rotativo que lo alimenta.
+
+#1113
+Considérez ses bornes d'arrivée comme sous tension.
+Trate seus terminais de entrada como energizados.
+把它的进线端子当作带电。
+Считайте его входные клеммы находящимися под напряжением.
+Traktuj jego zaciski zasilające jako będące pod napięciem.
+Tekintse feszültség alatt állónak a betáplálási kapcsait.
+Trate sus bornes de entrada como con tensión.
+
+#1114
+Testez les bornes côté moteur 2, 4, 6 après avoir isolé en amont.
+Teste os terminais do lado do motor 2, 4, 6 depois de isolar a montante.
+在上游隔离之后，测试电机侧端子2、4、6。
+После отключения выше по цепи проверьте клеммы со стороны двигателя 2, 4, 6.
+Po odcięciu wyżej przetestuj zaciski od strony silnika 2, 4, 6.
+A felső oldali leválasztás után vizsgálja meg a motoroldali 2, 4, 6 kapcsokat.
+Pruebe los bornes del lado del motor 2, 4, 6 tras aislar aguas arriba.
+
+#1115
+Couper le contacteur et commencer à travailler sur le moteur.
+Desligar o contator e começar a trabalhar no motor.
+断开接触器后就开始在电机上作业。
+Отключить контактор и начать работу на двигателе.
+Wyłączenie stycznika i rozpoczęcie pracy przy silniku.
+Kikapcsolni a kontaktort, és elkezdeni dolgozni a motoron.
+Apagar el contactor y empezar a trabajar en el motor.
+
+#1116
+Croire que « la sortie de l'automate est à OFF, donc c'est sûr ».
+Acreditar que "a saída do CLP está desligada, então é seguro".
+以为"PLC输出是关的，所以是安全的"。
+Верить, что «выход ПЛК выключен, значит, безопасно».
+Wiara, że „wyjście PLC jest wyłączone, więc jest bezpiecznie".
+Azt hinni, hogy „a PLC-kimenet ki van kapcsolva, tehát biztonságos".
+Creer que «la salida del PLC está apagada, así que es seguro».
+
+#1117
+IEC 60947-4-1. Les contacteurs sont des appareils de commutation, pas des sectionneurs.
+IEC 60947-4-1. Contatores são dispositivos de manobra, não seccionadores.
+IEC 60947-4-1。接触器是开关电器，不是隔离开关。
+IEC 60947-4-1. Контакторы — коммутационные аппараты, а не разъединители.
+IEC 60947-4-1. Styczniki są aparatami łączeniowymi, a nie rozłącznikami.
+IEC 60947-4-1. A kontaktorok kapcsolókészülékek, nem szakaszolók.
+IEC 60947-4-1. Los contactores son aparatos de maniobra, no seccionadores.
+
+#1118
+Relâché
+Liberado
+已释放
+Отпущена
+Zwolniony
+Kioldva
+Liberado
+
+#1119
+Enfoncé (verrouillé)
+Pressionado (travado)
+已按下（锁定）
+Нажата (зафиксирована)
+Wciśnięty (zatrzaśnięty)
+Benyomva (reteszelve)
+Pulsado (enclavado)
+
+#1120
+Un cache sur un bouton d'arrêt empêche seulement de l'appuyer ou de le relâcher. Il ne coupe aucune énergie, donc ce n'est pas du LOTO.
+Uma capa em um botão de parada apenas impede que as pessoas o pressionem ou liberem. Não corta nenhuma energia, portanto não é LOTO.
+停止按钮上的保护罩只是防止别人按下或释放它。它不切断任何能量，所以不是LOTO。
+Колпак на кнопке «Стоп» лишь не даёт людям нажимать или отпускать её. Он не отключает никакую энергию, поэтому это не LOTO.
+Osłona na przycisku stop tylko uniemożliwia jego naciskanie lub zwalnianie. Nie odcina żadnej energii, więc to nie jest LOTO.
+A stop gombon lévő burkolat csak azt akadályozza meg, hogy megnyomják vagy kioldják. Semmilyen energiát nem szakít meg, ezért ez nem LOTO.
+Una cubierta sobre un pulsador de paro solo impide que la gente lo pulse o lo libere. No corta ninguna energía, así que no es LOTO.
+
+#1121
+Bouton d'arrêt d'urgence
+Botão de parada de emergência
+急停按钮
+Кнопка аварийного останова
+Przycisk wyłącznika awaryjnego
+Vészleállító gomb
+Pulsador de parada de emergencia
+
+#1122
+Le champignon rouge arrête vite la machine en cas d'urgence. À l'intérieur, il ouvre deux contacts normalement fermés par un mécanisme à ouverture forcée. C'est un dispositif de commande : il dit au contrôleur d'arrêter, il n'isole pas la machine. On peut y poser un cache, mais ce n'est pas un isolement.
+O cogumelo vermelho para a máquina rapidamente em uma emergência. Por dentro, ele abre dois contatos normalmente fechados por um mecanismo de abertura forçada. É um dispositivo de comando: diz ao controlador para parar, não isola a máquina. Você pode colocar uma capa nele, mas isso não é isolamento.
+红色蘑菇头在紧急情况下让机器快速停机。内部通过强制机构断开两个常闭触点。它是控制装置：它通知控制器停机，并不隔离机器。可以在它上面加保护罩，但那不是隔离。
+Красный грибок быстро останавливает машину в аварийной ситуации. Внутри он размыкает два нормально замкнутых контакта принудительным механизмом. Это устройство управления: оно сообщает контроллеру об остановке, но не отключает машину. На него можно надеть колпак, но это не отключение.
+Czerwony grzybek szybko zatrzymuje maszynę w sytuacji awaryjnej. W środku otwiera dwa styki normalnie zamknięte mechanizmem z wymuszonym otwarciem. To urządzenie sterownicze: mówi sterownikowi, żeby zatrzymał, ale nie odcina maszyny. Można na nim założyć osłonę, ale to nie jest odcięcie.
+A piros gomba vészhelyzetben gyorsan leállítja a gépet. Belül kényszernyitású mechanizmussal két alaphelyzetben zárt érintkezőt nyit. Vezérlőeszköz: szól a vezérlőnek, hogy álljon le, de nem választja le a gépet. Rakhat rá burkolatot, de az nem leválasztás.
+La seta roja detiene rápido la máquina en una emergencia. Por dentro abre dos contactos normalmente cerrados con un mecanismo de apertura forzada. Es un dispositivo de mando: le dice al controlador que pare, no aísla la máquina. Se le puede poner una cubierta, pero eso no es aislamiento.
+
+#1123
+Se trouve dans le circuit de commande (24 V ou 230 V).
+Fica no circuito de comando (24 V ou 230 V).
+位于控制回路中（24 V或230 V）。
+Находится в цепи управления (24 В или 230 В).
+Znajduje się w obwodzie sterowania (24 V lub 230 V).
+A vezérlő áramkörben van (24 V vagy 230 V).
+Está en el circuito de mando (24 V o 230 V).
+
+#1124
+Cache seul : PAS un isolement
+Somente a capa: NÃO é isolamento
+仅有保护罩：不是隔离
+Только колпак: НЕ отключение
+Sama osłona: NIE jest odcięciem
+Csak burkolat: NEM leválasztás
+Solo la cubierta: NO es aislamiento
+
+#1125
+Enfoncé : contacts ouverts de force et verrouillés
+Pressionado: contatos abertos à força e travados
+已按下：触点被强制断开并锁定
+Нажата: контакты принудительно разомкнуты и зафиксированы
+Wciśnięty: styki otwarte wymuszenie i zatrzaśnięte
+Benyomva: az érintkezők kényszerrel nyitva és reteszelve
+Pulsado: contactos abiertos a la fuerza y enclavados
+
+#1126
+Relâché : les contacts normalement fermés transmettent le signal
+Liberado: os contatos normalmente fechados conduzem o sinal
+已释放：常闭触点导通信号
+Отпущена: нормально замкнутые контакты пропускают сигнал
+Zwolniony: styki normalnie zamknięte przewodzą sygnał
+Kioldva: az alaphelyzetben zárt érintkezők vezetik a jelet
+Liberado: los contactos normalmente cerrados conducen la señal
+
+#1127
+Tête champignon
+Cabeça de cogumelo
+蘑菇头
+Грибовидная головка
+Główka grzybkowa
+Gombafej
+Cabeza de seta
+
+#1128
+Appuyez pour arrêter. Elle se verrouille enfoncée. Tournez ou tirez pour la libérer. Un cache dessus ne bloque que les mains.
+Pressione para parar. Ela trava abaixada. Gire ou puxe para liberar. Uma capa sobre ela só bloqueia as mãos.
+按下即停机，并会锁定在按下位置。旋转或拉出即可释放。盖在上面的保护罩只能挡住手。
+Нажмите для остановки. Она фиксируется в нажатом положении. Поверните или потяните, чтобы отпустить. Колпак над ней лишь блокирует руки.
+Naciśnij, aby zatrzymać. Zatrzaskuje się w dole. Przekręć lub pociągnij, aby zwolnić. Osłona nad nim tylko blokuje ręce.
+Nyomja meg a leállításhoz. Lenyomva reteszelődik. Elfordítással vagy húzással oldható ki. A rajta lévő burkolat csak a kezeket akadályozza.
+Pulse para parar. Se enclava hacia abajo. Gire o tire para liberarla. Una cubierta sobre ella solo bloquea las manos.
+
+#1129
+Collerette jaune
+Anel amarelo
+黄色环圈
+Жёлтый ободок
+Żółty kołnierz
+Sárga gallér
+Collar amarillo
+
+#1130
+Le jaune et le rouge signifient urgence. Ces couleurs sont exigées par la norme.
+As cores amarela e vermelha significam emergência. Elas são exigidas pela norma.
+黄色和红色表示紧急。标准要求使用这些颜色。
+Жёлтый и красный цвета означают аварийную ситуацию. Эти цвета требуются стандартом.
+Żółty i czerwony oznaczają awarię. Te kolory są wymagane przez normę.
+A sárga és a piros szín vészhelyzetet jelent. Ezeket a színeket a szabvány előírja.
+El amarillo y el rojo significan emergencia. Estos colores los exige la norma.
+
+#1131
+Bloc de contacts NF
+Bloco de contatos NF
+常闭触点块
+Блок контактов NC
+Blok styków NC
+NC érintkezőblokk
+Bloque de contactos NC
+
+#1132
+Deux contacts normalement fermés en série pour la redondance. L'appui sur le bouton les ouvre de force.
+Dois contatos normalmente fechados em série para redundância. Pressionar o botão os abre à força.
+两个常闭触点串联，用于冗余。按下按钮会强制断开它们。
+Два нормально замкнутых контакта последовательно для резервирования. Нажатие кнопки принудительно размыкает их.
+Dwa styki normalnie zamknięte szeregowo dla redundancji. Naciśnięcie przycisku otwiera je wymuszenie.
+Két alaphelyzetben zárt érintkező sorosan a redundancia miatt. A gomb megnyomása kényszerrel nyitja őket.
+Dos contactos normalmente cerrados en serie para redundancia. Al pulsar el botón se abren a la fuerza.
+
+#1133
+Poussoir et verrou
+Êmbolo e trava
+推杆和锁扣
+Толкатель и фиксатор
+Trzpień i zatrzask
+Dugattyú és retesz
+Émbolo y enclavamiento
+
+#1134
+Maintient le bouton enfoncé après un appui pour qu'il reste à l'arrêt jusqu'à ce que quelqu'un le libère volontairement.
+Mantém o botão abaixado após o aperto para que fique parado até alguém liberar de propósito.
+按下后将按钮保持在按下位置，机器一直停着，直到有人有意识地释放它。
+Удерживает кнопку в нажатом положении, чтобы машина оставалась остановленной, пока кто-то не отпустит её намеренно.
+Utrzymuje przycisk wciśnięty po naciśnięciu, aby maszyna pozostała zatrzymana, dopóki ktoś celowo go nie zwolni.
+Lenyomás után lent tartja a gombot, hogy a gép addig álljon, amíg valaki szándékosan ki nem oldja.
+Mantiene el pulsador abajo tras pulsarlo para que la máquina siga parada hasta que alguien lo libere a propósito.
+
+#1135
+Ressort
+Mola
+弹簧
+Пружина
+Sprężyna
+Rugó
+Muelle
+
+#1136
+Fait remonter la tête quand elle est libérée.
+Faz a cabeça subir quando é liberada.
+释放时把头部弹起。
+Выталкивает головку вверх, когда её отпускают.
+Wypycha główkę do góry po zwolnieniu.
+Felnyomja a fejet, amikor kioldják.
+Hace subir la cabeza cuando se libera.
+
+#1137
+Un arrêt d'urgence n'est pas un point d'isolement. Ne l'utilisez pas pour le LOTO.
+Uma parada de emergência não é um ponto de isolamento. Não a use para LOTO.
+急停不是隔离点。不要用它来做LOTO。
+Аварийный останов — не точка отключения. Не используйте его для LOTO.
+Wyłącznik awaryjny nie jest punktem odcięcia. Nie używaj go do LOTO.
+A vészleállító nem leválasztási pont. Ne használja LOTO-hoz.
+Una parada de emergencia no es un punto de aislamiento. No la use para LOTO.
+
+#1138
+Si votre procédure demande un cache de bouton, posez-le seulement comme rappel supplémentaire.
+Se o seu procedimento pedir uma capa de botão, instale-a apenas como lembrete extra.
+如果你的程序要求加按钮保护罩，只能把它当作额外的提醒。
+Если ваша процедура требует колпак на кнопку, устанавливайте его лишь как дополнительное напоминание.
+Jeśli Twoja procedura wymaga osłony przycisku, załóż ją tylko jako dodatkowe przypomnienie.
+Ha az eljárása gombburkolatot kér, csak további emlékeztetőként tegye fel.
+Si su procedimiento pide una cubierta de pulsador, colóquela solo como recordatorio adicional.
+
+#1139
+Isolez au disjoncteur ou au sectionneur.
+Isole no disjuntor ou no seccionador.
+在断路器或隔离开关处隔离。
+Отключайте на автомате или разъединителе.
+Odetnij na wyłączniku lub rozłączniku.
+Válasszon le a megszakítónál vagy a szakaszolónál.
+Aísle en el interruptor o en el seccionador.
+
+#1140
+Essayez de démarrer la machine depuis ses commandes normales, puis testez les bornes de puissance comme d'habitude.
+Tente partir a máquina pelos comandos normais e depois teste os terminais de potência como de costume.
+用正常的控制方式尝试启动机器，然后照常测试电源端子。
+Попытайтесь запустить машину штатными органами управления, затем проверьте силовые клеммы как обычно.
+Spróbuj uruchomić maszynę z jej normalnych sterowań, potem przetestuj zaciski mocy jak zwykle.
+Próbálja elindítani a gépet a normál vezérlőiről, majd a szokásos módon vizsgálja meg a teljesítménykapcsokat.
+Intente arrancar la máquina desde sus mandos normales y luego pruebe los bornes de potencia como siempre.
+
+#1141
+Appuyer sur l'arrêt d'urgence et commencer à travailler.
+Pressionar a parada de emergência e começar a trabalhar.
+按下急停就开始作业。
+Нажать аварийный останов и начать работу.
+Naciśnięcie wyłącznika awaryjnego i rozpoczęcie pracy.
+Megnyomni a vészleállítót, és elkezdeni dolgozni.
+Pulsar la parada de emergencia y empezar a trabajar.
+
+#1142
+Verrouiller un arrêt d'urgence et le déclarer « isolé ».
+Bloquear uma parada de emergência e chamá-la de "isolada".
+锁住急停按钮就说"已隔离"。
+Заблокировать аварийный останов и назвать его «отключённым».
+Zablokowanie wyłącznika awaryjnego i nazwanie go „odciętym".
+Lezárni a vészleállítót, és „leválasztottnak" nevezni.
+Bloquear una parada de emergencia y llamarla «aislada».
+
+#1143
+ISO 13850 / IEC 60204-1 : l'arrêt d'urgence est une mesure de protection, pas une méthode d'isolement (LOTO).
+ISO 13850 / IEC 60204-1: a parada de emergência é uma medida de proteção, não um método de isolamento (LOTO).
+ISO 13850 / IEC 60204-1：急停是一种保护措施，不是隔离（LOTO）方法。
+ISO 13850 / IEC 60204-1: аварийный останов — защитная мера, а не метод отключения (LOTO).
+ISO 13850 / IEC 60204-1: wyłącznik awaryjny jest środkiem ochronnym, a nie metodą odcięcia (LOTO).
+ISO 13850 / IEC 60204-1: a vészleállítás védelmi intézkedés, nem leválasztási (LOTO) módszer.
+ISO 13850 / IEC 60204-1: la parada de emergencia es una medida de protección, no un método de aislamiento (LOTO).
+
+#1144
+Alimentation 24 V CC (tension de commande)
+Fonte de 24 V CC (tensão de comando)
+24 V直流电源（控制电压）
+Блок питания 24 В DC (напряжение управления)
+Zasilacz 24 V DC (napięcie sterowania)
+24 V DC tápegység (vezérlőfeszültség)
+Fuente de alimentación de 24 V CC (tensión de mando)
+
+#1145
+Elle transforme le 230 V CA en 24 V CC pour l'automate, les capteurs et les relais. Une fois le sectionneur principal sur OFF, cette alimentation peut encore être alimentée depuis une autre armoire, et les fils de commande peuvent porter une tension étrangère. Ses condensateurs de sortie gardent leur charge quelques secondes. Isolez son propre disjoncteur d'entrée et prouvez que le 24 V a disparu.
+Ela converte 230 V CA em 24 V CC para o CLP, os sensores e os relés. Depois que o seccionador principal está em OFF, esta unidade ainda pode ser alimentada por outro painel, e os fios de comando podem carregar tensão externa. Seus capacitores de saída guardam carga por alguns segundos. Isole o disjuntor de entrada dela e comprove que os 24 V sumiram.
+它把230 V交流电变成24 V直流电，供PLC、传感器和继电器使用。主隔离开关拨到OFF之后，这台电源仍可能由另一个柜供电，控制线上也可能带有外来电压。它的输出电容会保持电荷几秒钟。要隔离它自己的输入断路器，并验证24 V已经消失。
+Он преобразует 230 В AC в 24 В DC для ПЛК, датчиков и реле. После отключения главного разъединителя этот блок может по-прежнему питаться от другого шкафа, а провода управления могут нести чужое напряжение. Его выходные конденсаторы удерживают заряд несколько секунд. Отключите его собственный входной автомат и подтвердите, что 24 В исчезло.
+Zamienia 230 V AC na 24 V DC dla PLC, czujników i przekaźników. Po wyłączeniu rozłącznika głównego ten zasilacz może być nadal zasilany z innej szafy, a przewody sterowania mogą nieść obce napięcie. Jego kondensatory wyjściowe trzymają ładunek przez kilka sekund. Odetnij jego własny wyłącznik wejściowy i potwierdź, że 24 V zniknęło.
+A 230 V AC-t 24 V DC-vé alakítja a PLC, az érzékelők és a relék számára. A főszakaszoló KI kapcsolása után ez az egység még táplálható másik szekrényből, és a vezérlővezetékeken idegen feszültség lehet. A kimeneti kondenzátorai néhány másodpercig tartják a töltést. Válassza le a saját bemeneti megszakítóját, és bizonyítsa, hogy a 24 V megszűnt.
+Convierte 230 V CA en 24 V CC para el PLC, los sensores y los relés. Con el seccionador principal en OFF, esta unidad aún puede alimentarse desde otro cuadro, y los cables de mando pueden llevar tensión ajena. Sus condensadores de salida retienen carga unos segundos. Aísle su propio interruptor de entrada y compruebe que los 24 V han desaparecido.
+
+#1146
+Alimente : automate, capteurs, bobines de relais, voyants.
+Alimenta: CLP, sensores, bobinas de relé, lâmpadas de sinalização.
+供电对象：PLC、传感器、继电器线圈、指示灯。
+Питает: ПЛК, датчики, катушки реле, сигнальные лампы.
+Zasila: PLC, czujniki, cewki przekaźników, lampki sygnalizacyjne.
+Táplál: PLC-t, érzékelőket, relétekercseket, jelzőlámpákat.
+Alimenta: PLC, sensores, bobinas de relé, lámparas piloto.
+
+#1147
+Fusible
+Fusível
+熔断器
+Предохр.
+Bezpiecznik
+Biztosíték
+Fusible
+
+#1148
+et filtre
+e filtro
+和滤波器
+и фильтр
+i filtr
+és szűrő
+y filtro
+
+#1149
+Redresseur
+Retificador
+整流器
+Выпрямитель
+Prostownik
+Egyenirányító
+Rectificador
+
+#1150
+Condensateurs de lissage
+Capacitores de filtro
+滤波电容
+Фильтрующие конденсаторы
+Kondensatory filtrujące
+Szűrőkondenzátorok
+Condensadores de filtrado
+
+#1151
+Transistor
+Transistor
+开关
+Ключевой
+Tranzystor
+Kapcsoló
+Transistor
+
+#1152
+de commutation
+de chaveamento
+晶体管
+транзистор
+przełączający
+tranzisztor
+de conmutación
+
+#1153
+Transformateur
+Transformador
+变压器
+Трансформатор
+Transformator
+Transzformátor
+Transformador
+
+#1154
+(isole)
+(isola)
+（隔离）
+(изолирует)
+(izoluje)
+(leválaszt)
+(aísla)
+
+#1155
+condensateurs
+capacitores
+输出
+выходные
+kondensatory
+kimeneti
+condensadores
+
+#1156
+de sortie
+de saída
+电容
+конденсаторы
+wyjściowe
+kondenzátorok
+de salida
+
+#1157
+Entrée CA
+Entrada CA
+交流输入
+Вход AC
+Wejście AC
+AC bemenet
+Entrada CA
+
+#1158
+Arrivée secteur. Isolez le disjoncteur qui alimente cette borne avant d'y toucher.
+Entrada da rede. Isole o disjuntor que alimenta este terminal antes de tocar.
+市电输入。触摸之前，先隔离给这个端子供电的断路器。
+Ввод сети. Прежде чем прикасаться, отключите автомат, питающий эту клемму.
+Wejście sieciowe. Przed dotknięciem odetnij wyłącznik zasilający ten zacisk.
+Hálózati bemenet. Mielőtt hozzáér, válassza le az ezt a kapcsot tápláló megszakítót.
+Entrada de red. Aísle el interruptor que alimenta este borne antes de tocarlo.
+
+#1159
+Sortie 24 V CC
+Saída 24 V CC
+24 V直流输出
+Выход 24 В DC
+Wyjście 24 V DC
+24 V DC kimenet
+Salida 24 V CC
+
+#1160
+Basse tension, mais distribuée à de nombreux appareils. Un court-circuit peut encore brûler un fil.
+Baixa tensão, mas alimenta muitos dispositivos. Um curto ainda pode queimar um fio.
+电压虽低，但供给很多设备。短路仍然可能烧毁导线。
+Низкое напряжение, но питает множество устройств. Короткое замыкание всё равно может сжечь провод.
+Niskie napięcie, ale zasila wiele urządzeń. Zwarcie nadal może spalić przewód.
+Kisfeszültség, de sok eszközt táplál. Egy zárlat még így is elégethet egy vezetéket.
+Baja tensión, pero alimenta a muchos dispositivos. Un cortocircuito aún puede quemar un cable.
+
+#1161
+LED DC OK
+LED DC OK
+DC OK指示灯
+Светодиод DC OK
+Dioda DC OK
+DC OK LED
+LED DC OK
+
+#1162
+Vert signifie sortie présente. Éteint ne prouve pas l'isolement : mesurez toujours.
+Verde significa saída presente. Apagado não prova isolamento: sempre meça.
+绿灯表示有输出。灯灭并不能证明已隔离：一定要测量。
+Зелёный означает наличие выхода. Погасший не доказывает отключения: всегда измеряйте.
+Zielony oznacza obecność napięcia na wyjściu. Zgaszony nie dowodzi odcięcia: zawsze mierz.
+A zöld kimeneti feszültséget jelent. Az, hogy nem világít, nem bizonyítja a leválasztást: mindig mérjen.
+Verde significa que hay salida. Apagado no demuestra aislamiento: mida siempre.
+
+#1163
+Fusible d'entrée et filtre
+Fusível de entrada e filtro
+输入熔断器和滤波器
+Входной предохранитель и фильтр
+Bezpiecznik wejściowy i filtr
+Bemeneti biztosíték és szűrő
+Fusible de entrada y filtro
+
+#1164
+Protège l'alimentation. Le fusible peut fondre si l'appareil tombe en panne.
+Protege a fonte. O fusível pode queimar se a unidade falhar.
+保护电源本身。电源故障时，这个熔断器可能熔断。
+Защищает блок питания. Предохранитель может перегореть при выходе блока из строя.
+Chroni zasilacz. Bezpiecznik może się przepalić, jeśli urządzenie ulegnie awarii.
+Védi a tápegységet. A biztosíték kiéghet, ha az egység meghibásodik.
+Protege la fuente. El fusible puede fundirse si la unidad falla.
+
+#1165
+Gardent environ 325 V CC plusieurs secondes après la coupure. Attendez avant d'ouvrir l'appareil.
+Guardam cerca de 325 V CC por vários segundos depois que a alimentação é cortada. Espere antes de abrir a unidade.
+切断电源后，会保持约325 V直流电压好几秒。打开设备之前要等待。
+Удерживают около 325 В DC в течение нескольких секунд после отключения питания. Подождите, прежде чем вскрывать блок.
+Utrzymują około 325 V DC przez kilka sekund po odcięciu zasilania. Poczekaj, zanim otworzysz urządzenie.
+Az áramtalanítás után még több másodpercig kb. 325 V DC-t tartanak. Várjon, mielőtt kinyitja az egységet.
+Mantienen unos 325 V CC durante varios segundos tras cortar la alimentación. Espere antes de abrir la unidad.
+
+#1166
+Sépare le côté secteur du côté 24 V. Chaque côté demande son propre contrôle.
+Separa o lado da rede do lado de 24 V. Cada lado precisa da sua própria verificação.
+把市电侧和24 V侧隔开。两侧都要各自检查。
+Разделяет сторону сети и сторону 24 В. Каждую сторону нужно проверять отдельно.
+Oddziela stronę sieciową od strony 24 V. Każda strona wymaga własnego sprawdzenia.
+Elválasztja a hálózati oldalt a 24 V-os oldaltól. Mindkét oldalt külön ellenőrizni kell.
+Separa el lado de red del lado de 24 V. Cada lado necesita su propia comprobación.
+
+#1167
+Condensateurs de sortie
+Capacitores de saída
+输出电容
+Выходные конденсаторы
+Kondensatory wyjściowe
+Kimeneti kondenzátorok
+Condensadores de salida
+
+#1168
+Gardent le 24 V un court instant après la coupure.
+Mantêm 24 V por pouco tempo depois do desligamento.
+断电后会短时间保持24 V。
+Удерживают 24 В короткое время после отключения.
+Utrzymują 24 V przez krótki czas po wyłączeniu.
+A kikapcsolás után rövid ideig tartják a 24 V-ot.
+Mantienen los 24 V durante un breve tiempo tras apagar.
+
+#1169
+L'appareil n'a aucun point de verrouillage. Verrouillez le disjoncteur qui alimente ses entrées L et N.
+A unidade não tem ponto de bloqueio. Bloqueie o disjuntor que alimenta as entradas L e N.
+这台设备没有上锁点。要锁住给它L和N输入供电的断路器。
+У блока нет точки блокировки. Заблокируйте автомат, питающий его входы L и N.
+Urządzenie nie ma punktu blokady. Zablokuj wyłącznik zasilający jego wejścia L i N.
+Az egységnek nincs lezárási pontja. Zárja le azt a megszakítót, amely az L és N bemenetét táplálja.
+La unidad no tiene punto de bloqueo. Bloquee el interruptor que alimenta sus entradas L y N.
+
+#1170
+Vérifiez si le 24 V vient aussi d'une autre source (une deuxième alimentation, une batterie, un signal externe).
+Verifique se os 24 V também vêm de outra fonte (uma segunda fonte, uma bateria, um sinal externo).
+检查24 V是否还来自其他电源（第二台电源、电池、外部信号）。
+Проверьте, не приходит ли 24 В ещё и от другого источника (второго блока питания, батареи, внешнего сигнала).
+Sprawdź, czy 24 V nie pochodzi także z innego źródła (drugi zasilacz, akumulator, sygnał zewnętrzny).
+Ellenőrizze, hogy a 24 V más forrásból is érkezik-e (második tápegység, akkumulátor, külső jel).
+Compruebe si los 24 V también vienen de otra fuente (una segunda fuente, una batería, una señal externa).
+
+#1171
+Mesurez la sortie + vers − et vers la terre. Attendez les condensateurs. Prouvez l'appareil de mesure sur une source connue.
+Meça a saída + para − e para a terra. Espere os capacitores. Comprove o medidor em uma fonte conhecida.
+测量输出+对−以及对地。等待电容放电。在已知电源上验证仪表。
+Измерьте выход «+» относительно «−» и на землю. Подождите конденсаторы. Проверьте прибор на известном источнике.
+Zmierz wyjście + do − i do ziemi. Poczekaj na kondensatory. Sprawdź miernik na znanym źródle.
+Mérje meg a kimenetet + és − között, valamint a föld felé. Várja meg a kondenzátorokat. Igazolja a műszert ismert forráson.
+Mida la salida + a − y a tierra. Espere a los condensadores. Compruebe el medidor en una fuente conocida.
+
+#1172
+Oublier qu'un circuit 24 V peut être alimenté depuis une autre armoire.
+Esquecer que um circuito de 24 V pode ser alimentado por outro painel.
+忘记24 V回路可能由另一个柜供电。
+Забыть, что цепь 24 В может питаться от другого шкафа.
+Zapomnienie, że obwód 24 V może być zasilany z innej szafy.
+Elfelejteni, hogy egy 24 V-os áramkört másik szekrény is táplálhat.
+Olvidar que un circuito de 24 V puede alimentarse desde otro cuadro.
+
+#1173
+Ouvrir l'appareil quelques secondes après la coupure.
+Abrir a unidade segundos depois de desligar.
+断电几秒钟后就打开设备。
+Вскрывать блок через несколько секунд после отключения.
+Otwieranie urządzenia kilka sekund po wyłączeniu.
+Kinyitni az egységet másodpercekkel a kikapcsolás után.
+Abrir la unidad segundos después de apagar.
+
+#1174
+IEC 61558 / EN 61010 : la sortie peut être TBTS, l'entrée non.
+IEC 61558 / EN 61010: a saída pode ser SELV, a entrada não.
+IEC 61558 / EN 61010：输出可以是SELV，输入不是。
+IEC 61558 / EN 61010: выход может быть SELV, вход — нет.
+IEC 61558 / EN 61010: wyjście może być SELV, wejście nie.
+IEC 61558 / EN 61010: a kimenet lehet SELV, a bemenet nem.
+IEC 61558 / EN 61010: la salida puede ser SELV, la entrada no.
+
+#1175
+Automate et ses sorties
+CLP e suas saídas
+PLC及其输出
+ПЛК и его выходы
+PLC i jego wyjścia
+PLC és kimenetei
+PLC y sus salidas
+
+#1176
+L'automate décide, il n'isole pas. Une sortie coupée, un mode « STOP » ou un verrouillage logiciel peut tomber en panne ou être modifié. Les relais de sortie peuvent coller. Certaines entrées et sorties sont câblées sur une autre alimentation : un automate hors tension peut donc avoir des bornes encore sous tension (tension étrangère).
+O CLP decide, não isola. Uma saída desligada, um modo "STOP" ou um intertravamento por software pode falhar ou ser alterado. Relés de saída podem colar. Algumas entradas e saídas são ligadas a uma alimentação diferente, então um CLP com a própria alimentação desligada ainda pode ter terminais energizados (tensão externa).
+PLC负责决策，不负责隔离。被关闭的输出、"STOP"模式或软件联锁都可能失效或被改动。输出继电器可能粘连。有些输入输出接在另一路电源上，所以自身断电的PLC仍可能有带电的端子（外来电压）。
+ПЛК принимает решения, но не отключает. Выключенный выход, режим «STOP» или программная блокировка могут отказать или быть изменены. Выходные реле могут залипнуть. Некоторые входы и выходы подключены к другому источнику питания, поэтому у ПЛК с отключённым собственным питанием клеммы могут оставаться под напряжением (чужое напряжение).
+PLC podejmuje decyzje, ale nie odcina. Wyłączone wyjście, tryb „STOP" lub blokada programowa mogą zawieść lub zostać zmienione. Przekaźniki wyjściowe mogą się zakleić. Niektóre wejścia i wyjścia są podłączone do innego zasilania, więc PLC z wyłączonym własnym zasilaniem może nadal mieć zaciski pod napięciem (obce napięcie).
+A PLC dönt, nem választ le. Egy kikapcsolt kimenet, a „STOP" mód vagy egy szoftveres reteszelés meghibásodhat vagy megváltoztatható. A kimeneti relék megragadhatnak. Néhány bemenet és kimenet más tápra van kötve, így a saját tápja nélküli PLC-n is lehetnek feszültség alatt álló kapcsok (idegen feszültség).
+El PLC decide, no aísla. Una salida apagada, un modo «STOP» o un enclavamiento por software puede fallar o cambiarse. Los relés de salida pueden quedarse pegados. Algunas entradas y salidas están cableadas a otra alimentación, así que un PLC con su propia alimentación apagada aún puede tener bornes con tensión (tensión ajena).
+
+#1177
+Commande : contacteurs, vannes, voyants.
+Controla: contatores, válvulas, lâmpadas.
+控制对象：接触器、阀门、指示灯。
+Управляет: контакторами, клапанами, лампами.
+Steruje: stycznikami, zaworami, lampkami.
+Vezérel: kontaktorokat, szelepeket, lámpákat.
+Controla: contactores, válvulas, lámparas.
+
+#1178
+Une LED éteinte ne veut pas dire hors tension
+Um LED apagado não significa sem tensão
+指示灯不亮不等于没电
+Погасший светодиод не значит отсутствие напряжения
+Zgaszona dioda nie oznacza braku napięcia
+Az, hogy a LED nem világít, nem jelent feszültségmentességet
+Un LED apagado no significa sin tensión
+
+#1179
+Optocoupleur
+Optoacoplador
+光耦
+Оптопара
+Transoptor
+Optocsatoló
+Optoacoplador
+
+#1180
+entrée
+entrada
+输入
+вход
+wejście
+bemenet
+entrada
+
+#1181
+depuis un capteur
+de um sensor
+来自传感器
+от датчика
+z czujnika
+érzékelőtől
+desde un sensor
+
+#1182
+Sortie relais
+Saída a relé
+继电器输出
+Релейный выход
+Wyjście przekaźnikowe
+Relékimenet
+Salida de relé
+
+#1183
+Tension
+Tensão
+外来
+Чужое
+Obce
+Idegen
+Tensión
+
+#1184
+étrangère
+externa
+电压
+напряжение
+napięcie
+feszültség
+ajena
+
+#1185
+L'automate peut être OFF et cette borne rester sous tension
+O CLP pode estar OFF e este terminal continuar energizado
+PLC可以是OFF，而这个端子仍然带电
+ПЛК может быть выключен, а эта клемма останется под напряжением
+PLC może być wyłączony, a ten zacisk nadal pod napięciem
+A PLC lehet KI, és ez a kapocs mégis feszültség alatt maradhat
+El PLC puede estar en OFF y este borne seguir con tensión
+
+#1186
+Module d'alimentation
+Módulo de alimentação
+电源模块
+Модуль питания
+Moduł zasilania
+Tápmodul
+Módulo de alimentación
+
+#1187
+Sa LED indique seulement que le module est alimenté. Elle ne dit rien des autres circuits.
+O LED só diz que o módulo está alimentado. Não diz nada sobre os outros circuitos.
+它的指示灯只说明这个模块有电，对其他回路什么也说明不了。
+Его светодиод показывает лишь, что на модуль подано питание. О других цепях он ничего не говорит.
+Jego dioda mówi tylko, że moduł jest zasilony. Nic nie mówi o innych obwodach.
+A LED-je csak azt jelzi, hogy a modul táplálva van. A többi áramkörről semmit sem mond.
+Su LED solo indica que el módulo está alimentado. No dice nada de los demás circuitos.
+
+#1188
+LED de la CPU
+LEDs da CPU
+CPU指示灯
+Светодиоды ЦП
+Diody CPU
+CPU LED-ek
+LED de la CPU
+
+#1189
+RUN ou STOP est du logiciel. Le mode STOP n'isole aucun câblage de sortie.
+RUN ou STOP é software. O modo STOP não isola nenhuma fiação de saída.
+RUN或STOP只是软件状态。STOP模式并不隔离任何输出接线。
+RUN или STOP — это программное состояние. Режим STOP не отключает никакую проводку выходов.
+RUN lub STOP to oprogramowanie. Tryb STOP nie odcina żadnego okablowania wyjść.
+A RUN vagy STOP szoftver. A STOP mód semmilyen kimeneti huzalozást nem választ le.
+RUN o STOP es software. El modo STOP no aísla ningún cableado de salida.
+
+#1190
+LED d'entrée
+LEDs de entrada
+输入指示灯
+Светодиоды входов
+Diody wejść
+Bemeneti LED-ek
+LED de entrada
+
+#1191
+Une LED allumée signifie qu'un signal est présent, y compris un signal venant d'une autre source.
+Um LED aceso significa que há um sinal presente, inclusive um sinal de outra fonte.
+指示灯亮表示有信号，包括来自其他电源的信号。
+Горящий светодиод означает наличие сигнала, в том числе от другого источника.
+Zapalona dioda oznacza obecność sygnału, także z innego źródła.
+A világító LED jel meglétét jelenti, beleértve a más forrásból érkező jelet is.
+Un LED encendido significa que hay una señal presente, incluida una de otra fuente.
+
+#1192
+LED de sortie
+LEDs de saída
+输出指示灯
+Светодиоды выходов
+Diody wyjść
+Kimeneti LED-ek
+LED de salida
+
+#1193
+Une LED éteinte ne prouve pas que le fil de sortie est hors tension. Un relais collé ou une tension étrangère peut être présent.
+Um LED apagado não prova que o fio de saída está sem tensão. Um relé colado ou uma tensão externa ainda pode estar presente.
+指示灯不亮并不能证明输出线没电。粘连的继电器或外来电压仍可能存在。
+Погасший светодиод не доказывает, что провод выхода обесточен. Может присутствовать залипшее реле или чужое напряжение.
+Zgaszona dioda nie dowodzi, że przewód wyjścia jest bez napięcia. Może być obecny zaklejony przekaźnik lub obce napięcie.
+A kialudt LED nem bizonyítja, hogy a kimeneti vezeték feszültségmentes. Megragadt relé vagy idegen feszültség még jelen lehet.
+Un LED apagado no demuestra que el cable de salida esté sin tensión. Puede haber un relé pegado o tensión ajena.
+
+#1194
+CPU
+CPU
+CPU
+ЦП
+CPU
+CPU
+CPU
+
+#1195
+Exécute le programme. Un bogue ou une sortie forcée peut mettre une charge en marche.
+Executa o programa. Um bug ou uma saída forçada pode ligar uma carga.
+运行程序。程序错误或被强制的输出都可能使负载通电。
+Выполняет программу. Ошибка или принудительно установленный выход могут включить нагрузку.
+Wykonuje program. Błąd lub wymuszone wyjście może załączyć obciążenie.
+Futtatja a programot. Egy hiba vagy egy kényszerített kimenet bekapcsolhat egy terhelést.
+Ejecuta el programa. Un error o una salida forzada puede conectar una carga.
+
+#1196
+Sépare le signal de terrain de la CPU par la lumière. Le fil de terrain peut quand même porter 24 V.
+Separa o sinal de campo da CPU com luz. O fio de campo ainda pode carregar 24 V.
+用光把现场信号与CPU隔开。现场线上仍然可能带有24 V。
+Разделяет полевой сигнал и ЦП светом. Полевой провод всё равно может нести 24 В.
+Oddziela sygnał z obiektu od CPU za pomocą światła. Przewód z obiektu nadal może nieść 24 V.
+Fénnyel választja el a terepi jelet a CPU-tól. A terepi vezetéken még lehet 24 V.
+Separa la señal de campo de la CPU con luz. El cable de campo aún puede llevar 24 V.
+
+#1197
+Bobine de relais
+Bobina do relé
+继电器线圈
+Катушка реле
+Cewka przekaźnika
+Relétekercs
+Bobina de relé
+
+#1198
+Attire le contact de sortie. Le contact peut se souder.
+Puxa o contato de saída. O contato pode soldar.
+吸合输出触点。触点可能熔焊。
+Притягивает выходной контакт. Контакт может привариться.
+Przyciąga styk wyjściowy. Styk może się zespawać.
+Behúzza a kimeneti érintkezőt. Az érintkező összehegedhet.
+Atrae el contacto de salida. El contacto puede soldarse.
+
+#1199
+Tension étrangère
+Tensão externa
+外来电压
+Чужое напряжение
+Obce napięcie
+Idegen feszültség
+Tensión ajena
+
+#1200
+Une alimentation de charge câblée à travers les bornes de l'automate depuis une autre source. Isolez aussi cette source.
+Uma alimentação de carga ligada pelos terminais do CLP a partir de outra fonte. Isole essa fonte também.
+一路负载电源从另一个来源经过PLC端子接入。那个电源也要隔离。
+Питание нагрузки, подведённое через клеммы ПЛК от другого источника. Отключите и этот источник.
+Zasilanie obciążenia podłączone przez zaciski PLC z innego źródła. Odetnij też to źródło.
+Egy másik forrásból a PLC kapcsain keresztül bekötött terhelési tápellátás. Azt a forrást is válassza le.
+Una alimentación de carga cableada a través de los bornes del PLC desde otra fuente. Aísle también esa fuente.
+
+#1201
+Un automate n'a aucun point de verrouillage. Isolez l'alimentation de l'automate et celle de chaque circuit qui y est câblé.
+Um CLP não tem ponto de bloqueio. Isole a alimentação do CLP e de cada circuito ligado a ele.
+PLC没有上锁点。要隔离PLC的电源以及接在它上面的每一路电源。
+У ПЛК нет точки блокировки. Отключите питание самого ПЛК и каждой цепи, подключённой к нему.
+PLC nie ma punktu blokady. Odetnij zasilanie PLC i każdego obwodu do niego podłączonego.
+A PLC-nek nincs lezárási pontja. Válassza le a PLC és a hozzá kötött minden áramkör betáplálását.
+Un PLC no tiene punto de bloqueo. Aísle la alimentación del PLC y de cada circuito cableado a él.
+
+#1202
+Cherchez les étiquettes de tension étrangère (souvent des fils orange ou un autocollant d'avertissement).
+Procure etiquetas de tensão externa (muitas vezes fios laranja ou um adesivo de aviso).
+找一找外来电压的标识（通常是橙色导线或警告贴纸）。
+Ищите маркировку чужого напряжения (часто это оранжевые провода или предупреждающая наклейка).
+Szukaj oznaczeń obcego napięcia (często pomarańczowe przewody lub naklejka ostrzegawcza).
+Keresse az idegen feszültség jelöléseit (gyakran narancssárga vezetékek vagy figyelmeztető matrica).
+Busque las etiquetas de tensión ajena (a menudo cables naranjas o una pegatina de aviso).
+
+#1203
+Mesurez aux bornes que vous allez toucher, pas à l'alimentation de l'automate.
+Meça nos terminais que vai tocar, não na entrada de alimentação do CLP.
+在你要接触的端子处测量，而不是在PLC的电源输入处。
+Измеряйте на тех клеммах, которых будете касаться, а не на питании ПЛК.
+Mierz na zaciskach, których będziesz dotykać, a nie na wejściu zasilania PLC.
+Azokon a kapcsokon mérjen, amelyekhez hozzá fog érni, ne a PLC tápbemenetén.
+Mida en los bornes que va a tocar, no en la entrada de alimentación del PLC.
+
+#1204
+Mettre l'automate en STOP et commencer à travailler.
+Colocar o CLP em STOP e começar a trabalhar.
+把PLC切到STOP就开始作业。
+Перевести ПЛК в STOP и начать работу.
+Przełączenie PLC w STOP i rozpoczęcie pracy.
+A PLC-t STOP-ra állítani, és elkezdeni dolgozni.
+Poner el PLC en STOP y empezar a trabajar.
+
+#1205
+Se fier à une LED de sortie éteinte.
+Confiar em um LED de saída apagado.
+相信输出指示灯不亮就是没电。
+Доверять погасшему светодиоду выхода.
+Zaufanie zgaszonej diodzie wyjścia.
+Megbízni egy kialudt kimeneti LED-ben.
+Fiarse de un LED de salida apagado.
+
+#1206
+IEC 60204-1 : les signaux logiciels ou de commande ne peuvent pas remplacer l'isolement électrique.
+IEC 60204-1: sinais de software ou de comando não podem substituir o isolamento elétrico.
+IEC 60204-1：软件或控制信号不能代替电气隔离。
+IEC 60204-1: программные или управляющие сигналы не могут заменить электрическое отключение.
+IEC 60204-1: sygnały programowe lub sterujące nie mogą zastąpić odcięcia elektrycznego.
+IEC 60204-1: a szoftveres vagy vezérlőjelek nem helyettesíthetik az elektromos leválasztást.
+IEC 60204-1: las señales de software o de mando no pueden sustituir al aislamiento eléctrico.
+
+#1207
+Étoile (Y)
+Estrela (Y)
+星形（Y）
+Звезда (Y)
+Gwiazda (Y)
+Csillag (Y)
+Estrella (Y)
+
+#1208
+Triangle (Δ)
+Triângulo (Δ)
+三角形（Δ）
+Треугольник (Δ)
+Trójkąt (Δ)
+Delta (Δ)
+Triángulo (Δ)
+
+#1209
+Barrettes
+Barras de ligação
+连接片
+Перемычки
+Mostki
+Áthidalók
+Puentes
+
+#1210
+Moteur triphasé
+Motor trifásico
+三相电机
+Трёхфазный двигатель
+Silnik trójfazowy
+Háromfázisú motor
+Motor trifásico
+
+#1211
+Le moteur est la charge, pas un point d'isolement. Isolez-le au disjoncteur, au démarreur ou à un sectionneur local, puis prouvez que la boîte à bornes est hors tension. Même après l'isolement, l'arbre peut continuer à tourner (inertie, ventilateur, charge entraînée) et un moteur qui tourne peut renvoyer de la tension. Attendez l'arrêt et bloquez l'arbre si des personnes travaillent à proximité.
+O motor é a carga, não um ponto de isolamento. Isole-o no disjuntor, na partida ou em um seccionador local e depois comprove que a caixa de terminais está sem tensão. Mesmo após o isolamento, o eixo pode continuar girando (inércia, ventilador, carga acionada) e um motor girando pode devolver tensão. Espere parar e bloqueie o eixo se houver pessoas trabalhando perto.
+电机是负载，不是隔离点。要在断路器、启动器或就地隔离开关处隔离它，然后验证接线盒已无电。即使隔离之后，轴仍可能继续转动（惯性、风扇、被驱动的负载），而旋转的电机还可能反送电压。等它停转，如果有人在附近作业，还要把轴卡住。
+Двигатель — это нагрузка, а не точка отключения. Отключите его на автомате, пускателе или местном разъединителе, затем подтвердите, что клеммная коробка обесточена. Даже после отключения вал может продолжать вращаться (инерция, вентилятор, приводимая нагрузка), а вращающийся двигатель может отдавать напряжение обратно. Дождитесь остановки и застопорьте вал, если рядом работают люди.
+Silnik to obciążenie, a nie punkt odcięcia. Odetnij go na wyłączniku, rozruszniku lub lokalnym rozłączniku, a potem potwierdź, że skrzynka zaciskowa jest bez napięcia. Nawet po odcięciu wał może się dalej obracać (bezwładność, wentylator, napędzane obciążenie), a obracający się silnik może oddawać napięcie zwrotnie. Poczekaj do zatrzymania i zablokuj wał, jeśli w pobliżu pracują ludzie.
+A motor terhelés, nem leválasztási pont. Válassza le a megszakítónál, az indítónál vagy egy helyi szakaszolónál, majd bizonyítsa, hogy a kapocsdoboz feszültségmentes. A leválasztás után is foroghat a tengely (tehetetlenség, ventilátor, hajtott terhelés), és a forgó motor feszültséget adhat vissza. Várja meg a leállást, és blokkolja a tengelyt, ha a közelben emberek dolgoznak.
+El motor es la carga, no un punto de aislamiento. Aíslelo en el interruptor, el arrancador o un seccionador local y luego compruebe que la caja de bornes está sin tensión. Incluso tras el aislamiento el eje puede seguir girando (inercia, ventilador, carga accionada) y un motor que gira puede devolver tensión. Espere a que pare y bloquee el eje si hay personas trabajando cerca.
+
+#1212
+Alimenté par : un contacteur et un disjoncteur triphasés (400 V).
+Alimentado por: um contator e um disjuntor trifásicos (400 V).
+供电来源：三相接触器和断路器（400 V）。
+Питается от: трёхфазного контактора и автомата (400 В).
+Zasilany przez: trójfazowy stycznik i wyłącznik (400 V).
+Táplálja: háromfázisú kontaktor és megszakító (400 V).
+Alimentado por: un contactor y un interruptor trifásicos (400 V).
+
+#1213
+arbre en rotation
+eixo girando
+转动的轴
+вращающийся вал
+obracający się wał
+forgó tengely
+eje girando
+
+#1214
+Boîte à bornes
+Caixa de terminais
+接线盒
+Клеммная коробка
+Skrzynka zaciskowa
+Kapocsdoboz
+Caja de bornes
+
+#1215
+Étoile : W2 U2 V2 reliés (400 V)
+Estrela: W2 U2 V2 ligados (400 V)
+星形：W2 U2 V2连在一起（400 V）
+Звезда: W2 U2 V2 соединены (400 V)
+Gwiazda: W2 U2 V2 połączone (400 V)
+Csillag: W2 U2 V2 összekötve (400 V)
+Estrella: W2 U2 V2 unidos (400 V)
+
+#1216
+Triangle : chaque enroulement entre deux phases
+Triângulo: cada enrolamento entre duas fases
+三角形：每个绕组接在两相之间
+Треугольник: каждая обмотка между двумя фазами
+Trójkąt: każde uzwojenie między dwiema fazami
+Delta: minden tekercs két fázis között
+Triángulo: cada devanado entre dos fases
+
+#1217
+Plaque signalétique
+Placa de identificação
+铭牌
+Шильдик
+Tabliczka znamionowa
+Adattábla
+Placa de características
+

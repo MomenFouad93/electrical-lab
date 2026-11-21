@@ -1,0 +1,2070 @@
+#1906
+Gris : machine ou source, hors tension seulement après isolement
+Cinza: máquina ou fonte, sem energia somente após o isolamento
+灰色：机器或电源，只有隔离之后才算断电
+Серый: машина или источник, обесточены только после отключения
+Szary: maszyna lub źródło, bez napięcia dopiero po odcięciu
+Szürke: gép vagy forrás, csak a leválasztás után áramtalan
+Gris: máquina o fuente, sin tensión solo después del aislamiento
+
+#1907
+Les images sont des dessins de formation. Votre équipement peut être différent : ajoutez vos propres photos dans la fenêtre de chaque appareil.
+As imagens são desenhos para treinamento. Seu equipamento pode ser diferente: adicione suas próprias fotos dentro da janela de cada dispositivo.
+这些图片是培训用的示意图。你的设备可能看起来不同：请在每个装置的窗口里添加你自己的照片。
+Картинки — это учебные рисунки. Ваше оборудование может выглядеть иначе: добавьте собственные фотографии в окне каждого устройства.
+Obrazki to rysunki szkoleniowe. Twoje urządzenia mogą wyglądać inaczej: dodaj własne zdjęcia w oknie każdego urządzenia.
+A képek oktatási rajzok. Az Ön berendezése másképp nézhet ki: tegye hozzá a saját fotóit az egyes eszközök ablakában.
+Las imágenes son dibujos de formación. Su equipo puede verse distinto: añada sus propias fotos dentro de la ventana de cada dispositivo.
+
+#1908
+Tous
+Todos
+全部
+Все
+Wszystkie
+Mind
+Todos
+
+#1909
+Armoires
+Painéis
+控制柜
+Шкафы
+Szafy
+Szekrények
+Armarios
+
+#1910
+Électrique
+Elétrico
+电气
+Электрика
+Elektryczne
+Elektromos
+Eléctrico
+
+#1911
+Interrupteurs
+Chaves
+开关
+Выключатели
+Łączniki
+Kapcsolók
+Interruptores
+
+#1912
+Vannes
+Válvulas
+阀门
+Клапаны
+Zawory
+Szelepek
+Válvulas
+
+#1913
+Pneumatique
+Pneumática
+气动
+Пневматика
+Pneumatyka
+Pneumatika
+Neumática
+
+#1914
+Cadenas et étiquettes
+Cadeados e etiquetas
+挂锁和标签
+Замки и бирки
+Kłódki i zawieszki
+Lakatok és címkék
+Candados y etiquetas
+
+#1915
+Outils
+Ferramentas
+工具
+Инструменты
+Narzędzia
+Szerszámok
+Herramientas
+
+#1916
+Mettre sur OFF
+Colocar em OFF
+转到OFF
+Перевести в OFF
+Przełączyć na OFF
+Kapcsolás OFF-ra
+Poner en OFF
+
+#1917
+Mettre sur ON
+Colocar em ON
+转到ON
+Перевести в ON
+Przełączyć na ON
+Kapcsolás ON-ra
+Poner en ON
+
+#1918
+Ouvrir la lame
+Abrir a lâmina
+打开刀片
+Разомкнуть нож
+Otworzyć nóż
+Kés nyitása
+Abrir la cuchilla
+
+#1919
+Fermer la lame
+Fechar a lâmina
+合上刀片
+Замкнуть нож
+Zamknąć nóż
+Kés zárása
+Cerrar la cuchilla
+
+#1920
+Débrancher
+Desconectar
+拔下插头
+Выдернуть вилку
+Wyjąć wtyczkę
+Kihúzás
+Desenchufar
+
+#1921
+Brancher
+Conectar
+插上插头
+Вставить вилку
+Włożyć wtyczkę
+Bedugás
+Enchufar
+
+#1922
+Retirer le fusible
+Retirar o fusível
+拔出熔断器
+Вынуть предохранитель
+Wyjąć bezpiecznik
+Biztosíték kihúzása
+Sacar el fusible
+
+#1923
+Remettre le fusible
+Inserir o fusível
+插入熔断器
+Вставить предохранитель
+Włożyć bezpiecznik
+Biztosíték behelyezése
+Insertar el fusible
+
+#1924
+Fermer la vanne
+Fechar a válvula
+关闭阀门
+Закрыть клапан
+Zamknąć zawór
+Szelep zárása
+Cerrar la válvula
+
+#1925
+Ouvrir la vanne
+Abrir a válvula
+打开阀门
+Открыть клапан
+Otworzyć zawór
+Szelep nyitása
+Abrir la válvula
+
+#1926
+Déconnecter le raccord
+Desconectar o engate
+断开接头
+Разъединить муфту
+Rozłączyć złączkę
+Csatlakozó szétkapcsolása
+Desconectar el acoplamiento
+
+#1927
+Connecter le raccord
+Conectar o engate
+连接接头
+Соединить муфту
+Połączyć złączkę
+Csatlakozó összekapcsolása
+Conectar el acoplamiento
+
+#1928
+Appuyer sur STOP
+Pressionar STOP
+按下STOP
+Нажать STOP
+Nacisnąć STOP
+STOP megnyomása
+Pulsar STOP
+
+#1929
+Relâcher
+Soltar
+松开
+Отпустить
+Zwolnić
+Elengedés
+Soltar
+
+#1930
+Appuyer sur l'arrêt d'urgence
+Pressionar a parada de emergência
+按下急停
+Нажать аварийный стоп
+Nacisnąć wyłącznik awaryjny
+Vészleállító megnyomása
+Pulsar la parada de emergencia
+
+#1931
+Éteindre
+Desligar
+关闭
+Выключить
+Wyłączyć
+Kikapcsolás
+Apagar
+
+#1932
+Allumer
+Ligar
+打开
+Включить
+Włączyć
+Bekapcsolás
+Encender
+
+#1933
+Ce point est verrouillé. Personne ne peut le remettre en marche. (C'est le but.)
+Este ponto está bloqueado. Ninguém pode religá-lo. (Esse é o objetivo.)
+这个点已上锁。没有人能把它重新合上。（这正是目的。）
+Эта точка заблокирована. Никто не может включить её обратно. (В этом и смысл.)
+Ten punkt jest zablokowany. Nikt nie może go z powrotem włączyć. (O to właśnie chodzi.)
+Ez a pont le van zárva. Senki nem kapcsolhatja vissza. (Ez a cél.)
+Este punto está bloqueado. Nadie puede volver a conectarlo. (Ese es el objetivo.)
+
+#1934
+Vous avez isolé avant d'arrêter normalement la machine. Faites toujours d'abord un arrêt normal : isoler sous charge peut endommager la machine et être dangereux.
+Você isolou antes de parar a máquina normalmente. Sempre faça primeiro uma parada normal: isolar sob carga pode danificar a máquina e ser perigoso.
+你在正常停机之前就进行了隔离。一定要先正常停机：带负载隔离可能损坏机器，也可能很危险。
+Вы отключили питание до того, как остановили машину в обычном порядке. Всегда сначала выполняйте обычную остановку: отключение под нагрузкой может повредить машину и быть опасным.
+Odciąłeś zasilanie przed normalnym zatrzymaniem maszyny. Zawsze najpierw wykonaj normalne zatrzymanie: odcinanie pod obciążeniem może uszkodzić maszynę i być niebezpieczne.
+Leválasztott, mielőtt a gépet a szokásos módon leállította volna. Mindig előbb állítsa le normálisan: terhelés alatti leválasztás kárt tehet a gépben, és veszélyes lehet.
+Aisló antes de parar la máquina de forma normal. Haga siempre primero una parada normal: aislar bajo carga puede dañar la máquina y ser peligroso.
+
+#1935
+Un organe de commande est actionné. Ce n'est pas un isolement : la source d'énergie est toujours connectée.
+Um dispositivo de comando foi pressionado. Isso não é isolamento: a fonte de energia continua conectada.
+按下的是控制设备。这不是隔离：能量来源仍然连着。
+Нажато устройство управления. Это не отключение: источник энергии по-прежнему подключён.
+Naciśnięto urządzenie sterujące. To nie jest odcięcie: źródło energii nadal jest podłączone.
+Egy vezérlőeszközt nyomtak meg. Ez nem leválasztás: az energiaforrás továbbra is csatlakoztatva van.
+Se ha pulsado un dispositivo de mando. Eso no es aislamiento: la fuente de energía sigue conectada.
+
+#1936
+Remis en marche (rétabli).
+Religado (restaurado).
+已重新合上（恢复）。
+Включено обратно (восстановлено).
+Włączono z powrotem (przywrócono).
+Visszakapcsolva (helyreállítva).
+Vuelto a conectar (restaurado).
+
+#1937
+Ne verrouillez pas un point encore sur ON. Isolez-le d'abord, puis verrouillez-le.
+Não bloqueie um ponto que ainda está em ON. Isole-o primeiro e depois bloqueie.
+不要给仍处于ON的点上锁。先隔离，再上锁。
+Не блокируйте точку, которая всё ещё в положении ON. Сначала отключите её, потом заблокируйте.
+Nie blokuj punktu, który nadal jest na ON. Najpierw go odetnij, potem zablokuj.
+Ne zárjon le olyan pontot, amely még ON állásban van. Először válassza le, majd zárja le.
+No bloquee un punto que sigue en ON. Aíslelo primero y luego bloquéelo.
+
+#1938
+Vous avez verrouillé un organe de commande. Ce n'est pas un point d'isolement, il ne protège donc personne.
+Você bloqueou um dispositivo de comando. Ele não é um ponto de isolamento, então não protege ninguém.
+你给一个控制设备上了锁。它不是隔离点，所以保护不了任何人。
+Вы заблокировали устройство управления. Оно не является точкой отключения, поэтому никого не защищает.
+Zablokowałeś urządzenie sterujące. To nie jest punkt odcięcia, więc nikogo nie chroni.
+Vezérlőeszközt zárt le. Ez nem leválasztási pont, ezért senkit nem véd.
+Bloqueó un dispositivo de mando. No es un punto de aislamiento, así que no protege a nadie.
+
+#1939
+Un cadenas à passe ouvre d'autres cadenas. Il ne doit pas servir de cadenas personnel.
+Um cadeado com chave mestra abre outros cadeados. Ele não deve ser usado como cadeado pessoal.
+通用钥匙的锁能打开其他的锁。它不能用作个人挂锁。
+Замок с мастер-ключом открывает другие замки. Его нельзя использовать как личный замок.
+Kłódka z kluczem uniwersalnym otwiera inne kłódki. Nie wolno jej używać jako kłódki osobistej.
+A főkulcsos lakat más lakatokat is kinyit. Nem használható személyi lakatként.
+Un candado de llave maestra abre otros candados. No debe usarse como candado personal.
+
+#1940
+Un cadenas de service partagé n'est pas une protection personnelle : toute personne avec un double de la clé peut l'ouvrir.
+Um cadeado compartilhado do departamento não é proteção pessoal: qualquer pessoa com uma cópia da chave pode abri-lo.
+部门共用的锁不是个人防护：任何有钥匙副本的人都能打开它。
+Общий замок отдела — это не личная защита: любой, у кого есть копия ключа, может его открыть.
+Wspólna kłódka działu nie jest ochroną osobistą: każdy, kto ma kopię klucza, może ją otworzyć.
+A részleg közös lakatja nem személyes védelem: bárki kinyithatja, akinél van másolat a kulcsból.
+Un candado compartido del departamento no es protección personal: cualquiera con una copia de la llave puede abrirlo.
+
+#1941
+Ce point n'a qu'un seul trou. Utilisez un moraillon multi-cadenas pour que chaque intervenant puisse ajouter un cadenas.
+Este ponto tem apenas um furo. Use uma presilha multicadeado para que cada trabalhador possa adicionar um cadeado.
+这个点只有一个孔。请使用多锁搭扣，让每位作业人员都能加一把锁。
+На этой точке только одно отверстие. Используйте мультизамковую накладку, чтобы каждый работник мог добавить свой замок.
+Ten punkt ma tylko jeden otwór. Użyj zaczepu wielokłódkowego, aby każdy pracownik mógł dodać kłódkę.
+Ezen a ponton csak egy lyuk van. Használjon többlakatos fület, hogy minden dolgozó feltehesse a lakatját.
+Este punto tiene un solo orificio. Use un pestillo multicandado para que cada trabajador pueda añadir un candado.
+
+#1942
+Isolez et verrouillez d'abord les sources, puis libérez l'énergie stockée.
+Isole e bloqueie primeiro as fontes e depois libere a energia armazenada.
+先隔离并锁住各个电源，再释放储存的能量。
+Сначала отключите и заблокируйте источники, затем сбросьте накопленную энергию.
+Najpierw odetnij i zablokuj źródła, potem uwolnij zmagazynowaną energię.
+Először válassza le és zárja le a forrásokat, majd engedje ki a tárolt energiát.
+Aísle y bloquee primero las fuentes y luego libere la energía almacenada.
+
+#1943
+La cale de sécurité est sous le coulisseau.
+O calço de segurança está sob o êmbolo.
+安全支撑块已在滑块下面。
+Страховочный упор находится под ползуном.
+Blokada bezpieczeństwa jest pod suwakiem.
+A biztonsági támasz a szán alatt van.
+El calzo de seguridad está bajo el carro.
+
+#1944
+La pression a été évacuée par la vanne de purge.
+A pressão foi ventilada pela válvula de sangria.
+压力已通过泄压阀排出。
+Давление сброшено через сбросной клапан.
+Ciśnienie zostało spuszczone przez zawór upustowy.
+A nyomást a légtelenítő szelepen át kiengedték.
+La presión se ha venteado por la válvula de purga.
+
+#1945
+Arrêtez normalement la machine avant de commencer la vérification.
+Pare a máquina normalmente antes de iniciar a verificação.
+开始验证之前，先正常停机。
+Остановите машину в обычном порядке, прежде чем начинать проверку.
+Zatrzymaj maszynę w normalny sposób, zanim zaczniesz weryfikację.
+A hitelesítés megkezdése előtt állítsa le normálisan a gépet.
+Pare la máquina de forma normal antes de empezar la verificación.
+
+#1946
+La machine DÉMARRE ! Elle n'est pas isolée. C'est exactement pour cela qu'on vérifie.
+A máquina PARTE! Ela não está isolada. É exatamente por isso que você verifica.
+机器启动了！它没有被隔离。这正是需要验证的原因。
+Машина ЗАПУСКАЕТСЯ! Она не отключена. Именно поэтому и выполняют проверку.
+Maszyna URUCHAMIA SIĘ! Nie jest odcięta. Właśnie dlatego się weryfikuje.
+A gép ELINDUL! Nincs leválasztva. Pontosan ezért kell ellenőrizni.
+¡La máquina ARRANCA! No está aislada. Por eso mismo se verifica.
+
+#1947
+Rien ne se passe quand vous appuyez sur START. Remettez toutes les commandes sur OFF.
+Nada acontece quando você pressiona START. Coloque todos os comandos de volta em OFF.
+按下START时什么都没发生。把所有控制都恢复到OFF。
+При нажатии START ничего не происходит. Верните все органы управления в положение OFF.
+Nic się nie dzieje po naciśnięciu START. Przywróć wszystkie sterowania na OFF.
+Semmi nem történik, amikor megnyomja a START-ot. Állítson vissza minden vezérlést OFF-ra.
+No pasa nada al pulsar START. Ponga todos los mandos de nuevo en OFF.
+
+#1948
+Testeur prouvé sur une source sous tension connue : il fonctionne.
+Testador comprovado em uma fonte viva conhecida: ele funciona.
+验电器已在已知带电电源上验证：它是好的。
+Указатель проверен на известном источнике напряжения: он исправен.
+Próbnik sprawdzony na znanym źródle pod napięciem: działa.
+A vizsgálót ismert feszültség alatti forráson igazolták: működik.
+Comprobador verificado en una fuente con tensión conocida: funciona.
+
+#1949
+Testeur prouvé à nouveau après les tests : le résultat hors tension est valide.
+Testador comprovado de novo após os testes: o resultado sem energia é válido.
+测试之后再次验证了验电器：断电的结果有效。
+Указатель снова проверен после измерений: результат «обесточено» достоверен.
+Próbnik sprawdzony ponownie po badaniach: wynik „bez napięcia" jest ważny.
+A vizsgálót a mérések után újra igazolták: az áramtalan eredmény érvényes.
+Comprobador verificado de nuevo tras las pruebas: el resultado sin tensión es válido.
+
+#1950
+Terminez d'abord de tester toutes les paires, puis prouvez à nouveau le testeur.
+Termine primeiro de testar todos os pares e depois comprove o testador de novo.
+先把所有组合都测完，然后再次验证验电器。
+Сначала закончите проверку всех пар, затем снова проверьте указатель.
+Najpierw dokończ badanie wszystkich par, potem sprawdź próbnik ponownie.
+Először fejezze be az összes pár vizsgálatát, majd igazolja újra a vizsgálót.
+Termine primero de probar todos los pares y luego vuelva a comprobar el comprobador.
+
+#1951
+Vous avez testé sans prouver le testeur d'abord. Si le testeur est mort, il indique 0 V sur des parties sous tension.
+Você testou sem comprovar o testador antes. Se o testador está morto, ele mostra 0 V em partes vivas.
+你测试之前没有先验证验电器。如果验电器已坏，它在带电部分上也会显示0 V。
+Вы измеряли, не проверив сначала указатель. Если указатель неисправен, он покажет 0 В на частях под напряжением.
+Testowałeś bez wcześniejszego sprawdzenia próbnika. Jeśli próbnik jest martwy, pokaże 0 V na częściach pod napięciem.
+Úgy vizsgált, hogy előtte nem igazolta a vizsgálót. Ha a vizsgáló halott, feszültség alatti részeken is 0 V-ot mutat.
+Probó sin comprobar antes el comprobador. Si el comprobador está muerto, muestra 0 V en partes con tensión.
+
+#1952
+Préparer
+Preparar
+准备
+Подготовка
+Przygotowanie
+Előkészítés
+Preparar
+
+#1953
+Informez les personnes et identifiez chaque source d'énergie.
+Informe as pessoas e identifique cada fonte de energia.
+通知相关人员，并找出每一个能量来源。
+Проинформируйте людей и определите каждый источник энергии.
+Poinformuj ludzi i zidentyfikuj każde źródło energii.
+Tájékoztassa az embereket, és azonosítson minden energiaforrást.
+Informe a las personas e identifique cada fuente de energía.
+
+#1954
+Arrêter
+Desligar
+停机
+Остановка
+Wyłączenie
+Leállítás
+Parar
+
+#1955
+Arrêt normal avant l'isolement.
+Parada normal antes de isolar.
+隔离之前先正常停机。
+Обычная остановка перед отключением.
+Normalne zatrzymanie przed odcięciem.
+Szokásos leállítás a leválasztás előtt.
+Parada normal antes de aislar.
+
+#1956
+Isoler
+Isolar
+隔离
+Отключение
+Odciąć
+Leválasztás
+Aislar
+
+#1957
+Chaque vrai point d'isolement doit être sur OFF.
+Cada ponto de isolamento real deve estar em OFF.
+每一个真正的隔离点都必须处于OFF。
+Каждая настоящая точка отключения должна быть в положении OFF.
+Każdy prawdziwy punkt odcięcia musi być na OFF.
+Minden valódi leválasztási pontnak OFF állásban kell lennie.
+Cada punto de aislamiento real debe estar en OFF.
+
+#1958
+Verrouiller et étiqueter
+Bloquear e etiquetar
+上锁并挂标签
+Блокировка и бирки
+Zablokować i oznaczyć
+Lezárás és címkézés
+Bloquear y etiquetar
+
+#1959
+Un dispositif adapté, un cadenas personnel et une étiquette sur chaque point (tous les intervenants sur les points de groupe).
+Um dispositivo adequado, um cadeado pessoal e uma etiqueta em cada ponto (todos os trabalhadores nos pontos de grupo).
+每个点都要有合适的装置、个人挂锁和标签（集体点位上每位作业人员都要有）。
+Подходящее устройство, личный замок и бирка на каждой точке (все работники на групповых точках).
+Pasujące urządzenie, osobista kłódka i zawieszka na każdym punkcie (wszyscy pracownicy na punktach grupowych).
+Megfelelő eszköz, személyi lakat és címke minden ponton (a csoportos pontokon minden dolgozó).
+Un dispositivo adecuado, un candado personal y una etiqueta en cada punto (todos los trabajadores en los puntos de grupo).
+
+#1960
+Énergie stockée
+Energia armazenada
+储存的能量
+Накопленная энергия
+Zmagazynowana energia
+Tárolt energia
+Energía almacenada
+
+#1961
+Purgez, bloquez ou déchargez après l'isolement.
+Ventile, bloqueie ou descarregue depois de isolar.
+隔离之后，进行放空、支撑或放电。
+Сбросьте, зафиксируйте или разрядите после отключения.
+Odpowietrz, zablokuj lub rozładuj po odcięciu.
+Légtelenítsen, támasszon meg vagy süssön ki a leválasztás után.
+Ventee, bloquee o descargue después de aislar.
+
+#1962
+Vérifier
+Verificar
+验证
+Проверка
+Zweryfikować
+Ellenőrzés
+Verificar
+
+#1963
+Essayez de démarrer, puis prouver-tester-prouver, manomètres et bus continu.
+Tente ligar, depois comprovar-testar-comprovar, manômetros e barramento CC.
+试着启动，然后验证—测试—再验证，检查压力表和直流母线。
+Попробуйте запустить, затем проверить–измерить–проверить, манометры и шина постоянного тока.
+Spróbuj uruchomić, potem sprawdź–zmierz–sprawdź, manometry i szyna DC.
+Próbálja elindítani, majd ellenőrzés–mérés–ellenőrzés, manométerek és DC köztes kör.
+Intente arrancar, luego comprobar-medir-comprobar, manómetros y bus de CC.
+
+#1964
+Vous avez déclaré la machine sûre alors qu'il reste de l'énergie. Ce serait une violation grave.
+Você declarou a máquina segura enquanto ainda há energia. Isso seria uma violação grave.
+你宣布机器安全，但能量仍然存在。这将是一次严重违规。
+Вы объявили машину безопасной, пока в ней ещё есть энергия. Это было бы серьёзным нарушением.
+Uznałeś maszynę za bezpieczną, gdy nadal jest w niej energia. To byłoby poważne naruszenie.
+Biztonságosnak nyilvánította a gépet, miközben még van benne energia. Ez súlyos szabálysértés lenne.
+Declaró segura la máquina mientras aún hay energía. Sería una infracción grave.
+
+#1965
+Les opérateurs et les voisins ne sont pas encore informés.
+Operadores e vizinhos ainda não foram informados.
+操作人员和相邻区域的人还没有被通知。
+Операторы и соседние работники ещё не проинформированы.
+Operatorzy i sąsiedzi nie zostali jeszcze poinformowani.
+A kezelők és a szomszédos területen dolgozók még nincsenek tájékoztatva.
+Los operarios y los vecinos aún no han sido informados.
+
+#1966
+Vous n'avez pas encore passé en revue les sources d'énergie de cette machine.
+Você ainda não revisou as fontes de energia desta máquina.
+你还没有检查这台机器的能量来源。
+Вы ещё не проверили источники энергии этой машины.
+Nie przejrzałeś jeszcze źródeł energii tej maszyny.
+Még nem tekintette át ennek a gépnek az energiaforrásait.
+Todavía no ha revisado las fuentes de energía de esta máquina.
+
+#1967
+Un point a été isolé avant l'arrêt normal. Cela peut endommager la machine et n'est pas sûr.
+Um ponto foi isolado antes da parada normal. Isso pode danificar a máquina e não é seguro.
+有一个点在正常停机之前就被隔离了。这可能损坏机器，也不安全。
+Одна из точек была отключена до обычной остановки. Это может повредить машину и небезопасно.
+Punkt został odcięty przed normalnym zatrzymaniem. Może to uszkodzić maszynę i jest niebezpieczne.
+Egy pontot a szokásos leállítás előtt választottak le. Ez kárt tehet a gépben, és nem biztonságos.
+Un punto se aisló antes de la parada normal. Esto puede dañar la máquina y no es seguro.
+
+#1968
+La machine n'a pas encore été arrêtée normalement.
+A máquina ainda não foi parada normalmente.
+机器还没有被正常停机。
+Машина ещё не была остановлена в обычном порядке.
+Maszyna nie została jeszcze normalnie zatrzymana.
+A gépet még nem állították le a szokásos módon.
+La máquina aún no se ha parado de forma normal.
+
+#1969
+Vous n'avez pas essayé de démarrer la machine (le contrôle d'essai).
+Você não tentou ligar a máquina (a verificação de "teste de partida").
+你还没有尝试启动机器（"试启动"检查）。
+Вы не пытались запустить машину (проверка «пробный пуск»).
+Nie próbowałeś uruchomić maszyny (kontrola „próba uruchomienia").
+Nem próbálta elindítani a gépet (a „próbaindítás" ellenőrzés).
+No ha intentado arrancar la máquina (la comprobación de «prueba de arranque»).
+
+#1970
+prouvez d'abord le testeur sur une source connue
+comprove primeiro o testador em uma fonte conhecida
+先在已知电源上验证验电器
+сначала проверьте указатель на известном источнике
+najpierw sprawdź próbnik na znanym źródle
+előbb igazolja a vizsgálót ismert forráson
+compruebe primero el comprobador en una fuente conocida
+
+#1971
+prouvez à nouveau le testeur après les tests
+comprove o testador de novo depois dos testes
+测试之后再次验证验电器
+снова проверьте указатель после измерений
+sprawdź próbnik ponownie po badaniach
+a mérések után igazolja újra a vizsgálót
+vuelva a comprobar el comprobador tras las pruebas
+
+#1972
+Vérifier ma consignation (diagnostic)
+Revisar meu isolamento (diagnóstico)
+检查我的隔离（诊断）
+Проверить мою изоляцию (диагностика)
+Sprawdź moją izolację (diagnostyka)
+Elkülönítésem ellenőrzése (diagnosztika)
+Revisar mi aislamiento (diagnóstico)
+
+#1973
+Vérifie le cadenas, l'étiquette, l'énergie stockée et la vérification effectués jusqu'ici. Cela ne change pas votre score.
+Verifica o cadeado, a etiqueta, a energia armazenada e a verificação feitos até agora. Não altera sua pontuação.
+检查你目前为止完成的上锁、标签、储存能量处理和验证。这不会改变你的分数。
+Проверяет блокировку, бирку, накопленную энергию и проверку, выполненные к этому моменту. Не меняет вашу оценку.
+Sprawdza dotychczasową kłódkę, zawieszkę, zmagazynowaną energię i weryfikację. Nie zmienia Twojego wyniku.
+Ellenőrzi az eddig elvégzett lakatolást, címkézést, tárolt energiát és hitelesítést. Nem változtatja meg a pontszámát.
+Revisa el candado, la etiqueta, la energía almacenada y la verificación hechos hasta ahora. No cambia su puntuación.
+
+#1974
+Revue intégrée
+Revisão integrada
+内置检查
+Встроенная проверка
+Wbudowany przegląd
+Beépített áttekintés
+Revisión integrada
+
+#1975
+L'IA en ligne a besoin de votre clé API. Ajoutez-la dans l'onglet Paillasse, Diagnostic, mode IA. La revue intégrée fonctionne sans elle.
+A IA online precisa da sua chave de API. Adicione-a na aba Bancada, Diagnóstico, modo IA. A revisão integrada funciona sem ela.
+在线AI需要你的API密钥。请在"工作台"标签页的"诊断"→AI模式里添加。内置检查不需要它也能用。
+Онлайн-ИИ требуется ваш ключ API. Добавьте его на вкладке «Стенд», Диагностика, режим ИИ. Встроенная проверка работает без него.
+Internetowe AI wymaga Twojego klucza API. Dodaj go w zakładce Stanowisko, Diagnostyka, tryb AI. Wbudowany przegląd działa bez niego.
+Az online MI-nek szüksége van az API-kulcsára. Adja meg a Munkapad fülön, Diagnosztika, MI mód. A beépített áttekintés nélküle is működik.
+La IA en línea necesita su clave de API. Añádala en la pestaña Banco, Diagnóstico, modo IA. La revisión integrada funciona sin ella.
+
+#1976
+Demander à l'IA en ligne
+Perguntar à IA online
+询问在线AI
+Спросить онлайн-ИИ
+Zapytaj internetowe AI
+Kérdezze az online MI-t
+Preguntar a la IA en línea
+
+#1977
+Tout ce qui a été fait jusqu'ici est correct.
+Tudo o que foi feito até agora está correto.
+到目前为止所做的一切都是正确的。
+Всё, что сделано до сих пор, выполнено правильно.
+Wszystko, co zrobiono do tej pory, jest poprawne.
+Minden, amit eddig tett, helyes.
+Todo lo hecho hasta ahora es correcto.
+
+#1978
+Ensuite :
+Próximo:
+下一步：
+Далее:
+Następnie:
+Következő:
+Siguiente:
+
+#1979
+Tableau général
+Painel geral
+总览板
+Общая панель
+Tablica główna
+Fő tábla
+Panel general
+
+#1980
+Formateur
+Treinador
+训练器
+Тренажёр
+Trener
+Gyakorló
+Entrenador
+
+#1981
+Cadenas, clés et étiquettes
+Cadeados, chaves e etiquetas
+挂锁、钥匙和标签
+Замки, ключи и бирки
+Kłódki, klucze i zawieszki
+Lakatok, kulcsok és címkék
+Candados, llaves y etiquetas
+
+#1982
+Règles
+Regras
+规则
+Правила
+Zasady
+Szabályok
+Reglas
+
+#1983
+Entraîneur de consignation et déconsignation
+Treinador de bloqueio e etiquetagem
+上锁挂牌训练器
+Тренажёр блокировки и маркировки (LOTO)
+Trener blokady i oznakowania
+Lezárás és címkézés gyakorló
+Entrenador de bloqueo y etiquetado
+
+#1984
+Choisissez une machine. Vous suivrez les six étapes : préparer, arrêter, isoler, verrouiller et étiqueter, libérer l'énergie stockée, vérifier. En mode Apprentissage, l'application montre quel dispositif convient à quel point. En mode Examen, elle ne le montre pas.
+Escolha uma máquina. Você passará pelas seis etapas: preparar, desligar, isolar, bloquear e etiquetar, liberar a energia armazenada, verificar. No modo Aprender, o aplicativo mostra qual dispositivo serve para qual ponto. No modo Exame, não mostra.
+选一台机器。你会依次完成六个步骤：准备、停机、隔离、上锁并挂标签、释放储存能量、验证。在学习模式下，应用会显示哪种装置适合哪个点。在考试模式下则不会。
+Выберите машину. Вы пройдёте шесть шагов: подготовка, остановка, отключение, блокировка и бирки, сброс накопленной энергии, проверка. В режиме обучения приложение показывает, какое устройство подходит к какой точке. В режиме экзамена — не показывает.
+Wybierz maszynę. Przejdziesz sześć kroków: przygotowanie, wyłączenie, odcięcie, zablokowanie i oznaczenie, uwolnienie zmagazynowanej energii, weryfikacja. W trybie nauki aplikacja pokazuje, które urządzenie pasuje do którego punktu. W trybie egzaminu tego nie robi.
+Válasszon egy gépet. Hat lépésen megy végig: előkészítés, leállítás, leválasztás, lezárás és címkézés, a tárolt energia kiengedése, ellenőrzés. Tanulás módban az alkalmazás megmutatja, melyik eszköz melyik ponthoz illik. Vizsga módban nem.
+Elija una máquina. Seguirá los seis pasos: preparar, parar, aislar, bloquear y etiquetar, liberar la energía almacenada, verificar. En el modo Aprendizaje, la aplicación muestra qué dispositivo encaja en cada punto. En el modo Examen, no lo muestra.
+
+#1985
+Mode Examen
+Modo Exame
+考试模式
+Режим экзамена
+Tryb egzaminu
+Vizsga mód
+Modo Examen
+
+#1986
+Niveau
+Nível
+等级
+Уровень
+Poziom
+Szint
+Nivel
+
+#1987
+Machines
+Máquinas
+机器
+Машины
+Maszyny
+Gépek
+Máquinas
+
+#1988
+Recommencer
+Reiniciar
+重新开始
+Начать заново
+Zacznij od nowa
+Újraindítás
+Reiniciar
+
+#1989
+Connaissez chaque source d'énergie et prévenez les personnes concernées avant de faire quoi que ce soit.
+Conheça cada fonte de energia e avise as pessoas afetadas antes de fazer qualquer coisa.
+在动手之前，要搞清每一个能量来源，并通知受影响的人。
+Узнайте каждый источник энергии и сообщите затронутым людям, прежде чем что-либо делать.
+Poznaj każde źródło energii i poinformuj osoby, których to dotyczy, zanim cokolwiek zrobisz.
+Ismerjen minden energiaforrást, és tájékoztassa az érintett személyeket, mielőtt bármit tenne.
+Conozca cada fuente de energía e informe a las personas afectadas antes de hacer nada.
+
+#1990
+Opérateurs et voisins informés.
+Operadores e vizinhos informados.
+已通知操作人员和相邻区域的人。
+Операторы и соседние работники проинформированы.
+Operatorzy i sąsiedzi poinformowani.
+A kezelők és a szomszédok tájékoztatva.
+Operarios y vecinos informados.
+
+#1991
+Informer les opérateurs
+Informar os operadores
+通知操作人员
+Проинформировать операторов
+Poinformować operatorów
+Kezelők tájékoztatása
+Informar a los operarios
+
+#1992
+Passer en revue les sources d'énergie
+Revisar as fontes de energia
+检查能量来源
+Проверить источники энергии
+Przejrzeć źródła energii
+Energiaforrások áttekintése
+Revisar las fuentes de energía
+
+#1993
+Arrêtez la machine avec ses commandes normales avant d'isoler. Isoler une machine en marche peut l'endommager.
+Pare a máquina com seus comandos normais antes de isolar. Isolar uma máquina em funcionamento pode danificá-la.
+隔离之前，用机器的正常控制把它停下。对运行中的机器进行隔离可能会损坏它。
+Остановите машину штатными органами управления до отключения. Отключение работающей машины может её повредить.
+Zatrzymaj maszynę jej normalnymi sterowaniami przed odcięciem. Odcięcie pracującej maszyny może ją uszkodzić.
+A leválasztás előtt állítsa le a gépet a szokásos vezérlőivel. Egy működő gép leválasztása kárt tehet benne.
+Pare la máquina con sus mandos normales antes de aislar. Aislar una máquina en marcha puede dañarla.
+
+#1994
+Machine arrêtée avec le STOP normal.
+Máquina parada com o STOP normal.
+机器已用正常的STOP停下。
+Машина остановлена штатной кнопкой STOP.
+Maszyna zatrzymana normalnym STOP.
+A gép a szokásos STOP-pal leállítva.
+Máquina parada con el STOP normal.
+
+#1995
+Arrêt normal
+Parada normal
+正常停机
+Обычная остановка
+Normalne zatrzymanie
+Szokásos leállítás
+Parada normal
+
+#1996
+Actionner
+Operar
+操作
+Задействовать
+Uruchomić
+Működtetés
+Accionar
+
+#1997
+Rétablir
+Restaurar
+恢复
+Восстановить
+Przywrócić
+Helyreállítás
+Restaurar
+
+#1998
+Actionnez chaque dispositif qui coupe une source d'énergie. Un bouton d'arrêt ou un arrêt d'urgence n'est pas un dispositif d'isolement.
+Opere cada dispositivo que corta uma fonte de energia. Um botão de parada ou uma parada de emergência não é um dispositivo de isolamento.
+操作每一个切断能量来源的装置。停止按钮或急停都不是隔离装置。
+Задействуйте каждое устройство, которое отключает источник энергии. Кнопка остановки или аварийный стоп не являются устройством отключения.
+Uruchom każde urządzenie, które odcina źródło energii. Przycisk zatrzymania lub wyłącznik awaryjny nie jest urządzeniem odcinającym.
+Működtesse az összes olyan eszközt, amely megszakít egy energiaforrást. A leállítógomb vagy a vészleállító nem leválasztó eszköz.
+Accione cada dispositivo que corta una fuente de energía. Un pulsador de parada o una parada de emergencia no es un dispositivo de aislamiento.
+
+#1999
+Posez un dispositif de blocage adapté au point, ajoutez votre cadenas personnel et une étiquette. Sélectionnez un point sur le schéma, puis utilisez le panneau en dessous.
+Instale um dispositivo de bloqueio adequado ao ponto, adicione seu cadeado pessoal e uma etiqueta. Selecione um ponto no diagrama e use o painel abaixo dele.
+装上适合该点的锁定装置，加上你的个人挂锁和标签。在图上选择一个点，然后使用它下方的面板。
+Установите блокирующее устройство, подходящее к точке, добавьте личный замок и бирку. Выберите точку на схеме, затем используйте панель под ней.
+Załóż urządzenie blokujące pasujące do punktu, dodaj osobistą kłódkę i zawieszkę. Wybierz punkt na schemacie, potem użyj panelu pod nim.
+Tegyen fel a ponthoz illő lezáró eszközt, adja hozzá a személyi lakatját és egy címkét. Válasszon ki egy pontot az ábrán, majd használja az alatta lévő panelt.
+Coloque un dispositivo de bloqueo que encaje en el punto, añada su candado personal y una etiqueta. Seleccione un punto en el diagrama y use el panel que hay debajo.
+
+#2000
+verrouillé + étiquette
+bloqueado + etiqueta
+已上锁 + 标签
+заблокировано + бирка
+zablokowane + zawieszka
+lezárva + címke
+bloqueado + etiqueta
+
+#2001
+verrouillé, sans étiquette
+bloqueado, sem etiqueta
+已上锁，没有标签
+заблокировано, без бирки
+zablokowane, bez zawieszki
+lezárva, címke nélkül
+bloqueado, sin etiqueta
+
+#2002
+Pas d'énergie stockée dans cette machine.
+Nenhuma energia armazenada nesta máquina.
+这台机器没有储存的能量。
+В этой машине нет накопленной энергии.
+Brak zmagazynowanej energii w tej maszynie.
+Ebben a gépben nincs tárolt energia.
+No hay energía almacenada en esta máquina.
+
+#2003
+Une fois les sources isolées et verrouillées, libérez la pression piégée, maintenez les pièces relevées et laissez les condensateurs se décharger.
+Depois que as fontes forem isoladas e bloqueadas, libere a pressão retida, segure as partes elevadas e deixe os capacitores descarregarem.
+各个电源隔离并上锁之后，释放滞留的压力，支撑住抬起的部件，并让电容放电。
+После того как источники отключены и заблокированы, сбросьте запертое давление, зафиксируйте поднятые части и дайте конденсаторам разрядиться.
+Po odcięciu i zablokowaniu źródeł uwolnij uwięzione ciśnienie, zabezpiecz uniesione części i pozwól kondensatorom się rozładować.
+A források leválasztása és lezárása után engedje ki a rekedt nyomást, támassza meg a felemelt részeket, és hagyja a kondenzátorokat kisülni.
+Una vez aisladas y bloqueadas las fuentes, libere la presión atrapada, sujete las piezas elevadas y deje que los condensadores se descarguen.
+
+#2004
+Déclarer zéro énergie : terminer et noter
+Declarar energia zero: finalizar e pontuar
+宣布零能量：结束并评分
+Объявить нулевую энергию: завершить и оценить
+Uznać za zerową energię: zakończyć i ocenić
+Nulla energia kinyilvánítása: befejezés és pontozás
+Declarar energía cero: terminar y puntuar
+
+#2005
+ - a un trou de cadenas
+ - tem um furo de cadeado
+ - 有挂锁孔
+ - есть отверстие под замок
+ - ma otwór na kłódkę
+ - van lakatlyuk
+ - tiene orificio de candado
+
+#2006
+ - nécessite un dispositif de blocage
+ - precisa de um dispositivo de bloqueio
+ - 需要锁定装置
+ - нужно блокирующее устройство
+ - wymaga urządzenia blokującego
+ - lezáró eszköz kell hozzá
+ - necesita un dispositivo de bloqueo
+
+#2007
+ - organe de commande, pas un isolement
+ - dispositivo de comando, não isolamento
+ - 控制设备，不是隔离
+ - устройство управления, не отключение
+ - urządzenie sterujące, nie odcięcie
+ - vezérlőeszköz, nem leválasztás
+ - dispositivo de mando, no aislamiento
+
+#2008
+Regarder à l'intérieur de cet appareil
+Olhar dentro deste dispositivo
+查看该装置内部
+Заглянуть внутрь этого устройства
+Zajrzyj do wnętrza tego urządzenia
+Belső nézet ehhez az eszközhöz
+Ver el interior de este dispositivo
+
+#2009
+Retirer mes cadenas (annuler)
+Remover meus cadeados (desfazer)
+取下我的锁（撤销）
+Снять мои замки (отменить)
+Zdjąć moje kłódki (cofnij)
+Lakataim levétele (visszavonás)
+Quitar mis candados (deshacer)
+
+#2010
+Cadenasser directement (sans dispositif)
+Colocar o cadeado diretamente (sem dispositivo)
+直接挂锁（不用装置）
+Повесить замок напрямую (без устройства)
+Zablokować kłódką bezpośrednio (bez urządzenia)
+Közvetlen lakatolás (eszköz nélkül)
+Poner el candado directamente (sin dispositivo)
+
+#2011
+convient
+serve
+适用
+подходит
+pasuje
+illik
+encaja
+
+#2012
+1. Dispositif de blocage
+1. Dispositivo de bloqueio
+1. 锁定装置
+1. Блокирующее устройство
+1. Urządzenie blokujące
+1. Lezáró eszköz
+1. Dispositivo de bloqueo
+
+#2013
+2. Ajouter un moraillon multi-cadenas
+2. Adicionar presilha multicadeado
+2. 添加多锁搭扣
+2. Добавить мультизамковую накладку
+2. Dodaj zaczep wielokłódkowy
+2. Többlakatos fül hozzáadása
+2. Añadir pestillo multicandado
+
+#2014
+3. Cadenas (la clé reste sur vous)
+3. Cadeado (a chave fica com você)
+3. 挂锁（钥匙留在你身上）
+3. Замок (ключ остаётся у вас)
+3. Kłódka (klucz zostaje przy Tobie)
+3. Lakat (a kulcs az Ön kezében marad)
+3. Candado (la llave se queda con usted)
+
+#2015
+Propriétaire du cadenas
+Dono do cadeado
+锁的所有者
+Владелец замка
+Właściciel kłódki
+Lakat tulajdonosa
+Propietario del candado
+
+#2016
+4. Poser l'étiquette
+4. Fixar a etiqueta
+4. 挂上标签
+4. Прикрепить бирку
+4. Załóż zawieszkę
+4. Címke felhelyezése
+4. Colocar la etiqueta
+
+#2017
+Poser le cadenas
+Aplicar o bloqueio
+上锁
+Заблокировать
+Zablokuj
+Lezárás
+Aplicar el bloqueo
+
+#2018
+Sur ce point :
+Neste ponto:
+在这个点上：
+На этой точке:
+Na tym punkcie:
+Ezen a ponton:
+En este punto:
+
+#2019
+Essayez d'abord de démarrer la machine avec ses commandes normales. Puis prouvez qu'elle est hors tension avec le testeur (prouver-tester-prouver) et contrôlez les manomètres et le bus continu.
+Primeiro tente ligar a máquina pelos comandos normais. Depois comprove que ela está sem energia com o testador (comprovar-testar-comprovar) e confira os manômetros e o barramento CC.
+先用机器的正常控制试着启动它。然后用验电器证明它已断电（验证—测试—再验证），并检查压力表和直流母线。
+Сначала попробуйте запустить машину штатными органами управления. Затем докажите отсутствие напряжения указателем (проверить–измерить–проверить) и проверьте манометры и шину постоянного тока.
+Najpierw spróbuj uruchomić maszynę jej normalnymi sterowaniami. Potem udowodnij brak napięcia próbnikiem (sprawdź–zmierz–sprawdź) i sprawdź manometry oraz szynę DC.
+Először próbálja elindítani a gépet a szokásos vezérlőivel. Majd igazolja az áramtalanságot a vizsgálóval (ellenőrzés–mérés–ellenőrzés), és nézze meg a manométereket és a DC köztes kört.
+Primero intente arrancar la máquina con sus mandos normales. Luego compruebe que está sin tensión con el comprobador (comprobar-medir-comprobar) y revise los manómetros y el bus de CC.
+
+#2020
+Appuyer sur START (essayer de démarrer)
+Pressionar START (tentar ligar)
+按下START（试着启动）
+Нажать START (попытка пуска)
+Nacisnąć START (próba uruchomienia)
+START megnyomása (indítási kísérlet)
+Pulsar START (intentar arrancar)
+
+#2021
+vérifié
+verificado
+已验证
+проверено
+zweryfikowano
+ellenőrizve
+verificado
+
+#2022
+non vérifié
+não verificado
+未验证
+не проверено
+niezweryfikowano
+nincs ellenőrizve
+no verificado
+
+#2023
+A. Prouver le testeur (source connue)
+A. Comprovar o testador (fonte conhecida)
+A. 验证验电器（已知电源）
+A. Проверить указатель (известный источник)
+A. Sprawdzić próbnik (znane źródło)
+A. A vizsgáló igazolása (ismert forrás)
+A. Comprobar el comprobador (fuente conocida)
+
+#2024
+B. Tester chaque paire
+B. Testar cada par
+B. 测试每一组
+B. Проверить каждую пару
+B. Zbadać każdą parę
+B. Minden pár vizsgálata
+B. Probar cada par
+
+#2025
+C. Prouver à nouveau le testeur
+C. Comprovar o testador de novo
+C. 再次验证验电器
+C. Снова проверить указатель
+C. Sprawdzić próbnik ponownie
+C. A vizsgáló újra igazolása
+C. Volver a comprobar el comprobador
+
+#2026
+Lire le manomètre
+Ler o manômetro
+读取压力表
+Считать показание манометра
+Odczytać manometr
+Manométer leolvasása
+Leer el manómetro
+
+#2027
+Mesurer le bus continu (+ vers -)
+Medir o barramento CC (+ para -)
+测量直流母线（+ 对 -）
+Измерить шину постоянного тока (+ на -)
+Zmierzyć szynę DC (+ do -)
+DC köztes kör mérése (+ és - között)
+Medir el bus de CC (+ a -)
+
+#2028
+Isolez et verrouillez d'abord le variateur.
+Isole e bloqueie primeiro o inversor.
+先隔离并锁住变频器。
+Сначала отключите и заблокируйте преобразователь.
+Najpierw odetnij i zablokuj falownik.
+Először válassza le és zárja le a hajtást.
+Aísle y bloquee primero el variador.
+
+#2029
+Attendre 1 minute
+Esperar 1 minuto
+等待1分钟
+Подождать 1 минуту
+Poczekać 1 minutę
+Várni 1 percet
+Esperar 1 minuto
+
+#2030
+Vérifier que le coulisseau est retenu mécaniquement
+Conferir se o êmbolo está preso mecanicamente
+检查滑块是否已被机械固定住
+Убедиться, что ползун удерживается механически
+Sprawdzić, czy suwak jest zatrzymany mechanicznie
+Ellenőrizni, hogy a szán mechanikusan rögzítve van
+Comprobar que el carro está sujeto mecánicamente
+
+#2031
+Travail sûr. Bien joué.
+Seguro para trabalhar. Muito bem.
+可以安全作业。干得好。
+Работать безопасно. Отлично.
+Bezpiecznie do pracy. Dobra robota.
+Biztonságos a munka. Szép munka.
+Seguro para trabajar. Bien hecho.
+
+#2032
+À améliorer. Revoyez les erreurs.
+Precisa melhorar. Revise os erros.
+需要改进。请回顾这些错误。
+Требуется улучшение. Разберите ошибки.
+Wymaga poprawy. Przejrzyj błędy.
+Fejlesztésre szorul. Nézze át a hibákat.
+Necesita mejorar. Revise los errores.
+
+#2033
+Dangereux. Ce serait une violation sur site.
+Inseguro. Isso seria uma violação no local.
+不安全。在现场这将是一次违规。
+Небезопасно. На предприятии это было бы нарушением.
+Niebezpiecznie. Na miejscu byłoby to naruszenie.
+Nem biztonságos. Üzemben ez szabálysértés lenne.
+No seguro. En planta sería una infracción.
+
+#2034
+Résultat :
+Resultado:
+结果：
+Результат:
+Wynik:
+Eredmény:
+Resultado:
+
+#2035
+Pénalités pour erreurs
+Penalidades por erros
+错误扣分
+Штрафы за ошибки
+Kary za błędy
+Hibákért járó levonások
+Penalizaciones por errores
+
+#2036
+Erreurs
+Erros
+错误
+Ошибки
+Błędy
+Hibák
+Errores
+
+#2037
+À quoi ressemble un isolement correct
+Como é o isolamento correto
+正确的隔离是什么样的
+Как выглядит правильное отключение
+Jak wygląda prawidłowe odcięcie
+Így néz ki a helyes leválasztás
+Cómo es el aislamiento correcto
+
+#2038
+cadenas + étiquette
+cadeado + etiqueta
+挂锁 + 标签
+замок + бирка
+kłódka + zawieszka
+lakat + címke
+candado + etiqueta
+
+#2039
+dispositif de blocage + cadenas + étiquette
+dispositivo de bloqueio + cadeado + etiqueta
+锁定装置 + 挂锁 + 标签
+блокирующее устройство + замок + бирка
+urządzenie blokujące + kłódka + zawieszka
+lezáró eszköz + lakat + címke
+dispositivo de bloqueo + candado + etiqueta
+
+#2040
+Réessayer
+Tentar de novo
+再试一次
+Попробовать снова
+Spróbuj ponownie
+Újra
+Intentar de nuevo
+
+#2041
+Autres machines
+Outras máquinas
+其他机器
+Другие машины
+Inne maszyny
+Más gépek
+Otras máquinas
+
+#2042
+Dispositifs de blocage, cadenas, clés et étiquettes
+Dispositivos de bloqueio, cadeados, chaves e etiquetas
+锁定装置、挂锁、钥匙和标签
+Блокирующие устройства, замки, ключи и бирки
+Urządzenia blokujące, kłódki, klucze i zawieszki
+Lezáró eszközök, lakatok, kulcsok és címkék
+Dispositivos de bloqueo, candados, llaves y etiquetas
+
+#2043
+Ce qu'est chaque dispositif et à quel type de point d'isolement il convient. Un dispositif ne convient qu'aux types de points indiqués en vert.
+O que é cada dispositivo e a qual ponto de isolamento ele serve. Um dispositivo serve apenas aos tipos de ponto mostrados em verde.
+每种装置是什么，适合哪种隔离点。装置只适用于绿色显示的点位类型。
+Что представляет собой каждое устройство и к какому типу точки отключения оно подходит. Устройство подходит только к типам точек, показанным зелёным.
+Czym jest każde urządzenie i do jakiego punktu odcięcia pasuje. Urządzenie pasuje tylko do typów punktów pokazanych na zielono.
+Mi az egyes eszköz, és melyik leválasztási ponthoz illik. Egy eszköz csak a zölddel jelzett pontfajtákhoz illik.
+Qué es cada dispositivo y a qué punto de aislamiento encaja. Un dispositivo solo encaja en los tipos de punto mostrados en verde.
+
+#2044
+Convient à :
+Serve para:
+适用于：
+Подходит для:
+Pasuje do:
+Illik:
+Encaja en:
+
+#2045
+Organe de commande seulement. Pas un point d'isolement.
+Somente dispositivo de comando. Não é ponto de isolamento.
+仅是控制设备。不是隔离点。
+Только устройство управления. Не точка отключения.
+Tylko urządzenie sterujące. Nie jest punktem odcięcia.
+Csak vezérlőeszköz. Nem leválasztási pont.
+Solo dispositivo de mando. No es un punto de aislamiento.
+
+#2046
+Touchez pour regarder à l'intérieur
+Toque para ver por dentro
+点击查看内部
+Нажмите, чтобы заглянуть внутрь
+Dotknij, aby zajrzeć do środka
+Érintse meg a belső nézethez
+Toque para ver el interior
+
+#2047
+Types de points d'isolement
+Tipos de pontos de isolamento
+隔离点类型
+Типы точек отключения
+Typy punktów odcięcia
+Leválasztási pontok fajtái
+Tipos de puntos de aislamiento
+
+#2048
+A un trou de cadenas : cadenas direct ou moraillon.
+Tem furo de cadeado: cadeado direto ou presilha.
+有挂锁孔：直接挂锁或用搭扣。
+Есть отверстие под замок: замок напрямую или накладка.
+Ma otwór na kłódkę: kłódka bezpośrednio lub zaczep.
+Van lakatlyuk: közvetlen lakat vagy fül.
+Tiene orificio de candado: candado directo o pestillo.
+
+#2049
+Nécessite un dispositif de blocage.
+Precisa de um dispositivo de bloqueio.
+需要锁定装置。
+Нужно блокирующее устройство.
+Wymaga urządzenia blokującego.
+Lezáró eszköz kell hozzá.
+Necesita un dispositivo de bloqueo.
+
+#2050
+Organe de commande : pas un point d'isolement.
+Dispositivo de comando: não é ponto de isolamento.
+控制设备：不是隔离点。
+Устройство управления: не точка отключения.
+Urządzenie sterujące: nie jest punktem odcięcia.
+Vezérlőeszköz: nem leválasztási pont.
+Dispositivo de mando: no es un punto de aislamiento.
+
+#2051
+Règles LOTO en bref
+Regras de LOTO em resumo
+LOTO规则简述
+Правила LOTO вкратце
+Zasady LOTO w skrócie
+A LOTO szabályai röviden
+Reglas LOTO en resumen
+
+#2052
+Ceci est une aide à la formation. Sur site, suivez la procédure LOTO de votre entreprise et la norme applicable.
+Este é um auxílio de treinamento. Na planta, siga o procedimento de LOTO da sua empresa e a norma aplicável.
+这是培训辅助工具。在现场，请遵循贵公司的LOTO程序和适用的标准。
+Это учебное пособие. На предприятии следуйте процедуре LOTO вашей компании и применимому стандарту.
+To pomoc szkoleniowa. Na miejscu stosuj procedurę LOTO swojej firmy i obowiązującą normę.
+Ez egy oktatási segédeszköz. Az üzemben kövesse a vállalat LOTO-eljárását és az alkalmazandó szabványt.
+Esto es una ayuda de formación. En planta, siga el procedimiento LOTO de su empresa y la norma aplicable.
+
+#2053
+Remplacez le fusible ou la lampe par un de même calibre. Cherchez d'abord pourquoi il a grillé (surcharge, court-circuit, mauvais calibre).
+Substitua o fusível ou a lâmpada por um de mesma capacidade. Descubra primeiro por que queimou (sobrecarga, curto, capacidade errada).
+更换同规格的熔断器或灯。先找出它烧断的原因（过载、短路、规格不对）。
+Замените предохранитель или лампу на такие же по номиналу. Сначала выясните, почему он сгорел (перегрузка, короткое замыкание, неверный номинал).
+Wymień bezpiecznik lub lampkę na taki sam o tej samej wartości. Najpierw ustal, dlaczego się przepalił (przeciążenie, zwarcie, zła wartość).
+Cserélje a biztosítékot vagy a lámpát azonos névleges értékűre. Előbb derítse ki, miért ment tönkre (túlterhelés, zárlat, rossz érték).
+Sustituya el fusible o la lámpara por uno de la misma capacidad. Averigüe primero por qué se fundió (sobrecarga, cortocircuito, valor incorrecto).
+
+#2054
+Remplacez la bobine (ou tout le contacteur/relais). Contrôlez la résistance de la bobine hors tension.
+Substitua a bobina (ou todo o contator/relé). Verifique a resistência da bobina com a energia desligada.
+更换线圈（或整个接触器/继电器）。在断电状态下检查线圈电阻。
+Замените катушку (или весь контактор/реле). Проверьте сопротивление катушки при выключенном питании.
+Wymień cewkę (lub cały stycznik/przekaźnik). Sprawdź rezystancję cewki przy wyłączonym zasilaniu.
+Cserélje a tekercset (vagy az egész kontaktort/relét). Áramtalanított állapotban ellenőrizze a tekercs ellenállását.
+Sustituya la bobina (o todo el contactor/relé). Compruebe la resistencia de la bobina con la alimentación apagada.
+
+#2055
+Remplacez la pièce. Cherchez la cause : surtension, mauvaise tension de bobine, spires en court-circuit.
+Substitua a peça. Procure a causa: sobretensão, tensão de bobina errada, espiras em curto.
+更换该部件。查找原因：过电压、线圈电压不对、匝间短路。
+Замените деталь. Найдите причину: перенапряжение, неверное напряжение катушки, межвитковое замыкание.
+Wymień część. Poszukaj przyczyny: przepięcie, złe napięcie cewki, zwarte zwoje.
+Cserélje az alkatrészt. Keresse meg az okot: túlfeszültség, rossz tekercsfeszültség, zárlatos menetek.
+Sustituya la pieza. Busque la causa: sobretensión, tensión de bobina incorrecta, espiras en cortocircuito.
+
+#2056
+Les contacts ou l'armature sont coincés ou sales. Nettoyez ou remplacez le contacteur.
+Os contatos ou a armadura estão presos ou sujos. Limpe ou substitua o contator.
+触点或衔铁卡住或脏了。清洁或更换接触器。
+Контакты или якорь заклинило или они загрязнены. Очистите или замените контактор.
+Styki lub zwora są zablokowane lub brudne. Wyczyść lub wymień stycznik.
+Az érintkezők vagy a kotva elakadtak vagy szennyezettek. Tisztítsa meg vagy cserélje a kontaktort.
+Los contactos o la armadura están atascados o sucios. Limpie o sustituya el contactor.
+
+#2057
+Les contacts sont soudés. Remplacez le contacteur et trouvez la cause (surcharge, court-circuit, mauvais calibre).
+Os contatos estão soldados. Substitua o contator e encontre a causa (sobrecarga, curto, tamanho errado).
+触点已熔焊。更换接触器并找出原因（过载、短路、选型不对）。
+Контакты приварились. Замените контактор и найдите причину (перегрузка, короткое замыкание, неверный типоразмер).
+Styki są zespawane. Wymień stycznik i znajdź przyczynę (przeciążenie, zwarcie, zły rozmiar).
+Az érintkezők összehegedtek. Cserélje a kontaktort, és keresse meg az okot (túlterhelés, zárlat, rossz méret).
+Los contactos están soldados. Sustituya el contactor y encuentre la causa (sobrecarga, cortocircuito, tamaño incorrecto).
+
+#2058
+Le contact auxiliaire 95-96 du relais thermique est ouvert. Remplacez le relais ou le bloc de contacts.
+O contato auxiliar 95-96 do relé de sobrecarga está aberto. Substitua o relé ou o bloco de contatos.
+热过载继电器的辅助触点95-96是断开的。更换继电器或触点块。
+Вспомогательный контакт 95-96 теплового реле разомкнут. Замените реле или блок контактов.
+Styk pomocniczy 95-96 przekaźnika termicznego jest otwarty. Wymień przekaźnik lub blok styków.
+A hőkioldó relé 95-96 segédérintkezője nyitva van. Cserélje a relét vagy az érintkezőblokkot.
+El contacto auxiliar 95-96 del relé térmico está abierto. Sustituya el relé o el bloque de contactos.
+
+#2059
+Un pôle du relais thermique est ouvert. Remplacez-le.
+Um polo do relé de sobrecarga está aberto. Substitua-o.
+热过载继电器有一极是断开的。更换它。
+Один полюс теплового реле разомкнут. Замените его.
+Jeden biegun przekaźnika termicznego jest otwarty. Wymień go.
+A hőkioldó relé egyik pólusa nyitva van. Cserélje ki.
+Un polo del relé térmico está abierto. Sustitúyalo.
+
+#2060
+La pièce est ouverte à l'intérieur. Remplacez-la.
+A peça está aberta por dentro. Substitua-a.
+该部件内部开路。更换它。
+Деталь внутри разомкнута. Замените её.
+Część jest wewnątrz przerwana. Wymień ją.
+Az alkatrész belül szakadt. Cserélje ki.
+La pieza está abierta por dentro. Sustitúyala.
+
+#2061
+La pièce est en court-circuit à l'intérieur. Remplacez-la.
+A peça está em curto por dentro. Substitua-a.
+该部件内部短路。更换它。
+Деталь внутри замкнута накоротко. Замените её.
+Część jest wewnątrz zwarta. Wymień ją.
+Az alkatrész belül zárlatos. Cserélje ki.
+La pieza está en cortocircuito por dentro. Sustitúyala.
+
+#2062
+Un enroulement du moteur est ouvert. Contrôlez les trois enroulements hors tension ; rebobinez ou remplacez le moteur.
+Um enrolamento do motor está aberto. Verifique os três enrolamentos com a energia desligada; rebobine ou substitua o motor.
+电机的一个绕组开路。在断电状态下检查三个绕组；重新绕线或更换电机。
+Одна обмотка двигателя оборвана. Проверьте три обмотки при выключенном питании; перемотайте или замените двигатель.
+Uzwojenie silnika jest przerwane. Sprawdź trzy uzwojenia przy wyłączonym zasilaniu; przewiń lub wymień silnik.
+A motor egyik tekercse szakadt. Áramtalanított állapotban ellenőrizze a három tekercset; tekercselje újra vagy cserélje a motort.
+Un bobinado del motor está abierto. Compruebe los tres bobinados con la alimentación apagada; rebobine o sustituya el motor.
+
+#2063
+L'isolation est faible. Mesurez l'enroulement au mégohmmètre ; séchez ou rebobinez, ou remplacez le moteur.
+O isolamento está fraco. Meça o enrolamento com o megôhmetro; seque ou rebobine, ou substitua o motor.
+绝缘薄弱。用兆欧表测量绕组；烘干或重绕，或更换电机。
+Изоляция ослаблена. Измерьте обмотку мегаомметром; просушите или перемотайте либо замените двигатель.
+Izolacja jest słaba. Zmierz uzwojenie megaomomierzem; osusz lub przewiń albo wymień silnik.
+A szigetelés gyenge. Mérje meg a tekercset szigetelésmérővel; szárítsa vagy tekercselje újra, vagy cserélje a motort.
+El aislamiento es débil. Mida el bobinado con el megóhmetro; seque o rebobine, o sustituya el motor.
+
+#2064
+Spires en court-circuit dans un enroulement. Comparez les trois résistances d'enroulement ; rebobinez ou remplacez.
+Espiras em curto em um enrolamento. Compare as três resistências de enrolamento; rebobine ou substitua.
+某个绕组存在匝间短路。比较三个绕组的电阻；重新绕线或更换。
+Межвитковое замыкание в обмотке. Сравните сопротивления трёх обмоток; перемотайте или замените.
+Zwarte zwoje w uzwojeniu. Porównaj rezystancje trzech uzwojeń; przewiń lub wymień.
+Zárlatos menetek egy tekercsben. Hasonlítsa össze a három tekercs ellenállását; tekercselje újra vagy cserélje.
+Espiras en cortocircuito en un bobinado. Compare las tres resistencias de bobinado; rebobine o sustituya.
+
+#2065
+Le moteur ou la machine entraînée est bloqué. Contrôlez les roulements et la charge à la main hors tension.
+O motor ou a máquina acionada está travado. Verifique os rolamentos e a carga manualmente com a energia desligada.
+电机或被驱动的机器卡住了。在断电状态下用手检查轴承和负载。
+Двигатель или приводимая машина заклинили. Проверьте подшипники и нагрузку вручную при выключенном питании.
+Silnik lub napędzana maszyna jest zablokowana. Sprawdź łożyska i obciążenie ręką przy wyłączonym zasilaniu.
+A motor vagy a hajtott gép elakadt. Áramtalanított állapotban kézzel ellenőrizze a csapágyakat és a terhelést.
+El motor o la máquina accionada está atascada. Compruebe a mano los rodamientos y la carga con la alimentación apagada.
+
+#2066
+Une connexion est desserrée ou rompue. Reconnectez-la aux deux extrémités (vérifiez l'embout et le couple de la vis).
+Uma conexão está solta ou rompida. Refaça a terminação nas duas pontas (verifique o terminal tubular e o torque do parafuso).
+有一处连接松动或断了。在两端重新接线（检查线鼻子和螺钉扭矩）。
+Соединение ослабло или оборвано. Заново обожмите и подключите его с обоих концов (проверьте наконечник и момент затяжки винта).
+Połączenie jest luźne lub przerwane. Zakończ je na nowo na obu końcach (sprawdź tulejkę i moment dokręcenia śruby).
+Egy csatlakozás laza vagy megszakadt. Csatlakoztassa újra mindkét végén (ellenőrizze az érvéghüvelyt és a csavar nyomatékát).
+Una conexión está floja o rota. Vuelva a terminarla en ambos extremos (compruebe la puntera y el par del tornillo).
+
+#2067
+Réarmez-le après avoir trouvé pourquoi il a déclenché (surcharge, court-circuit, fuite à la terre). Ne réarmez pas à répétition sans chercher.
+Rearme-o depois de descobrir por que ele desarmou (sobrecarga, curto, fuga à terra). Não fique rearmando repetidamente.
+找出它跳闸的原因（过载、短路、漏电）之后再复位。不要只是反复复位。
+Верните его в исходное положение после выяснения, почему он сработал (перегрузка, короткое замыкание, утечка на землю). Не делайте сброс раз за разом без поиска причины.
+Zresetuj go po ustaleniu, dlaczego zadziałał (przeciążenie, zwarcie, upływ do ziemi). Nie resetuj w kółko bez szukania przyczyny.
+Akkor állítsa vissza, ha megtalálta, miért oldott ki (túlterhelés, zárlat, földzárlat). Ne állítsa vissza újra és újra gondolkodás nélkül.
+Rearme después de averiguar por qué saltó (sobrecarga, cortocircuito, fuga a tierra). No rearme repetidamente sin más.
+
+#2068
+Un arrêt d'urgence est enfoncé. Vérifiez pourquoi, puis déverrouillez-le en le tournant.
+Uma parada de emergência está pressionada. Verifique o motivo e depois libere girando.
+有一个急停按钮被按下了。先查明原因，再旋转将其释放。
+Нажат аварийный стоп. Выясните причину, затем отпустите его поворотом.
+Wyłącznik awaryjny jest wciśnięty. Sprawdź dlaczego, potem zwolnij go przez obrót.
+Egy vészleállító be van nyomva. Nézze meg, miért, majd forgatással oldja ki.
+Hay una parada de emergencia pulsada. Compruebe por qué y luego libérela girándola.
+
+#2069
+L'appareil est mort. Vérifiez d'abord son alimentation ; si elle est correcte, remplacez-le.
+O dispositivo está morto. Verifique primeiro sua alimentação; se estiver correta, substitua-o.
+该设备已坏。先检查它的供电；如果供电正常，就更换它。
+Устройство неисправно. Сначала проверьте его питание; если питание в порядке, замените устройство.
+Urządzenie jest martwe. Najpierw sprawdź jego zasilanie; jeśli jest prawidłowe, wymień urządzenie.
+Az eszköz meghalt. Először ellenőrizze a táplálását; ha rendben van, cserélje az eszközt.
+El dispositivo está muerto. Compruebe primero su alimentación; si es correcta, sustitúyalo.
+
+#2070
+La valeur a dérivé. Remplacez la pièce.
+O valor derivou. Substitua a peça.
+数值已漂移。更换该部件。
+Значение ушло. Замените деталь.
+Wartość się zmieniła. Wymień część.
+Az érték elcsúszott. Cserélje az alkatrészt.
+El valor se ha desviado. Sustituya la pieza.
+
+#2071
+L'appareil est bloqué. Nettoyez-le ou remplacez-le.
+O dispositivo está travado. Limpe ou substitua.
+该设备卡住了。清洁或更换它。
+Устройство заклинило. Очистите или замените его.
+Urządzenie się zacięło. Wyczyść lub wymień.
+Az eszköz elakadt. Tisztítsa meg vagy cserélje.
+El dispositivo está atascado. Límpielo o sustitúyalo.
+
+#2072
+Fuite d'isolement vers la terre. Isolez le circuit et testez chaque partie au mégohmmètre.
+Fuga de isolamento para a terra. Isole o circuito e teste cada parte com o megôhmetro.
+绝缘对地泄漏。隔离该回路，用兆欧表逐个测试各部分。
+Утечка изоляции на землю. Отключите цепь и проверьте каждую часть мегаомметром.
+Upływ izolacji do ziemi. Odetnij obwód i zbadaj każdą część megaomomierzem.
+Szigetelési szivárgás a föld felé. Válassza le az áramkört, és vizsgálja meg minden részét szigetelésmérővel.
+Fuga de aislamiento a tierra. Aísle el circuito y pruebe cada parte con el megóhmetro.
+
+#2073
+La batterie est déchargée. Remplacez-la ou rechargez-la.
+A bateria está descarregada. Substitua ou carregue.
+电池没电了。更换或充电。
+Батарея разряжена. Замените или зарядите её.
+Bateria jest rozładowana. Wymień ją lub naładuj.
+Az elem lemerült. Cserélje vagy töltse fel.
+La batería está descargada. Sustitúyala o cárguela.
+
+#2074
+Remplacez ou réparez la pièce.
+Substitua ou conserte a peça.
+更换或修理该部件。
+Замените или отремонтируйте деталь.
+Wymień lub napraw część.
+Cserélje vagy javítsa az alkatrészt.
+Sustituya o repare la pieza.
+
+#2075
+Une lecture de dizaines de volts sur un fil ouvert peut être une tension fantôme venant de câbles voisins. Utilisez un multimètre à faible impédance (LoZ) ou un testeur avec charge.
+Uma leitura de dezenas de volts em um fio aberto pode ser tensão fantasma de cabos próximos. Use um multímetro de baixa impedância (LoZ) ou um testador com carga.
+开路导线上读到几十伏，可能是附近电缆引起的幽灵电压。请使用低阻抗（LoZ）万用表或带负载的验电器。
+Показание в десятки вольт на разомкнутом проводе может быть наведённым напряжением от соседних кабелей. Используйте мультиметр с низким входным сопротивлением (LoZ) или указатель с нагрузкой.
+Odczyt kilkudziesięciu woltów na otwartym przewodzie może być napięciem pozornym od pobliskich kabli. Użyj miernika o niskiej impedancji (LoZ) lub próbnika z obciążeniem.
+Egy nyitott vezetéken mért több tíz voltos érték lehet a közeli kábelek szellemfeszültsége. Használjon kis impedanciájú (LoZ) műszert vagy terheléses vizsgálót.
+Una lectura de decenas de voltios en un cable abierto puede ser tensión fantasma de cables cercanos. Use un polímetro de baja impedancia (LoZ) o un comprobador con carga.
+
+#2076
+Ne mesurez jamais une résistance sur un circuit sous tension. Coupez, verrouillez, testez l'absence de tension, puis levez un fil de la pièce pour la mesurer seule.
+Nunca meça resistência em um circuito vivo. Desligue, bloqueie, teste que está sem energia e depois levante um terminal da peça para medi-la sozinha.
+绝不要在带电回路上测电阻。先关断、上锁、验明无电，然后拆开该部件的一端引线，单独测量它。
+Никогда не измеряйте сопротивление в цепи под напряжением. Отключите, заблокируйте, убедитесь в отсутствии напряжения, затем отсоедините один вывод детали и измерьте её отдельно.
+Nigdy nie mierz rezystancji w obwodzie pod napięciem. Wyłącz, zablokuj, sprawdź brak napięcia, potem odłącz jedną końcówkę części i zmierz ją osobno.
+Soha ne mérjen ellenállást feszültség alatti áramkörben. Kapcsolja ki, zárja le, igazolja az áramtalanságot, majd emelje le az alkatrész egyik vezetékét, és mérje külön.
+Nunca mida resistencia en un circuito con tensión. Apague, bloquee, compruebe que está sin tensión y levante un terminal de la pieza para medirla sola.
+
+#2077
+Commencez par ce que vous pouvez voir et entendre. Cela ne coûte rien et écarte beaucoup de suspects.
+Comece pelo que você pode ver e ouvir. Não custa nada e elimina muitos suspeitos.
+先从你能看到和听到的入手。这不花任何成本，却能排除很多嫌疑。
+Начните с того, что можно увидеть и услышать. Это ничего не стоит и отсеивает многих подозреваемых.
+Zacznij od tego, co widać i słychać. Nic nie kosztuje i eliminuje wielu podejrzanych.
+Kezdje azzal, amit lát és hall. Nem kerül semmibe, és sok gyanúsítottat kizár.
+Empiece por lo que puede ver y oír. No cuesta nada y descarta muchos sospechosos.
+
+#2078
+Les bornes desserrées sont la cause la plus courante sur le terrain. Après en avoir trouvé une, testez en traction les voisines.
+Terminais soltos são a causa mais comum no campo. Depois de encontrar um, teste por tração os vizinhos.
+接线端子松动是现场最常见的原因。找到一个之后，把相邻的也拉一拉试试。
+Ослабленные клеммы — самая частая причина на практике. Найдя одну, проверьте соседние на вытягивание.
+Luźne zaciski to najczęstsza przyczyna w praktyce. Po znalezieniu jednego sprawdź szarpnięciem sąsiednie.
+A laza kapcsok a leggyakoribb ok a gyakorlatban. Ha talált egyet, húzópróbával ellenőrizze a szomszédosakat is.
+Los bornes flojos son la causa más común en campo. Al encontrar uno, haga una prueba de tirón a los vecinos.
+
+#2079
+Une bobine qui reçoit toute la tension mais ne colle pas est ouverte, brûlée ou mécaniquement coincée. La résistance de la bobine le dit.
+Uma bobina que recebe tensão total mas não puxa está aberta, queimada ou mecanicamente travada. A resistência da bobina mostra qual é.
+线圈得到了全电压却不吸合，说明它开路、烧毁或机械卡住。线圈电阻能告诉你是哪一种。
+Катушка, получающая полное напряжение, но не втягивающая якорь, оборвана, сгорела или заклинена механически. Какое из этого — покажет сопротивление катушки.
+Cewka, która dostaje pełne napięcie, ale nie przyciąga, jest przerwana, spalona lub mechanicznie zablokowana. Rezystancja cewki pokaże, która z tych przyczyn.
+A tekercs, amely teljes feszültséget kap, de nem húz be, szakadt, kiégett vagy mechanikusan elakadt. A tekercs ellenállása megmondja, melyik.
+Una bobina que recibe la tensión completa pero no atrae está abierta, quemada o atascada mecánicamente. La resistencia de la bobina dice cuál.
+
+#2080
+Un fusible fondu est un symptôme. Mesurez la charge et le câble avant de le remplacer.
+Um fusível queimado é um sintoma. Meça a carga e o cabo antes de substituí-lo.
+熔断器烧断只是症状。更换之前，先测量负载和电缆。
+Сгоревший предохранитель — это симптом. Прежде чем его заменять, измерьте нагрузку и кабель.
+Przepalony bezpiecznik to objaw. Zmierz odbiornik i kabel przed jego wymianą.
+Az átégett biztosíték csak tünet. Csere előtt mérje meg a terhelést és a kábelt.
+Un fusible fundido es un síntoma. Mida la carga y el cable antes de sustituirlo.
+
+#2081
+Si un moteur ronfle sans tourner, cherchez d'abord une phase manquante et une charge bloquée.
+Se um motor zumbe e não gira, verifique primeiro fase faltando e carga travada.
+如果电机嗡嗡响却不转，先检查是否缺相、负载是否卡死。
+Если двигатель гудит и не вращается, сначала проверьте обрыв фазы и заклинивание нагрузки.
+Jeśli silnik buczy i się nie obraca, najpierw sprawdź brak fazy i zablokowane obciążenie.
+Ha a motor zúg, de nem forog, először a hiányzó fázist és a beszorult terhelést ellenőrizze.
+Si un motor zumba y no gira, compruebe antes que nada una fase ausente y una carga agarrotada.
+
+#2082
+allumé
+aceso
+亮着
+горит
+świeci
+világít
+encendido
+
+#2083
+tourne
+girando
+在转
+вращается
+obraca się
+forog
+girando
+
+#2084
+attiré (on entend un clic, l'armature bouge)
+atuado (ouve-se um clique, a armadura se move)
+已吸合（听到咔哒一声，衔铁动了）
+втянут (слышен щелчок, якорь перемещается)
+przyciągnięty (słychać kliknięcie, zwora się porusza)
+behúzott (kattanást hall, a kotva mozog)
+atraído (se oye un clic, la armadura se mueve)
+
+#2085
+fonctionne
+funcionando
+在工作
+работает
+działa
+működik
+funcionando
+
+#2086
+Oui, c'est le cas
+Sim, está
+是的
+Да
+Tak, jest
+Igen, az
+Sí, lo es
+
+#2087
+Non, ce n'est pas le cas
+Não, não está
+不，不是
+Нет
+Nie, nie jest
+Nem, nem az
+No, no lo es
+
+#2088
+Oui, déclenché
+Sim, desarmou
+是，已跳闸
+Да, сработал
+Tak, zadziałał
+Igen, kioldott
+Sí, ha saltado
+
+#2089
+Travail sous tension au-dessus de 50 V : utilisez un multimètre CAT III/IV avec cordons fusibles, une seule main, et suivez votre permis de travail du site.
+Trabalho vivo acima de 50 V: use um multímetro CAT III/IV com pontas de prova com fusível, uma só mão, e siga a permissão de trabalho da planta.
+50 V以上的带电作业：使用带熔断保护表笔的CAT III/IV万用表，单手操作，并遵守现场作业许可。
+Работа под напряжением выше 50 В: используйте мультиметр CAT III/IV со щупами с предохранителями, одной рукой и следуйте наряду-допуску предприятия.
+Praca pod napięciem powyżej 50 V: użyj multimetru CAT III/IV z przewodami z bezpiecznikami, jedną ręką, i stosuj się do zezwolenia na pracę w zakładzie.
+50 V feletti feszültség alatti munka: használjon biztosítékos mérővezetékes CAT III/IV műszert, egy kézzel, és kövesse az üzem munkaengedélyét.
+Trabajo con tensión por encima de 50 V: use un polímetro CAT III/IV con puntas con fusible, con una sola mano, y siga el permiso de trabajo de la planta.
+
+#2090
+0 V (ou quelques volts)
+0 V (ou alguns volts)
+0 V（或几伏）
+0 В (или несколько вольт)
+0 V (lub kilka woltów)
+0 V (vagy néhány volt)
+0 V (o unos pocos voltios)
+
+#2091
+Quelque chose entre les deux
+Algo no meio
+介于两者之间
+Что-то среднее
+Coś pomiędzy
+Valami a kettő között
+Algo intermedio
+
+#2092
+Pincez un seul conducteur. Restez à l'écart des bornes sous tension.
+Prenda somente um condutor. Mantenha distância dos terminais vivos.
+钳口只夹一根导线。远离带电端子。
+Охватывайте клещами только один проводник. Держитесь подальше от клемм под напряжением.
+Obejmij cęgami tylko jeden przewód. Trzymaj się z dala od zacisków pod napięciem.
+Csak egy vezetőt fogjon át. Maradjon távol a feszültség alatti kapcsoktól.
+Abrace solo un conductor. Manténgase lejos de los bornes con tensión.
+
+#2093
+Plus bas que sain / déséquilibré
+Mais baixo que o normal / desequilibrado
+比正常值低 / 不平衡
+Ниже нормы / несимметрично
+Niższe niż w zdrowym / niesymetryczne
+Alacsonyabb az egészségesnél / kiegyensúlyozatlan
+Más bajo que lo sano / desequilibrado
+
+#2094
+Isolez et verrouillez d'abord (LOTO).
+Isole e bloqueie primeiro (LOTO).
+先隔离并上锁（LOTO）。
+Сначала отключите и заблокируйте (LOTO).
+Najpierw odetnij i zablokuj (LOTO).
+Először válassza le és zárja le (LOTO).
+Aísle y bloquee primero (LOTO).
+
+#2095
+Ouvert (OL)
+Aberto (OL)
+开路（OL）
+Обрыв (OL)
+Otwarty (OL)
+Nyitott (OL)
+Abierto (OL)
+
+#2096
+Ouvert, comme il se doit
+Aberto, como deveria
+开路，正常
+Разомкнут, как и должно быть
+Otwarty, tak jak powinien
+Nyitott, ahogy kell
+Abierto, como debe
+
+#2097
+Fermé (près de 0 Ω)
+Fechado (próximo de 0 Ω)
+闭合（接近0 Ω）
+Замкнут (около 0 Ом)
+Zamknięty (blisko 0 Ω)
+Zárt (közel 0 Ω)
+Cerrado (cerca de 0 Ω)
+
+#2098
+En court-circuit alors qu'il devrait être ouvert
+Em curto quando deveria estar aberto
+本该断开的却短路了
+Замкнут накоротко, хотя должен быть разомкнут
+Zwarty, gdy powinien być otwarty
+Zárlatos, pedig nyitottnak kellene lennie
+En cortocircuito cuando debería estar abierto
+
+#2099
+Isolez et verrouillez d'abord (LOTO). Ne mesurez jamais des ohms sur un circuit sous tension.
+Isole e bloqueie primeiro (LOTO). Nunca meça ohms em um circuito vivo.
+先隔离并上锁（LOTO）。绝不要在带电回路上测量欧姆。
+Сначала отключите и заблокируйте (LOTO). Никогда не измеряйте омы в цепи под напряжением.
+Najpierw odetnij i zablokuj (LOTO). Nigdy nie mierz omów w obwodzie pod napięciem.
+Először válassza le és zárja le (LOTO). Soha ne mérjen ohmot feszültség alatti áramkörben.
+Aísle y bloquee primero (LOTO). Nunca mida ohmios en un circuito con tensión.
+
+#2100
+Ouvert (OL, pas de continuité)
+Aberto (OL, sem continuidade)
+开路（OL，无导通）
+Обрыв (OL, нет проводимости)
+Otwarty (OL, brak ciągłości)
+Nyitott (OL, nincs folytonosság)
+Abierto (OL, sin continuidad)
+
+#2101
+Beaucoup plus bas (court-circuit)
+Muito mais baixo (em curto)
+低得多（短路）
+Намного ниже (замыкание)
+Znacznie niższa (zwarcie)
+Sokkal alacsonyabb (zárlat)
+Mucho más bajo (cortocircuito)
+
+#2102
+Comme dessiné
+Como desenhado
+按图所示
+Как нарисовано
+Jak na rysunku
+Ahogy rajzolva van
+Como está dibujado
+
+#2103
+Tous les disjoncteurs sur ON
+Todos os disjuntores em ON
+所有断路器处于ON
+Все автоматы в положении ON
+Wszystkie wyłączniki na ON
+Minden megszakító ON állásban
+Todos los interruptores en ON
+
+#2104
+Relâché (0,6 s)
+Solto (0,6 s)
+已松开（0.6 s）
+Отпущено (0,6 с)
+Zwolniony (0,6 s)
+Elengedve (0,6 s)
+Soltado (0,6 s)
+
+#2105
+Appuyer ensemble sur tous les boutons START
+Pressionar todos os botões START juntos
+同时按下所有START按钮
+Нажать все кнопки START одновременно
+Nacisnąć jednocześnie wszystkie przyciski START
+Az összes START gomb egyidejű megnyomása
+Pulsar todos los pulsadores START a la vez
+
+#2106
+Tout relâcher
+Soltar tudo
+全部松开
+Отпустить все
+Zwolnić wszystkie
+Mindet elengedni
+Soltar todos
+
+#2107
+En marche (régime établi)
+Em funcionamento (regime permanente)
+运行中（稳态）
+Работа (установившийся режим)
+Praca (stan ustalony)
+Üzemel (állandósult állapot)
+En marcha (régimen estacionario)
+
+#2108
+un contact
+um contato
+一个触点
+контакт
+styk
+egy érintkező
+un contacto
+
+#2109
+brûlé
+queimado
+烧毁
+сгорел
+spalony
+kiégett
+quemado
+
+#2110
+non connecté
+não conectado
+未连接
+не подключён
+niepodłączony
+nincs csatlakoztatva
+no conectado
+
+#2111
+aucun chemin vers l'alimentation
+sem caminho até a alimentação
+没有通向电源的通路
+нет пути к источнику питания
+brak drogi do zasilania
+nincs út a betáplálás felé
+sin camino a la alimentación
+
+#2112
+extrémité ouverte
+extremidade aberta
+开放端
+свободный конец
+wolny koniec
+nyitott vég
+extremo abierto
+
+#2113
+Aucun fil ni appareil ne relie ce côté à l'alimentation. Il manque un fil.
+Nenhum fio ou dispositivo liga este lado à alimentação. Falta um fio.
+没有任何导线或器件把这一侧连到电源。缺少一根线。
+Никакой провод или устройство не соединяет эту сторону с источником питания. Не хватает провода.
+Żaden przewód ani urządzenie nie łączy tej strony z zasilaniem. Brakuje przewodu.
+Semmilyen vezeték vagy eszköz nem köti ezt az oldalt a betáplálással. Hiányzik egy vezeték.
+Ningún cable ni dispositivo conecta este lado con la alimentación. Falta un cable.
+
+#2114
+même pôle que l'autre borne
+mesmo polo que o outro terminal
+与另一个端子同极
+тот же полюс, что и у другой клеммы
+ten sam biegun co drugi zacisk
+ugyanaz a pólus, mint a másik kapocs
+mismo polo que el otro borne
+
+#2115
+alimenté mais ne fonctionne pas
+alimentado mas não funciona
+有电但不工作
+под напряжением, но не работает
+zasilany, ale nie działa
+táplálva van, de nem működik
+alimentado pero no funciona
+
+#2116
+Le schéma est vide. Ajoutez des composants et des fils, puis appuyez sur Diagnostic.
+O desenho está vazio. Adicione peças e fios e depois pressione Diagnóstico.
+图纸是空的。添加元件和导线，然后按"诊断"。
+Схема пуста. Добавьте детали и провода, затем нажмите «Диагностика».
+Rysunek jest pusty. Dodaj części i przewody, potem naciśnij Diagnostyka.
+A rajz üres. Adjon hozzá alkatrészeket és vezetékeket, majd nyomja meg a Diagnosztika gombot.
+El dibujo está vacío. Añada piezas y cables y luego pulse Diagnóstico.
+
+#2117
+Il n'y a aucune source d'alimentation dans le schéma.
+Não há fonte de alimentação no desenho.
+图纸中没有电源。
+На схеме нет источника питания.
+Na rysunku nie ma źródła zasilania.
+A rajzon nincs betáplálási forrás.
+No hay fuente de alimentación en el dibujo.
+
+#2118
+Ajoutez une alimentation (groupe Sources) et câblez-la au circuit.
+Adicione uma alimentação (grupo Fontes) e ligue-a ao circuito.
+添加一个电源（在"电源"分组里）并把它接到电路上。
+Добавьте источник питания (группа «Источники») и подключите его к цепи.
+Dodaj zasilanie (grupa Źródła) i podłącz je do obwodu.
+Adjon hozzá egy betáplálást (Források csoport), és kösse be az áramkörbe.
+Añada una alimentación (grupo Fuentes) y cablee al circuito.
+
+#2119
+Câblez-le dans le circuit ou supprimez-le.
+Ligue-o ao circuito ou exclua-o.
+把它接入电路，或者删除它。
+Подключите его в цепь или удалите.
+Podłącz go do obwodu albo usuń.
+Kösse be az áramkörbe, vagy törölje.
+Cablee en el circuito o elimínelo.
+
+#2120
+non câblé
+não ligado
+未接线
+не подключён
+niepodłączony
+nincs bekötve
+sin cablear
+
+#2121
+broche d'alimentation ouverte
+pino de alimentação aberto
+电源引脚悬空
+вывод питания не подключён
+wejście zasilania otwarte
+táp kivezetés nyitva
+patilla de alimentación abierta
+
+#2122
+Connectez la borne.
+Conecte o terminal.
+连接该端子。
+Подключите клемму.
+Podłącz zacisk.
+Csatlakoztassa a kapcsot.
+Conecte el borne.
+
+#2123
+Un défaut vers la masse métallique laisserait la masse sous tension.
+Uma falha para a carcaça metálica deixaria a carcaça viva.
+对金属外壳的故障会使外壳带电。
+Замыкание на металлический корпус оставило бы корпус под напряжением.
+Zwarcie do metalowej obudowy pozostawiłoby obudowę pod napięciem.
+A fémtesthez menő hiba feszültség alatt hagyná a testet.
+Un fallo a la carcasa metálica dejaría la carcasa con tensión.
+
+#2124
+Connectez la borne PE à la barre de terre / au PE de l'alimentation.
+Conecte o terminal PE à barra de terra / ao PE da alimentação.
+把PE端子接到接地排 / 电源的PE上。
+Подключите клемму PE к шине заземления / к PE источника питания.
+Podłącz zacisk PE do szyny uziemiającej / PE zasilania.
+Kösse a PE kapcsot a földelősínre / a betáplálás PE vezetőjére.
+Conecte el borne PE a la barra de tierra / al PE de la alimentación.
+
+#2125
+terre manquante
+terra ausente
+缺少接地
+нет заземления
+brak uziemienia
+hiányzik a földelés
+falta la tierra
+
+#2126
+Ajoutez un verrouillage électrique (contact NC de chaque contacteur en série avec l'autre bobine) et un verrouillage mécanique.
+Adicione um intertravamento elétrico (contato NF de cada contator em série com a outra bobina) e um intertravamento mecânico.
+增加电气联锁（每个接触器的常闭触点串联在另一个线圈回路里）和机械联锁。
+Добавьте электрическую блокировку (НЗ-контакт каждого контактора последовательно с катушкой другого) и механическую блокировку.
+Dodaj blokadę elektryczną (styk NC każdego stycznika szeregowo z cewką drugiego) i blokadę mechaniczną.
+Adjon hozzá elektromos reteszelést (mindegyik kontaktor NC érintkezője sorba kötve a másik tekercsével) és mechanikus reteszelést.
+Añada un enclavamiento eléctrico (contacto NC de cada contactor en serie con la otra bobina) y un enclavamiento mecánico.
+
+#2127
+Trouvez le fil ou la pièce qui relie les deux pôles. Regardez les pièces marquées.
+Encontre o fio ou a peça que une os dois polos. Olhe as peças marcadas.
+找出把两个极连在一起的导线或部件。看那些被标记的部件。
+Найдите провод или деталь, которые соединяют два полюса. Посмотрите на отмеченные детали.
+Znajdź przewód lub część łączącą oba bieguny. Spójrz na oznaczone części.
+Keresse meg azt a vezetéket vagy alkatrészt, amely összeköti a két pólust. Nézze meg a megjelölt alkatrészeket.
+Encuentre el cable o la pieza que une los dos polos. Mire las piezas marcadas.
+
+#2128
+dans le chemin du court-circuit
+no caminho do curto-circuito
+在短路路径中
+на пути короткого замыкания
+na drodze zwarcia
+a zárlati úton
+en el camino del cortocircuito
+
+#2129
+Le courant a dépassé ce que la protection permet.
+A corrente passou do que a proteção permite.
+电流超过了保护允许的值。
+Ток превысил допустимое для защиты значение.
+Prąd przekroczył wartość dopuszczalną dla zabezpieczenia.
+Az áram meghaladta azt, amit a védelem megenged.
+La corriente superó lo que permite la protección.
+
+#2130
+déclenche
+desarma
+跳闸
+срабатывает
+zadziała
+kioldik
+salta
+
+#2131
+Utilisez l'alimentation adaptée à cet appareil (transformateur / alimentation 24 V) ou un appareil de bon calibre.
+Use a alimentação correta para este dispositivo (transformador / fonte 24 V) ou um dispositivo com a especificação certa.
+给该设备使用正确的电源（变压器 / 24 V电源），或者换用规格合适的设备。
+Используйте правильное питание для этого устройства (трансформатор / блок питания 24 В) или устройство с подходящими параметрами.
+Użyj właściwego zasilania dla tego urządzenia (transformator / zasilacz 24 V) lub urządzenia o odpowiednich parametrach.
+Használja az eszközhöz megfelelő betáplálást (transzformátor / 24 V-os tápegység), vagy megfelelő névleges értékű eszközt.
+Use la alimentación correcta para este dispositivo (transformador / fuente de 24 V) o un dispositivo con la capacidad adecuada.
+
+#2132
+Vérifiez la tension d'alimentation, la chute de tension du câble et tout appareil en série dans le chemin.
+Verifique a tensão de alimentação, a queda de tensão no cabo e qualquer dispositivo em série no caminho.
+检查电源电压、电缆压降，以及路径中任何串联的设备。
+Проверьте напряжение питания, падение напряжения на кабеле и любое устройство, включённое последовательно в цепь.
+Sprawdź napięcie zasilania, spadek napięcia na kablu i każde urządzenie szeregowo w torze.
+Ellenőrizze a betáplálási feszültséget, a kábel feszültségesését és az úton lévő soros eszközöket.
+Compruebe la tensión de alimentación, la caída de tensión del cable y cualquier dispositivo en serie en el camino.
+
+#2133
+CC sur appareil CA
+CC em dispositivo CA
+交流设备上接了直流
+Постоянный ток на устройстве переменного тока
+DC na urządzeniu AC
+DC egy AC eszközön
+CC en dispositivo de CA
+
+#2134
+CA sur appareil CC
+CA em dispositivo CC
+直流设备上接了交流
+Переменный ток на устройстве постоянного тока
+AC na urządzeniu DC
+AC egy DC eszközön
+CA en dispositivo de CC
+
+#2135
+Inversez ses deux connexions.
+Inverta suas duas conexões.
+对调它的两个接线。
+Поменяйте местами его два подключения.
+Zamień jego dwa przyłącza miejscami.
+Cserélje meg a két csatlakozását.
+Invierta sus dos conexiones.
+

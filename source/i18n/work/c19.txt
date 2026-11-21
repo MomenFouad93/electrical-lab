@@ -1,0 +1,368 @@
+#3516
+{1} fonctionne à {2} % de sa valeur nominale.
+{1} funciona a {2} % do seu valor nominal.
+{1}运行在额定值的{2} %。
+{1} работает на {2} % от номинала.
+{1} pracuje przy {2} % swojej wartości znamionowej.
+{1} a névleges értékének {2} %-án működik.
+{1} funciona al {2} % de su valor nominal.
+
+#3517
+{1} ({2} A) est supérieur au calibre de {3} ({4} A). Le câble n'est pas protégé contre la surcharge.
+{1} ({2} A) é maior que o valor nominal de {3} ({4} A). O cabo não está protegido contra sobrecarga.
+{1}（{2} A）大于{3}的额定值（{4} A）。电缆没有过载保护。
+{1} ({2} А) больше номинала {3} ({4} А). Кабель не защищён от перегрузки.
+{1} ({2} A) jest większy niż wartość znamionowa {3} ({4} A). Kabel nie jest chroniony przed przeciążeniem.
+A(z) {1} ({2} A) nagyobb, mint a(z) {3} névleges értéke ({4} A). A kábel nincs védve túlterhelés ellen.
+{1} ({2} A) es mayor que el valor nominal de {3} ({4} A). El cable no está protegido contra sobrecarga.
+
+#3518
+{1} n'a aucune protection contre les surcharges (relais thermique, disjoncteur-moteur ou variateur) dans son circuit d'alimentation.
+{1} não tem proteção contra sobrecarga (relé de sobrecarga, disjuntor-motor ou inversor) no seu caminho de alimentação.
+{1}的供电回路中没有过载保护（热过载继电器、电机保护断路器或变频器）。
+В цепи питания {1} нет защиты от перегрузки (теплового реле, автомата защиты двигателя или преобразователя частоты).
+{1} nie ma zabezpieczenia przeciążeniowego (przekaźnika termicznego, wyłącznika silnikowego lub falownika) w swoim torze zasilania.
+A(z) {1} betáplálási útjában nincs túlterhelés-védelem (hőkioldó relé, motorvédő megszakító vagy frekvenciaváltó).
+{1} no tiene protección contra sobrecarga (relé térmico, guardamotor o variador) en su camino de alimentación.
+
+#3519
+{1} est réglé sur {2} A mais {3} fonctionne à environ {4} A. Il ne protégera pas le moteur.
+{1} está ajustado em {2} A, mas {3} funciona a cerca de {4} A. Ele não vai proteger o motor.
+{1}设定为{2} A，但{3}的运行电流约为{4} A。它保护不了电机。
+{1} настроен на {2} А, но {3} работает при токе около {4} А. Он не защитит двигатель.
+{1} jest ustawiony na {2} A, ale {3} pracuje przy prądzie około {4} A. Nie ochroni silnika.
+{1} {2} A-re van állítva, de {3} kb. {4} A-rel működik. Nem fogja védeni a motort.
+{1} está ajustado a {2} A pero {3} funciona a unos {4} A. No protegerá el motor.
+
+#3520
+{1} est réglé sur {2} A, en dessous du courant du moteur d'environ {3} A. Il déclenchera en fonctionnement normal.
+{1} está ajustado em {2} A, abaixo da corrente do motor de cerca de {3} A. Ele vai atuar durante a operação normal.
+{1}设定为{2} A，低于电机约{3} A的电流。正常运行时它就会跳闸。
+{1} настроен на {2} А, что ниже тока двигателя примерно {3} А. Он будет срабатывать при нормальной работе.
+{1} jest ustawiony na {2} A, poniżej prądu silnika wynoszącego około {3} A. Zadziała podczas normalnej pracy.
+{1} {2} A-re van állítva, ez a motor kb. {3} A-es áramánál kisebb. Normál üzem közben ki fog oldani.
+{1} está ajustado a {2} A, por debajo de la corriente del motor de unos {3} A. Disparará durante el funcionamiento normal.
+
+#3521
+L'arrêt d'urgence n'arrête pas {1}.
+A parada de emergência não para {1}.
+急停没有让{1}停下来。
+Аварийный останов не останавливает {1}.
+Wyłącznik awaryjny nie zatrzymuje {1}.
+A vészleállító nem állítja le a(z) {1} eszközt.
+La parada de emergencia no detiene {1}.
+
+#3522
+{1} continue de tourner après l'appui sur le bouton STOP.
+{1} continua funcionando depois que o botão STOP é pressionado.
+按下STOP按钮后，{1}仍在继续运行。
+{1} продолжает работать после нажатия кнопки STOP.
+{1} dalej pracuje po naciśnięciu przycisku STOP.
+{1} a STOP gomb megnyomása után is tovább működik.
+{1} sigue funcionando después de pulsar el botón STOP.
+
+#3523
+{1} ne tourne que tant que le bouton START est maintenu (pas de contact d'auto-maintien).
+{1} só funciona enquanto o botão START é mantido pressionado (sem contato de selo).
+{1}只有在按住START按钮时才运行（没有自保持触点）。
+{1} работает только пока удерживается кнопка START (нет контакта самоподхвата).
+{1} pracuje tylko wtedy, gdy przycisk START jest przytrzymany (brak styku samopodtrzymania).
+{1} csak addig működik, amíg a START gombot nyomva tartják (nincs önfenntartó érintkező).
+{1} funciona solo mientras se mantiene pulsado el botón START (sin contacto de autorretención).
+
+#3524
+L'étiquette de réseau "{1}" n'est utilisée qu'une fois, elle ne relie donc rien.
+O rótulo de rede "{1}" é usado só uma vez, então não liga nada.
+网络标签"{1}"只用了一次，所以它什么也连不上。
+Метка цепи "{1}" используется один раз, поэтому ничего не соединяет.
+Etykieta sieci "{1}" jest użyta tylko raz, więc niczego nie łączy.
+A(z) "{1}" hálócímke csak egyszer szerepel, ezért semmit sem köt össze.
+La etiqueta de red "{1}" se usa una sola vez, así que no conecta nada.
+
+#3525
+{1} ({2}) n'est pas alimenté : {3} V entre les broches VCC et GND.
+{1} ({2}) não recebe alimentação: {3} V entre os pinos VCC e GND.
+{1}（{2}）没有得到供电：VCC和GND引脚之间为{3} V。
+{1} ({2}) не получает питание: {3} В между выводами VCC и GND.
+{1} ({2}) nie dostaje zasilania: {3} V między pinami VCC i GND.
+{1} ({2}) nem kap tápot: {3} V a VCC és a GND láb között.
+{1} ({2}) no recibe alimentación: {3} V entre los pines VCC y GND.
+
+#3526
+{1} n'a pas fonctionné dans mes essais. Il a un trajet d'alimentation mais ne fonctionne que dans des conditions que je n'ai pas créées{2}.
+{1} não operou nos meus testes. Tem um caminho de alimentação, mas só opera em condições que eu não criei{2}.
+{1}在我的测试中没有动作。它有供电通路，但只有在我没有创造的条件下才会动作{2}。
+{1} не сработал в моих проверках. У него есть путь питания, но он работает только при условиях, которые я не создавал{2}.
+{1} nie zadziałał w moich testach. Ma tor zasilania, ale działa tylko w warunkach, których nie wytworzyłem{2}.
+{1} nem működött a tesztjeim során. Van betáplálási útja, de csak olyan feltételek mellett működik, amelyeket nem hoztam létre{2}.
+{1} no funcionó en mis pruebas. Tiene un camino de alimentación pero solo funciona en condiciones que no creé{2}.
+
+#3527
+{1} ne {2} dans aucun des essais que j'ai effectués.
+{1} nunca {2} em nenhum dos testes que fiz.
+{1}在我做的所有测试中都从未{2}。
+{1} ни разу не {2} ни в одной из проведённых мной проверок.
+{1} nigdy nie {2} w żadnym z przeprowadzonych przeze mnie testów.
+{1} egyetlen általam futtatott tesztben sem {2}.
+{1} nunca {2} en ninguna de las pruebas que hice.
+
+#3528
+{1} devrait fonctionner dans ce circuit mais ne fonctionne pas. Quelque chose dans le circuit réel est défectueux.
+{1} deveria funcionar neste circuito, mas não funciona. Algo no circuito real está com defeito.
+{1}在这个电路里本该能工作，但实际不工作。实际电路里有某处出了故障。
+{1} должен работать в этой схеме, но не работает. Что-то в реальной схеме неисправно.
+{1} powinien działać w tym obwodzie, ale nie działa. Coś w prawdziwym obwodzie jest uszkodzone.
+Ebben az áramkörben {1} működne, de nem működik. A valódi áramkörben valami hibás.
+{1} debería funcionar en este circuito pero no funciona. Algo del circuito real está averiado.
+
+#3529
+ne fonctionne pas (attend {1})
+não funciona (espera {1})
+不工作（在等待{1}）
+не работает (ждёт {1})
+nie działa (czeka na {1})
+nem működik (erre vár: {1})
+no funciona (espera {1})
+
+#3530
+{1} est sous tension dans tous les essais : aucun interrupteur du circuit ne le commande.
+{1} fica energizado em todos os testes: nenhuma chave do circuito o controla.
+{1}在每次测试中都带电：电路里没有任何开关控制它。
+{1} находится под напряжением во всех проверках: ни один выключатель в схеме им не управляет.
+{1} jest zasilony w każdym teście: żaden łącznik w obwodzie nim nie steruje.
+{1} minden tesztben feszültség alatt van: az áramkörben egyetlen kapcsoló sem vezérli.
+{1} está energizado en todas las pruebas: ningún interruptor del circuito lo controla.
+
+#3531
+Le circuit est correct. Tout ce que j'ai testé fonctionne et je n'ai trouvé aucun problème.{1}
+O circuito está correto. Tudo que testei funciona e não encontrei problemas.{1}
+电路是正确的。我测试的所有东西都能正常工作，没有发现问题。{1}
+Схема правильная. Всё, что я проверил, работает, проблем я не нашёл.{1}
+Obwód jest poprawny. Wszystko, co testowałem, działa i nie znalazłem problemów.{1}
+Az áramkör helyes. Minden, amit teszteltem, működik, és nem találtam hibát.{1}
+El circuito es correcto. Todo lo que probé funciona y no encontré problemas.{1}
+
+#3532
+Le circuit fonctionne mais comporte {1} point(s) à corriger pour la sécurité ou la fiabilité.
+O circuito funciona, mas tem {1} ponto(s) a corrigir por segurança ou confiabilidade.
+电路能工作，但有{1}处需要为安全或可靠性而修改。
+Схема работает, но есть {1} пункт(ов), которые нужно исправить ради безопасности или надёжности.
+Obwód działa, ale ma {1} punkt(ów) do poprawy ze względu na bezpieczeństwo lub niezawodność.
+Az áramkör működik, de {1} pontot ki kell javítani a biztonság vagy a megbízhatóság érdekében.
+El circuito funciona pero tiene {1} punto(s) que corregir por seguridad o fiabilidad.
+
+#3533
+Le circuit comporte {1} erreur(s){2}. Voyez les repères sur le schéma.
+O circuito tem {1} erro(s){2}. Veja as marcas no desenho.
+电路有{1}处错误{2}。请查看图上的标记。
+В схеме {1} ошибок(и){2}. Смотрите отметки на чертеже.
+Obwód ma {1} błąd(ów){2}. Zobacz oznaczenia na rysunku.
+Az áramkörben {1} hiba van{2}. Nézze meg a jelöléseket a rajzon.
+El circuito tiene {1} error(es){2}. Vea las marcas en el dibujo.
+
+#3534
+Cas ({1})
+Casos ({1})
+案例（{1}）
+Случаи ({1})
+Przypadki ({1})
+Esetek ({1})
+Casos ({1})
+
+#3535
+{1} cas enregistrés sur cet appareil. Exportez-les pour les partager avec un collègue ou en garder une sauvegarde.
+{1} casos salvos neste dispositivo. Exporte-os para compartilhar com um colega ou guardar um backup.
+此设备上保存了{1}个案例。可导出后分享给同事，或作为备份保留。
+Сохранённых случаев на этом устройстве: {1}. Экспортируйте их, чтобы поделиться с коллегой или сохранить резервную копию.
+Zapisanych przypadków na tym urządzeniu: {1}. Wyeksportuj je, aby udostępnić koledze lub zachować kopię zapasową.
+{1} elmentett eset van ezen az eszközön. Exportálja őket, hogy megossza egy kollégával, vagy biztonsági másolatot tartson.
+{1} casos guardados en este dispositivo. Expórtelos para compartirlos con un colega o conservar una copia de seguridad.
+
+#3536
+{1} cas importés.
+{1} casos importados.
+已导入{1}个案例。
+Импортировано случаев: {1}.
+Zaimportowano przypadków: {1}.
+{1} eset importálva.
+{1} casos importados.
+
+#3537
+Caractère inattendu "{1}"
+Caractere inesperado "{1}"
+意外的字符"{1}"
+Неожиданный символ "{1}"
+Nieoczekiwany znak "{1}"
+Váratlan karakter: "{1}"
+Carácter inesperado "{1}"
+
+#3538
+Il manque ) après {1}
+Falta ) depois de {1}
+{1}后面缺少 )
+Пропущена ) после {1}
+Brak ) po {1}
+Hiányzó ) a(z) {1} után
+Falta ) después de {1}
+
+#3539
+Nom inconnu "{1}". Utilisez I0, Q0, M0, AI0, AO0.
+Nome desconhecido "{1}". Use I0, Q0, M0, AI0, AO0.
+未知名称"{1}"。请使用 I0、Q0、M0、AI0、AO0。
+Неизвестное имя "{1}". Используйте I0, Q0, M0, AI0, AO0.
+Nieznana nazwa "{1}". Użyj I0, Q0, M0, AI0, AO0.
+Ismeretlen név: "{1}". Használja: I0, Q0, M0, AI0, AO0.
+Nombre desconocido "{1}". Use I0, Q0, M0, AI0, AO0.
+
+#3540
+Inattendu : "{1}"
+Inesperado: "{1}"
+意外的"{1}"
+Неожиданно: "{1}"
+Nieoczekiwane: "{1}"
+Váratlan: "{1}"
+Inesperado: "{1}"
+
+#3541
+{1} nécessite {2} argument(s)
+{1} precisa de {2} argumento(s)
+{1}需要{2}个参数
+{1} требует аргументов: {2}
+{1} wymaga argumentów: {2}
+{1} {2} argumentumot igényel
+{1} necesita {2} argumento(s)
+
+#3542
+Fonction inconnue {1}. Disponibles : TON TOF TP RISE FALL SR BLINK ABS MIN MAX
+Função desconhecida {1}. Disponíveis: TON TOF TP RISE FALL SR BLINK ABS MIN MAX
+未知函数{1}。可用：TON TOF TP RISE FALL SR BLINK ABS MIN MAX
+Неизвестная функция {1}. Доступны: TON TOF TP RISE FALL SR BLINK ABS MIN MAX
+Nieznana funkcja {1}. Dostępne: TON TOF TP RISE FALL SR BLINK ABS MIN MAX
+Ismeretlen függvény: {1}. Elérhető: TON TOF TP RISE FALL SR BLINK ABS MIN MAX
+Función desconocida {1}. Disponibles: TON TOF TP RISE FALL SR BLINK ABS MIN MAX
+
+#3543
+Texte en trop après l'expression : "{1}"
+Texto extra depois da expressão: "{1}"
+表达式后面有多余文字："{1}"
+Лишний текст после выражения: "{1}"
+Dodatkowy tekst po wyrażeniu: "{1}"
+Felesleges szöveg a kifejezés után: "{1}"
+Texto sobrante tras la expresión: "{1}"
+
+#3544
+Point ouvert : {1} (contacts {2}) ouverts. Tension présente en amont : {3} V. {4}
+Ponto aberto: {1} (contatos {2}) estão abertos. Tensão presente a montante: {3} V. {4}
+断开点：{1}（触点 {2}）处于断开状态。上游的电压：{3} V。{4}
+Разрыв: {1} (контакты {2}) разомкнуты. Напряжение выше по цепи: {3} В. {4}
+Otwarty punkt: {1} (styki {2}) są otwarte. Napięcie wcześniej w obwodzie: {3} V. {4}
+Nyitott pont: {1} (érintkezők: {2}) nyitva vannak. Feszültség az áramkör elején: {3} V. {4}
+Punto abierto: {1} (contactos {2}) están abiertos. Tensión presente aguas arriba: {3} V. {4}
+
+#3545
+{1} a verrouillé {2}. Aucune étiquette posée pour l'instant.
+{1} bloqueou {2}. Nenhuma etiqueta colocada ainda.
+{1}锁住了{2}。还没有挂标签。
+{1} заблокировал(а) {2}. Бирка пока не повешена.
+{1} zablokował(a) {2}. Nie założono jeszcze zawieszki.
+{1} lezárta a(z) {2} pontot. Még nincs címke rajta.
+{1} bloqueó {2}. Todavía no hay etiqueta.
+
+#3546
+{1} est encore ouvert. C'est un vrai point d'isolement.
+{1} ainda está aberto. É um ponto de isolamento real.
+{1}仍然是断开的。它是一个真正的隔离点。
+{1} всё ещё разомкнут. Это настоящая точка изоляции.
+{1} nadal jest otwarty. To prawdziwy punkt odcięcia.
+{1} még mindig nyitva van. Ez egy valódi leválasztási pont.
+{1} sigue abierto. Es un punto de aislamiento real.
+
+#3547
+Le bus continu indique {1} V. Encore dangereux : attendez davantage.
+O barramento CC lê {1} V. Ainda perigoso: aguarde mais.
+直流母线读数为{1} V。仍然有危险：请再等一会儿。
+Шина постоянного тока показывает {1} В. Всё ещё опасно: подождите ещё.
+Szyna DC wskazuje {1} V. Nadal niebezpiecznie: poczekaj dłużej.
+A DC köztes kör {1} V-ot mutat. Még veszélyes: várjon tovább.
+El bus de CC lee {1} V. Aún es peligroso: espere más.
+
+#3548
+{1} x {2} ajouté. Faites glisser pour placer, touchez deux bornes pour câbler.
+Adicionado {1} x {2}. Arraste para posicionar, toque em dois terminais para ligar.
+已添加{1} x {2}。拖动来摆放，点击两个端子来连线。
+Добавлено {1} x {2}. Перетащите для размещения, нажмите две клеммы, чтобы соединить.
+Dodano {1} x {2}. Przeciągnij, aby umieścić, dotknij dwóch zacisków, aby połączyć.
+Hozzáadva: {1} x {2}. Húzza a helyére, és két kapocs megérintésével kösse be.
+Añadido {1} x {2}. Arrastre para colocar, toque dos bornes para cablear.
+
+#3549
+s'allume
+acende
+亮起
+загорается
+świeci się
+világít
+se enciende
+
+#3550
+tourne
+gira
+运转
+вращается
+pracuje
+forog
+gira
+
+#3551
+fonctionne
+opera
+动作
+работает
+działa
+működik
+funciona
+
+#3552
+: {1} appareil(s) ne fonctionneront pas
+: {1} dispositivo(s) não vão funcionar
+：{1}个器件将无法工作
+: {1} устройств не будут работать
+: {1} urządzeń nie będzie działać
+: {1} eszköz nem fog működni
+: {1} dispositivo(s) no funcionarán
+
+#3553
+ {1} appareil(s) fonctionnent.
+ {1} dispositivo(s) funcionando.
+ 有{1}个器件工作正常。
+ Работает устройств: {1}.
+ Działających urządzeń: {1}.
+ {1} eszköz működik.
+ {1} dispositivo(s) funcionando.
+
+#3554
+La broche "{1}" n'existe pas sur {2}. 
+O pino "{1}" não existe em {2}. 
+{2}上没有名为"{1}"的引脚。 
+У {2} нет вывода "{1}". 
+Pin "{1}" nie istnieje w {2}. 
+A(z) {2} eszközön nincs "{1}" láb. 
+El pin "{1}" no existe en {2}. 
+
+#3555
+Quelle borne de {1} ? 
+Qual terminal de {1}? 
+{1}的哪个端子？ 
+Какая клемма у {1}? 
+Który zacisk {1}? 
+A(z) {1} melyik kapcsa? 
+¿Qué borne de {1}? 
+
+#3556
+brûle
+queima
+烧毁
+сгорает
+pali się
+kiég
+se quema

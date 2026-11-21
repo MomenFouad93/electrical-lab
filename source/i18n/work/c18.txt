@@ -1,0 +1,2069 @@
+#3286
+Condensateurs gonflés sur la carte d'alimentation
+Capacitores estufados na placa da fonte
+电源板上的电容鼓包
+Вздутые конденсаторы на плате питания
+Wybrzuszone kondensatory na płytce zasilania
+Kidudorodott kondenzátorok a tápkártyán
+Condensadores hinchados en la placa de alimentación
+
+#3287
+Connecteur ou câble de communication endommagé
+Conector ou cabo de comunicação danificado
+通讯连接器或电缆损坏
+Повреждён разъём или кабель связи
+Uszkodzone złącze lub kabel komunikacyjny
+Sérült kommunikációs csatlakozó vagy kábel
+Conector o cable de comunicación dañado
+
+#3288
+Rétroéclairage faible ou une moitié sombre
+Luz de fundo fraca ou uma metade escura
+背光偏暗或一半发黑
+Подсветка тусклая или одна половина тёмная
+Podświetlenie przygaszone lub jedna połowa ciemna
+A háttérvilágítás halvány vagy az egyik fele sötét
+Retroiluminación tenue o una mitad oscura
+
+#3289
+24 V bas ou absent
+24 V baixo ou ausente
+24 V偏低或没有
+24 В низкое или отсутствует
+24 V niskie lub brak
+A 24 V alacsony vagy hiányzik
+24 V bajo o ausente
+
+#3290
+Mesurez aux bornes de l'IHM en charge. Corrigez l'alimentation ou la chute de tension.
+Meça nos terminais da IHM sob carga. Corrija a alimentação ou a queda de tensão.
+带载时在HMI端子处测量。纠正电源或压降。
+Измерьте на клеммах HMI под нагрузкой. Исправьте питание или падение напряжения.
+Zmierz na zaciskach HMI pod obciążeniem. Napraw zasilanie lub spadek napięcia.
+Mérjen az HMI kapcsain terhelés alatt. Javítsa a betáplálást vagy a feszültségesést.
+Mida en los bornes del HMI bajo carga. Corrija la alimentación o la caída de tensión.
+
+#3291
+Rétroéclairage défaillant
+Luz de fundo com falha
+背光损坏
+Отказ подсветки
+Uszkodzone podświetlenie
+Meghibásodott háttérvilágítás
+Retroiluminación averiada
+
+#3292
+Remplacez le rétroéclairage, la dalle ou l'appareil. L'image peut rester visible avec une lampe torche.
+Substitua a luz de fundo, o painel ou a unidade. A imagem ainda pode ser visível com uma lanterna.
+更换背光、面板或整机。用手电筒照一下，可能仍能看到画面。
+Замените подсветку, панель или весь прибор. Изображение может быть ещё видно при свете фонарика.
+Wymień podświetlenie, panel lub całe urządzenie. Obraz może być nadal widoczny w świetle latarki.
+Cserélje a háttérvilágítást, a panelt vagy az egész egységet. A kép zseblámpával még látható lehet.
+Sustituya la retroiluminación, el panel o la unidad. La imagen aún puede verse con una linterna.
+
+#3293
+Couche tactile endommagée ou à étalonner
+Camada de toque danificada ou precisa de calibração
+触摸层损坏或需要校准
+Сенсорный слой повреждён или требует калибровки
+Warstwa dotykowa uszkodzona lub wymaga kalibracji
+Az érintőréteg sérült vagy kalibrálást igényel
+Capa táctil dañada o que necesita calibración
+
+#3294
+Étalonnez le tactile. Remplacez la couche tactile ou l'appareil si elle est endommagée.
+Calibre o toque. Substitua a camada de toque ou a unidade se estiver danificada.
+校准触摸。如果触摸层损坏，就更换触摸层或整机。
+Откалибруйте сенсор. Замените сенсорный слой или весь прибор, если он повреждён.
+Skalibruj dotyk. Wymień warstwę dotykową lub urządzenie, jeśli jest uszkodzone.
+Kalibrálja az érintést. Cserélje az érintőréteget vagy az egységet, ha sérült.
+Calibre el tacto. Sustituya la capa táctil o la unidad si está dañada.
+
+#3295
+Câble de communication ou réglages
+Cabo de comunicação ou configurações
+通讯电缆或设置
+Кабель связи или настройки
+Kabel komunikacyjny lub ustawienia
+Kommunikációs kábel vagy beállítások
+Cable de comunicación o ajustes
+
+#3296
+Vérifiez le câble, l'IP / le débit / l'adresse de nœud, et le port de l'automate.
+Verifique o cabo, IP / baud / endereço do nó e a porta do CLP.
+检查电缆、IP / 波特率 / 节点地址，以及PLC端口。
+Проверьте кабель, IP / скорость / адрес узла и порт ПЛК.
+Sprawdź kabel, IP / prędkość transmisji / adres węzła oraz port PLC.
+Ellenőrizze a kábelt, az IP-t / baudrátát / csomópontcímet és a PLC portját.
+Compruebe el cable, IP / baudios / dirección de nodo, y el puerto del PLC.
+
+#3297
+Électrolytiques défaillants sur la carte d'alimentation
+Eletrolíticos com falha na placa da fonte
+电源板上的电解电容失效
+Отказ электролитов на плате питания
+Uszkodzone elektrolity na płytce zasilania
+Meghibásodott elektrolit kondenzátorok a tápkártyán
+Electrolíticos averiados en la placa de alimentación
+
+#3298
+Remplacez les condensateurs ou l'appareil.
+Substitua os capacitores ou a unidade.
+更换电容或整机。
+Замените конденсаторы или весь прибор.
+Wymień kondensatory lub urządzenie.
+Cserélje a kondenzátorokat vagy az egységet.
+Sustituya los condensadores o la unidad.
+
+#3299
+Projet corrompu ou mémoire pleine
+Projeto corrompido ou memória cheia
+工程文件损坏或存储已满
+Повреждён проект или память заполнена
+Uszkodzony projekt lub pełna pamięć
+Sérült projekt vagy tele memória
+Proyecto corrupto o memoria llena
+
+#3300
+Rechargez le projet depuis la sauvegarde, effacez les journaux, mettez à jour le firmware.
+Recarregue o projeto do backup, limpe os logs e atualize o firmware.
+从备份重新下载工程，清除日志，升级固件。
+Загрузите проект из резервной копии заново, очистите журналы, обновите прошивку.
+Wczytaj projekt z kopii zapasowej, wyczyść logi, zaktualizuj firmware.
+Töltse vissza a projektet a mentésből, törölje a naplókat, frissítse a firmware-t.
+Recargue el proyecto desde la copia de seguridad, borre los registros y actualice el firmware.
+
+#3301
+Infiltration d'humidité ou de poussière
+Entrada de umidade ou poeira
+进水受潮或进灰
+Проникновение влаги или пыли
+Wnikanie wilgoci lub kurzu
+Nedvesség vagy por behatolása
+Entrada de humedad o polvo
+
+#3302
+Séchez et nettoyez la carte, remplacez le joint, protégez avec l'indice IP correct.
+Seque e limpe a placa, substitua a vedação e proteja com o grau IP correto.
+烘干并清洁电路板，更换密封圈，并采用正确的防护等级（IP）。
+Просушите и очистите плату, замените прокладку, обеспечьте защиту нужной степени IP.
+Osusz i wyczyść płytkę, wymień uszczelkę, zabezpiecz odpowiednim stopniem ochrony IP.
+Szárítsa és tisztítsa meg a kártyát, cserélje a tömítést, és biztosítsa a megfelelő IP védettséget.
+Seque y limpie la placa, sustituya la junta y proteja con el grado IP correcto.
+
+#3303
+Correcte et stable
+Correto e estável
+正常且稳定
+Верное и стабильное
+Prawidłowe i stabilne
+Helyes és állandó
+Correcta y estable
+
+#3304
+Basse, absente ou qui chute
+Baixa, ausente ou caindo
+偏低、没有或在下跌
+Низкое, отсутствует или падает
+Niskie, brak lub spada
+Alacsony, hiányzik vagy esik
+Baja, ausente o descendiendo
+
+#3305
+Tension aux bornes de l'IHM
+Tensão nos terminais da IHM
+HMI端子处的电压
+Напряжение на клеммах HMI
+Napięcie na zaciskach HMI
+Feszültség az HMI kapcsain
+Tensión en los bornes del HMI
+
+#3306
+Mesurez les 24 V aux bornes d'alimentation de l'IHM pendant qu'elle essaie de démarrer.
+Meça os 24 V nos terminais de alimentação da IHM enquanto ela tenta ligar.
+在HMI尝试启动的时候，测量它电源端子上的24 V。
+Измерьте 24 В на клеммах питания HMI в момент попытки запуска.
+Zmierz 24 V na zaciskach zasilania HMI, gdy próbuje się uruchomić.
+Mérje meg a 24 V-ot az HMI tápkapcsain, amíg próbál elindulni.
+Mida los 24 V en los bornes de alimentación del HMI mientras intenta arrancar.
+
+#3307
+Image faible visible
+Imagem fraca visível
+能看到微弱的画面
+Виден слабый образ
+Widoczny słaby obraz
+Halvány kép látható
+Se ve una imagen tenue
+
+#3308
+Éclairez l'écran noir à la lampe torche, en biais
+Ilumine a tela escura com uma lanterna em ângulo
+用手电筒斜着照黑屏
+Посветите фонариком под углом на тёмный экран
+Poświeć latarką pod kątem na ciemny ekran
+Világítson zseblámpával ferdén a sötét képernyőre
+Ilumine la pantalla oscura con una linterna en ángulo
+
+#3309
+Si une image faible est visible, l'écran fonctionne et le rétroéclairage est en panne.
+Se uma imagem fraca estiver visível, a tela está funcionando e a luz de fundo falhou.
+如果能看到微弱的画面，说明屏幕在工作，是背光坏了。
+Если виден слабый образ, экран работает, а подсветка вышла из строя.
+Jeśli widać słaby obraz, ekran działa, a podświetlenie jest uszkodzone.
+Ha halvány kép látható, a képernyő működik, és a háttérvilágítás hibás.
+Si se ve una imagen tenue, la pantalla funciona y la retroiluminación ha fallado.
+
+#3310
+Liaison établie et réglages concordants
+Link ativo e configurações coincidem
+链路正常，设置一致
+Связь есть, настройки совпадают
+Łącze działa i ustawienia się zgadzają
+A kapcsolat él és a beállítások egyeznek
+Enlace establecido y ajustes coinciden
+
+#3311
+Pas de liaison ou réglages différents
+Sem link ou configurações diferentes
+无链路或设置不一致
+Нет связи или настройки не совпадают
+Brak łącza lub niezgodność ustawień
+Nincs kapcsolat vagy eltérnek a beállítások
+Sin enlace o ajustes distintos
+
+#3312
+Vérifier le câble et les réglages de communication
+Verificar o cabo e as configurações de comunicação
+检查电缆和通讯设置
+Проверьте кабель и настройки связи
+Sprawdź kabel i ustawienia komunikacji
+Ellenőrizze a kábelt és a kommunikációs beállításokat
+Comprobar el cable y los ajustes de comunicación
+
+#3313
+Faites un ping ou regardez les LED de liaison ; comparez IP / débit / adresse dans l'IHM et l'automate.
+Faça ping ou verifique os LEDs de link; compare IP / baud / endereço na IHM e no CLP.
+用ping测试或查看链路LED；对比HMI和PLC里的IP / 波特率 / 地址。
+Выполните ping или посмотрите светодиоды связи; сравните IP / скорость / адрес в HMI и в ПЛК.
+Wykonaj ping lub sprawdź diody łącza; porównaj IP / prędkość / adres w HMI i w PLC.
+Pingelje meg vagy nézze a kapcsolat-LED-eket; vesse össze az IP-t / baudrátát / címet az HMI-ben és a PLC-ben.
+Haga ping o mire los LED de enlace; compare IP / baudios / dirección en el HMI y en el PLC.
+
+#3314
+Répond correctement
+Responde corretamente
+响应正常
+Реагирует правильно
+Reaguje prawidłowo
+Helyesen reagál
+Responde correctamente
+
+#3315
+Zones mortes ou décalage
+Zonas mortas ou deslocamento
+有失灵区域或位置偏移
+Мёртвые зоны или смещение
+Martwe strefy lub przesunięcie
+Holt zónák vagy eltolódás
+Zonas muertas o desplazamiento
+
+#3316
+Lancez l'étalonnage tactile ou l'écran de test tactile
+Execute a calibração do toque ou a tela de teste de toque
+运行触摸校准或触摸测试界面
+Запустите калибровку сенсора или экран проверки сенсора
+Uruchom kalibrację dotyku lub ekran testu dotyku
+Futtassa az érintéskalibrációt vagy az érintésteszt képernyőt
+Ejecute la calibración táctil o la pantalla de prueba táctil
+
+#3317
+Ouvrez le test tactile ou étalonnez. Vérifiez si le décalage est uniforme.
+Abra o teste de toque ou calibre. Verifique se o deslocamento é uniforme.
+打开触摸测试或进行校准。查看偏移是否均匀。
+Откройте проверку сенсора или откалибруйте. Проверьте, равномерно ли смещение.
+Otwórz test dotyku lub skalibruj. Sprawdź, czy przesunięcie jest równomierne.
+Nyissa meg az érintésteszt vagy kalibráljon. Nézze meg, egyenletes-e az eltolódás.
+Abra la prueba táctil o calibre. Compruebe si el desplazamiento es uniforme.
+
+#3318
+Onduleur (UPS) ou système de batteries
+No-break (UPS) ou sistema de baterias
+UPS或电池系统
+ИБП или система аккумуляторов
+UPS lub system akumulatorów
+UPS vagy akkumulátorrendszer
+SAI (UPS) o sistema de baterías
+
+#3319
+Les batteries sont le premier suspect : âge de plus de 3 à 5 ans, chaleur ou boîtiers gonflés.
+As baterias são o primeiro suspeito: idade acima de 3 a 5 anos, calor ou caixas estufadas.
+首先怀疑电池：使用超过3到5年、受热，或外壳鼓胀。
+Первое подозрение падает на аккумуляторы: возраст больше 3–5 лет, нагрев или вздувшиеся корпуса.
+Pierwsze podejrzenie padają na akumulatory: wiek powyżej 3 do 5 lat, ciepło lub spęczniałe obudowy.
+Az akkumulátorok a fő gyanúsítottak: 3–5 évnél öregebb, hő vagy kidudorodott ház.
+Las baterías son el primer sospechoso: más de 3 a 5 años, calor o carcasas hinchadas.
+
+#3320
+N'ouvrez pas les batteries étanches. Portez une protection oculaire et isolez vos outils.
+Não abra baterias seladas. Use proteção para os olhos e isole suas ferramentas.
+不要打开密封电池。戴上护目镜，并使用绝缘工具。
+Не вскрывайте герметичные аккумуляторы. Используйте защиту глаз и изолируйте инструмент.
+Nie otwieraj akumulatorów szczelnych. Noś ochronę oczu i izoluj narzędzia.
+Ne nyissa fel a zárt akkumulátorokat. Viseljen szemvédőt, és szigetelje a szerszámait.
+No abra las baterías selladas. Use protección ocular y aísle sus herramientas.
+
+#3321
+Autonomie courte ou nulle
+Tempo de autonomia curto ou nenhum
+后备时间短或没有
+Короткое или нулевое время автономии
+Krótki lub zerowy czas podtrzymania
+Rövid vagy semmilyen tartalék idő
+Autonomía corta o nula
+
+#3322
+Alarme batterie ou voyant de remplacement de batterie
+Alarme de bateria ou luz de trocar bateria
+电池告警或更换电池指示灯
+Сигнал тревоги по аккумулятору или лампа замены аккумулятора
+Alarm baterii lub kontrolka wymiany baterii
+Akkumulátor-riasztás vagy akkumulátorcsere-jelző
+Alarma de batería o luz de cambiar batería
+
+#3323
+Ne s'allume pas
+Não liga
+无法开机
+Не включается
+Nie włącza się
+Nem kapcsol be
+No se enciende
+
+#3324
+Bloqué en bypass
+Travado em bypass
+卡在旁路模式
+Застрял на байпасе
+Zablokowany na bypassie
+Beragadt bypass üzemmódban
+Atascado en bypass
+
+#3325
+Chaud ou sent mauvais
+Quente ou com cheiro
+发烫或有异味
+Горячий или пахнет
+Gorący lub brzydko pachnie
+Forró vagy szaga van
+Caliente o huele mal
+
+#3326
+Bruit de ventilateur ou alarme ventilateur
+Ruído do ventilador ou alarme do ventilador
+风扇噪声或风扇告警
+Шум вентилятора или тревога по вентилятору
+Hałas wentylatora lub alarm wentylatora
+Ventilátorzaj vagy ventilátor-riasztás
+Ruido del ventilador o alarma del ventilador
+
+#3327
+Alarme de surcharge
+Alarme de sobrecarga
+过载告警
+Сигнал перегрузки
+Alarm przeciążenia
+Túlterhelés-riasztás
+Alarma de sobrecarga
+
+#3328
+Boîtier de batterie gonflé ou qui fuit
+Caixa da bateria estufada ou vazando
+电池外壳鼓胀或漏液
+Корпус аккумулятора вздут или течёт
+Obudowa akumulatora spęczniała lub cieknąca
+Az akkumulátorház kidudorodott vagy szivárog
+Carcasa de la batería hinchada o con fugas
+
+#3329
+Batteries de plus de 4 ans
+Baterias com mais de 4 anos
+电池使用超过4年
+Аккумуляторы старше 4 лет
+Akumulatory starsze niż 4 lata
+4 évnél öregebb akkumulátorok
+Baterías de más de 4 años
+
+#3330
+Bornes de batterie corrodées ou desserrées
+Terminais da bateria corroídos ou soltos
+电池端子腐蚀或松动
+Клеммы аккумулятора корродировали или ослабли
+Zaciski akumulatora skorodowane lub luźne
+Az akkumulátor kapcsai korrodáltak vagy lazák
+Bornes de la batería corroídos o flojos
+
+#3331
+Poussière ou ouïes bouchées
+Poeira ou aberturas bloqueadas
+灰尘多或通风口堵塞
+Пыль или забитые вентиляционные отверстия
+Kurz lub zablokowane otwory wentylacyjne
+Por vagy eltömődött szellőzőnyílások
+Polvo o rejillas bloqueadas
+
+#3332
+Local plus chaud que 30 °C
+Ambiente mais quente que 30 °C
+机房温度高于30 °C
+Помещение теплее 30 °C
+Pomieszczenie cieplejsze niż 30 °C
+A helyiség 30 °C-nál melegebb
+Local más caliente de 30 °C
+
+#3333
+Charge proche ou au-dessus de la valeur nominale
+Carga próxima ou acima do valor nominal
+负载接近或超过额定值
+Нагрузка близка к номиналу или выше него
+Obciążenie bliskie wartości znamionowej lub powyżej
+A terhelés közel van a névleges értékhez vagy felette
+Carga cercana o por encima del valor nominal
+
+#3334
+Batteries en fin de vie
+Baterias no fim da vida útil
+电池寿命终结
+Аккумуляторы на исходе ресурса
+Akumulatory u kresu żywotności
+Az akkumulátorok élettartamuk végén járnak
+Baterías al final de su vida útil
+
+#3335
+Remplacez toute la chaîne en une fois par le même type. Notez la date.
+Substitua todo o conjunto de uma vez pelo mesmo tipo. Registre a data.
+整串电池一次性全部更换，使用同一型号。记录更换日期。
+Заменяйте всю цепочку сразу на аккумуляторы того же типа. Запишите дату.
+Wymień cały łańcuch naraz na ten sam typ. Zapisz datę.
+Cserélje az egész sort egyszerre azonos típusúra. Jegyezze fel a dátumot.
+Sustituya toda la serie de una vez por el mismo tipo. Anote la fecha.
+
+#3336
+Remplacez selon un calendrier et gardez le local frais (chaque tranche de 10 K au-dessus de 25 °C divise par deux la durée de vie des batteries).
+Substitua conforme a programação e mantenha o ambiente fresco (a cada 10 K acima de 25 °C a vida da bateria cai pela metade).
+按计划更换，并保持机房凉爽（温度每比25 °C高10 K，电池寿命减半）。
+Заменяйте по графику и держите помещение прохладным (каждые 10 К выше 25 °C сокращают срок службы аккумулятора вдвое).
+Wymieniaj według harmonogramu i utrzymuj pomieszczenie w chłodzie (każde 10 K powyżej 25 °C skraca żywotność akumulatora o połowę).
+Cserélje ütemezetten, és tartsa hűvösen a helyiséget (a 25 °C feletti minden 10 K felezi az akkumulátor élettartamát).
+Sustituya según un calendario y mantenga fresco el local (cada 10 K por encima de 25 °C reduce a la mitad la vida de la batería).
+
+#3337
+Connexion de batterie desserrée ou corrodée
+Conexão da bateria solta ou corroída
+电池连接松动或腐蚀
+Ослабленное или корродированное соединение аккумулятора
+Luźne lub skorodowane połączenie akumulatora
+Laza vagy korrodált akkumulátor-csatlakozás
+Conexión de batería floja o corroída
+
+#3338
+Nettoyez, reconnectez et serrez les liaisons au couple.
+Limpe, refaça a terminação e aplique torque nas ligações.
+清洁、重新接线，并按扭矩拧紧连接片。
+Очистите, заново подключите и затяните перемычки с нужным моментом.
+Wyczyść, wykonaj połączenia na nowo i dokręć łączniki momentem.
+Tisztítsa meg, kösse be újra, és húzza meg az áthidalókat az előírt nyomatékkal.
+Limpie, vuelva a conectar y apriete las uniones al par.
+
+#3339
+UPS en surcharge
+UPS sobrecarregado
+UPS过载
+ИБП перегружен
+UPS przeciążony
+Túlterhelt UPS
+SAI sobrecargado
+
+#3340
+Réduisez la charge, répartissez-la ou prenez un UPS plus gros. Prévoyez 20 % de marge.
+Reduza a carga, distribua-a ou aumente a capacidade do UPS. Deixe 20 % de folga.
+减小负载、分摊负载，或换更大容量的UPS。留出20 %的余量。
+Уменьшите нагрузку, распределите её или возьмите ИБП большей мощности. Оставьте запас 20 %.
+Zmniejsz obciążenie, rozłóż je lub zwiększ moc UPS. Zostaw 20 % zapasu.
+Csökkentse a terhelést, ossza el, vagy válasszon nagyobb UPS-t. Hagyjon 20 % tartalékot.
+Reduzca la carga, repártala o aumente el tamaño del SAI. Deje un 20 % de margen.
+
+#3341
+Nettoyez les ouïes, remplacez le ventilateur, améliorez le refroidissement du local.
+Limpe as aberturas, substitua o ventilador e melhore a refrigeração do ambiente.
+清洁通风口，更换风扇，改善机房散热。
+Очистите вентиляционные отверстия, замените вентилятор, улучшите охлаждение помещения.
+Wyczyść otwory wentylacyjne, wymień wentylator, popraw chłodzenie pomieszczenia.
+Tisztítsa meg a szellőzőnyílásokat, cserélje a ventilátort, javítsa a helyiség hűtését.
+Limpie las rejillas, sustituya el ventilador y mejore la refrigeración del local.
+
+#3342
+Défaut du chargeur
+Falha do carregador
+充电器故障
+Неисправность зарядного устройства
+Usterka ładowarki
+Töltőhiba
+Fallo del cargador
+
+#3343
+Mesurez la tension de floating ; comparez avec la spécification de la batterie ; réparez le chargeur ou remplacez l'appareil.
+Meça a tensão de flutuação; compare com a especificação da bateria; repare o carregador ou substitua a unidade.
+测量浮充电压；与电池规格对比；维修充电器或更换整机。
+Измерьте напряжение поддерживающего заряда; сравните со спецификацией аккумулятора; отремонтируйте зарядное устройство или замените блок.
+Zmierz napięcie ładowania podtrzymującego; porównaj ze specyfikacją akumulatora; napraw ładowarkę lub wymień urządzenie.
+Mérje meg a lebegtető feszültséget; vesse össze az akkumulátor specifikációjával; javítsa a töltőt, vagy cserélje az egységet.
+Mida la tensión de flotación; compárela con la especificación de la batería; repare el cargador o sustituya la unidad.
+
+#3344
+Défaillance de l'onduleur ou de l'étage de puissance
+Falha do inversor ou do estágio de potência
+逆变器或功率级故障
+Отказ инвертора или силового каскада
+Uszkodzenie falownika lub stopnia mocy
+Inverter vagy teljesítményfokozat meghibásodása
+Fallo del inversor o de la etapa de potencia
+
+#3345
+Appelez le service ou remplacez l'appareil ; vérifiez d'abord les fusibles d'entrée et les fusibles CC.
+Chame a assistência ou substitua a unidade; verifique primeiro os fusíveis de entrada e os fusíveis CC.
+联系服务人员或更换整机；先检查输入熔断器和直流熔断器。
+Вызовите сервис или замените блок; сначала проверьте входные предохранители и предохранители постоянного тока.
+Wezwij serwis lub wymień urządzenie; najpierw sprawdź bezpieczniki wejściowe i bezpieczniki DC.
+Hívja a szervizt vagy cserélje az egységet; először a bemeneti és a DC biztosítékokat ellenőrizze.
+Llame al servicio o sustituya la unidad; compruebe primero los fusibles de entrada y los de CC.
+
+#3346
+Blocs égaux et stables
+Blocos iguais e estáveis
+各电池块一致且稳定
+Блоки одинаковые и стабильные
+Bloki równe i stabilne
+A blokkok egyformák és állandók
+Bloques iguales y estables
+
+#3347
+Un ou plusieurs blocs bas
+Um ou mais blocos baixos
+有一块或多块偏低
+Один или несколько блоков низкие
+Jeden lub więcej bloków niskich
+Egy vagy több blokk alacsony
+Uno o más bloques bajos
+
+#3348
+S'effondre en charge
+Cai sob carga
+带载时电压垮掉
+Падает под нагрузкой
+Załamuje się pod obciążeniem
+Terhelés alatt összeomlik
+Se hunde bajo carga
+
+#3349
+Tension de la chaîne de batteries en charge et en décharge
+Tensão da cadeia de baterias em carga e sob carga
+电池串在充电和带载时的电压
+Напряжение цепочки аккумуляторов при заряде и под нагрузкой
+Napięcie łańcucha akumulatorów podczas ładowania i pod obciążeniem
+Az akkumulátorsor feszültsége töltés közben és terhelés alatt
+Tensión de la serie de baterías en carga y bajo carga
+
+#3350
+En floating, mesurez la chaîne et chaque bloc. Puis déchargez brièvement et observez la tension.
+Em flutuação, meça a cadeia e cada bloco. Depois descarregue brevemente e observe a tensão.
+在浮充状态下，测量整串和每个电池块。然后短时放电，观察电压。
+В режиме поддерживающего заряда измерьте всю цепочку и каждый блок. Затем ненадолго разрядите и наблюдайте за напряжением.
+Na ładowaniu podtrzymującym zmierz cały łańcuch i każdy blok. Potem krótko rozładuj i obserwuj napięcie.
+Lebegtető töltésnél mérje meg az egész sort és minden blokkot. Majd röviden süsse ki, és figyelje a feszültséget.
+En flotación, mida la serie y cada bloque. Luego descargue brevemente y observe la tensión.
+
+#3351
+Portez une protection oculaire ; ne court-circuitez pas les bornes.
+Use proteção para os olhos; não coloque os terminais em curto.
+戴上护目镜；不要短接端子。
+Используйте защиту глаз; не замыкайте клеммы.
+Noś ochronę oczu; nie zwieraj zacisków.
+Viseljen szemvédőt; ne zárja rövidre a kapcsokat.
+Use protección ocular; no cortocircuite los bornes.
+
+#3352
+Réussit avec une bonne autonomie
+Passa com boa autonomia
+通过，后备时间良好
+Проходит с хорошей автономией
+Przechodzi z dobrym czasem podtrzymania
+Sikeres, jó tartalék idővel
+Pasa con buena autonomía
+
+#3353
+Échoue ou autonomie courte
+Falha ou autonomia curta
+未通过或后备时间短
+Не проходит или автономия короткая
+Nie przechodzi lub krótki czas podtrzymania
+Sikertelen vagy rövid tartalék idő
+Falla o autonomía corta
+
+#3354
+Lancer l'autotest du UPS ou un essai en charge
+Executar o autoteste do UPS ou um teste de carga
+运行UPS自检或带载测试
+Запустить самотестирование ИБП или проверку под нагрузкой
+Uruchom autotest UPS lub test obciążeniowy
+Futtassa az UPS önellenőrzését vagy egy terhelési tesztet
+Ejecutar el autotest del SAI o una prueba de carga
+
+#3355
+Utilisez l'autotest du UPS ou un essai en charge contrôlé et notez l'autonomie.
+Use o autoteste do UPS ou um teste de carga controlado e anote a autonomia.
+使用UPS自检或受控的带载测试，并记下后备时间。
+Используйте самотестирование ИБП или контролируемую проверку под нагрузкой и запишите время автономии.
+Użyj autotestu UPS lub kontrolowanego testu obciążeniowego i zanotuj czas podtrzymania.
+Használja az UPS önellenőrzését vagy egy kontrollált terhelési tesztet, és jegyezze fel a tartalék időt.
+Use el autotest del SAI o una prueba de carga controlada y anote la autonomía.
+
+#3356
+Moins de 80 %
+Abaixo de 80 %
+低于80 %
+Меньше 80 %
+Poniżej 80 %
+80 % alatt
+Menos del 80 %
+
+#3357
+Plus de 80 %
+Acima de 80 %
+高于80 %
+Больше 80 %
+Powyżej 80 %
+80 % felett
+Más del 80 %
+
+#3358
+Lire le pourcentage de charge et comparer à la valeur nominale
+Ler a porcentagem de carga e comparar com o valor nominal
+读取负载百分比并与额定值对比
+Прочитайте процент нагрузки и сравните с номиналом
+Odczytaj procent obciążenia i porównaj z wartością znamionową
+Olvassa le a terhelés százalékát, és vesse össze a névleges értékkel
+Leer el porcentaje de carga y compararlo con el valor nominal
+
+#3359
+Lisez la charge sur l'afficheur du UPS et mesurez la sortie à la pince.
+Leia a carga no display do UPS e meça a saída com o alicate.
+在UPS显示屏上读取负载，并用钳形表测输出。
+Прочитайте нагрузку на дисплее ИБП и измерьте выход токоизмерительными клещами.
+Odczytaj obciążenie na wyświetlaczu UPS i zmierz wyjście cęgami.
+Olvassa le a terhelést az UPS kijelzőjén, és mérje meg a kimenetet lakatfogóval.
+Lea la carga en la pantalla del SAI y mida la salida con la pinza.
+
+#3360
+Aucun point chaud
+Sem ponto quente
+没有热点
+Горячих точек нет
+Brak gorących punktów
+Nincs forró pont
+Sin punto caliente
+
+#3361
+Une liaison ou une zone d'ouïes chaude
+Uma ligação ou área de aberturas quente
+某个连接片或通风口区域发热
+Горячая перемычка или область вентиляции
+Gorący łącznik lub obszar otworów wentylacyjnych
+Egy forró áthidaló vagy szellőzőnyílás-terület
+Una unión o zona de rejillas caliente
+
+#3362
+Contrôle thermique des connexions de batterie et des ouïes
+Verificação térmica das conexões da bateria e das aberturas
+对电池连接和通风口做热成像检查
+Тепловизионная проверка соединений аккумуляторов и вентиляционных отверстий
+Kontrola termiczna połączeń akumulatorów i otworów wentylacyjnych
+Az akkumulátor-csatlakozások és a szellőzőnyílások hőellenőrzése
+Revisión térmica de las conexiones de la batería y de las rejillas
+
+#3363
+Caméra thermique ou IR sur les liaisons, les fusibles et les ouïes.
+Câmera térmica ou IR nas ligações, fusíveis e aberturas.
+用热像仪或红外测温枪检查连接片、熔断器和通风口。
+Тепловизор или ИК-термометр на перемычки, предохранители и вентиляционные отверстия.
+Kamera termowizyjna lub IR na łącznikach, bezpiecznikach i otworach wentylacyjnych.
+Hőkamera vagy IR az áthidalókon, a biztosítékokon és a szellőzőnyílásokon.
+Cámara térmica o IR en las uniones, los fusibles y las rejillas.
+
+#3364
+Ajoutez d'abord votre clé API.
+Adicione primeiro sua chave de API.
+请先添加你的API密钥。
+Сначала добавьте свой ключ API.
+Najpierw dodaj swój klucz API.
+Először adja meg az API-kulcsát.
+Añada primero su clave de API.
+
+#3365
+Impossible de joindre le service d'IA. Vérifiez la connexion internet. Les réseaux d'entreprise le bloquent souvent.
+Não foi possível alcançar o serviço de IA. Verifique a conexão com a internet. Redes corporativas costumam bloqueá-lo.
+无法连接AI服务。请检查网络连接。公司网络经常会屏蔽它。
+Не удалось связаться со службой ИИ. Проверьте подключение к интернету. Корпоративные сети часто блокируют её.
+Nie udało się połączyć z usługą AI. Sprawdź połączenie z internetem. Sieci firmowe często ją blokują.
+Nem érhető el az MI-szolgáltatás. Ellenőrizze az internetkapcsolatot. A vállalati hálózatok gyakran blokkolják.
+No se pudo contactar con el servicio de IA. Compruebe la conexión a internet. Las redes corporativas suelen bloquearlo.
+
+#3366
+L'expression se termine trop tôt
+A expressão termina cedo demais
+表达式过早结束
+Выражение заканчивается слишком рано
+Wyrażenie kończy się zbyt wcześnie
+A kifejezés túl korán véget ér
+La expresión termina demasiado pronto
+
+#3367
+) manquante
+Falta )
+缺少 )
+Пропущена )
+Brak )
+Hiányzó )
+Falta )
+
+#3368
+Le côté gauche doit être une sortie (Q0, OUT0), une sortie analogique (AO0) ou une mémoire (M0)
+O lado esquerdo deve ser uma saída (Q0, OUT0), saída analógica (AO0) ou memória (M0)
+左边必须是输出（Q0、OUT0）、模拟输出（AO0）或存储位（M0）
+Слева должен быть выход (Q0, OUT0), аналоговый выход (AO0) или память (M0)
+Lewa strona musi być wyjściem (Q0, OUT0), wyjściem analogowym (AO0) lub pamięcią (M0)
+A bal oldalnak kimenetnek (Q0, OUT0), analóg kimenetnek (AO0) vagy memóriának (M0) kell lennie
+El lado izquierdo debe ser una salida (Q0, OUT0), una salida analógica (AO0) o una memoria (M0)
+
+#3369
+Écrivez-le ainsi :  Q0 = ...
+Escreva assim:  Q0 = ...
+请这样写：  Q0 = ...
+Запишите так:  Q0 = ...
+Zapisz tak:  Q0 = ...
+Így írja:  Q0 = ...
+Escríbalo así:  Q0 = ...
+
+#3370
+Point ouvert : {1} (contact {2}) est ouvert. Tension présente en amont : {3} V. {4}
+Ponto aberto: {1} (contato {2}) está aberto. Tensão presente a montante: {3} V. {4}
+断开点：{1}（触点 {2}）处于断开状态。上游的电压：{3} V。{4}
+Разрыв: {1} (контакт {2}) разомкнут. Напряжение выше по цепи: {3} В. {4}
+Otwarty punkt: {1} (styk {2}) jest otwarty. Napięcie wcześniej w obwodzie: {3} V. {4}
+Nyitott pont: {1} (érintkező: {2}) nyitva van. Feszültség az áramkör elején: {3} V. {4}
+Punto abierto: {1} (contacto {2}) está abierto. Tensión presente aguas arriba: {3} V. {4}
+
+#3371
+Il a déclenché ({1}). Trouvez la cause, puis réarmez-le et mettez-le sur ON.
+Atuou ({1}). Descubra a causa, depois rearme e ligue em ON.
+已跳闸（{1}）。先找出原因，然后复位并合到ON。
+Сработал ({1}). Найдите причину, затем сбросьте и включите в положение ON.
+Zadziałał ({1}). Znajdź przyczynę, potem zresetuj i przełącz na ON.
+Kioldott ({1}). Keresse meg az okot, majd állítsa vissza és kapcsolja ON-ra.
+Ha disparado ({1}). Encuentre la causa, luego rearme y ponga en ON.
+
+#3372
+{1} : pas de contrôle direct de l'alimentation pour ce composant. Utilisez l'onglet Composant pour voir la tension en direct sur chaque borne.
+{1}: sem verificação direta de alimentação para esta peça. Use a aba Componente para ver a tensão ao vivo em cada terminal.
+{1}：这个元件没有直接的供电检查。请用"元件"标签页查看每个端子上的实时电压。
+{1}: для этой детали нет прямой проверки питания. Откройте вкладку «Компонент», чтобы увидеть напряжение на каждой клемме в реальном времени.
+{1}: brak bezpośredniej kontroli zasilania dla tego elementu. Użyj karty Element, aby zobaczyć napięcie na żywo na każdym zacisku.
+{1}: ehhez az alkatrészhez nincs közvetlen betáplálás-ellenőrzés. Az Alkatrész lapon láthatja az élő feszültséget minden kapcson.
+{1}: no hay comprobación directa de alimentación para esta pieza. Use la pestaña Componente para ver la tensión en vivo en cada borne.
+
+#3373
+La borne {1} n'est reliée à rien.
+O terminal {1} não está ligado a nada.
+端子{1}没有接到任何东西。
+Клемма {1} ни к чему не подключена.
+Zacisk {1} nie jest do niczego podłączony.
+A(z) {1} kapocs nincs semmihez kötve.
+El borne {1} no está conectado a nada.
+
+#3374
+{1} reçoit {2} V à ses bornes (nominal {3} V). Il est alimenté correctement.
+{1} recebe {2} V nos terminais (nominal {3} V). Está alimentado corretamente.
+{1}的端子上有{2} V（额定{3} V）。供电正常。
+На {1} подаётся {2} В на клеммах (номинал {3} В). Питание подаётся правильно.
+{1} dostaje {2} V na zaciskach (znamionowe {3} V). Jest zasilany prawidłowo.
+{1} kapcsain {2} V van (névleges {3} V). Helyesen kap betáplálást.
+{1} recibe {2} V en sus bornes (nominal {3} V). Está alimentado correctamente.
+
+#3375
+Un défaut est réglé sur ce composant ({1}) bien que l'alimentation soit correcte.
+Uma falha está configurada nesta peça ({1}) apesar de a alimentação estar correta.
+这个元件上设置了故障（{1}），尽管供电是正常的。
+На этой детали задана неисправность ({1}), хотя питание подаётся правильно.
+Na tym elemencie ustawiono usterkę ({1}), mimo że zasilanie jest prawidłowe.
+Ezen az alkatrészen hiba van beállítva ({1}), pedig a betáplálás helyes.
+Hay una avería activada en esta pieza ({1}) aunque la alimentación es correcta.
+
+#3376
+{1} reçoit {2} V mais son nominal est {3} V. Trop de tension le grille.
+{1} recebe {2} V, mas o nominal é {3} V. Tensão demais o queima.
+{1}承受{2} V，而额定值是{3} V。电压过高会把它烧坏。
+На {1} подаётся {2} В, а номинал {3} В. Слишком высокое напряжение его сжигает.
+{1} dostaje {2} V, a znamionowe to {3} V. Zbyt wysokie napięcie go spali.
+{1} {2} V-ot kap, de a névleges {3} V. A túl nagy feszültség kiégeti.
+{1} recibe {2} V pero su valor nominal es {3} V. Demasiada tensión lo quema.
+
+#3377
+{1} n'a que {2} V à ses bornes, il lui faut environ {3} V.
+{1} tem só {2} V sobre ele, precisa de cerca de {3} V.
+{1}两端只有{2} V，它需要大约{3} V。
+На {1} всего {2} В, ему нужно около {3} В.
+{1} ma tylko {2} V na zaciskach, potrzebuje około {3} V.
+{1} kapcsain csak {2} V van, körülbelül {3} V kell neki.
+{1} tiene solo {2} V en sus bornes, necesita unos {3} V.
+
+#3378
+{1} : seulement {2} bornes de phase sur 3 sont câblées.
+{1}: apenas {2} de 3 terminais de fase estão ligados.
+{1}：3个相端子中只有{2}个接了线。
+{1}: подключено только {2} из 3 фазных клемм.
+{1}: tylko {2} z 3 zacisków fazowych jest podłączonych.
+{1}: a 3 fázis kapocsból csak {2} van bekötve.
+{1}: solo {2} de 3 bornes de fase están cableados.
+
+#3379
+{1} reçoit une tension triphasée ({2} V).
+{1} recebe tensão trifásica ({2} V).
+{1}得到三相电压（{2} V）。
+На {1} подаётся трёхфазное напряжение ({2} В).
+{1} dostaje napięcie trójfazowe ({2} V).
+{1} háromfázisú feszültséget kap ({2} V).
+{1} recibe tensión trifásica ({2} V).
+
+#3380
+Défaut sur le moteur : {1}.
+Falha no motor: {1}.
+电机故障：{1}。
+Неисправность двигателя: {1}.
+Usterka silnika: {1}.
+Hiba a motoron: {1}.
+Fallo en el motor: {1}.
+
+#3381
+Tourne à {1} tr/min, {2} A.
+Girando a {1} rpm, {2} A.
+转速{1} rpm，{2} A。
+Вращается на {1} об/мин, {2} А.
+Pracuje z prędkością {1} obr/min, {2} A.
+{1} ford./perc-cel forog, {2} A.
+Girando a {1} rpm, {2} A.
+
+#3382
+{1} n'a pas une alimentation triphasée complète ({2} V entre phases).
+{1} não tem alimentação trifásica completa ({2} V entre fases).
+{1}没有完整的三相供电（相间{2} V）。
+У {1} нет полного трёхфазного питания ({2} В между фазами).
+{1} nie ma pełnego zasilania trójfazowego ({2} V między fazami).
+{1} nem kap teljes háromfázisú betáplálást ({2} V a fázisok között).
+{1} no tiene alimentación trifásica completa ({2} V entre fases).
+
+#3383
+{1} : la borne {2} n'est pas raccordée.
+{1}: o terminal {2} não está conectado.
+{1}：端子{2}没有连接。
+{1}: клемма {2} не подключена.
+{1}: zacisk {2} nie jest podłączony.
+{1}: a(z) {2} kapocs nincs csatlakoztatva.
+{1}: el borne {2} no está conectado.
+
+#3384
+Court-circuit détecté près de : {1}. Deux points sous tension se touchent sans charge. Trouvez le fil qui les relie.
+Curto-circuito detectado perto de: {1}. Dois pontos energizados se tocam sem carga. Encontre o fio que os liga.
+在{1}附近检测到短路。两个带电点之间没有负载就直接相连。找出把它们连起来的那根导线。
+Обнаружено короткое замыкание около: {1}. Две точки под напряжением соприкасаются без нагрузки. Найдите провод, который их соединяет.
+Wykryto zwarcie w pobliżu: {1}. Dwa punkty pod napięciem stykają się bez obciążenia. Znajdź przewód, który je łączy.
+Zárlat észlelve itt: {1} közelében. Két feszültség alatti pont terhelés nélkül érintkezik. Keresse meg a vezetéket, amely összeköti őket.
+Cortocircuito detectado cerca de: {1}. Dos puntos con tensión se tocan sin carga. Encuentre el cable que los une.
+
+#3385
+{1} : la carcasse du moteur (PE) n'est pas reliée à la terre.
+{1}: a carcaça do motor (PE) não está ligada à terra.
+{1}：电机外壳（PE）没有接地。
+{1}: корпус двигателя (PE) не заземлён.
+{1}: obudowa silnika (PE) nie jest połączona z ziemią.
+{1}: a motor teste (PE) nincs a földhöz kötve.
+{1}: la carcasa del motor (PE) no está conectada a tierra.
+
+#3386
+{1} est couplé en étoile sur 400 V (la plaque indique triangle à 400 V). Il tournera faiblement et chauffera en charge.
+{1} está ligado em estrela em 400 V (a placa diz triângulo em 400 V). Ele vai girar fraco e superaquecer sob carga.
+{1}在400 V下接成星形（铭牌要求400 V下接成三角形）。它会无力运转，带载时会过热。
+{1} включён звездой на 400 В (на шильдике — треугольник при 400 В). Он будет работать слабо и перегреваться под нагрузкой.
+{1} jest połączony w gwiazdę na 400 V (tabliczka znamionowa podaje trójkąt przy 400 V). Będzie pracować słabo i przegrzewać się pod obciążeniem.
+{1} csillagba van kötve 400 V-on (a típustábla szerint 400 V-on delta). Gyengén fog forogni, és terhelés alatt túlmelegszik.
+{1} está conectado en estrella a 400 V (la placa indica triángulo a 400 V). Funcionará débil y se sobrecalentará con carga.
+
+#3387
+{1} est réglé sur {2} A mais {3} ({4} kW) consomme {5} A. Réglez-le entre environ 0,95 et 1,1 fois le courant de la plaque signalétique.
+{1} está ajustado em {2} A, mas {3} ({4} kW) puxa {5} A. Ajuste entre cerca de 0,95 e 1,1 da corrente da placa.
+{1}设定为{2} A，但{3}（{4} kW）实际取用{5} A。请把它设为铭牌电流的约0.95到1.1倍。
+{1} настроено на {2} А, но {3} ({4} кВт) потребляет {5} А. Установите значение примерно от 0,95 до 1,1 тока по шильдику.
+{1} jest ustawione na {2} A, ale {3} ({4} kW) pobiera {5} A. Ustaw wartość między około 0,95 a 1,1 prądu z tabliczki znamionowej.
+{1} {2} A-re van állítva, de {3} ({4} kW) {5} A-t vesz fel. Állítsa a típustábla áramának kb. 0,95 és 1,1 szerese közé.
+{1} está ajustado a {2} A pero {3} ({4} kW) consume {5} A. Ajústelo entre aproximadamente 0,95 y 1,1 de la corriente de la placa.
+
+#3388
+{1} peut déclencher au démarrage du moteur.
+{1} pode atuar na partida do motor.
+{1}可能在电机启动时跳闸。
+{1} может сработать при пуске двигателя.
+{1} może zadziałać przy rozruchu silnika.
+{1} kioldhat a motor indításakor.
+{1} puede saltar al arrancar el motor.
+
+#3389
+La bobine de {1} est brûlée (elle a reçu une mauvaise tension). Remplacez-la.
+A bobina de {1} está queimada (recebeu a tensão errada). Substitua-a.
+{1}的线圈已烧毁（电压加错了）。请更换。
+Катушка {1} сгорела (на неё подали неверное напряжение). Замените её.
+Cewka {1} jest spalona (dostała złe napięcie). Wymień ją.
+A(z) {1} tekercse kiégett (rossz feszültséget kapott). Cserélje ki.
+La bobina de {1} está quemada (recibió una tensión incorrecta). Sustitúyala.
+
+#3390
+La bobine de {1} reçoit {2} V mais ne colle pas : vérifiez le type CA/CC (bobine {3}).
+A bobina de {1} recebe {2} V mas não atua: verifique o tipo CA/CC (bobina {3}).
+{1}的线圈得到{2} V但不吸合：检查交流/直流类型（{3}线圈）。
+Катушка {1} получает {2} В, но не втягивается: проверьте тип AC/DC (катушка {3}).
+Cewka {1} dostaje {2} V, ale nie przyciąga: sprawdź typ AC/DC (cewka {3}).
+A(z) {1} tekercse {2} V-ot kap, de nem húz be: ellenőrizze az AC/DC típust ({3} tekercs).
+La bobina de {1} recibe {2} V pero no engancha: compruebe el tipo CA/CC (bobina {3}).
+
+#3391
+{1} est alimenté et fermé ({2} V sur la bobine).
+{1} está energizado e fechado ({2} V na bobina).
+{1}已通电并吸合（线圈上有{2} V）。
+{1} под напряжением и замкнут ({2} В на катушке).
+{1} jest zasilony i zamknięty ({2} V na cewce).
+{1} feszültség alatt van és zárt ({2} V a tekercsen).
+{1} está alimentado y cerrado ({2} V en la bobina).
+
+#3392
+{1} est grillé.
+{1} está queimado.
+{1}已烧毁。
+{1} сгорел.
+{1} jest spalony.
+{1} kiégett.
+{1} está quemado.
+
+#3393
+{1} reçoit {2} V mais son nominal est {3} V : il va brûler.
+{1} recebe {2} V mas o nominal é {3} V: vai queimar.
+{1}得到{2} V，而额定值是{3} V：它会被烧坏。
+{1} получает {2} В, а номинал {3} В: он сгорит.
+{1} dostaje {2} V, a znamionowe to {3} V: spali się.
+{1} {2} V-ot kap, de a névleges {3} V: ki fog égni.
+{1} recibe {2} V pero su valor nominal es {3} V: se quemará.
+
+#3394
+{1} est allumé ({2} V).
+{1} está aceso ({2} V).
+{1}亮了（{2} V）。
+{1} горит ({2} В).
+{1} świeci ({2} V).
+{1} világít ({2} V).
+{1} está encendido ({2} V).
+
+#3395
+{1} tourne à {2} tr/min ({3} A, {4}).
+{1} gira a {2} rpm ({3} A, {4}).
+{1}以{2} rpm运转（{3} A，{4}）。
+{1} вращается на {2} об/мин ({3} А, {4}).
+{1} pracuje z prędkością {2} obr/min ({3} A, {4}).
+{1} {2} ford./perc-cel forog ({3} A, {4}).
+{1} gira a {2} rpm ({3} A, {4}).
+
+#3396
+{1} a déclenché ({2}).
+{1} atuou ({2}).
+{1}已跳闸（{2}）。
+{1} сработал ({2}).
+{1} zadziałał ({2}).
+{1} kioldott ({2}).
+{1} ha disparado ({2}).
+
+#3397
+{1} a déclenché (surcharge).
+{1} atuou (sobrecarga).
+{1}已跳闸（过载）。
+{1} сработал (перегрузка).
+{1} zadziałał (przeciążenie).
+{1} kioldott (túlterhelés).
+{1} ha disparado (sobrecarga).
+
+#3398
+Pourquoi {1} n'est-il pas alimenté ?
+Por que {1} não está energizado?
+为什么{1}没有通电？
+Почему {1} не под напряжением?
+Dlaczego {1} nie jest zasilony?
+Miért nincs feszültség alatt {1}?
+¿Por qué {1} no está alimentado?
+
+#3399
+Multimètre ({1}) entre {2}:{3} et {4}:{5} : {6} {7}
+Multímetro ({1}) entre {2}:{3} e {4}:{5}: {6} {7}
+万用表（{1}）测{2}:{3}与{4}:{5}之间：{6} {7}
+Мультиметр ({1}) между {2}:{3} и {4}:{5}: {6} {7}
+Miernik ({1}) między {2}:{3} a {4}:{5}: {6} {7}
+Műszer ({1}) {2}:{3} és {4}:{5} között: {6} {7}
+Polímetro ({1}) entre {2}:{3} y {4}:{5}: {6} {7}
+
+#3400
+{1} est prêt dans l'onglet Appareils de mesure. Touchez les bornes du circuit pour placer les pointes. Essayez le mode Apprentissage pour voir ce que fait chaque bouton.
+{1} está pronto na aba Instrumentos. Toque nos terminais do circuito para posicionar as pontas. Experimente o modo Aprender para ver o que cada botão faz.
+{1}已在"仪表"标签页中准备好。点击电路上的端子来放置表笔。试试学习模式，看看每个按钮的作用。
+{1} готов на вкладке «Приборы». Нажимайте клеммы на схеме, чтобы поставить щупы. Попробуйте режим обучения, чтобы увидеть, что делает каждая кнопка.
+{1} jest gotowy na karcie Mierniki. Dotykaj zacisków w obwodzie, aby ustawić sondy. Wypróbuj tryb nauki, aby zobaczyć, co robi każdy przycisk.
+{1} készen áll a Műszerek lapon. Érintse meg az áramkör kapcsait a mérőcsúcsok elhelyezéséhez. Próbálja ki a Tanulás módot, hogy lássa, mit csinál az egyes gombok.
+{1} está listo en la pestaña Instrumentos. Toque los bornes del circuito para colocar las puntas. Pruebe el modo Aprendizaje para ver qué hace cada botón.
+
+#3401
+{1}Disponibles : {2}
+{1}Disponíveis: {2}
+{1}可选：{2}
+{1}Доступно: {2}
+{1}Dostępne: {2}
+{1}Elérhető: {2}
+{1}Disponibles: {2}
+
+#3402
+{1}:{2} relié à {3}:{4}.
+{1}:{2} conectado a {3}:{4}.
+已把{1}:{2}连接到{3}:{4}。
+{1}:{2} соединён с {3}:{4}.
+Połączono {1}:{2} z {3}:{4}.
+{1}:{2} összekötve ezzel: {3}:{4}.
+Conectado {1}:{2} a {3}:{4}.
+
+#3403
+{1} supprimé.
+{1} removido.
+已删除{1}。
+{1} удалён.
+Usunięto {1}.
+{1} eltávolítva.
+{1} eliminado.
+
+#3404
+{1} ne peut pas être actionné à la main.
+{1} não pode ser operado à mão.
+{1}不能手动操作。
+{1} нельзя переключить вручную.
+{1} nie może być obsługiwany ręcznie.
+{1} nem működtethető kézzel.
+{1} no se puede accionar a mano.
+
+#3405
+{1} actionné.
+{1} operado.
+已操作{1}。
+{1} переключён.
+Przełączono {1}.
+{1} működtetve.
+{1} accionado.
+
+#3406
+Chargé : {1}. {2}
+Carregado: {1}. {2}
+已加载：{1}。{2}
+Загружено: {1}. {2}
+Wczytano: {1}. {2}
+Betöltve: {1}. {2}
+Cargado: {1}. {2}
+
+#3407
+{1} x {2} ajouté ({3}). Faites glisser pour placer, touchez deux bornes pour câbler.
+Adicionado {1} x {2} ({3}). Arraste para posicionar, toque em dois terminais para ligar.
+已添加{1} x {2}（{3}）。拖动来摆放，点击两个端子来连线。
+Добавлено {1} x {2} ({3}). Перетащите для размещения, нажмите две клеммы, чтобы соединить.
+Dodano {1} x {2} ({3}). Przeciągnij, aby umieścić, dotknij dwóch zacisków, aby połączyć.
+Hozzáadva: {1} x {2} ({3}). Húzza a helyére, és két kapocs megérintésével kösse be.
+Añadido {1} x {2} ({3}). Arrastre para colocar, toque dos bornes para cablear.
+
+#3408
+Une erreur s'est produite : {1}
+Algo deu errado: {1}
+出错了：{1}
+Что-то пошло не так: {1}
+Coś poszło nie tak: {1}
+Hiba történt: {1}
+Algo salió mal: {1}
+
+#3409
+Erreur vocale : {1}
+Erro de voz: {1}
+语音错误：{1}
+Ошибка голосового ввода: {1}
+Błąd głosu: {1}
+Hangfelismerési hiba: {1}
+Error de voz: {1}
+
+#3410
+Déplacez le fil rouge vers la prise {1} pour le courant.
+Mova a ponta vermelha para o jack {1} para corrente.
+测电流时，把红表笔插到{1}插孔。
+Переставьте красный щуп в гнездо {1} для измерения тока.
+Przełóż czerwoną sondę do gniazda {1} do pomiaru prądu.
+Dugja a piros mérővezetéket a(z) {1} aljzatba az árammérésekhez.
+Mueva la punta roja a la toma {1} para corriente.
+
+#3411
+Une tension continue est aussi présente ({1} V). Passez en CC.
+Há tensão contínua também presente ({1} V). Mude para CC.
+同时存在直流电压（{1} V）。请切换到直流档。
+Присутствует также постоянное напряжение ({1} В). Переключитесь на DC.
+Występuje także napięcie stałe ({1} V). Przełącz na DC.
+Egyenfeszültség is jelen van ({1} V). Váltson DC-re.
+También hay tensión continua ({1} V). Cambie a CC.
+
+#3412
+Une tension alternative est aussi présente ({1} V). Passez en CA.
+Há tensão alternada também presente ({1} V). Mude para CA.
+同时存在交流电压（{1} V）。请切换到交流档。
+Присутствует также переменное напряжение ({1} В). Переключитесь на AC.
+Występuje także napięcie przemienne ({1} V). Przełącz na AC.
+Váltakozó feszültség is jelen van ({1} V). Váltson AC-re.
+También hay tensión alterna ({1} V). Cambie a CA.
+
+#3413
+Le circuit est sous tension ({1} V). Ne mesurez jamais des ohms sur un circuit sous tension. Coupez d'abord.
+O circuito está energizado ({1} V). Nunca meça ohms em um circuito energizado. Desligue primeiro.
+电路带电（{1} V）。绝不要在带电电路上测电阻。先断电。
+Цепь под напряжением ({1} В). Никогда не измеряйте омы на цепи под напряжением. Сначала отключите.
+Obwód jest pod napięciem ({1} V). Nigdy nie mierz omów w obwodzie pod napięciem. Najpierw wyłącz.
+Az áramkör feszültség alatt van ({1} V). Soha ne mérjen ohmot feszültség alatti áramkörön. Először kapcsolja ki.
+El circuito está en tensión ({1} V). Nunca mida ohmios en un circuito en tensión. Desconecte primero.
+
+#3414
+Maintenez TEST pour appliquer {1} V
+Segure TEST para aplicar {1} V
+按住TEST施加{1} V
+Удерживайте TEST, чтобы подать {1} В
+Przytrzymaj TEST, aby podać {1} V
+Tartsa lenyomva a TEST gombot {1} V rákapcsolásához
+Mantenga TEST para aplicar {1} V
+
+#3415
+L'électronique était raccordée : {1} endommagé par la tension d'essai ! Déconnectez variateurs, alimentations et cartes d'automate avant un essai au mégohmmètre.
+A eletrônica estava conectada: {1} danificado pela tensão de teste! Desconecte inversores, fontes e cartões de CLP antes de um teste com megôhmetro.
+电子设备还接着：{1}被测试电压损坏了！做兆欧表测试之前，要先断开变频器、电源和PLC卡件。
+Электроника была подключена: {1} повреждён испытательным напряжением! Перед проверкой мегаомметром отсоедините преобразователи, блоки питания и платы ПЛК.
+Elektronika była podłączona: {1} uszkodzony napięciem testowym! Odłącz falowniki, zasilacze i karty PLC przed testem megaomomierzem.
+Az elektronika csatlakoztatva volt: {1} megsérült a vizsgálófeszültségtől! A szigetelésmérés előtt kösse le a frekvenciaváltókat, tápegységeket és PLC-kártyákat.
+La electrónica estaba conectada: ¡{1} dañado por la tensión de prueba! Desconecte variadores, fuentes y tarjetas de PLC antes de una prueba con megóhmetro.
+
+#3416
+BANG ! Fusible du multimètre grillé : vous avez mis la prise {1} aux bornes d'une source sous tension.
+BANG! Fusível do multímetro queimado: você colocou o jack {1} sobre uma fonte energizada.
+砰！万用表熔断器烧断了：你把{1}插孔接到了带电源上。
+БАХ! Предохранитель мультиметра сгорел: вы подключили гнездо {1} к источнику под напряжением.
+BUM! Bezpiecznik miernika przepalony: podłączyłeś gniazdo {1} do źródła pod napięciem.
+BUMM! A műszer biztosítéka kiégett: a(z) {1} aljzatot feszültség alatti forrásra kötötte.
+¡BANG! Fusible del polímetro fundido: puso la toma {1} sobre una fuente en tensión.
+
+#3417
+Relais de commande avec {1} contacts inverseurs. Bobine A1-A2. Chaque contact : 11 commun, 12 repos (NF), 14 travail (NO) (puis 21/22/24 ...).
+Relé de controle com {1} contatos reversíveis. Bobina A1-A2. Cada contato: 11 comum, 12 normalmente fechado, 14 normalmente aberto (depois 21/22/24 ...).
+带{1}组转换触点的控制继电器。线圈A1-A2。每组触点：11公共端、12常闭、14常开（然后是21/22/24……）。
+Реле управления с {1} переключающими контактами. Катушка A1-A2. Каждый контакт: 11 общий, 12 нормально замкнутый, 14 нормально разомкнутый (затем 21/22/24 ...).
+Przekaźnik sterowniczy z {1} stykami przełącznymi. Cewka A1-A2. Każdy styk: 11 wspólny, 12 normalnie zamknięty, 14 normalnie otwarty (potem 21/22/24 ...).
+Vezérlőrelé {1} váltóérintkezővel. Tekercs A1-A2. Minden érintkező: 11 közös, 12 nyugalmi (záró), 14 munka (nyitó) (majd 21/22/24 ...).
+Relé de control con {1} contactos conmutados. Bobina A1-A2. Cada contacto: 11 común, 12 normalmente cerrado, 14 normalmente abierto (luego 21/22/24 ...).
+
+#3418
+Borne {1} desserrée (ouverte)
+Terminal {1} solto (aberto)
+端子{1}松动（开路）
+Клемма {1} ослаблена (обрыв)
+Zacisk {1} luźny (przerwa)
+A(z) {1} kapocs laza (szakadt)
+Borne {1} flojo (abierto)
+
+#3419
+Âme {1} coupée
+Veia {1} rompida
+线芯{1}断了
+Жила {1} оборвана
+Żyła {1} zerwana
+A(z) {1} ér szakadt
+Hilo {1} roto
+
+#3420
+Âmes {1} et {2} en contact
+Veias {1} e {2} se tocando
+线芯{1}和{2}相碰
+Жилы {1} и {2} соприкасаются
+Żyły {1} i {2} stykają się
+A(z) {1} és {2} ér érintkezik
+Hilos {1} y {2} en contacto
+
+#3421
+Fuite d'isolement de {1} vers {2}
+Fuga de isolamento de {1} para {2}
+{1}对{2}绝缘泄漏
+Утечка изоляции с {1} на {2}
+Upływ izolacji z {1} do {2}
+Szigetelési szivárgás {1} és {2} között
+Fuga de aislamiento de {1} a {2}
+
+#3422
+Barrette à {1} broches
+Barra de pinos de {1} pinos
+{1}针排针
+Штыревая колодка на {1} контактов
+Listwa goldpin {1}-pinowa
+{1} érintkezős tüskesor
+Tira de pines de {1} pines
+
+#3423
+Broche {1} sale / desserrée (ouverte)
+Pino {1} sujo / solto (aberto)
+针脚{1}脏污 / 松动（开路）
+Контакт {1} загрязнён / ослаблен (обрыв)
+Pin {1} brudny / luźny (przerwa)
+A(z) {1} érintkező szennyezett / laza (szakadt)
+Pin {1} sucio / flojo (abierto)
+
+#3424
+Connecteur accouplé à {1} broches
+Conector acoplado de {1} pinos
+{1}针配对连接器
+Сопряжённый разъём на {1} контактов
+Złącze zespolone {1}-pinowe
+{1} érintkezős összedugott csatlakozó
+Conector acoplado de {1} pines
+
+#3425
+Puce générique à {1} broches pour tracer une vraie carte. Sa fonction n'est pas simulée, mais elle est alimentée par ses broches VCC et GND (réglées dans les propriétés), pour que le diagnostic puisse savoir si la puce reçoit son alimentation. La broche 1 est en haut à gauche, les broches se comptent en descendant le côté gauche puis en remontant le côté droit.
+Chip genérico de {1} pinos para traçar uma placa real. Sua função não é simulada, mas ele é alimentado pelos pinos VCC e GND (definidos nas propriedades), para que o diagnóstico possa saber se o chip tem alimentação. O pino 1 fica no canto superior esquerdo, os pinos são contados descendo pelo lado esquerdo e subindo pelo direito.
+用于描摹真实电路板的通用{1}脚芯片。它的功能不做仿真，但会通过其VCC和GND引脚供电（在属性中设置），因此诊断功能可以判断芯片有没有电源。1号脚在左上角，引脚沿左侧向下、再沿右侧向上依次编号。
+Универсальная микросхема на {1} выводов для трассировки реальной платы. Её функция не имитируется, но она получает питание на выводах VCC и GND (задаются в свойствах), поэтому диагностика может определить, есть ли у микросхемы питание. Вывод 1 в левом верхнем углу, выводы нумеруются вниз по левой стороне и вверх по правой.
+Uniwersalny układ {1}-pinowy do odwzorowywania prawdziwej płytki. Jego funkcja nie jest symulowana, ale jest zasilany z pinów VCC i GND (ustawianych we właściwościach), dzięki czemu diagnoza może stwierdzić, czy układ ma zasilanie. Pin 1 jest w lewym górnym rogu, piny są numerowane w dół po lewej stronie i w górę po prawej.
+Általános {1} lábú IC egy valódi kártya feltérképezéséhez. A funkcióját nem szimulálja, de a VCC és GND lábairól kap tápot (a Tulajdonságokban állítható), így a diagnosztika megállapíthatja, hogy az IC megkapja-e a betáplálást. Az 1-es láb bal felül van, a lábak a bal oldalon lefelé, a jobb oldalon felfelé számozódnak.
+Chip genérico de {1} pines para trazar una placa real. Su función no se simula, pero se alimenta desde sus pines VCC y GND (se ajustan en Propiedades), de modo que el diagnóstico puede saber si el chip recibe alimentación. El pin 1 está arriba a la izquierda y los pines se cuentan bajando por el lado izquierdo y subiendo por el derecho.
+
+#3426
+{1} : isolé.
+{1}: isolado.
+{1}：已隔离。
+{1}: изолировано.
+{1}: odizolowane.
+{1}: leválasztva.
+{1}: aislado.
+
+#3427
+Ce {1} n'a pas de trou de cadenas. Choisissez un dispositif de consignation adapté.
+Este {1} não tem furo para cadeado. Escolha um dispositivo de bloqueio que se encaixe.
+这个{1}没有挂锁孔。请选择适合它的上锁装置。
+У этого {1} нет отверстия для замка. Выберите блокирующее устройство, которое подходит.
+Ten {1} nie ma otworu na kłódkę. Wybierz urządzenie blokujące, które pasuje.
+Ennek a(z) {1} nincs lakatfüle. Válasszon hozzá illő zárolóeszközt.
+Este {1} no tiene agujero para candado. Elija un dispositivo de bloqueo que encaje.
+
+#3428
+{1} ne convient pas à {2}. Il convient à : {3}.
+{1} não serve para {2}. Serve para: {3}.
+{1}不适用于{2}。它适用于：{3}。
+{1} не подходит для {2}. Он подходит для: {3}.
+{1} nie pasuje do {2}. Pasuje do: {3}.
+A(z) {1} nem illik ehhez: {2}. Ehhez illik: {3}.
+{1} no encaja en {2}. Encaja en: {3}.
+
+#3429
+{1} a déjà un cadenas sur ce point.
+{1} já tem um cadeado neste ponto.
+{1}已经在这个点上挂了锁。
+У {1} уже есть замок на этой точке.
+{1} ma już kłódkę na tym punkcie.
+{1} már rakott lakatot erre a pontra.
+{1} ya tiene un candado en este punto.
+
+#3430
+{1} a verrouillé {2} et a posé une étiquette.
+{1} bloqueou {2} e colocou uma etiqueta.
+{1}锁住了{2}并挂上了标签。
+{1} заблокировал(а) {2} и повесил(а) бирку.
+{1} zablokował(a) {2} i założył(a) zawieszkę.
+{1} lezárta a(z) {2} pontot, és címkét helyezett rá.
+{1} bloqueó {2} y puso una etiqueta.
+
+#3431
+En attente... Bus continu maintenant à {1} V.
+Aguardando... Barramento CC agora em {1} V.
+等待中……直流母线现在为{1} V。
+Ожидание... Шина постоянного тока сейчас {1} В.
+Czekam... Szyna DC ma teraz {1} V.
+Várakozás... A DC köztes kör most {1} V.
+Esperando... El bus de CC está ahora a {1} V.
+
+#3432
+SOUS TENSION : {1} indique {2} V ! La source n'est pas isolée. Arrêtez et corrigez.
+SOB TENSÃO: {1} indica {2} V! A fonte não está isolada. Pare e corrija.
+有电！{1}读数为{2} V！电源没有隔离。停止并处理。
+ПОД НАПРЯЖЕНИЕМ: {1} показывает {2} В! Источник не изолирован. Остановитесь и исправьте.
+POD NAPIĘCIEM: {1} wskazuje {2} V! Źródło nie jest odizolowane. Zatrzymaj się i napraw to.
+FESZÜLTSÉG ALATT: {1} {2} V-ot mutat! A forrás nincs leválasztva. Álljon meg, és javítsa ki.
+EN TENSIÓN: ¡{1} indica {2} V! La fuente no está aislada. Pare y corríjalo.
+
+#3433
+{1} est encore sur ON. C'est un vrai point d'isolement.
+{1} ainda está em ON. É um ponto de isolamento real.
+{1}仍然是ON。它是一个真正的隔离点。
+{1} всё ещё в положении ON. Это настоящая точка изоляции.
+{1} nadal jest w pozycji ON. To prawdziwy punkt odcięcia.
+{1} még mindig ON állásban van. Ez egy valódi leválasztási pont.
+{1} sigue en ON. Es un punto de aislamiento real.
+
+#3434
+{1} est sur OFF mais pas verrouillé. Quelqu'un peut le remettre en marche.
+{1} está em OFF, mas não bloqueado. Alguém pode ligá-lo de novo.
+{1}已是OFF但没有上锁。别人可以把它再合上。
+{1} выключен (OFF), но не заблокирован. Кто-то может включить его снова.
+{1} jest w pozycji OFF, ale nie jest zablokowany. Ktoś może go ponownie włączyć.
+{1} OFF állásban van, de nincs lezárva. Valaki visszakapcsolhatja.
+{1} está en OFF pero no bloqueado. Alguien puede volver a conectarlo.
+
+#3435
+{1} est verrouillé ({2}) mais n'a pas d'étiquette. L'étiquette dit aux autres qui et pourquoi.
+{1} está bloqueado ({2}), mas sem etiqueta. A etiqueta diz aos outros quem e por quê.
+{1}已上锁（{2}），但没有标签。标签告诉别人是谁、为什么上的锁。
+{1} заблокирован ({2}), но без бирки. Бирка сообщает другим, кто и почему это сделал.
+{1} jest zablokowany ({2}), ale nie ma zawieszki. Zawieszka informuje innych, kto i dlaczego.
+{1} le van zárva ({2}), de nincs rajta címke. A címke megmondja a többieknek, ki és miért.
+{1} está bloqueado ({2}) pero no tiene etiqueta. La etiqueta dice a los demás quién y por qué.
+
+#3436
+{1} : isolé, verrouillé et étiqueté ({2}).
+{1}: isolado, bloqueado e etiquetado ({2}).
+{1}：已隔离、已上锁并已挂标签（{2}）。
+{1}: изолировано, заблокировано и снабжено биркой ({2}).
+{1}: odizolowane, zablokowane i oznaczone zawieszką ({2}).
+{1}: leválasztva, lezárva és megcímkézve ({2}).
+{1}: aislado, bloqueado y etiquetado ({2}).
+
+#3437
+{1} est un point de groupe mais tous les intervenants n'y ont pas posé leur cadenas.
+{1} é um ponto de grupo, mas nem todo trabalhador tem um cadeado nele.
+{1}是一个集体上锁点，但并非每个作业人员都在上面挂了锁。
+{1} — групповая точка, но не у каждого работника на ней есть замок.
+{1} jest punktem grupowym, ale nie każdy pracownik ma na nim kłódkę.
+{1} csoportos pont, de nem minden dolgozónak van rajta lakatja.
+{1} es un punto de grupo pero no todos los trabajadores tienen un candado en él.
+
+#3438
+{1} utilise un cadenas de service partagé. Utilisez un cadenas personnel.
+{1} usa um cadeado compartilhado do setor. Use um cadeado pessoal.
+{1}用的是部门共用的锁。请使用个人锁。
+{1} закрыт общим замком отдела. Используйте личный замок.
+{1} używa wspólnej kłódki działu. Użyj kłódki osobistej.
+{1} közös osztályi lakatot használ. Használjon személyes lakatot.
+{1} usa un candado compartido del departamento. Use un candado personal.
+
+#3439
+{1} est un organe de commande. L'actionner n'est pas un isolement.
+{1} é um dispositivo de comando. Pressioná-lo não é isolamento.
+{1}是控制器件。按下它不算隔离。
+{1} — это устройство управления. Его нажатие не является изоляцией.
+{1} to urządzenie sterujące. Jego naciśnięcie nie jest odcięciem.
+{1} vezérlőeszköz. A megnyomása nem leválasztás.
+{1} es un dispositivo de mando. Pulsarlo no es aislamiento.
+
+#3440
+Un cadenas est posé sur {1}, un organe de commande. Il ne protège personne.
+Há um cadeado em {1}, um dispositivo de comando. Ele não protege ninguém.
+锁挂在{1}上，而它是控制器件。它保护不了任何人。
+Замок стоит на {1} — устройстве управления. Он никого не защищает.
+Kłódka jest założona na {1}, urządzeniu sterującym. Nie chroni nikogo.
+Lakat van a(z) {1} eszközön, amely vezérlőeszköz. Senkit sem véd.
+Hay un candado en {1}, un dispositivo de mando. No protege a nadie.
+
+#3441
+{1} : libéré.
+{1}: liberado.
+{1}：已释放。
+{1}: освобождено.
+{1}: zwolnione.
+{1}: felszabadítva.
+{1}: liberado.
+
+#3442
+{1} n'a pas été libéré. Il peut encore bouger ou électriser après la coupure.
+{1} não foi liberado. Ele ainda pode se mover ou dar choque depois que a chave é desligada.
+{1}还没有释放。断开开关之后，它仍可能运动或带电伤人。
+{1} не освобождено. Оно всё ещё может двигаться или бить током после отключения.
+{1} nie zostało zwolnione. Może się jeszcze poruszyć lub porazić prądem po wyłączeniu.
+{1} nincs felszabadítva. A kapcsoló lekapcsolása után még mozoghat vagy áramütést okozhat.
+{1} no se ha liberado. Aún puede moverse o dar descarga después de desconectar el interruptor.
+
+#3443
+{1} : vérifié.
+{1}: verificado.
+{1}：已验证。
+{1}: проверено.
+{1}: zweryfikowane.
+{1}: ellenőrizve.
+{1}: verificado.
+
+#3444
+{1} : la source n'est pas isolée, donc un essai indiquerait une tension.
+{1}: a fonte não está isolada, então um teste leria tensão.
+{1}：电源没有隔离，所以测试会读到有电。
+{1}: источник не изолирован, поэтому проверка покажет напряжение.
+{1}: źródło nie jest odizolowane, więc test pokaże napięcie.
+{1}: a forrás nincs leválasztva, így a vizsgálat feszültséget mutatna.
+{1}: la fuente no está aislada, así que una prueba leería tensión.
+
+#3445
+testez chaque paire ({1}/{2})
+teste cada par ({1}/{2})
+测试每一对（{1}/{2}）
+проверьте каждую пару ({1}/{2})
+przetestuj każdą parę ({1}/{2})
+tesztelje minden párt ({1}/{2})
+pruebe cada par ({1}/{2})
+
+#3446
+{1} : lisez le manomètre après la purge. Il doit afficher 0 bar.
+{1}: leia o manômetro após a sangria. Ele deve mostrar 0 bar.
+{1}：放气后读取压力表。必须显示0 bar。
+{1}: прочитайте манометр после спуска давления. Он должен показывать 0 бар.
+{1}: odczytaj manometr po spuszczeniu. Musi wskazywać 0 bar.
+{1}: légtelenítés után olvassa le a manométert. 0 bart kell mutatnia.
+{1}: lea el manómetro después de purgar. Debe marcar 0 bar.
+
+#3447
+{1} : attendez et lisez le bus continu. Il doit descendre sous 50 V.
+{1}: aguarde e leia o barramento CC. Ele deve cair abaixo de 50 V.
+{1}：等待并读取直流母线。它必须降到50 V以下。
+{1}: подождите и прочитайте шину постоянного тока. Она должна упасть ниже 50 В.
+{1}: poczekaj i odczytaj szynę DC. Musi spaść poniżej 50 V.
+{1}: várjon, és olvassa le a DC köztes kört. 50 V alá kell csökkennie.
+{1}: espere y lea el bus de CC. Debe bajar de 50 V.
+
+#3448
+{1} : vérifiez que le bloc de sécurité est en place et lisez le manomètre.
+{1}: confirme que o bloco de segurança está no lugar e leia o manômetro.
+{1}：确认安全挡块已就位，并读取压力表。
+{1}: убедитесь, что предохранительный упор установлен, и прочитайте манометр.
+{1}: upewnij się, że blokada bezpieczeństwa jest na miejscu, i odczytaj manometr.
+{1}: ellenőrizze, hogy a biztonsági blokk a helyén van, és olvassa le a manométert.
+{1}: confirme que el bloque de seguridad está colocado y lea el manómetro.
+
+#3449
+Erreurs jusqu'ici : {1}
+Erros até agora: {1}
+目前的错误：{1}
+Ошибок пока: {1}
+Dotychczasowe błędy: {1}
+Eddigi hibák: {1}
+Errores hasta ahora: {1}
+
+#3450
+Sources d'énergie : {1}
+Fontes de energia: {1}
+能量源：{1}
+Источники энергии: {1}
+Źródła energii: {1}
+Energiaforrások: {1}
+Fuentes de energía: {1}
+
+#3451
+Le bus continu indique {1} V.
+O barramento CC lê {1} V.
+直流母线读数为{1} V。
+Шина постоянного тока показывает {1} В.
+Szyna DC wskazuje {1} V.
+A DC köztes kör {1} V-ot mutat.
+El bus de CC lee {1} V.
+
+#3452
+Bus continu maintenant à {1} V
+Barramento CC agora em {1} V
+直流母线现在为{1} V
+Шина постоянного тока сейчас {1} В
+Szyna DC ma teraz {1} V
+A DC köztes kör most {1} V
+Bus de CC ahora a {1} V
+
+#3453
+Appuyez sur {1} et maintenez {2} s
+Pressione {1} e segure por {2} s
+按下{1}并保持{2}秒
+Нажмите {1} и удерживайте {2} с
+Naciśnij {1} i przytrzymaj {2} s
+Nyomja meg a(z) {1} gombot, és tartsa {2} másodpercig
+Pulse {1} y mantenga {2} s
+
+#3454
+Relâchez {1}, attendez {2} s
+Solte {1}, aguarde {2} s
+松开{1}，等待{2}秒
+Отпустите {1}, подождите {2} с
+Zwolnij {1}, poczekaj {2} s
+Engedje el a(z) {1} gombot, várjon {2} másodpercet
+Suelte {1}, espere {2} s
+
+#3455
+Mettez {1} sur ON
+Coloque {1} em ON
+把{1}合到ON
+Включите {1} (ON)
+Przełącz {1} na ON
+Kapcsolja a(z) {1} eszközt ON-ra
+Ponga {1} en ON
+
+#3456
+Mettez {1} sur OFF
+Coloque {1} em OFF
+把{1}断到OFF
+Выключите {1} (OFF)
+Przełącz {1} na OFF
+Kapcsolja a(z) {1} eszközt OFF-ra
+Ponga {1} en OFF
+
+#3457
+Réglez {1} {2} = {3}
+Ajuste {1} {2} = {3}
+设置{1} {2} = {3}
+Установите {1} {2} = {3}
+Ustaw {1} {2} = {3}
+Állítsa be: {1} {2} = {3}
+Ajuste {1} {2} = {3}
+
+#3458
+{1} a déclenché (à réarmer)
+{1} atuou (precisa rearmar)
+{1}已跳闸（需要复位）
+{1} сработал (нужен сброс)
+{1} zadziałał (wymaga resetu)
+{1} kioldott (vissza kell állítani)
+{1} ha disparado (hay que rearmar)
+
+#3459
+{1} est enfoncé
+{1} está pressionado
+{1}被按下了
+{1} нажата
+{1} jest wciśnięty
+{1} be van nyomva
+{1} está pulsado
+
+#3460
+Le fil {1} vers {2} est desserré / coupé
+O fio {1} para {2} está solto / rompido
+{1}到{2}的导线松动 / 断了
+Провод {1} к {2} ослаблен / оборван
+Przewód {1} do {2} jest luźny / zerwany
+A(z) {1} és {2} közötti vezeték laza / szakadt
+El cable {1} a {2} está flojo / roto
+
+#3461
+Regardez {1}
+Olhe {1}
+查看{1}
+Осмотрите {1}
+Obejrzyj {1}
+Nézze meg: {1}
+Mire {1}
+
+#3462
+Vérifiez {1}
+Verifique {1}
+检查{1}
+Проверьте {1}
+Sprawdź {1}
+Ellenőrizze: {1}
+Compruebe {1}
+
+#3463
+{1} a-t-il déclenché (manette au milieu ou en bas, drapeau sorti, bouton de réarmement sorti) ?
+{1} atuou (alavanca no meio ou embaixo, bandeira para fora, botão de rearme saltado)?
+{1}跳闸了吗（手柄在中间或下面、指示旗弹出、复位按钮弹起）？
+Сработал ли {1} (рукоятка в среднем или нижнем положении, флажок выступает, кнопка сброса выскочила)?
+Czy {1} zadziałał (dźwignia w środku lub na dole, flaga wysunięta, przycisk resetu wyskoczył)?
+Kioldott-e a(z) {1} (a kar középen vagy lent, a jelzőzászló kinn, a visszaállító gomb kiugrott)?
+¿Ha disparado {1} (palanca en medio o abajo, bandera fuera, botón de rearme saltado)?
+
+#3464
+Mesurer la tension en {1}
+Medir a tensão em {1}
+测量{1}处的电压
+Измерить напряжение на {1}
+Zmierz napięcie na {1}
+Mérje meg a feszültséget itt: {1}
+Medir la tensión en {1}
+
+#3465
+Mettez le multimètre sur volts. Fil noir sur {1} ({2}), fil rouge sur {3}. Mesurez exactement à cette borne. Valeur attendue si tout va bien : environ {4} V.
+Coloque o multímetro em volts. Ponta preta em {1} ({2}), ponta vermelha em {3}. Meça exatamente neste terminal. Esperado quando saudável: cerca de {4} V.
+把万用表打到电压档。黑表笔接{1}（{2}），红表笔接{3}。就在这个端子上测量。正常时应约为{4} V。
+Переключите мультиметр на вольты. Чёрный щуп на {1} ({2}), красный щуп на {3}. Измеряйте именно на этой клемме. В исправном состоянии ожидается около {4} В.
+Ustaw miernik na wolty. Czarna sonda na {1} ({2}), czerwona sonda na {3}. Mierz dokładnie na tym zacisku. W stanie sprawnym oczekiwane jest około {4} V.
+Állítsa a műszert voltra. A fekete mérővezeték {1} ({2}), a piros {3}. Pontosan ezen a kapcson mérjen. Egészséges állapotban várható érték: kb. {4} V.
+Ponga el polímetro en voltios. Punta negra en {1} ({2}), punta roja en {3}. Mida exactamente en este borne. Esperado si está sano: unos {4} V.
+
+#3466
+Tension complète (environ {1} V)
+Tensão plena (cerca de {1} V)
+满电压（约{1} V）
+Полное напряжение (около {1} В)
+Pełne napięcie (około {1} V)
+Teljes feszültség (kb. {1} V)
+Tensión plena (unos {1} V)
+
+#3467
+Mesurer le courant dans {1}
+Medir a corrente em {1}
+测量{1}中的电流
+Измерить ток в {1}
+Zmierz prąd w {1}
+Mérje meg az áramot itt: {1}
+Medir la corriente en {1}
+
+#3468
+Pince ampèremétrique (A~) autour du seul conducteur en {1} pendant que {2} fonctionne. Valeur saine : environ {3} A. Comparez les trois phases : elles doivent être presque égales.
+Alicate amperímetro (A~) ao redor de um único condutor em {1} enquanto {2} funciona. Saudável: cerca de {3} A. Compare as três fases: devem ser quase iguais.
+当{2}运行时，把钳形表（A~）夹在{1}处的单根导线上。正常约为{3} A。比较三相：它们应当几乎相等。
+Токоизмерительные клещи (A~) вокруг одного проводника на {1}, пока работает {2}. В норме: около {3} А. Сравните три фазы: они должны быть почти равны.
+Cęgi prądowe (A~) wokół pojedynczego przewodu na {1}, gdy {2} pracuje. Wartość prawidłowa: około {3} A. Porównaj trzy fazy: powinny być prawie równe.
+Lakatfogó (A~) az egyetlen vezető körül itt: {1}, amíg {2} működik. Egészséges érték: kb. {3} A. Hasonlítsa össze a három fázist: közel egyenlőnek kell lenniük.
+Pinza amperimétrica (A~) alrededor del único conductor en {1} mientras {2} funciona. Sano: unos {3} A. Compare las tres fases: deben ser casi iguales.
+
+#3469
+Environ {1} A
+Cerca de {1} A
+约{1} A
+Около {1} А
+Około {1} A
+Kb. {1} A
+Unos {1} A
+
+#3470
+Vérifier le contact {1} vers {2}
+Verificar o contato {1} para {2}
+检查触点{1}到{2}
+Проверьте контакт {1} — {2}
+Sprawdź styk {1} do {2}
+Ellenőrizze az érintkezőt: {1} – {2}
+Comprobar el contacto {1} a {2}
+
+#3471
+Hors tension et consigné. Avec {1} en position de repos (ni actionné, ni déclenché), mesurez la continuité aux bornes de ce contact, un fil déconnecté. Sain : {2}.
+Desenergizado e bloqueado. Com {1} na posição de repouso (não pressionado, não atuado), meça a continuidade nesse contato com um fio levantado. Saudável: {2}.
+已断电并上锁。让{1}处于静止位置（未按下、未跳闸），拆下一根导线后测量该触点的通断。正常：{2}。
+Питание отключено и заблокировано. При {1} в исходном положении (не нажат, не сработал) измерьте целостность этого контакта, отсоединив один провод. В норме: {2}.
+Zasilanie wyłączone i zablokowane. Przy {1} w położeniu spoczynkowym (nie wciśnięty, nie zadziałał) zmierz ciągłość na tym styku z odłączonym jednym przewodem. Prawidłowo: {2}.
+Áramtalanítva és lezárva. Amikor a(z) {1} nyugalmi helyzetben van (nincs megnyomva, nem old ki), mérje meg az érintkező folytonosságát egy vezeték lekötésével. Egészséges: {2}.
+Sin tensión y bloqueado. Con {1} en su posición de reposo (ni pulsado ni disparado), mida la continuidad de ese contacto con un cable levantado. Sano: {2}.
+
+#3472
+Mesurer la résistance de {1}
+Medir a resistência de {1}
+测量{1}的电阻
+Измерить сопротивление {1}
+Zmierz rezystancję {1}
+Mérje meg a(z) {1} ellenállását
+Medir la resistencia de {1}
+
+#3473
+Hors tension, consigné et vérifié absent de tension. Déconnectez un fil de {1} pour l'isoler. Calibre ohms entre {2} et {3}. Un composant sain indique environ {4}.
+Desenergizado, bloqueado e testado sem tensão. Levante um fio de {1} para que fique isolado. Faixa de ohms entre {2} e {3}. Um saudável lê cerca de {4}.
+已断电、上锁并验证无电。拆下{1}的一根导线，让它独立出来。在{2}和{3}之间用欧姆档测量。正常的读数约为{4}。
+Питание отключено, заблокировано, отсутствие напряжения проверено. Отсоедините один провод {1}, чтобы он был отдельно. Диапазон Ом между {2} и {3}. Исправный показывает около {4}.
+Zasilanie wyłączone, zablokowane i sprawdzony brak napięcia. Odłącz jeden przewód {1}, aby był osobno. Zakres omów między {2} a {3}. Sprawny wskazuje około {4}.
+Áramtalanítva, lezárva és a feszültségmentesség ellenőrizve. Kösse le a(z) {1} egyik vezetékét, hogy külön álljon. Ohm tartomány {2} és {3} között. Egy egészséges kb. {4}-t mutat.
+Sin tensión, bloqueado y comprobado sin tensión. Levante un cable de {1} para que quede solo. Rango de ohmios entre {2} y {3}. Uno sano lee unos {4}.
+
+#3474
+Environ {1}
+Cerca de {1}
+约{1}
+Около {1}
+Około {1}
+Kb. {1}
+Unos {1}
+
+#3475
+Appuyez sur {1} (arrêt)
+Pressione {1} (parar)
+按下{1}（停止）
+Нажмите {1} (стоп)
+Naciśnij {1} (stop)
+Nyomja meg: {1} (stop)
+Pulse {1} (paro)
+
+#3476
+Relâchez {1}
+Solte {1}
+松开{1}
+Отпустите {1}
+Zwolnij {1}
+Engedje el: {1}
+Suelte {1}
+
+#3477
+{1} réglé sur {2}
+{1} ajustado para {2}
+{1}设为{2}
+{1} установлен в {2}
+{1} ustawiono na {2}
+{1} beállítva: {2}
+{1} ajustado a {2}
+
+#3478
+{1} remis comme avant
+{1} de volta
+{1}恢复原位
+{1} возвращён обратно
+{1} z powrotem
+{1} visszaállítva
+{1} de vuelta
+
+#3479
+Appuyez sur {1}
+Pressione {1}
+按下{1}
+Нажмите {1}
+Naciśnij {1}
+Nyomja meg: {1}
+Pulse {1}
+
+#3480
+Enfoncez {1} (arrêt d'urgence)
+Acione {1} (parada de emergência)
+按下{1}（急停）
+Нажмите {1} (аварийный останов)
+Wciśnij {1} (wyłącznik awaryjny)
+Nyomja be: {1} (vészleállító)
+Pulse {1} (parada de emergencia)
+
+#3481
+{1} : le contact {2} doit être fermé : relâchez l'arrêt d'urgence
+{1}: o contato {2} deve estar fechado: solte a parada de emergência
+{1}的触点{2}必须闭合：松开急停
+{1}: контакт {2} должен быть замкнут: отпустите аварийный останов
+{1}: styk {2} musi być zamknięty: zwolnij wyłącznik awaryjny
+{1}: a(z) {2} érintkezőnek zárva kell lennie: engedje fel a vészleállítót
+{1}: el contacto {2} debe estar cerrado: suelte la parada de emergencia
+
+#3482
+{1} ({2}) ne se ferme que lorsqu'on appuie dessus
+{1} ({2}) só fecha enquanto está pressionado
+{1}（{2}）只有在被按下时才闭合
+{1} ({2}) замыкается только пока нажат
+{1} ({2}) zamyka się tylko wtedy, gdy jest wciśnięty
+{1} ({2}) csak addig zár, amíg meg van nyomva
+{1} ({2}) solo se cierra mientras está pulsado
+
+#3483
+{1} ({2}) est un contact normalement fermé : il doit être fermé (ni appuyé, ni cassé)
+{1} ({2}) é um contato normalmente fechado: deve estar fechado (não pressionado, não quebrado)
+{1}（{2}）是常闭触点：它必须闭合（未被按下、未损坏）
+{1} ({2}) — нормально замкнутый контакт: он должен быть замкнут (не нажат, не повреждён)
+{1} ({2}) jest stykiem normalnie zamkniętym: musi być zamknięty (nie wciśnięty, nie uszkodzony)
+{1} ({2}) alaphelyzetben zárt érintkező: zártnak kell lennie (nincs megnyomva, nem tört el)
+{1} ({2}) es un contacto normalmente cerrado: debe estar cerrado (no pulsado, no roto)
+
+#3484
+mettez {1} sur la position qui ferme {2}
+gire {1} para a posição que fecha {2}
+把{1}转到能使{2}闭合的位置
+поверните {1} в положение, замыкающее {2}
+obróć {1} do położenia, które zamyka {2}
+fordítsa a(z) {1} kapcsolót olyan állásba, amely zárja a(z) {2} érintkezőt
+gire {1} a la posición que cierra {2}
+
+#3485
+{1} doit être sur ON (enclenchez-le ou réarmez-le s'il a déclenché)
+{1} deve estar em ON (ligue-o ou rearme-o se atuou)
+{1}必须是ON（合上它，如果跳闸了就复位）
+{1} должен быть включён (ON): включите его или сбросьте, если он сработал
+{1} musi być w pozycji ON (włącz go lub zresetuj, jeśli zadziałał)
+{1} legyen ON állásban (kapcsolja be, vagy állítsa vissza, ha kioldott)
+{1} debe estar en ON (conéctelo o rearme si ha disparado)
+
+#3486
+le contact {1} de {2} ne se ferme que lorsque {2} est sous tension
+o contato {1} de {2} só fecha quando {2} está energizado
+{2}的触点{1}只有在{2}通电时才闭合
+контакт {1} у {2} замыкается только когда {2} под напряжением
+styk {1} w {2} zamyka się tylko wtedy, gdy {2} jest zasilony
+a(z) {2} {1} érintkezője csak akkor zár, ha a(z) {2} feszültség alatt van
+el contacto {1} de {2} solo se cierra cuando {2} está energizado
+
+#3487
+{1} ({2}) doit conduire
+{1} ({2}) deve conduzir
+{1}（{2}）必须导通
+{1} ({2}) должен проводить ток
+{1} ({2}) musi przewodzić
+{1} ({2}) vezetnie kell
+{1} ({2}) debe conducir
+
+#3488
+{1} a un défaut réglé : {2}
+{1} tem uma falha configurada: {2}
+{1}设置了故障：{2}
+У {1} задана неисправность: {2}
+{1} ma ustawioną usterkę: {2}
+Hiba van beállítva ({1}): {2}
+{1} tiene una avería activada: {2}
+
+#3489
+défaut : {1}
+falha: {1}
+故障：{1}
+неисправность: {1}
+usterka: {1}
+hiba: {1}
+avería: {1}
+
+#3490
+{1} est grillé
+{1} está queimado
+{1}已烧毁
+{1} сгорел
+{1} jest spalony
+{1} kiégett
+{1} está quemado
+
+#3491
+La borne {1} n'est reliée à rien
+O terminal {1} não está ligado a nada
+端子{1}没有接到任何东西
+Клемма {1} ни к чему не подключена
+Zacisk {1} nie jest do niczego podłączony
+A(z) {1} kapocs nincs semmihez kötve
+El borne {1} no está conectado a nada
+
+#3492
+Depuis {1}, il n'y a aucun chemin fermé vers l'alimentation
+A partir de {1} não há caminho fechado até a alimentação
+从{1}到电源没有闭合通路
+От {1} нет замкнутого пути к питанию
+Od {1} nie ma zamkniętej drogi do zasilania
+A(z) {1} felől nincs zárt út a betáplálásig
+Desde {1} no hay camino cerrado hasta la alimentación
+
+#3493
+Il conduirait si : {1}
+Conduziria se: {1}
+满足以下条件时它才会导通：{1}
+Он проводил бы ток, если: {1}
+Przewodziłby, gdyby: {1}
+Vezetne, ha: {1}
+Conduciría si: {1}
+
+#3494
+La borne {1} de ce côté est laissée libre : manque-t-il un fil ici ?
+O terminal {1} deste lado está solto: falta um fio aqui?
+这一侧的端子{1}悬空了：这里是不是少接了一根线？
+Клемма {1} с этой стороны осталась свободной: не пропущен ли здесь провод?
+Zacisk {1} po tej stronie pozostał wolny: czy brakuje tu przewodu?
+Ezen az oldalon a(z) {1} kapocs szabadon maradt: nem hiányzik itt egy vezeték?
+El borne {1} de este lado está libre: ¿falta un cable aquí?
+
+#3495
+Les deux bornes de {1} sont reliées au même pôle d'alimentation ({2}). Il n'y a pas de chemin de retour, donc aucun courant ne circule.
+Os dois terminais de {1} estão ligados ao mesmo polo da alimentação ({2}). Não há caminho de retorno, então nenhuma corrente flui.
+{1}的两个端子接到了同一个电源极（{2}）。没有回路，所以没有电流流过。
+Обе клеммы {1} подключены к одному полюсу питания ({2}). Обратного пути нет, поэтому ток не течёт.
+Oba zaciski {1} są połączone z tym samym biegunem zasilania ({2}). Nie ma drogi powrotnej, więc prąd nie płynie.
+A(z) {1} mindkét kapcsa ugyanahhoz a tápfeszültség-pólushoz csatlakozik ({2}). Nincs visszatérő út, ezért nem folyik áram.
+Los dos bornes de {1} están conectados al mismo polo de alimentación ({2}). No hay camino de retorno, así que no circula corriente.
+
+#3496
+Il n'est alimenté que lorsque : {1}
+Só recebe energia quando: {1}
+只有在以下情况才有电：{1}
+Питание на него подаётся только когда: {1}
+Dostaje zasilanie tylko wtedy, gdy: {1}
+Csak akkor kap betáplálást, ha: {1}
+Solo recibe alimentación cuando: {1}
+
+#3497
+L'alimentation arrive à {1} ({2} V) mais il ne fonctionne pas : l'appareil lui-même est défaillant ou n'est pas le bon
+A alimentação chega a {1} ({2} V), mas ele não opera: o próprio dispositivo está com defeito ou não é o correto
+电源到达了{1}（{2} V），但它不工作：元件本身有故障，或者不是该用的那个
+Питание доходит до {1} ({2} В), но он не работает: сам прибор неисправен или не тот, что нужен
+Zasilanie dociera do {1} ({2} V), ale urządzenie nie działa: samo urządzenie jest uszkodzone lub nie jest tym, czym powinno być
+A betáplálás eléri a(z) {1} eszközt ({2} V), de nem működik: maga az eszköz hibás, vagy nem az, aminek lennie kellene
+La alimentación llega a {1} ({2} V) pero no funciona: el propio dispositivo está averiado o no es el que debería ser
+
+#3498
+{1} n'est câblé à rien.
+{1} não está ligado a nada.
+{1}没有接任何线。
+{1} ни к чему не подключён.
+{1} nie jest do niczego podłączony.
+{1} nincs semmihez bekötve.
+{1} no está cableado a nada.
+
+#3499
+{1} : la broche d'alimentation {2} n'est pas connectée.
+{1}: o pino de alimentação {2} não está conectado.
+{1}：电源引脚{2}没有连接。
+{1}: вывод питания {2} не подключён.
+{1}: pin zasilania {2} nie jest podłączony.
+{1}: a(z) {2} tápláb nincs csatlakoztatva.
+{1}: el pin de alimentación {2} no está conectado.
+
+#3500
+La borne {1} n'est pas raccordée. {2} ne peut pas fonctionner avec une borne ouverte.
+O terminal {1} não está conectado. {2} não pode funcionar com um terminal aberto.
+端子{1}没有连接。{2}在端子开路的情况下无法工作。
+Клемма {1} не подключена. {2} не может работать с неподключённой клеммой.
+Zacisk {1} nie jest podłączony. {2} nie może działać z otwartym zaciskiem.
+A(z) {1} kapocs nincs csatlakoztatva. A(z) {2} nem működhet szabadon hagyott kapoccsal.
+El borne {1} no está conectado. {2} no puede funcionar con un borne abierto.
+
+#3501
+{1} n'a pas de liaison de terre de protection.
+{1} não tem conexão de terra de proteção.
+{1}没有保护接地连接。
+У {1} нет подключения защитного заземления.
+{1} nie ma połączenia uziemienia ochronnego.
+{1} nincs védőföld-csatlakozással ellátva.
+{1} no tiene conexión de tierra de protección.
+
+#3502
+Appuyer ensemble sur les boutons START met l'alimentation en court-circuit ({1}). Les contacteurs de marche avant et arrière peuvent se fermer en même temps.
+Pressionar os botões START juntos coloca a alimentação em curto ({1}). Os contatores de avanço e reversão podem fechar ao mesmo tempo.
+同时按下START按钮会使电源短路（{1}）。正转和反转接触器可能同时闭合。
+Одновременное нажатие кнопок START замыкает питание накоротко ({1}). Контакторы прямого и обратного хода могут замкнуться одновременно.
+Jednoczesne naciśnięcie przycisków START zwiera zasilanie ({1}). Styczniki obrotów w przód i wstecz mogą zamknąć się jednocześnie.
+A START gombok együttes megnyomása zárlatot okoz a betáplálásban ({1}). Az előre és hátra irányú kontaktorok egyszerre zárhatnak.
+Pulsar a la vez los botones START provoca un cortocircuito en la alimentación ({1}). Los contactores de avance y de retroceso pueden cerrarse al mismo tiempo.
+
+#3503
+Court-circuit pendant "{1}". Le trajet du courant comprend : {2}.
+Curto-circuito durante "{1}". O caminho da corrente inclui: {2}.
+在"{1}"期间发生短路。电流路径包括：{2}。
+Короткое замыкание во время "{1}". Путь тока включает: {2}.
+Zwarcie podczas "{1}". Droga prądu obejmuje: {2}.
+Zárlat a(z) "{1}" közben. Az áram útja ezeket tartalmazza: {2}.
+Cortocircuito durante "{1}". El camino de la corriente incluye: {2}.
+
+#3504
+{1} brûle dans la simulation{2} ({3}).
+{1} queima na simulação{2} ({3}).
+{1}在仿真中烧毁{2}（{3}）。
+{1} сгорает в симуляции{2} ({3}).
+{1} spala się w symulacji{2} ({3}).
+{1} kiég a szimulációban{2} ({3}).
+{1} se quema en la simulación{2} ({3}).
+
+#3505
+Vérifiez la tension nominale, la polarité, la limitation de courant et la protection de {1}.
+Verifique a tensão nominal, a polaridade, a limitação de corrente e a proteção de {1}.
+检查{1}的额定电压、极性、限流和保护。
+Проверьте номинальное напряжение, полярность, ограничение тока и защиту {1}.
+Sprawdź napięcie znamionowe, polaryzację, ograniczenie prądu i zabezpieczenie {1}.
+Ellenőrizze a(z) {1} névleges feszültségét, polaritását, áramkorlátozását és védelmét.
+Compruebe la tensión nominal, la polaridad, la limitación de corriente y la protección de {1}.
+
+#3506
+brûle{1}
+queima{1}
+烧毁{1}
+сгорает{1}
+pali się{1}
+kiég{1}
+se quema{1}
+
+#3507
+{1} déclenche{2} ({3}).
+{1} atua{2} ({3}).
+{1}跳闸{2}（{3}）。
+{1} срабатывает{2} ({3}).
+{1} zadziała{2} ({3}).
+{1} kiold{2} ({3}).
+{1} dispara{2} ({3}).
+
+#3508
+{1} est prévu pour {2} V mais reçoit {3} V.
+{1} é nominal de {2} V mas recebe {3} V.
+{1}的额定电压是{2} V，但实际承受{3} V。
+{1} рассчитан на {2} В, но получает {3} В.
+{1} ma napięcie znamionowe {2} V, ale dostaje {3} V.
+{1} névleges feszültsége {2} V, de {3} V-ot kap.
+{1} tiene una tensión nominal de {2} V pero recibe {3} V.
+
+#3509
+surtension {1} V
+sobretensão {1} V
+过电压{1} V
+перенапряжение {1} В
+przepięcie {1} V
+túlfeszültség {1} V
+sobretensión {1} V
+
+#3510
+{1} a besoin d'environ {2} V mais n'en reçoit que {3} V.
+{1} precisa de cerca de {2} V mas recebe só {3} V.
+{1}需要约{2} V，但只得到{3} V。
+{1} нужно около {2} В, а получает только {3} В.
+{1} potrzebuje około {2} V, ale dostaje tylko {3} V.
+{1} esetén kb. {2} V kellene, de csak {3} V érkezik.
+{1} necesita unos {2} V pero recibe solo {3} V.
+
+#3511
+tension basse {1} V
+tensão baixa {1} V
+低电压{1} V
+низкое напряжение {1} В
+niskie napięcie {1} V
+alacsony feszültség {1} V
+tensión baja {1} V
+
+#3512
+{1} est un appareil en alternatif mais reçoit du continu.
+{1} é um dispositivo de CA mas recebe CC.
+{1}是交流器件，但接的是直流。
+{1} — устройство переменного тока, но получает постоянный.
+{1} jest urządzeniem na prąd przemienny, ale dostaje prąd stały.
+{1} váltakozó áramú eszköz, de egyenáramot kap.
+{1} es un dispositivo de CA pero recibe CC.
+
+#3513
+{1} est un appareil en continu mais reçoit de l'alternatif.
+{1} é um dispositivo de CC mas recebe CA.
+{1}是直流器件，但接的是交流。
+{1} — устройство постоянного тока, но получает переменный.
+{1} jest urządzeniem na prąd stały, ale dostaje prąd przemienny.
+{1} egyenáramú eszköz, de váltakozó áramot kap.
+{1} es un dispositivo de CC pero recibe CA.
+
+#3514
+{1} est branché à l'envers ({2} est au potentiel le plus bas).
+{1} está ligado ao contrário ({2} está na tensão mais baixa).
+{1}接反了（{2}处在较低电压一侧）。
+{1} подключён наоборот ({2} находится на меньшем потенциале).
+{1} jest podłączony odwrotnie ({2} ma niższe napięcie).
+{1} fordítva van bekötve ({2} van az alacsonyabb feszültségen).
+{1} está conectado al revés ({2} está a la tensión más baja).
+
+#3515
+{1} ({2} mm²) transporte jusqu'à {3} A mais n'est prévu que pour environ {4} A.
+{1} ({2} mm²) conduz até {3} A mas suporta cerca de {4} A.
+{1}（{2} mm²）最大通过{3} A，但额定电流约为{4} A。
+{1} ({2} мм²) пропускает до {3} А, но рассчитан примерно на {4} А.
+{1} ({2} mm²) przewodzi do {3} A, ale jest dobrany na około {4} A.
+{1} ({2} mm²) akár {3} A-t is vezet, de kb. {4} A-re méretezett.
+{1} ({2} mm²) lleva hasta {3} A pero está dimensionado para unos {4} A.

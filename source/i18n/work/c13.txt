@@ -1,0 +1,2070 @@
+#2366
+Repère / numéro d'inventaire
+Tag / número do ativo
+位号 / 资产编号
+Позиция / инвентарный номер
+Oznaczenie / numer inwentarzowy
+Azonosító / leltári szám
+Etiqueta / número de activo
+
+#2367
+Emplacement
+Local
+位置
+Местоположение
+Lokalizacja
+Helyszín
+Ubicación
+
+#2368
+Inspecteur
+Inspetor
+检查人
+Проверяющий
+Inspektor
+Ellenőr
+Inspector
+
+#2369
+Notes
+Notas
+备注
+Заметки
+Notatki
+Jegyzetek
+Notas
+
+#2370
+5. Apprendre à l'application
+5. Ensinar o aplicativo
+5. 教应用学习
+5. Обучить приложение
+5. Naucz aplikację
+5. Tanítsa az alkalmazást
+5. Enseñar a la aplicación
+
+#2371
+Quand vous connaissez la vraie cause, enregistrez le cas. L'application utilise vos cas pour mieux classer les causes la prochaine fois. Les cas restent sur cet appareil.
+Quando você souber a causa real, salve o caso. O aplicativo usa seus casos para ordenar melhor as causas da próxima vez. Os casos ficam neste dispositivo.
+知道真正原因之后，请把这个案例保存下来。应用会根据你的案例，下次把原因排得更准。案例只保存在这台设备上。
+Когда вы знаете настоящую причину, сохраните случай. Приложение использует ваши случаи, чтобы в следующий раз точнее ранжировать причины. Случаи остаются на этом устройстве.
+Gdy znasz prawdziwą przyczynę, zapisz przypadek. Aplikacja wykorzystuje Twoje przypadki, aby następnym razem lepiej szeregować przyczyny. Przypadki zostają na tym urządzeniu.
+Ha ismeri a valódi okot, mentse el az esetet. Az alkalmazás az Ön eseteiből legközelebb jobban rangsorolja az okokat. Az esetek ezen az eszközön maradnak.
+Cuando conozca la causa real, guarde el caso. La aplicación usa sus casos para ordenar mejor las causas la próxima vez. Los casos se quedan en este dispositivo.
+
+#2372
+Autre : je vais la décrire
+Outro: vou descrever
+其他：我来描述
+Другое: я опишу
+Inne: opiszę
+Egyéb: leírom
+Otro: lo describiré
+
+#2373
+Nom de la vraie cause
+Nome da causa real
+真正原因的名称
+Название настоящей причины
+Nazwa prawdziwej przyczyny
+A valódi ok neve
+Nombre de la causa real
+
+#2374
+Qu'est-ce qui l'a réparé ?
+O que resolveu?
+是什么修好了它？
+Что помогло исправить?
+Co to naprawiło?
+Mi javította meg?
+¿Qué lo arregló?
+
+#2375
+La vraie cause était
+A causa real foi
+真正的原因是
+Настоящей причиной было
+Prawdziwą przyczyną było
+A valódi ok ez volt
+La causa real fue
+
+#2376
+Enregistrer le cas
+Salvar o caso
+保存案例
+Сохранить случай
+Zapisz przypadek
+Eset mentése
+Guardar el caso
+
+#2377
+Écrivez le nom de la cause.
+Escreva o nome da causa.
+请填写原因名称。
+Впишите название причины.
+Wpisz nazwę przyczyny.
+Írja be az ok nevét.
+Escriba el nombre de la causa.
+
+#2378
+Cas enregistré. L'application en tiendra compte la prochaine fois.
+Caso salvo. O aplicativo vai levá-lo em conta da próxima vez.
+案例已保存。应用下次会将它纳入权重。
+Случай сохранён. Приложение учтёт его в следующий раз.
+Przypadek zapisany. Aplikacja uwzględni go następnym razem.
+Az eset elmentve. Az alkalmazás legközelebb figyelembe veszi.
+Caso guardado. La aplicación lo tendrá en cuenta la próxima vez.
+
+#2379
+Enregistré. Vous pouvez commencer une nouvelle inspection.
+Salvo. Você pode iniciar uma nova inspeção.
+已保存。你可以开始新的检查了。
+Сохранено. Можно начинать новый осмотр.
+Zapisano. Możesz rozpocząć nową inspekcję.
+Elmentve. Elkezdhet egy új ellenőrzést.
+Guardado. Puede empezar una nueva inspección.
+
+#2380
+Cas similaires que vous avez enregistrés
+Casos semelhantes que você salvou
+你保存过的类似案例
+Похожие случаи, которые вы сохраняли
+Podobne zapisane przez Ciebie przypadki
+Hasonló eseteket, amelyeket elmentett
+Casos similares que guardó
+
+#2381
+correspondance
+semelhança
+匹配
+совпадение
+zgodność
+egyezés
+coincidencia
+
+#2382
+6. Rapport
+6. Relatório
+6. 报告
+6. Отчёт
+6. Raport
+6. Jelentés
+6. Informe
+
+#2383
+Télécharger le rapport (.html)
+Baixar relatório (.html)
+下载报告（.html）
+Скачать отчёт (.html)
+Pobierz raport (.html)
+Jelentés letöltése (.html)
+Descargar informe (.html)
+
+#2384
+Copier le résumé
+Copiar resumo
+复制摘要
+Скопировать сводку
+Kopiuj podsumowanie
+Összefoglaló másolása
+Copiar resumen
+
+#2385
+Copié.
+Copiado.
+已复制。
+Скопировано.
+Skopiowano.
+Másolva.
+Copiado.
+
+#2386
+Copie impossible.
+Não foi possível copiar.
+无法复制。
+Не удалось скопировать.
+Nie udało się skopiować.
+A másolás nem sikerült.
+No se pudo copiar.
+
+#2387
+La copie n'est pas disponible dans ce navigateur.
+Copiar não está disponível neste navegador.
+此浏览器不支持复制。
+Копирование недоступно в этом браузере.
+Kopiowanie nie jest dostępne w tej przeglądarce.
+Ebben a böngészőben a másolás nem érhető el.
+Copiar no está disponible en este navegador.
+
+#2388
+Facultatif : demander à l'IA en ligne de regarder la photo
+Opcional: pedir à IA online que olhe a foto
+可选：请在线AI查看照片
+Необязательно: попросить онлайн-ИИ посмотреть фото
+Opcjonalnie: poproś internetowe AI o obejrzenie zdjęcia
+Nem kötelező: kérje az online MI-t, hogy nézze meg a fotót
+Opcional: pedir a la IA en línea que mire la foto
+
+#2389
+Nécessite internet et votre propre clé API. La photo et vos notes sont envoyées au service d'IA. Ne l'utilisez pas pour quoi que ce soit de confidentiel. Les réseaux d'entreprise la bloquent souvent. La méthode intégrée ci-dessus fonctionne sans elle.
+Precisa de internet e da sua própria chave de API. A foto e suas anotações vão para o serviço de IA. Não use para nada confidencial. Redes corporativas costumam bloqueá-la. O método integrado acima funciona sem ela.
+需要联网和你自己的API密钥。照片和你的备注会发送到AI服务。涉及机密的内容不要使用。公司网络经常会屏蔽它。上面的内置方法不需要它也能使用。
+Требуются интернет и ваш собственный ключ API. Фото и ваши заметки отправляются в сервис ИИ. Не используйте для чего-либо конфиденциального. Корпоративные сети часто блокируют его. Встроенный метод выше работает без него.
+Wymaga internetu i Twojego własnego klucza API. Zdjęcie i notatki trafiają do usługi AI. Nie używaj do niczego poufnego. Sieci firmowe często ją blokują. Wbudowana metoda powyżej działa bez niej.
+Internetre és saját API-kulcsra van szükség. A fotó és a jegyzetei az MI-szolgáltatáshoz kerülnek. Ne használja semmi bizalmashoz. A vállalati hálózatok gyakran blokkolják. A fenti beépített módszer nélküle is működik.
+Necesita internet y su propia clave de API. La foto y sus notas van al servicio de IA. No lo use para nada confidencial. Las redes corporativas suelen bloquearlo. El método integrado de arriba funciona sin él.
+
+#2390
+Analyse de la photo...
+Analisando a foto...
+正在分析照片...
+Анализ фото...
+Analizowanie zdjęcia...
+A fotó elemzése...
+Analizando la foto...
+
+#2391
+Analyser la photo avec l'IA
+Analisar a foto com IA
+用AI分析照片
+Проанализировать фото с помощью ИИ
+Analizuj zdjęcie z pomocą AI
+Fotó elemzése MI-vel
+Analizar la foto con IA
+
+#2392
+Ajouter les repères de l'IA comme épingles
+Adicionar as marcas da IA como pinos
+把AI的标记添加为图钉
+Добавить отметки ИИ как булавки
+Dodaj oznaczenia AI jako pinezki
+Az MI jelöléseinek hozzáadása tűként
+Añadir las marcas de la IA como chinchetas
+
+#2393
+Rapport d'inspection :
+Relatório de inspeção:
+检查报告：
+Отчёт об осмотре:
+Raport z inspekcji:
+Ellenőrzési jelentés:
+Informe de inspección:
+
+#2394
+Symptômes :
+Sintomas:
+症状：
+Симптомы:
+Objawy:
+Tünetek:
+Síntomas:
+
+#2395
+Observé :
+Observado:
+观察到：
+Наблюдается:
+Zaobserwowano:
+Megfigyelt:
+Observado:
+
+#2396
+Causes probables :
+Causas prováveis:
+可能的原因：
+Вероятные причины:
+Prawdopodobne przyczyny:
+Valószínű okok:
+Causas probables:
+
+#2397
+Notes :
+Notas:
+备注：
+Заметки:
+Notatki:
+Jegyzetek:
+Notas:
+
+#2398
+Repère
+Tag
+位号
+Позиция
+Oznaczenie
+Azonosító
+Etiqueta
+
+#2399
+Symptômes
+Sintomas
+症状
+Симптомы
+Objawy
+Tünetek
+Síntomas
+
+#2400
+Observé
+Observado
+观察到
+Наблюдается
+Zaobserwowano
+Megfigyelt
+Observado
+
+#2401
+Contrôles et mesures
+Verificações e medições
+检查与测量
+Проверки и измерения
+Kontrole i pomiary
+Ellenőrzések és mérések
+Comprobaciones y mediciones
+
+#2402
+Causes probables
+Causas prováveis
+可能的原因
+Вероятные причины
+Prawdopodobne przyczyny
+Valószínű okok
+Causas probables
+
+#2403
+Cause
+Causa
+原因
+Причина
+Przyczyna
+Ok
+Causa
+
+#2404
+Prévention
+Prevenção
+预防
+Профилактика
+Zapobieganie
+Megelőzés
+Prevención
+
+#2405
+Une estimation classée à partir des faits saisis, pas une certitude. Confirmez par la mesure et la documentation du constructeur avant de remplacer des pièces. Isolez et verrouillez avant toute intervention manuelle.
+Uma estimativa ordenada a partir dos fatos informados, não uma certeza. Confirme por medição e pela documentação do fabricante antes de substituir peças. Isole e bloqueie antes de qualquer trabalho manual.
+根据输入的信息排出的估计，并非确定的结论。更换部件之前，请通过测量和制造商的文档加以确认。动手作业之前，要先隔离并上锁。
+Ранжированная оценка по введённым фактам, а не уверенность. Подтвердите измерением и документацией производителя, прежде чем менять детали. Перед работой руками отключите и заблокируйте.
+Uszeregowana ocena na podstawie wprowadzonych faktów, a nie pewność. Przed wymianą części potwierdź pomiarem i dokumentacją producenta. Przed pracą przy urządzeniu odetnij i zablokuj.
+A megadott tények alapján rangsorolt becslés, nem bizonyosság. Alkatrészcsere előtt erősítse meg méréssel és a gyártó dokumentációjával. Kézi munka előtt válassza le és zárja le.
+Una estimación ordenada a partir de los datos introducidos, no una certeza. Confirme con la medición y la documentación del fabricante antes de sustituir piezas. Aísle y bloquee antes de trabajar con las manos.
+
+#2406
+À rechercher :
+O que procurar:
+要找什么：
+На что обратить внимание:
+Na co zwrócić uwagę:
+Mit keressen:
+Qué buscar:
+
+#2407
+Ce que cela signifie :
+O que significa:
+这意味着什么：
+Что это значит:
+Co to oznacza:
+Mit jelent:
+Qué significa:
+
+#2408
+Une référence dessinée, pas une photo de votre équipement.
+Uma referência desenhada, não uma foto do seu equipamento.
+这是绘制的参考图，不是你设备的照片。
+Нарисованный образец, а не фото вашего оборудования.
+Rysunek referencyjny, a nie zdjęcie Twojego urządzenia.
+Rajzolt referencia, nem az Ön berendezésének fotója.
+Una referencia dibujada, no una foto de su equipo.
+
+#2409
+Galerie des défauts
+Galeria de defeitos
+缺陷图库
+Галерея дефектов
+Galeria usterek
+Hibagaléria
+Galería de defectos
+
+#2410
+Touchez une image pour voir ce qu'il faut chercher et ce que cela signifie.
+Toque em uma imagem para ver o que procurar e o que significa.
+点一下图片，了解要找什么、意味着什么。
+Нажмите на картинку, чтобы увидеть, на что обратить внимание и что это значит.
+Dotknij obrazka, aby zobaczyć, na co zwrócić uwagę i co to oznacza.
+Érintsen meg egy képet, hogy lássa, mit keressen, és mit jelent.
+Toque una imagen para ver qué buscar y qué significa.
+
+#2411
+Ce fichier n'est pas un export de cas.
+Esse arquivo não é uma exportação de casos.
+该文件不是案例导出文件。
+Этот файл не является экспортом случаев.
+Ten plik nie jest eksportem przypadków.
+Ez a fájl nem esetexport.
+Ese archivo no es una exportación de casos.
+
+#2412
+Tout effacer
+Limpar tudo
+全部清除
+Очистить всё
+Wyczyść wszystko
+Összes törlése
+Borrar todo
+
+#2413
+Supprimer tous les cas enregistrés ?
+Excluir todos os casos salvos?
+删除所有已保存的案例吗？
+Удалить все сохранённые случаи?
+Usunąć wszystkie zapisane przypadki?
+Törli az összes elmentett esetet?
+¿Eliminar todos los casos guardados?
+
+#2414
+Cas enregistrés
+Casos salvos
+已保存的案例
+Сохранённые случаи
+Zapisane przypadki
+Elmentett esetek
+Casos guardados
+
+#2415
+Inspecter et diagnostiquer
+Inspecionar e diagnosticar
+检查与诊断
+Осмотр и диагностика
+Inspekcja i diagnoza
+Ellenőrzés és diagnosztika
+Inspeccionar y diagnosticar
+
+#2416
+Galerie
+Galeria
+图库
+Галерея
+Galeria
+Galéria
+Galería
+
+#2417
+Nouvelle inspection
+Nova inspeção
+新建检查
+Новый осмотр
+Nowa inspekcja
+Új ellenőrzés
+Nueva inspección
+
+#2418
+Choisissez l'équipement. Ajoutez ensuite une photo, ce qui ne va pas, ce que vous voyez, et l'application vous guide dans les contrôles, un à la fois, jusqu'à ce que la cause soit claire.
+Escolha o equipamento. Depois adicione uma foto, o que está errado e o que você vê, e o aplicativo guia você pelas verificações, uma de cada vez, até a causa ficar clara.
+选择设备。然后添加照片、哪里不对、你看到了什么，应用会引导你一次一项地做检查，直到原因清楚为止。
+Выберите оборудование. Затем добавьте фото, что не так и что вы видите, и приложение проведёт вас по проверкам одну за другой, пока причина не станет ясной.
+Wybierz urządzenie. Potem dodaj zdjęcie, co jest nie tak i co widzisz, a aplikacja poprowadzi Cię przez sprawdzenia, jedno po drugim, aż przyczyna stanie się jasna.
+Válassza ki a berendezést. Majd adjon hozzá fotót, azt, hogy mi a hiba, és mit lát, az alkalmazás pedig egyenként végigvezeti az ellenőrzéseken, amíg az ok nem világos.
+Elija el equipo. Luego añada una foto, qué está mal y qué ve, y la aplicación le guía por las comprobaciones, una a una, hasta que la causa quede clara.
+
+#2419
+symptômes
+sintomas
+个症状
+симптомов
+objawów
+tünet
+síntomas
+
+#2420
+cas
+casos
+个案例
+случаев
+przypadków
+eset
+casos
+
+#2421
+La base de connaissances intégrée fonctionne hors ligne. Elle classe les causes selon les schémas de panne typiques et ce que vous saisissez. C'est un guide, pas un substitut à la documentation du constructeur ni à une personne compétente.
+A base de conhecimento integrada funciona offline. Ela ordena as causas usando padrões típicos de falha e o que você informa. É um guia, não um substituto da documentação do fabricante nem de uma pessoa competente.
+内置的知识库可离线使用。它根据典型的故障规律和你输入的信息给原因排序。它只是一个指引，不能代替制造商的文档，也不能代替有资质的人员。
+Встроенная база знаний работает офлайн. Она ранжирует причины по типичным схемам отказов и по тому, что вы вводите. Это подсказка, а не замена документации производителя или компетентного специалиста.
+Wbudowana baza wiedzy działa offline. Szereguje przyczyny na podstawie typowych wzorców awarii i tego, co wpiszesz. To przewodnik, a nie zamiennik dokumentacji producenta ani osoby kompetentnej.
+A beépített tudásbázis offline működik. A tipikus meghibásodási minták és az Ön által megadottak alapján rangsorolja az okokat. Útmutató, nem pótolja a gyártó dokumentációját vagy egy hozzáértő személyt.
+La base de conocimiento integrada funciona sin conexión. Ordena las causas usando patrones típicos de avería y lo que usted introduce. Es una guía, no un sustituto de la documentación del fabricante ni de una persona competente.
+
+#2422
+Isolez et verrouillez avant de toucher quoi que ce soit.
+Isole e bloqueie antes de tocar em qualquer coisa.
+动任何东西之前，先隔离并上锁。
+Прежде чем к чему-либо прикасаться, отключите и заблокируйте.
+Odetnij i zablokuj, zanim czegokolwiek dotkniesz.
+Mielőtt bármihez hozzányúl, válassza le és zárja le.
+Aísle y bloquee antes de tocar nada.
+
+#2423
+Changer
+Alterar
+更改
+Изменить
+Zmień
+Módosítás
+Cambiar
+
+#2424
+Avant de commencer
+Antes de começar
+开始之前
+Прежде чем начать
+Zanim zaczniesz
+Mielőtt elkezdi
+Antes de empezar
+
+#2425
+Mesurez d'abord l'alimentation à l'entrée, puis suivez le signal jusqu'au point où la tension disparaît.
+Meça primeiro a alimentação na entrada e depois siga o sinal até o ponto onde a tensão desaparece.
+先在输入端测量电源，然后顺着信号走，直到电压消失的那一点。
+Сначала измерьте питание на входе, затем проследите сигнал до точки, где напряжение пропадает.
+Najpierw zmierz zasilanie na wejściu, potem podążaj za sygnałem do punktu, w którym napięcie znika.
+Először mérje meg a betáplálást a bemeneten, majd kövesse a jelet addig a pontig, ahol a feszültség eltűnik.
+Mida primero la alimentación en la entrada y luego siga la señal hasta el punto donde desaparece la tensión.
+
+#2426
+Pilote à transistor : la LED ne s'allume jamais
+Driver a transistor: o LED nunca acende
+晶体管驱动：LED始终不亮
+Транзисторный драйвер: светодиод никогда не загорается
+Sterownik tranzystorowy: dioda LED nigdy się nie świeci
+Tranzisztoros meghajtó: a LED sosem világít
+Driver de transistor: el LED nunca se enciende
+
+#2427
+Une carte 12 V alimente une LED via un transistor NPN. La LED reste éteinte.
+Uma placa de 12 V aciona um LED por um transistor NPN. O LED continua apagado.
+一块12 V的板子通过NPN晶体管驱动一个LED。LED一直不亮。
+Плата 12 В управляет светодиодом через NPN-транзистор. Светодиод остаётся тёмным.
+Płytka 12 V steruje diodą LED przez tranzystor NPN. Dioda pozostaje ciemna.
+Egy 12 V-os kártya NPN tranzisztoron át hajt meg egy LED-et. A LED sötét marad.
+Una placa de 12 V excita un LED mediante un transistor NPN. El LED sigue apagado.
+
+#2428
+Décidez si c'est le courant de base ou le transistor lui-même qui est en cause, puis remplacez la pièce défectueuse.
+Decida se a falha está no acionamento da base ou no próprio transistor e depois substitua a peça defeituosa.
+判断是基极驱动有问题，还是晶体管本身有问题，然后更换有故障的部件。
+Определите, неисправен ли базовый привод или сам транзистор, затем замените неисправную деталь.
+Ustal, czy winne jest sterowanie bazy, czy sam tranzystor, a potem wymień uszkodzoną część.
+Döntse el, hogy a bázisvezérlés vagy maga a tranzisztor a hibás, majd cserélje a meghibásodott alkatrészt.
+Decida si el fallo está en la excitación de base o en el propio transistor y luego sustituya la pieza defectuosa.
+
+#2429
+Mesurez base-émetteur (B vers E) sur Q1. Environ 0,65 V signifie que la base est correctement pilotée.
+Meça base-emissor (B para E) em Q1. Cerca de 0,65 V significa que a base está sendo acionada corretamente.
+测量Q1的基极—发射极（B对E）。约0.65 V说明基极的驱动是正常的。
+Измерьте база–эмиттер (B на E) у Q1. Около 0,65 В означает, что база управляется правильно.
+Zmierz bazę względem emitera (B do E) na Q1. Około 0,65 V oznacza, że baza jest prawidłowo sterowana.
+Mérje meg Q1 bázis–emitter feszültségét (B és E között). Körülbelül 0,65 V azt jelenti, hogy a bázis vezérlése rendben van.
+Mida base-emisor (B a E) en Q1. Unos 0,65 V significa que la base se excita correctamente.
+
+#2430
+Si la base est correcte, mesurez collecteur-émetteur (C vers E). Presque tout le 12 V signifie que le transistor ne conduit pas, bien qu'il soit piloté.
+Com a base boa, meça coletor-emissor (C para E). Quase os 12 V completos significam que o transistor não conduz, embora esteja sendo acionado.
+基极正常的话，再测集电极—发射极（C对E）。几乎是完整的12 V，说明晶体管虽然被驱动了却不导通。
+Если база в порядке, измерьте коллектор–эмиттер (C на E). Почти полные 12 В означают, что транзистор не проводит, хотя управляется.
+Jeśli baza jest w porządku, zmierz kolektor względem emitera (C do E). Prawie pełne 12 V oznacza, że tranzystor nie przewodzi, mimo że jest sterowany.
+Ha a bázis rendben van, mérje meg a kollektor–emitter feszültséget (C és E között). Szinte a teljes 12 V azt jelenti, hogy a tranzisztor nem vezet, bár vezérlik.
+Si la base está bien, mida colector-emisor (C a E). Casi los 12 V completos significan que el transistor no conduce aunque esté excitado.
+
+#2431
+Sélectionnez Q1 et appuyez sur Remplacer.
+Selecione Q1 e pressione Substituir.
+选中Q1，然后点"更换"。
+Выберите Q1 и нажмите «Заменить».
+Wybierz Q1 i naciśnij Wymień.
+Jelölje ki Q1-et, és nyomja meg a Csere gombot.
+Seleccione Q1 y pulse Sustituir.
+
+#2432
+Corrigé. Base à 0,65 V et pleine alimentation entre C et E : c'est le signe classique d'un transistor ouvert.
+Corrigido. Base em 0,65 V e alimentação plena entre C e E é o sinal clássico de um transistor aberto.
+已修复。基极0.65 V、C与E之间是全部电源电压，这是晶体管开路的典型表现。
+Исправлено. База на 0,65 В и полное питание между C и E — классический признак оборванного транзистора.
+Naprawiono. Baza na 0,65 V i pełne zasilanie między C a E to podręcznikowy objaw przerwanego tranzystora.
+Javítva. A bázis 0,65 V-on van, és a teljes betáplálás a C és E között: ez a szakadt tranzisztor tankönyvi jele.
+Corregido. Base a 0,65 V y alimentación completa entre C y E es la señal típica de un transistor abierto.
+
+#2433
+Le canal d'entrée de l'optocoupleur est mort
+O canal de entrada do optoacoplador está morto
+光耦输入通道已坏
+Входной канал оптопары не работает
+Kanał wejściowy transoptora jest martwy
+Az optocsatoló bemeneti csatornája halott
+El canal de entrada del optoacoplador está muerto
+
+#2434
+Un signal terrain 24 V est câblé à un optocoupleur. La LED témoin côté 5 V ne s'allume jamais.
+Um sinal de campo de 24 V está ligado a um optoacoplador. O LED indicador do lado de 5 V nunca acende.
+一个24 V现场信号接到一只光耦上。5 V侧的指示LED始终不亮。
+Полевой сигнал 24 В подключён к оптопаре. Индикаторный светодиод на стороне 5 В никогда не загорается.
+Sygnał polowy 24 V jest podłączony do transoptora. Dioda kontrolna po stronie 5 V nigdy się nie świeci.
+Egy 24 V-os terepi jel optocsatolóra van kötve. Az 5 V-os oldali jelzőLED sosem világít.
+Una señal de campo de 24 V está cableada a un optoacoplador. El LED indicador del lado de 5 V nunca se enciende.
+
+#2435
+Trouvez quel côté de l'optocoupleur est mort et remplacez-le.
+Descubra qual lado do optoacoplador está morto e substitua-o.
+找出光耦哪一侧坏了，并更换它。
+Найдите, какая сторона оптопары неисправна, и замените её.
+Ustal, która strona transoptora jest martwa, i wymień go.
+Derítse ki, az optocsatoló melyik oldala halott, és cserélje ki.
+Encuentre qué lado del optoacoplador está muerto y sustitúyalo.
+
+#2436
+Mesurez aux bornes de la résistance R1. Si elle indique 0 V, aucun courant ne traverse la LED d'entrée.
+Meça sobre o resistor R1. Se houver 0 V, nenhuma corrente passa pelo LED de entrada.
+测量电阻R1两端。如果是0 V，说明没有电流流过输入LED。
+Измерьте на резисторе R1. Если там 0 В, ток через входной светодиод не идёт.
+Zmierz na rezystorze R1. Jeśli jest tam 0 V, przez diodę wejściową nie płynie prąd.
+Mérje az R1 ellenálláson. Ha 0 V van rajta, nem folyik áram a bemeneti LED-en.
+Mida en la resistencia R1. Si tiene 0 V, no circula corriente por el LED de entrada.
+
+#2437
+Mesurez ensuite entre les broches A et K de U1 : presque tout le 24 V signifie que la LED d'entrée est ouverte.
+Depois meça entre os pinos A e K de U1: quase os 24 V completos significam que o LED de entrada está aberto.
+然后测量U1的A脚和K脚之间：几乎是完整的24 V，说明输入LED开路。
+Затем измерьте между выводами A и K у U1: почти полные 24 В означают, что входной светодиод оборван.
+Następnie zmierz między nóżkami A i K układu U1: prawie pełne 24 V oznacza, że dioda wejściowa jest przerwana.
+Ezután mérje meg U1 A és K lába között: szinte a teljes 24 V azt jelenti, hogy a bemeneti LED szakadt.
+Después mida entre los pines A y K de U1: casi los 24 V completos significan que el LED de entrada está abierto.
+
+#2438
+Corrigé. Le côté terrain (24 V) et le côté logique (5 V) sont isolés, donc chaque côté se contrôle par rapport à son propre 0 V.
+Corrigido. O lado de campo (24 V) e o lado lógico (5 V) são isolados, então cada lado é verificado contra o seu próprio 0 V.
+已修复。现场侧（24 V）和逻辑侧（5 V）是隔离的，所以每一侧都要对着自己的0 V来测。
+Исправлено. Полевая сторона (24 В) и логическая сторона (5 В) изолированы, поэтому каждая проверяется относительно своего 0 В.
+Naprawiono. Strona polowa (24 V) i logiczna (5 V) są izolowane, więc każda strona jest sprawdzana względem własnego 0 V.
+Javítva. A terepi oldal (24 V) és a logikai oldal (5 V) el van szigetelve, ezért mindkét oldalt a saját 0 V-jához képest kell vizsgálni.
+Corregido. El lado de campo (24 V) y el lado lógico (5 V) están aislados, así que cada lado se comprueba respecto a su propio 0 V.
+
+#2439
+Pilote de relais : le relais ne claque jamais
+Driver de relé: o relé nunca estala
+继电器驱动：继电器始终不吸合
+Драйвер реле: реле никогда не щёлкает
+Sterownik przekaźnika: przekaźnik nigdy nie kliknie
+Relémeghajtó: a relé sosem kattan
+Driver de relé: el relé nunca hace clic
+
+#2440
+Un transistor doit commuter un relais 12 V et allumer une lampe sur son contact. Rien ne se passe et il n'y a pas de claquement.
+Um transistor deveria acionar um relé de 12 V e acender uma lâmpada no contato dele. Nada acontece e não há estalo.
+一只晶体管应当驱动一个12 V继电器，并通过它的触点点亮一盏灯。什么都没发生，也听不到吸合声。
+Транзистор должен включать реле 12 В и зажигать лампу через его контакт. Ничего не происходит, щелчка нет.
+Tranzystor powinien załączać przekaźnik 12 V i zapalać lampę na jego styku. Nic się nie dzieje i nie słychać kliknięcia.
+Egy tranzisztornak kellene kapcsolnia egy 12 V-os relét, és világítania egy lámpát az érintkezőjén. Semmi nem történik, és nincs kattanás.
+Un transistor debería conmutar un relé de 12 V y encender una lámpara en su contacto. No pasa nada y no hay clic.
+
+#2441
+Trouvez pourquoi le relais ne colle pas. Mesurez la bobine, puis remplacez la pièce défectueuse.
+Descubra por que o relé não atua. Meça a bobina e depois substitua a peça defeituosa.
+找出继电器为什么不吸合。测量线圈，然后更换有故障的部件。
+Выясните, почему реле не срабатывает. Измерьте катушку, затем замените неисправную деталь.
+Ustal, dlaczego przekaźnik nie przyciąga. Zmierz cewkę, potem wymień uszkodzoną część.
+Derítse ki, miért nem húz be a relé. Mérje meg a tekercset, majd cserélje a meghibásodott alkatrészt.
+Averigüe por qué no atrae el relé. Mida la bobina y luego sustituya la pieza defectuosa.
+
+#2442
+Mesurez aux bornes de la bobine du relais (A vers B) transistor passant. Les 12 V complets aux bornes d'une bobine sans courant signifient que la bobine est ouverte.
+Meça sobre a bobina do relé (A para B) com o transistor ligado. Os 12 V completos sobre uma bobina sem corrente significam que a bobina está aberta.
+在晶体管导通时，测量继电器线圈两端（A对B）。线圈两端是完整的12 V却没有电流，说明线圈开路。
+Измерьте на катушке реле (A на B) при включённом транзисторе. Полные 12 В на катушке без тока означают, что катушка оборвана.
+Zmierz na cewce przekaźnika (A do B) przy włączonym tranzystorze. Pełne 12 V na cewce, przez którą nic nie płynie, oznacza, że cewka jest przerwana.
+Mérje meg a relétekercsen (A és B között) bekapcsolt tranzisztornál. Ha a teljes 12 V rajta van, és nem folyik áram, a tekercs szakadt.
+Mida en la bobina del relé (A a B) con el transistor activado. Los 12 V completos en una bobina sin circulación de corriente significan que la bobina está abierta.
+
+#2443
+La diode D2 en parallèle sur la bobine absorbe la pointe à la coupure. Elle n'est pas la cause ici.
+O diodo D2 sobre a bobina absorve o pico no desligamento. Ele não é a causa aqui.
+并联在线圈上的二极管D2用来吸收关断尖峰。这里它不是原因。
+Диод D2 параллельно катушке поглощает выброс при отключении. Здесь он не причина.
+Dioda D2 na cewce pochłania szpilkę przy wyłączeniu. Tutaj nie jest przyczyną.
+A tekerccsel párhuzamos D2 dióda elnyeli a kikapcsolási tüskét. Itt nem ez az ok.
+El diodo D2 en la bobina absorbe el pico al desconectar. Aquí no es la causa.
+
+#2444
+Sélectionnez K1 et appuyez sur Remplacer.
+Selecione K1 e pressione Substituir.
+选中K1，然后点"更换"。
+Выберите K1 и нажмите «Заменить».
+Wybierz K1 i naciśnij Wymień.
+Jelölje ki K1-et, és nyomja meg a Csere gombot.
+Seleccione K1 y pulse Sustituir.
+
+#2445
+Corrigé. Les contacts du relais sont isolés de la bobine : la lampe a sa propre alimentation.
+Corrigido. Os contatos do relé são isolados da bobina: a lâmpada tem sua própria alimentação.
+已修复。继电器触点与线圈是隔离的：灯有它自己的电源。
+Исправлено. Контакты реле изолированы от катушки: у лампы собственное питание.
+Naprawiono. Styki przekaźnika są izolowane od cewki: lampa ma własne zasilanie.
+Javítva. A relé érintkezői el vannak szigetelve a tekercstől: a lámpának saját betáplálása van.
+Corregido. Los contactos del relé están aislados de la bobina: la lámpara tiene su propia alimentación.
+
+#2446
+Alimentation secteur : pas de sortie CC
+Fonte de rede: sem saída CC
+市电电源：没有直流输出
+Сетевой блок питания: нет выхода постоянного тока
+Zasilacz sieciowy: brak wyjścia DC
+Hálózati tápegység: nincs DC kimenet
+Fuente de red: sin salida de CC
+
+#2447
+Un transformateur et un pont font du 24 V CC pour un voyant. La LED est éteinte. L'alimentation 230 V est présente.
+Um transformador e uma ponte produzem 24 V CC para um indicador. O LED está apagado. A alimentação de 230 V está ligada.
+变压器和整流桥产生24 V直流供给一个指示灯。LED不亮。230 V电源已接通。
+Трансформатор и мост вырабатывают 24 В постоянного тока для индикатора. Светодиод не горит. Питание 230 В включено.
+Transformator i mostek wytwarzają 24 V DC dla kontrolki. Dioda jest ciemna. Zasilanie 230 V jest włączone.
+Egy transzformátor és egy híd 24 V egyenfeszültséget állít elő egy jelzőlámpának. A LED sötét. A 230 V-os betáplálás be van kapcsolva.
+Un transformador y un puente producen 24 V CC para un piloto. El LED está apagado. La alimentación de 230 V está conectada.
+
+#2448
+Suivez l'énergie du secteur jusqu'à la LED, trouvez où elle s'arrête et remplacez la pièce défectueuse. Utilisez VAC pour les parties alternatives et VDC après le pont.
+Siga a energia da rede até o LED, encontre onde ela para e substitua a peça defeituosa. Use VAC para as partes CA e VDC depois da ponte.
+顺着电源从市电一直走到LED，找出它在哪里中断，然后更换有故障的部件。交流部分用VAC档，整流桥之后用VDC档。
+Проследите путь питания от сети до светодиода, найдите, где он обрывается, и замените неисправную деталь. Для частей на переменном токе используйте VAC, после моста — VDC.
+Podążaj za zasilaniem od sieci do diody, znajdź miejsce, gdzie się kończy, i wymień uszkodzoną część. Użyj VAC dla części AC i VDC za mostkiem.
+Kövesse az energiát a hálózattól a LED-ig, találja meg, hol szakad meg, és cserélje a meghibásodott alkatrészt. Az AC részeknél VAC-ot, a híd után VDC-t használjon.
+Siga la energía desde la red hasta el LED, encuentre dónde se corta y sustituya la pieza defectuosa. Use VAC para las partes de CA y VDC después del puente.
+
+#2449
+Mesurez 230 V CA aux bornes du primaire du transformateur (P1 vers P2). S'ils y sont, l'alimentation est correcte.
+Meça 230 V CA sobre o primário do transformador (P1 para P2). Se estiver lá, a alimentação está boa.
+测量变压器初级（P1对P2）两端的230 V交流电。如果有，说明供电没问题。
+Измерьте 230 В переменного тока на первичной обмотке трансформатора (P1 на P2). Если оно есть, питание в порядке.
+Zmierz 230 V AC na uzwojeniu pierwotnym transformatora (P1 do P2). Jeśli jest, zasilanie jest w porządku.
+Mérjen 230 V AC-t a transzformátor primer tekercsén (P1 és P2 között). Ha megvan, a betáplálás rendben van.
+Mida 230 V CA en el primario del transformador (P1 a P2). Si está, la alimentación es correcta.
+
+#2450
+Mesurez l'alternatif aux bornes du secondaire (S1 vers S2). Zéro avec un primaire bon désigne le transformateur.
+Meça a CA sobre o secundário (S1 para S2). Zero com o primário bom aponta para o transformador.
+测量次级（S1对S2）两端的交流电压。初级正常而次级为零，问题就在变压器。
+Измерьте переменное напряжение на вторичной обмотке (S1 на S2). Ноль при исправной первичной указывает на трансформатор.
+Zmierz AC na uzwojeniu wtórnym (S1 do S2). Zero przy dobrym uzwojeniu pierwotnym wskazuje na transformator.
+Mérje meg az AC feszültséget a szekunder tekercsen (S1 és S2 között). Nulla jó primer mellett a transzformátorra mutat.
+Mida la CA en el secundario (S1 a S2). Cero con un primario correcto apunta al transformador.
+
+#2451
+Hors tension, mesurez la résistance de l'enroulement primaire : OL signifie ouvert. Remplacez T1.
+Com a energia desligada, meça a resistência do enrolamento primário: OL significa aberto. Substitua T1.
+断电后测量初级绕组的电阻：OL表示开路。更换T1。
+Выключите питание и измерьте сопротивление первичной обмотки: OL означает обрыв. Замените T1.
+Przy wyłączonym zasilaniu zmierz rezystancję uzwojenia pierwotnego: OL oznacza przerwę. Wymień T1.
+Áramtalanítva mérje meg a primer tekercs ellenállását: az OL szakadást jelent. Cserélje a T1-et.
+Con la alimentación apagada, mida la resistencia del bobinado primario: OL significa abierto. Sustituya T1.
+
+#2452
+Corrigé. 230 V au primaire et rien au secondaire : c'est le classique transformateur ouvert.
+Corrigido. 230 V no primário e nada no secundário é o clássico transformador aberto.
+已修复。初级有230 V而次级什么都没有，是典型的变压器开路。
+Исправлено. 230 В на первичной и ничего на вторичной — классический обрыв трансформатора.
+Naprawiono. 230 V na pierwotnym i nic na wtórnym to klasyczny przypadek przerwanego transformatora.
+Javítva. 230 V a primeren és semmi a szekunderen: ez a klasszikus szakadt transzformátor.
+Corregido. 230 V en el primario y nada en el secundario es el clásico transformador abierto.
+
+#2453
+Port USB 5 V : mort, polyfuse déclenché
+Porta USB 5 V: morta, polyfuse atuado
+USB 5 V接口：无输出，自恢复保险丝已动作
+Порт USB 5 В: не работает, сработал самовосстанавливающийся предохранитель
+Port USB 5 V: martwy, bezpiecznik polimerowy zadziałał
+USB 5 V-os port: halott, a visszaálló biztosíték kioldott
+Puerto USB de 5 V: muerto, polifusible disparado
+
+#2454
+Le rail 5 V derrière le port USB est mort. Un fusible réarmable (PTC) est dans la ligne.
+O trilho de 5 V atrás da porta USB está morto. Um fusível rearmável (PTC) está na linha.
+USB接口后面的5 V电源轨没有电。线路中串有一个自恢复保险丝（PTC）。
+Шина 5 В за портом USB не работает. В цепи стоит самовосстанавливающийся предохранитель (PTC).
+Szyna 5 V za portem USB jest martwa. W linii jest bezpiecznik polimerowy (PTC).
+Az USB-port mögötti 5 V-os sín halott. A vezetékben visszaálló biztosíték (PTC) van.
+El carril de 5 V detrás del puerto USB está muerto. Hay un fusible rearmable (PTC) en la línea.
+
+#2455
+Le PTC n'est qu'un symptôme. Trouvez ce qui le surcharge, remplacez cette pièce, puis coupez et rétablissez l'alimentation pour que le PTC se réarme.
+O PTC é apenas um sintoma. Descubra o que o sobrecarrega, substitua essa peça e depois desligue e ligue a alimentação para o PTC rearmar.
+PTC只是个症状。找出是什么让它过载，更换那个部件，然后断电再上电，让PTC复位。
+PTC — лишь симптом. Найдите, что его перегружает, замените эту деталь, затем выключите и включите питание, чтобы PTC восстановился.
+PTC to tylko objaw. Znajdź, co go przeciąża, wymień tę część, potem wyłącz i włącz zasilanie, aby PTC się zresetował.
+A PTC csak tünet. Keresse meg, mi terheli túl, cserélje azt az alkatrészt, majd kapcsolja ki és be a tápot, hogy a PTC visszaálljon.
+El PTC es solo un síntoma. Encuentre qué lo sobrecarga, sustituya esa pieza y luego apague y encienda la alimentación para que el PTC se rearme.
+
+#2456
+Mesurez aux bornes du PTC (A vers B). Un PTC déclenché laisse chuter presque tout le 5 V à ses bornes.
+Meça sobre o PTC (A para B). Um PTC atuado deixa cair quase os 5 V completos sobre ele.
+测量PTC两端（A对B）。已动作的PTC两端会降掉几乎全部的5 V。
+Измерьте на PTC (A на B). Сработавший PTC держит на себе почти все 5 В.
+Zmierz na PTC (A do B). Zadziałały PTC przyjmuje na siebie prawie całe 5 V.
+Mérje meg a PTC-n (A és B között). A kioldott PTC-n szinte a teljes 5 V esik.
+Mida en el PTC (A a B). Un PTC disparado hace caer casi los 5 V completos en sus extremos.
+
+#2457
+Hors tension, mesurez la résistance entre le rail et la masse : quelques dixièmes d'ohm signifient un court-circuit. Regardez la diode de protection.
+Com a energia desligada, meça a resistência entre o trilho e o terra: alguns décimos de ohm significam um curto. Olhe o diodo de proteção.
+断电后测量电源轨与地之间的电阻：只有零点几欧姆，说明被短路了。去看保护二极管。
+При выключенном питании измерьте сопротивление между шиной и землёй: несколько десятых долей ома означают короткое замыкание. Посмотрите на защитный диод.
+Przy wyłączonym zasilaniu zmierz rezystancję między szyną a masą: kilka dziesiątych oma oznacza zwarcie. Spójrz na diodę zabezpieczającą.
+Áramtalanítva mérje meg az ellenállást a sín és a föld között: néhány tized ohm zárlatot jelent. Nézze meg a védődiódát.
+Con la alimentación apagada, mida la resistencia entre el carril y masa: unas décimas de ohmio significan un cortocircuito. Mire el diodo de protección.
+
+#2458
+Remplacez DT1, puis coupez l'alimentation quelques secondes pour que le PTC refroidisse et se réarme.
+Substitua DT1 e depois desligue a alimentação por alguns segundos para o PTC esfriar e rearmar.
+更换DT1，然后断电几秒钟，让PTC冷却并复位。
+Замените DT1, затем отключите питание на несколько секунд, чтобы PTC остыл и восстановился.
+Wymień DT1, potem wyłącz zasilanie na kilka sekund, aby PTC ostygł i się zresetował.
+Cserélje a DT1-et, majd kapcsolja le a tápot néhány másodpercre, hogy a PTC lehűljön és visszaálljon.
+Sustituya DT1 y luego apague la alimentación unos segundos para que el PTC se enfríe y se rearme.
+
+#2459
+Corrigé. Un PTC déclenche sur surcharge et reste déclenché tant que l'alimentation n'est pas coupée. Le TVS en court-circuit avait écrêté le rail.
+Corrigido. Um PTC atua na sobrecarga e permanece atuado até a alimentação ser removida. O TVS em curto tinha grampeado o trilho.
+已修复。PTC在过载时动作，并一直保持动作，直到断电。短路的TVS把电源轨钳住了。
+Исправлено. PTC срабатывает при перегрузке и остаётся сработавшим, пока не снято питание. Замкнутый накоротко TVS зажал шину.
+Naprawiono. PTC zadziałał przy przeciążeniu i pozostaje zadziałany, dopóki nie zostanie odłączone zasilanie. Zwarty TVS ściągnął szynę.
+Javítva. A PTC túlterhelésnél old ki, és kioldva marad, amíg a tápot el nem veszik. A zárlatos TVS lefogta a sínt.
+Corregido. Un PTC salta por sobrecarga y permanece disparado hasta quitar la alimentación. El TVS en cortocircuito había fijado el carril.
+
+#2460
+Carte 230 V : le fusible fond, varistance suspectée
+Placa de 230 V: o fusível queima, varistor suspeito
+230 V板：熔断器烧断，怀疑压敏电阻
+Плата 230 В: перегорает предохранитель, подозрение на варистор
+Płytka 230 V: bezpiecznik się przepala, podejrzany warystor
+230 V-os kártya: a biztosíték kiég, a varisztor gyanús
+Placa de 230 V: el fusible se funde, varistor sospechoso
+
+#2461
+Une carte de lampe en 230 V est morte et le fusible est fondu. Un fusible neuf fond aussitôt.
+Uma placa de lâmpada em 230 V está morta e o fusível queimou. Um fusível novo queima na hora.
+一块230 V的灯板不工作了，熔断器烧断。换上新的熔断器会立刻再烧断。
+Плата лампы на 230 В не работает, предохранитель перегорел. Новый предохранитель перегорает сразу.
+Płytka lampy na 230 V nie działa, a bezpiecznik jest przepalony. Nowy bezpiecznik przepala się od razu.
+Egy 230 V-os lámpakártya halott, és a biztosíték kiégett. Az új biztosíték azonnal kiég.
+Una placa de lámpara a 230 V está muerta y el fusible está fundido. Un fusible nuevo se funde al instante.
+
+#2462
+Trouvez la pièce qui court-circuite l'alimentation, remplacez-la d'abord, puis le fusible.
+Encontre a peça que coloca a alimentação em curto, substitua-a primeiro e depois o fusível.
+找出使电源短路的部件，先更换它，再换熔断器。
+Найдите деталь, которая замыкает питание, замените её первой, затем предохранитель.
+Znajdź część zwierającą zasilanie, wymień ją najpierw, potem bezpiecznik.
+Keresse meg azt az alkatrészt, amely rövidre zárja a betáplálást, azt cserélje először, majd a biztosítékot.
+Encuentre la pieza que cortocircuita la alimentación, sustitúyala primero y luego el fusible.
+
+#2463
+Ne remplacez pas simplement le fusible. Hors tension et fusible retiré, mesurez la résistance aux bornes de la lampe et de la varistance RV1.
+Não substitua apenas o fusível. Com a energia desligada e o fusível fora, meça a resistência sobre a lâmpada e sobre o varistor RV1.
+不要只是换熔断器。断电并取下熔断器后，测量灯两端和压敏电阻RV1两端的电阻。
+Не меняйте просто предохранитель. При выключенном питании и вынутом предохранителе измерьте сопротивление на лампе и на варисторе RV1.
+Nie wymieniaj po prostu bezpiecznika. Przy wyłączonym zasilaniu i wyjętym bezpieczniku zmierz rezystancję na lampie i na warystorze RV1.
+Ne csak a biztosítékot cserélje. Áramtalanítva és kivett biztosítéknál mérje meg az ellenállást a lámpán és az RV1 varisztoron.
+No se limite a sustituir el fusible. Con la alimentación apagada y el fusible fuera, mida la resistencia en la lámpara y en el varistor RV1.
+
+#2464
+Une varistance doit indiquer des mégohms. Quelques ohms signifient qu'elle est tombée en court-circuit après une surtension.
+Um varistor deve ler megaohms. Alguns ohms significam que ele falhou em curto depois de um surto.
+压敏电阻应该读到兆欧级。只有几欧姆，说明它在一次浪涌之后短路失效了。
+Варистор должен показывать мегаомы. Несколько ом означают, что он вышел из строя коротким замыканием после выброса.
+Warystor musi wskazywać megaomy. Kilka omów oznacza, że uległ uszkodzeniu na zwarcie po przepięciu.
+A varisztornak megaohmokat kell mutatnia. Néhány ohm azt jelenti, hogy egy túlfeszültség-impulzus után zárlatosan hibásodott meg.
+Un varistor debe leer megaohmios. Unos pocos ohmios significan que falló en cortocircuito tras una sobretensión.
+
+#2465
+Remplacez RV1, puis F1.
+Substitua RV1 e depois F1.
+先更换RV1，再换F1。
+Замените RV1, затем F1.
+Wymień RV1, potem F1.
+Cserélje az RV1-et, majd az F1-et.
+Sustituya RV1 y luego F1.
+
+#2466
+Corrigé. Une varistance finit sa vie en court-circuit et emporte le fusible avec elle. Cherchez la source de la surtension.
+Corrigido. Um varistor termina sua vida em curto e leva o fusível junto. Procure a fonte do surto.
+已修复。压敏电阻寿命终结时会变成短路，并带着熔断器一起烧断。要去找浪涌的来源。
+Исправлено. Варистор заканчивает жизнь коротким замыканием и уносит с собой предохранитель. Ищите источник выбросов.
+Naprawiono. Warystor kończy życie jako zwarcie i zabiera ze sobą bezpiecznik. Poszukaj źródła przepięć.
+Javítva. A varisztor zárlatként fejezi be az életét, és magával viszi a biztosítékot. Keresse meg a túlfeszültség forrását.
+Corregido. Un varistor termina su vida como un cortocircuito y se lleva el fusible consigo. Busque la fuente de la sobretensión.
+
+#2467
+LED morte : piste fissurée
+LED apagado: trilha trincada
+LED不亮：走线开裂
+Светодиод не горит: треснувшая дорожка
+Martwa dioda LED: pęknięta ścieżka
+Halott LED: repedt vezetősáv
+LED muerto: pista agrietada
+
+#2468
+La LED d'alimentation reste éteinte. L'alimentation indique 5 V au connecteur.
+O LED de alimentação continua apagado. A alimentação mostra 5 V no conector.
+电源LED一直不亮。连接器处的电源读数是5 V。
+Светодиод питания остаётся тёмным. На разъёме питание 5 В.
+Dioda zasilania pozostaje ciemna. Zasilanie na złączu wynosi 5 V.
+A tápellátás LED sötét marad. A betáplálás a csatlakozónál 5 V-ot mutat.
+El LED de alimentación sigue apagado. La alimentación marca 5 V en el conector.
+
+#2469
+Trouvez la coupure au multimètre et pontez-la avec un fil de strap (bleu) entre deux points de test.
+Encontre a interrupção com o multímetro e faça uma ponte com um fio jumper (azul) entre dois pontos de teste.
+用万用表找到断点，并在两个测试点之间用一根跳线（蓝色）把它接通。
+Найдите разрыв мультиметром и перекройте его проводом-перемычкой (синим) между двумя контрольными точками.
+Znajdź przerwę miernikiem i zmostkuj ją przewodem zworki (niebieskim) między dwoma punktami pomiarowymi.
+Keresse meg a szakadást a műszerrel, és hidalja át egy áthidaló huzallal (kék) két mérési pont között.
+Encuentre la rotura con el polímetro y puentéela con un cable puente (azul) entre dos puntos de prueba.
+
+#2470
+Mesurez la tension aux deux extrémités de R1. Si R1 a 5 V d'un côté mais 0 V côté LED, le défaut est entre les deux.
+Meça a tensão nas duas pontas de R1. Se R1 tem 5 V de um lado mas o lado do LED tem 0 V, a falha está entre eles.
+测量R1两端的电压。如果R1一端是5 V而LED一侧是0 V，故障就在两者之间。
+Измерьте напряжение на обоих концах R1. Если на одном конце R1 5 В, а на стороне светодиода 0 В, неисправность между ними.
+Zmierz napięcie na obu końcach R1. Jeśli R1 ma 5 V z jednej strony, a po stronie diody 0 V, usterka jest pomiędzy nimi.
+Mérje meg a feszültséget R1 mindkét végén. Ha R1 egyik végén 5 V van, a LED felőli oldalon pedig 0 V, a hiba a kettő között van.
+Mida la tensión en ambos extremos de R1. Si R1 tiene 5 V en un extremo pero el lado del LED tiene 0 V, el fallo está entre ellos.
+
+#2471
+Passez le multimètre en continuité, alimentation sur OFF, et testez entre TP1 et TP2. Pas de bip signifie que la piste est fissurée.
+Coloque o multímetro em continuidade, com a alimentação em OFF, e teste entre TP1 e TP2. Sem bipe significa que a trilha está trincada.
+在电源OFF的情况下把万用表切到通断档，测TP1和TP2之间。不响说明走线开裂了。
+Переключите мультиметр на прозвонку при выключенном питании OFF и проверьте между TP1 и TP2. Отсутствие писка означает, что дорожка треснула.
+Przełącz miernik na ciągłość przy zasilaniu OFF i zbadaj między TP1 a TP2. Brak sygnału dźwiękowego oznacza, że ścieżka jest pęknięta.
+Állítsa a műszert folytonosságra OFF betáplálásnál, és vizsgálja TP1 és TP2 között. Ha nem sípol, a vezetősáv repedt.
+Ponga el polímetro en continuidad con la alimentación en OFF y pruebe entre TP1 y TP2. Sin pitido significa que la pista está agrietada.
+
+#2472
+Passez en mode Construction, choisissez l'outil Strap et reliez TP1 à TP2.
+Mude para o modo Montagem, escolha a ferramenta Jumper e ligue TP1 a TP2.
+切换到搭建模式，选择"跳线"工具，把TP1接到TP2。
+Перейдите в режим сборки, выберите инструмент «Перемычка» и соедините TP1 с TP2.
+Przełącz na tryb budowy, wybierz narzędzie Zworka i połącz TP1 z TP2.
+Váltson Építés módra, válassza az Áthidaló eszközt, és kösse össze TP1-et TP2-vel.
+Cambie al modo Montaje, elija la herramienta Puente y una TP1 con TP2.
+
+#2473
+Elle s'allume, mais pas avec un strap. Une vraie piste fissurée ne peut pas être annulée ; pontez-la.
+Ele acende, mas não com um jumper. Uma trilha realmente trincada não pode ser desfeita; faça a ponte.
+灯亮了，但那不是靠跳线才亮的。真正开裂的走线没法撤销，只能把它接通。
+Светодиод загорается, но не от перемычки. Настоящую треснувшую дорожку нельзя отменить; перекройте её.
+Zapala się, ale nie od zworki. Prawdziwej pękniętej ścieżki nie da się cofnąć; zmostkuj ją.
+Világít, de nem áthidalóval. Egy valódi repedt vezetősávot nem lehet visszavonni; hidalja át.
+Se enciende, pero no con un puente. Una pista realmente agrietada no se puede deshacer; púentéela.
+
+#2474
+Pontée. Dans une vraie réparation, grattez le vernis épargne des deux côtés, étamez les pastilles et soudez un fil fin.
+Ponte feita. Em um reparo real, raspe a máscara de solda dos dois lados, estanhe as ilhas e solde um fio fino.
+已接通。实际维修时，要刮掉两侧的阻焊层，给焊盘镀锡，再焊上一根细导线。
+Перекрыто. При реальном ремонте соскоблите паяльную маску с обеих сторон, залудите площадки и припаяйте тонкий провод.
+Zmostkowano. W prawdziwej naprawie zeskrob maskę lutowniczą po obu stronach, pobiel pola lutownicze i przylutuj cienki drut.
+Áthidalva. Valódi javításnál kaparja le a forrasztási maszkot mindkét oldalon, ónozza be a felületeket, és forrasszon be egy vékony huzalt.
+Puenteado. En una reparación real, raspe la máscara de soldadura por ambos lados, estañe los pads y suelde un hilo fino.
+
+#2475
+Résistance grillée
+Resistor queimado
+烧毁的电阻
+Сгоревший резистор
+Spalony rezystor
+Kiégett ellenállás
+Resistencia quemada
+
+#2476
+Pas de lumière sur le voyant 12 V. La carte sent légèrement le brûlé.
+Sem luz no indicador de 12 V. A placa cheira levemente a queimado.
+12 V指示灯不亮。板子有一点焦糊味。
+Индикатор 12 В не светится. От платы слегка пахнет горелым.
+Brak światła na kontrolce 12 V. Płytka lekko pachnie spalenizną.
+A 12 V-os jelzőn nincs fény. A kártya enyhén égett szagú.
+Sin luz en el piloto de 12 V. La placa huele ligeramente a quemado.
+
+#2477
+Trouvez quelle pièce est ouverte et remplacez-la par une neuve.
+Encontre qual peça está aberta e substitua por uma nova.
+找出哪一个元件开路了，并换上新的。
+Найдите, какая деталь оборвана, и замените её новой.
+Znajdź, która część jest przerwana, i wymień ją na nową.
+Keresse meg, melyik alkatrész szakadt, és cserélje újra.
+Encuentre qué pieza está abierta y sustitúyala por una nueva.
+
+#2478
+La tension mesurée aux bornes d'une pièce ouverte égale toute l'alimentation. Cherchez la pièce qui porte les 12 V complets.
+A tensão medida sobre uma peça aberta é igual à alimentação inteira. Procure a peça com os 12 V completos sobre ela.
+在开路的元件两端测到的电压等于全部电源电压。找出两端都是完整12 V的那个元件。
+Напряжение, измеренное на оборванной детали, равно полному напряжению питания. Ищите деталь, на которой полные 12 В.
+Napięcie zmierzone na przerwanym elemencie równa się pełnemu napięciu zasilania. Szukaj elementu, na którym jest całe 12 V.
+Egy szakadt alkatrészen mért feszültség megegyezik a teljes betáplálással. Keresse azt az alkatrészt, amelyen a teljes 12 V esik.
+La tensión medida en una pieza abierta es igual a toda la alimentación. Busque la pieza que tiene los 12 V completos.
+
+#2479
+Hors tension, sortez R1 du circuit et mesurez sa résistance. OL ou très élevée signifie qu'elle est ouverte.
+Com a energia desligada, retire R1 do circuito e meça sua resistência. OL ou muito alta significa que está aberta.
+断电后把R1从电路中取下来测量电阻。OL或者非常高，说明它开路了。
+Выключите питание, выпаяйте R1 из цепи и измерьте её сопротивление. OL или очень высокое значение означает обрыв.
+Przy wyłączonym zasilaniu wyjmij R1 z obwodu i zmierz jej rezystancję. OL lub bardzo wysoka oznacza przerwę.
+Áramtalanítva vegye ki R1-et az áramkörből, és mérje meg az ellenállását. Az OL vagy nagyon nagy érték szakadást jelent.
+Con la alimentación apagada, saque R1 del circuito y mida su resistencia. OL o muy alta significa que está abierta.
+
+#2480
+Sélectionnez R1 et appuyez sur Remplacer.
+Selecione R1 e pressione Substituir.
+选中R1，然后点"更换"。
+Выберите R1 и нажмите «Заменить».
+Wybierz R1 i naciśnij Wymień.
+Jelölje ki R1-et, és nyomja meg a Csere gombot.
+Seleccione R1 y pulse Sustituir.
+
+#2481
+Corrigé. Une résistance grillée signifie généralement que quelque chose en amont a tiré trop de courant. Cherchez la cause avant de l'alimenter longtemps.
+Corrigido. Um resistor queimado geralmente significa que algo a montante puxou corrente demais. Verifique a causa antes de energizá-lo por muito tempo.
+已修复。电阻烧毁通常说明上游有东西抽取了过大的电流。先查明原因，再长时间通电。
+Исправлено. Сгоревший резистор обычно означает, что что-то выше по цепи потребило слишком большой ток. Выясните причину, прежде чем надолго подавать питание.
+Naprawiono. Spalony rezystor zwykle oznacza, że coś wcześniej w obwodzie pobrało za duży prąd. Sprawdź przyczynę, zanim zasilisz go na dłużej.
+Javítva. Egy kiégett ellenállás általában azt jelenti, hogy valami az áramkör elején túl nagy áramot vett fel. Keresse meg az okot, mielőtt hosszabb időre áram alá helyezi.
+Corregido. Una resistencia quemada suele significar que algo aguas arriba tomó demasiada corriente. Compruebe la causa antes de alimentarla mucho tiempo.
+
+#2482
+Fusible qui fond sans cesse
+Fusível que não para de queimar
+一直烧断的熔断器
+Предохранитель, который всё время перегорает
+Bezpiecznik, który wciąż się przepala
+Biztosíték, amely folyton kiég
+Fusible que se sigue fundiendo
+
+#2483
+Carte 12 V, fusible fondu. Un fusible neuf fond de nouveau aussitôt.
+Placa de 12 V, fusível queimado. Um fusível novo queima de novo na hora.
+12 V板，熔断器烧断。换上新的熔断器会马上再次烧断。
+Плата 12 В, предохранитель перегорел. Новый предохранитель сразу перегорает снова.
+Płytka 12 V, bezpiecznik przepalony. Nowy bezpiecznik znów się od razu przepala.
+12 V-os kártya, a biztosíték kiégett. Az új biztosíték azonnal újra kiég.
+Placa de 12 V, fusible fundido. Un fusible nuevo se vuelve a fundir al instante.
+
+#2484
+Trouvez pourquoi le fusible fond, remplacez d'abord la cause, puis le fusible.
+Descubra por que o fusível queima, substitua primeiro a causa e depois o fusível.
+找出熔断器烧断的原因，先更换这个原因，再换熔断器。
+Выясните, почему предохранитель перегорает, сначала замените причину, потом предохранитель.
+Ustal, dlaczego bezpiecznik się przepala, wymień najpierw przyczynę, potem bezpiecznik.
+Derítse ki, miért ég ki a biztosíték, először az okot cserélje, aztán a biztosítékot.
+Averigüe por qué se funde el fusible, sustituya primero la causa y luego el fusible.
+
+#2485
+Ne remplacez pas encore le fusible. Hors tension, mesurez la résistance aux bornes des rails d'alimentation après le fusible. Une valeur proche de zéro est un court-circuit.
+Não substitua o fusível ainda. Com a energia desligada, meça a resistência entre os trilhos de alimentação depois do fusível. Uma leitura próxima de zero é um curto.
+先不要更换熔断器。断电后，测量熔断器之后电源轨之间的电阻。读数接近零就是短路。
+Пока не меняйте предохранитель. При выключенном питании измерьте сопротивление между шинами питания после предохранителя. Значение, близкое к нулю, — короткое замыкание.
+Nie wymieniaj jeszcze bezpiecznika. Przy wyłączonym zasilaniu zmierz rezystancję między szynami zasilania za bezpiecznikiem. Odczyt bliski zeru to zwarcie.
+Még ne cserélje a biztosítékot. Áramtalanítva mérje meg az ellenállást a tápsínek között a biztosíték után. A nullához közeli érték zárlat.
+No sustituya aún el fusible. Con la alimentación apagada, mida la resistencia entre los carriles de alimentación después del fusible. Una lectura cercana a cero es un cortocircuito.
+
+#2486
+Regardez quelle pièce est entre les rails. Un condensateur qui indique quelques ohms est en court-circuit.
+Veja qual peça está entre os trilhos. Um capacitor que lê alguns ohms está em curto.
+看看跨接在电源轨之间的是哪个元件。读数只有几欧姆的电容就是短路了。
+Посмотрите, какая деталь стоит между шинами. Конденсатор, показывающий несколько ом, замкнут накоротко.
+Sprawdź, który element jest między szynami. Kondensator wskazujący kilka omów jest zwarty.
+Nézze meg, melyik alkatrész van a sínek között. Az a kondenzátor, amely néhány ohmot mutat, zárlatos.
+Mire qué pieza está entre los carriles. Un condensador que lee unos pocos ohmios está en cortocircuito.
+
+#2487
+Remplacez C1, puis remplacez F1.
+Substitua C1 e depois substitua F1.
+更换C1，然后更换F1。
+Замените C1, затем замените F1.
+Wymień C1, potem wymień F1.
+Cserélje a C1-et, majd cserélje az F1-et.
+Sustituya C1 y luego sustituya F1.
+
+#2488
+Corrigé. Ne remplacer que le fusible l'aurait fait fondre à nouveau. Cherchez toujours la cause d'abord.
+Corrigido. Substituir só o fusível o teria queimado de novo. Sempre descubra a causa primeiro.
+已修复。只换熔断器的话，它还会再烧断。一定要先找原因。
+Исправлено. Если бы вы заменили только предохранитель, он снова бы перегорел. Всегда сначала ищите причину.
+Naprawiono. Wymiana samego bezpiecznika spowodowałaby ponowne przepalenie. Zawsze najpierw szukaj przyczyny.
+Javítva. Ha csak a biztosítékot cserélte volna, az újra kiégett volna. Mindig az okot keresse meg először.
+Corregido. Sustituir solo el fusible lo habría vuelto a fundir. Busque siempre la causa primero.
+
+#2489
+Pas de sortie du régulateur
+Sem saída do regulador
+稳压器没有输出
+Нет выхода у стабилизатора
+Brak wyjścia ze stabilizatora
+Nincs kimenet a szabályozóról
+Sin salida del regulador
+
+#2490
+Le rail logique 5 V est mort. La LED ne s'allume jamais, même en appuyant sur le bouton.
+O trilho lógico de 5 V está morto. O LED nunca acende, mesmo com o botão pressionado.
+5 V逻辑电源轨没有电。即使按下按钮，LED也始终不亮。
+Логическая шина 5 В не работает. Светодиод никогда не загорается, даже при нажатой кнопке.
+Szyna logiczna 5 V jest martwa. Dioda nigdy się nie świeci, nawet po naciśnięciu przycisku.
+Az 5 V-os logikai sín halott. A LED akkor sem világít, ha megnyomják a gombot.
+El carril lógico de 5 V está muerto. El LED nunca se enciende ni siquiera con el pulsador presionado.
+
+#2491
+Prouvez que l'entrée est bonne et que la sortie manque, puis remplacez le régulateur.
+Comprove que a entrada está boa e que a saída está faltando e depois substitua o regulador.
+证明输入是好的而输出缺失，然后更换稳压器。
+Докажите, что вход в порядке, а выхода нет, затем замените стабилизатор.
+Wykaż, że wejście jest dobre, a wyjścia brak, potem wymień stabilizator.
+Igazolja, hogy a bemenet jó, a kimenet pedig hiányzik, majd cserélje a szabályozót.
+Demuestre que la entrada es buena y falta la salida, y luego sustituya el regulador.
+
+#2492
+Mesurez U1 IN par rapport à GND (environ 12 V) et OUT par rapport à GND. Une bonne entrée et pas de sortie désigne U1.
+Meça U1 IN contra GND (cerca de 12 V) e OUT contra GND. Entrada boa e sem saída aponta para U1.
+测量U1的IN对GND（约12 V）以及OUT对GND。输入正常而没有输出，问题就在U1。
+Измерьте U1 IN относительно GND (около 12 В) и OUT относительно GND. Исправный вход и отсутствие выхода указывают на U1.
+Zmierz U1 IN względem GND (około 12 V) i OUT względem GND. Dobre wejście i brak wyjścia wskazuje na U1.
+Mérje meg U1 IN-t a GND-hez képest (kb. 12 V) és az OUT-ot a GND-hez képest. Jó bemenet és hiányzó kimenet U1-re mutat.
+Mida U1 IN respecto a GND (unos 12 V) y OUT respecto a GND. Entrada buena y sin salida apunta a U1.
+
+#2493
+Le bouton est un bouton momentané : utilisez le mode Test et maintenez-le pendant que vous mesurez.
+O botão é do tipo momentâneo: use o modo Teste e mantenha-o pressionado enquanto mede.
+这个按钮是瞬时型的：使用测试模式，并在测量时按住它。
+Кнопка без фиксации: используйте режим теста и удерживайте её, пока измеряете.
+Przycisk jest chwilowy: użyj trybu testu i przytrzymaj go podczas pomiaru.
+A gomb pillanatnyi működésű: használja a Teszt módot, és tartsa lenyomva mérés közben.
+El pulsador es momentáneo: use el modo Prueba y manténgalo pulsado mientras mide.
+
+#2494
+Sélectionnez U1 et appuyez sur Remplacer.
+Selecione U1 e pressione Substituir.
+选中U1，然后点"更换"。
+Выберите U1 и нажмите «Заменить».
+Wybierz U1 i naciśnij Wymień.
+Jelölje ki U1-et, és nyomja meg a Csere gombot.
+Seleccione U1 y pulse Sustituir.
+
+#2495
+Corrigé. Entrée présente et sortie absente : c'est la façon classique de condamner un régulateur.
+Corrigido. Entrada presente e saída ausente é a forma clássica de condenar um regulador.
+已修复。输入正常、输出没有，是判定稳压器坏了的经典方法。
+Исправлено. Вход есть, выхода нет — классический способ забраковать стабилизатор.
+Naprawiono. Wejście jest, a wyjścia brak — klasyczny sposób na skazanie stabilizatora.
+Javítva. Meglévő bemenet és hiányzó kimenet: a szabályozó elítélésének klasszikus módja.
+Corregido. Entrada presente y salida ausente es la forma clásica de condenar un regulador.
+
+#2496
+Carte libre / votre propre photo
+Placa livre / sua própria foto
+自由板 / 你自己的照片
+Свободная плата / ваше собственное фото
+Płytka dowolna / Twoje własne zdjęcie
+Szabad kártya / saját fotó
+Placa libre / su propia foto
+
+#2497
+Carte vide avec une entrée 5 V.
+Placa vazia com uma entrada de 5 V.
+带5 V输入的空白板。
+Пустая плата со входом 5 В.
+Pusta płytka z wejściem 5 V.
+Üres kártya 5 V-os bemenettel.
+Placa vacía con una entrada de 5 V.
+
+#2498
+Importez une photo d'une vraie carte, placez des composants sur les pistes, dessinez des pistes et testez-les. Utilisez l'outil Couper pour simuler une piste fissurée.
+Envie uma foto de uma placa real, posicione peças sobre as trilhas, desenhe trilhas e teste-as. Use a ferramenta Cortar para simular uma trilha trincada.
+上传一张真实电路板的照片，把元件放到走线上，画出走线并测试。用"切断"工具可以模拟走线开裂。
+Загрузите фото реальной платы, расставьте детали поверх дорожек, нарисуйте дорожки и проверьте их. Инструментом «Разрыв» можно имитировать треснувшую дорожку.
+Wgraj zdjęcie prawdziwej płytki, ustaw części nad ścieżkami, narysuj ścieżki i przetestuj je. Użyj narzędzia Przerwij, aby zasymulować pękniętą ścieżkę.
+Töltsön fel egy fotót egy valódi kártyáról, helyezzen alkatrészeket a vezetősávok fölé, rajzoljon sávokat, és tesztelje őket. A Vágás eszközzel repedt vezetősávot szimulálhat.
+Suba una foto de una placa real, coloque piezas sobre las pistas, dibuje pistas y pruébelas. Use la herramienta Cortar para simular una pista agrietada.
+
+#2499
+Photo : utilisez le bouton Photo. Redimensionnez-la jusqu'à ce que les pastilles s'alignent avec vos composants.
+Foto: use o botão Foto. Redimensione até as ilhas se alinharem com suas peças.
+照片：使用"照片"按钮。调整大小，直到焊盘与你的元件对齐。
+Фото: используйте кнопку «Фото». Меняйте размер, пока площадки не совпадут с вашими деталями.
+Zdjęcie: użyj przycisku Zdjęcie. Zmieniaj rozmiar, aż pola lutownicze zgrają się z Twoimi częściami.
+Fotó: használja a Fotó gombot. Méretezze át, amíg a forrasztási felületek egy vonalba nem kerülnek az alkatrészekkel.
+Foto: use el botón Foto. Cambie el tamaño hasta que los pads coincidan con sus piezas.
+
+#2500
+Outil Couper : touchez une piste pour la fissurer. Touchez à nouveau pour la rétablir.
+Ferramenta Cortar: toque em uma trilha para trincá-la. Toque de novo para restaurar.
+"切断"工具：点一条走线让它开裂。再点一次就恢复。
+Инструмент «Разрыв»: нажмите на дорожку, чтобы её разорвать. Нажмите ещё раз, чтобы восстановить.
+Narzędzie Przerwij: dotknij ścieżki, aby ją pęknąć. Dotknij ponownie, aby przywrócić.
+Vágás eszköz: érintse meg a vezetősávot, hogy megrepedjen. Érintse meg újra a visszaállításhoz.
+Herramienta Cortar: toque una pista para agrietarla. Toque de nuevo para restaurarla.
+
+#2501
+Construction
+Montagem
+搭建
+Сборка
+Budowa
+Építés
+Montaje
+
+#2502
+Test
+Teste
+测试
+Тест
+Test
+Teszt
+Prueba
+
+#2503
+Dessiner une piste de cuivre
+Desenhar uma trilha de cobre
+画一条铜走线
+Нарисовать медную дорожку
+Narysuj miedzianą ścieżkę
+Rézsáv rajzolása
+Dibujar una pista de cobre
+
+#2504
+Piste
+Trilha
+走线
+Дорожка
+Ścieżka
+Vezetősáv
+Pista
+
+#2505
+Dessiner un fil de contournement
+Desenhar um fio de desvio
+画一根旁路导线
+Нарисовать обходной провод
+Narysuj przewód obejściowy
+Megkerülő huzal rajzolása
+Dibujar un cable de derivación
+
+#2506
+Strap
+Jumper
+跳线
+Перемычка
+Zworka
+Áthidaló
+Puente
+
+#2507
+Fissurer une piste
+Trincar uma trilha
+让走线开裂
+Разорвать дорожку
+Pęknij ścieżkę
+Vezetősáv megrepesztése
+Agrietar una pista
+
+#2508
+Couper
+Cortar
+切断
+Разрыв
+Przerwij
+Vágás
+Cortar
+
+#2509
+Cartes
+Placas
+电路板
+Платы
+Płytki
+Kártyák
+Placas
+
+#2510
+Cartes d'entraînement
+Placas de treino
+练习板
+Учебные платы
+Płytki treningowe
+Gyakorlókártyák
+Placas de práctica
+
+#2511
+Chaque carte a un défaut caché. Mesurez, trouvez-le, réparez-le.
+Cada placa tem uma falha oculta. Meça, encontre e conserte.
+每块板子都有一个隐藏故障。测量、找到并修好它。
+В каждой плате есть скрытая неисправность. Измерьте, найдите, устраните.
+Każda płytka ma ukrytą usterkę. Zmierz, znajdź, napraw.
+Minden kártyán van egy rejtett hiba. Mérjen, találja meg, javítsa ki.
+Cada placa tiene una avería oculta. Mida, encuéntrela, repárela.
+
+#2512
+Photo placée. Redimensionnez-la pour que les pastilles s'alignent, puis ajoutez des composants par-dessus.
+Foto posicionada. Redimensione para as ilhas se alinharem e depois adicione peças por cima.
+照片已放置。调整大小让焊盘对齐，然后在上面添加元件。
+Фото размещено. Измените размер, чтобы площадки совпали, затем добавьте детали сверху.
+Zdjęcie umieszczone. Zmień rozmiar, aby pola lutownicze się zgrały, potem dodaj części na wierzchu.
+A fotó elhelyezve. Méretezze át, hogy a forrasztási felületek egy vonalba kerüljenek, majd adjon hozzá alkatrészeket fölé.
+Foto colocada. Cambie el tamaño para que los pads coincidan y luego añada piezas encima.
+
+#2513
+Photo de la carte
+Foto da placa
+电路板照片
+Фото платы
+Zdjęcie płytki
+Kártyafotó
+Foto de la placa
+
+#2514
+Prenez ou choisissez une photo de la carte (vue de dessus, bonne lumière). Placez des composants sur ses pastilles et dessinez les pistes que vous voyez.
+Tire ou escolha uma foto da placa (vista de cima, boa iluminação). Posicione peças sobre suas ilhas e desenhe as trilhas que você vê.
+拍一张电路板的照片，或选一张已有的（俯视，光线好）。把元件放到它的焊盘上，并画出你看到的走线。
+Сделайте или выберите фото платы (вид сверху, хорошее освещение). Расставьте детали на её площадках и нарисуйте дорожки, которые видите.
+Zrób lub wybierz zdjęcie płytki (widok z góry, dobre światło). Ustaw części na jej polach lutowniczych i narysuj ścieżki, które widzisz.
+Készítsen vagy válasszon fotót a kártyáról (felülnézet, jó fény). Helyezzen alkatrészeket a forrasztási felületekre, és rajzolja meg a látott vezetősávokat.
+Haga o elija una foto de la placa (vista superior, buena luz). Coloque piezas sobre sus pads y dibuje las pistas que vea.
+
+#2515
+Prendre ou choisir une photo
+Tirar ou escolher foto
+拍照或选择照片
+Снять или выбрать фото
+Zrób lub wybierz zdjęcie
+Fotó készítése vagy választása
+Hacer o elegir foto
+
+#2516
+Retirer la photo
+Remover foto
+移除照片
+Убрать фото
+Usuń zdjęcie
+Fotó eltávolítása
+Quitar foto
+
+#2517
+Taille de la photo
+Tamanho da foto
+照片大小
+Размер фото
+Rozmiar zdjęcia
+Fotó mérete
+Tamaño de la foto
+
+#2518
+Opacité de la photo
+Opacidade da foto
+照片不透明度
+Прозрачность фото
+Przezroczystość zdjęcia
+Fotó átlátszatlansága
+Opacidad de la foto
+
+#2519
+Terminé
+Concluído
+完成
+Готово
+Gotowe
+Kész
+Hecho
+
+#2520
+Remplacé :
+Substituído:
+已更换：
+Заменено:
+Wymieniono:
+Kicserélve:
+Sustituido:
+
+#2521
+Résolu
+Resolvido
+已解决
+Решено
+Rozwiązane
+Megoldva
+Resuelto
+
+#2522
+Pas encore résolu
+Ainda não resolvido
+尚未解决
+Ещё не решено
+Jeszcze nierozwiązane
+Még nincs megoldva
+Aún no resuelto
+
+#2523
+Symptôme
+Sintoma
+症状
+Симптом
+Objaw
+Tünet
+Síntoma
+
+#2524
+Votre mission
+Sua tarefa
+你的任务
+Ваша задача
+Twoje zadanie
+Az Ön feladata
+Su tarea
+
+#2525
+Indice
+Dica
+提示
+Подсказка
+Podpowiedź
+Tipp
+Pista
+
+#2526
+Le défaut est sur
+A falha está em
+故障在
+Неисправность на
+Usterka jest na
+A hiba itt van:
+La avería está en
+
+#2527
+La piste fissurée est marquée d'un X.
+A trilha trincada está marcada com um X.
+开裂的走线用X标出。
+Треснувшая дорожка отмечена крестиком X.
+Pęknięta ścieżka jest oznaczona X.
+A repedt vezetősáv X-szel van megjelölve.
+La pista agrietada está marcada con una X.
+
+#2528
+Masquer le défaut
+Ocultar a falha
+隐藏故障
+Скрыть неисправность
+Ukryj usterkę
+Hiba elrejtése
+Ocultar la avería
+
+#2529
+Afficher le défaut
+Mostrar a falha
+显示故障
+Показать неисправность
+Pokaż usterkę
+Hiba megjelenítése
+Mostrar la avería
+
+#2530
+Réinitialiser la carte
+Redefinir a placa
+重置电路板
+Сбросить плату
+Zresetuj płytkę
+Kártya visszaállítása
+Restablecer la placa
+
+#2531
+Autres cartes
+Outras placas
+其他电路板
+Другие платы
+Inne płytki
+Más kártyák
+Otras placas
+
+#2532
+Méthode
+Método
+方法
+Метод
+Metoda
+Módszer
+Método
+
+#2533
+1. Hors tension, regardez. 2. Mesurez l'alimentation à l'entrée. 3. Suivez le signal et trouvez où la tension disparaît. 4. Hors tension, vérifiez la continuité ou la résistance de la pièce suspecte. 5. Réparez, puis remettez sous tension et mesurez à nouveau.
+1. Com a energia desligada, observe. 2. Meça a alimentação na entrada. 3. Siga o sinal e encontre onde a tensão desaparece. 4. Com a energia desligada, verifique a continuidade ou a resistência da peça suspeita. 5. Repare, depois ligue e meça de novo.
+1. 断电，先看。2. 在输入端测量电源。3. 顺着信号走，找到电压消失的位置。4. 断电后，检查可疑元件的通断或电阻。5. 修复，然后上电重新测量。
+1. Выключите питание и осмотрите. 2. Измерьте питание на входе. 3. Проследите сигнал и найдите, где пропадает напряжение. 4. При выключенном питании проверьте прозвонкой или сопротивлением подозрительную деталь. 5. Отремонтируйте, затем включите питание и измерьте заново.
+1. Wyłącz zasilanie i obejrzyj. 2. Zmierz zasilanie na wejściu. 3. Podążaj za sygnałem i znajdź, gdzie znika napięcie. 4. Przy wyłączonym zasilaniu sprawdź ciągłość lub rezystancję podejrzanego elementu. 5. Napraw, potem włącz zasilanie i zmierz ponownie.
+1. Áramtalanítva nézze meg. 2. Mérje meg a betáplálást a bemeneten. 3. Kövesse a jelet, és találja meg, hol tűnik el a feszültség. 4. Áramtalanítva ellenőrizze a gyanús alkatrész folytonosságát vagy ellenállását. 5. Javítsa, majd kapcsolja be, és mérjen újra.
+1. Con la alimentación apagada, mire. 2. Mida la alimentación en la entrada. 3. Siga la señal y encuentre dónde desaparece la tensión. 4. Con la alimentación apagada, compruebe la continuidad o la resistencia de la pieza sospechosa. 5. Repare, luego conecte y vuelva a medir.
+
+#2534
+Piste : piste de cuivre. Strap : votre fil de contournement. Couper : fissurer une piste pour s'entraîner. Mode Test : sondez avec les multimètres, maintenez le bouton tactile.
+Trilha: trilha de cobre. Jumper: seu fio de desvio. Cortar: trinque uma trilha para praticar. Modo Teste: meça com os multímetros, mantenha o botão tátil pressionado.
+走线：铜走线。跳线：你的旁路导线。切断：弄裂一条走线来练习。测试模式：用万用表探测，按住轻触开关。
+Дорожка: медная дорожка. Перемычка: ваш обходной провод. Разрыв: разорвите дорожку для тренировки. Режим теста: измеряйте мультиметрами, удерживайте тактовую кнопку.
+Ścieżka: miedziana ścieżka. Zworka: Twój przewód obejściowy. Przerwij: pęknij ścieżkę do ćwiczeń. Tryb testu: sonduj miernikami, przytrzymaj przycisk tact.
+Vezetősáv: rézsáv. Áthidaló: a megkerülő huzal. Vágás: gyakorlásként repesszen meg egy sávot. Teszt mód: mérjen a műszerekkel, tartsa lenyomva a tact kapcsolót.
+Pista: pista de cobre. Puente: su cable de derivación. Cortar: agriete una pista para practicar. Modo Prueba: mida con los polímetros, mantenga pulsado el pulsador táctil.
+
+#2535
+Carte réparée.
+Placa reparada.
+电路板已修好。
+Плата отремонтирована.
+Płytka naprawiona.
+A kártya megjavítva.
+Placa reparada.
+
+#2536
+Moteur triphasé
+Motor trifásico
+三相电机
+Трёхфазный двигатель
+Silnik trójfazowy
+Háromfázisú motor
+Motor trifásico
+
+#2537
+Isolez et verrouillez d'abord. Photographiez la plaque signalétique, la boîte à bornes et chaque groupe d'enroulement avant de bouger quoi que ce soit.
+Isole e bloqueie primeiro. Fotografe a placa, a caixa de terminais e cada grupo de enrolamento antes de mover qualquer coisa.
+先隔离并上锁。在动任何东西之前，先拍下铭牌、接线盒和每一个绕组组别的照片。
+Сначала отключите и заблокируйте. Сфотографируйте шильдик, клеммную коробку и каждую группу обмотки, прежде чем что-либо трогать.
+Najpierw odetnij i zablokuj. Sfotografuj tabliczkę znamionową, puszkę zaciskową i każdą grupę uzwojenia, zanim cokolwiek ruszysz.
+Először válassza le és zárja le. Fényképezze le a típustáblát, a kapocsdobozt és minden tekercscsoportot, mielőtt bármit megmozdítana.
+Aísle y bloquee primero. Fotografíe la placa, la caja de bornes y cada grupo de bobinado antes de mover nada.
+
+#2538
+Lisez la forme de la brûlure : trois phases uniformément sombres indiquent surcharge ou refroidissement. Une phase sombre indique une marche monophasée. Une bobine sombre indique un court-circuit entre spires.
+Leia o padrão da queima: as três fases igualmente escuras indicam sobrecarga ou refrigeração. Uma fase escura indica perda de fase. Uma bobina escura indica curto entre espiras.
+看烧损的分布：三相均匀发暗，说明过载或散热问题。一相发暗，说明缺相运行。一个线圈发暗，说明匝间短路。
+Читайте картину ожога: все три фазы равномерно тёмные — перегрузка или охлаждение. Одна фаза тёмная — работа на двух фазах. Одна катушка тёмная — межвитковое замыкание.
+Odczytaj wzór przepalenia: wszystkie trzy fazy równomiernie ciemne oznaczają przeciążenie lub chłodzenie. Jedna ciemna faza oznacza pracę na dwóch fazach. Jedna ciemna cewka oznacza zwarcie międzyzwojowe.
+Olvassa le az égésmintát: mindhárom fázis egyenletesen sötét: túlterhelés vagy hűtés. Egy sötét fázis: fáziskiesés. Egy sötét tekercs: menetzárlat.
+Lea el patrón de quemado: las tres fases uniformemente oscuras indican sobrecarga o refrigeración. Una fase oscura indica funcionamiento en dos fases. Una bobina oscura indica un cortocircuito entre espiras.
+
+#2539
+Ne vous contentez pas de rebobiner. Trouvez pourquoi il est tombé en panne, sinon le nouvel enroulement tombera en panne de la même façon.
+Não apenas rebobine. Descubra por que falhou, ou o novo enrolamento falhará do mesmo jeito.
+不要只是重绕。要找出它为什么坏，否则新绕的绕组还会以同样的方式坏掉。
+Не ограничивайтесь перемоткой. Выясните, почему он вышел из строя, иначе новая обмотка выйдет из строя так же.
+Nie przewijaj tylko. Ustal, dlaczego uległ awarii, bo inaczej nowe uzwojenie zawiedzie tak samo.
+Ne csak újratekercseljen. Derítse ki, miért hibásodott meg, különben az új tekercs ugyanúgy fog meghibásodni.
+No se limite a rebobinar. Averigüe por qué falló, o el nuevo bobinado fallará igual.
+
+#2540
+Ne démarre pas, ronfle
+Não parte, zumbe
+不启动，嗡嗡响
+Не запускается, гудит
+Nie rusza, buczy
+Nem indul, zúg
+No arranca, zumba
+
+#2541
+Ne démarre pas, silencieux
+Não parte, silencioso
+不启动，没有声音
+Не запускается, молчит
+Nie rusza, cichy
+Nem indul, néma
+No arranca, silencioso
+
+#2542
+Le relais thermique ou le disjoncteur déclenche
+O relé de sobrecarga ou o disjuntor atua
+热过载继电器或断路器跳闸
+Срабатывает тепловое реле или автомат
+Przekaźnik termiczny lub wyłącznik zadziała
+A hőkioldó relé vagy a megszakító kiold
+Salta el relé térmico o el interruptor automático
+
+#2543
+Chauffe trop
+Esquenta demais
+过热
+Перегревается
+Za bardzo się nagrzewa
+Túl forró
+Se calienta demasiado
+
+#2544
+Bruit ou vibration
+Ruído ou vibração
+噪声或振动
+Шум или вибрация
+Hałas lub drgania
+Zaj vagy rezgés
+Ruido o vibración
+
+#2545
+Lent ou faible
+Lento ou fraco
+转速慢或无力
+Медленный или слабый
+Wolny lub słaby
+Lassú vagy gyenge
+Lento o débil
+
+#2546
+Déclenchement du différentiel ou picotement sur la carcasse
+Atuação do DR ou formigamento na carcaça
+漏电跳闸，或碰到外壳有麻电感
+Срабатывание УЗО или покалывание на корпусе
+Zadziałanie różnicówki lub mrowienie na obudowie
+Életvédelmi kioldás vagy bizsergés a testen
+Disparo del diferencial u hormigueo en la carcasa
+
+#2547
+Odeur de brûlé ou fumée
+Cheiro de queimado ou fumaça
+焦糊味或冒烟
+Запах гари или дым
+Zapach spalenizny lub dym
+Égett szag vagy füst
+Olor a quemado o humo
+
+#2548
+Tous les enroulements sont uniformément sombres ou bruns
+Todos os enrolamentos uniformemente escuros ou marrons
+所有绕组都均匀发暗或发棕
+Все обмотки равномерно тёмные или коричневые
+Wszystkie uzwojenia równomiernie ciemne lub brązowe
+Minden tekercs egyenletesen sötét vagy barna
+Todos los bobinados uniformemente oscuros o marrones
+
+#2549
+Un groupe de phase brûlé, les autres semblent bons
+Um grupo de fase queimado, os outros parecem bons
+一个相组烧毁，其他的看起来正常
+Одна фазная группа сгорела, остальные выглядят нормально
+Jedna grupa faz spalona, pozostałe wyglądają dobrze
+Egy fázis csoport kiégett, a többi jónak látszik
+Un grupo de fase quemado, los otros parecen bien
+
+#2550
+Une ou deux bobines brûlées, le reste est bon
+Uma ou duas bobinas queimadas, o resto está bom
+一两个线圈烧毁，其余的正常
+Одна или две катушки сгорели, остальное в порядке
+Jedna lub dwie cewki spalone, reszta w porządku
+Egy-két tekercs kiégett, a többi rendben van
+Una o dos bobinas quemadas, el resto bien
+
+#2551
+Brûlure entre deux groupes de phase aux têtes de bobines
+Queima entre dois grupos de fase nas cabeças de bobina
+两个相组之间在端部线圈处烧毁
+Ожог между двумя фазными группами на лобовых частях
+Przepalenie między dwiema grupami faz na czołach uzwojenia
+Égés két fázis csoport között a tekercsfejeknél
+Quemadura entre dos grupos de fase en las cabezas de bobina
+
+#2552
+Traces d'eau, rouille ou corrosion à l'intérieur
+Marcas de água, ferrugem ou corrosão por dentro
+内部有水渍、锈蚀或腐蚀
+Следы воды, ржавчина или коррозия внутри
+Ślady wody, rdza lub korozja w środku
+Vízfoltok, rozsda vagy korrózió belül
+Marcas de agua, óxido o corrosión en el interior
+
+#2553
+Roulement bleu ou décoloré, graisse sèche ou qui fuit
+Rolamento azulado ou descolorido, graxa seca ou vazando
+轴承发蓝或变色，润滑脂干涸或渗漏
+Подшипник синего цвета или с изменённым цветом, смазка сухая или течёт
+Łożysko niebieskie lub przebarwione, smar suchy lub cieknie
+A csapágy kék vagy elszíneződött, a zsír száraz vagy szivárog
+Rodamiento azul o descolorido, grasa seca o con fugas
+
+#2554
+Traces de frottement sur le rotor ou l'alésage du stator
+Marcas de atrito no rotor ou no furo do estator
+转子或定子内孔上有擦碰痕迹
+Следы задевания на роторе или расточке статора
+Ślady ocierania na wirniku lub otworze stojana
+Súrlódásnyomok a forgórészen vagy az állórész furatán
+Marcas de roce en el rotor o en el taladro del estátor
+
+#2555
+Barres de rotor fissurées ou cassées, aluminium fondu
+Barras do rotor trincadas ou quebradas, alumínio derretido
+转子导条开裂或断裂，铝熔化
+Трещины или поломка стержней ротора, расплавленный алюминий
+Pęknięte lub złamane pręty wirnika, stopione aluminium
+Repedt vagy törött forgórészrudak, megolvadt alumínium
+Barras del rotor agrietadas o rotas, aluminio fundido
+
+#2556
+Boîte à bornes brûlée ou connexions décolorées
+Caixa de terminais queimada ou conexões descoloridas
+接线盒烧毁或接线变色
+Клеммная коробка обгорела или соединения изменили цвет
+Puszka zaciskowa spalona lub połączenia przebarwione
+A kapocsdoboz kiégett, vagy a csatlakozások elszíneződtek
+Caja de bornes quemada o conexiones descoloridas
+
+#2557
+Les barrettes ou le raccordement ne correspondent pas à l'alimentation
+As barras ou a ligação não correspondem à alimentação
+连片或接法与供电电压不匹配
+Перемычки или схема соединения не соответствуют питанию
+Zworki lub połączenie nie pasują do zasilania
+Az áthidalók vagy a bekötés nem egyezik a betáplálással
+Los puentes o la conexión no coinciden con la alimentación
+
+#2558
+Ventilateur cassé, capot bouché ou ouïes pleines de poussière
+Ventilador quebrado, tampa bloqueada ou aberturas cheias de poeira
+风扇损坏、护罩堵塞，或通风口积满灰尘
+Вентилятор сломан, кожух забит или вентиляционные отверстия в пыли
+Wentylator uszkodzony, osłona zablokowana lub otwory wentylacyjne pełne kurzu
+A ventilátor törött, a burkolat eltömődött, vagy a szellőzőnyílások tele vannak porral
+Ventilador roto, cubierta bloqueada o rejillas llenas de polvo
+
+#2559
+Jeu de l'arbre ou roulement rugueux à la main
+Folga no eixo ou rolamento áspero com a mão
+轴有游隙，或用手转动轴承发涩
+Люфт вала или шероховатый подшипник при проворачивании рукой
+Luz na wale lub szorstkie łożysko przy obracaniu ręką
+Tengelyjáték vagy kézzel érdes csapágy
+Holgura en el eje o rodamiento áspero a mano
+
+#2560
+Le moteur est alimenté par un variateur (VFD)
+O motor é alimentado por um inversor (VFD)
+电机由变频器（VFD）供电
+Двигатель питается от преобразователя частоты (VFD)
+Silnik jest zasilany z falownika (VFD)
+A motort hajtás (VFD) táplálja
+El motor está alimentado por un variador (VFD)
+
+#2561
+Cannelures (lignes givrées) dans la bague du roulement
+Estrias (linhas foscas) na pista do rolamento
+轴承滚道上有电蚀条纹（磨砂状纹路）
+Рифление (матовые полосы) на дорожке качения подшипника
+Rowkowanie (matowe linie) na bieżni łożyska
+Barázdák (fagyott vonalak) a csapágy futógyűrűjén
+Estriado (líneas esmeriladas) en la pista del rodamiento
+
+#2562
+Surcharge mécanique ou charge bloquée
+Sobrecarga mecânica ou carga travada
+机械过载或负载卡死
+Механическая перегрузка или заклинивание нагрузки
+Przeciążenie mechaniczne lub zablokowane obciążenie
+Mechanikai túlterhelés vagy beszorult terhelés
+Sobrecarga mecánica o carga atascada
+
+#2563
+Supprimez la cause mécanique (blocage, courroie trop tendue, mauvais accouplement, mauvais point de fonctionnement de pompe). Vérifiez le courant en marche par rapport à la plaque signalétique et réglez correctement le relais thermique. Rebobinez ou remplacez si l'enroulement est brûlé.
+Elimine a causa mecânica (travamento, correia apertada, acoplamento ruim, regime errado da bomba). Verifique a corrente de funcionamento contra a placa e ajuste corretamente o relé de sobrecarga. Rebobine ou substitua se o enrolamento estiver queimado.
+消除机械方面的原因（卡阻、皮带过紧、联轴器不好、泵的工况不对）。把运行电流和铭牌对照，并把过载继电器整定正确。如果绕组已烧，就重绕或更换。
+Устраните механическую причину (заклинивание, слишком тугой ремень, плохая муфта, неверный режим насоса). Сверьте рабочий ток с шильдиком и правильно настройте тепловое реле. Перемотайте или замените, если обмотка сгорела.
+Usuń przyczynę mechaniczną (zakleszczenie, napięty pas, złe sprzęgło, zły punkt pracy pompy). Porównaj prąd pracy z tabliczką znamionową i prawidłowo ustaw przekaźnik termiczny. Przewiń lub wymień, jeśli uzwojenie jest spalone.
+Szüntesse meg a mechanikai okot (beszorulás, feszes szíj, rossz tengelykapcsoló, rossz szivattyú-üzempont). Vesse össze az üzemi áramot a típustáblával, és állítsa be helyesen a hőkioldó relét. Tekercselje újra vagy cserélje, ha a tekercs kiégett.
+Elimine la causa mecánica (atasco, correa tensa, mal acoplamiento, mal punto de trabajo de la bomba). Compruebe la corriente en marcha frente a la placa y ajuste bien el relé térmico. Rebobine o sustituya si el bobinado está quemado.
+
+#2564
+Montez un relais thermique adapté. Suivez l'évolution du courant du moteur.
+Instale um relé de sobrecarga correto. Acompanhe a tendência da corrente do motor.
+装上合适的过载继电器。持续跟踪电机电流的变化趋势。
+Установите правильное тепловое реле. Отслеживайте тренд тока двигателя.
+Zamontuj właściwy przekaźnik termiczny. Śledź trend prądu silnika.
+Építsen be megfelelő hőkioldó relét. Kövesse a motoráram alakulását.
+Monte un relé térmico correcto. Registre la tendencia de la corriente del motor.
+
+#2565
+Marche monophasée (perte d'une phase)
+Perda de fase (uma fase perdida)
+缺相运行（丢了一相）
+Работа на двух фазах (потеря фазы)
+Praca na dwóch fazach (utrata fazy)
+Fáziskiesés (egy fázis elveszett)
+Funcionamiento en dos fases (fase perdida)
+
+#2566
+Trouvez la phase ouverte : fusible fondu, pôle de contacteur brûlé, borne desserrée ou câble cassé. Réparez avant de toucher le moteur. Ne rebobinez que si l'enroulement est brûlé.
+Encontre a fase aberta: fusível queimado, polo do contator queimado, terminal solto ou cabo rompido. Conserte antes de mexer no motor. Rebobine somente se o enrolamento estiver queimado.
+找出断开的那一相：熔断器烧断、接触器触点烧坏、端子松动或电缆断了。先修好它，再去动电机。只有绕组烧了才重绕。
+Найдите оборванную фазу: перегоревший предохранитель, сгоревший полюс контактора, ослабленная клемма или обрыв кабеля. Устраните это, прежде чем трогать двигатель. Перематывайте, только если обмотка сгорела.
+Znajdź przerwaną fazę: przepalony bezpiecznik, spalony biegun stycznika, luźny zacisk lub zerwany kabel. Napraw to, zanim dotkniesz silnika. Przewijaj tylko wtedy, gdy uzwojenie jest spalone.
+Keresse meg a megszakadt fázist: kiégett biztosíték, kiégett kontaktorpólus, laza kapocs vagy szakadt kábel. Javítsa ki, mielőtt hozzányúl a motorhoz. Csak akkor tekercseljen újra, ha a tekercs kiégett.
+Encuentre la fase abierta: fusible fundido, polo de contactor quemado, borne flojo o cable roto. Repárelo antes de tocar el motor. Rebobine solo si el bobinado está quemado.
+
+#2567
+Ajoutez un relais de défaut de phase. Contrôlez les pôles du contacteur et le couple de serrage des bornes pendant la maintenance préventive.
+Adicione um relé de falta de fase. Verifique os polos do contator e o torque dos terminais durante a manutenção preventiva.
+加装缺相保护继电器。预防性维护时检查接触器触点和端子扭矩。
+Добавьте реле контроля фаз. Проверяйте полюса контактора и момент затяжки клемм при плановом обслуживании.
+Dodaj przekaźnik zaniku fazy. Sprawdzaj bieguny stycznika i moment dokręcenia zacisków podczas przeglądów.
+Építsen be fáziskiesés-figyelő relét. Karbantartáskor ellenőrizze a kontaktor pólusait és a kapcsok meghúzási nyomatékát.
+Añada un relé de falta de fase. Compruebe los polos del contactor y el par de los bornes en el mantenimiento preventivo.
+
+#2568
+Court-circuit entre spires dans une bobine
+Curto entre espiras em uma bobina
+某个线圈内匝间短路
+Межвитковое замыкание в катушке
+Zwarcie międzyzwojowe w cewce
+Menetzárlat egy tekercsben
+Cortocircuito entre espiras en una bobina
+
+#2569
+Rebobinez le stator. Une brûlure locale suit généralement le vieillissement de l'isolant, un pic de tension (variateur) ou l'humidité. Cherchez ce qui l'a sollicité.
+Rebobine o estator. Uma queima localizada normalmente decorre de envelhecimento do isolamento, pico de tensão (inversor) ou umidade. Verifique o que o submeteu a esforço.
+重绕定子。局部烧毁通常是绝缘老化、电压尖峰（变频器）或受潮造成的。查明是什么让它受了应力。
+Перемотайте статор. Локальный ожог обычно следует за старением изоляции, скачком напряжения (преобразователь) или влагой. Выясните, что создало нагрузку.
+Przewiń stojan. Miejscowe przepalenie zwykle wynika ze starzenia izolacji, szpilki napięcia (falownik) lub wilgoci. Ustal, co go obciążyło.
+Tekercselje újra az állórészt. A helyi égés általában a szigetelés öregedését, feszültséglökést (hajtás) vagy nedvességet követ. Derítse ki, mi terhelte.
+Rebobine el estátor. Una quemadura local suele seguir al envejecimiento del aislamiento, un pico de tensión (variador) o la humedad. Compruebe qué lo sometió a esfuerzo.
+
+#2570
+Utilisez des moteurs pour variateur avec un filtre dv/dt ou sinus sur les longs câbles.
+Use motores para inversor com filtro dv/dt ou senoidal em cabos longos.
+长电缆运行时，使用变频专用电机，并加装dv/dt滤波器或正弦滤波器。
+Используйте двигатели для работы с преобразователем с фильтром dv/dt или синус-фильтром на длинных кабелях.
+Stosuj silniki przystosowane do falowników z filtrem dv/dt lub sinusoidalnym na długich kablach.
+Hosszú kábelnél hajtáshoz tervezett motort használjon dv/dt vagy szinuszszűrővel.
+Use motores aptos para variador con filtro dv/dt o senoidal en cables largos.
+
+#2571
+Court-circuit entre phases aux têtes de bobines
+Curto entre fases nas cabeças de bobina
+端部线圈处相间短路
+Междуфазное замыкание на лобовых частях
+Zwarcie międzyfazowe na czołach uzwojenia
+Fázisközi zárlat a tekercsfejeknél
+Cortocircuito entre fases en las cabezas de bobina
+
+#2572
+Rebobinez le stator et posez de nouveaux séparateurs de phase. Vérifiez l'alimentation pour détecter des pics.
+Rebobine o estator e instale novos separadores de fase. Verifique picos na alimentação.
+重绕定子并装上新的相间隔离。检查电源是否有尖峰。
+Перемотайте статор и установите новые межфазные прокладки. Проверьте питание на наличие скачков.
+Przewiń stojan i załóż nowe separatory faz. Sprawdź zasilanie pod kątem szpilek napięcia.
+Tekercselje újra az állórészt, és szereljen be új fázisszigetelő lapokat. Ellenőrizze a betáplálást feszültséglökések szempontjából.
+Rebobine el estátor y ponga separadores de fase nuevos. Compruebe si hay picos en la alimentación.
+
+#2573
+Claquage de l'isolation vers la terre (humidité ou vieillissement)
+Ruptura do isolamento para a terra (umidade ou envelhecimento)
+绝缘对地击穿（受潮或老化）
+Пробой изоляции на землю (влага или старение)
+Przebicie izolacji do ziemi (wilgoć lub starzenie)
+Szigetelés átütése a föld felé (nedvesség vagy öregedés)
+Ruptura del aislamiento a tierra (humedad o envejecimiento)
+
+#2574
+Séchez les enroulements et retestez. Si le mégohmmètre reste bas, vernissez ou rebobinez. Vérifiez les joints, les trous de purge et les résistances de réchauffage sur les moteurs à l'arrêt.
+Seque os enrolamentos e teste de novo. Se o megôhmetro continuar baixo, envernize ou rebobine. Verifique vedações, furos de dreno e resistências de aquecimento em motores parados.
+烘干绕组并重新测试。如果兆欧表读数仍然很低，就浸漆或重绕。检查停用电机的密封、排水孔和加热器。
+Просушите обмотки и повторите проверку. Если мегаомметр по-прежнему показывает мало, пропитайте лаком или перемотайте. Проверьте уплотнения, дренажные отверстия и нагреватели на простаивающих двигателях.
+Osusz uzwojenia i zbadaj ponownie. Jeśli megaomomierz nadal wskazuje mało, polakieruj lub przewiń. Sprawdź uszczelnienia, otwory odpływowe i grzałki w nieużywanych silnikach.
+Szárítsa ki a tekercseket, és tesztelje újra. Ha a szigetelésmérő továbbra is alacsony értéket mutat, lakkozza vagy tekercselje újra. Ellenőrizze a tömítéseket, a lefolyónyílásokat és a fűtéseket az álló motoroknál.
+Seque los bobinados y vuelva a probar. Si el megóhmetro sigue bajo, barnice o rebobine. Compruebe juntas, orificios de drenaje y resistencias calefactoras en motores parados.
+
+#2575
+Posez des résistances de réchauffage sur les moteurs à l'arrêt. Mégohmmètre selon un calendrier.
+Instale resistências de aquecimento em motores parados. Meça com megôhmetro conforme programação.
+给停用的电机装加热器。按计划定期用兆欧表测量。
+Установите нагреватели на простаивающие двигатели. Измеряйте мегаомметром по графику.
+Zamontuj grzałki w nieużywanych silnikach. Mierz megaomomierzem według harmonogramu.
+Szereljen fűtést az álló motorokra. Szigetelésmérés ütemezetten.
+Ponga resistencias calefactoras en motores parados. Mida con megóhmetro según un calendario.
+
+#2576
+Défaillance de roulement
+Falha de rolamento
+轴承失效
+Отказ подшипника
+Uszkodzenie łożyska
+Csapágyhiba
+Fallo de rodamiento
+
+#2577
+Remplacez les deux roulements. Vérifiez l'ajustement de l'arbre et du logement, l'alignement, la tension de courroie ainsi que le type et la quantité de graisse.
+Substitua os dois rolamentos. Verifique o ajuste do eixo e do alojamento, o alinhamento, a tensão da correia e o tipo e a quantidade de graxa.
+更换两个轴承。检查轴和轴承座的配合、对中、皮带张力，以及润滑脂的类型和用量。
+Замените оба подшипника. Проверьте посадку вала и корпуса, соосность, натяжение ремня, а также тип и количество смазки.
+Wymień oba łożyska. Sprawdź pasowanie wału i obudowy, osiowanie, naciąg pasa oraz rodzaj i ilość smaru.
+Cserélje mindkét csapágyat. Ellenőrizze a tengely és a ház illesztését, a beállítást, a szíjfeszességet, valamint a zsír fajtáját és mennyiségét.
+Sustituya ambos rodamientos. Compruebe el ajuste del eje y la carcasa, la alineación, la tensión de la correa y el tipo y la cantidad de grasa.
+
+#2578
+Graissez selon le calendrier (pas plus). Alignez l'accouplement.
+Lubrifique conforme a programação (não mais). Alinhe o acoplamento.
+按计划加润滑脂（不要加多）。校正联轴器的对中。
+Смазывайте по графику (не больше). Выровняйте муфту.
+Smaruj według harmonogramu (nie więcej). Wyosiuj sprzęgło.
+Kenjen az ütemterv szerint (ne többet). Állítsa be a tengelykapcsoló egytengelyűségét.
+Engrase según el calendario (no más). Alinee el acoplamiento.
+
+#2579
+Tension d'alimentation basse ou déséquilibrée
+Tensão de alimentação baixa ou desequilibrada
+供电电压偏低或不平衡
+Пониженное или несимметричное напряжение питания
+Niskie lub niesymetryczne napięcie zasilania
+Alacsony vagy kiegyensúlyozatlan betáplálási feszültség
+Tensión de alimentación baja o desequilibrada
+
+#2580
+Trouvez la cause en amont : connexions desserrées, câble sous-dimensionné, prise du transformateur, charges monophasées déséquilibrées.
+Encontre a causa a montante: juntas soltas, cabo subdimensionado, tap do transformador, cargas monofásicas desequilibradas.
+在上游找原因：连接松动、电缆截面过小、变压器分接头、单相负载不平衡。
+Найдите причину выше по цепи: ослабленные соединения, кабель недостаточного сечения, отпайка трансформатора, несимметричные однофазные нагрузки.
+Znajdź przyczynę wcześniej w obwodzie: luźne połączenia, za cienki kabel, odczep transformatora, niesymetryczne obciążenia jednofazowe.
+Keresse meg az okot az áramkör elején: laza csatlakozások, alulméretezett kábel, transzformátor-leágazás, kiegyensúlyozatlan egyfázisú terhelések.
+Encuentre la causa aguas arriba: uniones flojas, cable subdimensionado, toma del transformador, cargas monofásicas desequilibradas.
+
+#2581
+Mauvais couplage étoile/triangle pour l'alimentation
+Ligação estrela/triângulo errada para a alimentação
+星形/三角形接法与供电不符
+Неверное соединение звезда/треугольник для данного питания
+Złe połączenie gwiazda/trójkąt dla zasilania
+Rossz csillag/delta bekötés a betáplálásnak
+Conexión estrella/triángulo incorrecta para la alimentación
+
+#2582
+Raccordez selon la plaque signalétique : un moteur 230/400 V fonctionne en étoile sur 400 V. Rebobinez si l'enroulement a subi une surtension.
+Ligue conforme a placa: um motor 230/400 V funciona em estrela em 400 V. Rebobine se o enrolamento sofreu sobretensão.
+按铭牌接线：230/400 V电机在400 V下接成星形。如果绕组已被过压损坏，就重绕。
+Подключайте по шильдику: двигатель 230/400 В работает по схеме звезды на 400 В. Перемотайте, если обмотка подверглась перенапряжению.
+Połącz zgodnie z tabliczką znamionową: silnik 230/400 V pracuje w gwiazdę na 400 V. Przewiń, jeśli uzwojenie zostało przepięte.
+Kösse be a típustábla szerint: a 230/400 V-os motor 400 V-on csillagban üzemel. Tekercselje újra, ha a tekercs túlfeszültséget kapott.
+Conecte según la placa: un motor de 230/400 V funciona en estrella a 400 V. Rebobine si el bobinado sufrió sobretensión.
+
+#2583
+Barres de rotor cassées
+Barras do rotor quebradas
+转子导条断裂
+Сломанные стержни ротора
+Złamane pręty wirnika
+Törött forgórészrudak
+Barras del rotor rotas
+
+#2584
+Remplacez ou recoulez le rotor. Regardez la fréquence des démarrages et l'inertie de la charge.
+Substitua ou refunda o rotor. Verifique a frequência das partidas e a inércia da carga.
+更换或重新铸造转子。查看启动的频繁程度以及负载的惯量。
+Замените или перелейте ротор. Проверьте частоту пусков и момент инерции нагрузки.
+Wymień lub odlej wirnik ponownie. Sprawdź, jak często silnik jest uruchamiany, i bezwładność obciążenia.
+Cserélje vagy öntse újra a forgórészt. Nézze meg az indítások gyakoriságát és a terhelés tehetetlenségét.
+Sustituya o vuelva a fundir el rotor. Revise la frecuencia de arranques y la inercia de la carga.
+
+#2585
+Contrainte du variateur : courants de roulement ou pics de tension
+Esforço do inversor: correntes nos rolamentos ou picos de tensão
+变频器引起的应力：轴承电流或电压尖峰
+Нагрузка от преобразователя: подшипниковые токи или скачки напряжения
+Obciążenie od falownika: prądy łożyskowe lub szpilki napięcia
+Hajtás okozta terhelés: csapágyáramok vagy feszültséglökések
+Esfuerzo del variador: corrientes en rodamientos o picos de tensión
+
+#2586
+Posez une bague de mise à la terre de l'arbre ou un roulement isolé, utilisez un câble blindé avec presse-étoupes à 360 degrés, ajoutez un filtre dv/dt, baissez la fréquence de découpage.
+Instale um anel de aterramento do eixo ou um rolamento isolado, use cabo blindado com prensa-cabos de 360 graus, adicione um filtro dv/dt e reduza a frequência de chaveamento.
+装轴接地环或绝缘轴承，使用带360度屏蔽接头的屏蔽电缆，加装dv/dt滤波器，降低载波频率。
+Установите кольцо заземления вала или изолированный подшипник, используйте экранированный кабель с кабельными вводами с экранированием на 360 градусов, добавьте фильтр dv/dt, снизьте несущую частоту.
+Zamontuj pierścień uziemiający wał lub łożysko izolowane, użyj kabla ekranowanego z dławnicami 360 stopni, dodaj filtr dv/dt, obniż częstotliwość nośną.
+Szereljen be tengelyföldelő gyűrűt vagy szigetelt csapágyat, használjon árnyékolt kábelt 360 fokos tömszelencével, adjon hozzá dv/dt szűrőt, csökkentse a kapcsolási frekvenciát.
+Monte un anillo de puesta a tierra del eje o un rodamiento aislado, use cable apantallado con prensaestopas de 360 grados, añada un filtro dv/dt y baje la frecuencia portadora.
+
+#2587
+Mauvais refroidissement
+Refrigeração deficiente
+散热不良
+Плохое охлаждение
+Słabe chłodzenie
+Gyenge hűtés
+Refrigeración deficiente
+
+#2588
+Nettoyez les ailettes et le capot du ventilateur, remplacez un ventilateur cassé, vérifiez la température ambiante et le régime de service.
+Limpe as aletas e a tampa do ventilador, substitua um ventilador quebrado, verifique a temperatura ambiente e o regime de trabalho.
+清洁散热片和风扇罩，更换损坏的风扇，检查环境温度和工作制。
+Очистите рёбра и кожух вентилятора, замените сломанный вентилятор, проверьте температуру окружающей среды и режим работы.
+Wyczyść żebra i osłonę wentylatora, wymień uszkodzony wentylator, sprawdź temperaturę otoczenia i tryb pracy.
+Tisztítsa meg a bordákat és a ventilátorburkolatot, cserélje a törött ventilátort, ellenőrizze a környezeti hőmérsékletet és az üzemmódot.
+Limpie las aletas y la cubierta del ventilador, sustituya un ventilador roto y compruebe la temperatura ambiente y el régimen de servicio.
+
+#2589
+Connexion de borne desserrée ou brûlée
+Conexão de terminal solta ou queimada
+松动或烧毁的端子连接
+Ослабленное или сгоревшее клеммное соединение
+Luźne lub spalone połączenie zaciskowe
+Laza vagy kiégett kapocscsatlakozás
+Conexión de borne floja o quemada
+
+#2590
+Recoupez jusqu'au cuivre propre, posez de nouvelles cosses, serrez au couple prescrit. Remplacez le bornier s'il est carbonisé.
+Corte até o cobre limpo, instale terminais novos e aperte no torque especificado. Substitua o bloco de terminais se estiver carbonizado.
+剪到干净的铜线处，装上新的接线鼻，按规定扭矩拧紧。如果接线端子排已炭化，就更换它。
+Обрежьте до чистой меди, установите новые наконечники, затяните с моментом по спецификации. Замените клеммную колодку, если она обуглена.
+Utnij do czystej miedzi, załóż nowe końcówki, dokręć momentem zgodnym ze specyfikacją. Wymień listwę zaciskową, jeśli jest zwęglona.
+Vágja vissza a tiszta rézig, szereljen fel új saruket, húzza meg az előírt nyomatékkal. Cserélje a kapocsléc, ha elszenesedett.
+Corte hasta cobre limpio, ponga terminales nuevos y apriete al par especificado. Sustituya la regleta si está carbonizada.
+
+#2591
+Lisse et libre
+Suave e livre
+平滑自如
+Плавно и свободно
+Płynnie i swobodnie
+Sima és szabad
+Suave y libre
+
+#2592
+Rugueux ou grinçant
+Áspero ou rangendo
+发涩或有摩擦声
+Шероховато или со скрежетом
+Szorstko lub zgrzyta
+Érdes vagy csikorgó
+Áspero o rascando
+
+#2593
+Dur ou bloqué
+Duro ou travado
+发紧或卡死
+Туго или заклинило
+Ciężko lub zablokowane
+Nehéz vagy beszorult
+Duro o bloqueado
+
+#2594
+Tourner l'arbre à la main
+Girar o eixo com a mão
+用手转动轴
+Провернуть вал рукой
+Obrócić wał ręką
+A tengely kézzel való forgatása
+Girar el eje a mano
+
+#2595
+Hors tension et verrouillé, charge déconnectée. Tournez lentement l'arbre. Sentez si la rotation est fluide, si ça grince ou si c'est bloqué.
+Energia desligada e bloqueada, carga desconectada. Gire o eixo lentamente. Sinta se a rotação é suave, se há atrito ou travamento.
+断电并上锁，负载已脱开。慢慢转动轴。感受转动是顺滑、有摩擦声，还是卡死。
+Питание отключено и заблокировано, нагрузка отсоединена. Медленно проворачивайте вал. Почувствуйте, вращение плавное, со скрежетом или заклинило.
+Zasilanie wyłączone i zablokowane, obciążenie odłączone. Obracaj wał powoli. Wyczuj, czy obrót jest płynny, zgrzyta, czy jest zablokowany.
+Áramtalanítva és lezárva, a terhelés lekapcsolva. Lassan forgassa a tengelyt. Érezze, hogy a forgás sima, csikorog-e, vagy beszorult.
+Con la alimentación apagada y bloqueada y la carga desconectada, gire el eje despacio. Note si el giro es suave, rasca o está bloqueado.
+

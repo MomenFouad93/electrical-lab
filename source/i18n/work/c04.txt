@@ -1,0 +1,1863 @@
+#353
+Transmetteur de pression alimenté par la boucle. Il lui faut au moins 10,5 V à ses bornes. Il fixe le courant de boucle : 4 mA à 0 % et 20 mA à 100 %. Réglez la valeur du procédé dans les propriétés.
+Transmissor de pressão alimentado pela malha. Precisa de pelo menos 10,5 V nos seus terminais. Ele define a corrente da malha: 4 mA a 0 % e 20 mA a 100 %. Defina o valor do processo nas propriedades.
+回路供电的压力变送器。端子间至少需要10.5 V。它决定回路电流：0 %时4 mA，100 %时20 mA。在属性中设置过程值。
+Преобразователь давления с питанием от токовой петли. Ему нужно не менее 10,5 В на клеммах. Он задаёт ток петли: 4 мА при 0 % и 20 мА при 100 %. Значение параметра процесса задаётся в свойствах.
+Przetwornik ciśnienia zasilany z pętli prądowej. Potrzebuje co najmniej 10,5 V na zaciskach. Ustala prąd pętli: 4 mA przy 0 % i 20 mA przy 100 %. Wartość procesu ustaw we właściwościach.
+Hurokról táplált nyomásjeladó. Legalább 10,5 V kell a kapcsain. Ő határozza meg a hurokáramot: 4 mA 0 %-nál és 20 mA 100 %-nál. A folyamatértéket a tulajdonságokban állítsa be.
+Transmisor de presión alimentado por el lazo. Necesita al menos 10,5 V en sus bornes. Fija la corriente del lazo: 4 mA al 0 % y 20 mA al 100 %. Fije el valor del proceso en las propiedades.
+
+#354
+Valeur du procédé (%)
+Valor do processo (%)
+过程值（%）
+Значение процесса (%)
+Wartość procesu (%)
+Folyamatérték (%)
+Valor del proceso (%)
+
+#355
+Mort (0 mA)
+Morto (0 mA)
+损坏（0 mA）
+Неисправен (0 мА)
+Uszkodzony (0 mA)
+Tönkrement (0 mA)
+Averiado (0 mA)
+
+#356
+Bloqué à 3,8 mA
+Preso em 3,8 mA
+卡在3.8 mA
+Застрял на 3,8 мА
+Zablokowany na 3,8 mA
+3,8 mA-en elakadt
+Atascado en 3,8 mA
+
+#357
+Bloqué à 21,5 mA
+Preso em 21,5 mA
+卡在21.5 mA
+Застрял на 21,5 мА
+Zablokowany na 21,5 mA
+21,5 mA-en elakadt
+Atascado en 21,5 mA
+
+#358
+Entrée analogique d'automate (250 Ω)
+Entrada analógica do CLP (250 Ω)
+PLC模拟量输入（250 Ω）
+Аналоговый вход ПЛК (250 Ом)
+Wejście analogowe PLC (250 Ω)
+PLC analóg bemenet (250 Ω)
+Entrada analógica del PLC (250 Ω)
+
+#359
+Carte d'entrée analogique d'automate, 4-20 mA avec un shunt de 250 Ω (1-5 V). Elle affiche le courant de boucle et signale une rupture de fil en dessous de 3,6 mA.
+Cartão de entrada analógica do CLP, 4-20 mA com shunt de 250 Ω (1-5 V). Mostra a corrente da malha e sinaliza rompimento de fio abaixo de 3,6 mA.
+PLC模拟量输入模块，4-20 mA，带250 Ω分流电阻（1-5 V）。显示回路电流，低于3.6 mA时报断线。
+Плата аналогового входа ПЛК, 4–20 мА с шунтом 250 Ом (1–5 В). Показывает ток петли и сигнализирует об обрыве провода ниже 3,6 мА.
+Karta wejść analogowych PLC, 4-20 mA z bocznikiem 250 Ω (1-5 V). Pokazuje prąd pętli i sygnalizuje zerwanie przewodu poniżej 3,6 mA.
+PLC analóg bemeneti kártya, 4-20 mA 250 Ω söntellenállással (1-5 V). Mutatja a hurokáramot, és 3,6 mA alatt vezetékszakadást jelez.
+Tarjeta de entrada analógica de PLC, 4-20 mA con shunt de 250 Ω (1-5 V). Muestra la corriente del lazo y señala rotura de cable por debajo de 3,6 mA.
+
+#360
+Détecteur de proximité (3 fils)
+Sensor de proximidade (3 fios)
+接近开关（三线）
+Датчик приближения (3-проводный)
+Czujnik zbliżeniowy (3-przewodowy)
+Közelítésérzékelő (3 vezetékes)
+Sensor de proximidad (3 hilos)
+
+#361
+Capteur inductif 3 fils. BN marron = +24 V, BU bleu = 0 V, BK noir = sortie. PNP commute +24 V sur la sortie, NPN commute 0 V. Cliquez sur le capteur pour approcher une cible métallique.
+Sensor indutivo de 3 fios. BN marrom = +24 V, BU azul = 0 V, BK preto = saída. PNP comuta +24 V na saída, NPN comuta 0 V. Clique no sensor para aproximar um alvo metálico.
+三线电感式传感器。BN棕色 = +24 V，BU蓝色 = 0 V，BK黑色 = 输出。PNP把+24 V切换到输出端，NPN切换0 V。点击传感器可让金属目标靠近。
+Индуктивный 3-проводный датчик. BN коричневый = +24 В, BU синий = 0 В, BK чёрный = выход. PNP коммутирует на выход +24 В, NPN коммутирует 0 В. Щёлкните по датчику, чтобы поднести металлическую мишень.
+Czujnik indukcyjny 3-przewodowy. BN brązowy = +24 V, BU niebieski = 0 V, BK czarny = wyjście. PNP przełącza +24 V na wyjście, NPN przełącza 0 V. Kliknij czujnik, aby zbliżyć metalowy cel.
+Induktív 3 vezetékes érzékelő. BN barna = +24 V, BU kék = 0 V, BK fekete = kimenet. A PNP +24 V-ot kapcsol a kimenetre, az NPN 0 V-ot. Kattintson az érzékelőre, hogy fémtárgyat közelítsen hozzá.
+Sensor inductivo de 3 hilos. BN marrón = +24 V, BU azul = 0 V, BK negro = salida. PNP conmuta +24 V a la salida, NPN conmuta 0 V. Haga clic en el sensor para acercar un objetivo metálico.
+
+#362
+Type de sortie
+Tipo de saída
+输出类型
+Тип выхода
+Typ wyjścia
+Kimenet típusa
+Tipo de salida
+
+#363
+Contact
+Contato
+触点
+Контакт
+Styk
+Érintkező
+Contacto
+
+#364
+Mort
+Morto
+损坏
+Неисправен
+Uszkodzony
+Tönkrement
+Averiado
+
+#365
+Entrée numérique d'automate (24 V)
+Entrada digital do CLP (24 V)
+PLC数字量输入（24 V）
+Дискретный вход ПЛК (24 В)
+Wejście cyfrowe PLC (24 V)
+PLC digitális bemenet (24 V)
+Entrada digital del PLC (24 V)
+
+#366
+Entrée numérique d'automate, absorbante ou source selon le câblage du commun. Il faut 15 V ou plus sur I0 par rapport à 0V pour lire ON.
+Entrada digital do CLP, sink ou source conforme a ligação do comum. Precisa de 15 V ou mais em I0 em relação ao 0V para ler ON.
+PLC数字量输入，漏型或源型取决于公共端的接法。I0相对0V需要15 V以上才读为ON。
+Дискретный вход ПЛК, sink или source в зависимости от подключения общего. Чтобы считаться включённым (ON), на I0 относительно 0V нужно 15 В или больше.
+Wejście cyfrowe PLC, typu sink lub source w zależności od podłączenia wspólnego. Aby odczytać ON, na I0 względem 0V potrzeba 15 V lub więcej.
+PLC digitális bemenet, nyelő vagy forrás a közös bekötésétől függően. Az I0-n a 0V-hoz képest legalább 15 V kell az ON olvasáshoz.
+Entrada digital del PLC, sink o source según cómo se cablee el común. Necesita 15 V o más en I0 respecto a 0V para leer ON.
+
+#367
+Bornier de passage sur rail DIN. Chaque numéro relie la vis du haut et celle du bas. Utilisez-le pour numéroter et organiser le câblage terrain. Une vis desserrée est un défaut classique : réglez-le dans la Simulation de défaut.
+Régua de bornes de passagem em trilho DIN. Cada número liga o parafuso de cima ao de baixo. Use para numerar e organizar a fiação de campo. Um parafuso frouxo é uma falha clássica: configure-a na Simulação de falha.
+DIN导轨直通接线端子排。每个编号把上下两个螺钉连通。用它来给现场接线编号和整理。螺钉松动是典型故障：可在故障模拟中设置。
+Проходная клеммная колодка на DIN-рейке. Каждый номер соединяет верхний и нижний винт. Используйте её для нумерации и упорядочивания полевой проводки. Ослабленный винт — классическая неисправность: задайте её в имитации неисправности.
+Listwa złączek przelotowych na szynie DIN. Każdy numer łączy górną i dolną śrubę. Użyj jej do numerowania i porządkowania okablowania polowego. Luźna śruba to klasyczna usterka: ustaw ją w symulacji usterek.
+DIN-sínes soros kapocssor. Minden szám összeköti a felső és az alsó csavart. Használja a terepi huzalozás számozására és rendszerezésére. A meglazult csavar klasszikus hiba: állítsa be a Hibaszimulációban.
+Regleta de bornes de paso en carril DIN. Cada número une el tornillo superior y el inferior. Úsela para numerar y ordenar el cableado de campo. Un tornillo flojo es una avería clásica: actívela en la Simulación de avería.
+
+#368
+Borne (1 voie)
+Borne (1 via)
+接线端子（1位）
+Клемма (1 канал)
+Zacisk (1-torowy)
+Kapocs (1 utas)
+Borne (1 vía)
+
+#369
+Bornier 4 voies
+Régua de bornes 4 vias
+端子排 4位
+Клеммная колодка 4 канала
+Listwa zaciskowa 4-torowa
+Kapocssor 4 utas
+Regleta de bornes 4 vías
+
+#370
+Bornier 8 voies
+Régua de bornes 8 vias
+端子排 8位
+Клеммная колодка 8 каналов
+Listwa zaciskowa 8-torowa
+Kapocssor 8 utas
+Regleta de bornes 8 vías
+
+#371
+Bornier 12 voies
+Régua de bornes 12 vias
+端子排 12位
+Клеммная колодка 12 каналов
+Listwa zaciskowa 12-torowa
+Kapocssor 12 utas
+Regleta de bornes 12 vías
+
+#372
+Borne PE (terre)
+Terminal PE (terra)
+PE端子（接地）
+Клемма PE (земля)
+Zacisk PE (uziemienie)
+PE kapocs (föld)
+Borne PE (tierra)
+
+#373
+Borne de terre de protection vert-jaune. Les deux vis sont à la terre. Reliez-y chaque enveloppe métallique et chaque carcasse de moteur.
+Terminal de terra de proteção verde e amarelo. Os dois parafusos são terra. Ligue a ele todo gabinete metálico e carcaça de motor.
+黄绿色保护接地端子。两个螺钉都是接地。把每个金属外壳和电机机座都接到它上面。
+Желто-зелёная клемма защитного заземления. Оба винта — земля. Подключайте к ней каждый металлический корпус и каждую станину двигателя.
+Żółto-zielony zacisk uziemienia ochronnego. Obie śruby to ziemia. Podłączaj do niego każdą metalową obudowę i korpus silnika.
+Zöld-sárga védőföld kapocs. Mindkét csavar föld. Kössön rá minden fémházat és motorvázat.
+Borne de tierra de protección verde y amarillo. Ambos tornillos son tierra. Conecte a él cada envolvente metálica y cada carcasa de motor.
+
+#374
+Boîte de jonction (6 voies)
+Caixa de junção (6 vias)
+接线盒（6位）
+Соединительная коробка (6 каналов)
+Puszka rozgałęźna (6-torowa)
+Elosztódoboz (6 utas)
+Caja de conexiones (6 vías)
+
+#375
+Boîte de jonction. Les six bornes ne forment qu'un seul point. Servez-vous-en pour dériver ou raccorder un câble, ou comme point commun.
+Caixa de junção. Os seis terminais são um único ponto. Use para dividir ou emendar um cabo, ou como ponto comum.
+接线盒。六个端子是同一个点。用来分支或连接电缆，或者作为公共点。
+Соединительная коробка. Все шесть клемм — одна точка. Используйте её для разветвления или соединения кабеля либо как общую точку.
+Puszka rozgałęźna. Wszystkie sześć zacisków to jeden punkt. Użyj jej do rozgałęzienia lub łączenia kabla albo jako punktu wspólnego.
+Elosztódoboz. A hat kapocs egyetlen pont. Használja kábel elágazásához vagy toldásához, vagy közös pontként.
+Caja de conexiones. Los seis bornes son un único punto. Úsela para derivar o empalmar un cable, o como punto común.
+
+#376
+Borne en haut à gauche desserrée
+Terminal superior esquerdo frouxo
+左上端子松动
+Левая верхняя клемма ослаблена
+Lewy górny zacisk luźny
+A bal felső kapocs laza
+Borne superior izquierdo flojo
+
+#377
+Cosse / embout de câble
+Terminal de cabo / ponteira
+电缆线鼻 / 管型端子
+Кабельный наконечник / гильза
+Końcówka kablowa / tulejka
+Kábelsaru / érvéghüvely
+Terminal de cable / punta hueca
+
+#378
+Extrémité sertie sur un conducteur : cosse à œil, cosse fourche, broche ou embout. Un mauvais sertissage ou une vis desserrée chauffe. Défauts : sertissage ouvert, ou résistance élevée (chaud).
+Uma ponta crimpada em um condutor: terminal olhal, garfo, pino ou ponteira. Um crimpe ruim ou parafuso frouxo gera calor. Falhas: crimpe aberto ou alta resistência (quente).
+压接在导线上的末端：圆形线鼻、叉形线鼻、针形端子或管型端子。压接不良或螺钉松动会发热。故障：压接脱开，或电阻偏大（发热）。
+Опрессованный конец на проводнике: кольцевой наконечник, вилочный наконечник, штырь или гильза. Плохая опрессовка или ослабленный винт даёт нагрев. Неисправности: обрыв опрессовки или повышенное сопротивление (нагрев).
+Zaciśnięta końcówka na przewodzie: oczko, widełki, kołek lub tulejka. Zły zacisk lub luźna śruba powoduje nagrzewanie. Usterki: otwarty zacisk albo wysoka rezystancja (gorące).
+Egy vezetőre krimpelt vég: gyűrűs saru, villás saru, tüske vagy érvéghüvely. A rossz krimpelés vagy a laza csavar hőt termel. Hibák: nyitott krimpelés vagy nagy ellenállás (meleg).
+Un extremo crimpado en un conductor: terminal de anillo, de horquilla, de pin o punta hueca. Un mal crimpado o un tornillo flojo genera calor. Averías: crimpado abierto o alta resistencia (caliente).
+
+#379
+Section du câble (mm²)
+Seção do cabo (mm²)
+电缆截面积（mm²）
+Сечение кабеля (мм²)
+Przekrój kabla (mm²)
+Kábel keresztmetszete (mm²)
+Sección del cable (mm²)
+
+#380
+Sertissage ouvert (fil arraché)
+Crimpe aberto (fio saiu)
+压接脱开（导线拔出）
+Опрессовка разорвана (провод выдернут)
+Zacisk otwarty (przewód wyciągnięty)
+Nyitott krimpelés (a vezeték kihúzódott)
+Crimpado abierto (cable extraído)
+
+#381
+Résistance élevée (desserré / oxydé)
+Alta resistência (frouxo / oxidado)
+电阻偏大（松动 / 氧化）
+Повышенное сопротивление (ослаблено / окислено)
+Wysoka rezystancja (luźne / utlenione)
+Nagy ellenállás (laza / oxidálódott)
+Alta resistencia (flojo / oxidado)
+
+#382
+Section d'un conducteur (mm²)
+Seção do condutor (mm²)
+线芯截面积（mm²）
+Сечение жилы (мм²)
+Przekrój żyły (mm²)
+Ér keresztmetszete (mm²)
+Sección del conductor (mm²)
+
+#383
+Longueur (m)
+Comprimento (m)
+长度（m）
+Длина (м)
+Długość (m)
+Hossz (m)
+Longitud (m)
+
+#384
+Câble 2 conducteurs (CC / commande)
+Cabo 2 vias (CC / comando)
+两芯电缆（直流 / 控制）
+Кабель 2-жильный (DC / управление)
+Kabel 2-żyłowy (DC / sterowanie)
+2 eres kábel (DC / vezérlés)
+Cable de 2 hilos (CC / mando)
+
+#385
+Câble 2 conducteurs. La résistance des conducteurs est réelle : un câble long et fin fait chuter la tension. Défauts : conducteur coupé, conducteurs en contact.
+Cabo de 2 vias. A resistência dos condutores é real: um cabo longo e fino causa queda de tensão. Falhas: condutor rompido, condutores se tocando.
+两芯电缆。线芯电阻是真实存在的：又长又细的电缆会产生压降。故障：线芯断裂，线芯相碰。
+2-жильный кабель. Сопротивление жил реально: длинный тонкий кабель даёт падение напряжения. Неисправности: обрыв жилы, жилы касаются друг друга.
+Kabel 2-żyłowy. Rezystancja żył jest prawdziwa: długi, cienki kabel powoduje spadek napięcia. Usterki: przerwana żyła, żyły stykają się.
+2 eres kábel. Az erek ellenállása valós: egy hosszú, vékony kábel feszültséget veszít. Hibák: szakadt ér, összeérő erek.
+Cable de 2 hilos. La resistencia de los conductores es real: un cable largo y fino provoca caída de tensión. Averías: hilo cortado, hilos en contacto.
+
+#386
+Câble 3 conducteurs (L N PE)
+Cabo 3 vias (L N PE)
+三芯电缆（L N PE）
+Кабель 3-жильный (L N PE)
+Kabel 3-żyłowy (L N PE)
+3 eres kábel (L N PE)
+Cable de 3 hilos (L N PE)
+
+#387
+Câble monophasé 3 conducteurs : L marron, N bleu, PE vert-jaune. Vérifiez la section par rapport au disjoncteur : 1,5 mm² 16 A, 2,5 mm² 24 A (méthode C, arrondi).
+Cabo monofásico de 3 vias: L marrom, N azul, PE verde e amarelo. Confira a seção em relação ao disjuntor: 1,5 mm² 16 A, 2,5 mm² 24 A (método C, arredondado).
+三芯单相电缆：L棕色，N蓝色，PE黄绿色。对照断路器核对截面积：1.5 mm² 对应16 A，2.5 mm² 对应24 A（C方式，取整）。
+3-жильный однофазный кабель: L коричневый, N синий, PE жёлто-зелёный. Проверьте сечение по автомату: 1,5 мм² — 16 А, 2,5 мм² — 24 А (способ прокладки C, округлено).
+Kabel jednofazowy 3-żyłowy: L brązowy, N niebieski, PE żółto-zielony. Sprawdź przekrój względem wyłącznika: 1,5 mm² 16 A, 2,5 mm² 24 A (metoda C, zaokrąglone).
+3 eres egyfázisú kábel: L barna, N kék, PE zöld-sárga. Ellenőrizze a keresztmetszetet a megszakítóhoz képest: 1,5 mm² 16 A, 2,5 mm² 24 A (C módszer, kerekítve).
+Cable monofásico de 3 hilos: L marrón, N azul, PE verde y amarillo. Compruebe la sección frente al interruptor: 1,5 mm² 16 A, 2,5 mm² 24 A (método C, redondeado).
+
+#388
+Câble 4 conducteurs (triphasé + PE)
+Cabo 4 vias (trifásico + PE)
+四芯电缆（三相 + PE）
+Кабель 4-жильный (3 фазы + PE)
+Kabel 4-żyłowy (3-fazowy + PE)
+4 eres kábel (3 fázis + PE)
+Cable de 4 hilos (trifásico + PE)
+
+#389
+Câble moteur 4 conducteurs : L1 marron, L2 noir, L3 gris, PE vert-jaune.
+Cabo de motor de 4 vias: L1 marrom, L2 preto, L3 cinza, PE verde e amarelo.
+四芯电机电缆：L1棕色，L2黑色，L3灰色，PE黄绿色。
+4-жильный кабель двигателя: L1 коричневый, L2 чёрный, L3 серый, PE жёлто-зелёный.
+Kabel silnikowy 4-żyłowy: L1 brązowy, L2 czarny, L3 szary, PE żółto-zielony.
+4 eres motorkábel: L1 barna, L2 fekete, L3 szürke, PE zöld-sárga.
+Cable de motor de 4 hilos: L1 marrón, L2 negro, L3 gris, PE verde y amarillo.
+
+#390
+Câble 5 conducteurs (triphasé + N + PE)
+Cabo 5 vias (trifásico + N + PE)
+五芯电缆（三相 + N + PE）
+Кабель 5-жильный (3 фазы + N + PE)
+Kabel 5-żyłowy (3-fazowy + N + PE)
+5 eres kábel (3 fázis + N + PE)
+Cable de 5 hilos (trifásico + N + PE)
+
+#391
+Câble 5 conducteurs : L1 L2 L3 N PE. Courant pour l'alimentation d'un coffret.
+Cabo de 5 vias: L1 L2 L3 N PE. Comum para a alimentação de um painel.
+五芯电缆：L1 L2 L3 N PE。常用作配电柜的进线。
+5-жильный кабель: L1 L2 L3 N PE. Обычно используется для питания щита.
+Kabel 5-żyłowy: L1 L2 L3 N PE. Często stosowany do zasilania rozdzielnicy.
+5 eres kábel: L1 L2 L3 N PE. Gyakori szekrénybetáp.
+Cable de 5 hilos: L1 L2 L3 N PE. Habitual para la acometida de un cuadro.
+
+#392
+Câble de commande 7 conducteurs (numérotés)
+Cabo de comando de 7 vias (numeradas)
+七芯控制电缆（编号）
+Контрольный кабель 7-жильный (нумерованный)
+Kabel sterowniczy 7-żyłowy (numerowany)
+7 eres vezérlőkábel (számozott)
+Cable de mando de 7 hilos (numerados)
+
+#393
+Câble de commande numéroté. Les conducteurs sont repérés par un numéro, pas par une couleur. Sonnez toujours les conducteurs avant de les raccorder.
+Cabo de comando numerado. As veias são identificadas por número, não por cor. Sempre faça o teste de continuidade das veias antes de ligá-las.
+编号控制电缆。线芯用数字而不是颜色来区分。接线前务必先把线芯逐根对线确认。
+Нумерованный контрольный кабель. Жилы различаются по номерам, а не по цвету. Перед подключением всегда прозванивайте жилы.
+Numerowany kabel sterowniczy. Żyły rozróżnia się numerami, a nie kolorami. Zawsze przedzwoń żyły przed podłączeniem.
+Számozott vezérlőkábel. Az ereket szám azonosítja, nem szín. Bekötés előtt mindig csengesse ki az ereket.
+Cable de mando numerado. Los hilos se identifican por número, no por color. Verifique siempre los hilos con el timbrador antes de conectarlos.
+
+#394
+Prise murale 230 V avec appareil
+Tomada de parede 230 V com aparelho
+230 V墙壁插座（带用电器）
+Настенная розетка 230 В с прибором
+Gniazdo ścienne 230 V z odbiornikiem
+230 V fali dugalj fogyasztóval
+Enchufe de pared 230 V con aparato
+
+#395
+Prise de courant. Câblez L, N et PE sur ses bornes. Choisissez l'appareil branché. Un appareil défectueux peut avoir un courant de fuite à la terre : testez un DDR avec lui.
+Tomada. Ligue L, N e PE aos seus terminais. Escolha o aparelho ligado. Um aparelho com defeito pode fugir corrente para a terra: teste um DR com ele.
+插座。把L、N、PE接到它的端子上。选择插入的用电器。有故障的用电器可能向地漏电：可以用它来测试漏电保护器。
+Розетка. Подключите L, N и PE к её клеммам. Выберите включённый прибор. Неисправный прибор может давать утечку на землю: проверьте с ним УЗО.
+Gniazdo wtyczkowe. Podłącz L, N i PE do jego zacisków. Wybierz podłączony odbiornik. Uszkodzony odbiornik może upuszczać prąd do ziemi: sprawdź na nim wyłącznik różnicowoprądowy.
+Dugalj. Kösse L-t, N-t és PE-t a kapcsaira. Válassza ki a bedugott fogyasztót. A hibás fogyasztó áramot szivárogtathat a földre: próbálja ki vele a FI-relét.
+Toma de corriente. Cablee L, N y PE a sus bornes. Elija el aparato enchufado. Un aparato defectuoso puede derivar corriente a tierra: pruebe con él un diferencial.
+
+#396
+Appareil (W)
+Aparelho (W)
+用电器（W）
+Прибор (Вт)
+Odbiornik (W)
+Fogyasztó (W)
+Aparato (W)
+
+#397
+L'appareil fuit à la terre (environ 50 mA)
+O aparelho tem fuga para a terra (cerca de 50 mA)
+用电器向地漏电（约50 mA）
+Прибор даёт утечку на землю (около 50 мА)
+Odbiornik upuszcza prąd do ziemi (około 50 mA)
+A fogyasztó a földre szivárog (kb. 50 mA)
+El aparato deriva a tierra (unos 50 mA)
+
+#398
+Court-circuit dans l'appareil
+Curto-circuito no aparelho
+用电器短路
+Короткое замыкание в приборе
+Zwarcie w odbiorniku
+Zárlat a fogyasztóban
+Cortocircuito en el aparato
+
+#399
+Douille avec rosace de plafond
+Soquete com roseta de teto
+灯座（带吸顶接线盒）
+Патрон с потолочной розеткой
+Oprawka z puszką sufitową
+Lámpafoglalat mennyezeti rozettával
+Portalámparas con florón de techo
+
+#400
+Rosace de plafond avec lampe. L est la phase commutée, N le neutre, PE la terre. S'allume vers 230 V.
+Roseta de teto com lâmpada. L é a fase chaveada, N é o neutro, PE é a terra. Acende em cerca de 230 V.
+带灯的吸顶接线盒。L是开关控制后的相线，N是零线，PE是地线。约230 V时点亮。
+Потолочная розетка с лампой. L — коммутируемая фаза, N — нейтраль, PE — земля. Загорается при 230 В.
+Puszka sufitowa z żarówką. L to faza po łączniku, N to neutralny, PE to uziemienie. Świeci przy około 230 V.
+Mennyezeti rozetta lámpával. Az L a kapcsolt fázis, az N a nulla, a PE a föld. Kb. 230 V-nál világít.
+Florón de techo con lámpara. L es la fase conmutada, N es el neutro, PE es la tierra. Se enciende con unos 230 V.
+
+#401
+Lampe (W)
+Lâmpada (W)
+灯泡（W）
+Лампа (Вт)
+Żarówka (W)
+Lámpa (W)
+Lámpara (W)
+
+#402
+Lampe grillée
+Lâmpada queimada
+灯泡烧毁
+Лампа перегорела
+Żarówka przepalona
+A lámpa kiégett
+Lámpara fundida
+
+#403
+Fuite à la terre
+Fuga para a terra
+对地漏电
+Утечка на землю
+Upływ do ziemi
+Földzárlati szivárgás
+Fuga a tierra
+
+#404
+Contacts brûlés (ne se raccordent jamais)
+Contatos queimados (nunca conectam)
+触点烧蚀（始终不导通）
+Контакты обгорели (никогда не соединяются)
+Styki wypalone (nigdy nie łączą)
+Kiégett érintkezők (soha nem kapcsolnak)
+Contactos quemados (nunca conectan)
+
+#405
+Interrupteur mural simple allumage
+Interruptor de parede simples
+单控墙壁开关
+Настенный выключатель одноклавишный
+Łącznik ścienny jednobiegunowy
+Falikapcsoló egyszerű
+Interruptor de pared simple
+
+#406
+Interrupteur mural simple allumage. Cliquez pour le basculer. Il établit le contact C vers L1 en position haute.
+Interruptor de parede simples. Clique para acionar. Ele fecha o contato de C para L1 quando está para cima.
+单控墙壁开关。点击拨动。向上时C与L1接通。
+Одноклавишный настенный выключатель. Щёлкните, чтобы переключить. В верхнем положении он замыкает C на L1.
+Łącznik ścienny jednobiegunowy. Kliknij, aby przełączyć. W górnej pozycji łączy C z L1.
+Egyszerű falikapcsoló. Kattintson az átbillentéséhez. Felső állásban a C és L1 között zár.
+Interruptor de pared simple. Haga clic para accionarlo. Hace el contacto de C a L1 cuando está arriba.
+
+#407
+Interrupteur mural va-et-vient
+Interruptor de parede paralelo
+双控墙壁开关
+Проходной выключатель
+Łącznik schodowy
+Falikapcsoló váltó
+Conmutador de pared
+
+#408
+Interrupteur va-et-vient pour un câblage de cage d'escalier. Le commun C va vers L1 ou L2. Deux d'entre eux commandent une lampe depuis deux endroits.
+Interruptor paralelo para ligação de escada. O comum C vai para L1 ou L2. Dois deles comandam uma lâmpada de dois lugares.
+用于楼梯照明接线的双控开关。公共端C接L1或L2。两个这样的开关可在两处控制同一盏灯。
+Проходной выключатель для освещения лестницы. Общий C идёт на L1 или L2. Два таких выключателя управляют одной лампой из двух мест.
+Łącznik schodowy do instalacji klatki schodowej. Wspólny C idzie do L1 lub L2. Dwa takie łączniki sterują jedną lampą z dwóch miejsc.
+Váltókapcsoló lépcsőházi bekötéshez. A közös C az L1-re vagy az L2-re megy. Kettő közülük egy lámpát vezérel két helyről.
+Conmutador para cableado de escalera. El común C va a L1 o a L2. Dos de ellos mandan una lámpara desde dos sitios.
+
+#409
+Interrupteur intermédiaire (permutateur)
+Interruptor intermediário (cruzamento)
+中途开关（换向开关）
+Перекрёстный выключатель
+Łącznik krzyżowy
+Keresztkapcsoló
+Conmutador de cruce
+
+#410
+Interrupteur intermédiaire. Connexion directe ou croisée. Placez-le entre deux va-et-vient pour commander une lampe depuis trois endroits.
+Interruptor intermediário. Ligação direta ou cruzada. Coloque-o entre dois interruptores paralelos para comandar uma lâmpada de três lugares.
+中途（换向）开关。直通或交叉连接。装在两个双控开关之间，就能在三处控制一盏灯。
+Перекрёстный выключатель. Прямое или перекрёстное соединение. Поставьте его между двумя проходными выключателями, чтобы управлять лампой из трёх мест.
+Łącznik krzyżowy. Połączenie proste lub skrzyżowane. Włącz go między dwoma łącznikami schodowymi, aby sterować lampą z trzech miejsc.
+Keresztkapcsoló. Egyenes vagy keresztezett bekötés. Két váltókapcsoló közé téve egy lámpát három helyről lehet vezérelni.
+Conmutador de cruce. Conexión directa o cruzada. Colóquelo entre dos conmutadores para mandar una lámpara desde tres sitios.
+
+#411
+Disjoncteur différentiel 2 pôles (DDR)
+DR bipolar (diferencial residual)
+2P漏电保护器（RCD）
+УЗО 2-полюсное
+Wyłącznik różnicowoprądowy 2-biegunowy
+FI-relé 2 pólusú
+Diferencial 2 polos (RCD)
+
+#412
+Dispositif différentiel à courant résiduel. Il déclenche quand le courant dans L et N diffère de plus que sa sensibilité : ce courant fuit vers la terre (une personne ou un appareil défectueux). 30 mA protège les personnes. Appuyez sur le bouton T pour tester.
+Dispositivo diferencial residual. Atua quando a corrente em L e N difere mais do que sua sensibilidade: essa corrente está fugindo para a terra (uma pessoa ou um aparelho com defeito). 30 mA protege pessoas. Aperte o botão T para testar.
+剩余电流保护装置。当L和N中的电流之差超过其灵敏度时就会跳闸：这部分电流正在漏向大地（人体或有故障的用电器）。30 mA可保护人身安全。按T按钮进行测试。
+Устройство защитного отключения. Срабатывает, когда токи в L и N отличаются больше, чем его чувствительность: этот ток утекает на землю (через человека или неисправный прибор). 30 мА защищает людей. Нажмите кнопку T для проверки.
+Wyłącznik różnicowoprądowy. Zadziała, gdy prądy w L i N różnią się o więcej niż jego czułość: ten prąd upływa do ziemi (przez człowieka lub uszkodzony odbiornik). 30 mA chroni ludzi. Naciśnij przycisk T, aby przetestować.
+Áram-védőkapcsoló. Kiold, ha az L és az N áramának különbsége nagyobb az érzékenységénél: ez az áram a földre szivárog (egy személyen vagy hibás fogyasztón keresztül). A 30 mA az embereket védi. A teszteléshez nyomja meg a T gombot.
+Dispositivo de corriente diferencial residual. Dispara cuando la corriente en L y N difiere más que su sensibilidad: esa corriente se fuga a tierra (una persona o un aparato defectuoso). 30 mA protege a las personas. Pulse el botón T para probar.
+
+#413
+Sensibilité (mA)
+Sensibilidade (mA)
+灵敏度（mA）
+Чувствительность (мА)
+Czułość (mA)
+Érzékenység (mA)
+Sensibilidad (mA)
+
+#414
+Ne déclenche pas sur une fuite (dangereux)
+Não atua com fuga (perigoso)
+漏电时不跳闸（危险）
+Не срабатывает при утечке (опасно)
+Nie zadziała przy upływie (niebezpieczne)
+Szivárgásnál nem old ki (veszélyes)
+No dispara con fuga (peligroso)
+
+#415
+Déclenche à la moitié de la sensibilité
+Atua com metade da sensibilidade
+在灵敏度一半时就跳闸
+Срабатывает при половине чувствительности
+Zadziała przy połowie czułości
+A felénél kiold az érzékenységnek
+Dispara con la mitad de la sensibilidad
+
+#416
+Bouton test : déclenché. Le DDR fonctionne.
+Botão de teste: atuou. O DR funciona.
+测试按钮：已跳闸。漏电保护器工作正常。
+Кнопка проверки: сработало. УЗО исправно.
+Przycisk test: zadziałał. Wyłącznik różnicowoprądowy działa.
+Teszt gomb: kioldott. A FI-relé működik.
+Botón de prueba: ha disparado. El diferencial funciona.
+
+#417
+Bouton test pressé : il N'A PAS déclenché. Remplacez le DDR.
+Botão de teste pressionado: NÃO atuou. Substitua o DR.
+已按下测试按钮：它没有跳闸。请更换漏电保护器。
+Кнопка проверки нажата: УЗО НЕ сработало. Замените УЗО.
+Naciśnięto przycisk test: NIE zadziałał. Wymień wyłącznik różnicowoprądowy.
+A teszt gombot megnyomták: NEM oldott ki. Cserélje ki a FI-relét.
+Botón de prueba pulsado: NO ha disparado. Sustituya el diferencial.
+
+#418
+Mettez-le d'abord sur ON, puis testez.
+Ligue-o primeiro em ON e depois teste.
+先合闸，再测试。
+Сначала включите его, затем проверяйте.
+Najpierw włącz go na ON, potem przetestuj.
+Előbb kapcsolja BE, utána tesztelje.
+Póngalo primero en ON y luego pruebe.
+
+#419
+Avertisseur sonore / klaxon
+Buzzer / buzina
+蜂鸣器 / 警笛
+Зуммер / сирена
+Brzęczyk / syrena
+Berregő / kürt
+Zumbador / bocina
+
+#420
+Avertisseur ou klaxon, 3 W. Sonne au-dessus de 80 % de sa tension. Les modèles CC sont sensibles à la polarité dans la réalité ; ici seule compte la tension.
+Buzzer ou buzina, 3 W. Soa acima de 80 % da sua tensão. Os modelos CC são sensíveis à polaridade na vida real; aqui só a tensão importa.
+蜂鸣器或警笛，3 W。电压超过额定值的80 %时发声。直流型在现实中有极性要求，这里只看电压。
+Зуммер или сирена, 3 Вт. Звучит при напряжении выше 80 % от номинального. Модели на постоянном токе в реальности чувствительны к полярности, здесь важно только напряжение.
+Brzęczyk lub syrena, 3 W. Dźwięczy powyżej 80 % swojego napięcia. Wersje DC w rzeczywistości są wrażliwe na polaryzację, tutaj liczy się tylko napięcie.
+Berregő vagy kürt, 3 W. A névleges feszültségének 80 %-a felett szól. A DC típusok a valóságban polaritásérzékenyek, itt csak a feszültség számít.
+Zumbador o bocina, 3 W. Suena por encima del 80 % de su tensión. Los de CC son sensibles a la polaridad en la vida real, aquí solo importa la tensión.
+
+#421
+Bouton-poussoir 1 NO + 1 NF
+Botão 1NA + 1NF
+按钮 1常开 + 1常闭
+Кнопка 1NO + 1NC
+Przycisk 1NO + 1NC
+Nyomógomb 1 NO + 1 NC
+Pulsador 1NA + 1NC
+
+#422
+Bouton-poussoir à deux contacts : 1-2 normalement fermé et 3-4 normalement ouvert. Appuyez pour inverser les deux. Pratique pour un marche-arrêt sur un seul bouton.
+Botão com dois contatos: 1-2 normalmente fechado e 3-4 normalmente aberto. Pressione para inverter os dois. Útil para partida e parada em um só botão.
+带两个触点的按钮：1-2常闭，3-4常开。按下时两个同时翻转。适合用一个按钮做启停。
+Кнопка с двумя контактами: 1-2 нормально замкнутый и 3-4 нормально разомкнутый. При нажатии переключаются оба. Удобно для пуска и остановки одной кнопкой.
+Przycisk z dwoma stykami: 1-2 normalnie zamknięty i 3-4 normalnie otwarty. Naciśnięcie przełącza oba. Wygodny do start-stop jednym przyciskiem.
+Két érintkezős nyomógomb: 1-2 nyitó (NC), 3-4 záró (NO). Lenyomáskor mindkettő vált. Praktikus indítás-leállításhoz egyetlen gombbal.
+Pulsador con dos contactos: 1-2 normalmente cerrado y 3-4 normalmente abierto. Al pulsar cambian los dos. Útil para marcha-paro con un solo botón.
+
+#423
+Sélecteur à clé
+Seletor com chave
+钥匙选择开关
+Ключ-переключатель
+Przełącznik kluczykowy
+Kulcsos választókapcsoló
+Selector de llave
+
+#424
+Sélecteur à deux positions qu'on ne peut tourner qu'avec une clé. Sert pour les modes local/distant ou maintenance.
+Seletor de duas posições que só gira com chave. Usado para os modos local/remoto ou manutenção.
+只能用钥匙转动的二位选择开关。用于本地/远程或维护模式。
+Переключатель на два положения, который можно повернуть только ключом. Применяется для режимов местный/дистанционный или обслуживания.
+Przełącznik 2-pozycyjny, który można obrócić tylko kluczem. Używany w trybach lokalny/zdalny lub serwisowym.
+Kétállású választókapcsoló, amely csak kulccsal forgatható. Helyi/távoli vagy karbantartási üzemmódokhoz használják.
+Selector de dos posiciones que solo se gira con llave. Se usa para modos local/remoto o mantenimiento.
+
+#425
+Interrupteur à flotteur / de niveau (inverseur)
+Chave de boia / nível (reversora)
+浮球 / 液位开关（转换触点）
+Поплавковый / уровневый выключатель (переключающий)
+Wyłącznik pływakowy / poziomu (przełączny)
+Úszó- / szintkapcsoló (váltóérintkezős)
+Interruptor de flotador / nivel (conmutado)
+
+#426
+Contacteur de niveau avec un contact inverseur. Cliquez pour simuler la montée du flotteur jusqu'au niveau réglé.
+Chave de nível com contato reversor. Clique para simular a boia subindo até o nível ajustado.
+带转换触点的液位开关。点击模拟浮球升到设定液位。
+Выключатель уровня с переключающим контактом. Щёлкните, чтобы имитировать подъём поплавка до заданного уровня.
+Wyłącznik poziomu ze stykiem przełącznym. Kliknij, aby zasymulować wzniesienie się pływaka do nastawionego poziomu.
+Szintkapcsoló váltóérintkezővel. Kattintson annak szimulálásához, hogy az úszó a beállított szintre emelkedik.
+Interruptor de nivel con un contacto conmutado. Haga clic para simular que el flotador sube al nivel fijado.
+
+#427
+Contacteur de débit (inverseur)
+Chave de fluxo (reversora)
+流量开关（转换触点）
+Реле потока (переключающее)
+Przepływowy wyłącznik (przełączny)
+Áramláskapcsoló (váltóérintkezős)
+Interruptor de caudal (conmutado)
+
+#428
+Contacteur de débit avec un contact inverseur. Cliquez pour simuler la présence de débit.
+Chave de fluxo com contato reversor. Clique para simular a presença de fluxo.
+带转换触点的流量开关。点击模拟有流量。
+Реле потока с переключающим контактом. Щёлкните, чтобы имитировать наличие потока.
+Przepływowy wyłącznik ze stykiem przełącznym. Kliknij, aby zasymulować obecność przepływu.
+Áramláskapcsoló váltóérintkezővel. Kattintson az áramlás meglétének szimulálásához.
+Interruptor de caudal con un contacto conmutado. Haga clic para simular que hay caudal.
+
+#429
+Thermostat (inverseur)
+Termostato (reversor)
+温控器（转换触点）
+Термостат (переключающий)
+Termostat (przełączny)
+Termosztát (váltóérintkezős)
+Termostato (conmutado)
+
+#430
+Thermostat avec un contact inverseur. Cliquez pour simuler que la température réglée est atteinte.
+Termostato com contato reversor. Clique para simular que a temperatura ajustada foi atingida.
+带转换触点的温控器。点击模拟已达到设定温度。
+Термостат с переключающим контактом. Щёлкните, чтобы имитировать достижение заданной температуры.
+Termostat ze stykiem przełącznym. Kliknij, aby zasymulować osiągnięcie nastawionej temperatury.
+Termosztát váltóérintkezővel. Kattintson a beállított hőmérséklet elérésének szimulálásához.
+Termostato con un contacto conmutado. Haga clic para simular que se alcanzó la temperatura fijada.
+
+#431
+Temporisateur au repos
+Temporizador com retardo na desenergização
+断电延时定时器
+Реле времени с задержкой на отключение
+Przekaźnik czasowy z opóźnionym wyłączeniem
+Ejtés-késleltetett időrelé
+Temporizador a la desconexión
+
+#432
+Temporisateur au repos avec déclencheur. Gardez A1-A2 alimenté en permanence. Tant que B1 a de la tension, le contact est excité (15-18 fermé). Quand B1 perd la tension, le contact retombe après le temps réglé.
+Temporizador com retardo na desenergização e gatilho. Mantenha A1-A2 sempre energizado. Enquanto B1 tem tensão, o contato fica energizado (15-18 fechado). Quando B1 perde a tensão, o contato retorna após o tempo ajustado.
+带触发端的断电延时定时器。A1-A2要一直供电。只要B1有电压，触点就处于动作状态（15-18闭合）。B1失去电压后，触点在设定时间后复位。
+Реле времени с задержкой на отключение и входом запуска. Держите A1-A2 под напряжением постоянно. Пока на B1 есть напряжение, контакт включён (15-18 замкнут). Когда напряжение на B1 пропадает, контакт возвращается через установленное время.
+Przekaźnik czasowy z opóźnionym wyłączeniem i wejściem wyzwalającym. Trzymaj A1-A2 stale pod napięciem. Dopóki na B1 jest napięcie, styk jest zasilony (15-18 zamknięty). Gdy B1 straci napięcie, styk wraca po nastawionym czasie.
+Ejtés-késleltetett időrelé indítójellel. Az A1-A2-t folyamatosan tartsa táplálva. Amíg a B1-en van feszültség, az érintkező meghúzott (15-18 zárt). Ha a B1 elveszti a feszültséget, az érintkező a beállított idő után visszaesik.
+Temporizador a la desconexión con disparo. Mantenga A1-A2 alimentado todo el tiempo. Mientras B1 tiene tensión, el contacto está excitado (15-18 cerrado). Cuando B1 pierde la tensión, el contacto vuelve tras el tiempo ajustado.
+
+#433
+Relais de défaut de phase
+Relé de falta de fase
+缺相保护继电器
+Реле контроля фаз
+Przekaźnik kontroli faz
+Fázishiba-figyelő relé
+Relé de fallo de fase
+
+#434
+Surveille les trois phases. Si une phase manque ou si la tension chute de plus d'environ 20 %, le contact 15-18 s'ouvre. Placez-le dans le circuit de commande de chaque moteur important.
+Monitora as três fases. Se uma fase faltar ou a tensão cair mais de cerca de 20 %, o contato 15-18 abre. Coloque-o no circuito de comando de todo motor importante.
+监测三相电源。如果缺相，或电压下降超过约20 %，触点15-18就会断开。把它接入每台重要电机的控制回路。
+Контролирует три фазы. Если фаза пропала или напряжение упало более чем на 20 %, контакт 15-18 размыкается. Включайте его в цепь управления каждого важного двигателя.
+Monitoruje trzy fazy. Jeśli brakuje fazy lub napięcie spadnie o więcej niż około 20 %, styk 15-18 otwiera się. Włącz go w obwód sterowania każdego ważnego silnika.
+A három fázist figyeli. Ha egy fázis hiányzik, vagy a feszültség kb. 20 %-nál nagyobbat esik, a 15-18 érintkező nyit. Építse be minden fontos motor vezérlőáramkörébe.
+Vigila las tres fases. Si falta una fase o la tensión cae más de un 20 % aproximadamente, el contacto 15-18 abre. Póngalo en el circuito de mando de todo motor importante.
+
+#435
+Moteur monophasé 230 V
+Motor monofásico 230 V
+单相电机 230 V
+Однофазный двигатель 230 В
+Silnik jednofazowy 230 V
+Egyfázisú motor 230 V
+Motor monofásico 230 V
+
+#436
+Moteur asynchrone monophasé 230 V. Il appelle environ 6 fois son courant nominal pendant les premiers instants. Un moteur calé chauffe et brûle.
+Motor de indução monofásico de 230 V. Puxa cerca de 6 vezes a corrente nominal nos primeiros instantes. Um motor travado superaquece e queima.
+230 V单相异步电机。起动最初一瞬间电流约为运行电流的6倍。堵转的电机会过热烧毁。
+Однофазный асинхронный двигатель 230 В. В первые мгновения потребляет примерно в 6 раз больше рабочего тока. Заклинивший двигатель перегревается и сгорает.
+Silnik indukcyjny jednofazowy 230 V. W pierwszych chwilach pobiera około 6 razy więcej niż prąd pracy. Zablokowany silnik przegrzewa się i spala.
+230 V-os egyfázisú indukciós motor. Az első pillanatokban az üzemi áram kb. 6-szorosát veszi fel. Az elakadt motor túlmelegszik és kiég.
+Motor de inducción monofásico de 230 V. Absorbe unas 6 veces su corriente de marcha en los primeros instantes. Un motor calado se sobrecalienta y se quema.
+
+#437
+Arbre grippé (calé)
+Eixo travado (bloqueado)
+轴卡死（堵转）
+Вал заклинило (заторможен)
+Wał zablokowany (zatarty)
+Tengely elakadt (blokkolt)
+Eje agarrotado (calado)
+
+#438
+Enroulement ouvert
+Enrolamento aberto
+绕组开路
+Обрыв обмотки
+Przerwa w uzwojeniu
+Szakadt tekercs
+Devanado abierto
+
+#439
+L'enroulement fuit vers la carcasse
+O enrolamento tem fuga para a carcaça
+绕组对机壳漏电
+Утечка обмотки на корпус
+Uzwojenie upuszcza prąd na korpus
+A tekercs a vázra szivárog
+El devanado deriva a la carcasa
+
+#440
+Moteur CC 24 V
+Motor CC 24 V
+24 V直流电机
+Двигатель постоянного тока 24 В
+Silnik DC 24 V
+24 V DC motor
+Motor CC 24 V
+
+#441
+Moteur CC 24 V. Tourne dans un sens avec + en haut et dans l'autre si vous inversez la polarité. Fort courant au démarrage, puis courant de marche plus faible.
+Motor CC 24 V. Gira em um sentido com + em cima e no outro se você inverter a polaridade. Corrente de partida alta, depois uma corrente de funcionamento menor.
+24 V直流电机。+在上方时朝一个方向转，对调极性则反转。启动电流大，运行后电流较小。
+Двигатель постоянного тока 24 В. Вращается в одну сторону при + сверху и в другую, если поменять полярность. Большой пусковой ток, затем меньший рабочий.
+Silnik DC 24 V. Obraca się w jedną stronę przy + na górze i w drugą po zamianie polaryzacji. Duży prąd rozruchowy, potem mniejszy prąd pracy.
+24 V DC motor. Az egyik irányba forog, ha a + van felül, és a másikba, ha felcseréli a polaritást. Nagy az indítási áram, utána kisebb az üzemi áram.
+Motor de CC de 24 V. Gira en un sentido con + arriba y en el otro si invierte la polaridad. Corriente de arranque alta y luego una de marcha más baja.
+
+#442
+Puissance (W)
+Potência (W)
+功率（W）
+Мощность (Вт)
+Moc (W)
+Teljesítmény (W)
+Potencia (W)
+
+#443
+Arbre grippé
+Eixo travado
+轴卡死
+Вал заклинило
+Wał zablokowany
+Tengely elakadt
+Eje agarrotado
+
+#444
+Balais usés (ouvert)
+Escovas gastas (abertas)
+电刷磨损（开路）
+Щётки изношены (обрыв)
+Szczotki zużyte (przerwa)
+Kopott szénkefék (szakadás)
+Escobillas desgastadas (abierto)
+
+#445
+Élément chauffant 230 V
+Resistência de aquecimento 230 V
+230 V加热元件
+Нагревательный элемент 230 В
+Grzałka 230 V
+230 V fűtőelem
+Resistencia calefactora 230 V
+
+#446
+Résistance chauffante. La résistance vaut V au carré divisé par la puissance. Vous pouvez la mesurer au multimètre quand l'alimentation est coupée. Défauts : élément ouvert, fuite vers la gaine métallique.
+Resistência de aquecimento. A resistência é V ao quadrado dividido pela potência. Você pode medi-la com o multímetro com a alimentação desligada. Falhas: elemento aberto, fuga para a bainha metálica.
+电阻式加热器。电阻等于电压平方除以功率。断电后可以用万用表测它的电阻。故障：发热丝开路，向金属护套漏电。
+Резистивный нагреватель. Сопротивление равно квадрату напряжения, делённому на мощность. Его можно измерить мультиметром при отключённом питании. Неисправности: обрыв нагревателя, утечка на металлическую оболочку.
+Grzałka rezystancyjna. Rezystancja to kwadrat napięcia podzielony przez moc. Możesz ją zmierzyć multimetrem przy wyłączonym zasilaniu. Usterki: przerwa w grzałce, upływ do metalowej osłony.
+Ellenállásfűtő. Az ellenállás a feszültség négyzete osztva a teljesítménnyel. Kikapcsolt tápnál megmérheti multiméterrel. Hibák: szakadt fűtőszál, szivárgás a fémköpenyre.
+Resistencia calefactora. La resistencia es V al cuadrado dividido por la potencia. Puede medirla con el multímetro con la alimentación desconectada. Averías: elemento abierto, fuga a la vaina metálica.
+
+#447
+Fuite vers la gaine
+Fuga para a bainha
+对护套漏电
+Утечка на оболочку
+Upływ do osłony
+Szivárgás a köpenyre
+Fuga a la vaina
+
+#448
+Étiquette de réseau (GND, +24V...)
+Rótulo de rede (GND, +24V...)
+网络标签（GND、+24V…）
+Метка цепи (GND, +24V...)
+Etykieta sieci (GND, +24V...)
+Hálócímke (GND, +24V...)
+Etiqueta de red (GND, +24V...)
+
+#449
+Toutes les étiquettes de réseau de même nom sont reliées électriquement, sans tracer de fil. Utilisez GND, +24V, 0V, L1... pour garder les grands schémas propres.
+Todos os rótulos de rede com o mesmo nome ficam ligados eletricamente, sem desenhar fio. Use GND, +24V, 0V, L1... para manter os desenhos grandes organizados.
+同名的网络标签在电气上相互连通，无需画线。用GND、+24V、0V、L1…可以让大图纸保持整洁。
+Все метки цепей с одним и тем же именем электрически соединены без рисования провода. Используйте GND, +24V, 0V, L1..., чтобы большие схемы оставались аккуратными.
+Wszystkie etykiety sieci o tej samej nazwie są połączone elektrycznie bez rysowania przewodu. Używaj GND, +24V, 0V, L1..., aby duże rysunki były czytelne.
+Az azonos nevű hálócímkék elektromosan össze vannak kötve, vezeték rajzolása nélkül. Használja a GND, +24V, 0V, L1... címkéket, hogy a nagy rajzok rendezettek maradjanak.
+Todas las etiquetas de red con el mismo nombre quedan unidas eléctricamente, sin dibujar cable. Use GND, +24V, 0V, L1... para mantener ordenados los dibujos grandes.
+
+#450
+Nom
+Nome
+名称
+Имя
+Nazwa
+Név
+Nombre
+
+#451
+Note (texte)
+Nota (texto)
+备注（文字）
+Заметка (текст)
+Notatka (tekst)
+Megjegyzés (szöveg)
+Nota (texto)
+
+#452
+Une note en texte libre. Écrivez le nom de la machine, la puissance, un avertissement ou un rappel.
+Uma nota de texto livre. Escreva o nome da máquina, a potência, um aviso ou um lembrete.
+一条自由文字备注。可以写机器名称、功率、警告或提醒。
+Свободная текстовая заметка. Напишите название машины, мощность, предупреждение или напоминание.
+Dowolna notatka tekstowa. Wpisz nazwę maszyny, moc, ostrzeżenie lub przypomnienie.
+Szabad szöveges megjegyzés. Írja bele a gép nevét, a teljesítményt, egy figyelmeztetést vagy emlékeztetőt.
+Una nota de texto libre. Escriba el nombre de la máquina, la potencia, una advertencia o un recordatorio.
+
+#453
+Texte
+Texto
+文字
+Текст
+Tekst
+Szöveg
+Texto
+
+#454
+Un cadre de dessin pour un coffret, une enveloppe ou une zone terrain (par exemple QC1, Boîtier terrain, Local moteur). Il ne change pas le circuit. Faites-le glisser par sa barre de titre.
+Uma moldura de desenho para um painel, um gabinete ou uma área de campo (por exemplo QC1, Caixa de campo, Sala de motores). Ela não altera o circuito. Arraste-a pela barra de título.
+用于配电柜、箱体或现场区域的图纸边框（例如QC1、现场箱、电机室）。它不改变电路。拖动标题栏可移动它。
+Рамка на чертеже для щита, корпуса или полевой зоны (например QC1, полевой ящик, моторная). Она не влияет на схему. Перетаскивайте её за заголовок.
+Ramka rysunkowa dla szafy, obudowy lub strefy polowej (na przykład QC1, skrzynka polowa, maszynownia). Nie zmienia obwodu. Przeciągaj ją za pasek tytułu.
+Rajzkeret egy szekrényhez, burkolathoz vagy terepi területhez (például QC1, terepi doboz, motorhelyiség). Nem változtatja meg az áramkört. Húzza a címsávjánál fogva.
+Un marco de dibujo para un cuadro, una envolvente o una zona de campo (por ejemplo QC1, caja de campo, sala de motores). No cambia el circuito. Arrástrelo por su barra de título.
+
+#455
+Titre
+Título
+标题
+Заголовок
+Tytuł
+Cím
+Título
+
+#456
+Cadre de coffret (petit)
+Moldura de painel (pequena)
+配电柜边框（小）
+Рамка щита (малая)
+Ramka szafy (mała)
+Szekrénykeret (kicsi)
+Marco de cuadro (pequeño)
+
+#457
+Cadre de coffret (moyen)
+Moldura de painel (média)
+配电柜边框（中）
+Рамка щита (средняя)
+Ramka szafy (średnia)
+Szekrénykeret (közepes)
+Marco de cuadro (mediano)
+
+#458
+Cadre de coffret (grand)
+Moldura de painel (grande)
+配电柜边框（大）
+Рамка щита (большая)
+Ramka szafy (duża)
+Szekrénykeret (nagy)
+Marco de cuadro (grande)
+
+#459
+Automate 24 V CC, sorties relais
+CLP 24 V CC, saídas a relé
+PLC 24 V直流，继电器输出
+ПЛК 24 В DC, релейные выходы
+PLC 24 V DC, wyjścia przekaźnikowe
+PLC 24 V DC, relés kimenetek
+PLC 24 V CC, salidas a relé
+
+#460
+Automate 24 V CC, sorties transistor
+CLP 24 V CC, saídas a transistor
+PLC 24 V直流，晶体管输出
+ПЛК 24 В DC, транзисторные выходы
+PLC 24 V DC, wyjścia tranzystorowe
+PLC 24 V DC, tranzisztoros kimenetek
+PLC 24 V CC, salidas a transistor
+
+#461
+Automate compact : 8 entrées numériques (24 V CC), 4 sorties relais (contacts secs Qn-Cn, 6 A), 2 entrées analogiques 0-10 V. Écrivez le programme sous forme de lignes comme  Q0 = (I0 or Q0) and I1  dans le panneau Propriétés. Cliquez sur RUN/STOP en façade pour changer de mode.
+CLP compacto: 8 entradas digitais (24 V CC), 4 saídas a relé (contatos secos Qn-Cn, 6 A), 2 entradas analógicas 0-10 V. Escreva o programa em linhas como  Q0 = (I0 or Q0) and I1  no painel Propriedades. Clique em RUN/STOP na frente para mudar de modo.
+紧凑型PLC：8路数字量输入（24 V直流）、4路继电器输出（干触点Qn-Cn，6 A）、2路0-10 V模拟量输入。在“属性”面板里按  Q0 = (I0 or Q0) and I1  这样的行来写程序。点击前面板的RUN/STOP切换模式。
+Компактный ПЛК: 8 дискретных входов (24 В DC), 4 релейных выхода (сухие контакты Qn-Cn, 6 А), 2 аналоговых входа 0–10 В. Пишите программу строками вида  Q0 = (I0 or Q0) and I1  на панели «Свойства». Щёлкните RUN/STOP на передней панели, чтобы сменить режим.
+Kompaktowy PLC: 8 wejść cyfrowych (24 V DC), 4 wyjścia przekaźnikowe (styki bezpotencjałowe Qn-Cn, 6 A), 2 wejścia analogowe 0-10 V. Napisz program w liniach takich jak  Q0 = (I0 or Q0) and I1  w panelu Właściwości. Kliknij RUN/STOP na froncie, aby przełączyć tryb.
+Kompakt PLC: 8 digitális bemenet (24 V DC), 4 relés kimenet (szárazérintkezők Qn-Cn, 6 A), 2 analóg bemenet 0-10 V. A programot a Tulajdonságok panelen írja sorokban, például  Q0 = (I0 or Q0) and I1 . Az elülső RUN/STOP gombra kattintva váltson üzemmódot.
+PLC compacto: 8 entradas digitales (24 V CC), 4 salidas a relé (contactos secos Qn-Cn, 6 A), 2 entradas analógicas 0-10 V. Escriba el programa en líneas como  Q0 = (I0 or Q0) and I1  en el panel Propiedades. Haga clic en RUN/STOP en el frontal para cambiar de modo.
+
+#462
+Automate compact : 8 entrées numériques (24 V CC, absorbantes : câblez un contact de +24 V vers l'entrée), 6 sorties transistor source Q0-Q5 (24 V, 0,5 A chacune, protégées contre les courts-circuits), 2 entrées analogiques 0-10 V et 1 sortie analogique. Écrivez le programme dans le panneau Propriétés. Cliquez sur RUN/STOP en façade pour changer de mode.
+CLP compacto: 8 entradas digitais (24 V CC, tipo sink: ligue uma chave de +24 V à entrada), 6 saídas a transistor source Q0-Q5 (24 V, 0,5 A cada, protegidas contra curto-circuito), 2 entradas analógicas 0-10 V e 1 saída analógica. Escreva o programa no painel Propriedades. Clique em RUN/STOP na frente para mudar de modo.
+紧凑型PLC：8路数字量输入（24 V直流，漏型：把开关从+24 V接到输入端）、6路源型晶体管输出Q0-Q5（24 V，每路0.5 A，带短路保护）、2路0-10 V模拟量输入和1路模拟量输出。在“属性”面板里写程序。点击前面板的RUN/STOP切换模式。
+Компактный ПЛК: 8 дискретных входов (24 В DC, типа sink: подключайте переключатель от +24 В к входу), 6 транзисторных выходов типа source Q0–Q5 (24 В, по 0,5 А, защита от короткого замыкания), 2 аналоговых входа 0–10 В и 1 аналоговый выход. Программу пишите на панели «Свойства». Щёлкните RUN/STOP на передней панели, чтобы сменить режим.
+Kompaktowy PLC: 8 wejść cyfrowych (24 V DC, typu sink: podłącz przełącznik z +24 V do wejścia), 6 wyjść tranzystorowych typu source Q0-Q5 (24 V, po 0,5 A, zabezpieczone przed zwarciem), 2 wejścia analogowe 0-10 V i 1 wyjście analogowe. Napisz program w panelu Właściwości. Kliknij RUN/STOP na froncie, aby przełączyć tryb.
+Kompakt PLC: 8 digitális bemenet (24 V DC, nyelő: a kapcsolót +24 V-ról kösse a bemenetre), 6 forrás tranzisztoros kimenet Q0-Q5 (24 V, egyenként 0,5 A, zárlatvédett), 2 analóg bemenet 0-10 V és 1 analóg kimenet. A programot a Tulajdonságok panelen írja. Az elülső RUN/STOP gombra kattintva váltson üzemmódot.
+PLC compacto: 8 entradas digitales (24 V CC, tipo sink: cablee un interruptor desde +24 V a la entrada), 6 salidas a transistor tipo source Q0-Q5 (24 V, 0,5 A cada una, protegidas contra cortocircuito), 2 entradas analógicas 0-10 V y 1 salida analógica. Escriba el programa en el panel Propiedades. Haga clic en RUN/STOP en el frontal para cambiar de modo.
+
+#463
+Programme (une ligne par sortie)
+Programa (uma linha por saída)
+程序（每个输出一行）
+Программа (одна строка на выход)
+Program (jedna linia na wyjście)
+Program (kimenetenként egy sor)
+Programa (una línea por salida)
+
+#464
+Automate mort (ne démarre pas)
+CLP morto (não liga)
+PLC损坏（无法上电）
+ПЛК неисправен (не запускается)
+PLC uszkodzony (nie uruchamia się)
+PLC tönkrement (nem indul)
+PLC averiado (no arranca)
+
+#465
+Canal d'entrée I0 endommagé
+Canal de entrada I0 danificado
+输入通道I0损坏
+Канал входа I0 повреждён
+Kanał wejściowy I0 uszkodzony
+Az I0 bemeneti csatorna sérült
+Canal de entrada I0 dañado
+
+#466
+Sortie Q0 endommagée
+Saída Q0 danificada
+输出Q0损坏
+Выход Q0 повреждён
+Wyjście Q0 uszkodzone
+A Q0 kimenet sérült
+Salida Q0 dañada
+
+#467
+Automate en RUN.
+CLP em RUN.
+PLC处于RUN状态。
+ПЛК в режиме RUN.
+PLC w trybie RUN.
+A PLC RUN állapotban van.
+PLC en RUN.
+
+#468
+Automate en STOP. Les sorties sont coupées.
+CLP em STOP. As saídas estão desligadas.
+PLC处于STOP状态。输出全部关闭。
+ПЛК в режиме STOP. Выходы отключены.
+PLC w trybie STOP. Wyjścia są wyłączone.
+A PLC STOP állapotban van. A kimenetek ki vannak kapcsolva.
+PLC en STOP. Las salidas están apagadas.
+
+#469
+Carte MCU 5 V (type Arduino)
+Placa MCU 5 V (estilo Arduino)
+5 V MCU开发板（Arduino类）
+Плата MCU 5 В (типа Arduino)
+Płytka MCU 5 V (typu Arduino)
+5 V-os MCU panel (Arduino jellegű)
+Placa MCU 5 V (tipo Arduino)
+
+#470
+Petite carte microcontrôleur 5 V. Les broches D0-D5 sont des entrées, ou des sorties si le programme écrit Q0-Q5 (Qn pilote Dn). Chaque broche fournit au plus 40 mA : une LED sans résistance détruit la broche. A0 et A1 lisent 0-5 V comme AI0 et AI1. Programmation dans le panneau Propriétés.
+Pequena placa microcontroladora de 5 V. Os pinos D0-D5 são entradas, ou saídas se o programa escreve Q0-Q5 (Qn aciona Dn). Cada pino fornece no máximo 40 mA: um LED sem resistor destrói o pino. A0 e A1 leem 0-5 V como AI0 e AI1. Programe no painel Propriedades.
+小型5 V微控制器板。引脚D0-D5是输入，如果程序写了Q0-Q5则变为输出（Qn驱动Dn）。每个引脚最多提供40 mA：LED不串电阻会烧坏引脚。A0和A1读取0-5 V，对应AI0和AI1。在“属性”面板里编程。
+Небольшая плата микроконтроллера 5 В. Выводы D0–D5 — входы, или выходы, если программа записывает Q0–Q5 (Qn управляет Dn). Каждый вывод даёт не более 40 мА: светодиод без резистора уничтожит вывод. A0 и A1 считывают 0–5 В как AI0 и AI1. Программа пишется на панели «Свойства».
+Mała płytka mikrokontrolera 5 V. Piny D0-D5 to wejścia lub wyjścia, jeśli program zapisuje Q0-Q5 (Qn steruje Dn). Każdy pin dostarcza najwyżej 40 mA: LED bez rezystora zniszczy pin. A0 i A1 odczytują 0-5 V jako AI0 i AI1. Programuj w panelu Właściwości.
+Kis 5 V-os mikrokontroller panel. A D0-D5 lábak bemenetek, vagy kimenetek, ha a program Q0-Q5-öt ír (a Qn a Dn-t vezérli). Minden láb legfeljebb 40 mA-t ad: ellenállás nélküli LED tönkreteszi a lábat. Az A0 és A1 0-5 V-ot olvas AI0 és AI1 néven. A programot a Tulajdonságok panelen írja.
+Pequeña placa microcontroladora de 5 V. Los pines D0-D5 son entradas, o salidas si el programa escribe Q0-Q5 (Qn maneja Dn). Cada pin suministra como máximo 40 mA: un LED sin resistencia destruye el pin. A0 y A1 leen 0-5 V como AI0 y AI1. Programe en el panel Propiedades.
+
+#471
+Programme
+Programa
+程序
+Программа
+Program
+Program
+Programa
+
+#472
+Carte morte
+Placa morta
+开发板损坏
+Плата неисправна
+Płytka uszkodzona
+A panel tönkrement
+Placa averiada
+
+#473
+Relais statique (24 V CC vers 230 V CA)
+Relé de estado sólido (24 V CC para 230 V CA)
+固态继电器（24 V直流控制230 V交流）
+Твердотельное реле (24 В DC на 230 В AC)
+Przekaźnik półprzewodnikowy (24 V DC na 230 V AC)
+Szilárdtest relé (24 V DC → 230 V AC)
+Relé de estado sólido (24 V CC a 230 V CA)
+
+#474
+Entrée 3-32 V CC (+ et -). La sortie commute la charge CA A-B sans pièce mobile. Les vrais relais statiques fuient quelques mA à l'état ouvert : une petite lampe peut luire faiblement. Défaut : sortie en court-circuit (toujours fermée), le mode de défaillance habituel.
+Entrada 3-32 V CC (+ e -). A saída chaveia a carga CA A-B sem partes móveis. SSRs reais têm fuga de alguns mA quando desligados: uma lâmpada pequena pode brilhar fracamente. Falha: saída em curto (sempre ligada), o modo de falha mais comum.
+输入3-32 V直流（+和-）。输出无机械触点地切换交流负载A-B。真实的固态继电器关断时会有几mA漏电流：小灯可能微微发亮。故障：输出短路（常通），这是最常见的失效模式。
+Вход 3–32 В DC (+ и −). Выход коммутирует нагрузку AC A-B без подвижных частей. Настоящие твердотельные реле в выключенном состоянии пропускают несколько мА: маленькая лампа может слабо светиться. Неисправность: короткое замыкание выхода (всегда включено), типичный вид отказа.
+Wejście 3-32 V DC (+ i -). Wyjście przełącza obciążenie AC A-B bez ruchomych części. Prawdziwe przekaźniki półprzewodnikowe w stanie wyłączonym przepuszczają kilka mA: mała żarówka może słabo świecić. Usterka: zwarte wyjście (zawsze włączone), typowy rodzaj uszkodzenia.
+Bemenet 3-32 V DC (+ és -). A kimenet mozgó alkatrész nélkül kapcsolja az AC terhelést A-B. A valódi szilárdtest relék kikapcsolt állapotban néhány mA-t szivárogtatnak: egy kis lámpa halványan világíthat. Hiba: rövidzárlatos kimenet (mindig be van kapcsolva), ez a szokásos meghibásodási mód.
+Entrada 3-32 V CC (+ y -). La salida conmuta la carga CA A-B sin piezas móviles. Los SSR reales tienen fuga de algunos mA en reposo: una lámpara pequeña puede lucir tenuemente. Avería: salida en cortocircuito (siempre conectada), el modo de fallo habitual.
+
+#475
+Courant de sortie nominal (A)
+Corrente nominal de saída (A)
+输出额定电流（A）
+Номинальный ток выхода (А)
+Prąd znamionowy wyjścia (A)
+Kimeneti névleges áram (A)
+Corriente nominal de salida (A)
+
+#476
+Sortie en court-circuit (toujours fermée)
+Saída em curto (sempre ligada)
+输出短路（常通）
+Выход закорочен (всегда включён)
+Wyjście zwarte (zawsze włączone)
+A kimenet rövidzárlatos (mindig be van kapcsolva)
+Salida en cortocircuito (siempre conectada)
+
+#477
+Sortie ouverte (ne ferme jamais)
+Saída aberta (nunca liga)
+输出开路（始终不通）
+Выход разомкнут (никогда не включается)
+Wyjście otwarte (nigdy nie włącza)
+A kimenet szakadt (soha nem kapcsol be)
+Salida abierta (nunca conecta)
+
+#478
+Relais de sécurité (2 canaux, arrêt d'urgence)
+Relé de segurança (2 canais, emergência)
+安全继电器（双通道，急停）
+Реле безопасности (2 канала, аварийный стоп)
+Przekaźnik bezpieczeństwa (2 kanały, wyłącznik awaryjny)
+Biztonsági relé (2 csatornás, vészleállító)
+Relé de seguridad (2 canales, parada de emergencia)
+
+#479
+Surveille un arrêt d'urgence à deux canaux. Alimentation A1(+)/A2(-) 24 V CC. Canal 1 : S11 vers S12, canal 2 : S21 vers S22 (câblez les deux contacts de l'arrêt d'urgence). Démarrage : câblez S33 vers S34 par un bouton START (réarmement manuel) ou réglez Auto. Quand les deux canaux sont fermés et le réarmement fait, les sorties 13-14 et 23-24 se ferment. Si un canal s'ouvre, les deux sorties retombent. Un court-circuit croisé entre canaux est détecté et bloque le démarrage.
+Monitora uma parada de emergência de dois canais. Alimentação A1(+)/A2(-) 24 V CC. Canal 1: S11 a S12, canal 2: S21 a S22 (ligue os dois contatos da parada de emergência). Partida: ligue S33 a S34 por um botão START (rearme manual) ou defina Auto. Quando os dois canais estão fechados e o rearme foi feito, as saídas 13-14 e 23-24 fecham. Se um canal abrir, as duas saídas caem. Um curto-circuito cruzado entre canais é detectado e bloqueia a partida.
+监控双通道急停。供电A1(+)/A2(-) 24 V直流。通道1：S11到S12，通道2：S21到S22（接上急停的两个触点）。启动：通过START按钮把S33接到S34（手动复位），或设为Auto。两个通道都闭合并完成复位后，输出13-14和23-24闭合。只要有一个通道断开，两个输出都会释放。通道之间的交叉短路会被检测到并阻止启动。
+Контролирует двухканальный аварийный стоп. Питание A1(+)/A2(−) 24 В DC. Канал 1: S11–S12, канал 2: S21–S22 (подключите два контакта аварийного стопа). Пуск: подключите S33–S34 через кнопку START (ручной сброс) или задайте Auto. Когда оба канала замкнуты и сброс выполнен, выходы 13-14 и 23-24 замыкаются. Если один канал разомкнётся, оба выхода отпадают. Перекрёстное замыкание между каналами обнаруживается и блокирует пуск.
+Monitoruje dwukanałowy wyłącznik awaryjny. Zasilanie A1(+)/A2(-) 24 V DC. Kanał 1: S11 do S12, kanał 2: S21 do S22 (podłącz oba styki wyłącznika awaryjnego). Start: podłącz S33 do S34 przez przycisk START (reset ręczny) lub ustaw Auto. Gdy oba kanały są zamknięte i reset wykonany, wyjścia 13-14 i 23-24 zamykają się. Jeśli jeden kanał się otworzy, oba wyjścia opadają. Zwarcie krzyżowe między kanałami jest wykrywane i blokuje start.
+Kétcsatornás vészleállítót figyel. Táp A1(+)/A2(-) 24 V DC. 1. csatorna: S11 és S12 között, 2. csatorna: S21 és S22 között (a vészleállító két érintkezőjét kösse be). Indítás: kösse az S33-at az S34-hez egy START gombon keresztül (kézi visszaállítás), vagy állítsa Auto-ra. Ha mindkét csatorna zárt és a visszaállítás megtörtént, a 13-14 és 23-24 kimenetek zárnak. Ha egy csatorna megnyílik, mindkét kimenet elenged. A csatornák közötti keresztzárlatot észleli, és megakadályozza az indítást.
+Vigila una parada de emergencia de dos canales. Alimentación A1(+)/A2(-) 24 V CC. Canal 1: S11 a S12, canal 2: S21 a S22 (cablee los dos contactos de la parada de emergencia). Arranque: cablee S33 a S34 mediante un pulsador START (rearme manual) o ajuste Auto. Cuando los dos canales están cerrados y se ha hecho el rearme, las salidas 13-14 y 23-24 cierran. Si un canal se abre, caen las dos salidas. Un cortocircuito cruzado entre canales se detecta y bloquea el arranque.
+
+#480
+Réarmement
+Rearme
+复位
+Сброс
+Reset
+Visszaállítás
+Rearme
+
+#481
+Contacts de sortie soudés (ne retombent pas)
+Contatos de saída soldados (não desligam)
+输出触点熔焊（无法释放）
+Выходные контакты приварились (не отпускают)
+Styki wyjściowe sklejone (nie opadają)
+A kimeneti érintkezők összehegedtek (nem engednek el)
+Contactos de salida soldados (no caen)
+
+#482
+Arrêt d'urgence 2 canaux (à verrouillage)
+Parada de emergência de 2 canais (com trava)
+双通道急停按钮（自锁）
+Аварийный стоп 2-канальный (с фиксацией)
+Wyłącznik awaryjny 2-kanałowy (z blokadą)
+Kétcsatornás vészleállító (reteszelő)
+Parada de emergencia 2 canales (con enclavamiento)
+
+#483
+Tête champignon avec deux contacts NF : 11-12 et 21-22. Se verrouille à l'enfoncement. Câblez chaque contact sur son propre canal d'un relais de sécurité. Cliquez à nouveau pour le déverrouiller par rotation.
+Cabeça de cogumelo com dois contatos NF: 11-12 e 21-22. Trava ao ser pressionado. Ligue cada contato ao seu próprio canal de um relé de segurança. Clique de novo para destravar girando.
+蘑菇头带两个常闭触点：11-12和21-22。按下后自锁。把每个触点接到安全继电器各自的通道。再点一次即可旋转复位。
+Грибовидная головка с двумя контактами NC: 11-12 и 21-22. Фиксируется при нажатии. Подключите каждый контакт к своему каналу реле безопасности. Щёлкните ещё раз, чтобы отпустить поворотом.
+Grzybkowa głowica z dwoma stykami NC: 11-12 i 21-22. Blokuje się po wciśnięciu. Podłącz każdy styk do osobnego kanału przekaźnika bezpieczeństwa. Kliknij ponownie, aby odblokować obrotem.
+Gombafej két NC érintkezővel: 11-12 és 21-22. Lenyomáskor reteszel. Mindegyik érintkezőt a biztonsági relé saját csatornájára kösse. Kattintson újra az elfordításos kioldáshoz.
+Cabeza de seta con dos contactos NC: 11-12 y 21-22. Se enclava al pulsar. Cablee cada contacto a su propio canal de un relé de seguridad. Haga clic de nuevo para liberarlo girando.
+
+#484
+Contact 11-12 bloqué ouvert
+Contato 11-12 preso aberto
+触点11-12卡在断开位
+Контакт 11-12 застрял разомкнутым
+Styk 11-12 zablokowany otwarty
+A 11-12 érintkező nyitva elakadt
+Contacto 11-12 atascado abierto
+
+#485
+Contact 21-22 bloqué ouvert
+Contato 21-22 preso aberto
+触点21-22卡在断开位
+Контакт 21-22 застрял разомкнутым
+Styk 21-22 zablokowany otwarty
+A 21-22 érintkező nyitva elakadt
+Contacto 21-22 atascado abierto
+
+#486
+Contacts soudés (ne s'ouvrent pas à l'appui)
+Contatos soldados (não abrem ao pressionar)
+触点熔焊（按下时不断开）
+Контакты приварились (не размыкаются при нажатии)
+Styki sklejone (nie otwierają się po naciśnięciu)
+Összehegedt érintkezők (lenyomáskor nem nyitnak)
+Contactos soldados (no abren al pulsar)
+
+#487
+Capteur photoélectrique (3 fils)
+Sensor fotoelétrico (3 fios)
+光电传感器（三线）
+Фотоэлектрический датчик (3-проводный)
+Czujnik fotoelektryczny (3-przewodowy)
+Fotoelektromos érzékelő (3 vezetékes)
+Sensor fotoeléctrico (3 hilos)
+
+#488
+Capteur photoélectrique à réflexion diffuse. BN = +24 V, BU = 0 V, BK = sortie. Cliquez sur le capteur pour placer un objet devant lui. Une lentille sale ou un mauvais alignement est la panne terrain habituelle.
+Sensor fotoelétrico difuso. BN = +24 V, BU = 0 V, BK = saída. Clique no sensor para colocar um objeto na frente dele. Lente suja ou desalinhamento é a falha usual de campo.
+漫反射式光电传感器。BN = +24 V，BU = 0 V，BK = 输出。点击传感器可在它前面放一个物体。镜头脏污或对位偏移是现场常见故障。
+Диффузный фотоэлектрический датчик. BN = +24 В, BU = 0 В, BK = выход. Щёлкните по датчику, чтобы поставить перед ним объект. Загрязнённая линза или сбитая юстировка — типичная полевая неисправность.
+Czujnik fotoelektryczny dyfuzyjny. BN = +24 V, BU = 0 V, BK = wyjście. Kliknij czujnik, aby postawić przed nim obiekt. Brudna soczewka lub rozjustowanie to typowa usterka w terenie.
+Diffúz fotoelektromos érzékelő. BN = +24 V, BU = 0 V, BK = kimenet. Kattintson az érzékelőre, hogy tárgyat helyezzen elé. A piszkos lencse vagy a félreállítás a szokásos terepi hiba.
+Sensor fotoeléctrico de reflexión difusa. BN = +24 V, BU = 0 V, BK = salida. Haga clic en el sensor para poner un objeto delante. Una lente sucia o un mal alineamiento es la avería de campo habitual.
+
+#489
+Lentille sale (ne détecte pas)
+Lente suja (não detecta)
+镜头脏污（检测不到）
+Линза загрязнена (не обнаруживает)
+Soczewka brudna (nie wykrywa)
+Piszkos lencse (nem érzékel)
+Lente sucia (no detecta)
+
+#490
+Capteur de température PT100
+Sensor de temperatura PT100
+PT100温度传感器
+Датчик температуры PT100
+Czujnik temperatury PT100
+PT100 hőmérséklet-érzékelő
+Sensor de temperatura PT100
+
+#491
+RTD : 100 ohms à 0 °C, +0,385 ohm par degré. Mesurez au multimètre en ohms, circuit hors tension. 138,5 ohms correspondent à 100 °C. Ouvert = infini (fil coupé), en court-circuit = moins de 60 ohms.
+RTD: 100 ohms a 0 °C, +0,385 ohm por grau. Meça com o multímetro em ohms, com o circuito desligado. 138,5 ohms correspondem a 100 °C. Aberto = infinito (fio rompido), em curto = abaixo de 60 ohms.
+热电阻RTD：0 °C时为100 Ω，每升高1度增加0.385 Ω。断电后用万用表电阻档测量。138.5 Ω对应100 °C。开路=无穷大（断线），短路=低于60 Ω。
+Термометр сопротивления: 100 Ом при 0 °C, +0,385 Ом на градус. Измеряйте мультиметром в режиме омметра при отключённой цепи. 138,5 Ом соответствуют 100 °C. Обрыв = бесконечность (обрыв провода), замыкание = менее 60 Ом.
+RTD: 100 Ω przy 0 °C, +0,385 Ω na stopień. Mierz multimetrem w omach przy wyłączonym obwodzie. 138,5 Ω to 100 °C. Otwarty = nieskończoność (zerwany przewód), zwarty = poniżej 60 Ω.
+RTD: 100 Ω 0 °C-on, fokonként +0,385 Ω. Mérje multiméterrel ohm állásban, kikapcsolt áramkörön. 138,5 Ω a 100 °C. Szakadás = végtelen (vezetékszakadás), zárlat = 60 Ω alatt.
+RTD: 100 Ω a 0 °C, +0,385 Ω por grado. Mida con el multímetro en ohmios, con el circuito apagado. 138,5 Ω equivalen a 100 °C. Abierto = infinito (cable roto), en cortocircuito = menos de 60 Ω.
+
+#492
+Température (°C)
+Temperatura (°C)
+温度（°C）
+Температура (°C)
+Temperatura (°C)
+Hőmérséklet (°C)
+Temperatura (°C)
+
+#493
+Ouvert (fil coupé)
+Aberto (fio rompido)
+开路（断线）
+Обрыв (обрыв провода)
+Otwarty (zerwany przewód)
+Szakadt (vezetékszakadás)
+Abierto (cable roto)
+
+#494
+Dérive +8 °C
+Deriva +8 °C
+漂移 +8 °C
+Дрейф +8 °C
+Dryf +8 °C
+Drift +8 °C
+Deriva +8 °C
+
+#495
+Condensateur
+Capacitor
+电容
+Конденсатор
+Kondensator
+Kondenzátor
+Condensador
+
+#496
+Bloque le CC en régime établi et laisse passer le CA (réactance = 1 / (2 pi f C)). Les transitoires de charge ne sont pas simulés. Les types électrolytiques ont une borne + : une polarité inversée ou une tension excessive les fait éventer. Défauts : court-circuit, fuite, ouvert.
+Bloqueia CC em regime permanente e passa CA (reatância = 1 / (2 pi f C)). Os transitórios de carga não são simulados. Os eletrolíticos têm um pino +: polaridade invertida ou tensão excessiva os faz ventilar. Falhas: curto, fuga, aberto.
+稳态时阻断直流、导通交流（容抗 = 1 / (2 pi f C)）。不模拟充电过渡过程。电解电容有+极：极性接反或电压过高会使其鼓包泄压。故障：短路、漏电、开路。
+В установившемся режиме блокирует постоянный ток и пропускает переменный (реактивное сопротивление = 1 / (2 pi f C)). Переходные процессы заряда не моделируются. У электролитических есть вывод +: обратная полярность или слишком высокое напряжение приводит к вскрытию. Неисправности: замыкание, утечка, обрыв.
+W stanie ustalonym blokuje DC i przepuszcza AC (reaktancja = 1 / (2 pi f C)). Stany przejściowe ładowania nie są symulowane. Typy elektrolityczne mają biegun +: odwrócona polaryzacja lub zbyt wysokie napięcie powoduje ich rozszczelnienie. Usterki: zwarcie, upływ, przerwa.
+Állandósult állapotban blokkolja az egyenáramot és átengedi a váltakozót (reaktancia = 1 / (2 pi f C)). A töltési tranzienseket nem szimulálja. Az elektrolit típusoknak van + lábuk: fordított polaritás vagy túl nagy feszültség hatására kifújnak. Hibák: zárlat, szivárgás, szakadás.
+Bloquea la CC en régimen permanente y deja pasar la CA (reactancia = 1 / (2 pi f C)). No se simulan los transitorios de carga. Los electrolíticos tienen un pin +: polaridad invertida o exceso de tensión los hace reventar. Averías: cortocircuito, fuga, abierto.
+
+#497
+Capacité (µF)
+Capacitância (µF)
+电容量（µF）
+Ёмкость (мкФ)
+Pojemność (µF)
+Kapacitás (µF)
+Capacidad (µF)
+
+#498
+Tension nominale (V)
+Tensão nominal (V)
+额定电压（V）
+Номинальное напряжение (В)
+Napięcie znamionowe (V)
+Névleges feszültség (V)
+Tensión nominal (V)
+
+#499
+Fuyant (3 kohm)
+Com fuga (3 kΩ)
+漏电（3 kΩ）
+С утечкой (3 кОм)
+Z upływem (3 kΩ)
+Szivárgó (3 kΩ)
+Con fuga (3 kΩ)
+
+#500
+Inductance / bobine
+Indutor / bobina
+电感 / 线圈
+Катушка индуктивности
+Cewka indukcyjna / dławik
+Induktivitás / tekercs
+Inductor / bobina
+
+#501
+Inductance avec une résistance en continu. Laisse passer le CC (seulement la résistance de son bobinage), s'oppose au CA (réactance = 2 pi f L). L'enroulement ouvert est la panne courante.
+Indutor com resistência CC. Passa CC (apenas a resistência do seu enrolamento) e se opõe à CA (reatância = 2 pi f L). Enrolamento aberto é a falha comum.
+带直流电阻的电感。导通直流（只有绕组电阻），对交流有阻碍（感抗 = 2 pi f L）。绕组开路是常见故障。
+Катушка индуктивности с сопротивлением по постоянному току. Пропускает постоянный ток (только сопротивление обмотки) и противодействует переменному (реактивное сопротивление = 2 pi f L). Обрыв обмотки — типичная неисправность.
+Cewka z rezystancją stałoprądową. Przepuszcza DC (tylko rezystancja uzwojenia) i przeciwstawia się AC (reaktancja = 2 pi f L). Przerwa w uzwojeniu to częsta usterka.
+Induktivitás egyenáramú ellenállással. Átengedi az egyenáramot (csak a tekercs ellenállása számít), akadályozza a váltakozót (reaktancia = 2 pi f L). A szakadt tekercs a gyakori hiba.
+Inductor con resistencia en CC. Deja pasar la CC (solo la resistencia de su devanado) y se opone a la CA (reactancia = 2 pi f L). El devanado abierto es la avería común.
+
+#502
+Inductance (mH)
+Indutância (mH)
+电感量（mH）
+Индуктивность (мГн)
+Indukcyjność (mH)
+Induktivitás (mH)
+Inductancia (mH)
+
+#503
+Résistance en continu (ohm)
+Resistência CC (ohm)
+直流电阻（Ω）
+Сопротивление по постоянному току (Ом)
+Rezystancja stałoprądowa (Ω)
+Egyenáramú ellenállás (Ω)
+Resistencia en CC (ohmios)
+
+#504
+Spires en court-circuit
+Espiras em curto
+匝间短路
+Витковое замыкание
+Zwarte zwoje
+Menetzárlat
+Espiras en cortocircuito
+
+#505
+Thermistance CTN
+Termistor NTC
+NTC热敏电阻
+Терморезистор NTC
+Termistor NTC
+NTC termisztor
+Termistor NTC
+
+#506
+La résistance baisse quand la température monte. R25 est la valeur à 25 °C, bêta 3950. Mesurez-la en ohms hors tension et comparez avec la température.
+A resistência cai quando a temperatura sobe. R25 é o valor a 25 °C, beta 3950. Meça em ohms com a alimentação desligada e compare com a temperatura.
+温度升高时电阻下降。R25是25 °C时的阻值，beta为3950。断电后用欧姆档测量，并与温度对照。
+Сопротивление падает при росте температуры. R25 — значение при 25 °C, бета 3950. Измерьте в омах при отключённом питании и сопоставьте с температурой.
+Rezystancja spada, gdy rośnie temperatura. R25 to wartość przy 25 °C, beta 3950. Zmierz ją w omach przy wyłączonym zasilaniu i porównaj z temperaturą.
+Az ellenállás a hőmérséklet emelkedésével csökken. Az R25 az érték 25 °C-on, béta 3950. Mérje ohmban kikapcsolt tápnál, és hasonlítsa össze a hőmérséklettel.
+La resistencia baja al subir la temperatura. R25 es el valor a 25 °C, beta 3950. Mídala en ohmios con la alimentación apagada y compárela con la temperatura.
+
+#507
+R à 25 °C (ohm)
+R a 25 °C (ohm)
+25 °C时阻值（Ω）
+R при 25 °C (Ом)
+R przy 25 °C (Ω)
+R 25 °C-on (Ω)
+R a 25 °C (ohmios)
+
+#508
+LDR (capteur de lumière)
+LDR (sensor de luz)
+光敏电阻LDR
+Фоторезистор (LDR)
+Fotorezystor (LDR)
+LDR (fényérzékelő)
+LDR (sensor de luz)
+
+#509
+La résistance baisse quand la lumière augmente : environ 1 mégohm dans le noir, environ 1 kohm en pleine lumière.
+A resistência cai quando a luz aumenta: cerca de 1 megohm no escuro, cerca de 1 kΩ com luz forte.
+光线增强时电阻下降：黑暗中约1 MΩ，强光下约1 kΩ。
+Сопротивление падает при увеличении освещённости: около 1 МОм в темноте, около 1 кОм при ярком свете.
+Rezystancja spada, gdy rośnie oświetlenie: około 1 megaoma w ciemności, około 1 kΩ w jasnym świetle.
+Az ellenállás a fény növekedésével csökken: sötétben kb. 1 megaohm, erős fényben kb. 1 kΩ.
+La resistencia baja al aumentar la luz: unos 1 megaohmio en la oscuridad, unos 1 kΩ con luz intensa.
+
+#510
+Lumière (lux)
+Luz (lux)
+光照（lux）
+Освещённость (лк)
+Światło (lx)
+Fény (lux)
+Luz (lux)
+
+#511
+Diode Zener
+Diodo Zener
+齐纳二极管
+Стабилитрон
+Dioda Zenera
+Zener-dióda
+Diodo Zener
+
+#512
+Conduit en direct comme une diode (0,7 V) et en inverse au-delà de sa tension Zener. Sert de référence de tension simple. Il faut une résistance série : sans elle, elle grille.
+Conduz em polarização direta como um diodo (0,7 V) e em reversa acima da sua tensão Zener. Usado como referência de tensão simples. Precisa de um resistor em série: sem ele, queima.
+正向像普通二极管一样导通（0.7 V），反向在超过齐纳电压时导通。常用作简单的电压基准。需要串联电阻：没有电阻会烧毁。
+В прямом направлении проводит как диод (0,7 В), а в обратном — выше напряжения стабилизации. Используется как простой источник опорного напряжения. Нужен последовательный резистор: без него сгорит.
+W kierunku przewodzenia przewodzi jak dioda (0,7 V), a w kierunku zaporowym powyżej swojego napięcia Zenera. Służy jako proste źródło napięcia odniesienia. Wymaga rezystora szeregowego: bez niego się spali.
+Nyitóirányban úgy vezet, mint egy dióda (0,7 V), záróirányban pedig a Zener-feszültsége felett. Egyszerű feszültségreferenciaként használják. Soros ellenállás kell hozzá: nélküle kiég.
+Conduce en directa como un diodo (0,7 V) y en inversa por encima de su tensión Zener. Se usa como referencia de tensión sencilla. Necesita una resistencia en serie: sin ella se quema.
+
+#513
+Tension Zener (V)
+Tensão Zener (V)
+齐纳电压（V）
+Напряжение стабилизации (В)
+Napięcie Zenera (V)
+Zener-feszültség (V)
+Tensión Zener (V)
+
+#514
+LED (couleur)
+LED (cor)
+LED（颜色）
+Светодиод (цвет)
+LED (kolor)
+LED (szín)
+LED (color)
+
+#515
+Diode électroluminescente. L'anode A est la patte la plus longue. Utilisez toujours une résistance série : R = (alimentation - tension directe) / courant. Environ 10 à 20 mA donnent une pleine luminosité. Au-dessus de 50 mA elle grille. Polarité inversée : pas de lumière, pas de dommage (jusqu'à 5 V).
+Diodo emissor de luz. O ânodo A é a perna mais longa. Sempre use um resistor em série: R = (alimentação - tensão direta) / corrente. Cerca de 10 a 20 mA dá brilho total. Acima de 50 mA queima. Polaridade invertida: sem luz, sem dano (até 5 V).
+发光二极管。阳极A是较长的引脚。一定要串联电阻：R =（电源电压 - 正向压降）/ 电流。约10到20 mA即可全亮，超过50 mA会烧毁。极性接反：不亮也不损坏（5 V以内）。
+Светоизлучающий диод. Анод A — более длинный вывод. Всегда используйте последовательный резистор: R = (напряжение питания − прямое напряжение) / ток. Около 10–20 мА даёт полную яркость. Выше 50 мА сгорает. Обратная полярность: нет света, нет повреждения (до 5 В).
+Dioda elektroluminescencyjna. Anoda A to dłuższa nóżka. Zawsze używaj rezystora szeregowego: R = (zasilanie - napięcie przewodzenia) / prąd. Około 10 do 20 mA daje pełną jasność. Powyżej 50 mA się spali. Odwrócona polaryzacja: brak światła, brak uszkodzenia (do 5 V).
+Fénykibocsátó dióda. Az A anód a hosszabb láb. Mindig használjon soros ellenállást: R = (tápfeszültség - nyitófeszültség) / áram. Kb. 10-20 mA teljes fényt ad. 50 mA felett kiég. Fordított polaritás: nincs fény, nincs kár (5 V-ig).
+Diodo emisor de luz. El ánodo A es la patilla más larga. Use siempre una resistencia en serie: R = (alimentación - tensión directa) / corriente. De 10 a 20 mA da brillo completo. Por encima de 50 mA se quema. Polaridad invertida: sin luz y sin daño (hasta 5 V).
+
+#516
+Pont redresseur
+Ponte retificadora
+桥式整流器
+Диодный мост
+Mostek prostowniczy
+Hídegyenirányító
+Puente rectificador
+
+#517
+AC1/AC2 reçoivent le CA, + et - donnent le CC. Sortie d'environ 0,9 x Veff - 1,4 V sans condensateur, ou environ 1,414 x Veff - 1,4 V avec un condensateur de lissage. Une diode en court-circuit court-circuite le côté CA ; une diode ouverte divise la sortie par deux.
+AC1/AC2 recebem CA, + e - fornecem CC. Saída de cerca de 0,9 x Vrms - 1,4 V sem capacitor, ou cerca de 1,414 x Vrms - 1,4 V com capacitor de filtro. Um diodo em curto coloca o lado CA em curto; um diodo aberto reduz a saída à metade.
+AC1/AC2接交流，+和-输出直流。无电容时输出约0.9 x Vrms - 1.4 V，加平滑电容后约1.414 x Vrms - 1.4 V。二极管短路会使交流侧短路；二极管开路则输出减半。
+AC1/AC2 принимают переменное напряжение, + и − дают постоянное. Выход около 0,9 x Uд − 1,4 В без конденсатора или около 1,414 x Uд − 1,4 В со сглаживающим конденсатором. Пробитый диод замыкает сторону AC; оборванный диод вдвое уменьшает выход.
+AC1/AC2 przyjmują AC, + i - dają DC. Wyjście około 0,9 x Vrms - 1,4 V bez kondensatora lub około 1,414 x Vrms - 1,4 V z kondensatorem wygładzającym. Zwarta dioda zwiera stronę AC; otwarta dioda zmniejsza wyjście o połowę.
+Az AC1/AC2 kapja a váltakozó feszültséget, a + és a - adja az egyenfeszültséget. A kimenet kb. 0,9 x Veff - 1,4 V kondenzátor nélkül, vagy kb. 1,414 x Veff - 1,4 V simítókondenzátorral. A zárlatos dióda rövidre zárja az AC oldalt; a szakadt dióda megfelezi a kimenetet.
+AC1/AC2 reciben CA, + y - dan CC. Salida de unos 0,9 x Vrms - 1,4 V sin condensador, o unos 1,414 x Vrms - 1,4 V con condensador de filtrado. Un diodo en cortocircuito cortocircuita el lado de CA; un diodo abierto reduce la salida a la mitad.
+
+#518
+Condensateur de lissage
+Capacitor de filtro
+平滑电容
+Сглаживающий конденсатор
+Kondensator wygładzający
+Simítókondenzátor
+Condensador de filtrado
+
+#519
+Une diode ouverte
+Um diodo aberto
+一个二极管开路
+Один диод оборван
+Jedna dioda otwarta
+Egy dióda szakadt
+Un diodo abierto
+
+#520
+Une diode en court-circuit
+Um diodo em curto
+一个二极管短路
+Один диод пробит
+Jedna dioda zwarta
+Egy dióda zárlatos
+Un diodo en cortocircuito
+
+#521
+Transistor NPN
+Transistor NPN
+NPN晶体管
+Транзистор NPN
+Tranzystor NPN
+NPN tranzisztor
+Transistor NPN
+
+#522
+Transistor PNP
+Transistor PNP
+PNP晶体管
+Транзистор PNP
+Tranzystor PNP
+PNP tranzisztor
+Transistor PNP
+
+#523
+NPN : un faible courant de base (B vers E) laisse passer un fort courant de C vers E (gain hFE). Utilisez une résistance de base. Commutez une charge entre +V et C, avec E au 0 V. Il grille si la base n'a pas de résistance ou si la charge est trop forte pour ce type.
+NPN: uma pequena corrente de base (de B para E) deixa passar uma corrente grande de C para E (ganho hFE). Use um resistor de base. Chaveie uma carga entre +V e C, com E em 0 V. Queima se a base não tiver resistor ou se a carga for grande demais para o tipo.
+NPN：很小的基极电流（B到E）能让很大的电流从C流向E（增益hFE）。要接基极电阻。把负载接在+V和C之间，E接0 V。基极没有电阻或负载对这个型号太大时会烧毁。
+NPN: небольшой ток базы (от B к E) позволяет протекать большому току от C к E (коэффициент hFE). Используйте резистор в базе. Включайте нагрузку между +V и C, а E подключите к 0 В. Сгорит, если у базы нет резистора или нагрузка слишком велика для этого типа.
+NPN: mały prąd bazy (z B do E) pozwala płynąć dużemu prądowi z C do E (wzmocnienie hFE). Użyj rezystora bazy. Przełączaj obciążenie między +V a C, z E do 0 V. Spali się, jeśli baza nie ma rezystora lub obciążenie jest za duże dla tego typu.
+NPN: kis bázisáram (B-ből E felé) nagy áramot enged C-ből E felé (hFE erősítés). Használjon bázisellenállást. A terhelést +V és C közé kapcsolja, az E 0 V-ra kerül. Kiég, ha a bázison nincs ellenállás, vagy a terhelés túl nagy az adott típushoz.
+NPN: una pequeña corriente de base (de B a E) deja pasar una corriente grande de C a E (ganancia hFE). Use una resistencia de base. Conmute una carga entre +V y C, con E a 0 V. Se quema si la base no tiene resistencia o si la carga es demasiado grande para el tipo.
+
+#524
+PNP : tirez la base sous l'émetteur (courant B vers E sortant de la base) pour le passer. Émetteur au +V, charge de C au 0 V. Un interrupteur côté haut.
+PNP: puxe a base abaixo do emissor (corrente de B para E saindo da base) para ligar. Emissor em +V, carga de C para 0 V. Uma chave do lado positivo.
+PNP：把基极拉到发射极以下（基极电流向外流出）即可导通。发射极接+V，负载从C接到0 V。是高端开关。
+PNP: потяните базу ниже эмиттера (ток вытекает из базы), чтобы включить. Эмиттер на +V, нагрузка от C на 0 В. Ключ в верхнем плече.
+PNP: pociągnij bazę poniżej emitera (prąd wypływa z bazy), aby włączyć. Emiter do +V, obciążenie z C do 0 V. Przełącznik po stronie wysokiej.
+PNP: húzza a bázist az emitter alá (az áram kifelé folyik a bázisból) a bekapcsoláshoz. Az emitter +V-ra, a terhelés C-től 0 V-ra kerül. Felső oldali kapcsoló.
+PNP: lleve la base por debajo del emisor (la corriente sale de la base) para conducir. Emisor a +V, carga de C a 0 V. Un interruptor del lado positivo.
+
+#525
+Collecteur ouvert
+Coletor aberto
+集电极开路
+Обрыв коллектора
+Przerwa w kolektorze
+Szakadt kollektor
+Colector abierto
+
+#526
+Base ouverte
+Base aberta
+基极开路
+Обрыв базы
+Przerwa w bazie
+Szakadt bázis
+Base abierta
+
+#527
+C-E en court-circuit
+C-E em curto
+C-E短路
+C-E замкнуты
+C-E zwarte
+C-E zárlatos
+C-E en cortocircuito
+
+#528
+MOSFET canal N
+MOSFET canal N
+N沟道MOSFET
+MOSFET N-канальный
+MOSFET z kanałem N
+N-csatornás MOSFET
+MOSFET canal N
+
+#529
+MOSFET canal P
+MOSFET canal P
+P沟道MOSFET
+MOSFET P-канальный
+MOSFET z kanałem P
+P-csatornás MOSFET
+MOSFET canal P
+
+#530
+Interrupteur commandé en tension : quand Vgs (grille-source) dépasse le seuil, D-S conduit avec une faible résistance. La grille ne consomme aucun courant. Ne dépassez pas 20 V sur la grille. Charge entre +V et D, S au 0 V.
+Chave controlada por tensão: quando Vgs (porta-fonte) está acima do limiar, D-S conduz com baixa resistência. A porta não consome corrente. Não ultrapasse 20 V na porta. Carga entre +V e D, S em 0 V.
+电压控制开关：当Vgs（栅源电压）高于阈值时，D-S以很小的电阻导通。栅极不取电流。栅极电压不要超过20 V。负载接在+V和D之间，S接0 V。
+Ключ, управляемый напряжением: когда Vgs (затвор–исток) выше порога, канал D–S проводит с малым сопротивлением. Затвор не потребляет ток. Не превышайте 20 В на затворе. Нагрузка между +V и D, S на 0 В.
+Przełącznik sterowany napięciem: gdy Vgs (bramka–źródło) przekracza próg, D-S przewodzi z małą rezystancją. Bramka nie pobiera prądu. Nie przekraczaj 20 V na bramce. Obciążenie między +V a D, S do 0 V.
+Feszültségvezérelt kapcsoló: ha a Vgs (gate-source) a küszöb felett van, a D-S kis ellenállással vezet. A gate nem vesz fel áramot. Ne lépje túl a 20 V-ot a gate-en. A terhelés +V és D közé kerül, az S 0 V-ra.
+Interruptor controlado por tensión: cuando Vgs (puerta-fuente) supera el umbral, D-S conduce con baja resistencia. La puerta no consume corriente. No supere 20 V en la puerta. Carga entre +V y D, S a 0 V.
+
+#531
+Interrupteur côté haut à canal P : source au +V, grille tirée sous la source de plus que le seuil pour le passer. Charge de D au 0 V.
+Chave do lado positivo de canal P: fonte em +V, porta puxada abaixo da fonte por mais que o limiar para ligar. Carga de D para 0 V.
+P沟道高端开关：源极接+V，把栅极拉到比源极低且超过阈值即可导通。负载从D接到0 V。
+Ключ в верхнем плече на P-канальном транзисторе: исток на +V, затвор опускается ниже истока больше чем на порог — открывается. Нагрузка от D на 0 В.
+Przełącznik P-kanałowy po stronie wysokiej: źródło do +V, bramka obniżona poniżej źródła o więcej niż próg włącza tranzystor. Obciążenie z D do 0 V.
+P-csatornás felső oldali kapcsoló: a source +V-ra, a gate-et a source alá húzva a küszöbnél nagyobb mértékben kapcsol be. A terhelés D-től 0 V-ra kerül.
+Interruptor de lado positivo de canal P: fuente a +V, puerta llevada por debajo de la fuente más que el umbral para conducir. Carga de D a 0 V.
+
+#532
+Drain ouvert
+Dreno aberto
+漏极开路
+Обрыв стока
+Przerwa w drenie
+Szakadt drain
+Drenador abierto
+
+#533
+D-S en court-circuit
+D-S em curto
+D-S短路
+D-S замкнуты
+D-S zwarte
+D-S zárlatos
+D-S en cortocircuito
+
+#534
+Oxyde de grille endommagé (court-circuit G-S)
+Óxido de porta danificado (curto G-S)
+栅氧化层损坏（G-S短路）
+Подзатворный окисел повреждён (замыкание G–S)
+Tlenek bramki uszkodzony (zwarcie G-S)
+Gate-oxid sérült (G-S zárlat)
+Óxido de puerta dañado (cortocircuito G-S)
+
+#535
+Optocoupleur (type 4N35)
+Optoacoplador (tipo 4N35)
+光耦（4N35类）
+Оптопара (типа 4N35)
+Transoptor (typu 4N35)
+Optocsatoló (4N35 jellegű)
+Optoacoplador (tipo 4N35)
+
+#536
+Une LED (A-K) pilote un phototransistor (C-E) avec isolation galvanique. Rapport de transfert de courant d'environ 100 % : le courant collecteur vaut à peu près le courant de la LED. Mettez une résistance pour la LED (environ 10 mA). Sert à isoler les signaux d'automate et de terrain.
+Um LED (A-K) aciona um fototransistor (C-E) com isolação galvânica. Relação de transferência de corrente de cerca de 100 %: a corrente do coletor é aproximadamente a corrente do LED. Use um resistor para o LED (cerca de 10 mA). Usado para isolar sinais de CLP e de campo.
+一个LED（A-K）驱动一个光电晶体管（C-E），实现电气隔离。电流传输比约100 %：集电极电流约等于LED电流。LED要串联电阻（约10 mA）。用于隔离PLC与现场信号。
+Светодиод (A–K) управляет фототранзистором (C–E) с гальванической развязкой. Коэффициент передачи тока около 100 %: ток коллектора примерно равен току светодиода. Используйте резистор для светодиода (около 10 мА). Применяется для развязки сигналов ПЛК и полевых сигналов.
+Dioda LED (A-K) steruje fototranzystorem (C-E) z izolacją galwaniczną. Współczynnik przenoszenia prądu około 100 %: prąd kolektora jest zbliżony do prądu diody LED. Użyj rezystora dla LED (około 10 mA). Służy do izolowania sygnałów PLC i polowych.
+Egy LED (A-K) meghajt egy fototranzisztort (C-E) galvanikus leválasztással. Az áramátviteli arány kb. 100 %: a kollektoráram nagyjából a LED árama. A LED-hez használjon ellenállást (kb. 10 mA). PLC- és terepi jelek leválasztására használják.
+Un LED (A-K) maneja un fototransistor (C-E) con aislamiento galvánico. Relación de transferencia de corriente de alrededor del 100 %: la corriente de colector es aproximadamente la del LED. Use una resistencia para el LED (unos 10 mA). Se usa para aislar señales de PLC y de campo.
+
+#537
+Rapport de transfert (%)
+Relação de transferência (%)
+传输比（%）
+Коэффициент передачи (%)
+Współczynnik przenoszenia (%)
+Átviteli arány (%)
+Relación de transferencia (%)
+
+#538
+Côté LED mort
+Lado do LED morto
+LED侧损坏
+Сторона светодиода неисправна
+Strona LED uszkodzona
+A LED oldal tönkrement
+Lado del LED averiado
+
+#539
+Côté transistor mort
+Lado do transistor morto
+晶体管侧损坏
+Сторона транзистора неисправна
+Strona tranzystora uszkodzona
+A tranzisztor oldal tönkrement
+Lado del transistor averiado
+
+#540
+Interrupteur à bascule (marche-arrêt)
+Chave alavanca (liga-desliga)
+拨动开关（通断）
+Тумблер (вкл–выкл)
+Przełącznik dźwigniowy (wł.–wył.)
+Billenőkapcsoló (be-ki)
+Interruptor de palanca (on-off)
+
+#541
+Interrupteur marche-arrêt à maintien. Cliquez pour le basculer.
+Chave liga-desliga com retenção. Clique para acionar.
+带保持的通断开关。点击拨动。
+Тумблер с фиксацией. Щёлкните, чтобы переключить.
+Przełącznik wł.–wył. z zatrzaskiem. Kliknij, aby przełączyć.
+Rögzített be-ki kapcsoló. Kattintson az átbillentéséhez.
+Interruptor on-off con retención. Haga clic para accionarlo.
+
+#542
+Contacts usés (ne se ferment jamais)
+Contatos gastos (nunca fecham)
+触点磨损（始终不闭合）
+Контакты изношены (никогда не замыкаются)
+Styki zużyte (nigdy się nie zamykają)
+Kopott érintkezők (soha nem zárnak)
+Contactos desgastados (nunca cierran)
+
+#543
+Interrupteur à glissière (SPDT)
+Chave deslizante (SPDT)
+滑动开关（SPDT）
+Ползунковый переключатель (SPDT)
+Przełącznik suwakowy (SPDT)
+Csúszókapcsoló (SPDT)
+Interruptor deslizante (SPDT)
+
+#544
+Inverseur : C se connecte à 1 ou à 2. Cliquez pour le basculer.
+Chave reversora: C se conecta a 1 ou a 2. Clique para acionar.
+转换开关：C接1或接2。点击拨动。
+Переключатель: C соединяется с 1 или со 2. Щёлкните, чтобы переключить.
+Przełącznik przełączny: C łączy się z 1 lub z 2. Kliknij, aby przełączyć.
+Váltókapcsoló: a C az 1-hez vagy a 2-höz kapcsolódik. Kattintson az átbillentéséhez.
+Conmutador: C se conecta a 1 o a 2. Haga clic para accionarlo.
+
+#545
+Contacts usés
+Contatos gastos
+触点磨损
+Контакты изношены
+Styki zużyte
+Kopott érintkezők
+Contactos desgastados
+
+#546
+Batterie / pile
+Bateria / pilha
+电池
+Батарея / элемент
+Akumulator / ogniwo
+Akkumulátor / elem
+Batería / pila
+
+#547
+Pile ou batterie CC avec résistance interne. Une batterie déchargée affiche une tension plus basse qui s'effondre en charge : mesurez-la en charge, pas à vide.
+Pilha ou bateria CC com resistência interna. Uma bateria descarregada mostra tensão mais baixa que despenca sob carga: meça com carga, não em circuito aberto.
+带内阻的直流电池。亏电的电池电压偏低，带载时会进一步塌陷：要带负载测量，不要只测开路电压。
+Элемент или батарея постоянного тока с внутренним сопротивлением. Разряженная батарея показывает пониженное напряжение, которое проседает под нагрузкой: измеряйте под нагрузкой, а не на холостом ходу.
+Ogniwo lub akumulator DC z rezystancją wewnętrzną. Rozładowana bateria pokazuje niższe napięcie, które załamuje się pod obciążeniem: mierz z obciążeniem, nie na biegu jałowym.
+Egyenáramú elem vagy akkumulátor belső ellenállással. A lemerült akkumulátor alacsonyabb feszültséget mutat, ami terhelés alatt összeomlik: terheléssel mérje, ne üresjáratban.
+Pila o batería de CC con resistencia interna. Una batería agotada muestra una tensión más baja que se hunde con carga: mídala con carga, no en circuito abierto.
+
+#548
+Déchargée (60 % de tension, forte résistance interne)
+Descarregada (60 % da tensão, alta resistência interna)
+亏电（电压60 %，内阻大）
+Разряжена (60 % напряжения, большое внутреннее сопротивление)
+Rozładowana (60 % napięcia, duża rezystancja wewnętrzna)
+Lemerült (60 % feszültség, nagy belső ellenállás)
+Agotada (60 % de tensión, alta resistencia interna)
+
+#549
+Port USB 5 V
+Porta USB 5 V
+USB 5 V接口
+Порт USB 5 В
+Port USB 5 V
+USB 5 V port
+Puerto USB 5 V
+
+#550
+Alimentation 5 V avec un fusible réarmable de 0,5 A. D+ et D- servent uniquement au traçage. Au-delà d'environ 0,9 A, le port se coupe quelques secondes.
+Alimentação de 5 V com fusível rearmável de 0,5 A. D+ e D- servem apenas para rastreamento. Acima de cerca de 0,9 A a porta desliga por alguns segundos.
+带0.5 A自恢复保险丝的5 V电源。D+和D-仅用于线路追踪。超过约0.9 A时接口会关断几秒钟。
+Питание 5 В с самовосстанавливающимся предохранителем 0,5 А. D+ и D− нужны только для трассировки. При токе выше примерно 0,9 А порт отключается на несколько секунд.
+Zasilanie 5 V z bezpiecznikiem samoresetującym 0,5 A. D+ i D- służą tylko do śledzenia ścieżek. Powyżej około 0,9 A port wyłącza się na kilka sekund.
+5 V-os táp 0,5 A-es visszaálló biztosítékkal. A D+ és D- csak a nyomkövetéshez van. Kb. 0,9 A felett a port néhány másodpercre lekapcsol.
+Alimentación de 5 V con un fusible rearmable de 0,5 A. D+ y D- son solo para rastrear. Por encima de unos 0,9 A el puerto se apaga unos segundos.
+
+#551
+Pas de sortie
+Sem saída
+无输出
+Нет выхода
+Brak wyjścia
+Nincs kimenet
+Sin salida
+
+#552
+Prise jack d'alimentation CC
+Conector de alimentação CC
+直流电源插孔
+Гнездо питания постоянного тока
+Gniazdo zasilania DC
+DC tápcsatlakozó
+Conector de alimentación CC
+
+#553
+Prise jack alimentée par un adaptateur secteur : choisissez sa tension et sa limite de courant. Un adaptateur surchargé de plus de 30 % se coupe quelques secondes puis réessaie.
+Conector alimentado por uma fonte de parede: escolha a tensão e o limite de corrente. Uma fonte sobrecarregada em mais de 30 % desarma por alguns segundos e tenta de novo.
+由墙插适配器供电的圆孔插座：选择其电压和限流值。适配器过载超过30 %时会关断几秒钟，然后重试。
+Гнездо, питаемое от сетевого адаптера: выберите его напряжение и предел тока. Адаптер, перегруженный более чем на 30 %, отключается на несколько секунд и пробует снова.
+Gniazdo zasilane z zasilacza sieciowego: wybierz jego napięcie i limit prądu. Zasilacz przeciążony o więcej niż 30 % wyłącza się na kilka sekund i próbuje ponownie.
+Hálózati adapterről táplált csatlakozóaljzat: válassza ki a feszültségét és az áramkorlátját. A 30 %-nál nagyobb mértékben túlterhelt adapter néhány másodpercre lekapcsol, majd újrapróbálkozik.
+Conector alimentado por un adaptador de pared: elija su tensión y límite de corriente. Un adaptador sobrecargado más de un 30 % se desconecta unos segundos y reintenta.
+
+#554
+Limite de courant (A)
+Limite de corrente (A)
+限流值（A）
+Предел тока (А)
+Limit prądu (A)
+Áramkorlát (A)
+Límite de corriente (A)
+
+#555
+Relais pour circuit imprimé (SPDT, bobine 5/12/24 V)
+Relé para placa (SPDT, bobina 5/12/24 V)
+电路板继电器（SPDT，线圈5/12/24 V）
+Релейный модуль для платы (SPDT, катушка 5/12/24 В)
+Przekaźnik PCB (SPDT, cewka 5/12/24 V)
+NYÁK relé (SPDT, 5/12/24 V-os tekercs)
+Relé para placa (SPDT, bobina 5/12/24 V)
+
+#556
+Petit relais pour circuit imprimé. La bobine A-B (environ 0,36 W) colle au-dessus de 75 % de sa tension et retombe en dessous de 15 %. Le contact COM bascule sur NO à l'excitation, sur NC sinon. Placez une diode de roue libre aux bornes de la bobine quand un transistor la pilote.
+Pequeno relé para placa. A bobina A-B (cerca de 0,36 W) atraca acima de 75 % da sua tensão e solta abaixo de 15 %. O contato COM comuta para NO quando energizado e para NC quando não. Coloque um diodo de roda livre na bobina quando um transistor a aciona.
+小型电路板继电器。线圈A-B（约0.36 W）在高于其电压75 %时吸合，低于15 %时释放。通电时COM切换到NO，断电时接NC。用晶体管驱动线圈时，要在线圈两端并联续流二极管。
+Небольшое реле для платы. Катушка A–B (около 0,36 Вт) срабатывает при напряжении выше 75 % от номинального и отпускает ниже 15 %. Контакт COM при подаче питания переключается на NO, без питания остаётся на NC. Когда катушку управляет транзистор, ставьте обратный диод параллельно катушке.
+Mały przekaźnik PCB. Cewka A-B (około 0,36 W) przyciąga powyżej 75 % swojego napięcia i opada poniżej 15 %. Styk COM przełącza się na NO po zasileniu, na NC bez zasilania. Gdy cewkę steruje tranzystor, włącz równolegle do niej diodę zwrotną.
+Kis NYÁK relé. Az A-B tekercs (kb. 0,36 W) a feszültségének 75 %-a felett húz be, és 15 % alatt ejt el. A COM érintkező gerjesztéskor a NO-ra, egyébként az NC-re kapcsol. Ha tranzisztor hajtja a tekercset, tegyen rá szabadonfutó diódát.
+Pequeño relé para placa. La bobina A-B (unos 0,36 W) engancha por encima del 75 % de su tensión y cae por debajo del 15 %. El contacto COM conmuta a NA al excitarse y a NC si no. Ponga un diodo de libre circulación en la bobina cuando la maneje un transistor.
+
+#558
+Barrette à broches simple rangée. Chaque broche est indépendante. Servez-vous-en pour dessiner les connecteurs d'une carte que vous tracez.
+Barra de pinos de fileira simples. Cada pino é separado. Use para desenhar conectores em uma placa que você está rastreando.
+单排针座。每个引脚相互独立。用来在你正在描图的电路板上画连接器。
+Однорядная штыревая колодка. Каждый вывод независим. Используйте её, чтобы рисовать разъёмы на трассируемой плате.
+Listwa goldpin jednorzędowa. Każdy pin jest oddzielny. Użyj jej do rysowania złączy na płytce, którą śledzisz.
+Egysoros tüskesor. Minden láb különálló. Használja csatlakozók rajzolására egy olyan panelen, amelyet éppen követ.
+Tira de pines de una fila. Cada pin es independiente. Úsela para dibujar conectores en una placa que está rastreando.
+
+#559
+Une fiche et une prise réunies. La broche n du haut est reliée à la broche n du bas. Des broches sales ou desserrées sont une panne terrain courante.
+Um plugue e uma tomada unidos. O pino n de cima se liga ao pino n de baixo. Pinos sujos ou frouxos são uma falha comum de campo.
+插头和插座对插在一起。上排第n脚与下排第n脚相连。引脚脏污或松动是常见的现场故障。
+Вилка и розетка, соединённые вместе. Вывод n сверху соединён с выводом n снизу. Загрязнённые или ослабленные контакты — частая полевая неисправность.
+Wtyk i gniazdo połączone razem. Pin n u góry łączy się z pinem n na dole. Brudne lub luźne piny to częsta usterka w terenie.
+Egy csatlakozódugó és aljzat összedugva. A felső n. láb az alsó n. lábhoz csatlakozik. A piszkos vagy meglazult lábak gyakori terepi hibák.
+Un conector macho y hembra unidos. El pin n de arriba se une al pin n de abajo. Los pines sucios o flojos son una avería de campo habitual.
+
+
+#557
+Contact bloqué (ne bouge jamais)
+Contato preso (nunca se move)
+触点卡死（不动作）
+Контакт заклинило (не перемещается)
+Styk zablokowany (nigdy się nie przesuwa)
+Az érintkező elakadt (soha nem mozdul)
+Contacto atascado (nunca se mueve)

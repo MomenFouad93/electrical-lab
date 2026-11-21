@@ -1,0 +1,21 @@
+const { chromium } = require('/opt/npm-tools/node_modules/playwright');
+(async () => {
+  const b = await chromium.launch();
+  const mode = process.argv[2] || 'pcb';
+  const ctx = await b.newContext({ viewport: mode === 'm' ? { width: 390, height: 820 } : { width: 1360, height: 860 }, hasTouch: mode === 'm' });
+  const p = await ctx.newPage(); const errs = [];
+  p.on('console', (m) => { if (m.type() === 'error') errs.push(m.text()); });
+  p.on('pageerror', (e) => errs.push('PAGEERR ' + e.message + ' ' + (e.stack || '').split('\n')[1]));
+  await p.goto('file:///home/claude/lab/dist/electrical-lab.html'); await p.waitForTimeout(900);
+  if (mode === 'ar') await p.click('#btnLang');
+  await p.click('#tabs .tab[data-v=pcb]'); await p.waitForTimeout(500);
+  if (mode === 'm') { await p.click('#pdock button[data-p=diag]'); } else await p.click('#pcbTb .btn.pri');
+  await p.waitForTimeout(1200);
+  await p.screenshot({ path: `/tmp/claude-0/shots/pcb_${mode}1.png` });
+  const clickTxt = async (re) => { const ok = await p.evaluate((src) => { const r = new RegExp(src); const b = [...document.querySelectorAll('#ppane-diag button')].find((x) => r.test(x.textContent.trim())); if (b) { b.click(); return true; } return false; }, re); if (!ok) console.log('NOT FOUND', re); await p.waitForTimeout(500); };
+  const scrollTs = async () => p.evaluate(() => { const el = document.querySelector('#ppane-diag .dg-ts'); if (el) el.scrollIntoView({ block: 'start' }); });
+  await clickTxt('^(Start|ابدأ)$'); await clickTxt('^(Find the fault|دوّر على العطل)$'); await p.waitForTimeout(1500); await scrollTs();
+  await p.screenshot({ path: `/tmp/claude-0/shots/pcb_${mode}2.png` });
+  console.log(errs.length ? errs.join('\n') : 'PCB DIAG: no errors');
+  await b.close();
+})();

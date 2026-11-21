@@ -1,0 +1,1376 @@
+#3559
+Fiche bleue (monophasée 230 V)
+Plugue azul (monofásico 230 V)
+蓝色插头（单相 230 V）
+Синяя вилка (1 фаза, 230 В)
+Niebieska wtyczka (1-fazowa, 230 V)
+Kék dugasz (egyfázisú, 230 V)
+Clavija azul (monofásica 230 V)
+
+#3560
+Fiche rouge (triphasée 400 V)
+Plugue vermelho (trifásico 400 V)
+红色插头（三相 400 V）
+Красная вилка (3 фазы, 400 В)
+Czerwona wtyczka (3-fazowa, 400 V)
+Piros dugasz (háromfázisú, 400 V)
+Clavija roja (trifásica 400 V)
+
+#3561
+Sectionneur rotatif Q1
+Seccionadora rotativa Q1
+旋转隔离开关 Q1
+Поворотный разъединитель Q1
+Rozłącznik obrotowy Q1
+Forgókaros szakaszoló Q1
+Seccionador rotativo Q1
+
+#3562
+MCCB A (alimente le moteur M1)
+MCCB A (alimenta o motor M1)
+MCCB A（给电机 M1 供电）
+MCCB A (питает двигатель M1)
+MCCB A (zasila silnik M1)
+MCCB A (az M1 motort táplálja)
+MCCB A (alimenta el motor M1)
+
+#3563
+MCCB B (alimente la pompe)
+MCCB B (alimenta a bomba)
+MCCB B（给水泵供电）
+MCCB B (питает насос)
+MCCB B (zasila pompę)
+MCCB B (a szivattyút táplálja)
+MCCB B (alimenta la bomba)
+
+#3564
+Disjoncteur MCB C tripolaire (alimente le compresseur)
+MCB C tripolar (alimenta o compressor)
+三极 MCB C（给空压机供电）
+Трёхполюсный MCB C (питает компрессор)
+Trójbiegunowy MCB C (zasila sprężarkę)
+Hárompólusú MCB C (a kompresszort táplálja)
+MCB C tripolar (alimenta el compresor)
+
+#3565
+Bouton START
+Botão START
+START 按钮
+Кнопка START
+Przycisk START
+START nyomógomb
+Pulsador START
+
+#3566
+Bouton STOP
+Botão STOP
+STOP 按钮
+Кнопка STOP
+Przycisk STOP
+STOP nyomógomb
+Pulsador STOP
+
+#3567
+Bouton CYL OUT
+Botão CYL OUT
+CYL OUT 按钮
+Кнопка CYL OUT
+Przycisk CYL OUT
+CYL OUT nyomógomb
+Pulsador CYL OUT
+
+#3568
+Bouton CYL IN
+Botão CYL IN
+CYL IN 按钮
+Кнопка CYL IN
+Przycisk CYL IN
+CYL IN nyomógomb
+Pulsador CYL IN
+
+#3569
+Bouton d'arrêt d'urgence E-STOP
+Botão de parada de emergência E-STOP
+急停按钮 E-STOP
+Кнопка аварийного останова E-STOP
+Przycisk wyłącznika awaryjnego E-STOP
+E-STOP vészleállító gomb
+Pulsador de parada de emergencia E-STOP
+
+#3570
+Bouton RESET
+Botão RESET
+RESET 按钮
+Кнопка RESET
+Przycisk RESET
+RESET nyomógomb
+Pulsador RESET
+
+#3571
+Vanne d'isolement d'air BV-A
+Válvula de isolamento de ar BV-A
+空气隔离阀 BV-A
+Запорный клапан воздуха BV-A
+Zawór odcinający powietrza BV-A
+BV-A levegő-elzárószelep
+Válvula de aislamiento de aire BV-A
+
+#3572
+Vanne de purge
+Válvula de descarga
+泄压阀
+Сбросной клапан
+Zawór upustowy
+Leeresztő szelep
+Válvula de purga
+
+#3573
+Vanne d'alimentation en eau W1
+Válvula de alimentação de água W1
+进水阀 W1
+Подающий клапан воды W1
+Zawór zasilania wodą W1
+W1 vízbemeneti szelep
+Válvula de alimentación de agua W1
+
+#3574
+Vanne de sortie d'eau W2
+Válvula de saída de água W2
+出水阀 W2
+Выпускной клапан воды W2
+Zawór wylotowy wody W2
+W2 vízkimeneti szelep
+Válvula de salida de agua W2
+
+#3575
+Vanne de vidange W3 (grande rouge)
+Válvula de dreno W3 (vermelha grande)
+排水阀 W3（红色大阀）
+Дренажный клапан W3 (большой красный)
+Zawór spustowy W3 (duży czerwony)
+W3 ürítőszelep (nagy piros)
+Válvula de drenaje W3 (roja grande)
+
+#3576
+Point de mesure : côté amont de Q1
+Ponto de medição: lado da entrada de Q1
+测量点：Q1 进线侧
+Точка измерения: вход Q1
+Punkt pomiarowy: strona zasilania Q1
+Mérési pont: Q1 betáplálási oldal
+Punto de medida: lado de entrada de Q1
+
+#3577
+Point de mesure : côté aval de Q1
+Ponto de medição: lado da saída de Q1
+测量点：Q1 出线侧
+Точка измерения: выход Q1
+Punkt pomiarowy: strona odbiorcza Q1
+Mérési pont: Q1 terhelési oldal
+Punto de medida: lado de salida de Q1
+
+#3578
+Point de mesure : bornes de la pompe
+Ponto de medição: terminais da bomba
+测量点：水泵接线端子
+Точка измерения: клеммы насоса
+Punkt pomiarowy: zaciski pompy
+Mérési pont: a szivattyú kapcsai
+Punto de medida: bornes de la bomba
+
+#3579
+Point de mesure : bornes du compresseur
+Ponto de medição: terminais do compressor
+测量点：空压机接线端子
+Точка измерения: клеммы компрессора
+Punkt pomiarowy: zaciski sprężarki
+Mérési pont: a kompresszor kapcsai
+Punto de medida: bornes del compresor
+
+#3580
+Point de mesure : prise bleue
+Ponto de medição: tomada azul
+测量点：蓝色插座
+Точка измерения: синяя розетка
+Punkt pomiarowy: niebieskie gniazdo
+Mérési pont: kék csatlakozóaljzat
+Punto de medida: toma azul
+
+#3581
+Moteur M1
+Motor M1
+电机 M1
+Двигатель M1
+Silnik M1
+M1 motor
+Motor M1
+
+#3582
+Compresseur C1
+Compressor C1
+空压机 C1
+Компрессор C1
+Sprężarka C1
+C1 kompresszor
+Compresor C1
+
+#3583
+Unité FRL (filtre, régulateur, lubrificateur)
+Unidade FRL (filtro, regulador, lubrificador)
+FRL 气源处理单元（过滤器、调压阀、油雾器）
+Блок FRL (фильтр, регулятор, лубрикатор)
+Zespół FRL (filtr, reduktor, naolejacz)
+FRL egység (szűrő, szabályozó, olajozó)
+Unidad FRL (filtro, regulador, lubricador)
+
+#3584
+Vérin pneumatique
+Cilindro pneumático
+气缸
+Пневмоцилиндр
+Siłownik pneumatyczny
+Pneumatikus munkahenger
+Cilindro neumático
+
+#3585
+Pompe à eau P1
+Bomba de água P1
+水泵 P1
+Водяной насос P1
+Pompa wody P1
+P1 vízszivattyú
+Bomba de agua P1
+
+#3586
+Ballon d'eau V1
+Vaso de água V1
+水罐 V1
+Водяной сосуд V1
+Zbiornik wody V1
+V1 víztartály
+Depósito de agua V1
+
+#3587
+Manomètre G1 (air après l'isolement)
+Manômetro G1 (ar após o isolamento)
+压力表 G1（隔离阀后的空气）
+Манометр G1 (воздух после запорного клапана)
+Manometr G1 (powietrze za zaworem)
+G1 manométer (levegő az elzáró után)
+Manómetro G1 (aire después del aislamiento)
+
+#3588
+Manomètre G2 (réservoir)
+Manômetro G2 (reservatório)
+压力表 G2（储气罐）
+Манометр G2 (ресивер)
+Manometr G2 (zbiornik)
+G2 manométer (légtartály)
+Manómetro G2 (depósito)
+
+#3589
+Manomètre G3 (boucle d'eau)
+Manômetro G3 (circuito de água)
+压力表 G3（水循环管路）
+Манометр G3 (водяной контур)
+Manometr G3 (obieg wody)
+G3 manométer (vízkör)
+Manómetro G3 (circuito de agua)
+
+#3590
+Manomètre G4 (ballon)
+Manômetro G4 (vaso)
+压力表 G4（水罐）
+Манометр G4 (сосуд)
+Manometr G4 (zbiornik)
+G4 manométer (tartály)
+Manómetro G4 (depósito)
+
+#3591
+Source d'énergie. Débranchez-la, puis consignez la fiche pour que personne ne puisse la rebrancher.
+Fonte de energia. Desconecte e depois bloqueie o plugue para que ninguém possa conectá-lo de novo.
+能源。先拔掉插头，再把插头锁住，防止别人重新插上。
+Источник энергии. Выньте вилку, затем заблокируйте её, чтобы никто не смог вставить обратно.
+Źródło energii. Wyjmij wtyczkę, potem zablokuj ją, aby nikt nie mógł jej ponownie włożyć.
+Energiaforrás. Húzza ki a dugaszt, majd zárja le, hogy senki ne dugaszolhassa vissza.
+Fuente de energía. Desenchufe y luego bloquee la clavija para que nadie pueda volver a enchufarla.
+
+#3592
+Appareil d'isolement. Mettez-le sur OFF, posez un dispositif de consignation, ajoutez votre cadenas et une étiquette.
+Dispositivo de isolamento. Coloque em OFF, instale um dispositivo de bloqueio, adicione seu cadeado e uma etiqueta.
+隔离装置。扳到 OFF，装上锁具，再挂上你的挂锁和标签。
+Разъединяющее устройство. Переведите в OFF, установите блокирующее устройство, повесьте свой замок и бирку.
+Urządzenie odłączające. Ustaw na OFF, załóż urządzenie blokujące, dodaj swoją kłódkę i zawieszkę.
+Leválasztó készülék. Kapcsolja OFF állásba, tegyen fel zárolóeszközt, majd a saját lakatát és egy címkét.
+Dispositivo de aislamiento. Póngalo en OFF, coloque un dispositivo de bloqueo y añada su candado y una etiqueta.
+
+#3593
+Appareil de commande uniquement. Il démarre ou arrête la machine mais ne l'isole pas.
+Apenas dispositivo de comando. Ele liga ou desliga a máquina, mas não a isola.
+只是控制器件。它能启动或停止设备，但不能隔离能量。
+Только устройство управления. Оно запускает или останавливает машину, но не изолирует её.
+Tylko urządzenie sterujące. Uruchamia lub zatrzymuje maszynę, ale jej nie odłącza.
+Csak vezérlőeszköz. Elindítja vagy leállítja a gépet, de nem választja le.
+Solo dispositivo de mando. Arranca o para la máquina, pero no la aísla.
+
+#3594
+Vanne d'isolement. Fermez-la, posez un dispositif de consignation, ajoutez votre cadenas et une étiquette. La pression peut rester piégée après elle.
+Válvula de isolamento. Feche, instale um dispositivo de bloqueio, adicione seu cadeado e uma etiqueta. A pressão pode ficar presa depois dela.
+隔离阀。关闭后装上锁具，再挂上你的挂锁和标签。阀后可能还残留被困的压力。
+Запорный клапан. Закройте, установите блокирующее устройство, повесьте свой замок и бирку. После него давление может оставаться запертым.
+Zawór odcinający. Zamknij, załóż urządzenie blokujące, dodaj swoją kłódkę i zawieszkę. Za nim może pozostać uwięzione ciśnienie.
+Elzárószelep. Zárja el, tegyen fel zárolóeszközt, majd a saját lakatát és egy címkét. Utána nyomás maradhat bezárva.
+Válvula de aislamiento. Ciérrela, coloque un dispositivo de bloqueo y añada su candado y una etiqueta. Después de ella puede quedar presión atrapada.
+
+#3595
+Vanne de purge ou de vidange. Ouvrez-la après avoir consigné l'alimentation pour libérer la pression piégée, puis lisez le manomètre.
+Válvula de descarga ou de dreno. Abra depois de bloquear a alimentação para liberar a pressão presa e leia o manômetro.
+泄压或排水阀。锁住供给后再打开它，释放被困的压力，然后看压力表。
+Сбросной или дренажный клапан. Откройте его после блокировки подачи, чтобы сбросить запертое давление, затем прочитайте манометр.
+Zawór upustowy lub spustowy. Otwórz go po zablokowaniu zasilania, aby zwolnić uwięzione ciśnienie, potem odczytaj manometr.
+Leeresztő vagy ürítőszelep. A betáplálás lezárása után nyissa ki, hogy a bezárt nyomás távozzon, majd olvassa le a manométert.
+Válvula de purga o drenaje. Ábrala después de bloquear el suministro para liberar la presión atrapada y lea el manómetro.
+
+#3596
+Charge. Elle est hors tension seulement après que la source en amont est isolée, consignée et testée.
+Carga. Só está sem tensão depois que a fonte a montante for isolada, bloqueada e testada.
+负载。只有上游电源被隔离、上锁并测试后，它才算无电。
+Нагрузка. Она обесточена только после того, как источник выше по цепи изолирован, заблокирован и проверен.
+Odbiornik. Jest bez napięcia dopiero po odizolowaniu, zablokowaniu i sprawdzeniu źródła przed nim.
+Fogyasztó. Csak akkor feszültségmentes, ha a előtte lévő forrást leválasztották, lezárták és megmérték.
+Carga. Está sin tensión solo después de que la fuente anterior esté aislada, bloqueada y comprobada.
+
+#3597
+Énergie stockée. Elle garde sa pression quand l'alimentation est coupée. Libérez-la et lisez le manomètre.
+Energia armazenada. Ela mantém a pressão com a alimentação desligada. Libere e leia o manômetro.
+储存的能量。供给切断后它仍保持压力。先释放，再看压力表。
+Накопленная энергия. Она сохраняет давление после отключения подачи. Сбросьте его и прочитайте манометр.
+Energia zgromadzona. Zachowuje ciśnienie po wyłączeniu zasilania. Zwolnij je i odczytaj manometr.
+Tárolt energia. A betáplálás megszűnése után is megtartja a nyomást. Eressze le, majd olvassa le a manométert.
+Energía almacenada. Mantiene su presión con el suministro apagado. Libérela y lea el manómetro.
+
+#3598
+Manomètre. Il doit indiquer 0 bar avant le début du travail.
+Manômetro. Deve indicar 0 bar antes de começar o trabalho.
+压力表。开始作业前必须读数为 0 bar。
+Манометр. Перед началом работы он должен показывать 0 бар.
+Manometr. Przed rozpoczęciem pracy musi wskazywać 0 bar.
+Manométer. A munka megkezdése előtt 0 bart kell mutatnia.
+Manómetro. Debe marcar 0 bar antes de empezar el trabajo.
+
+#3599
+Point de mesure. Utilisez le détecteur ici : validez-le sur l'unité de contrôle, mesurez, puis validez-le de nouveau.
+Ponto de medição. Use o detector aqui: comprove-o na unidade de prova, meça e comprove de novo.
+测量点。在这里使用验电器：先在验证单元上验证，再测量，然后再验证一次。
+Точка измерения. Используйте здесь указатель: проверьте его на контрольном устройстве, измерьте, затем снова проверьте.
+Punkt pomiarowy. Użyj tu wskaźnika: sprawdź go na jednostce kontrolnej, zmierz, potem sprawdź ponownie.
+Mérési pont. Itt használja a vizsgálót: ellenőrizze az ellenőrző egységen, mérjen, majd ellenőrizze újra.
+Punto de medida. Use aquí el detector: compruébelo en la unidad de prueba, mida y vuelva a comprobarlo.
+
+#3600
+Non consigné
+Não bloqueado
+未上锁
+Не заблокирован
+Niezablokowany
+Nincs lezárva
+No bloqueado
+
+#3601
+Sous tension
+Energizado
+带电
+Под напряжением
+Pod napięciem
+Feszültség alatt
+Con tensión
+
+#3602
+Lecture
+Leitura
+读数
+Показание
+Odczyt
+Leolvasás
+Lectura
+
+#3603
+Ce bouton est couvert par un dispositif de consignation. Retirez-le d'abord.
+Este botão está coberto por um dispositivo de bloqueio. Remova-o primeiro.
+这个按钮被锁具盖住了。请先取下锁具。
+Эта кнопка закрыта блокирующим устройством. Сначала снимите его.
+Ten przycisk jest zakryty urządzeniem blokującym. Najpierw je zdejmij.
+Ezt a gombot zárolóeszköz takarja. Először vegye le.
+Este pulsador está cubierto por un dispositivo de bloqueo. Quítelo primero.
+
+#3604
+Pas d'alimentation de commande. Branchez la fiche bleue.
+Sem alimentação de comando. Conecte o plugue azul.
+没有控制电源。请插上蓝色插头。
+Нет питания цепи управления. Вставьте синюю вилку.
+Brak zasilania sterowania. Włóż niebieską wtyczkę.
+Nincs vezérlőfeszültség. Dugja be a kék dugaszt.
+Sin alimentación de mando. Enchufe la clavija azul.
+
+#3605
+L'arrêt d'urgence est actif. Appuyez d'abord sur RESET.
+A parada de emergência está ativa. Pressione RESET primeiro.
+急停已动作。请先按 RESET。
+Аварийный останов активен. Сначала нажмите RESET.
+Wyłącznik awaryjny jest aktywny. Najpierw naciśnij RESET.
+A vészleállító aktív. Először nyomja meg a RESET gombot.
+La parada de emergencia está activa. Pulse RESET primero.
+
+#3606
+Le moteur ne peut pas démarrer : pas de 400 V à Q1. Vérifiez la fiche rouge, MCCB A et Q1.
+O motor não pode partir: sem 400 V em Q1. Verifique o plugue vermelho, o MCCB A e o Q1.
+电机无法启动：Q1 处没有 400 V。请检查红色插头、MCCB A 和 Q1。
+Двигатель не запустится: на Q1 нет 400 В. Проверьте красную вилку, MCCB A и Q1.
+Silnik nie może ruszyć: brak 400 V na Q1. Sprawdź czerwoną wtyczkę, MCCB A i Q1.
+A motor nem tud elindulni: nincs 400 V a Q1-nél. Ellenőrizze a piros dugaszt, az MCCB A-t és a Q1-et.
+El motor no puede arrancar: no hay 400 V en Q1. Compruebe la clavija roja, el MCCB A y Q1.
+
+#3607
+Moteur M1 démarré.
+Motor M1 ligado.
+电机 M1 已启动。
+Двигатель M1 запущен.
+Silnik M1 uruchomiony.
+Az M1 motor elindult.
+Motor M1 arrancado.
+
+#3608
+Moteur arrêté. Les bornes en amont de Q1 restent sous tension.
+Motor parado. Os terminais acima do Q1 continuam energizados.
+电机已停止。Q1 上方的端子仍然带电。
+Двигатель остановлен. Клеммы перед Q1 остаются под напряжением.
+Silnik zatrzymany. Zaciski przed Q1 nadal są pod napięciem.
+A motor leállt. A Q1 feletti kapcsok még feszültség alatt vannak.
+Motor parado. Los bornes antes de Q1 siguen con tensión.
+
+#3609
+Moteur arrêté.
+Motor parado.
+电机已停止。
+Двигатель остановлен.
+Silnik zatrzymany.
+A motor leállt.
+Motor parado.
+
+#3610
+Le vérin a bougé avec de l'air piégé ! L'isolement est fermé mais de l'air était encore stocké.
+O cilindro se moveu com ar preso! O isolador está fechado, mas ainda havia ar armazenado.
+气缸靠被困的空气动作了！隔离阀已关闭，但仍储存着空气。
+Цилиндр сработал от запертого воздуха! Запорный клапан закрыт, но воздух оставался накопленным.
+Siłownik ruszył na uwięzionym powietrzu! Zawór jest zamknięty, ale powietrze nadal było zgromadzone.
+A munkahenger a bezárt levegőtől megmozdult! Az elzáró zárva van, de még volt tárolt levegő.
+¡El cilindro se movió con aire atrapado! El aislamiento está cerrado, pero aún había aire almacenado.
+
+#3611
+Le vérin est sorti.
+O cilindro avançou.
+气缸伸出。
+Цилиндр выдвинулся.
+Siłownik wysunął się.
+A munkahenger kiment.
+El cilindro salió.
+
+#3612
+Pas de pression d'air : le vérin n'a pas bougé.
+Sem pressão de ar: o cilindro não se moveu.
+没有气压：气缸没有动。
+Давления воздуха нет: цилиндр не двигался.
+Brak ciśnienia powietrza: siłownik się nie ruszył.
+Nincs légnyomás: a munkahenger nem mozdult.
+Sin presión de aire: el cilindro no se movió.
+
+#3613
+Le vérin rentre.
+O cilindro recua.
+气缸缩回。
+Цилиндр возвращается.
+Siłownik wraca.
+A munkahenger visszamegy.
+El cilindro vuelve.
+
+#3614
+Arrêt d'urgence enfoncé. La machine s'est arrêtée mais l'alimentation reste sous tension. Un arrêt d'urgence n'est pas un isolement.
+Parada de emergência acionada. A máquina parou, mas a alimentação continua energizada. Parada de emergência não é isolamento.
+已按下急停。设备停了，但供电仍然带电。急停不是隔离。
+Аварийный останов нажат. Машина остановилась, но питание под напряжением. Аварийный останов — это не изоляция.
+Wyłącznik awaryjny wciśnięty. Maszyna stanęła, ale zasilanie nadal jest pod napięciem. Wyłącznik awaryjny nie jest odłączeniem.
+A vészleállítót megnyomták. A gép leállt, de a betáplálás még feszültség alatt van. A vészleállító nem leválasztás.
+Parada de emergencia pulsada. La máquina se paró, pero la alimentación sigue con tensión. Una parada de emergencia no es aislamiento.
+
+#3615
+Arrêt d'urgence relâché.
+Parada de emergência liberada.
+急停已复位。
+Аварийный останов сброшен.
+Wyłącznik awaryjny zwolniony.
+A vészleállító feloldva.
+Parada de emergencia liberada.
+
+#3616
+Consigné. Retirez d'abord le cadenas.
+Bloqueado. Remova primeiro o cadeado.
+已上锁。请先取下挂锁。
+Заблокировано. Сначала снимите замок.
+Zablokowane. Najpierw zdejmij kłódkę.
+Le van zárva. Először vegye le a lakatot.
+Bloqueado. Quite primero el candado.
+
+#3617
+Touchez l'un des points de mesure jaunes.
+Toque em um dos pontos de medição amarelos.
+请点黄色的测量点之一。
+Нажмите на одну из жёлтых точек измерения.
+Dotknij jednego z żółtych punktów pomiarowych.
+Érintse meg az egyik sárga mérési pontot.
+Toque uno de los puntos de medida amarillos.
+
+#3618
+Choisissez d'abord le détecteur.
+Escolha o detector primeiro.
+请先拿起验电器。
+Сначала выберите указатель напряжения.
+Najpierw wybierz wskaźnik napięcia.
+Először válassza ki a vizsgálót.
+Elija primero el detector.
+
+#3619
+Rien à consigner ici. Isolez la source en amont.
+Nada para bloquear aqui. Isole a fonte a montante.
+这里没有可上锁的东西。请隔离上游电源。
+Здесь нечего блокировать. Изолируйте источник выше по цепи.
+Nie ma tu czego blokować. Odizoluj źródło przed nim.
+Itt nincs mit lezárni. Válassza le az előtte lévő forrást.
+Aquí no hay nada que bloquear. Aísle la fuente anterior.
+
+#3620
+Étiquette retirée.
+Etiqueta removida.
+标签已取下。
+Бирка снята.
+Zawieszka zdjęta.
+A címke levéve.
+Etiqueta retirada.
+
+#3621
+Cadenas retiré.
+Cadeado removido.
+挂锁已取下。
+Замок снят.
+Kłódka zdjęta.
+A lakat levéve.
+Candado retirado.
+
+#3622
+Dispositif de consignation retiré.
+Dispositivo de bloqueio removido.
+锁具已取下。
+Блокирующее устройство снято.
+Urządzenie blokujące zdjęte.
+A zárolóeszköz levéve.
+Dispositivo de bloqueo retirado.
+
+#3623
+Rien à retirer ici.
+Nada para remover aqui.
+这里没有可取下的东西。
+Здесь нечего снимать.
+Nie ma tu czego zdejmować.
+Itt nincs mit levenni.
+Aquí no hay nada que quitar.
+
+#3624
+Mettez-le d'abord en position sûre (OFF, fermé, débranché ou, pour une vanne de purge, ouvert).
+Coloque primeiro na posição segura (OFF, fechado, desconectado ou, para uma válvula de descarga, aberto).
+请先置于安全位置（OFF、关闭、拔下，泄压阀则为打开）。
+Сначала переведите в безопасное положение (OFF, закрыто, отключено или, для сбросного клапана, открыто).
+Najpierw ustaw w bezpiecznej pozycji (OFF, zamknięte, wyjęte lub, dla zaworu upustowego, otwarte).
+Először tegye biztonságos állásba (OFF, zárva, kihúzva, leeresztő szelepnél nyitva).
+Póngalo primero en posición segura (OFF, cerrado, desenchufado o, en una válvula de purga, abierto).
+
+#3625
+Une étiquette est déjà posée.
+Já existe uma etiqueta instalada.
+已经挂了标签。
+Бирка уже установлена.
+Zawieszka jest już założona.
+Már van címke felrakva.
+Ya hay una etiqueta colocada.
+
+#3626
+Étiquette posée.
+Etiqueta instalada.
+标签已挂上。
+Бирка установлена.
+Zawieszka założona.
+A címke felrakva.
+Etiqueta colocada.
+
+#3627
+Posez d'abord un dispositif de consignation. Le cadenas a besoin d'un trou.
+Instale primeiro um dispositivo de bloqueio. O cadeado precisa de um furo.
+请先装上锁具。挂锁需要一个锁孔。
+Сначала установите блокирующее устройство. Замку нужно отверстие.
+Najpierw załóż urządzenie blokujące. Kłódka potrzebuje otworu.
+Először tegyen fel zárolóeszközt. A lakathoz lyuk kell.
+Coloque primero un dispositivo de bloqueo. El candado necesita un orificio.
+
+#3628
+Plus de trou libre. Ajoutez un moraillon multi-cadenas.
+Sem furo livre. Adicione uma presilha multicadeado.
+没有空闲的锁孔。请加装多锁搭扣。
+Свободных отверстий нет. Добавьте мультизамковую накладку.
+Brak wolnego otworu. Dodaj zaczep wielokłódkowy.
+Nincs szabad lyuk. Tegyen fel többlakatos fület.
+No queda ningún orificio libre. Añada un pestillo multicandado.
+
+#3629
+Cadenas maître posé. Il n'est pas fait pour la consignation personnelle.
+Cadeado mestre instalado. Ele não serve para o bloqueio pessoal.
+已装上总钥匙挂锁。它不能用于个人上锁。
+Установлен мастер-замок. Он не предназначен для личной блокировки.
+Założono kłódkę master. Nie służy do osobistej blokady.
+Mesterkulcsos lakat felrakva. Nem személyes lezárásra való.
+Candado maestro colocado. No sirve para el bloqueo personal.
+
+#3630
+Cadenas posé.
+Cadeado instalado.
+挂锁已装上。
+Замок установлен.
+Kłódka założona.
+A lakat felrakva.
+Candado colocado.
+
+#3631
+Ce dispositif ne s'adapte pas ici.
+Este dispositivo não se encaixa aqui.
+这个锁具装不上这里。
+Это устройство здесь не подходит.
+To urządzenie tu nie pasuje.
+Ez az eszköz ide nem illik.
+Este dispositivo no encaja aquí.
+
+#3632
+Un dispositif de consignation est déjà posé.
+Já existe um dispositivo de bloqueio instalado.
+已经装了锁具。
+Блокирующее устройство уже установлено.
+Urządzenie blokujące jest już założone.
+Már van zárolóeszköz felrakva.
+Ya hay un dispositivo de bloqueo colocado.
+
+#3633
+Dispositif de consignation posé.
+Dispositivo de bloqueio instalado.
+锁具已装上。
+Блокирующее устройство установлено.
+Urządzenie blokujące założone.
+A zárolóeszköz felrakva.
+Dispositivo de bloqueo colocado.
+
+#3634
+C'est un appareil de commande. Le consigner n'isole rien.
+Este é um dispositivo de comando. Bloqueá-lo não isola nada.
+这是控制器件。给它上锁并不能隔离任何能量。
+Это устройство управления. Его блокировка ничего не изолирует.
+To urządzenie sterujące. Jego zablokowanie niczego nie odłącza.
+Ez vezérlőeszköz. A lezárása semmit nem választ le.
+Es un dispositivo de mando. Bloquearlo no aísla nada.
+
+#3635
+Détecteur validé sur l'unité de contrôle.
+Detector comprovado na unidade de prova.
+验电器已在验证单元上验证。
+Указатель проверен на контрольном устройстве.
+Wskaźnik sprawdzony na jednostce kontrolnej.
+A vizsgáló ellenőrizve az ellenőrző egységen.
+Detector comprobado en la unidad de prueba.
+
+#3636
+Jeu libre
+Modo livre
+自由练习
+Свободная игра
+Swobodne ćwiczenie
+Szabad gyakorlás
+Práctica libre
+
+#3637
+Branchez, faites tourner le tableau et essayez tout. Il n'y a pas de liste de contrôle.
+Conecte, faça o painel funcionar e experimente tudo. Não há lista de verificação.
+插上电源，让板子运行，随便试。没有检查清单。
+Включите, запустите стенд и пробуйте всё. Контрольного списка нет.
+Włącz zasilanie, uruchom tablicę i próbuj wszystkiego. Nie ma listy kontrolnej.
+Dugaszoljon be, működtesse a táblát és próbáljon ki mindent. Nincs ellenőrzőlista.
+Enchufe, ponga en marcha el panel y pruebe todo. No hay lista de comprobación.
+
+#3638
+Changer le moteur M1
+Trocar o motor M1
+更换电机 M1
+Замена двигателя M1
+Wymiana silnika M1
+Az M1 motor cseréje
+Cambiar el motor M1
+
+#3639
+Rendez le moteur M1 sûr pour intervenir.
+Deixe o motor M1 seguro para trabalhar.
+让电机 M1 处于可以安全作业的状态。
+Сделайте двигатель M1 безопасным для работы.
+Zabezpiecz silnik M1 do pracy.
+Tegye biztonságossá az M1 motort a munkához.
+Deje el motor M1 seguro para trabajar.
+
+#3640
+Q1, MCCB A ou la fiche rouge est sur OFF avec dispositif de consignation, cadenas et étiquette
+Q1, MCCB A ou o plugue vermelho está em OFF com dispositivo de bloqueio, cadeado e etiqueta
+Q1、MCCB A 或红色插头已处于 OFF/拔下，并装有锁具、挂锁和标签
+Q1, MCCB A или красная вилка в положении OFF с блокирующим устройством, замком и биркой
+Q1, MCCB A lub czerwona wtyczka jest w pozycji OFF z urządzeniem blokującym, kłódką i zawieszką
+A Q1, az MCCB A vagy a piros dugasz OFF állásban van zárolóeszközzel, lakattal és címkével
+Q1, MCCB A o la clavija roja en OFF con dispositivo de bloqueo, candado y etiqueta
+
+#3641
+Validation, mesure côté aval de Q1 (TP2) à 0 V, validation de nouveau
+Comprovar, medir no lado da saída do Q1 (TP2) = 0 V, comprovar de novo
+验证、在 Q1 出线侧（TP2）测得 0 V、再验证
+Проверка, измерение на выходе Q1 (TP2) даёт 0 В, повторная проверка
+Sprawdzenie, pomiar po stronie odbiorczej Q1 (TP2) wynosi 0 V, ponowne sprawdzenie
+Ellenőrzés, mérés a Q1 terhelési oldalán (TP2) 0 V, újabb ellenőrzés
+Comprobar, medir en el lado de salida de Q1 (TP2) = 0 V, comprobar de nuevo
+
+#3642
+Essai de démarrage après consignation : le moteur n'a pas tourné (alimentation de commande présente)
+Teste de partida após o bloqueio: o motor não funcionou (alimentação de comando ligada)
+上锁后试启动：电机没有转（控制电源已接通）
+Пробный пуск после блокировки: двигатель не запустился (питание управления включено)
+Próba uruchomienia po zablokowaniu: silnik nie ruszył (zasilanie sterowania włączone)
+Próbaindítás a lezárás után: a motor nem indult el (a vezérlőfeszültség be van kapcsolva)
+Prueba de arranque tras el bloqueo: el motor no giró (alimentación de mando conectada)
+
+#3643
+Uniquement des cadenas personnels, pas de cadenas maître
+Somente cadeados pessoais, sem cadeado mestre
+只用个人挂锁，不用总钥匙挂锁
+Только личные замки, без мастер-замка
+Tylko osobiste kłódki, bez kłódki master
+Csak személyi lakatok, mesterkulcsos lakat nélkül
+Solo candados personales, sin candado maestro
+
+#3644
+Intervenir sur le vérin pneumatique
+Fazer manutenção no cilindro pneumático
+维修气缸
+Обслуживание пневмоцилиндра
+Serwis siłownika pneumatycznego
+A pneumatikus munkahenger karbantartása
+Mantener el cilindro neumático
+
+#3645
+Rendez le vérin pneumatique sûr pour intervenir.
+Deixe o cilindro pneumático seguro para trabalhar.
+让气缸处于可以安全作业的状态。
+Сделайте пневмоцилиндр безопасным для работы.
+Zabezpiecz siłownik pneumatyczny do pracy.
+Tegye biztonságossá a pneumatikus munkahengert a munkához.
+Deje el cilindro neumático seguro para trabajar.
+
+#3646
+La vanne d'isolement d'air BV-A est fermée avec dispositif de consignation, cadenas et étiquette
+A válvula de isolamento de ar BV-A está fechada com dispositivo de bloqueio, cadeado e etiqueta
+空气隔离阀 BV-A 已关闭，并装有锁具、挂锁和标签
+Запорный клапан воздуха BV-A закрыт с блокирующим устройством, замком и биркой
+Zawór odcinający powietrza BV-A jest zamknięty z urządzeniem blokującym, kłódką i zawieszką
+A BV-A levegő-elzárószelep zárva van zárolóeszközzel, lakattal és címkével
+La válvula de aislamiento de aire BV-A está cerrada con dispositivo de bloqueo, candado y etiqueta
+
+#3647
+Vanne de purge ouverte et manomètre G1 à 0 bar
+Válvula de descarga aberta e manômetro G1 em 0 bar
+泄压阀已打开，压力表 G1 读数为 0 bar
+Сбросной клапан открыт, манометр G1 показывает 0 бар
+Zawór upustowy otwarty, a manometr G1 wskazuje 0 bar
+A leeresztő szelep nyitva van, a G1 manométer 0 bart mutat
+Válvula de purga abierta y manómetro G1 en 0 bar
+
+#3648
+Essai CYL OUT après consignation : le vérin n'a pas bougé (alimentation de commande présente)
+Teste de CYL OUT após o bloqueio: o cilindro não se moveu (alimentação de comando ligada)
+上锁后试按 CYL OUT：气缸没有动（控制电源已接通）
+Проба CYL OUT после блокировки: цилиндр не двигался (питание управления включено)
+Próba CYL OUT po zablokowaniu: siłownik się nie ruszył (zasilanie sterowania włączone)
+CYL OUT próba a lezárás után: a munkahenger nem mozdult (a vezérlőfeszültség be van kapcsolva)
+Prueba de CYL OUT tras el bloqueo: el cilindro no se movió (alimentación de mando conectada)
+
+#3649
+Inspecter le ballon d'eau
+Inspecionar o vaso de água
+检查水罐
+Осмотр водяного сосуда
+Kontrola zbiornika wody
+A víztartály ellenőrzése
+Inspeccionar el depósito de agua
+
+#3650
+Rendez le ballon d'eau sûr pour l'ouvrir.
+Deixe o vaso de água seguro para abrir.
+让水罐处于可以安全打开的状态。
+Сделайте водяной сосуд безопасным для вскрытия.
+Zabezpiecz zbiornik wody do otwarcia.
+Tegye biztonságossá a víztartályt a kinyitáshoz.
+Deje el depósito de agua seguro para abrirlo.
+
+#3651
+Pompe isolée : MCCB B ou la fiche rouge est sur OFF avec dispositif de consignation, cadenas et étiquette
+Bomba isolada: MCCB B ou o plugue vermelho está em OFF com dispositivo de bloqueio, cadeado e etiqueta
+水泵已隔离：MCCB B 或红色插头处于 OFF/拔下，并装有锁具、挂锁和标签
+Насос изолирован: MCCB B или красная вилка в положении OFF с блокирующим устройством, замком и биркой
+Pompa odizolowana: MCCB B lub czerwona wtyczka jest w pozycji OFF z urządzeniem blokującym, kłódką i zawieszką
+A szivattyú le van választva: az MCCB B vagy a piros dugasz OFF állásban van zárolóeszközzel, lakattal és címkével
+Bomba aislada: MCCB B o la clavija roja en OFF con dispositivo de bloqueo, candado y etiqueta
+
+#3652
+Validation, mesure aux bornes de la pompe (TP3) à 0 V, validation de nouveau
+Comprovar, medir nos terminais da bomba (TP3) = 0 V, comprovar de novo
+验证、在水泵端子（TP3）测得 0 V、再验证
+Проверка, измерение на клеммах насоса (TP3) даёт 0 В, повторная проверка
+Sprawdzenie, pomiar na zaciskach pompy (TP3) wynosi 0 V, ponowne sprawdzenie
+Ellenőrzés, mérés a szivattyú kapcsain (TP3) 0 V, újabb ellenőrzés
+Comprobar, medir en los bornes de la bomba (TP3) = 0 V, comprobar de nuevo
+
+#3653
+La vanne d'alimentation W1 est fermée avec dispositif de consignation, cadenas et étiquette
+A válvula de alimentação W1 está fechada com dispositivo de bloqueio, cadeado e etiqueta
+进水阀 W1 已关闭，并装有锁具、挂锁和标签
+Подающий клапан W1 закрыт с блокирующим устройством, замком и биркой
+Zawór zasilania W1 jest zamknięty z urządzeniem blokującym, kłódką i zawieszką
+A W1 bemeneti szelep zárva van zárolóeszközzel, lakattal és címkével
+La válvula de alimentación W1 está cerrada con dispositivo de bloqueo, candado y etiqueta
+
+#3654
+Vanne de vidange W3 ouverte et manomètre G4 à 0 bar
+Válvula de dreno W3 aberta e manômetro G4 em 0 bar
+排水阀 W3 已打开，压力表 G4 读数为 0 bar
+Дренажный клапан W3 открыт, манометр G4 показывает 0 бар
+Zawór spustowy W3 otwarty, a manometr G4 wskazuje 0 bar
+A W3 ürítőszelep nyitva van, a G4 manométer 0 bart mutat
+Válvula de drenaje W3 abierta y manómetro G4 en 0 bar
+
+#3655
+Intervenir sur le compresseur
+Fazer manutenção no compressor
+维修空压机
+Обслуживание компрессора
+Serwis sprężarki
+A kompresszor karbantartása
+Mantener el compresor
+
+#3656
+Rendez le compresseur et son réservoir sûrs pour intervenir.
+Deixe o compressor e seu reservatório seguros para trabalhar.
+让空压机及其储气罐处于可以安全作业的状态。
+Сделайте компрессор и его ресивер безопасными для работы.
+Zabezpiecz sprężarkę i jej zbiornik do pracy.
+Tegye biztonságossá a kompresszort és a légtartályát a munkához.
+Deje el compresor y su depósito seguros para trabajar.
+
+#3657
+Compresseur isolé : MCB C ou la fiche rouge est sur OFF avec dispositif de consignation, cadenas et étiquette
+Compressor isolado: MCB C ou o plugue vermelho está em OFF com dispositivo de bloqueio, cadeado e etiqueta
+空压机已隔离：MCB C 或红色插头处于 OFF/拔下，并装有锁具、挂锁和标签
+Компрессор изолирован: MCB C или красная вилка в положении OFF с блокирующим устройством, замком и биркой
+Sprężarka odizolowana: MCB C lub czerwona wtyczka jest w pozycji OFF z urządzeniem blokującym, kłódką i zawieszką
+A kompresszor le van választva: az MCB C vagy a piros dugasz OFF állásban van zárolóeszközzel, lakattal és címkével
+Compresor aislado: MCB C o la clavija roja en OFF con dispositivo de bloqueo, candado y etiqueta
+
+#3658
+Validation, mesure aux bornes du compresseur (TP4) à 0 V, validation de nouveau
+Comprovar, medir nos terminais do compressor (TP4) = 0 V, comprovar de novo
+验证、在空压机端子（TP4）测得 0 V、再验证
+Проверка, измерение на клеммах компрессора (TP4) даёт 0 В, повторная проверка
+Sprawdzenie, pomiar na zaciskach sprężarki (TP4) wynosi 0 V, ponowne sprawdzenie
+Ellenőrzés, mérés a kompresszor kapcsain (TP4) 0 V, újabb ellenőrzés
+Comprobar, medir en los bornes del compresor (TP4) = 0 V, comprobar de nuevo
+
+#3659
+Réservoir vidé : le manomètre G2 indique 0 bar (ouvrez la vanne d'isolement d'air et la vanne de purge)
+Reservatório esvaziado: o manômetro G2 indica 0 bar (abra a válvula de isolamento de ar e a válvula de descarga)
+储气罐已排空：压力表 G2 读数为 0 bar（打开空气隔离阀和泄压阀）
+Ресивер опорожнён: манометр G2 показывает 0 бар (откройте запорный клапан воздуха и сбросной клапан)
+Zbiornik opróżniony: manometr G2 wskazuje 0 bar (otwórz zawór odcinający powietrza i zawór upustowy)
+A légtartály kiürült: a G2 manométer 0 bart mutat (nyissa ki a levegő-elzárószelepet és a leeresztő szelepet)
+Depósito vaciado: el manómetro G2 marca 0 bar (abra la válvula de aislamiento de aire y la válvula de purga)
+
+#3660
+Choisissez une tâche à contrôler.
+Escolha um trabalho para ser verificado.
+请选择一项作业来检查。
+Выберите задачу для проверки.
+Wybierz zadanie do sprawdzenia.
+Válasszon egy munkát az ellenőrzéshez.
+Elija un trabajo para comprobar.
+
+#3661
+Vous pouvez commencer le travail en sécurité.
+É seguro começar o trabalho.
+可以安全开始作业。
+Можно безопасно начинать работу.
+Można bezpiecznie rozpocząć pracę.
+Biztonságosan megkezdheti a munkát.
+Es seguro empezar el trabajo.
+
+#3662
+Pas encore sûr. Voyez la liste de contrôle.
+Ainda não é seguro. Veja a lista de verificação.
+还不安全。请看检查清单。
+Пока небезопасно. Смотрите контрольный список.
+Jeszcze nie jest bezpiecznie. Zobacz listę kontrolną.
+Még nem biztonságos. Nézze meg az ellenőrzőlistát.
+Todavía no es seguro. Vea la lista de comprobación.
+
+#3663
+Branchez les deux fiches et démarrez le moteur.
+Conecte os dois plugues e ligue o motor.
+插上两个插头并启动电机。
+Вставьте обе вилки и запустите двигатель.
+Włóż obie wtyczki i uruchom silnik.
+Dugja be mindkét dugaszt és indítsa el a motort.
+Enchufe las dos clavijas y arranque el motor.
+
+#3664
+1. Arrêtez normalement la machine avec STOP.
+1. Pare a máquina normalmente com STOP.
+1. 用 STOP 正常停机。
+1. Штатно остановите машину кнопкой STOP.
+1. Zatrzymaj maszynę normalnie przyciskiem STOP.
+1. Állítsa le a gépet normál módon a STOP gombbal.
+1. Pare la máquina normalmente con STOP.
+
+#3665
+2. Mettez le sectionneur Q1 sur 0.
+2. Coloque o seccionador Q1 em 0.
+2. 把隔离开关 Q1 扳到 0。
+2. Переведите разъединитель Q1 в положение 0.
+2. Ustaw rozłącznik Q1 na 0.
+2. Állítsa a Q1 szakaszolót 0 állásba.
+2. Ponga el seccionador Q1 en 0.
+
+#3666
+3. Mettez votre cadenas dans le trou du sectionneur.
+3. Coloque seu cadeado no furo do seccionador.
+3. 把你的挂锁挂在隔离开关的锁孔里。
+3. Повесьте свой замок в отверстие разъединителя.
+3. Załóż swoją kłódkę w otwór rozłącznika.
+3. Tegye a lakatját a szakaszoló lyukába.
+3. Ponga su candado en el orificio del seccionador.
+
+#3667
+4. Ajoutez l'étiquette DANGER.
+4. Adicione a etiqueta DANGER.
+4. 挂上 DANGER 标签。
+4. Добавьте бирку DANGER.
+4. Dodaj zawieszkę DANGER.
+4. Tegye fel a DANGER címkét.
+4. Añada la etiqueta DANGER.
+
+#3668
+5. Validez le détecteur sur l'unité de contrôle.
+5. Comprove o detector na unidade de prova.
+5. 在验证单元上验证验电器。
+5. Проверьте указатель на контрольном устройстве.
+5. Sprawdź wskaźnik na jednostce kontrolnej.
+5. Ellenőrizze a vizsgálót az ellenőrző egységen.
+5. Compruebe el detector en la unidad de prueba.
+
+#3669
+6. Mesurez côté aval de Q1 : 0 V.
+6. Meça no lado da saída do Q1: 0 V.
+6. 在 Q1 出线侧测量：0 V。
+6. Измерьте на выходе Q1: 0 В.
+6. Zmierz po stronie odbiorczej Q1: 0 V.
+6. Mérjen a Q1 terhelési oldalán: 0 V.
+6. Mida en el lado de salida de Q1: 0 V.
+
+#3670
+7. Validez de nouveau le détecteur.
+7. Comprove o detector de novo.
+7. 再次验证验电器。
+7. Снова проверьте указатель.
+7. Sprawdź wskaźnik ponownie.
+7. Ellenőrizze újra a vizsgálót.
+7. Compruebe de nuevo el detector.
+
+#3671
+8. Essayez START : rien ne bouge. Vous pouvez travailler en sécurité.
+8. Tente START: nada se move. É seguro trabalhar.
+8. 试按 START：什么都没动。可以安全作业。
+8. Нажмите START: ничего не движется. Работать безопасно.
+8. Spróbuj START: nic się nie rusza. Można bezpiecznie pracować.
+8. Próbálja a START gombot: semmi sem mozdul. Biztonságosan dolgozhat.
+8. Pruebe START: nada se mueve. Es seguro trabajar.
+
+#3672
+Branchez les deux fiches. Le réservoir se remplit.
+Conecte os dois plugues. O reservatório enche.
+插上两个插头。储气罐开始充气。
+Вставьте обе вилки. Ресивер наполняется.
+Włóż obie wtyczki. Zbiornik się napełnia.
+Dugja be mindkét dugaszt. A légtartály megtelik.
+Enchufe las dos clavijas. El depósito se llena.
+
+#3673
+1. Fermez la vanne d'isolement d'air BV-A.
+1. Feche a válvula de isolamento de ar BV-A.
+1. 关闭空气隔离阀 BV-A。
+1. Закройте запорный клапан воздуха BV-A.
+1. Zamknij zawór odcinający powietrza BV-A.
+1. Zárja el a BV-A levegő-elzárószelepet.
+1. Cierre la válvula de aislamiento de aire BV-A.
+
+#3674
+2. Posez le dispositif de consignation de vanne.
+2. Instale o dispositivo de bloqueio da válvula.
+2. 装上阀门锁具。
+2. Установите блокировку клапана.
+2. Załóż blokadę zaworu.
+2. Tegye fel a szelep zárolóeszközét.
+2. Coloque el bloqueo de la válvula.
+
+#3675
+3. Ajoutez votre cadenas.
+3. Adicione seu cadeado.
+3. 挂上你的挂锁。
+3. Повесьте свой замок.
+3. Dodaj swoją kłódkę.
+3. Tegye fel a lakatját.
+3. Añada su candado.
+
+#3676
+5. Ouvrez la vanne de purge pour libérer l'air piégé.
+5. Abra a válvula de descarga para liberar o ar preso.
+5. 打开泄压阀，释放被困的空气。
+5. Откройте сбросной клапан, чтобы выпустить запертый воздух.
+5. Otwórz zawór upustowy, aby zwolnić uwięzione powietrze.
+5. Nyissa ki a leeresztő szelepet, hogy a bezárt levegő távozzon.
+5. Abra la válvula de purga para liberar el aire atrapado.
+
+#3677
+6. Attendez que le manomètre G1 indique 0 bar.
+6. Espere até o manômetro G1 indicar 0 bar.
+6. 等压力表 G1 读数降到 0 bar。
+6. Дождитесь, пока манометр G1 покажет 0 бар.
+6. Poczekaj, aż manometr G1 wskaże 0 bar.
+6. Várja meg, amíg a G1 manométer 0 bart mutat.
+6. Espere a que el manómetro G1 marque 0 bar.
+
+#3678
+7. Essayez CYL OUT : le vérin ne bouge pas.
+7. Tente CYL OUT: o cilindro não se move.
+7. 试按 CYL OUT：气缸不动。
+7. Нажмите CYL OUT: цилиндр не двигается.
+7. Spróbuj CYL OUT: siłownik się nie rusza.
+7. Próbálja a CYL OUT gombot: a munkahenger nem mozdul.
+7. Pruebe CYL OUT: el cilindro no se mueve.
+
+#3679
+Branchez les deux fiches. La pompe monte en pression.
+Conecte os dois plugues. A bomba cria pressão.
+插上两个插头。水泵开始建压。
+Вставьте обе вилки. Насос создаёт давление.
+Włóż obie wtyczki. Pompa buduje ciśnienie.
+Dugja be mindkét dugaszt. A szivattyú nyomást épít.
+Enchufe las dos clavijas. La bomba genera presión.
+
+#3680
+1. Mettez MCCB B sur OFF et consignez-le.
+1. Desligue o MCCB B e bloqueie.
+1. 把 MCCB B 断开并上锁。
+1. Отключите MCCB B и заблокируйте его.
+1. Wyłącz MCCB B i zablokuj go.
+1. Kapcsolja ki az MCCB B-t és zárja le.
+1. Apague el MCCB B y bloquéelo.
+
+#3681
+2. Validation, mesure aux bornes de la pompe, validation de nouveau.
+2. Comprovar, medir nos terminais da bomba, comprovar de novo.
+2. 验证、测量水泵端子、再验证。
+2. Проверка, измерение на клеммах насоса, повторная проверка.
+2. Sprawdzenie, pomiar na zaciskach pompy, ponowne sprawdzenie.
+2. Ellenőrzés, mérés a szivattyú kapcsain, újabb ellenőrzés.
+2. Comprobar, medir en los bornes de la bomba, comprobar de nuevo.
+
+#3682
+3. Fermez la vanne d'alimentation W1 et consignez-la.
+3. Feche a válvula de alimentação W1 e bloqueie.
+3. 关闭进水阀 W1 并上锁。
+3. Закройте подающий клапан W1 и заблокируйте его.
+3. Zamknij zawór zasilania W1 i zablokuj go.
+3. Zárja el a W1 bemeneti szelepet és zárja le.
+3. Cierre la válvula de alimentación W1 y bloquéela.
+
+#3683
+4. Ouvrez la vanne de vidange W3 pour libérer la pression.
+4. Abra a válvula de dreno W3 para liberar a pressão.
+4. 打开排水阀 W3 释放压力。
+4. Откройте дренажный клапан W3, чтобы сбросить давление.
+4. Otwórz zawór spustowy W3, aby zwolnić ciśnienie.
+4. Nyissa ki a W3 ürítőszelepet a nyomás leeresztéséhez.
+4. Abra la válvula de drenaje W3 para liberar la presión.
+
+#3684
+5. Attendez que le manomètre G4 indique 0 bar.
+5. Espere até o manômetro G4 indicar 0 bar.
+5. 等压力表 G4 读数降到 0 bar。
+5. Дождитесь, пока манометр G4 покажет 0 бар.
+5. Poczekaj, aż manometr G4 wskaże 0 bar.
+5. Várja meg, amíg a G4 manométer 0 bart mutat.
+5. Espere a que el manómetro G4 marque 0 bar.
+
+#3685
+Branchez les deux fiches. Le compresseur remplit le réservoir.
+Conecte os dois plugues. O compressor enche o reservatório.
+插上两个插头。空压机给储气罐充气。
+Вставьте обе вилки. Компрессор наполняет ресивер.
+Włóż obie wtyczki. Sprężarka napełnia zbiornik.
+Dugja be mindkét dugaszt. A kompresszor megtölti a légtartályt.
+Enchufe las dos clavijas. El compresor llena el depósito.
+
+#3686
+1. Mettez MCB C sur OFF et consignez-le.
+1. Desligue o MCB C e bloqueie.
+1. 把 MCB C 断开并上锁。
+1. Отключите MCB C и заблокируйте его.
+1. Wyłącz MCB C i zablokuj go.
+1. Kapcsolja ki az MCB C-t és zárja le.
+1. Apague el MCB C y bloquéelo.
+
+#3687
+2. Validation, mesure aux bornes du compresseur, validation de nouveau.
+2. Comprovar, medir nos terminais do compressor, comprovar de novo.
+2. 验证、测量空压机端子、再验证。
+2. Проверка, измерение на клеммах компрессора, повторная проверка.
+2. Sprawdzenie, pomiar na zaciskach sprężarki, ponowne sprawdzenie.
+2. Ellenőrzés, mérés a kompresszor kapcsain, újabb ellenőrzés.
+2. Comprobar, medir en los bornes del compresor, comprobar de nuevo.
+
+#3688
+3. Ouvrez la vanne de purge pour vider le réservoir.
+3. Abra a válvula de descarga para esvaziar o reservatório.
+3. 打开泄压阀排空储气罐。
+3. Откройте сбросной клапан, чтобы опорожнить ресивер.
+3. Otwórz zawór upustowy, aby opróżnić zbiornik.
+3. Nyissa ki a leeresztő szelepet a légtartály kiürítéséhez.
+3. Abra la válvula de purga para vaciar el depósito.
+
+#3689
+4. Attendez que le manomètre G2 indique 0 bar.
+4. Espere até o manômetro G2 indicar 0 bar.
+4. 等压力表 G2 读数降到 0 bar。
+4. Дождитесь, пока манометр G2 покажет 0 бар.
+4. Poczekaj, aż manometr G2 wskaże 0 bar.
+4. Várja meg, amíg a G2 manométer 0 bart mutat.
+4. Espere a que el manómetro G2 marque 0 bar.
+
+#3690
+Choisissez d'abord une tâche.
+Escolha um trabalho primeiro.
+请先选择一项作业。
+Сначала выберите задачу.
+Najpierw wybierz zadanie.
+Először válasszon egy munkát.
+Elija primero un trabajo.
+
+#3691
+Air
+Ar
+空气
+Воздух
+Powietrze
+Levegő
+Aire
+
+#3692
+Eau
+Água
+水
+Вода
+Woda
+Víz
+Agua
+
+#3693
+Kit
+Kit
+工具包
+Набор
+Zestaw
+Készlet
+Kit
+
+#3694
+Touchez une pièce pour la manœuvrer. Choisissez un outil dans le kit, puis touchez une pièce pour le poser.
+Toque em uma peça para operá-la. Escolha uma ferramenta no kit e toque em uma peça para instalá-la.
+点一个部件来操作它。先从工具包里选一件工具，再点部件把它装上去。
+Нажмите на деталь, чтобы ею управлять. Выберите инструмент в наборе, затем нажмите на деталь, чтобы его установить.
+Dotknij części, aby nią sterować. Wybierz narzędzie z zestawu, a potem dotknij części, aby je założyć.
+Érintsen meg egy alkatrészt a működtetéséhez. Válasszon eszközt a készletből, majd érintsen meg egy alkatrészt a felrakásához.
+Toque una pieza para manejarla. Elija una herramienta del kit y luego toque una pieza para colocarla.
+
+#3695
+Tableau d'entraînement
+Painel de treinamento
+训练板
+Тренировочный стенд
+Tablica ćwiczeniowa
+Gyakorlótábla
+Panel de práctica
+
+#3696
+Branchez les fiches du mur, faites tourner le tableau, puis isolez-le comme sur le site.
+Conecte os plugues da parede, faça o painel funcionar e depois isole-o como faria no local.
+把墙上的插头插上，让板子运行，然后像在现场那样隔离它。
+Вставьте вилки со стены, запустите стенд, затем изолируйте его так, как делали бы на объекте.
+Włóż wtyczki ze ściany, uruchom tablicę, a potem odizoluj ją tak, jak na obiekcie.
+Dugja be a falon lévő dugaszokat, működtesse a táblát, majd válassza le úgy, ahogy a helyszínen tenné.
+Enchufe las clavijas de la pared, ponga en marcha el panel y luego aíslelo como lo haría en la planta.
+
+#3697
+Tâche
+Trabalho
+作业
+Задача
+Zadanie
+Munka
+Trabajo
+
+#3698
+Les deux fiches sont branchées.
+Os dois plugues estão conectados.
+两个插头都已插上。
+Обе вилки вставлены.
+Obie wtyczki są włożone.
+Mindkét dugasz be van dugva.
+Las dos clavijas están enchufadas.
+
+#3699
+Mettre sous tension
+Ligar
+通电
+Включить
+Włącz zasilanie
+Bekapcsolás
+Poner en marcha
+
+#3700
+Montre-moi
+Mostre-me
+演示给我看
+Покажи
+Pokaż mi
+Mutasd meg
+Muéstrame
+
+#3701
+Vérifier mon isolement
+Verificar meu isolamento
+检查我的隔离
+Проверить мою изоляцию
+Sprawdź moje odłączenie
+Ellenőrizze a leválasztásomat
+Comprobar mi aislamiento
+
+#3702
+Afficher l'énergie active sur le tableau
+Mostrar a energia ativa no painel
+在板上显示带电/带压状态
+Показывать активную энергию на стенде
+Pokaż aktywną energię na tablicy
+Az aktív energia megjelenítése a táblán
+Mostrar la energía activa en el panel
+
+#3703
+Vous pouvez commencer le travail en sécurité
+É seguro começar o trabalho
+可以安全开始作业
+Можно безопасно начинать работу
+Można bezpiecznie rozpocząć pracę
+Biztonságosan megkezdheti a munkát
+Es seguro empezar el trabajo
+
+#3704
+Pas encore sûr
+Ainda não é seguro
+还不安全
+Пока небезопасно
+Jeszcze nie jest bezpiecznie
+Még nem biztonságos
+Todavía no es seguro
+
+#3705
+Le vérin a bougé avec de l'air piégé pendant votre essai.
+O cilindro se moveu com ar preso durante a sua sessão.
+在你的操作过程中，气缸靠被困的空气动作过。
+Во время вашей работы цилиндр сработал от запертого воздуха.
+Podczas ćwiczenia siłownik ruszył na uwięzionym powietrzu.
+A gyakorlás közben a munkahenger a bezárt levegőtől megmozdult.
+Durante su sesión el cilindro se movió con aire atrapado.
+
+#3706
+Clé : retirer une étiquette, un cadenas ou un dispositif
+Chave: remover uma etiqueta, um cadeado ou um dispositivo
+钥匙：取下标签、挂锁或锁具
+Ключ: снять бирку, замок или устройство
+Klucz: zdjąć zawieszkę, kłódkę lub urządzenie
+Kulcs: címke, lakat vagy eszköz levétele
+Llave: quitar una etiqueta, un candado o un dispositivo
+
+#3707
+rien
+nada
+无
+ничего
+nic
+semmi
+nada
+
+#3708
+Dans la main
+Na mão
+手里拿着
+В руке
+W ręku
+A kezében
+En la mano
+
+#3709
+Valider le détecteur
+Comprovar o detector
+验证验电器
+Проверить указатель
+Sprawdź wskaźnik
+Vizsgáló ellenőrzése
+Comprobar el detector
+
+#3710
+Touchez un point de mesure jaune sur le tableau.
+Toque em um ponto de medição amarelo no painel.
+点板上的黄色测量点。
+Нажмите на жёлтую точку измерения на стенде.
+Dotknij żółtego punktu pomiarowego na tablicy.
+Érintsen meg egy sárga mérési pontot a táblán.
+Toque un punto de medida amarillo en el panel.
+
+#3711
+Journal
+Registro
+记录
+Журнал
+Dziennik
+Napló
+Registro

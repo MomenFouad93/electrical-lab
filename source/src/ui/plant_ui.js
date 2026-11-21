@@ -1,0 +1,378 @@
+/* Plant view: process canvas (tanks, pumps, pipes) linked to the bench circuit. */
+(function (g) {
+  const EL = g.EL, h = EL.h, ui = EL.ui, T = ui.T, $ = ui.$;
+  const PL = EL.plant, PA = EL.plantArt;
+  const NS = 'http://www.w3.org/2000/svg';
+  const PU = (ui.plant = { sel: null, selPipe: null, view: { x: 40, y: 40, k: 0.8 }, pending: null });
+  const B = () => EL.bench;
+  const C = () => B().ed.c;
+  const plant = (make) => { const c = C(); if (!c.plant && make) c.plant = PL.newPlant(); return c.plant; };
+  const esc = PA.esc;
+
+  let host, svg, world, layPipes, layUnits, layPorts, layOver, tools, lastRender = 0;
+
+  PU.init = function () {
+    host = $('#plantHost');
+    svg = document.createElementNS(NS, 'svg');
+    svg.setAttribute('class', 'cv plcv');
+    svg.innerHTML = PA.defs + '<rect x="-20000" y="-20000" width="40000" height="40000" fill="url(#plGrid)" class="pl-bg"/>';
+    world = document.createElementNS(NS, 'g');
+    layPipes = document.createElementNS(NS, 'g'); layUnits = document.createElementNS(NS, 'g'); layPorts = document.createElementNS(NS, 'g'); layOver = document.createElementNS(NS, 'g');
+    world.append(layPipes, layUnits, layPorts, layOver);
+    svg.appendChild(world);
+    host.appendChild(svg);
+    chrome();
+    ui.onRefresh(() => { if (tools) tools.remove(); const old = $('#plEmpty'); if (old) old.remove(); chrome(); PU.render(true); });
+    bindPointer();
+  };
+
+  function chrome() {
+    tools = h('div', { class: 'pl-tools' },
+      h('button', { class: 'btn sm pri', onclick: () => PU.addMenu(), text: '+ ' + T(['Add', 'إضافة']) }),
+      h('button', { class: 'btn sm', onclick: () => PU.zoom(1.2), text: '+', 'aria-label': 'zoom in' }), h('button', { class: 'btn sm', onclick: () => PU.zoom(1 / 1.2), text: '−', 'aria-label': 'zoom out' }),
+      h('button', { class: 'btn sm', onclick: () => PU.fit(), text: T(['Fit', 'ملّي']) }),
+      h('button', { class: 'btn sm bad pl-del', onclick: () => PU.delSel(), text: T(['Delete', 'حذف']) }));
+    host.appendChild(tools);
+    host.appendChild(h('div', { class: 'pl-empty', id: 'plEmpty' },
+      h('b', { text: T(['No process yet', 'مفيش عملية لسه']) }),
+      h('p', { class: 'mute', text: T(['Add a tank, a pump and valves, then join their ports with pipes. Link the pump to a motor on the panel and the sensors to floats and transmitters.', 'ضيف تانك وطلمبة ومحابس، وبعدين وصّل أطرافهم بمواسير. اربط الطلمبة بموتور في اللوحة والحساسات بفلوتات وترانسميترات.']) }),
+      h('div', { class: 'row wrap', style: { justifyContent: 'center' } },
+        h('button', { class: 'btn pri', onclick: () => PU.addMenu(), text: '+ ' + T(['Add a unit', 'ضيف وحدة']) }),
+        h('button', { class: 'btn', onclick: () => ui.show('projects'), text: T(['Open a ready project', 'افتح مشروع جاهز']) }))));
+  }
+
+  /* ---------- view ---------- */
+  function applyView() { world.setAttribute('transform', `translate(${PU.view.x},${PU.view.y}) scale(${PU.view.k})`); }
+  PU.zoom = function (f, cx, cy) {
+    const r = host.getBoundingClientRect(), v = PU.view;
+    cx = cx == null ? r.width / 2 : cx - r.left; cy = cy == null ? r.height / 2 : cy - r.top;
+    const k = Math.max(0.15, Math.min(3, v.k * f));
+    v.x = cx - ((cx - v.x) * k) / v.k; v.y = cy - ((cy - v.y) * k) / v.k; v.k = k; applyView();
+  };
+  PU.fit = function () {
+    const pl = plant(); if (!host) return;
+    const r = host.getBoundingClientRect();
+    if (!pl || !pl.units.length || !r.width) { PU.view = { x: 40, y: 40, k: 0.8 }; applyView(); return; }
+    let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9;
+    for (const u of pl.units) { const d = PL.defs[u.type]; x0 = Math.min(x0, u.x - 20); y0 = Math.min(y0, u.y - 40); x1 = Math.max(x1, u.x + d.w + 110); y1 = Math.max(y1, u.y + d.h + 50); }
+    const phone = r.width < 700;
+    let k = Math.max(0.2, Math.min(1.4, Math.min(r.width / (x1 - x0), (r.height - 40) / (y1 - y0)) * 0.95));
+    if (phone && k < 0.5) { const t = pl.units.find((u) => u.type === 'TANK') || pl.units[0]; PU.view.k = 0.55; PU.focus(t, true); return; }
+    PU.view = { k, x: (r.width - (x1 - x0) * k) / 2 - x0 * k, y: 40 + (r.height - 40 - (y1 - y0) * k) / 2 - y0 * k };
+    applyView();
+  };
+  PU.focus = function (u, force) {
+    if (!u || !host) return;
+    const r = host.getBoundingClientRect(), d = PL.defs[u.type], v = PU.view;
+    const sx = v.x + (u.x + d.w / 2) * v.k, sy = v.y + (u.y + d.h / 2) * v.k;
+    if (force || sx < 30 || sx > r.width - 30 || sy < 50 || sy > r.height - 30 || v.k < 0.5) { if (v.k < 0.5 && r.width < 700) v.k = 0.55; v.x = r.width / 2 - (u.x + d.w / 2) * v.k; v.y = Math.min(r.height * 0.4, r.height / 2) - (u.y + d.h / 2) * v.k; applyView(); }
+  };
+  const toWorld = (cx, cy) => { const r = svg.getBoundingClientRect(), v = PU.view; return { x: (cx - r.left - v.x) / v.k, y: (cy - r.top - v.y) / v.k }; };
+  PU.toWorld = toWorld;
+
+  /* ---------- render ---------- */
+  PU.render = function (force) {
+    if (!svg) return;
+    const pl = plant(), now = performance.now();
+    if (!force && now - lastRender < 90) return;
+    lastRender = now;
+    const empty = !pl || !pl.units.length;
+    const em = $('#plEmpty'); if (em) em.style.display = empty ? '' : 'none';
+    tools.querySelector('.pl-del').style.display = PU.sel || PU.selPipe ? '' : 'none';
+    if (!pl) { layPipes.innerHTML = ''; layUnits.innerHTML = ''; layPorts.innerHTML = ''; layOver.innerHTML = ''; return; }
+    if (PU.sel && !pl.units.some((u) => u.id === PU.sel)) PU.sel = null;
+    if (PU.selPipe && !pl.pipes.some((p) => p.id === PU.selPipe)) PU.selPipe = null;
+    let ps = '';
+    for (const p of pl.pipes) {
+      const [ia, pa] = p.a.split('.'), [ib, pb] = p.b.split('.');
+      const ua = pl.units.find((u) => u.id === ia), ub = pl.units.find((u) => u.id === ib);
+      if (!ua || !ub) continue;
+      const A = PL.portPos(ua, pa), Bp = PL.portPos(ub, pb);
+      if (!A || !Bp) continue;
+      const q = PL.pipeQ(pl, p.id), d = q < 0 ? PA.route(Bp, A) : PA.route(A, Bp), flow = Math.abs(q) > 0.3;
+      const T0 = PL.tempAt(pl, p.a), hot = T0 > 38;
+      ps += `<g data-pipe="${p.id}">` + `<path d="${d}" class="pl-hit"/>` +
+        `<path d="${d}" fill="none" stroke="${PU.selPipe === p.id ? '#47BFD9' : '#8b96a8'}" stroke-width="13" stroke-linejoin="round"/>` +
+        `<path d="${d}" fill="none" stroke="#c9d1dc" stroke-width="3" stroke-linejoin="round" opacity=".35" transform="translate(0,-3)"/>` +
+        `<path d="${d}" fill="none" stroke="${flow ? (hot ? '#ff7a55' : '#3aa2e6') : '#2a3446'}" stroke-width="6" stroke-linejoin="round"/>` +
+        (flow ? `<path d="${d}" class="pl-flow" style="animation-duration:${Math.max(0.25, 6 / Math.min(60, Math.abs(q))).toFixed(2)}s"/>` : '') +
+        flange(A) + flange(Bp) + '</g>';
+    }
+    layPipes.innerHTML = ps;
+    let us = '';
+    const mode = B().ed.mode;
+    for (const u of pl.units) us += `<g data-u="${u.id}" transform="translate(${u.x},${u.y})" class="pl-unit${PU.sel === u.id ? ' sel' : ''}">${PU.sel === u.id ? selBox(u) : ''}${PA.draw(u)}</g>`;
+    layUnits.innerHTML = us;
+    let po = '';
+    if (mode === 'build' || PU.pending) {
+      const used = new Set(); for (const p of pl.pipes) { used.add(p.a); used.add(p.b); }
+      for (const u of pl.units) for (const q of PL.portsOf(u)) {
+        const ref = u.id + '.' + q.id, x = u.x + q.x, y = u.y + q.y, pend = PU.pending === ref;
+        po += `<g data-port="${ref}"><circle cx="${x}" cy="${y}" r="15" fill="transparent"/><circle cx="${x}" cy="${y}" r="${pend ? 8 : 5.5}" class="pl-port${used.has(ref) ? ' used' : ''}${pend ? ' pend' : ''}"/></g>`;
+      }
+    }
+    layPorts.innerHTML = po;
+  };
+  function flange(P) {
+    const v = P.dir === 'u' || P.dir === 'd';
+    const o = { l: [-14, 0], r: [14, 0], u: [0, -14], d: [0, 14] }[P.dir];
+    const x = P.x + o[0], y = P.y + o[1];
+    return v ? `<rect x="${x - 11}" y="${y - 2.5}" width="22" height="5" rx="1" fill="#aab4c3" stroke="#3d4656"/>` : `<rect x="${x - 2.5}" y="${y - 11}" width="5" height="22" rx="1" fill="#aab4c3" stroke="#3d4656"/>`;
+  }
+  function selBox(u) { const d = PL.defs[u.type]; return `<rect x="-8" y="-24" width="${d.w + 16}" height="${d.h + 40}" rx="8" fill="rgba(71,191,217,.08)" stroke="#47BFD9" stroke-dasharray="6 4"/>`; }
+  PU.frame = function () { if (B().view === 'plant') PU.render(); };
+
+  /* ---------- pointer ---------- */
+  function bindPointer() {
+    const ptrs = new Map();
+    let g0 = null, pinch = null;
+    svg.addEventListener('pointerdown', (e) => {
+      svg.setPointerCapture(e.pointerId);
+      ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinch = { d: Math.hypot(a.x - b.x, a.y - b.y), k: PU.view.k }; g0 = null; return; }
+      const t = e.target.closest ? e.target : null;
+      const port = t && t.closest('[data-port]'), unit = t && t.closest('[data-u]'), pipe = t && t.closest('[data-pipe]'), act = t && t.closest('[data-act]');
+      g0 = { x: e.clientX, y: e.clientY, moved: false, vx: PU.view.x, vy: PU.view.y };
+      if (port) { g0.port = port.dataset.port; return; }
+      if (unit) { const u = plant().units.find((x) => x.id === unit.dataset.u); g0.unit = u; g0.ux = u.x; g0.uy = u.y; g0.act = act && act.dataset.act; return; }
+      if (pipe) { g0.pipe = pipe.dataset.pipe; return; }
+      g0.bg = true;
+    });
+    svg.addEventListener('pointermove', (e) => {
+      if (!ptrs.has(e.pointerId)) return;
+      ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      if (pinch && ptrs.size === 2) { const [a, b] = [...ptrs.values()]; const d = Math.hypot(a.x - b.x, a.y - b.y); PU.zoom((pinch.k * d) / pinch.d / PU.view.k, (a.x + b.x) / 2, (a.y + b.y) / 2); return; }
+      if (!g0) return;
+      const dx = e.clientX - g0.x, dy = e.clientY - g0.y;
+      if (!g0.moved && Math.hypot(dx, dy) > 7) { g0.moved = true; if (g0.unit && B().ed.mode === 'build') B().ed.push(); }
+      if (!g0.moved) return;
+      if (g0.port) { const w = toWorld(e.clientX, e.clientY), a = portXY(g0.port); layOver.innerHTML = `<line x1="${a.x}" y1="${a.y}" x2="${w.x}" y2="${w.y}" class="pl-rubber"/>`; return; }
+      if (g0.unit && B().ed.mode === 'build') { g0.unit.x = Math.round((g0.ux + dx / PU.view.k) / 10) * 10; g0.unit.y = Math.round((g0.uy + dy / PU.view.k) / 10) * 10; PU.render(true); return; }
+      if (g0.bg || g0.pipe || (g0.unit && B().ed.mode !== 'build')) { PU.view.x = g0.vx + dx; PU.view.y = g0.vy + dy; applyView(); }
+    });
+    const end = (e) => {
+      ptrs.delete(e.pointerId);
+      if (ptrs.size < 2) pinch = null;
+      if (!g0) return;
+      const G = g0; g0 = null; layOver.innerHTML = '';
+      if (G.port) {
+        if (G.moved) { const el = document.elementFromPoint(e.clientX, e.clientY), tp = el && el.closest && el.closest('[data-port]'); if (tp) pipeTo(G.port, tp.dataset.port); }
+        else if (PU.pending && PU.pending !== G.port) pipeTo(PU.pending, G.port);
+        else { PU.pending = PU.pending === G.port ? null : G.port; hint(); PU.render(true); }
+        return;
+      }
+      if (G.moved) { if (G.unit) changed(); return; }
+      if (G.unit) {
+        if (G.act === 'toggle' || (G.unit.type === 'VALVE' && B().ed.mode === 'test')) toggleValve(G.unit);
+        select(G.unit.id, null);
+      } else if (G.pipe) select(null, G.pipe);
+      else { select(null, null); if (PU.pending) { PU.pending = null; hint(); } }
+    };
+    svg.addEventListener('pointerup', end); svg.addEventListener('pointercancel', end);
+    svg.addEventListener('wheel', (e) => { e.preventDefault(); PU.zoom(e.deltaY < 0 ? 1.12 : 1 / 1.12, e.clientX, e.clientY); }, { passive: false });
+  }
+  function portXY(ref) { const [id, port] = ref.split('.'); const u = plant().units.find((x) => x.id === id); return PL.portPos(u, port); }
+  function hint() { const ed = B().ed; if (ed.hint) ed.hint(PU.pending ? T(['Tap another port to lay the pipe', 'اضغط على طرف تاني عشان تمد الماسورة']) : ''); }
+  function pipeTo(a, b) {
+    PU.pending = null; hint();
+    if (a.split('.')[0] === b.split('.')[0]) { ui.toast(['A pipe needs two different units.', 'الماسورة محتاجة وحدتين مختلفتين.'], 'warn'); PU.render(true); return; }
+    const pl0 = plant(true);
+    if (pl0.pipes.some((x) => (x.a === a && x.b === b) || (x.a === b && x.b === a))) { ui.toast(['These two ports are already joined.', 'الطرفين دول متوصلين أصلا.'], 'warn'); PU.render(true); return; }
+    B().ed.push();
+    const p = PL.connect(pl0, a, b);
+    if (p) { ui.click(); ui.toast(T(['Pipe laid: ', 'اتمدت ماسورة: ']) + PL.refLabel(plant(), a) + ' → ' + PL.refLabel(plant(), b), 'ok', 2500); PU.selPipe = p.id; PU.sel = null; }
+    changed();
+  }
+  function toggleValve(u) {
+    B().ed.push(); u.props.open = !u.props.open; ui.click();
+    ui.toast(u.tag + ': ' + (u.props.open ? T(['opening', 'بيفتح']) : T(['closing', 'بيقفل'])), '', 1800);
+    changed();
+  }
+  function changed() { PU.render(true); PU.inspector(); B().save(); }
+  function select(id, pipe) { PU.sel = id; PU.selPipe = pipe; PU.render(true); PU.inspector(); if (id || pipe) { if (window.innerWidth <= 900 && !$('#side').classList.contains('open')) { /* keep canvas free on phones */ } } }
+  PU.select = select;
+  PU.delSel = function () {
+    const pl = plant(); if (!pl) return;
+    if (PU.sel) { B().ed.push(); PL.remove(pl, PU.sel); PU.sel = null; changed(); }
+    else if (PU.selPipe) { B().ed.push(); pl.pipes = pl.pipes.filter((p) => p.id !== PU.selPipe); PU.selPipe = null; changed(); }
+  };
+  PU.keydown = function (e) {
+    if (/INPUT|TEXTAREA|SELECT/.test((e.target || {}).tagName || '')) return;
+    if ((e.key === 'Delete' || e.key === 'Backspace') && B().ed.mode === 'build') { PU.delSel(); e.preventDefault(); }
+    else if ((e.ctrlKey || e.metaKey) && (e.key === 'z' || e.key === 'Z')) { e.shiftKey ? B().ed.redo() : B().ed.undo(); e.preventDefault(); }
+    else if ((e.ctrlKey || e.metaKey) && e.key === 'y') { B().ed.redo(); e.preventDefault(); }
+    else if (e.key === 'Escape') { PU.pending = null; hint(); select(null, null); }
+  };
+
+  /* ---------- add units ---------- */
+  PU.add = function (type, x, y) {
+    const pl = plant(true), d = PL.defs[type];
+    if (x == null) {
+      if (pl.units.length) { let x1 = -1e9, y0 = 1e9; for (const o of pl.units) { x1 = Math.max(x1, o.x + PL.defs[o.type].w); y0 = Math.min(y0, o.y); } x = x1 + 70; y = y0 + 40; }
+      else { const r = host.getBoundingClientRect(), w = toWorld(r.left + r.width / 2, r.top + r.height / 2); x = w.x - d.w / 2; y = w.y - d.h / 2; }
+    }
+    B().ed.push();
+    const u = PL.add(pl, type, Math.round(x / 10) * 10, Math.round(y / 10) * 10);
+    if (B().ed.mode !== 'build') B().setMode('build');
+    select(u.id, null); B().save();
+    PU.focus(u);
+    ui.toast(T(['Added ', 'اتضاف ']) + u.tag + '. ' + T(['Drag it into place, then tap a port to lay a pipe.', 'اسحبه لمكانه، وبعدين اضغط على طرف عشان تمد ماسورة.']), 'ok', 4000);
+    return u;
+  };
+  PU.addMenu = function () {
+    const grid = h('div', { class: 'pl-menu' });
+    const m = ui.modal([h('h3', { text: T(['Add a process unit', 'ضيف وحدة للعملية']) }), grid]);
+    for (const k of PL.order) grid.appendChild(h('button', { class: 'pl-mi', onclick: () => { m.remove(); PU.add(k); } }, previewIcon(k), h('span', { text: T(PL.defs[k].name) })));
+  };
+  function previewIcon(type) {
+    const d = PL.defs[type], u = { id: 'x', type, x: 0, y: 0, tag: d.pre + '1', props: JSON.parse(JSON.stringify(d.props)), state: {} };
+    if (d.init) d.init(u);
+    if (type === 'TANK') u.state.lvl = 55;
+    const s = document.createElementNS(NS, 'svg');
+    s.setAttribute('viewBox', `-14 -30 ${d.w + 28} ${d.h + 60}`);
+    s.innerHTML = PA.defs + PA.draw(u);
+    return s;
+  }
+  /* palette (left panel) when the Plant view is on */
+  PU.palette = function (root, q) {
+    root.innerHTML = '';
+    const term = (q || '').trim().toLowerCase();
+    const items = h('div', { class: 'pitems' });
+    for (const k of PL.order) {
+      const d = PL.defs[k];
+      if (term && !T(d.name).toLowerCase().includes(term) && !k.toLowerCase().includes(term)) continue;
+      const it = h('div', { class: 'pit', title: T(d.name) }, previewIcon(k), h('span', { text: T(d.name) }));
+      it.addEventListener('pointerdown', (e) => paletteDrag(e, k));
+      items.appendChild(it);
+    }
+    root.appendChild(h('div', { class: 'pgrp' }, h('div', { class: 'pgh' }, h('span', { text: T(['Process units', 'وحدات العملية']) })), items));
+  };
+  function paletteDrag(e, type) {
+    e.preventDefault();
+    const sx = e.clientX, sy = e.clientY; let ghost = null, moved = false;
+    const mv = (ev) => { if (!moved && Math.hypot(ev.clientX - sx, ev.clientY - sy) > 8) { moved = true; ghost = h('div', { class: 'ghost', text: T(PL.defs[type].name) }); document.body.appendChild(ghost); } if (ghost) { ghost.style.left = ev.clientX + 'px'; ghost.style.top = ev.clientY + 'px'; } };
+    const up = (ev) => {
+      window.removeEventListener('pointermove', mv); window.removeEventListener('pointerup', up); window.removeEventListener('pointercancel', up);
+      if (ghost) ghost.remove();
+      if (moved) { const r = host.getBoundingClientRect(); if (ev.clientX >= r.left && ev.clientX <= r.right && ev.clientY >= r.top && ev.clientY <= r.bottom) { const w = toWorld(ev.clientX, ev.clientY), d = PL.defs[type]; PU.add(type, w.x - d.w / 2, w.y - d.h / 2); } }
+      else { PU.add(type); if (window.innerWidth <= 900) B().sheet(null); }
+    };
+    window.addEventListener('pointermove', mv); window.addEventListener('pointerup', up); window.addEventListener('pointercancel', up);
+  }
+
+  /* ---------- inspector (Part pane) ---------- */
+  const partOpts = (types, cur) => {
+    const c = C(), list = c.parts.filter((p) => types.includes(p.type));
+    const opts = [h('option', { value: '', text: T(['(not linked)', '(مش مربوط)']) }), h('option', { value: '__new', text: '+ ' + T(['Create it on the panel, wired', 'اعمله في اللوحة متوصل']) })].concat(list.map((p) => h('option', { value: p.tag, selected: p.tag === cur ? true : null, text: p.tag + '  ' + T(EL.defs[p.type].name) })));
+    if (cur && !list.some((p) => p.tag === cur)) opts.push(h('option', { value: cur, selected: true, text: cur + ' ⚠ ' + T(['not on the panel', 'مش في اللوحة']) }));
+    return opts;
+  };
+  const PROPLAB = {
+    bar: ['Pressure (bar)', 'الضغط (بار)'], temp: ['Temperature (°C)', 'الحرارة (درجة)'], vol: ['Volume (L)', 'الحجم (لتر)'], hgt: ['Height (m)', 'الارتفاع (متر)'], lvl0: ['Start level (%)', 'مستوى البداية (%)'], t0: ['Start temperature (°C)', 'حرارة البداية (درجة)'],
+    lt: ['Level transmitter (panel)', 'ترانسميتر المستوى (اللوحة)'], tt: ['Temperature sensor (panel)', 'حساس الحرارة (اللوحة)'], htr: ['Heater (panel)', 'السخان (اللوحة)'],
+    motor: ['Motor (panel)', 'الموتور (اللوحة)'], head: ['Max head (m)', 'أقصى رفع (متر)'], qmax: ['Max flow (L/min)', 'أقصى تصرف (لتر/د)'], flip: ['Mirror', 'اقلبه'],
+    open: ['Open', 'مفتوح'], kv: ['Size (L/min at 1 bar)', 'المقاس (لتر/د عند 1 بار)'], sol: ['Solenoid (panel)', 'السولينويد (اللوحة)'],
+    kind: ['Type', 'النوع'], dirt: ['Dirt in the water (x)', 'الوساخة في المية (x)'], rej: ['Reject valve opening (%)', 'فتحة محبس الريجكت (%)'], us: ['Feed conductivity (µS/cm)', 'موصلية الدخول (ميكروسيمنز)'],
+    eff: ['Effectiveness (0-1)', 'الكفاءة (0-1)'], tx: ['Transmitter (panel)', 'الترانسميتر (اللوحة)'], range: ['Range (full scale)', 'المدى (أقصى قراءة)'], sw: ['Switch (panel)', 'السويتش (اللوحة)'], set: ['Set point', 'نقطة الضبط'],
+  };
+  const LT = PL.linkTypes;
+  PU.inspector = function () {
+    if (B().view !== 'plant') return;
+    const root = $('#pane-part'); root.innerHTML = '';
+    const pl = plant();
+    const u = pl && PU.sel ? pl.units.find((x) => x.id === PU.sel) : null;
+    const pipe = pl && PU.selPipe ? pl.pipes.find((x) => x.id === PU.selPipe) : null;
+    const edit = (fn) => { B().ed.push(); fn(); changed(); };
+    if (pipe) {
+      root.appendChild(h('div', { class: 'card' }, h('h3', { text: T(['Pipe', 'ماسورة']) }), h('p', { class: 'ltr', text: PL.refLabel(pl, pipe.a) + '  →  ' + PL.refLabel(pl, pipe.b) }),
+        h('div', { class: 'kv' }, h('span', { text: T(['Flow', 'التصرف']) }), h('b', { id: 'plPipeQ', text: Math.abs(PL.pipeQ(pl, pipe.id)).toFixed(1) + ' L/min' })),
+        h('div', { class: 'row wrap', style: { marginTop: '8px' } }, h('button', { class: 'btn bad', onclick: () => PU.delSel(), text: T(['Delete pipe', 'احذف الماسورة']) }))));
+      return;
+    }
+    if (!u) {
+      const card = h('div', { class: 'card' }, h('h3', { text: T(['Process (plant)', 'العملية']) }),
+        h('p', { class: 'mute', text: T(['Build mode: drag units, tap a port then another port to lay a pipe. Test mode: tap valves to open or close them. Units run from the panel: a pump turns only when its linked motor turns.', 'وضع البناء: اسحب الوحدات، واضغط على طرف وبعدين طرف تاني عشان تمد ماسورة. وضع الاختبار: اضغط على المحابس تفتحها أو تقفلها. الوحدات بتشتغل من اللوحة: الطلمبة بتلف بس لما الموتور المربوط يلف.']) }),
+        h('button', { class: 'btn pri', onclick: () => PU.addMenu(), text: '+ ' + T(['Add a unit', 'ضيف وحدة']) }));
+      root.appendChild(card);
+      root.appendChild(h('div', { class: 'card', id: 'plProblems' }));
+      PU.updateLive(true);
+      return;
+    }
+    const d = PL.defs[u.type];
+    const tagIn = h('input', { type: 'text', value: u.tag, maxlength: 10, style: { maxWidth: '110px' }, onchange: (e) => { const v = e.target.value.replace(/[^\w\-.]/g, '').slice(0, 10); if (v) edit(() => { u.tag = v; }); } });
+    const actions = [];
+    if (u.type === 'VALVE') actions.push(h('button', { class: 'btn ' + (u.props.open ? 'bad' : 'ok'), onclick: () => toggleValve(u), text: u.props.open ? T(['Close valve', 'اقفل المحبس']) : T(['Open valve', 'افتح المحبس']) }));
+    if (u.type === 'FILTER') actions.push(h('button', { class: 'btn ok', onclick: () => edit(() => { u.state.clog = 0; ui.toast(u.tag + ': ' + T(u.props.kind === 'cart' ? ['new cartridge fitted', 'اتركب كارتريدج جديد'] : ['backwashed, clean again', 'اتعمله باك واش ونضف']), 'ok'); }), text: T(u.props.kind === 'cart' ? ['Change cartridge', 'غيّر الكارتريدج'] : ['Backwash', 'باك واش']) }));
+    if (u.type === 'TANK') actions.push(h('button', { class: 'btn', onclick: () => edit(() => { u.state.v = (+u.props.vol * +u.props.lvl0) / 100; u.state.T = +u.props.t0; }), text: T(['Reset level', 'رجّع المستوى']) }), h('button', { class: 'btn', onclick: () => edit(() => { u.state.v = 0; }), text: T(['Empty it', 'فضّيه']) }));
+    if (B().ed.mode === 'build') actions.push(h('button', { class: 'btn', onclick: () => edit(() => { u.props.flip = !u.props.flip; }), text: T(['Mirror', 'اقلبه']) }), h('button', { class: 'btn bad', onclick: () => PU.delSel(), text: T(['Delete', 'حذف']) }));
+    root.appendChild(h('div', { class: 'card' }, h('div', { class: 'row' }, tagIn, h('div', { class: 'grow' }, h('b', { text: T(d.name) }))), h('p', { class: 'mute', text: T(d.info) }), h('div', { class: 'row wrap' }, actions)));
+    // properties
+    const card = h('div', { class: 'card' }, h('h3', { text: T(['Properties and links', 'الخصائص والربط']) }));
+    for (const k of Object.keys(d.props)) {
+      if (k === 'flip' || (k === 'sw' && u.type === 'TANK')) continue;
+      const v = u.props[k];
+      let inp;
+      const link = { lt: LT.tx, tt: LT.temp, htr: LT.htr, motor: LT.motor, sol: LT.sol, tx: u.type === 'TT' ? LT.temp : LT.tx }[k] || null;
+      const swLink = (u.type === 'PS' || u.type === 'FS') && k === 'sw';
+      const pick = (e, make) => { const val = e.target.value; if (val === '__new') { const tag = make(); if (tag) { u.props[k] = tag; changed(); } } else edit(() => { u.props[k] = val; }); };
+      const AW = ui.autowire;
+      const maker = { motor: () => AW.motor(), lt: () => AW.transmitter('level', 'LT ' + u.tag), tt: () => AW.transmitter('temp', 'TT ' + u.tag), htr: () => AW.simple('HTR'), sol: () => AW.solenoid(), tx: () => AW.transmitter(u.type === 'TT' ? 'temp' : 'press', u.tag) }[k];
+      if (link) inp = h('select', { onchange: (e) => pick(e, maker) }, partOpts(link, v));
+      else if (swLink) inp = h('select', { onchange: (e) => pick(e, () => AW.contact(u.type === 'PS' ? 'PRESS' : 'FLOW', u.tag, false)) }, partOpts(u.type === 'PS' ? LT.ps : LT.fs, v));
+      else if (k === 'kind') inp = h('select', { onchange: (e) => edit(() => { u.props.kind = e.target.value; }) }, [['sand', T(['Sand / multimedia', 'رمل / مالتي ميديا'])], ['cart', T(['Cartridge 5 µm', 'كارتريدج 5 ميكرون'])]].map(([a, b]) => h('option', { value: a, selected: a === v ? true : null, text: b })));
+      else if (typeof v === 'boolean') inp = h('button', { class: 'btn ' + (v ? 'on' : ''), onclick: () => edit(() => { u.props[k] = !u.props[k]; }), text: v ? T(['Yes', 'أيوه']) : T(['No', 'لأ']) });
+      else if (typeof v === 'number') inp = h('input', { type: 'number', value: v, step: 'any', onchange: (e) => { const x = +e.target.value; if (isFinite(x)) edit(() => { u.props[k] = Math.max(k === 'temp' || k === 't0' ? 0 : k === 'vol' || k === 'hgt' || k === 'range' ? 0.1 : 0, Math.min(k === 'eff' ? 0.95 : k === 'lvl0' || k === 'rej' ? 100 : 100000, x)); if (u.type === 'TANK' && (k === 'vol')) u.state.v = Math.min(u.state.v, x); }); } });
+      else continue;
+      card.appendChild(h('label', { class: 'f', text: T(PROPLAB[k] || [k, k]) })); card.appendChild(inp);
+    }
+    root.appendChild(card);
+    if (u.type === 'TANK') {
+      const sc = h('div', { class: 'card' }, h('h3', { text: T(['Level switches (floats)', 'سويتشات المستوى (فلوتات)']) }), h('p', { class: 'mute sm', text: T(['A float operates when the water is above its level. Link it to a float switch on the panel so the panel and the PLC see it.', 'الفلوت بيشتغل لما المية تبقى فوق مستواه. اربطه بفلوت سويتش في اللوحة عشان اللوحة والـPLC يشوفوه.']) }));
+      u.props.sw.forEach((s, i) => {
+        sc.appendChild(h('div', { class: 'pl-swrow' },
+          h('input', { type: 'text', value: s.n, maxlength: 10, onchange: (e) => edit(() => { s.n = e.target.value.replace(/[^\w\-.]/g, '').slice(0, 10); }) }),
+          h('input', { type: 'number', value: s.l, min: 0, max: 100, onchange: (e) => edit(() => { s.l = Math.max(0, Math.min(100, +e.target.value || 0)); }) }),
+          h('select', { onchange: (e) => { const val = e.target.value; if (val === '__new') { s.t = ui.autowire.contact('FLOAT', s.n, (+s.l || 0) >= 50); changed(); } else edit(() => { s.t = val; }); } }, partOpts(LT.float, s.t))));
+      });
+      root.appendChild(sc);
+    }
+    root.appendChild(h('div', { class: 'card', id: 'plLive' }));
+    PU.updateLive(true);
+  };
+  let liveSig = '';
+  PU.updateLive = function (force) {
+    if (B().view !== 'plant') return;
+    const pl = plant();
+    const pb = $('#plProblems');
+    if (pb) {
+      const pr = PL.problems(C());
+      const s = pr.map((x) => x[0] + x[1] + T(x[2])).join('|');
+      if (force || s !== liveSig) {
+        liveSig = s;
+        pb.innerHTML = '';
+        pb.appendChild(h('h3', { text: T(['Process check', 'فحص العملية']) }));
+        if (!pr.length) pb.appendChild(h('p', { class: 'mute', text: pl && pl.units.length ? T(['No problems found.', 'مفيش مشاكل.']) : T(['Empty.', 'فاضي.']) }));
+        for (const [lvl, tag, msg] of pr) pb.appendChild(h('div', { class: 'pl-prob ' + lvl, onclick: () => { const u = pl.units.find((x) => x.tag === tag); if (u) select(u.id, null); } }, h('b', { text: tag }), ' ', T(msg)));
+      }
+    }
+    const lv = $('#plLive');
+    if (lv && pl && PU.sel) {
+      const u = pl.units.find((x) => x.id === PU.sel); if (!u) return;
+      const st = u.state, rows = [];
+      const r = (k, v) => rows.push(`<div class="kv"><span>${esc(T(k))}</span><b class="ltr">${esc(v)}</b></div>`);
+      const L = (q) => (Math.abs(q || 0) * 60).toFixed(1) + ' L/min';
+      if (u.type === 'TANK') { r(['Level', 'المستوى'], (st.lvl || 0).toFixed(1) + ' %'); r(['Volume', 'الحجم'], (st.v || 0).toFixed(0) + ' L'); r(['Net in-flow', 'صافي الداخل'], ((st.qin || 0) * 60).toFixed(1) + ' L/min'); r(['Temperature', 'الحرارة'], (st.T || 20).toFixed(1) + ' °C'); if (st.heatW) r(['Heater', 'السخان'], Math.round(st.heatW) + ' W'); }
+      if (u.type === 'PUMP') { r(['Speed', 'السرعة'], Math.round(Math.abs(st.s || 0) * 100) + ' %'); r(['Flow', 'التصرف'], L(st.q)); r(['Pressure rise', 'فرق الضغط'], (st.dp || 0).toFixed(2) + ' bar'); r(['Suction', 'السحب'], PL.pressAt(pl, u.id + '.in').toFixed(2) + ' bar'); r(['Discharge', 'الطرد'], PL.pressAt(pl, u.id + '.out').toFixed(2) + ' bar'); }
+      if (['VALVE', 'SOLV', 'CHECK', 'FM', 'PT', 'PS', 'FS', 'TT', 'PG', 'SUPPLY', 'DRAIN'].includes(u.type)) r(['Flow', 'التصرف'], L(st.q));
+      if (u.type === 'VALVE' || u.type === 'SOLV') r(['Opening', 'الفتحة'], Math.round((st.pos || 0) * 100) + ' %');
+      if (['PT', 'PS', 'FS', 'TT', 'PG'].includes(u.type)) { r(['Pressure', 'الضغط'], (st.p || 0).toFixed(2) + ' bar'); r(['Temperature', 'الحرارة'], (st.T || 20).toFixed(1) + ' °C'); }
+      if (u.type === 'FILTER') { r(['Flow', 'التصرف'], L(st.q)); r(['Pressure drop', 'فرق الضغط'], (st.dp || 0).toFixed(2) + ' bar'); r(['Dirt load', 'الوساخة'], Math.round(Math.min(100, (st.clog || 0) * 50)) + ' %'); }
+      if (u.type === 'RO') { r(['Feed pressure', 'ضغط الدخول'], (st.pin || 0).toFixed(2) + ' bar'); r(['Permeate', 'المية النقية'], L(st.qp)); r(['Reject', 'الريجكت'], L(st.qr)); r(['Recovery', 'الاسترجاع'], Math.round(st.rec || 0) + ' %'); r(['Permeate quality', 'جودة المية'], st.us ? Math.round(st.us) + ' µS/cm' : '-'); r(['Feed temperature', 'حرارة الدخول'], (st.Tf || 20).toFixed(1) + ' °C'); }
+      if (u.type === 'HX' && st.th) { r(['Hot side', 'الناحية السخنة'], st.th[0].toFixed(1) + ' → ' + st.th[1].toFixed(1) + ' °C, ' + L(st.qh)); r(['Cold side', 'الناحية الباردة'], st.tc[0].toFixed(1) + ' → ' + st.tc[1].toFixed(1) + ' °C, ' + L(st.qc)); }
+      if (u.type === 'FM') r(['Total', 'الإجمالي'], Math.round(st.tot || 0) + ' L');
+      const s = rows.join('');
+      if (force || s !== lv._s) { lv._s = s; lv.innerHTML = `<h3>${esc(T(['Live values', 'القيم الحية']))}</h3>` + s; }
+    }
+    const pq = $('#plPipeQ'); if (pq && pl && PU.selPipe) pq.textContent = Math.abs(PL.pipeQ(pl, PU.selPipe)).toFixed(1) + ' L/min';
+  };
+})(typeof window !== 'undefined' ? window : globalThis);

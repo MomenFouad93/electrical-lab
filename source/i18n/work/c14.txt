@@ -1,0 +1,152 @@
+#2596
+Plus de 5 MΩ
+Acima de 5 MΩ
+高于5 MΩ
+Выше 5 МОм
+Powyżej 5 MΩ
+5 MΩ felett
+Por encima de 5 MΩ
+
+#2597
+Moins de 0,5 MΩ
+Abaixo de 0,5 MΩ
+低于0.5 MΩ
+Ниже 0,5 МОм
+Poniżej 0,5 MΩ
+0,5 MΩ alatt
+Por debajo de 0,5 MΩ
+
+#2598
+Mesurer chaque enroulement par rapport à la terre au mégohmmètre
+Meça cada enrolamento contra a terra com o megôhmetro
+用兆欧表测每个绕组对地的绝缘
+Измерьте мегаомметром каждую обмотку относительно земли
+Zmierz megaomomierzem każde uzwojenie względem ziemi
+Mérje meg szigetelésmérővel az egyes tekercseket a földhöz képest
+Mida con el megóhmetro cada bobinado respecto a tierra
+
+#2599
+Isolé, conducteurs déconnectés dans la boîte à bornes. 500 V CC pendant 1 minute de U, V et W vers la carcasse. Un moteur sain est au-dessus de 5 MΩ à température ambiante, jamais en dessous de 1 MΩ.
+Isolado, condutores soltos na caixa de terminais. 500 V CC por 1 minuto de U, V e W para a carcaça. Um motor saudável fica acima de 5 MΩ à temperatura ambiente, nunca abaixo de 1 MΩ.
+已隔离，接线盒内的引线已拆开。从U、V、W对机壳施加500 V直流，持续1分钟。正常情况下，室温时高于5 MΩ，绝不能低于1 MΩ。
+Изолировано, выводы отсоединены в клеммной коробке. 500 В постоянного тока в течение 1 минуты от U, V и W на корпус. Исправный двигатель при комнатной температуре показывает выше 5 МОм, но никогда не ниже 1 МОм.
+Odizolowany, przewody odłączone w puszce zaciskowej. 500 V DC przez 1 minutę z U, V i W na obudowę. Zdrowy silnik w temperaturze pokojowej ma powyżej 5 MΩ, nigdy poniżej 1 MΩ.
+Leválasztva, a vezetékek lekötve a kapocsdobozban. 500 V DC 1 percig U, V és W felől a testre. Egy egészséges motor szobahőmérsékleten 5 MΩ felett van, soha nem 1 MΩ alatt.
+Aislado, con los conductores desconectados en la caja de bornes. 500 V CC durante 1 minuto desde U, V y W a la carcasa. Un motor sano da más de 5 MΩ a temperatura ambiente, nunca menos de 1 MΩ.
+
+#2600
+Mesurez au mégohmmètre uniquement un enroulement hors tension et isolé. Déconnectez d'abord tout variateur.
+Use o megôhmetro apenas em um enrolamento desenergizado e isolado. Desconecte primeiro qualquer inversor.
+只能对已断电并隔离的绕组使用兆欧表。先把变频器断开。
+Мегаомметр применяйте только на обесточенной, изолированной обмотке. Сначала отсоедините любой преобразователь частоты.
+Megaomomierza używaj tylko na odłączonym od napięcia, odizolowanym uzwojeniu. Najpierw odłącz falownik.
+Szigetelésmérőt csak feszültségmentesített, leválasztott tekercsen használjon. Először válassza le a frekvenciaváltót.
+Use el megóhmetro solo en un bobinado sin tensión y aislado. Desconecte antes cualquier variador.
+
+#2601
+Équilibrés (à 3 % près)
+Equilibradas (dentro de 3 %)
+平衡（相差在3 %以内）
+Сбалансированы (в пределах 3 %)
+Zrównoważone (w granicach 3 %)
+Kiegyensúlyozott (3 %-on belül)
+Equilibradas (dentro del 3 %)
+
+#2602
+L'une indique ouvert (OL)
+Uma indica aberto (OL)
+有一相读数为开路（OL）
+Одна показывает обрыв (OL)
+Jedna wskazuje przerwę (OL)
+Az egyik szakadást mutat (OL)
+Una indica abierto (OL)
+
+#2603
+Déséquilibrés, l'une est plus basse
+Desequilibradas, uma mais baixa
+不平衡，有一相偏低
+Несимметричны, одна ниже
+Niezrównoważone, jedna niższa
+Kiegyensúlyozatlan, az egyik alacsonyabb
+Desequilibradas, una más baja
+
+#2604
+Résistance des enroulements U-V, V-W, W-U
+Resistência dos enrolamentos U-V, V-W, W-U
+绕组电阻 U-V、V-W、W-U
+Сопротивление обмоток U-V, V-W, W-U
+Rezystancja uzwojeń U-V, V-W, W-U
+Tekercsellenállás U-V, V-W, W-U
+Resistencia de los bobinados U-V, V-W, W-U
+
+#2605
+Isolé, barrettes retirées. Utilisez un milliohmmètre si possible. Comparez les trois mesures.
+Isolado, barras retiradas. Use um miliohmímetro, se puder. Compare as três leituras.
+已隔离，连片已拆下。如有条件，用毫欧表测量。比较三个读数。
+Изолировано, перемычки сняты. По возможности используйте миллиомметр. Сравните три показания.
+Odizolowany, zworki zdjęte. Jeśli możesz, użyj miliomomierza. Porównaj trzy odczyty.
+Leválasztva, az áthidalók eltávolítva. Ha lehet, használjon milliohm-mérőt. Hasonlítsa össze a három értéket.
+Aislado, con los puentes quitados. Use un miliohmímetro si puede. Compare las tres lecturas.
+
+#2606
+Équilibré et correct
+Equilibrado e correto
+平衡且正常
+Сбалансировано и в норме
+Zrównoważone i prawidłowe
+Kiegyensúlyozott és helyes
+Equilibrado y correcto
+
+#2607
+Une phase manque
+Falta uma fase
+缺一相
+Одной фазы нет
+Brak jednej fazy
+Egy fázis hiányzik
+Falta una fase
+
+#2608
+Déséquilibré ou bas
+Desequilibrado ou baixo
+不平衡或偏低
+Несимметрично или низкое
+Niezrównoważone lub niskie
+Kiegyensúlyozatlan vagy alacsony
+Desequilibrado o bajo
+
+#2609
+Tension d'alimentation aux bornes du moteur
+Tensão de alimentação nos terminais do motor
+电机端子处的供电电压
+Напряжение питания на клеммах двигателя
+Napięcie zasilania na zaciskach silnika
+Betáplálási feszültség a motor kapcsain
+Tensión de alimentación en los bornes del motor
+
+#2610
+Travail sous tension. Mesurez L1-L2, L2-L3 et L3-L1 aux bornes du moteur, contacteur fermé, en essayant de démarrer.
+Trabalho com energia ligada. Meça L1-L2, L2-L3 e L3-L1 nos terminais do motor, com o contator fechado, tentando partir.
+带电作业。在接触器闭合、尝试启动的状态下，测量电机端子处的L1-L2、L2-L3和L3-L1。
+Работа под напряжением. Измерьте L1-L2, L2-L3 и L3-L1 на клеммах двигателя при замкнутом контакторе, пытаясь запустить.
+Praca pod napięciem. Zmierz L1-L2, L2-L3 i L3-L1 na zaciskach silnika przy zamkniętym styczniku, próbując uruchomić.
+Feszültség alatti munka. Mérje meg L1-L2, L2-L3 és L3-L1 értékét a motor kapcsain, zárt kontaktornál, indítási kísérlet közben.
+Trabajo en tensión. Mida L1-L2, L2-L3 y L3-L1 en los bornes del motor con el contactor cerrado, intentando arrancar.
+
+#2611
+Travail sous tension : multimètre CAT III/IV, outils isolés, permis de travail.
+Trabalho com energia ligada: multímetro CAT III/IV, ferramentas isoladas, permissão do local.
+带电作业：CAT III/IV万用表、绝缘工具、现场许可证。
+Работа под напряжением: мультиметр CAT III/IV, изолированный инструмент, разрешение на работы.
+Praca pod napięciem: miernik CAT III/IV, narzędzia izolowane, zezwolenie na pracę.
+Feszültség alatti munka: CAT III/IV műszer, szigetelt szerszámok, munkavégzési engedély.
+Trabajo en tensión: polímetro CAT III/IV, herramientas aisladas, permiso de trabajo.
+
+#2612
+Équilibrée et normale
+Equilibrada e normal
+平衡且正常
+Сбалансировано и нормально
+Zrównoważone i prawidłowe
+Kiegyensúlyozott és normális
+Equilibrada y normal

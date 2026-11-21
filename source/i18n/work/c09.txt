@@ -1,0 +1,2070 @@
+#1448
+Soupape de sécurité
+Válvula de segurança
+安全阀
+Предохранительный клапан
+Zawór bezpieczeństwa
+Biztonsági szelep
+Válvula de seguridad
+
+#1449
+Points = air comprimé
+Pontos = ar comprimido
+圆点 = 压缩空气
+Точки = сжатый воздух
+Kropki = sprężone powietrze
+Pontok = sűrített levegő
+Puntos = aire comprimido
+
+#1450
+Vide : 0 bar
+Vazio: 0 bar
+已排空：0 bar
+Пусто: 0 бар
+Pusty: 0 bar
+Üres: 0 bar
+Vacío: 0 bar
+
+#1451
+Doit indiquer zéro avant tout travail. Un manomètre cassé indique aussi zéro : confirmez avec la purge.
+Deve marcar zero antes de qualquer trabalho. Um manômetro quebrado também mostra zero: confirme com o dreno.
+作业前必须读到零。损坏的压力表也会显示零：要用排放口来确认。
+Должен показывать ноль перед любой работой. Неисправный манометр тоже показывает ноль: подтвердите дренажом.
+Musi wskazywać zero przed jakąkolwiek pracą. Zepsuty manometr też pokazuje zero: potwierdź spustem.
+Bármilyen munka előtt nullát kell mutatnia. A hibás manométer is nullát mutat: erősítse meg a leeresztővel.
+Debe marcar cero antes de cualquier trabajo. Un manómetro roto también muestra cero: confírmelo con el drenaje.
+
+#1452
+Vanne d'isolement d'entrée
+Válvula de isolamento de entrada
+进气隔离阀
+Входной запорный клапан
+Zawór odcinający wlotowy
+Bemeneti leválasztó szelep
+Válvula de aislamiento de entrada
+
+#1453
+Fermez-la et verrouillez-la. La pression du compresseur ne peut plus remplir le réservoir.
+Feche e bloqueie. A pressão do compressor não pode reencher o tanque.
+关闭并上锁。压缩机的压力就无法再给储罐充气。
+Закройте и заблокируйте. Давление от компрессора не сможет снова наполнить ресивер.
+Zamknij i zablokuj. Ciśnienie ze sprężarki nie napełni zbiornika ponownie.
+Zárja el és zárja le. A kompresszor nyomása nem tudja újra feltölteni a tartályt.
+Ciérrela y bloquéela. La presión del compresor no puede volver a llenar el depósito.
+
+#1454
+Vanne de purge
+Válvula de dreno
+排放阀
+Дренажный клапан
+Zawór spustowy
+Leeresztő szelep
+Válvula de drenaje
+
+#1455
+Ouvrez-la complètement pour vider l'eau et l'air. Laissez-la ouverte pendant le travail.
+Abra totalmente para esvaziar água e ar. Deixe aberta durante o trabalho.
+完全打开，排空水和空气。作业期间保持打开。
+Откройте полностью, чтобы слить воду и воздух. Оставьте открытым на время работы.
+Otwórz całkowicie, aby opróżnić wodę i powietrze. Zostaw otwarty na czas pracy.
+Nyissa ki teljesen a víz és a levegő kiürítéséhez. Munka közben hagyja nyitva.
+Ábrala del todo para vaciar agua y aire. Déjela abierta mientras trabaja.
+
+#1456
+S'ouvre à la pression nominale du récipient. Ne la bloquez ni ne la peignez jamais.
+Abre na pressão nominal do vaso. Nunca bloqueie nem pinte.
+在容器额定压力下开启。绝不要堵住它，也不要给它刷漆。
+Открывается при расчётном давлении сосуда. Никогда не блокируйте и не красьте его.
+Otwiera się przy ciśnieniu znamionowym zbiornika. Nigdy go nie blokuj ani nie maluj.
+Az edény névleges nyomásán nyit. Soha ne zárja el, és ne fesse le.
+Se abre a la presión nominal del recipiente. No lo bloquee ni lo pinte nunca.
+
+#1457
+Air comprimé
+Ar comprimido
+压缩空气
+Сжатый воздух
+Sprężone powietrze
+Sűrített levegő
+Aire comprimido
+
+#1458
+Énergie stockée. Un récipient qui éclate est bien plus dangereux qu'un flexible qui éclate.
+Energia armazenada. Um vaso que estoura é muito mais perigoso que uma mangueira que estoura.
+储存的能量。容器爆裂比软管爆裂危险得多。
+Накопленная энергия. Разрыв сосуда намного опаснее разрыва шланга.
+Zmagazynowana energia. Pęknięcie zbiornika jest znacznie groźniejsze niż pęknięcie węża.
+Tárolt energia. Egy szétrobbanó edény sokkal veszélyesebb, mint egy szétrobbanó tömlő.
+Energía almacenada. Un recipiente que revienta es mucho más peligroso que una manguera que revienta.
+
+#1459
+Manomètre
+Manômetro
+压力表
+Манометр
+Manometr
+Manométer
+Manómetro
+
+#1460
+Indique ce qu'il reste à l'intérieur.
+Mostra o que sobrou lá dentro.
+显示里面还剩多少压力。
+Показывает, что осталось внутри.
+Pokazuje, co zostało w środku.
+Megmutatja, mi maradt bent.
+Indica lo que queda dentro.
+
+#1461
+Fermez et verrouillez la vanne d'entrée.
+Feche e bloqueie a válvula de entrada.
+关闭并锁住进气阀。
+Закройте и заблокируйте впускной клапан.
+Zamknij i zablokuj zawór wlotowy.
+Zárja el és zárja le a bemeneti szelepet.
+Cierre y bloquee la válvula de entrada.
+
+#1462
+Ouvrez complètement le purgeur et la vanne de purge.
+Abra totalmente o dreno e a válvula de purga.
+完全打开排放口和泄压阀。
+Полностью откройте дренаж и продувочный клапан.
+Otwórz całkowicie spust i zawór odpowietrzający.
+Nyissa ki teljesen a leeresztőt és a légtelenítő szelepet.
+Abra del todo el drenaje y la válvula de purga.
+
+#1463
+Attendez que le manomètre atteigne 0 bar et gardez le purgeur ouvert.
+Espere o manômetro chegar a 0 bar e mantenha o dreno aberto.
+等压力表降到0 bar，并保持排放口打开。
+Дождитесь, пока манометр дойдёт до 0 бар, и держите дренаж открытым.
+Poczekaj, aż manometr osiągnie 0 bar, i utrzymuj spust otwarty.
+Várja meg, amíg a manométer eléri a 0 bart, és tartsa nyitva a leeresztőt.
+Espere a que el manómetro llegue a 0 bar y mantenga el drenaje abierto.
+
+#1464
+Manomètre à 0 et plus d'air au purgeur. Vérifiez à nouveau après une minute : la pression peut remonter.
+Manômetro em 0 e sem ar no dreno. Verifique de novo após um minuto: a pressão pode voltar a subir.
+压力表为0，排放口不再出气。一分钟后再检查一次：压力可能会慢慢回升。
+Манометр на 0 и воздуха из дренажа нет. Проверьте ещё раз через минуту: давление может вернуться.
+Manometr na 0 i brak powietrza ze spustu. Sprawdź ponownie po minucie: ciśnienie może wrócić.
+A manométer 0-n áll, és a leeresztőből nem jön levegő. Egy perc múlva ellenőrizze újra: a nyomás visszamászhat.
+Manómetro en 0 y sin aire en el drenaje. Compruebe de nuevo tras un minuto: la presión puede volver a subir.
+
+#1465
+Croire que le réservoir est vide parce que le compresseur est arrêté.
+Achar que o tanque está vazio porque o compressor está desligado.
+因为压缩机停了，就以为储罐是空的。
+Считать ресивер пустым, потому что компрессор выключен.
+Uznanie zbiornika za pusty, bo sprężarka jest wyłączona.
+Azt hinni, hogy a tartály üres, mert a kompresszor ki van kapcsolva.
+Creer que el depósito está vacío porque el compresor está apagado.
+
+#1466
+Refermer le purgeur après la purge.
+Fechar o dreno de novo depois de ventilar.
+放空之后又把排放口关上。
+Снова закрыть дренаж после сброса.
+Ponowne zamknięcie spustu po odpowietrzeniu.
+A leeresztő visszazárása a légtelenítés után.
+Volver a cerrar el drenaje tras ventear.
+
+#1467
+PED 2014/68/UE et règles locales sur les appareils à pression.
+PED 2014/68/UE e regras locais de vasos de pressão.
+PED 2014/68/EU以及当地的压力容器规定。
+PED 2014/68/EU и местные правила для сосудов под давлением.
+PED 2014/68/UE i lokalne przepisy dotyczące zbiorników ciśnieniowych.
+PED 2014/68/EU és a helyi nyomástartó edényekre vonatkozó szabályok.
+PED 2014/68/UE y las normas locales de recipientes a presión.
+
+#1468
+Fluide purgé
+Fluido ventilado
+流体已放空
+Среда сброшена
+Płyn spuszczony
+Folyadék kiengedve
+Fluido venteado
+
+#1469
+Système sous charge
+Sistema carregado
+系统带压
+Система под давлением
+Układ naładowany
+Feltöltött rendszer
+Sistema cargado
+
+#1470
+Système
+Sistema
+系统
+Система
+Układ
+Rendszer
+Sistema
+
+#1471
+Accumulateur hydraulique
+Acumulador hidráulico
+液压蓄能器
+Гидроаккумулятор
+Akumulator hydrauliczny
+Hidraulikus akkumulátor
+Acumulador hidráulico
+
+#1472
+Une bouteille en acier avec une vessie en caoutchouc remplie d'azote. Le côté huile stocke une pression capable de déplacer un vérin plusieurs minutes après l'arrêt de la pompe. Isolez la pompe, ouvrez la vanne de purge manuelle vers le réservoir et regardez le manomètre tomber à zéro. Le côté gaz garde sa précharge : ne desserrez jamais l'accumulateur lui-même.
+Um cilindro de aço com uma bexiga de borracha cheia de nitrogênio. O lado do óleo armazena pressão que pode mover um cilindro minutos depois que a bomba para. Isole a bomba, abra a válvula de sangria manual para o tanque e veja o manômetro cair a zero. O lado do gás mantém a pré-carga: nunca afrouxe o próprio acumulador.
+一个钢瓶，里面有充满氮气的橡胶皮囊。油侧储存的压力，在泵停止几分钟后仍能推动油缸。要隔离泵，打开通向油箱的手动泄压阀，看着压力表降到零。气体侧保持预充压力：绝不要松动蓄能器本体。
+Стальной баллон с резиновым баллоном (мембраной), заполненным азотом. Масляная сторона хранит давление, способное сдвинуть цилиндр через несколько минут после остановки насоса. Отключите насос, откройте ручной сбросной клапан на бак и наблюдайте, как манометр упадёт до нуля. Газовая сторона сохраняет предварительное давление: никогда не откручивайте сам аккумулятор.
+Stalowa butla z gumowym pęcherzem wypełnionym azotem. Strona olejowa magazynuje ciśnienie, które może poruszyć siłownik kilka minut po zatrzymaniu pompy. Odetnij pompę, otwórz ręczny zawór upustowy do zbiornika i obserwuj spadek manometru do zera. Strona gazowa zachowuje ciśnienie wstępne: nigdy nie luzuj samego akumulatora.
+Acélpalack, benne nitrogénnel töltött gumitömlővel. Az olajoldal olyan nyomást tárol, amely a szivattyú leállása után percekkel is megmozdíthat egy hengert. Válassza le a szivattyút, nyissa ki a tartályba vezető kézi légtelenítő szelepet, és nézze, ahogy a manométer nullára esik. A gázoldal megtartja az előfeszítő nyomást: soha ne lazítsa meg magát az akkumulátort.
+Una botella de acero con una vejiga de goma llena de nitrógeno. El lado del aceite almacena presión que puede mover un cilindro minutos después de que pare la bomba. Aísle la bomba, abra la válvula de purga manual al depósito y observe cómo el manómetro cae a cero. El lado del gas conserva su precarga: no afloje nunca el propio acumulador.
+
+#1473
+Stocke : de l'énergie hydraulique pour les serrages et les presses.
+Armazena: energia hidráulica para fixadores e prensas.
+储存：供夹具和压力机使用的液压能量。
+Хранит: гидравлическую энергию для зажимов и прессов.
+Magazynuje: energię hydrauliczną dla uchwytów i pras.
+Tárol: hidraulikus energiát leszorítókhoz és prései.
+Almacena: energía hidráulica para sujeciones y prensas.
+
+#1474
+Huile
+Óleo
+油
+Масло
+Olej
+Olaj
+Aceite
+
+#1475
+Accumulateur
+Acumulador
+蓄能器
+Аккумулятор
+Akumulator
+Akkumulátor
+Acumulador
+
+#1476
+Le côté huile garde la pression du système
+O lado do óleo mantém a pressão do sistema
+油侧保持系统压力
+Масляная сторона удерживает давление системы
+Strona olejowa utrzymuje ciśnienie układu
+Az olajoldal tartja a rendszernyomást
+El lado del aceite retiene la presión del sistema
+
+#1477
+Côté huile purgé ; la précharge de gaz reste
+Lado do óleo ventilado; a pré-carga de gás permanece
+油侧已泄放；气体预充压力仍在
+Масляная сторона сброшена; газовая предварительная зарядка остаётся
+Strona olejowa odpowietrzona; ciśnienie wstępne gazu pozostaje
+Az olajoldal légtelenítve; a gáz előfeszítés megmarad
+Lado del aceite venteado; la precarga de gas permanece
+
+#1478
+Manomètre côté huile
+Manômetro do lado do óleo
+油侧压力表
+Манометр масляной стороны
+Manometr strony olejowej
+Olajoldali manométer
+Manómetro del lado del aceite
+
+#1479
+Tombe à 0 après l'ouverture de la purge. C'est celui que vous contrôlez.
+Cai para 0 depois que a sangria é aberta. É este que você verifica.
+打开泄压阀后降到0。你检查的就是这一个。
+Падает до 0 после открытия сброса. Проверяйте именно его.
+Spada do 0 po otwarciu zaworu upustowego. To właśnie ten sprawdzasz.
+A légtelenítő kinyitása után 0-ra esik. Ezt kell ellenőriznie.
+Cae a 0 tras abrir la purga. Es el que usted comprueba.
+
+#1480
+Manomètre côté gaz
+Manômetro do lado do gás
+气体侧压力表
+Манометр газовой стороны
+Manometr strony gazowej
+Gázoldali manométer
+Manómetro del lado del gas
+
+#1481
+La précharge d'azote reste. C'est normal et elle n'est pas isolée par la purge.
+A pré-carga de nitrogênio permanece. É normal e não é isolada pela sangria.
+氮气预充压力会保留。这是正常的，泄压阀并不会把它隔离掉。
+Азотная предварительная зарядка остаётся. Это нормально, и сбросом она не отключается.
+Ciśnienie wstępne azotu pozostaje. To normalne i nie jest odcinane przez odpowietrzenie.
+A nitrogén előfeszítés megmarad. Ez normális, és a légtelenítés nem választja le.
+La precarga de nitrógeno permanece. Es normal y la purga no la aísla.
+
+#1482
+Valve à gaz
+Válvula de gás
+充气阀
+Газовый клапан
+Zawór gazowy
+Gázszelep
+Válvula de gas
+
+#1483
+Seules des personnes formées chargent ou déchargent le gaz.
+Somente pessoas treinadas carregam ou descarregam o gás.
+只有受过培训的人才能充气或放气。
+Только обученные люди заряжают или разряжают газ.
+Tylko przeszkolone osoby ładują lub rozładowują gaz.
+Csak képzett személyek tölthetik fel vagy engedhetik le a gázt.
+Solo personas formadas cargan o descargan el gas.
+
+#1484
+Orifice d'huile
+Porta de óleo
+油口
+Масляный порт
+Port olejowy
+Olajcsatlakozó
+Puerto de aceite
+
+#1485
+Se raccorde au circuit hydraulique par le bloc d'isolement.
+Conecta-se ao circuito hidráulico pelo bloco de isolamento.
+通过隔离块连接到液压回路。
+Подключается к гидравлическому контуру через блок отключения.
+Łączy się z obwodem hydraulicznym przez blok odcinający.
+A leválasztó blokkon át csatlakozik a hidraulikus körhöz.
+Se conecta al circuito hidráulico a través del bloque de aislamiento.
+
+#1486
+Azote gazeux
+Gás nitrogênio
+氮气
+Газообразный азот
+Gazowy azot
+Nitrogéngáz
+Gas nitrógeno
+
+#1487
+Gaz comprimé qui repousse l'huile quand la pompe s'arrête.
+Gás comprimido que empurra o óleo para fora quando a bomba para.
+压缩气体，在泵停止时把油推出去。
+Сжатый газ, который выталкивает масло, когда насос останавливается.
+Sprężony gaz, który wypycha olej, gdy pompa się zatrzymuje.
+Sűrített gáz, amely kinyomja az olajat, amikor a szivattyú leáll.
+Gas comprimido que empuja el aceite hacia fuera cuando para la bomba.
+
+#1488
+Vessie
+Bexiga
+皮囊
+Баллон (мембрана)
+Pęcherz
+Gumitömlő
+Vejiga
+
+#1489
+Un sac en caoutchouc qui sépare le gaz de l'huile.
+Um saco de borracha que separa o gás do óleo.
+隔开气体和油的橡胶袋。
+Резиновый мешок, разделяющий газ и масло.
+Gumowy worek oddzielający gaz od oleju.
+Gumizsák, amely elválasztja a gázt az olajtól.
+Una bolsa de goma que separa el gas del aceite.
+
+#1490
+L'huile haute pression peut s'injecter sous la peau. Ne cherchez jamais une fuite avec la main.
+Óleo em alta pressão pode penetrar na pele. Nunca procure vazamentos com a mão.
+高压油可以刺穿皮肤注入体内。绝不要用手去摸漏点。
+Масло под высоким давлением может проникнуть под кожу. Никогда не ищите утечки рукой.
+Olej pod wysokim ciśnieniem może się wstrzyknąć przez skórę. Nigdy nie szukaj wycieków ręką.
+A nagynyomású olaj áthatolhat a bőrön. Soha ne keressen szivárgást kézzel.
+El aceite a alta presión puede inyectarse a través de la piel. No busque nunca fugas con la mano.
+
+#1491
+Arrêtez la pompe, isolez et verrouillez son alimentation.
+Desligue a bomba e isole e bloqueie a alimentação dela.
+关闭泵，并隔离、锁定它的电源。
+Выключите насос, отключите и заблокируйте его питание.
+Wyłącz pompę, odetnij i zablokuj jej zasilanie.
+Kapcsolja ki a szivattyút, válassza le és zárja le a betáplálását.
+Pare la bomba y aísle y bloquee su alimentación.
+
+#1492
+Ouvrez la vanne de purge manuelle vers le réservoir (elle peut avoir un verrou).
+Abra a válvula de sangria manual para o tanque (ela pode ter um bloqueio).
+打开通向油箱的手动泄压阀（它可能带有锁）。
+Откройте ручной сбросной клапан на бак (он может иметь замок).
+Otwórz ręczny zawór upustowy do zbiornika (może mieć blokadę).
+Nyissa ki a tartályba vezető kézi légtelenítő szelepet (lehet rajta zár).
+Abra la válvula de purga manual al depósito (puede tener bloqueo).
+
+#1493
+Regardez le manomètre tomber à 0 bar.
+Veja o manômetro cair a 0 bar.
+看着压力表降到0 bar。
+Наблюдайте, как манометр упадёт до 0 бар.
+Obserwuj spadek manometru do 0 bar.
+Nézze, ahogy a manométer 0 barra esik.
+Observe cómo el manómetro cae a 0 bar.
+
+#1494
+Manomètre côté huile à 0 bar après la purge. Essayez de déplacer la machine : rien ne se passe.
+Manômetro do lado do óleo em 0 bar depois da sangria. Tente mover a máquina: nada acontece.
+泄压后油侧压力表为0 bar。试着让机器动一下：没有任何反应。
+Манометр масляной стороны на 0 бар после сброса. Попробуйте привести машину в движение: ничего не происходит.
+Manometr strony olejowej na 0 bar po odpowietrzeniu. Spróbuj ruszyć maszyną: nic się nie dzieje.
+Az olajoldali manométer a légtelenítés után 0 baron áll. Próbálja megmozdítani a gépet: semmi nem történik.
+Manómetro del lado del aceite a 0 bar tras la purga. Intente mover la máquina: no pasa nada.
+
+#1495
+Desserrer un raccord alors qu'il y a encore de la pression d'huile à l'intérieur.
+Afrouxar uma conexão com pressão de óleo ainda dentro.
+在里面还有油压的情况下松开接头。
+Откручивать фитинг, пока внутри ещё есть давление масла.
+Luzowanie złączki, gdy w środku jest jeszcze ciśnienie oleju.
+Csatlakozó meglazítása, amikor még olajnyomás van benne.
+Aflojar un racor con presión de aceite todavía dentro.
+
+#1496
+Oublier l'accumulateur quand la pompe est isolée.
+Esquecer o acumulador quando a bomba está isolada.
+泵隔离之后忘记了蓄能器。
+Забыть про аккумулятор, когда насос отключён.
+Zapomnienie o akumulatorze, gdy pompa jest odcięta.
+Elfelejteni az akkumulátort, amikor a szivattyút leválasztották.
+Olvidar el acumulador cuando la bomba está aislada.
+
+#1497
+ISO 4413 : les systèmes hydrauliques doivent avoir un moyen de libérer l'énergie stockée.
+ISO 4413: sistemas hidráulicos devem ter um meio de aliviar a energia armazenada.
+ISO 4413：液压系统必须有释放储存能量的方法。
+ISO 4413: гидросистемы должны иметь способ сброса накопленной энергии.
+ISO 4413: układy hydrauliczne muszą mieć sposób na uwolnienie zmagazynowanej energii.
+ISO 4413: a hidraulikus rendszereken legyen mód a tárolt energia kiengedésére.
+ISO 4413: los sistemas hidráulicos deben tener un medio para aliviar la energía almacenada.
+
+#1498
+Déchargé (0 V)
+Descarregado (0 V)
+已放电（0 V）
+Разряжен (0 В)
+Rozładowany (0 V)
+Kisütve (0 V)
+Descargado (0 V)
+
+#1499
+Chargé (560 V)
+Carregado (560 V)
+已充电（560 V）
+Заряжен (560 В)
+Naładowany (560 V)
+Feltöltve (560 V)
+Cargado (560 V)
+
+#1500
+Condensateurs
+Capacitores
+电容
+Конденсаторы
+Kondensatory
+Kondenzátorok
+Condensadores
+
+#1501
+Batterie de condensateurs (bus continu du variateur)
+Banco de capacitores (barramento CC do inversor)
+电容组（变频器直流母线）
+Батарея конденсаторов (шина постоянного тока преобразователя)
+Bateria kondensatorów (szyna DC falownika)
+Kondenzátortelep (a hajtás DC köztes köre)
+Banco de condensadores (bus de CC del variador)
+
+#1502
+Les condensateurs stockent la charge comme une bouteille stocke l'eau. Après la coupure de l'alimentation, une batterie de condensateurs de variateur peut garder 560 V pendant plusieurs minutes. Attendez le temps de l'étiquette, puis prouvez zéro avec un appareil de mesure entre + et − et vers la terre. Une perche de décharge avec résistance (jamais un tournevis) décharge une batterie en toute sécurité.
+Capacitores armazenam carga como uma garrafa armazena água. Depois que a alimentação é desligada, um banco de capacitores de inversor pode manter 560 V por minutos. Espere o tempo da etiqueta e depois comprove zero com um medidor entre + e − e para a terra. Uma vara de descarga com resistor (nunca uma chave de fenda) descarrega um banco com segurança.
+电容像瓶子储存水那样储存电荷。电源关闭后，变频器的电容组可以保持560 V好几分钟。要等到标签上写的时间，然后用仪表在+和−之间以及对地证明为零。带电阻的放电棒（绝不能用螺丝刀）可以安全地给电容组放电。
+Конденсаторы хранят заряд так же, как бутылка хранит воду. После отключения питания батарея конденсаторов преобразователя может держать 560 В несколько минут. Подождите время, указанное на табличке, затем подтвердите ноль прибором между «+» и «−» и на землю. Разрядная штанга с резистором (никогда не отвёртка) безопасно разряжает батарею.
+Kondensatory magazynują ładunek jak butelka magazynuje wodę. Po wyłączeniu zasilania bateria kondensatorów falownika może utrzymywać 560 V przez kilka minut. Poczekaj czas z etykiety, potem potwierdź zero miernikiem między + a − i do ziemi. Drążek rozładowczy z rezystorem (nigdy śrubokręt) bezpiecznie rozładowuje baterię.
+A kondenzátorok úgy tárolják a töltést, mint a palack a vizet. Az áramtalanítás után a hajtás kondenzátortelepe percekig tarthatja a 560 V-ot. Várja meg a címkén megadott időt, majd igazolja a nullát műszerrel a + és − között, valamint a föld felé. Az ellenállásos kisütőrúd (soha nem csavarhúzó) biztonságosan kisüti a telepet.
+Los condensadores almacenan carga como una botella almacena agua. Tras cortar la alimentación, un banco de condensadores de variador puede retener 560 V durante minutos. Espere el tiempo de la etiqueta y luego compruebe cero con un medidor entre + y − y a tierra. Una pértiga de descarga con resistencia (nunca un destornillador) descarga un banco con seguridad.
+
+#1503
+Stocke : de la charge dans les variateurs, alimentations, condensateurs de moteur.
+Armazena: carga em inversores, fontes, capacitores de motor.
+储存：变频器、电源、电机电容中的电荷。
+Хранит: заряд в преобразователях, блоках питания, конденсаторах двигателей.
+Magazynuje: ładunek w falownikach, zasilaczach, kondensatorach silników.
+Tárol: töltést hajtásokban, tápegységekben, motorkondenzátorokban.
+Almacena: carga en variadores, fuentes, condensadores de motor.
+
+#1504
+Couches de feuilles enroulées avec électrolyte
+Camadas de folha enroladas com eletrólito
+卷绕的箔层和电解液
+Свёрнутые слои фольги с электролитом
+Zwinięte warstwy folii z elektrolitem
+Elektrolittal tekercselt fóliarétegek
+Capas de lámina enrolladas con electrolito
+
+#1505
+Perche de décharge
+Vara de descarga
+放电棒
+Разрядная штанга
+Drążek rozładowczy
+Kisütőrúd
+Pértiga de descarga
+
+#1506
+Plus et moins. Ne les reliez pas avec un outil.
+Positivo e negativo. Não faça ponte entre eles com uma ferramenta.
+正极和负极。不要用工具把它们短接。
+Плюс и минус. Не замыкайте их инструментом.
+Plus i minus. Nie zwieraj ich narzędziem.
+Plusz és mínusz. Ne zárja őket rövidre szerszámmal.
+Más y menos. No los puentee con una herramienta.
+
+#1507
+Marquage de polarité
+Marcação de polaridade
+极性标记
+Маркировка полярности
+Oznaczenie polaryzacji
+Polaritásjelölés
+Marcado de polaridad
+
+#1508
+Une mauvaise polarité peut faire éclater un condensateur électrolytique.
+Polaridade errada pode fazer um capacitor eletrolítico estourar.
+极性接反可能使电解电容爆裂。
+Неправильная полярность может привести к взрыву электролитического конденсатора.
+Zła polaryzacja może spowodować pęknięcie kondensatora elektrolitycznego.
+Rossz polaritás miatt az elektrolit kondenzátor szétrobbanhat.
+Una polaridad incorrecta puede hacer reventar un condensador electrolítico.
+
+#1509
+Lecture de tension
+Leitura de tensão
+电压读数
+Показание напряжения
+Odczyt napięcia
+Feszültségérték
+Lectura de tensión
+
+#1510
+Prouvez-le avec un appareil prévu pour la tension du bus : avant et après le travail.
+Comprove com um medidor com classificação para a tensão do barramento: antes e depois do trabalho.
+用额定电压满足母线电压的仪表来证明：作业前后都要做。
+Подтвердите прибором, рассчитанным на напряжение шины: до и после работы.
+Potwierdź miernikiem przystosowanym do napięcia szyny: przed i po pracy.
+Igazolja a köztes kör feszültségére méretezett műszerrel: a munka előtt és után.
+Compruébelo con un medidor apto para la tensión del bus: antes y después del trabajo.
+
+#1511
+Couches de feuilles
+Camadas de folha
+箔层
+Слои фольги
+Warstwy folii
+Fóliarétegek
+Capas de lámina
+
+#1512
+Deux feuilles séparées par du papier imbibé d'électrolyte. La charge se trouve sur les feuilles.
+Duas folhas separadas por papel embebido em eletrólito. A carga fica nas folhas.
+两层箔被浸有电解液的纸隔开。电荷存在箔上。
+Две фольги, разделённые бумагой, пропитанной электролитом. Заряд находится на фольге.
+Dwie folie rozdzielone papierem nasączonym elektrolitem. Ładunek znajduje się na foliach.
+Két fólia, amelyet elektrolittal átitatott papír választ el. A töltés a fóliákon van.
+Dos láminas separadas por papel empapado en electrolito. La carga está en las láminas.
+
+#1513
+Électrolyte
+Eletrólito
+电解液
+Электролит
+Elektrolit
+Elektrolit
+Electrolito
+
+#1514
+Un liquide qui peut fuir ou sécher avec l'âge.
+Um líquido que pode vazar ou secar com a idade.
+一种会随着老化而泄漏或干涸的液体。
+Жидкость, которая со временем может вытечь или высохнуть.
+Ciecz, która może wyciekać lub wysychać z wiekiem.
+Folyadék, amely az idő múlásával kiszivároghat vagy kiszáradhat.
+Un líquido que puede fugarse o secarse con la edad.
+
+#1515
+Voie de purge
+Caminho de sangria
+泄放回路
+Цепь разряда
+Ścieżka upustowa
+Kisütő út
+Vía de descarga
+
+#1516
+Une résistance décharge la batterie lentement. Si elle défaille, la charge reste.
+Um resistor descarrega o banco lentamente. Se ele falhar, a carga permanece.
+一个电阻缓慢地给电容组放电。如果它失效，电荷就会一直留着。
+Резистор медленно разряжает батарею. Если он выйдет из строя, заряд останется.
+Rezystor rozładowuje baterię powoli. Jeśli zawiedzie, ładunek pozostaje.
+Egy ellenállás lassan kisüti a telepet. Ha meghibásodik, a töltés megmarad.
+Una resistencia descarga el banco lentamente. Si falla, la carga permanece.
+
+#1517
+Isolez et verrouillez l'alimentation du variateur.
+Isole e bloqueie a alimentação do inversor.
+隔离并锁定变频器的电源。
+Отключите и заблокируйте питание преобразователя.
+Odetnij i zablokuj zasilanie falownika.
+Válassza le és zárja le a hajtás betáplálását.
+Aísle y bloquee la alimentación del variador.
+
+#1518
+Attendez le temps imprimé sur l'étiquette.
+Espere o tempo impresso na etiqueta.
+等待标签上标注的时间。
+Подождите время, указанное на табличке.
+Poczekaj czas podany na etykiecie.
+Várja meg a címkén feltüntetett időt.
+Espere el tiempo impreso en la etiqueta.
+
+#1519
+Mesurez + vers −, + vers la terre, − vers la terre : tout proche de 0 V.
+Meça + para −, + para a terra, − para a terra: tudo próximo de 0 V.
+测量+对−、+对地、−对地：全部接近0 V。
+Измерьте «+» на «−», «+» на землю, «−» на землю: везде около 0 В.
+Zmierz + do −, + do ziemi, − do ziemi: wszystko bliskie 0 V.
+Mérje meg a + és − között, + és a föld között, − és a föld között: mindegyik 0 V közelében legyen.
+Mida + a −, + a tierra, − a tierra: todo cerca de 0 V.
+
+#1520
+Prouvez l'appareil, mesurez, prouvez l'appareil à nouveau.
+Comprove o medidor, meça, comprove o medidor de novo.
+验证仪表、测量、再验证仪表。
+Проверьте прибор, измерьте, снова проверьте прибор.
+Sprawdź miernik, zmierz, sprawdź miernik ponownie.
+Igazolja a műszert, mérjen, majd igazolja újra a műszert.
+Compruebe el medidor, mida y vuelva a comprobar el medidor.
+
+#1521
+Décharger avec un tournevis : arc, brûlure et dégâts.
+Descarregar com uma chave de fenda: arco, queimadura e danos.
+用螺丝刀放电：电弧、灼伤和损坏。
+Разряжать отвёрткой: дуга, ожог и повреждения.
+Rozładowywanie śrubokrętem: łuk, poparzenie i uszkodzenia.
+Kisütés csavarhúzóval: ív, égés és károk.
+Descargar con un destornillador: arco, quemadura y daños.
+
+#1522
+IEC 61800-5-1 ; EN 50110-1.
+IEC 61800-5-1; EN 50110-1.
+IEC 61800-5-1；EN 50110-1。
+IEC 61800-5-1; EN 50110-1.
+IEC 61800-5-1; EN 50110-1.
+IEC 61800-5-1; EN 50110-1.
+IEC 61800-5-1; EN 50110-1.
+
+#1523
+Coulisseau en bas
+Êmbolo abaixado
+滑块在下
+Ползун опущен
+Suwak opuszczony
+Szán lent
+Carro abajo
+
+#1524
+Coulisseau relevé
+Êmbolo elevado
+滑块抬起
+Ползун поднят
+Suwak uniesiony
+Szán fent
+Carro elevado
+
+#1525
+Coulisseau
+Êmbolo
+滑块
+Ползун
+Suwak
+Szán
+Carro
+
+#1526
+Avec la cale de sécurité sous le coulisseau, il ne peut pas descendre même si l'air est relâché.
+Com o calço de segurança sob o êmbolo, ele não consegue descer mesmo que o ar seja liberado.
+滑块下面装了安全支撑块，即使空气泄放，它也无法下落。
+Со страховочным упором под ползуном он не может опуститься, даже если воздух сброшен.
+Z blokadą bezpieczeństwa pod suwakiem nie może on opaść, nawet jeśli powietrze zostanie spuszczone.
+A szán alatti biztonsági támasszal a szán akkor sem tud leesni, ha a levegőt kiengedték.
+Con el calzo de seguridad bajo el carro, este no puede bajar aunque se libere el aire.
+
+#1527
+Coulisseau de presse relevé (gravité)
+Êmbolo de prensa elevado (gravidade)
+压力机滑块抬起（重力）
+Поднятый ползун пресса (гравитация)
+Uniesiony suwak prasy (grawitacja)
+Felemelt présszán (gravitáció)
+Carro de prensa elevado (gravedad)
+
+#1528
+Un coulisseau maintenu en haut par la pression d'air ou d'huile a de l'énergie potentielle : si la pression fuit, il tombe de tout son poids. L'isolement et la purge ne suffisent pas. Placez une cale ou une goupille mécanique de sécurité dessous, et seulement ensuite travaillez dans la zone d'outil. La cale fait partie de la consignation et reçoit votre cadenas.
+Um êmbolo mantido no alto por pressão de ar ou óleo tem energia potencial: se a pressão vaza, ele cai com todo o seu peso. Isolar e ventilar não basta. Coloque um calço ou pino mecânico de segurança sob ele e só então trabalhe na área da ferramenta. O calço faz parte do bloqueio e recebe o seu cadeado.
+被气压或油压托起的滑块具有势能：如果压力泄漏，它会带着全部重量掉下来。仅隔离和放空是不够的。要在它下面放一个机械安全支撑块或销，然后才能在模具区域作业。支撑块是上锁的一部分，要挂上你的挂锁。
+Ползун, удерживаемый давлением воздуха или масла, обладает потенциальной энергией: если давление уйдёт, он упадёт всей своей массой. Отключения и сброса недостаточно. Поставьте под него механический страховочный упор или штифт и только затем работайте в зоне инструмента. Упор — часть блокировки и принимает ваш замок.
+Suwak utrzymywany w górze ciśnieniem powietrza lub oleju ma energię potencjalną: jeśli ciśnienie ucieknie, spadnie całym ciężarem. Odcięcie i odpowietrzenie nie wystarczą. Umieść pod nim mechaniczną blokadę lub sworzeń bezpieczeństwa i dopiero wtedy pracuj w strefie narzędzia. Blokada jest częścią zabezpieczenia i przyjmuje Twoją kłódkę.
+A levegő- vagy olajnyomás által felemelt szánnak helyzeti energiája van: ha a nyomás elszökik, teljes súlyával leesik. A leválasztás és a légtelenítés nem elég. Tegyen alá mechanikus biztonsági támaszt vagy szeget, és csak azután dolgozzon a szerszámtérben. A támasz a lezárás része, és az Ön lakatját fogadja.
+Un carro mantenido arriba por presión de aire o aceite tiene energía potencial: si la presión se escapa, cae con todo su peso. Aislar y ventear no basta. Ponga debajo un calzo o pasador mecánico de seguridad y solo entonces trabaje en la zona de la herramienta. El calzo es parte del bloqueo y lleva su candado.
+
+#1529
+Stocke : l'énergie de gravité d'une masse relevée.
+Armazena: energia gravitacional de uma massa elevada.
+储存：被抬起质量的重力势能。
+Хранит: гравитационную энергию поднятой массы.
+Magazynuje: energię grawitacyjną uniesionej masy.
+Tárol: egy felemelt tömeg gravitációs energiáját.
+Almacena: la energía de gravedad de una masa elevada.
+
+#1530
+La pression d'air dans le vérin maintient le coulisseau en haut
+A pressão de ar no cilindro mantém o êmbolo no alto
+气缸里的气压把滑块托在上面
+Давление воздуха в цилиндре удерживает ползун наверху
+Ciśnienie powietrza w siłowniku utrzymuje suwak w górze
+A hengerben lévő légnyomás tartja fent a szánt
+La presión de aire en el cilindro mantiene el carro arriba
+
+#1531
+Rien ne le retient si l'air fuit
+Nada o segura se o ar vazar
+如果空气泄漏，就没有任何东西托住它
+Ничто его не удерживает, если воздух уйдёт
+Nic go nie trzyma, jeśli powietrze ucieknie
+Semmi nem tartja, ha a levegő elszökik
+Nada lo sujeta si el aire se escapa
+
+#1532
+La tête mobile. Relevée, son poids est porté par l'air, pas par du métal.
+A cabeça móvel. Quando elevada, seu peso é sustentado pelo ar, não por metal.
+移动的压头。抬起时，它的重量由空气承担，而不是金属。
+Подвижная головка. В поднятом состоянии её вес держит воздух, а не металл.
+Ruchoma głowica. Gdy jest uniesiona, jej ciężar niesie powietrze, a nie metal.
+A mozgó fej. Felemelt állapotban a súlyát a levegő hordozza, nem a fém.
+La cabeza móvil. Elevada, su peso lo soporta el aire, no el metal.
+
+#1533
+Vérin
+Cilindro
+气缸
+Цилиндр
+Siłownik
+Henger
+Cilindro
+
+#1534
+Purgé et verrouillé aussi, mais on ne s'y fie jamais seul.
+Ventilado e bloqueado também, mas nunca se confia somente nisso.
+也已放空并上锁，但绝不能单靠它。
+Тоже сброшен и заблокирован, но никогда не полагаются только на это.
+Również odpowietrzony i zablokowany, ale nigdy nie polegaj tylko na tym.
+Légtelenítve és lezárva is van, de soha nem szabad egyedül erre hagyatkozni.
+También venteado y bloqueado, pero nunca se confía solo en eso.
+
+#1535
+Zone d'outil
+Área da ferramenta
+模具区域
+Зона инструмента
+Strefa narzędzia
+Szerszámtér
+Zona de la herramienta
+
+#1536
+Là où vont les mains. C'est la raison de la cale.
+Onde as mãos vão. É o motivo do calço.
+手要伸进去的地方。这就是要装支撑块的原因。
+Куда попадают руки. Это причина установки упора.
+Tam, gdzie trafiają ręce. To powód blokady.
+Ahová a kezek kerülnek. Ez a támasz oka.
+Donde van las manos. Es la razón del calzo.
+
+#1537
+Côté air
+Lado do ar
+气侧
+Воздушная сторона
+Strona powietrza
+Levegőoldal
+Lado del aire
+
+#1538
+La pression ici soulève et maintient le coulisseau.
+A pressão aqui levanta e mantém o êmbolo.
+这里的压力把滑块抬起并托住。
+Давление здесь поднимает и удерживает ползун.
+Ciśnienie tutaj unosi i utrzymuje suwak.
+Az itteni nyomás emeli és tartja a szánt.
+La presión aquí levanta y mantiene el carro.
+
+#1539
+Tige
+Haste
+活塞杆
+Шток
+Tłoczysko
+Dugattyúrúd
+Vástago
+
+#1540
+Transmet la force vers le bas jusqu'au coulisseau.
+Transmite a força para baixo até o êmbolo.
+把力向下传递给滑块。
+Передаёт усилие вниз на ползун.
+Przenosi siłę w dół na suwak.
+Lefelé viszi az erőt a szánhoz.
+Transmite la fuerza hacia abajo hasta el carro.
+
+#1541
+Arrêtez la presse, isolez et verrouillez l'air et l'électricité.
+Pare a prensa e isole e bloqueie o ar e a energia elétrica.
+停下压力机，隔离并锁定气源和电源。
+Остановите пресс, отключите и заблокируйте воздух и электропитание.
+Zatrzymaj prasę, odetnij i zablokuj powietrze i zasilanie.
+Állítsa le a prést, válassza le és zárja le a levegőt és az áramot.
+Pare la prensa y aísle y bloquee el aire y la energía.
+
+#1542
+Relevez le coulisseau si nécessaire et insérez la cale de sécurité dessous.
+Levante o êmbolo se necessário e insira o calço de segurança sob ele.
+必要时把滑块抬起，并在它下面插入安全支撑块。
+При необходимости поднимите ползун и вставьте под него страховочный упор.
+W razie potrzeby unieś suwak i wsuń pod niego blokadę bezpieczeństwa.
+Ha kell, emelje fel a szánt, és tegye alá a biztonsági támaszt.
+Eleve el carro si hace falta e inserte debajo el calzo de seguridad.
+
+#1543
+Mettez votre cadenas sur la cale et une étiquette sur la presse.
+Coloque seu cadeado no calço e uma etiqueta na prensa.
+把你的挂锁挂在支撑块上，把标签挂在压力机上。
+Повесьте свой замок на упор и бирку на пресс.
+Załóż swoją kłódkę na blokadę, a zawieszkę na prasę.
+Tegye fel a lakatját a támaszra, és a címkét a présre.
+Ponga su candado en el calzo y una etiqueta en la prensa.
+
+#1544
+Abaissez doucement le coulisseau sur la cale, puis vérifiez qu'il repose fermement.
+Baixe o êmbolo suavemente sobre o calço e confira se ele está firmemente assentado.
+轻轻把滑块降到支撑块上，然后检查它是否稳稳地放住了。
+Плавно опустите ползун на упор, затем убедитесь, что он надёжно на нём лежит.
+Opuść delikatnie suwak na blokadę, a potem sprawdź, czy opiera się pewnie.
+Eressze le óvatosan a szánt a támaszra, majd ellenőrizze, hogy szilárdan megtámaszkodik.
+Baje el carro suavemente sobre el calzo y compruebe que descansa firmemente.
+
+#1545
+Se fier à la seule vanne d'air.
+Confiar somente na válvula de ar.
+只相信空气阀。
+Полагаться только на воздушный клапан.
+Poleganie tylko na zaworze powietrza.
+Egyedül a levegőszelepben bízni.
+Fiarse solo de la válvula de aire.
+
+#1546
+Mettre la main parce que le cycle est arrêté.
+Enfiar a mão porque o ciclo está parado.
+因为循环停了就把手伸进去。
+Лезть рукой, потому что цикл остановлен.
+Wkładanie ręki, bo cykl jest zatrzymany.
+Benyúlni, mert a ciklus megállt.
+Meter la mano porque el ciclo está parado.
+
+#1547
+ISO 14118 / OSHA 1910.147 : calez ou retenez les charges gravitaires.
+ISO 14118 / OSHA 1910.147: calce ou restrinja cargas gravitacionais.
+ISO 14118 / OSHA 1910.147：对重力负载要加支撑块或约束。
+ISO 14118 / OSHA 1910.147: подпирайте или фиксируйте гравитационные нагрузки.
+ISO 14118 / OSHA 1910.147: blokuj lub unieruchamiaj obciążenia grawitacyjne.
+ISO 14118 / OSHA 1910.147: támassza meg vagy rögzítse a gravitációs terheket.
+ISO 14118 / OSHA 1910.147: calce o sujete las cargas gravitatorias.
+
+#1548
+Comprimé (chargé)
+Comprimida (carregada)
+压缩（蓄能）
+Сжата (заряжена)
+Sprężona (naładowana)
+Összenyomva (feltöltve)
+Comprimido (cargado)
+
+#1549
+La goupille de retenue emprisonne le ressort. Il ne peut pas jaillir tant que la goupille et le cadenas sont en place.
+O pino de retenção prende a mola. Ela não pode saltar enquanto o pino e o cadeado estiverem colocados.
+固定销把弹簧卡住。只要销和挂锁在位，它就不会弹出。
+Фиксирующий штифт удерживает пружину. Она не может выскочить, пока стоят штифт и замок.
+Sworzeń zabezpieczający zatrzymuje sprężynę. Nie może ona wystrzelić, dopóki sworzeń i kłódka są na miejscu.
+A rögzítőszeg fogja a rugót. Nem ugorhat ki, amíg a szeg és a lakat rajta van.
+El pasador de retención atrapa el muelle. No puede salir disparado mientras estén puestos el pasador y el candado.
+
+#1550
+Ressort sous charge (serrage, frein, ressort de rappel)
+Mola sob carga (fixador, freio, mola de retorno)
+受载弹簧（夹具、制动器、复位弹簧）
+Пружина под нагрузкой (зажим, тормоз, возвратная пружина)
+Sprężyna pod obciążeniem (uchwyt, hamulec, sprężyna powrotna)
+Terhelt rugó (leszorító, fék, visszahúzó rugó)
+Muelle bajo carga (sujeción, freno, muelle de retorno)
+
+#1551
+Un ressort comprimé continue de pousser même quand toutes les alimentations sont coupées. Les freins à ressort, serrages et ressorts de rappel peuvent bouger ou projeter des pièces quand vous desserrez un boulon. Bloquez le mouvement avec une goupille ou un serre-joint, ou relâchez le ressort lentement de façon contrôlée, avant d'ouvrir quoi que ce soit qui le retient.
+Uma mola comprimida continua empurrando mesmo com todas as alimentações cortadas. Freios por mola, fixadores e molas de retorno podem se mover ou lançar peças quando você afrouxa um parafuso. Bloqueie o movimento com um pino ou um grampo, ou libere a mola devagar e sob controle, antes de abrir qualquer coisa que a prenda.
+被压缩的弹簧即使所有电源都断了，也一直在推。弹簧制动器、夹具和复位弹簧在你松开螺栓时可能会移动或弹飞零件。在打开任何固定它的部件之前，要用销或夹钳卡住运动，或者可控地缓慢释放弹簧。
+Сжатая пружина продолжает давить, даже когда все источники отключены. Пружинные тормоза, зажимы и возвратные пружины могут сдвинуться или выбросить детали, когда вы ослабляете болт. Прежде чем вскрывать что-либо, удерживающее пружину, застопорьте движение штифтом или струбциной либо медленно и контролируемо сбросьте усилие пружины.
+Sprężona sprężyna dalej pcha, nawet gdy wszystkie zasilania są odcięte. Hamulce sprężynowe, uchwyty i sprężyny powrotne mogą się poruszyć lub wyrzucić części przy luzowaniu śruby. Zablokuj ruch sworzniem lub zaciskiem albo zwolnij sprężynę powoli i kontrolowanie, zanim otworzysz cokolwiek, co ją trzyma.
+Az összenyomott rugó akkor is tol, ha minden betáplálás le van választva. A rugós fékek, leszorítók és visszahúzó rugók megmozdulhatnak, vagy alkatrészeket lökhetnek ki, amikor meglazít egy csavart. Mielőtt bármit kinyitna, ami tartja, akadályozza meg a mozgást szeggel vagy szorítóval, vagy lassan, ellenőrzötten engedje ki a rugót.
+Un muelle comprimido sigue empujando incluso con todas las alimentaciones cortadas. Los frenos de muelle, las sujeciones y los muelles de retorno pueden moverse o lanzar piezas al aflojar un perno. Bloquee el movimiento con un pasador o una abrazadera, o libere el muelle despacio y de forma controlada, antes de abrir nada que lo sujete.
+
+#1552
+Stocke : de l'énergie mécanique dans un ressort comprimé.
+Armazena: energia mecânica em uma mola comprimida.
+储存：压缩弹簧中的机械能。
+Хранит: механическую энергию в сжатой пружине.
+Magazynuje: energię mechaniczną w sprężonej sprężynie.
+Tárol: mechanikai energiát egy összenyomott rugóban.
+Almacena: energía mecánica en un muelle comprimido.
+
+#1553
+Énergie stockée : il poussera quand on le libère
+Energia armazenada: vai empurrar quando liberada
+储存了能量：松开时会推出
+Накопленная энергия: пружина будет давить при освобождении
+Zmagazynowana energia: będzie pchać po zwolnieniu
+Tárolt energia: kioldáskor tolni fog
+Energía almacenada: empujará al liberarse
+
+#1554
+La goupille retient le ressort
+O pino segura a mola
+销子固定住弹簧
+Штифт удерживает пружину
+Sworzeń trzyma sprężynę
+A szeg tartja a rugót
+El pasador sujeta el muelle
+
+#1555
+La longueur comprimée est plus courte que la longueur libre. La différence est l'énergie stockée.
+O comprimento comprimido é menor que o comprimento livre. A diferença é a energia armazenada.
+压缩长度比自由长度短。差值就是储存的能量。
+Длина в сжатом состоянии меньше свободной длины. Разница — это накопленная энергия.
+Długość sprężona jest mniejsza niż długość swobodna. Różnica to zmagazynowana energia.
+Az összenyomott hossz rövidebb, mint a szabad hossz. A különbség a tárolt energia.
+La longitud comprimida es menor que la longitud libre. La diferencia es la energía almacenada.
+
+#1556
+Plaque d'extrémité fixe
+Placa de extremidade fixa
+固定端板
+Неподвижная торцевая пластина
+Stała płyta końcowa
+Rögzített végfedél
+Placa de extremo fija
+
+#1557
+Les boulons ici supportent toute la force du ressort.
+Os parafusos aqui suportam toda a força da mola.
+这里的螺栓承受弹簧的全部力量。
+Болты здесь несут всё усилие пружины.
+Śruby tutaj przenoszą całą siłę sprężyny.
+Az itteni csavarok viselik a rugó teljes erejét.
+Los pernos aquí soportan toda la fuerza del muelle.
+
+#1558
+Tige de guidage
+Haste-guia
+导杆
+Направляющий стержень
+Prowadnik
+Vezetőrúd
+Varilla guía
+
+#1559
+Garde le ressort droit pour qu'il ne flambe pas.
+Mantém a mola reta para que não flambe.
+使弹簧保持笔直，不致弯曲跑偏。
+Удерживает пружину прямой, чтобы она не выпучивалась.
+Utrzymuje sprężynę prosto, aby nie wyboczyła się.
+Egyenesen tartja a rugót, hogy ki ne hajoljon.
+Mantiene el muelle recto para que no pandee.
+
+#1560
+Relâchez ou bloquez le ressort avant de desserrer un boulon.
+Libere ou bloqueie a mola antes de afrouxar qualquer parafuso.
+松任何螺栓之前，先释放或卡住弹簧。
+Освободите или застопорьте пружину, прежде чем ослаблять любой болт.
+Zwolnij lub zablokuj sprężynę przed luzowaniem jakiejkolwiek śruby.
+Bármelyik csavar meglazítása előtt engedje ki vagy blokkolja a rugót.
+Libere o bloquee el muelle antes de aflojar cualquier perno.
+
+#1561
+Posez une goupille de retenue ou un serre-joint.
+Instale um pino de retenção ou um grampo.
+装上固定销或夹钳。
+Установите фиксирующий штифт или струбцину.
+Załóż sworzeń zabezpieczający lub zacisk.
+Tegyen fel rögzítőszeget vagy szorítót.
+Coloque un pasador de retención o una abrazadera.
+
+#1562
+Cadenassez la goupille et étiquetez-la.
+Coloque um cadeado no pino e etiquete.
+给销挂上挂锁并挂标签。
+Повесьте замок на штифт и добавьте бирку.
+Zablokuj sworzeń kłódką i oznacz zawieszką.
+Zárja le lakattal a szeget, és címkézze fel.
+Ponga candado al pasador y etiquételo.
+
+#1563
+Essayez de bouger la pièce à la main : elle doit rester en place.
+Tente mover a peça com a mão: ela deve ficar parada.
+试着用手移动该部件：它必须纹丝不动。
+Попробуйте сдвинуть деталь рукой: она должна остаться на месте.
+Spróbuj poruszyć część ręką: musi pozostać na miejscu.
+Próbálja kézzel megmozdítani az alkatrészt: a helyén kell maradnia.
+Intente mover la pieza a mano: debe quedarse en su sitio.
+
+#1564
+Desserrer les boulons qui retiennent un ressort chargé.
+Afrouxar os parafusos que prendem uma mola carregada.
+松开固定着受载弹簧的螺栓。
+Ослаблять болты, удерживающие нагруженную пружину.
+Luzowanie śrub, które trzymają obciążoną sprężynę.
+A terhelt rugót tartó csavarok meglazítása.
+Aflojar los pernos que sujetan un muelle cargado.
+
+#1565
+ISO 14118 : retenez les ressorts et autres énergies mécaniques stockées.
+ISO 14118: restrinja molas e outras energias mecânicas armazenadas.
+ISO 14118：对弹簧和其他储存的机械能要加以约束。
+ISO 14118: фиксируйте пружины и другую накопленную механическую энергию.
+ISO 14118: unieruchamiaj sprężyny i inną zmagazynowaną energię mechaniczną.
+ISO 14118: rögzítse a rugókat és más tárolt mechanikai energiát.
+ISO 14118: sujete los muelles y otra energía mecánica almacenada.
+
+#1566
+Refroidi (30 °C)
+Resfriado (30 °C)
+已冷却（30 °C）
+Остыла (30 °C)
+Ostudzona (30 °C)
+Lehűlt (30 °C)
+Enfriada (30 °C)
+
+#1567
+Chaud (180 °C)
+Quente (180 °C)
+高温（180 °C）
+Горячая (180 °C)
+Gorąca (180 °C)
+Forró (180 °C)
+Caliente (180 °C)
+
+#1568
+Conduite
+Tubo
+管道
+Труба
+Rura
+Cső
+Tubería
+
+#1569
+La barrière et l'étiquette interdisent l'accès tant que la température n'est pas confirmée.
+A barreira e a etiqueta impedem o acesso até a temperatura ser confirmada.
+隔离栏和标签会禁止进入，直到温度得到确认。
+Ограждение и бирка запрещают доступ, пока температура не подтверждена.
+Bariera i zawieszka zabraniają dostępu, dopóki temperatura nie zostanie potwierdzona.
+A korlát és a címke megtiltja a hozzáférést, amíg a hőmérsékletet nem erősítették meg.
+La barrera y la etiqueta impiden el acceso hasta que se confirme la temperatura.
+
+#1570
+Conduite ou récipient chaud (énergie thermique)
+Tubo ou vaso quente (energia térmica)
+高温管道或容器（热能）
+Горячая труба или сосуд (тепловая энергия)
+Gorąca rura lub zbiornik (energia cieplna)
+Forró cső vagy edény (hőenergia)
+Tubería o recipiente caliente (energía térmica)
+
+#1571
+La chaleur est aussi de l'énergie stockée. Une ligne de vapeur est isolée et verrouillée comme les autres, mais le métal et le fluide restent chauds pendant des heures. Laissez refroidir ou portez les bons EPI, et vérifiez la température de surface au thermomètre avant de toucher ou d'ouvrir. Ouvrir une ligne chaude peut libérer de la vapeur ou du condensat chaud.
+Calor também é energia armazenada. Uma linha de vapor é isolada e bloqueada como qualquer outra, mas o metal e o fluido continuam quentes por horas. Deixe esfriar ou use o EPI correto, e verifique a temperatura da superfície com um termômetro antes de tocar ou abrir. Abrir uma linha quente pode liberar vapor ou condensado quente.
+热量同样是储存的能量。蒸汽管线像其他管线一样要隔离和上锁，但金属和流体会热上好几个小时。要等它冷却，或者穿戴合适的防护装备，并且在触摸或打开之前用温度计核实表面温度。打开热管线可能会喷出蒸汽或热冷凝水。
+Тепло — это тоже накопленная энергия. Паровую линию отключают и блокируют, как любую другую, но металл и среда остаются горячими часами. Дайте остыть или используйте подходящие СИЗ и проверьте температуру поверхности термометром, прежде чем касаться или вскрывать. При вскрытии горячей линии могут вырваться пар или горячий конденсат.
+Ciepło jest również zmagazynowaną energią. Przewód parowy odcina się i blokuje jak każdy inny, ale metal i medium pozostają gorące przez godziny. Poczekaj do ostygnięcia lub użyj właściwych ŚOI i sprawdź temperaturę powierzchni termometrem, zanim dotkniesz lub otworzysz. Otwarcie gorącego przewodu może uwolnić parę lub gorący kondensat.
+A hő is tárolt energia. A gőzvezetéket ugyanúgy leválasztják és lezárják, mint bármelyik másikat, de a fém és a közeg órákig forró marad. Hagyja lehűlni, vagy viseljen megfelelő egyéni védőeszközt, és érintés vagy nyitás előtt ellenőrizze a felületi hőmérsékletet hőmérővel. Egy forró vezeték megnyitása gőzt vagy forró kondenzátumot szabadíthat fel.
+El calor también es energía almacenada. Una línea de vapor se aísla y se bloquea como cualquier otra, pero el metal y el fluido siguen calientes durante horas. Deje enfriar o use el EPI adecuado, y compruebe la temperatura de la superficie con un termómetro antes de tocar o abrir. Abrir una línea caliente puede liberar vapor o condensado caliente.
+
+#1572
+Stocke : de la chaleur dans le métal et le fluide.
+Armazena: calor no metal e no fluido.
+储存：金属和流体中的热量。
+Хранит: тепло в металле и среде.
+Magazynuje: ciepło w metalu i medium.
+Tárol: hőt a fémben és a közegben.
+Almacena: calor en el metal y el fluido.
+
+#1573
+surface
+superfície
+表面
+поверхность
+powierzchnia
+felület
+superficie
+
+#1574
+Vapeur ou fluide chaud à l'intérieur
+Vapor ou fluido quente dentro
+内部有蒸汽或热流体
+Внутри горячий пар или среда
+W środku gorąca para lub medium
+Bent forró gőz vagy közeg
+Vapor o fluido caliente dentro
+
+#1575
+Fluide froid, vidangé
+Fluido frio, drenado
+流体已冷却并已排空
+Среда холодная, слита
+Medium zimne, spuszczone
+Hideg közeg, leeresztve
+Fluido frío, drenado
+
+#1576
+Ne pas toucher
+Não toque
+请勿触摸
+Не прикасаться
+Nie dotykać
+Ne érintse meg
+No tocar
+
+#1577
+Calorifuge ou métal nu
+Isolamento ou metal exposto
+保温层或裸露金属
+Изоляция или голый металл
+Izolacja lub gołe metal
+Szigetelés vagy csupasz fém
+Aislamiento o metal desnudo
+
+#1578
+Le métal nu peut brûler au contact. Le calorifuge masque la vraie température.
+Metal exposto pode queimar ao toque. O isolamento esconde a temperatura real.
+裸露金属接触时会烫伤。保温层会掩盖真实温度。
+Голый металл может обжечь при контакте. Изоляция скрывает реальную температуру.
+Gołe metal może poparzyć przy dotknięciu. Izolacja ukrywa prawdziwą temperaturę.
+A csupasz fém érintésre megéget. A szigetelés elrejti a valódi hőmérsékletet.
+El metal desnudo puede quemar al contacto. El aislamiento oculta la temperatura real.
+
+#1579
+Thermomètre
+Termômetro
+温度计
+Термометр
+Termometr
+Hőmérő
+Termómetro
+
+#1580
+Lecture infrarouge ou par contact de la surface avant de toucher.
+Leitura infravermelha ou por contato da superfície antes de tocar.
+触摸之前，先用红外或接触式测量表面温度。
+Инфракрасное или контактное измерение поверхности перед тем, как касаться.
+Pomiar powierzchni podczerwienią lub stykowy przed dotknięciem.
+A felület infravörös vagy érintkezős leolvasása érintés előtt.
+Lectura infrarroja o por contacto de la superficie antes de tocar.
+
+#1581
+Fuite de vapeur
+Vazamento de vapor
+蒸汽泄漏
+Утечка пара
+Wyciek pary
+Gőzszivárgás
+Fuga de vapor
+
+#1582
+Invisible près de la conduite et très dangereuse.
+Invisível perto do tubo e muito perigoso.
+在管道附近看不见，非常危险。
+Невидим рядом с трубой и очень опасен.
+Niewidoczny w pobliżu rury i bardzo niebezpieczny.
+A cső közelében láthatatlan és nagyon veszélyes.
+Invisible cerca de la tubería y muy peligroso.
+
+#1583
+Fluide à l'intérieur
+Fluido dentro
+内部流体
+Среда внутри
+Medium w środku
+Közeg belül
+Fluido dentro
+
+#1584
+Isolez, vidangez et purgez la ligne avant d'ouvrir une bride.
+Isole, drene e ventile a linha antes de abrir um flange.
+打开法兰之前，先隔离、排空并泄压该管线。
+Отключите, слейте и сбросьте давление в линии, прежде чем вскрывать фланец.
+Odetnij, spuść i odpowietrz przewód przed otwarciem kołnierza.
+Karima kinyitása előtt válassza le, ürítse le és légtelenítse a vezetéket.
+Aísle, drene y ventee la línea antes de abrir una brida.
+
+#1585
+Isolez et verrouillez les vannes de vapeur ou de fluide chaud.
+Isole e bloqueie as válvulas de vapor ou fluido quente.
+隔离并锁住蒸汽或热流体阀门。
+Отключите и заблокируйте краны пара или горячей среды.
+Odetnij i zablokuj zawory pary lub gorącego medium.
+Válassza le és zárja le a gőz- vagy forró közeg szelepeit.
+Aísle y bloquee las válvulas de vapor o de fluido caliente.
+
+#1586
+Vidangez, purgez et laissez refroidir.
+Drene, ventile e deixe esfriar.
+排空、泄压，并让其冷却。
+Слейте, сбросьте давление и дайте остыть.
+Spuść, odpowietrz i poczekaj do ostygnięcia.
+Ürítse le, légtelenítse, és hagyja lehűlni.
+Drene, ventee y deje enfriar.
+
+#1587
+Vérifiez la température de surface, puis étiquetez et barrez la zone.
+Verifique a temperatura da superfície e depois etiquete e isole a área com barreira.
+检查表面温度，然后挂标签并设置围栏。
+Проверьте температуру поверхности, затем повесьте бирку и ограничьте зону ограждением.
+Sprawdź temperaturę powierzchni, potem oznacz zawieszką i odgródź strefę.
+Ellenőrizze a felületi hőmérsékletet, majd tegyen fel címkét, és korlátozza el a területet.
+Compruebe la temperatura de la superficie y luego etiquete y balice la zona.
+
+#1588
+Lecture du thermomètre sous la limite de votre procédure (par exemple 45 °C).
+Leitura do termômetro abaixo do limite do seu procedimento (por exemplo 45 °C).
+温度计读数低于你的程序规定的限值（例如45 °C）。
+Показание термометра ниже предела вашей процедуры (например, 45 °C).
+Odczyt termometru poniżej limitu Twojej procedury (na przykład 45 °C).
+A hőmérő a saját eljárása határértéke alatt mutat (például 45 °C).
+Lectura del termómetro por debajo del límite de su procedimiento (por ejemplo 45 °C).
+
+#1589
+Toucher pour « sentir si c'est froid ».
+Tocar para "sentir se está frio".
+用手摸一摸"看凉不凉"。
+Трогать, чтобы «почувствовать, остыло ли».
+Dotykanie, żeby „poczuć, czy ostygło".
+Megérinteni, hogy „érezze, lehűlt-e".
+Tocar para «notar si está frío».
+
+#1590
+Ouvrir une bride sur une ligne isolée mais encore chaude.
+Abrir um flange em uma linha isolada mas ainda quente.
+在已隔离但仍然很热的管线上打开法兰。
+Вскрывать фланец на линии, которая отключена, но ещё горячая.
+Otwieranie kołnierza na przewodzie odciętym, ale nadal gorącym.
+Karima kinyitása olyan vezetéken, amely le van választva, de még forró.
+Abrir una brida en una línea aislada pero todavía caliente.
+
+#1591
+EN 563 / ISO 13732-1 : limites de température des surfaces touchables.
+EN 563 / ISO 13732-1: limites de temperatura de superfícies tocáveis.
+EN 563 / ISO 13732-1：可触及表面的温度限值。
+EN 563 / ISO 13732-1: предельные температуры доступных для прикосновения поверхностей.
+EN 563 / ISO 13732-1: limity temperatury powierzchni dostępnych dotykowo.
+EN 563 / ISO 13732-1: megérinthető felületek hőmérsékleti határértékei.
+EN 563 / ISO 13732-1: límites de temperatura de superficies tocables.
+
+#1592
+Verrouillé
+Bloqueado
+已上锁
+Заблокировано
+Zablokowane
+Lezárva
+Bloqueado
+
+#1593
+Cadenas
+Cadeado
+挂锁
+Навесной замок
+Kłódka
+Lakat
+Candado
+
+#1594
+Cadenas LOTO (une personne, un cadenas, une clé)
+Cadeado LOTO (uma pessoa, um cadeado, uma chave)
+LOTO挂锁（一人、一锁、一钥匙）
+Замок LOTO (один человек, один замок, один ключ)
+Kłódka LOTO (jedna osoba, jedna kłódka, jeden klucz)
+LOTO-lakat (egy személy, egy lakat, egy kulcs)
+Candado LOTO (una persona, un candado, una llave)
+
+#1595
+Un cadenas de consignation est clé à une seule personne. Vous seul avez la clé, donc vous seul pouvez retirer votre cadenas. Il porte votre nom. Si vous quittez le travail, votre cadenas reste en place jusqu'à votre retour. Personne ne retire le cadenas d'un autre sans la procédure écrite du site. Utilisez un cadenas uniquement pour le LOTO, jamais pour un casier ou une boîte à outils.
+Um cadeado de bloqueio é chaveado para uma só pessoa. Somente você tem a chave, então somente você pode retirar o seu cadeado. Ele leva o seu nome. Se você sair do trabalho, seu cadeado permanece até você voltar. Ninguém retira o cadeado de outra pessoa sem o procedimento escrito da planta. Use um cadeado somente para LOTO, nunca para um armário ou uma caixa de ferramentas.
+锁定挂锁只对应一个人。只有你持有钥匙，所以只有你能取下你的锁。它带有你的名字。如果你离开作业，你的锁就一直留着，直到你回来。没有现场书面程序，任何人都不能取下别人的锁。挂锁只用于LOTO，绝不要用在更衣柜或工具箱上。
+Блокировочный замок закрепляется за одним человеком. Ключ только у вас, поэтому снять ваш замок можете только вы. На нём ваше имя. Если вы уходите с работы, ваш замок остаётся на месте до вашего возвращения. Никто не снимает чужой замок без письменной процедуры предприятия. Используйте замок только для LOTO, никогда для шкафчика или ящика с инструментами.
+Kłódka blokująca jest przypisana do jednej osoby. Tylko Ty masz klucz, więc tylko Ty możesz zdjąć swoją kłódkę. Nosi Twoje imię i nazwisko. Jeśli odchodzisz od pracy, Twoja kłódka zostaje do Twojego powrotu. Nikt nie zdejmuje cudzej kłódki bez pisemnej procedury zakładu. Używaj kłódki tylko do LOTO, nigdy do szafki lub skrzynki z narzędziami.
+A lezáró lakat egyetlen személyhez tartozik. Csak Önnél van a kulcs, ezért csak Ön veheti le a saját lakatját. Rajta van az Ön neve. Ha elhagyja a munkát, a lakata a helyén marad, amíg vissza nem tér. Senki nem veszi le más lakatját az üzem írásos eljárása nélkül. Lakatot csak LOTO-hoz használjon, soha szekrényhez vagy szerszámosládához.
+Un candado de bloqueo está asignado a una sola persona. Solo usted tiene la llave, así que solo usted puede quitar su candado. Lleva su nombre. Si deja el trabajo, su candado se queda puesto hasta que vuelva. Nadie quita el candado de otra persona sin el procedimiento escrito de la planta. Use un candado solo para LOTO, nunca para una taquilla o una caja de herramientas.
+
+#1596
+But : contrôle personnel du dispositif d'isolement.
+Finalidade: controle pessoal do dispositivo de isolamento.
+用途：由个人控制隔离装置。
+Назначение: личный контроль над устройством отключения.
+Cel: osobista kontrola urządzenia odcinającego.
+Cél: a leválasztó eszköz személyes ellenőrzése.
+Finalidad: control personal del dispositivo de aislamiento.
+
+#1597
+Ouvert : la clé est dans le cadenas
+Aberto: a chave está no cadeado
+打开：钥匙插在锁里
+Открыт: ключ в замке
+Otwarta: klucz jest w kłódce
+Nyitva: a kulcs a lakatban van
+Abierto: la llave está en el candado
+
+#1598
+Verrouillé : la seule clé reste dans votre poche
+Bloqueado: a única chave fica no seu bolso
+已上锁：唯一的钥匙留在你口袋里
+Заблокирован: единственный ключ остаётся у вас в кармане
+Zablokowana: jedyny klucz zostaje w Twojej kieszeni
+Lezárva: az egyetlen kulcs a zsebében marad
+Bloqueado: la única llave se queda en su bolsillo
+
+#1599
+La clé soulève chaque goupille exactement à la ligne de cisaillement : le cylindre tourne
+A chave levanta cada pino exatamente até a linha de cisalhamento: o cilindro gira
+钥匙把每个弹子正好顶到剪切线：锁芯转动
+Ключ поднимает каждый штифт точно до линии среза: цилиндр поворачивается
+Klucz unosi każdy kołek dokładnie do linii ścinania: wkładka się obraca
+A kulcs minden csapot pontosan a nyírási vonalig emel: a henger elfordul
+La llave sube cada pin exactamente hasta la línea de corte: el cilindro gira
+
+#1600
+Sans clé : les goupilles motrices croisent la ligne de cisaillement et bloquent le cylindre
+Sem chave: os pinos superiores cruzam a linha de cisalhamento e travam o cilindro
+没有钥匙：上弹子越过剪切线，卡住锁芯
+Без ключа: верхние штифты пересекают линию среза и блокируют цилиндр
+Bez klucza: kołki napędowe przecinają linię ścinania i blokują wkładkę
+Kulcs nélkül: a hajtócsapok átlépik a nyírási vonalat, és blokkolják a hengert
+Sin llave: los pines superiores cruzan la línea de corte y bloquean el cilindro
+
+#1601
+Anse
+Haste (arco)
+锁梁
+Дужка
+Pałąk
+Lakatíj
+Arco
+
+#1602
+La boucle trempée qui passe dans le moraillon. Utilisez un cadenas à anse courte pour qu'on ne puisse pas le forcer.
+O arco temperado que passa pela presilha. Use um cadeado com arco curto para que não possa ser forçado.
+穿过搭扣的淬火锁梁。使用短锁梁的锁，这样撬不开。
+Закалённая дужка, которая проходит через накладку. Используйте замок с короткой дужкой, чтобы его нельзя было отжать.
+Hartowany pałąk, który przechodzi przez zaczep. Używaj kłódki z krótkim pałąkiem, aby nie dało się jej podważyć.
+Az edzett lakatíj, amely átmegy a fülön. Rövid ívű lakatot használjon, hogy ne lehessen felfeszíteni.
+El arco endurecido que pasa por el pestillo. Use un candado de arco corto para que no se pueda forzar.
+
+#1603
+Entrée de clé
+Entrada da chave
+钥匙孔
+Замочная скважина
+Otwór na klucz
+Kulcslyuk
+Ojo de la cerradura
+
+#1604
+Clé unique. Pas de passe pour le groupe, sauf celui d'urgence du superviseur, tenu sous contrôle.
+Chave única. Sem chave mestra para o grupo, exceto a de emergência do supervisor, mantida sob controle.
+独一无二的钥匙。群组不配通用钥匙，只有主管保管并受控的应急钥匙例外。
+Уникальный ключ. Никакого мастер-ключа на группу, кроме аварийного ключа руководителя, хранящегося под контролем.
+Unikalny klucz. Bez klucza uniwersalnego dla grupy, poza awaryjnym kluczem przełożonego, trzymanym pod kontrolą.
+Egyedi kulcs. Nincs főkulcs a csoportnak, kivéve a felügyelő ellenőrzött vészkulcsát.
+Llave única. Sin llave maestra para el grupo, salvo la de emergencia del supervisor, bajo control.
+
+#1605
+Plaque nominative
+Plaqueta de nome
+姓名牌
+Именная табличка
+Tabliczka z nazwiskiem
+Névtábla
+Placa de nombre
+
+#1606
+Votre nom et votre service, pour que chacun sache qui travaille. Ajoutez une étiquette avec téléphone et date.
+Seu nome e departamento, para que todos saibam quem está trabalhando. Adicione uma etiqueta com telefone e data.
+你的姓名和部门，让大家知道谁在作业。再挂上写有电话和日期的标签。
+Ваше имя и отдел, чтобы все знали, кто работает. Добавьте бирку с телефоном и датой.
+Twoje imię i nazwisko oraz dział, aby wszyscy wiedzieli, kto pracuje. Dodaj zawieszkę z telefonem i datą.
+Az Ön neve és részlege, hogy mindenki tudja, ki dolgozik. Tegyen fel címkét telefonszámmal és dátummal.
+Su nombre y departamento, para que todos sepan quién trabaja. Añada una etiqueta con teléfono y fecha.
+
+#1607
+Clé
+Chave
+钥匙
+Ключ
+Klucz
+Kulcs
+Llave
+
+#1608
+Retirez-la et gardez-la sur vous en permanence. Ne la laissez jamais dans le cadenas.
+Retire-a e mantenha-a com você o tempo todo. Nunca a deixe no cadeado.
+取出并始终带在身上。绝不要把它留在锁上。
+Выньте её и держите при себе всё время. Никогда не оставляйте в замке.
+Wyjmij go i trzymaj przy sobie cały czas. Nigdy nie zostawiaj go w kłódce.
+Vegye ki, és végig tartsa magánál. Soha ne hagyja a lakatban.
+Sáquela y téngala consigo todo el tiempo. No la deje nunca en el candado.
+
+#1609
+Empilement de goupilles
+Conjunto de pinos
+弹子组
+Набор штифтов
+Zestaw kołków
+Csapsor
+Conjunto de pines
+
+#1610
+Chaque empilement a une goupille motrice et une goupille inférieure de longueur différente.
+Cada conjunto tem um pino superior e um pino inferior de comprimentos diferentes.
+每组弹子都有一个上弹子和一个下弹子，长度各不相同。
+В каждом наборе есть верхний штифт и нижний штифт разной длины.
+Każdy zestaw ma kołek napędowy i kołek dolny o różnej długości.
+Minden csapsorban van egy hajtócsap és egy alsó csap, eltérő hosszúságban.
+Cada conjunto tiene un pin superior y un pin inferior de distinta longitud.
+
+#1611
+Ligne de cisaillement
+Linha de cisalhamento
+剪切线
+Линия среза
+Linia ścinania
+Nyírási vonal
+Línea de corte
+
+#1612
+Seule la bonne clé aligne chaque goupille sur cette ligne. C'est ce qui permet au cylindre de tourner.
+Somente a chave certa alinha cada pino com esta linha. É isso que permite o cilindro girar.
+只有正确的钥匙才能让每个弹子对齐这条线。这样锁芯才能转动。
+Только правильный ключ выстраивает каждый штифт по этой линии. Именно это позволяет цилиндру поворачиваться.
+Tylko właściwy klucz ustawia każdy kołek na tej linii. To pozwala wkładce się obracać.
+Csak a megfelelő kulcs hozza minden csapot erre a vonalra. Ez teszi lehetővé, hogy a henger elforduljon.
+Solo la llave correcta alinea cada pin con esta línea. Eso permite que el cilindro gire.
+
+#1613
+Pousse les goupilles dans le cylindre quand il n'y a pas de clé.
+Empurra os pinos para dentro do cilindro quando não há chave.
+没有钥匙时，把弹子压入锁芯。
+Прижимает штифты в цилиндр, когда ключа нет.
+Wciska kołki we wkładkę, gdy nie ma klucza.
+Kulcs nélkül a csapokat a hengerbe nyomja.
+Empuja los pines hacia el cilindro cuando no hay llave.
+
+#1614
+Passez l'anse dans le trou du dispositif d'isolement ou du moraillon.
+Passe o arco pelo furo do dispositivo de isolamento ou da presilha.
+把锁梁穿过隔离装置或搭扣上的孔。
+Проденьте дужку через отверстие устройства отключения или накладки.
+Przełóż pałąk przez otwór urządzenia odcinającego lub zaczepu.
+Fűzze át a lakatíjat a leválasztó eszköz vagy a fül lyukán.
+Pase el arco por el orificio del dispositivo de aislamiento o del pestillo.
+
+#1615
+Poussez l'anse pour la fermer jusqu'au clic. Tirez dessus pour tester.
+Empurre o arco até fechar com um clique. Puxe para testar.
+把锁梁推到咔哒一声锁紧。拉一下试试。
+Нажмите на дужку до щелчка. Потяните, чтобы проверить.
+Dociśnij pałąk do kliknięcia. Pociągnij, aby sprawdzić.
+Nyomja zárt állásba a lakatíjat, amíg kattan. Húzza meg a próbához.
+Empuje el arco hasta que haga clic. Tire para comprobarlo.
+
+#1616
+Gardez la clé sur vous et ajoutez votre étiquette.
+Guarde a chave com você e adicione sua etiqueta.
+钥匙随身带着，并挂上你的标签。
+Держите ключ при себе и добавьте свою бирку.
+Trzymaj klucz przy sobie i dodaj swoją zawieszkę.
+Tartsa magánál a kulcsot, és tegye fel a címkéjét.
+Guarde la llave consigo y añada su etiqueta.
+
+#1617
+Laisser la clé dans le cadenas ou dans un tiroir.
+Deixar a chave no cadeado ou em uma gaveta.
+把钥匙留在锁上或抽屉里。
+Оставлять ключ в замке или в ящике стола.
+Zostawianie klucza w kłódce lub w szufladzie.
+A kulcsot a lakatban vagy egy fiókban hagyni.
+Dejar la llave en el candado o en un cajón.
+
+#1618
+Utiliser un cadenas ordinaire dont il existe un double de clé.
+Usar um cadeado comum que tem chave duplicada.
+使用有复制钥匙的普通挂锁。
+Использовать обычный замок, у которого есть дубликат ключа.
+Używanie zwykłej kłódki, do której istnieje duplikat klucza.
+Olyan átlagos lakatot használni, amelyhez van másolt kulcs.
+Usar un candado común del que existe un duplicado de la llave.
+
+#1619
+OSHA 1910.147(c)(5) : les dispositifs de consignation doivent être durables, normalisés et identifiables.
+OSHA 1910.147(c)(5): dispositivos de bloqueio devem ser duráveis, padronizados e identificáveis.
+OSHA 1910.147(c)(5)：锁定装置必须耐用、标准化且可识别。
+OSHA 1910.147(c)(5): блокирующие устройства должны быть прочными, стандартизованными и идентифицируемыми.
+OSHA 1910.147(c)(5): urządzenia blokujące muszą być trwałe, znormalizowane i możliwe do zidentyfikowania.
+OSHA 1910.147(c)(5): a lezáró eszközöknek tartósnak, szabványosítottnak és azonosíthatónak kell lenniük.
+OSHA 1910.147(c)(5): los dispositivos de bloqueo deben ser duraderos, normalizados e identificables.
+
+#1620
+Un cadenas
+Um cadeado
+一把锁
+Один замок
+Jedna kłódka
+Egy lakat
+Un candado
+
+#1621
+Trois personnes
+Três pessoas
+三个人
+Три человека
+Trzy osoby
+Három személy
+Tres personas
+
+#1622
+Cadenas
+Cadeados
+挂锁
+Замки
+Kłódki
+Lakatok
+Candados
+
+#1623
+Moraillon multi-cadenas (plusieurs intervenants, un point d'isolement)
+Presilha multicadeado (vários trabalhadores, um ponto de isolamento)
+多锁搭扣（多名作业人员，一个隔离点）
+Мультизамковая накладка (несколько работников, одна точка отключения)
+Zaczep wielokłódkowy (kilku pracowników, jeden punkt odcięcia)
+Többlakatos fül (több dolgozó, egy leválasztási pont)
+Pestillo multicandado (varios trabajadores, un punto de aislamiento)
+
+#1624
+Quand plus d'une personne travaille sur une machine, un moraillon donne à chacun un trou pour son propre cadenas. Le moraillon reste en place jusqu'à ce que le dernier cadenas soit retiré, donc la première personne qui termine ne peut pas remettre la machine sous tension pendant que les autres sont encore dedans. Six trous est courant.
+Quando mais de uma pessoa trabalha em uma máquina, uma presilha dá a cada pessoa um furo para o seu cadeado. A presilha permanece até o último cadeado ser removido, então a primeira pessoa a terminar não pode reenergizar a máquina enquanto os outros ainda estão dentro. Seis furos é comum.
+当不止一个人在机器上作业时，一个搭扣让每个人都有一个孔挂自己的挂锁。搭扣要留到最后一把锁被取下为止，所以第一个干完的人不能在其他人还在里面时给机器重新通电。六个孔很常见。
+Когда на машине работает больше одного человека, одна накладка даёт каждому отверстие для личного замка. Накладка остаётся, пока не будет снят последний замок, поэтому первый закончивший не может включить машину, пока остальные ещё внутри. Шесть отверстий — обычное дело.
+Gdy przy maszynie pracuje więcej niż jedna osoba, jeden zaczep daje każdemu otwór na własną kłódkę. Zaczep zostaje, dopóki nie zostanie zdjęta ostatnia kłódka, więc pierwsza osoba, która skończy, nie może ponownie zasilić maszyny, gdy inni są jeszcze w środku. Sześć otworów jest częste.
+Ha egynél több személy dolgozik egy gépen, egy fül mindenkinek ad egy lyukat a saját lakatjának. A fül addig marad, amíg az utolsó lakatot is le nem veszik, így az elsőként végző nem kapcsolhatja újra áram alá a gépet, amíg a többiek még bent vannak. A hat lyuk gyakori.
+Cuando más de una persona trabaja en una máquina, un pestillo da a cada persona un orificio para su propio candado. El pestillo se queda hasta que se retira el último candado, así que la primera persona que termina no puede reenergizar la máquina mientras los demás siguen dentro. Seis orificios es lo habitual.
+
+#1625
+Utilisé avec : disjoncteurs, vannes, fiches qui n'ont qu'un seul trou de cadenas.
+Usado com: disjuntores, válvulas, plugues que têm apenas um furo de cadeado.
+配合使用：只有一个挂锁孔的断路器、阀门、插头。
+Применяется с: автоматами, кранами, вилками, у которых только одно отверстие под замок.
+Używany z: wyłącznikami, zaworami, wtyczkami, które mają tylko jeden otwór na kłódkę.
+Ezekkel használják: megszakítók, szelepek, dugók, amelyeken csak egy lakatlyuk van.
+Se usa con: interruptores, válvulas, enchufes que tienen un solo orificio de candado.
+
+#1626
+Trois cadenas : la machine reste isolée jusqu'à ce que les trois soient retirés
+Três cadeados: a máquina permanece isolada até os três serem removidos
+三把锁：三把全部取下之前，机器一直保持隔离
+Три замка: машина остаётся отключённой, пока не сняты все три
+Trzy kłódki: maszyna pozostaje odcięta, dopóki wszystkie trzy nie zostaną zdjęte
+Három lakat: a gép addig leválasztva marad, amíg mind a hármat le nem vették
+Tres candados: la máquina permanece aislada hasta que se quiten los tres
+
+#1627
+Une personne, un cadenas
+Uma pessoa, um cadeado
+一人一锁
+Один человек — один замок
+Jedna osoba, jedna kłódka
+Egy személy, egy lakat
+Una persona, un candado
+
+#1628
+Mâchoire du moraillon
+Mordente da presilha
+搭扣钳口
+Губка накладки
+Szczęka zaczepu
+Fül pofája
+Mordaza del pestillo
+
+#1629
+Se rabat sur la boucle ou la poignée de l'appareil et se ferme avec les cadenas.
+Dobra sobre a argola ou o manípulo do dispositivo e fecha com os cadeados.
+折过来扣在装置的锁环或手柄上，用挂锁锁闭。
+Складывается поверх проушины или рукоятки устройства и запирается замками.
+Składa się na uchu lub rączce urządzenia i zamyka się kłódkami.
+Ráhajlik a készülék fülére vagy karjára, és a lakatokkal záródik.
+Se pliega sobre la argolla o la palanca del dispositivo y se cierra con los candados.
+
+#1630
+Boucle
+Argola
+锁环
+Проушина
+Ucho
+Fül (patent)
+Argolla
+
+#1631
+Le trou de cadenas du dispositif d'isolement. Sans moraillon, un seul cadenas y tient.
+O furo de cadeado do dispositivo de isolamento. Sem a presilha, só um cadeado cabe aqui.
+隔离装置上的挂锁孔。没有搭扣的话，这里只能挂一把锁。
+Отверстие под замок на устройстве отключения. Без накладки сюда помещается только один замок.
+Otwór na kłódkę urządzenia odcinającego. Bez zaczepu mieści się tu tylko jedna kłódka.
+A leválasztó eszköz lakatlyuka. Fül nélkül itt csak egy lakat fér el.
+El orificio de candado del dispositivo de aislamiento. Sin el pestillo solo cabe un candado aquí.
+
+#1632
+Premier cadenas
+Primeiro cadeado
+第一把锁
+Первый замок
+Pierwsza kłódka
+Első lakat
+Primer candado
+
+#1633
+Chacun pose son propre cadenas avant de commencer le travail.
+Cada pessoa coloca seu próprio cadeado antes de começar o trabalho.
+每个人在开始作业前都要挂上自己的锁。
+Каждый ставит свой замок перед началом работы.
+Każdy zakłada własną kłódkę przed rozpoczęciem pracy.
+Mindenki felteszi a saját lakatját a munka megkezdése előtt.
+Cada persona pone su propio candado antes de empezar el trabajo.
+
+#1634
+Trous libres
+Furos livres
+空余孔位
+Свободные отверстия
+Wolne otwory
+Szabad lyukak
+Orificios libres
+
+#1635
+Ne partagez pas un cadenas et n'ajoutez pas un deuxième cadenas appartenant à quelqu'un d'autre. S'il vous faut un trou, utilisez un autre moraillon.
+Não compartilhe um cadeado nem adicione um segundo cadeado de outra pessoa. Se precisar de um furo, use outra presilha.
+不要共用一把锁，也不要再加上别人的第二把锁。如果需要孔位，就再用一个搭扣。
+Не делитесь замком и не добавляйте второй замок, принадлежащий другому. Если нужно отверстие, используйте ещё одну накладку.
+Nie dziel się kłódką i nie dokładaj drugiej, należącej do kogoś innego. Jeśli potrzebujesz otworu, użyj kolejnego zaczepu.
+Ne osszon meg egy lakatot, és ne tegyen fel egy másik személyhez tartozó második lakatot. Ha lyuk kell, használjon másik fület.
+No comparta un candado ni añada un segundo candado de otra persona. Si necesita un orificio, use otro pestillo.
+
+#1636
+Posez le moraillon sur la boucle du dispositif d'isolement.
+Instale a presilha sobre a argola do dispositivo de isolamento.
+把搭扣装在隔离装置的锁环上。
+Установите накладку на проушину устройства отключения.
+Załóż zaczep na ucho urządzenia odcinającego.
+Tegye fel a fület a leválasztó eszköz fülére.
+Coloque el pestillo sobre la argolla del dispositivo de aislamiento.
+
+#1637
+Chaque intervenant ajoute son propre cadenas et son étiquette.
+Cada trabalhador adiciona seu próprio cadeado e etiqueta.
+每位作业人员都加上自己的挂锁和标签。
+Каждый работник добавляет свой замок и бирку.
+Każdy pracownik dodaje własną kłódkę i zawieszkę.
+Minden dolgozó felteszi a saját lakatját és címkéjét.
+Cada trabajador añade su propio candado y etiqueta.
+
+#1638
+Ne retirez que votre propre cadenas à la fin. La dernière personne libère l'appareil.
+Remova somente o seu próprio cadeado ao terminar. A última pessoa libera o dispositivo.
+结束时只取下你自己的锁。最后一个人释放该装置。
+По окончании снимайте только свой замок. Последний человек освобождает устройство.
+Po zakończeniu zdejmij tylko własną kłódkę. Ostatnia osoba zwalnia urządzenie.
+Befejezéskor csak a saját lakatját vegye le. Az utolsó személy szabadítja fel az eszközt.
+Al terminar, retire solo su propio candado. La última persona libera el dispositivo.
+
+#1639
+Retirer le moraillon parce que « ma partie est terminée ».
+Remover a presilha porque "minha parte acabou".
+因为"我这部分干完了"就把搭扣拿掉。
+Снять накладку, потому что «моя часть работы закончена».
+Zdjęcie zaczepu, bo „moja część skończona".
+A fület levenni, mert „az én részem kész".
+Quitar el pestillo porque «mi parte ya está hecha».
+
+#1640
+Deux personnes qui partagent un cadenas.
+Duas pessoas compartilhando um cadeado.
+两个人共用一把锁。
+Два человека, пользующиеся одним замком.
+Dwie osoby dzielące jedną kłódkę.
+Két személy egy lakatot oszt meg.
+Dos personas compartiendo un candado.
+
+#1641
+OSHA 1910.147(f)(3) : la consignation de groupe donne à chaque employé un contrôle personnel.
+OSHA 1910.147(f)(3): o bloqueio em grupo dá a cada empregado controle pessoal.
+OSHA 1910.147(f)(3)：集体上锁让每位员工都有个人控制权。
+OSHA 1910.147(f)(3): групповая блокировка даёт каждому работнику личный контроль.
+OSHA 1910.147(f)(3): blokada grupowa daje każdemu pracownikowi osobistą kontrolę.
+OSHA 1910.147(f)(3): a csoportos lezárás minden alkalmazottnak személyes ellenőrzést ad.
+OSHA 1910.147(f)(3): el bloqueo en grupo da a cada empleado control personal.
+
+#1642
+Boîte
+Caixa
+箱
+Бокс
+Skrzynka
+Doboz
+Caja
+
+#1643
+Boîte de consignation de groupe (gros travaux, nombreux points d'isolement)
+Caixa de bloqueio em grupo (trabalhos grandes, muitos pontos de isolamento)
+集体锁箱（大型作业，多个隔离点）
+Групповой замковый бокс (большие работы, много точек отключения)
+Skrzynka blokady grupowej (duże prace, wiele punktów odcięcia)
+Csoportos lezárási doboz (nagy munkák, sok leválasztási pont)
+Caja de bloqueo en grupo (trabajos grandes, muchos puntos de aislamiento)
+
+#1644
+Sur un gros travail, il y a de nombreux points d'isolement. La personne habilitée verrouille chaque point avec un cadenas et met la clé de ce cadenas dans la boîte de groupe. Chaque intervenant met ensuite son propre cadenas sur la boîte. Les clés restent piégées jusqu'à ce que le dernier intervenant retire son cadenas. Un cadenas par intervenant sur une seule boîte libère de nombreux points.
+Em um trabalho grande há muitos pontos de isolamento. A pessoa autorizada bloqueia cada ponto com um cadeado e coloca a chave desse cadeado dentro da caixa do grupo. Cada trabalhador então coloca seu próprio cadeado na caixa. As chaves ficam presas até o último trabalhador remover seu cadeado. Um cadeado por trabalhador em uma caixa libera muitos pontos.
+大型作业有很多隔离点。授权人员用一把锁锁住每个隔离点，并把这把锁的钥匙放进集体锁箱。然后每位作业人员再把自己的锁挂在锁箱上。在最后一名作业人员取下自己的锁之前，钥匙一直被扣在里面。每人一把锁、挂在同一个箱上，就能释放很多点位。
+На большой работе много точек отключения. Уполномоченный блокирует каждую точку замком и кладёт ключ от этого замка в групповой бокс. Затем каждый работник вешает на бокс свой замок. Ключи остаются запертыми, пока последний работник не снимет свой замок. Один замок от каждого работника на одном боксе освобождает много точек.
+Przy dużej pracy jest wiele punktów odcięcia. Osoba upoważniona blokuje każdy punkt kłódką i wkłada klucz od tej kłódki do skrzynki grupowej. Następnie każdy pracownik zakłada własną kłódkę na skrzynkę. Klucze pozostają uwięzione, dopóki ostatni pracownik nie zdejmie swojej kłódki. Jedna kłódka na pracownika na jednej skrzynce zwalnia wiele punktów.
+Nagy munkánál sok a leválasztási pont. A jogosult személy minden pontot lakattal zár le, és a lakat kulcsát a csoportos dobozba teszi. Ezután minden dolgozó a saját lakatját a dobozra teszi. A kulcsok addig bent ragadnak, amíg az utolsó dolgozó is le nem veszi a lakatját. Dolgozónként egy lakat egyetlen dobozon sok pontot szabadít fel.
+En un trabajo grande hay muchos puntos de aislamiento. La persona autorizada bloquea cada punto con un candado y mete la llave de ese candado dentro de la caja de grupo. Luego cada trabajador pone su propio candado en la caja. Las llaves quedan atrapadas hasta que el último trabajador retira su candado. Un candado por trabajador en una sola caja libera muchos puntos.
+
+#1645
+Utilisé avec : une procédure écrite de consignation de groupe.
+Usado com: um procedimento escrito de bloqueio em grupo.
+配合使用：书面的集体上锁程序。
+Применяется с: письменной процедурой групповой блокировки.
+Używany z: pisemną procedurą blokady grupowej.
+Ezzel használják: írásos csoportos lezárási eljárás.
+Se usa con: un procedimiento escrito de bloqueo en grupo.
+
+#1646
+BOÎTE DE CONSIGNATION DE GROUPE
+CAIXA DE BLOQUEIO EM GRUPO
+集体锁箱
+ГРУППОВОЙ ЗАМКОВЫЙ БОКС
+SKRZYNKA BLOKADY GRUPOWEJ
+CSOPORTOS LEZÁRÁSI DOBOZ
+CAJA DE BLOQUEO EN GRUPO
+
+#1647
+Clés à l'intérieur
+Chaves dentro
+内有钥匙
+Ключи внутри
+Klucze w środku
+Kulcsok bent
+Llaves dentro
+
+#1648
+Chaque clé appartient à un cadenas sur un point d'isolement
+Cada chave pertence a um cadeado em um ponto de isolamento
+每把钥匙对应一个隔离点上的锁
+Каждый ключ принадлежит замку на одной точке отключения
+Każdy klucz należy do kłódki na jednym punkcie odcięcia
+Minden kulcs egy leválasztási ponton lévő lakathoz tartozik
+Cada llave pertenece a un candado de un punto de aislamiento
+
+#1649
+A, B, C : clés des cadenas de points   M : clé de réserve sous contrôle du superviseur
+A, B, C: chaves dos cadeados dos pontos   M: chave reserva sob controle do supervisor
+A、B、C：各点位挂锁的钥匙   M：由主管控制的备用钥匙
+A, B, C: ключи от замков точек   M: запасной ключ под контролем руководителя
+A, B, C: klucze do kłódek punktów   M: zapasowy klucz pod kontrolą przełożonego
+A, B, C: a pontok lakatjainak kulcsai   M: a felügyelő ellenőrzése alatt lévő tartalék kulcs
+A, B, C: llaves de los candados de los puntos   M: llave de reserva bajo control del supervisor
+
+#1650
+Couvercle ouvert
+Tampa aberta
+盖子打开
+Крышка открыта
+Pokrywa otwarta
+Fedél nyitva
+Tapa abierta
+
+#1651
+Seule la personne habilitée ouvre la boîte, pour y mettre les clés. Ensuite elle est refermée et verrouillée.
+Somente a pessoa autorizada abre a caixa, para colocar as chaves. Depois ela é fechada e bloqueada.
+只有授权人员才能打开锁箱，用来放入钥匙。之后关上并上锁。
+Только уполномоченный открывает бокс, чтобы положить ключи. Затем он закрывается и блокируется.
+Tylko osoba upoważniona otwiera skrzynkę, aby włożyć klucze. Potem jest zamykana i blokowana.
+Csak a jogosult személy nyitja ki a dobozt, hogy a kulcsokat beletegye. Utána bezárják és lezárják.
+Solo la persona autorizada abre la caja, para meter las llaves. Después se cierra y se bloquea.
+
+#1652
+Fente à clés
+Fenda das chaves
+钥匙投入口
+Щель для ключей
+Szczelina na klucze
+Kulcsnyílás
+Ranura de llaves
+
+#1653
+Les clés entrent ici et ne peuvent plus ressortir une fois la boîte verrouillée.
+As chaves entram aqui e não podem sair depois que a caixa é bloqueada.
+钥匙从这里放入，锁箱一旦锁上就取不出来。
+Ключи кладутся сюда и не могут выйти, когда бокс заблокирован.
+Klucze wchodzą tutaj i nie mogą wyjść po zablokowaniu skrzynki.
+A kulcsok itt kerülnek be, és a doboz lezárása után nem jöhetnek ki.
+Las llaves entran aquí y no pueden salir una vez bloqueada la caja.
+
+#1654
+Moraillon pour cadenas personnels
+Presilha para cadeados pessoais
+个人挂锁搭扣
+Накладка для личных замков
+Zaczep na osobiste kłódki
+Fül a személyi lakatoknak
+Pestillo para candados personales
+
+#1655
+Chaque intervenant ajoute ici un cadenas personnel. La boîte ne s'ouvre que lorsque tous ont retiré le leur.
+Cada trabalhador adiciona aqui um cadeado pessoal. A caixa só abre quando todos tiverem removido o seu.
+每位作业人员在这里加上自己的挂锁。只有所有人都取下自己的锁，锁箱才能打开。
+Каждый работник добавляет здесь личный замок. Бокс открывается только когда все сняли свои.
+Każdy pracownik dodaje tu osobistą kłódkę. Skrzynka otwiera się tylko wtedy, gdy wszyscy zdejmą swoje.
+Minden dolgozó itt teszi fel a személyi lakatját. A doboz csak akkor nyílik ki, ha mindenki levette a magáét.
+Cada trabajador añade aquí un candado personal. La caja solo se abre cuando todos han quitado el suyo.
+
+#1656
+Indique qui est responsable et à quel travail cette boîte appartient.
+Indica quem é o responsável e a qual trabalho esta caixa pertence.
+注明谁负责，以及这个锁箱对应哪项作业。
+Указывает, кто ответственный и к какой работе относится этот бокс.
+Wskazuje, kto jest odpowiedzialny i do jakiej pracy należy ta skrzynka.
+Megmondja, ki a felelős, és melyik munkához tartozik ez a doboz.
+Indica quién es el responsable y a qué trabajo pertenece esta caja.
+
+#1657
+Clé A
+Chave A
+钥匙A
+Ключ A
+Klucz A
+A kulcs
+Llave A
+
+#1658
+La clé du cadenas du point d'isolement A. Elle est piégée dans la boîte.
+A chave do cadeado do ponto de isolamento A. Está presa na caixa.
+隔离点A上那把锁的钥匙。它被扣在锁箱里。
+Ключ от замка на точке отключения A. Он заперт в боксе.
+Klucz do kłódki na punkcie odcięcia A. Jest uwięziony w skrzynce.
+Az A leválasztási ponton lévő lakat kulcsa. Bent ragadt a dobozban.
+La llave del candado del punto de aislamiento A. Está atrapada en la caja.
+
+#1659
+Passe M
+Chave mestra M
+万能钥匙M
+Мастер-ключ M
+Klucz uniwersalny M
+M főkulcs
+Llave maestra M
+
+#1660
+Uniquement pour un retrait d'urgence, selon la procédure écrite.
+Somente para remoção de emergência, conforme o procedimento escrito.
+仅限按书面程序进行紧急拆除。
+Только для аварийного снятия по письменной процедуре.
+Tylko do awaryjnego zdjęcia, zgodnie z pisemną procedurą.
+Csak sürgősségi eltávolításra, az írásos eljárás szerint.
+Solo para retirada de emergencia, según el procedimiento escrito.
+
+#1661
+Étiquettes de clés
+Etiquetas das chaves
+钥匙标牌
+Бирки ключей
+Zawieszki kluczy
+Kulcscímkék
+Etiquetas de llaves
+
+#1662
+Une lettre ou un numéro qui correspond à la liste des points.
+Uma letra ou número que corresponde à lista de pontos.
+与点位清单对应的字母或编号。
+Буква или номер, соответствующие списку точек.
+Litera lub numer odpowiadający liście punktów.
+A pontlistának megfelelő betű vagy szám.
+Una letra o número que coincide con la lista de puntos.
+
+#1663
+Verrouillez chaque point d'isolement avec son propre cadenas.
+Bloqueie cada ponto de isolamento com seu próprio cadeado.
+用各自的锁锁住每一个隔离点。
+Заблокируйте каждую точку отключения собственным замком.
+Zablokuj każdy punkt odcięcia własną kłódką.
+Zárjon le minden leválasztási pontot a saját lakatjával.
+Bloquee cada punto de aislamiento con su propio candado.
+
+#1664
+Mettez les clés de ces cadenas dans la boîte.
+Coloque as chaves desses cadeados na caixa.
+把这些锁的钥匙放进锁箱。
+Положите ключи от этих замков в бокс.
+Włóż klucze do tych kłódek do skrzynki.
+Tegye a lakatok kulcsait a dobozba.
+Ponga las llaves de esos candados en la caja.
+
+#1665
+Fermez la boîte. Chaque intervenant la verrouille avec un cadenas personnel.
+Feche a caixa. Cada trabalhador a bloqueia com um cadeado pessoal.
+关上锁箱。每位作业人员都用个人挂锁把它锁住。
+Закройте бокс. Каждый работник блокирует его личным замком.
+Zamknij skrzynkę. Każdy pracownik blokuje ją osobistą kłódką.
+Zárja be a dobozt. Minden dolgozó személyi lakattal zárja le.
+Cierre la caja. Cada trabajador la bloquea con un candado personal.
+
+#1666
+Laisser une clé en dehors de la boîte.
+Deixar uma chave fora da caixa.
+把一把钥匙留在锁箱外面。
+Оставить ключ вне бокса.
+Pozostawienie klucza poza skrzynką.
+Egy kulcsot a dobozon kívül hagyni.
+Dejar una llave fuera de la caja.
+
+#1667
+Fermer la boîte avant de vérifier la liste des points.
+Fechar a caixa antes de conferir a lista de pontos.
+没核对点位清单就把锁箱关上了。
+Закрыть бокс, не проверив список точек.
+Zamknięcie skrzynki przed sprawdzeniem listy punktów.
+Lezárni a dobozt, mielőtt ellenőrizte a pontok listáját.
+Cerrar la caja antes de revisar la lista de puntos.
+
+#1668
+OSHA 1910.147(f)(3)(ii) : procédures de consignation de groupe.
+OSHA 1910.147(f)(3)(ii): procedimentos de bloqueio em grupo.
+OSHA 1910.147(f)(3)(ii)：集体上锁程序。
+OSHA 1910.147(f)(3)(ii): процедуры групповой блокировки.
+OSHA 1910.147(f)(3)(ii): procedury blokady grupowej.
+OSHA 1910.147(f)(3)(ii): csoportos lezárási eljárások.
+OSHA 1910.147(f)(3)(ii): procedimientos de bloqueo en grupo.
+
+#1669
+Vierge
+Em branco
+空白
+Пустая
+Pusta
+Üres
+En blanco
+
+#1670
+Remplie
+Preenchida
+已填写
+Заполнена
+Wypełniona
+Kitöltve
+Rellena
+
+#1671
+Étiquette de danger (qui, quand, pourquoi)
+Etiqueta de perigo (quem, quando, por quê)
+危险标签（谁、何时、为什么）
+Бирка опасности (кто, когда, почему)
+Zawieszka ostrzegawcza (kto, kiedy, dlaczego)
+Veszélycímke (ki, mikor, miért)
+Etiqueta de peligro (quién, cuándo, por qué)
+
+#1672
+L'étiquette dit à tout le monde qui a posé le cadenas, pourquoi, et comment le joindre. Un cadenas arrête l'appareil. Une étiquette dit ce qui se passe. Une étiquette seule ne suffit jamais là où un cadenas peut être posé. Remplissez-la avant de l'accrocher, avec un marqueur permanent.
+A etiqueta diz a todos quem colocou o cadeado, por quê e como contatá-lo. Um cadeado impede o dispositivo. Uma etiqueta diz o que está acontecendo. Uma etiqueta sozinha nunca basta onde um cadeado pode ser instalado. Preencha antes de pendurar, com marcador permanente.
+标签告诉所有人是谁挂的锁、为什么挂、怎么联系他。锁让装置无法动作，标签说明正在发生什么。凡是能装锁的地方，只挂标签永远不够。挂之前用油性记号笔填写好。
+Бирка сообщает всем, кто поставил замок, зачем и как с ним связаться. Замок останавливает устройство. Бирка говорит о том, что происходит. Одной бирки никогда не достаточно там, где можно поставить замок. Заполните её перед тем, как повесить, перманентным маркером.
+Zawieszka mówi wszystkim, kto założył kłódkę, dlaczego i jak się z nim skontaktować. Kłódka zatrzymuje urządzenie. Zawieszka mówi, co się dzieje. Sama zawieszka nigdy nie wystarcza tam, gdzie można założyć kłódkę. Wypełnij ją przed powieszeniem, trwałym markerem.
+A címke mindenkinek megmondja, ki tette fel a lakatot, miért, és hogyan érhető el. A lakat megállítja az eszközt. A címke megmondja, mi történik. Egyedül a címke soha nem elég ott, ahol lakat felszerelhető. Kitöltés után akassza fel, tartós filccel.
+La etiqueta dice a todos quién puso el candado, por qué y cómo contactarlo. Un candado detiene el dispositivo. Una etiqueta dice lo que está pasando. Una etiqueta sola nunca basta donde se puede colocar un candado. Rellénela antes de colgarla, con un rotulador permanente.
+
+#1673
+Se pose sur : le cadenas ou le dispositif d'isolement.
+Pendura em: o cadeado ou o dispositivo de isolamento.
+挂在：锁上或隔离装置上。
+Вешается на: замок или устройство отключения.
+Wiesza się na: kłódce lub urządzeniu odcinającym.
+Ráakasztják: a lakatra vagy a leválasztó eszközre.
+Se cuelga en: el candado o el dispositivo de aislamiento.
+
+#1674
+NE PAS MANŒUVRER
+NÃO OPERAR
+禁止操作
+НЕ ВКЛЮЧАТЬ
+NIE WŁĄCZAĆ
+NE KAPCSOLJA BE
+NO OPERAR
+
+#1675
+=
+=
+=
+=
+=
+=
+=
+
+#1676
+Service
+Depto
+部门
+Отдел
+Dział
+Részleg
+Dpto.
+
+#1677
+Maintenance
+Manutenção
+维修
+Обслуживание
+Utrzymanie ruchu
+Karbantartás
+Mantenimiento
+

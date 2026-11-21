@@ -1,0 +1,1916 @@
+#2613
+Équilibrée mais élevée
+Equilibrada mas alta
+平衡但偏高
+Сбалансировано, но высокое
+Zrównoważone, ale wysokie
+Kiegyensúlyozott, de magas
+Equilibrada pero alta
+
+#2614
+Déséquilibrée
+Desequilibrada
+不平衡
+Несимметрично
+Niezrównoważone
+Kiegyensúlyozatlan
+Desequilibrada
+
+#2615
+Une phase à zéro
+Uma fase em zero
+有一相为零
+Одна фаза равна нулю
+Jedna faza równa zero
+Az egyik fázis nulla
+Una fase a cero
+
+#2616
+Mesurer à la pince les trois courants de phase
+Medir as três correntes de fase com o alicate amperímetro
+用钳形表测三相电流
+Измерьте токоизмерительными клещами три фазных тока
+Zmierz cęgami trzy prądy fazowe
+Mérje meg lakatfogóval a három fázisáramot
+Medir con la pinza las tres corrientes de fase
+
+#2617
+Mesurez chaque phase en marche (ou pendant le démarrage s'il ne tourne pas). Comparez avec le courant de la plaque signalétique.
+Meça cada fase em funcionamento (ou durante a partida, se não girar). Compare com a corrente da placa.
+运行时逐相测量（如果不转，就在启动瞬间测）。与铭牌电流对比。
+Измерьте каждую фазу во время работы (или во время пуска, если двигатель не вращается). Сравните с током на шильдике.
+Zmierz każdą fazę podczas pracy (lub podczas rozruchu, jeśli silnik nie rusza). Porównaj z prądem z tabliczki znamionowej.
+Mérje meg az egyes fázisokat üzem közben (vagy indításkor, ha nem forog). Vesse össze a típustáblán szereplő árammal.
+Mida cada fase en marcha (o durante el arranque si no gira). Compare con la corriente de la placa.
+
+#2618
+Correspond
+Corresponde
+一致
+Совпадает
+Zgadza się
+Egyezik
+Coincide
+
+#2619
+Ne correspond pas
+Não corresponde
+不一致
+Не совпадает
+Nie zgadza się
+Nem egyezik
+No coincide
+
+#2620
+Comparer la plaque signalétique avec l'alimentation et les barrettes
+Compare a placa com a alimentação e as barras
+把铭牌与供电和连片对照
+Сравните шильдик с питанием и перемычками
+Porównaj tabliczkę znamionową z zasilaniem i zworkami
+Vesse össze a típustáblát a betáplálással és az áthidalókkal
+Compare la placa con la alimentación y los puentes
+
+#2621
+Lisez la tension et le couplage de la plaque signalétique (230/400 V Y/D). Comparez avec l'alimentation et avec la façon dont les barrettes sont montées.
+Leia a tensão e a ligação da placa (230/400 V Y/D). Compare com a alimentação e com a forma como as barras estão instaladas.
+读铭牌上的电压和接法（230/400 V Y/D）。与供电以及连片的安装方式对照。
+Прочтите на шильдике напряжение и схему соединения (230/400 В Y/D). Сравните с питанием и с тем, как установлены перемычки.
+Odczytaj z tabliczki znamionowej napięcie i połączenie (230/400 V Y/D). Porównaj z zasilaniem i ze sposobem założenia zworek.
+Olvassa le a típustábláról a feszültséget és a bekötést (230/400 V Y/D). Vesse össze a betáplálással és az áthidalók felszerelésével.
+Lea la tensión y la conexión de la placa (230/400 V Y/D). Compare con la alimentación y con cómo están montados los puentes.
+
+#2622
+Ronflement régulier
+Zumbido suave
+平稳的嗡嗡声
+Ровный гул
+Równy szum
+Egyenletes zúgás
+Zumbido suave
+
+#2623
+Grondement ou grognement au niveau du roulement
+Estrondo ou rosnado no rolamento
+轴承处有隆隆声或低吼声
+Гул или рычание в районе подшипника
+Dudnienie lub warczenie przy łożysku
+Dübörgés vagy morgás a csapágynál
+Retumbo o gruñido en el rodamiento
+
+#2624
+Ronflement pulsé, vitesse qui pompe
+Zumbido pulsante, velocidade oscilando
+嗡嗡声忽强忽弱，转速摆动
+Пульсирующий гул, скорость плавает
+Pulsujący szum, prędkość się waha
+Lüktető zúgás, ingadozó fordulatszám
+Zumbido pulsante, velocidad oscilante
+
+#2625
+Écouter avec la charge désaccouplée
+Escutar com a carga desacoplada
+在负载脱开的情况下听声音
+Слушайте при отсоединённой нагрузке
+Słuchaj przy odłączonym obciążeniu
+Hallgassa meg lekapcsolt terhelés mellett
+Escuchar con la carga desacoplada
+
+#2626
+Faites tourner brièvement sans la charge (seulement si le moteur n'est pas brûlé). Écoutez au niveau des roulements et de la carcasse.
+Faça funcionar brevemente sem a carga (somente se o motor não estiver queimado). Escute nos rolamentos e na carcaça.
+卸掉负载后短时运行（仅限电机没有烧毁时）。在轴承和机壳处听声音。
+Ненадолго запустите без нагрузки (только если двигатель не сгорел). Слушайте у подшипников и корпуса.
+Uruchom krótko bez obciążenia (tylko jeśli silnik nie jest spalony). Słuchaj przy łożyskach i obudowie.
+Futtassa röviden terhelés nélkül (csak ha a motor nem égett ki). Hallgassa meg a csapágyaknál és a testen.
+Haga funcionar brevemente sin la carga (solo si el motor no está quemado). Escuche en los rodamientos y en la carcasa.
+
+#2627
+Propre et intact
+Limpo e intacto
+干净完好
+Чисто и цело
+Czysty i nieuszkodzony
+Tiszta és ép
+Limpio e intacto
+
+#2628
+Poussiéreux, bouché ou cassé
+Empoeirado, bloqueado ou quebrado
+有灰尘、堵塞或损坏
+Запылён, забит или сломан
+Zakurzony, zablokowany lub uszkodzony
+Poros, eltömődött vagy törött
+Polvoriento, bloqueado o roto
+
+#2629
+Vérifier le ventilateur, le capot et les ouïes
+Verificar o ventilador, a tampa e as aberturas
+检查风扇、风罩和通风口
+Проверьте вентилятор, кожух и вентиляционные отверстия
+Sprawdź wentylator, osłonę i otwory wentylacyjne
+Ellenőrizze a ventilátort, a burkolatot és a szellőzőnyílásokat
+Compruebe el ventilador, la cubierta y las rejillas
+
+#2630
+Retirez le capot du ventilateur. Regardez le ventilateur, les ailettes et le passage d'air. Vérifiez la température ambiante.
+Remova a tampa do ventilador. Olhe o ventilador, as aletas e o caminho do ar. Verifique a temperatura ambiente.
+取下风扇罩。检查风扇、散热片和风道。查看环境温度。
+Снимите кожух вентилятора. Осмотрите вентилятор, рёбра и воздушный тракт. Проверьте температуру окружающей среды.
+Zdejmij osłonę wentylatora. Obejrzyj wentylator, żebra i drogę przepływu powietrza. Sprawdź temperaturę otoczenia.
+Vegye le a ventilátorburkolatot. Nézze meg a ventilátort, a bordákat és a légutat. Ellenőrizze a környezeti hőmérsékletet.
+Quite la cubierta del ventilador. Mire el ventilador, las aletas y el paso del aire. Compruebe la temperatura ambiente.
+
+#2631
+Variateur de fréquence (VFD)
+Inversor de frequência (VFD)
+变频器（VFD）
+Преобразователь частоты (VFD)
+Falownik (VFD)
+Frekvenciaváltó (VFD)
+Variador de frecuencia (VFD)
+
+#2632
+Isolez, verrouillez et attendez la décharge du bus continu (en général 5 à 10 minutes). Vérifiez que le bus continu est sous 50 V avant d'ouvrir quoi que ce soit.
+Isole, bloqueie e espere o barramento CC descarregar (normalmente 5 a 10 minutos). Verifique que o barramento CC está abaixo de 50 V antes de abrir qualquer coisa.
+隔离、上锁，并等待直流母线放电（通常需要5到10分钟）。打开任何部件之前，先确认直流母线低于50 V。
+Отключите, заблокируйте и подождите разряда шины постоянного тока (обычно 5–10 минут). Убедитесь, что шина постоянного тока ниже 50 В, прежде чем что-либо открывать.
+Odetnij, zablokuj i poczekaj na rozładowanie szyny DC (zwykle 5 do 10 minut). Zanim cokolwiek otworzysz, sprawdź, czy szyna DC jest poniżej 50 V.
+Válassza le, zárja le, és várja meg a DC köztes kör kisülését (általában 5–10 perc). Mielőtt bármit kinyit, ellenőrizze, hogy a DC köztes kör 50 V alatt van.
+Aísle, bloquee y espere a que se descargue el bus de CC (normalmente de 5 a 10 minutos). Verifique que el bus de CC esté por debajo de 50 V antes de abrir nada.
+
+#2633
+Notez le code de défaut et l'historique des défauts avant de réinitialiser. Le code indique la zone, pas toujours la pièce.
+Anote o código de falha e o histórico de falhas antes de rearmar. O código aponta a área, nem sempre a peça.
+复位之前，先记下故障代码和故障历史。故障代码指向的是某个区域，不一定就是某个部件。
+Запишите код неисправности и журнал неисправностей, прежде чем сбрасывать. Код указывает на область, не всегда на деталь.
+Zapisz kod błędu i historię błędów, zanim zresetujesz. Kod wskazuje obszar, niekoniecznie część.
+Jegyezze fel a hibakódot és a hibatörténetet, mielőtt visszaállítja. A kód a területre mutat, nem mindig az alkatrészre.
+Anote el código de fallo y el historial de fallos antes de rearmar. El código señala la zona, no siempre la pieza.
+
+#2634
+Ne mesurez jamais au mégohmmètre à travers un variateur. Déconnectez d'abord le câble moteur à la sortie du variateur.
+Nunca use o megôhmetro através de um inversor. Desconecte primeiro o cabo do motor na saída do inversor.
+绝不要隔着变频器用兆欧表测量。先在变频器输出端断开电机电缆。
+Никогда не проверяйте мегаомметром через преобразователь. Сначала отсоедините кабель двигателя на выходе преобразователя.
+Nigdy nie mierz megaomomierzem przez falownik. Najpierw odłącz kabel silnika na wyjściu falownika.
+Soha ne mérjen szigetelésmérővel a frekvenciaváltón keresztül. Először húzza le a motorkábelt a frekvenciaváltó kimenetén.
+Nunca mida con el megóhmetro a través de un variador. Desconecte antes el cable del motor en la salida del variador.
+
+#2635
+Afficheur éteint / pas de mise sous tension
+Display apagado / sem energização
+显示屏不亮 / 无法上电
+Дисплей не горит / нет включения
+Wyświetlacz martwy / brak załączenia
+A kijelző nem világít / nem kapcsol be
+Pantalla apagada / no se enciende
+
+#2636
+Défaut de surintensité (OC / court-circuit)
+Falha de sobrecorrente (OC / curto-circuito)
+过电流故障（OC / 短路）
+Отказ по перегрузке по току (OC / короткое замыкание)
+Błąd przetężenia (OC / zwarcie)
+Túláram hiba (OC / zárlat)
+Fallo de sobrecorriente (OC / cortocircuito)
+
+#2637
+Défaut de surtension sur le bus continu (OV)
+Falha de sobretensão no barramento CC (OV)
+直流母线过电压故障（OV）
+Отказ по перенапряжению на шине постоянного тока (OV)
+Błąd przepięcia na szynie DC (OV)
+Túlfeszültség hiba a DC köztes körön (OV)
+Fallo de sobretensión en el bus de CC (OV)
+
+#2638
+Défaut de sous-tension (UV)
+Falha de subtensão (UV)
+欠电压故障（UV）
+Отказ по пониженному напряжению (UV)
+Błąd zbyt niskiego napięcia (UV)
+Alulfeszültség hiba (UV)
+Fallo de subtensión (UV)
+
+#2639
+Défaut de surtempérature (OH)
+Falha de sobretemperatura (OH)
+过温故障（OH）
+Отказ по перегреву (OH)
+Błąd przegrzania (OH)
+Túlmelegedés hiba (OH)
+Fallo de sobretemperatura (OH)
+
+#2640
+Fonctionne mais le moteur ne tourne pas
+Funciona, mas o motor não gira
+变频器在运行，但电机不转
+Работает, но двигатель не вращается
+Pracuje, ale silnik nie obraca się
+Fut, de a motor nem forog
+Funciona pero el motor no gira
+
+#2641
+Ne réagit pas à la marche ni à la consigne de vitesse
+Não responde à partida nem à referência de velocidade
+对启动命令或速度给定没有响应
+Не реагирует на пуск или задание скорости
+Nie reaguje na start ani zadaną prędkość
+Nem reagál az indításra vagy a sebesség-alapjelre
+No responde a la marcha ni a la consigna de velocidad
+
+#2642
+Vitesse instable ou sortie bruyante
+Velocidade instável ou saída ruidosa
+转速不稳或输出有噪声
+Нестабильная скорость или шумный выход
+Niestabilna prędkość lub zaszumione wyjście
+Instabil fordulatszám vagy zajos kimenet
+Velocidad inestable o salida con ruido
+
+#2643
+Le disjoncteur ou le fusible amont saute à la mise sous tension
+O disjuntor ou fusível a montante atua ao energizar
+上电时上游断路器跳闸或熔断器烧断
+При подаче питания срабатывает вышестоящий автомат или перегорает предохранитель
+Wyłącznik lub bezpiecznik nadrzędny zadziała po włączeniu zasilania
+A előtte lévő megszakító kiold vagy a biztosíték kiég a bekapcsoláskor
+Salta el interruptor automático o el fusible aguas arriba al dar tensión
+
+#2644
+Condensateurs du bus continu gonflés ou qui fuient
+Capacitores do barramento CC estufados ou vazando
+直流母线电容鼓包或漏液
+Конденсаторы шины постоянного тока вздуты или текут
+Kondensatory szyny DC wybrzuszone lub cieknące
+A DC köztes kör kondenzátorai kidudorodtak vagy szivárognak
+Condensadores del bus de CC hinchados o con fugas
+
+#2645
+Module IGBT / de puissance fissuré ou éclaté
+Módulo IGBT / de potência trincado ou estourado
+IGBT / 功率模块开裂或炸裂
+Модуль IGBT / силовой модуль треснул или разорвало
+Moduł IGBT / mocy pęknięty lub rozerwany
+Az IGBT / teljesítménymodul repedt vagy szétrobbant
+Módulo IGBT / de potencia agrietado o reventado
+
+#2646
+Redresseur d'entrée brûlé ou noirci
+Retificador de entrada queimado ou enegrecido
+输入整流器烧毁或发黑
+Входной выпрямитель сгорел или почернел
+Prostownik wejściowy spalony lub poczerniały
+A bemeneti egyenirányító kiégett vagy megfeketedett
+Rectificador de entrada quemado o ennegrecido
+
+#2647
+Radiateur et ventilateurs pleins de poussière, ou ventilateur arrêté
+Dissipador e ventiladores cheios de poeira ou ventilador parado
+散热器和风扇积满灰尘，或风扇停转
+Радиатор и вентиляторы забиты пылью или вентилятор остановился
+Radiator i wentylatory pełne kurzu lub wentylator stoi
+A hűtőborda és a ventilátorok tele vannak porral, vagy a ventilátor leállt
+Disipador y ventiladores llenos de polvo o ventilador parado
+
+#2648
+Bornes de puissance décolorées ou desserrées
+Terminais de potência descoloridos ou soltos
+动力端子变色或松动
+Силовые клеммы изменили цвет или ослабли
+Zaciski mocy przebarwione lub luźne
+A teljesítménykapcsok elszíneződtek vagy lazák
+Bornes de potencia descoloridos o flojos
+
+#2649
+Humidité, condensation ou corrosion sur les cartes
+Umidade, condensação ou corrosão nas placas
+电路板上有潮气、凝露或腐蚀
+Влага, конденсат или коррозия на платах
+Wilgoć, kondensacja lub korozja na płytkach
+Nedvesség, páralecsapódás vagy korrózió a kártyákon
+Humedad, condensación o corrosión en las placas
+
+#2650
+Résistance ou relais de précharge brûlé
+Resistor ou relé de pré-carga queimado
+预充电电阻或继电器烧毁
+Сгорел резистор или реле предзаряда
+Rezystor lub przekaźnik wstępnego ładowania spalony
+Az előtöltő ellenállás vagy relé kiégett
+Resistencia o relé de precarga quemado
+
+#2651
+Long câble moteur (plus de 50 m) ou non blindé
+Cabo de motor longo (mais de 50 m) ou sem blindagem
+电机电缆过长（超过50 m）或未屏蔽
+Длинный кабель двигателя (более 50 м) или неэкранированный
+Długi kabel silnika (ponad 50 m) lub nieekranowany
+Hosszú motorkábel (50 m felett) vagy árnyékolatlan
+Cable de motor largo (más de 50 m) o sin apantallar
+
+#2652
+Arrêts rapides ou forte inertie, sans résistance de freinage
+Paradas rápidas ou alta inércia, sem resistor de frenagem
+快速停机或惯量大，没有制动电阻
+Быстрые остановки или большая инерция, нет тормозного резистора
+Szybkie zatrzymania lub duża bezwładność, brak rezystora hamującego
+Gyors leállítások vagy nagy tehetetlenség, fékező ellenállás nélkül
+Paradas rápidas o gran inercia, sin resistencia de frenado
+
+#2653
+Carte de commande brûlée ou qui sent le brûlé
+Placa de controle queimada ou com cheiro de queimado
+控制板烧毁或有焦糊味
+Плата управления сгорела или пахнет гарью
+Płyta sterująca spalona lub pachnie spalenizną
+A vezérlőkártya kiégett vagy égett szagú
+Placa de control quemada o con olor a quemado
+
+#2654
+Condensateurs du bus continu usés
+Capacitores do barramento CC desgastados
+直流母线电容老化
+Износ конденсаторов шины постоянного тока
+Zużyte kondensatory szyny DC
+Elhasználódott DC köztes kör kondenzátorok
+Condensadores del bus de CC desgastados
+
+#2655
+Remplacez la batterie de condensateurs (ou le variateur sur les petites tailles). Vérifiez la température ambiante et le ventilateur.
+Substitua o banco de capacitores (ou o inversor, nos tamanhos pequenos). Verifique a temperatura ambiente e o ventilador.
+更换电容组（小功率变频器则整机更换）。检查环境温度和风扇。
+Замените батарею конденсаторов (или преобразователь целиком, если он небольшой). Проверьте температуру окружающей среды и вентилятор.
+Wymień baterię kondensatorów (lub falownik w małych rozmiarach). Sprawdź temperaturę otoczenia i wentylator.
+Cserélje a kondenzátortelepet (kis méretnél a frekvenciaváltót). Ellenőrizze a környezeti hőmérsékletet és a ventilátort.
+Sustituya el banco de condensadores (o el variador en tamaños pequeños). Compruebe la temperatura ambiente y el ventilador.
+
+#2656
+Remplacez condensateurs et ventilateurs à l'intervalle du constructeur. Gardez l'armoire fraîche.
+Substitua capacitores e ventiladores no intervalo do fabricante. Mantenha o painel fresco.
+按制造商规定的周期更换电容和风扇。保持柜内凉爽。
+Заменяйте конденсаторы и вентиляторы с интервалом, указанным производителем. Держите шкаф прохладным.
+Wymieniaj kondensatory i wentylatory w odstępach zalecanych przez producenta. Utrzymuj szafę w chłodzie.
+Cserélje a kondenzátorokat és ventilátorokat a gyártó által előírt időközönként. Tartsa hűvösen a szekrényt.
+Sustituya condensadores y ventiladores en el intervalo del fabricante. Mantenga fresco el armario.
+
+#2657
+IGBT / étage de sortie défaillant
+IGBT / estágio de saída com falha
+IGBT / 输出级损坏
+Отказ IGBT / выходного каскада
+Uszkodzony IGBT / stopień wyjściowy
+Meghibásodott IGBT / kimeneti fokozat
+IGBT / etapa de salida averiada
+
+#2658
+Remplacez le module de puissance et le driver de grille ; vérifiez d'abord qu'il n'y a pas de court-circuit dans le moteur et le câble, sinon le nouveau module claque aussi.
+Substitua o módulo de potência e o driver de gate; verifique antes se há curto no motor e no cabo, ou o módulo novo também queima.
+更换功率模块和门极驱动；先检查电机和电缆有没有短路，否则新模块也会烧掉。
+Замените силовой модуль и драйвер затвора; сначала проверьте двигатель и кабель на короткое замыкание, иначе новый модуль тоже выйдет из строя.
+Wymień moduł mocy i sterownik bramki; najpierw sprawdź silnik i kabel pod kątem zwarcia, inaczej nowy moduł też zginie.
+Cserélje a teljesítménymodult és a kapuvezérlőt; előbb ellenőrizze, hogy a motorban és a kábelben nincs-e zárlat, különben az új modul is tönkremegy.
+Sustituya el módulo de potencia y el driver de puerta; compruebe antes que no haya un cortocircuito en el motor y el cable, o el módulo nuevo también muere.
+
+#2659
+Gardez une fréquence porteuse raisonnable, vérifiez la longueur du câble et l'isolation du moteur.
+Mantenha uma frequência de chaveamento razoável, verifique o comprimento do cabo e o isolamento do motor.
+载波频率设置要合理，检查电缆长度和电机绝缘。
+Выбирайте разумную несущую частоту, проверяйте длину кабеля и изоляцию двигателя.
+Utrzymuj rozsądną częstotliwość nośną, sprawdź długość kabla i izolację silnika.
+Tartson észszerű kapcsolási frekvenciát, ellenőrizze a kábel hosszát és a motor szigetelését.
+Mantenga una frecuencia portadora razonable y compruebe la longitud del cable y el aislamiento del motor.
+
+#2660
+Redresseur d'entrée défaillant
+Retificador de entrada com falha
+输入整流器损坏
+Отказ входного выпрямителя
+Uszkodzony prostownik wejściowy
+Meghibásodott bemeneti egyenirányító
+Rectificador de entrada averiado
+
+#2661
+Remplacez le module redresseur. Vérifiez les surtensions sur l'alimentation et les fusibles d'entrée.
+Substitua o módulo retificador. Verifique surtos na alimentação e os fusíveis de entrada.
+更换整流模块。检查电源有没有浪涌，以及输入熔断器。
+Замените модуль выпрямителя. Проверьте питание на выбросы напряжения и входные предохранители.
+Wymień moduł prostownika. Sprawdź zasilanie pod kątem przepięć oraz bezpieczniki wejściowe.
+Cserélje az egyenirányító modult. Ellenőrizze a betáplálást túlfeszültség-impulzusok szempontjából, és a bemeneti biztosítékokat.
+Sustituya el módulo rectificador. Compruebe si hay sobretensiones en la alimentación y los fusibles de entrada.
+
+#2662
+Montez une inductance de ligne ou une protection contre les surtensions sur une alimentation polluée.
+Instale um reator de linha ou proteção contra surtos em uma alimentação ruim.
+电源质量差时，加装进线电抗器或浪涌保护。
+Установите сетевой дроссель или защиту от перенапряжений на «грязной» сети.
+Zamontuj dławik sieciowy lub ochronę przeciwprzepięciową przy zanieczyszczonym zasilaniu.
+Szennyezett betáplálásnál építsen be hálózati fojtót vagy túlfeszültség-védelmet.
+Monte una reactancia de línea o protección contra sobretensiones en una alimentación sucia.
+
+#2663
+Circuit de précharge défaillant
+Circuito de pré-carga com falha
+预充电回路损坏
+Отказ цепи предзаряда
+Uszkodzony obwód wstępnego ładowania
+Meghibásodott előtöltő áramkör
+Circuito de precarga averiado
+
+#2664
+Remplacez la résistance ou le relais de précharge. Trouvez ce qui l'a fait surchauffer (mises sous tension répétées, bus en court-circuit).
+Substitua o resistor ou relé de pré-carga. Descubra o que o fez superaquecer (liga/desliga repetido, barramento em curto).
+更换预充电电阻或继电器。查明是什么让它过热的（反复通断电、母线短路）。
+Замените резистор или реле предзаряда. Выясните, что привело к перегреву (частые включения питания, короткое замыкание шины).
+Wymień rezystor lub przekaźnik wstępnego ładowania. Ustal, co spowodowało przegrzanie (częste włączanie zasilania, zwarta szyna).
+Cserélje az előtöltő ellenállást vagy relét. Derítse ki, mi okozta a túlmelegedést (ismételt ki-bekapcsolás, zárlatos köztes kör).
+Sustituya la resistencia o el relé de precarga. Averigüe qué lo recalentó (conexiones repetidas, bus en cortocircuito).
+
+#2665
+Surchauffe due à un refroidissement bouché ou un ventilateur mort
+Superaquecimento por refrigeração bloqueada ou ventilador morto
+冷却受阻或风扇损坏导致过热
+Перегрев из-за заблокированного охлаждения или неисправного вентилятора
+Przegrzanie z powodu zablokowanego chłodzenia lub martwego wentylatora
+Túlmelegedés eltömődött hűtés vagy halott ventilátor miatt
+Sobrecalentamiento por refrigeración bloqueada o ventilador muerto
+
+#2666
+Nettoyez le radiateur, remplacez le ventilateur, déclassez ou déplacez le variateur dans un endroit plus frais.
+Limpe o dissipador, substitua o ventilador, reduza a potência (derate) ou mude o inversor para um local mais fresco.
+清洁散热器，更换风扇，降容使用，或把变频器移到更凉爽的位置。
+Очистите радиатор, замените вентилятор, снизьте нагрузку или перенесите преобразователь в более прохладное место.
+Wyczyść radiator, wymień wentylator, zmniejsz obciążenie lub przenieś falownik w chłodniejsze miejsce.
+Tisztítsa meg a hűtőbordát, cserélje a ventilátort, csökkentse a terhelést, vagy helyezze hűvösebb helyre a frekvenciaváltót.
+Limpie el disipador, sustituya el ventilador, reduzca la carga o traslade el variador a un lugar más fresco.
+
+#2667
+Nettoyez selon un calendrier et filtrez l'air de l'armoire.
+Limpe conforme a programação e filtre o ar do painel.
+定期清洁，并对柜内进风加装过滤。
+Чистите по графику и фильтруйте воздух в шкафу.
+Czyść według harmonogramu i filtruj powietrze w szafie.
+Tisztítsa ütemezetten, és szűrje a szekrény levegőjét.
+Limpie según un calendario y filtre el aire del armario.
+
+#2668
+Défaut dans le moteur ou dans le câble moteur
+Falha no motor ou no cabo do motor
+电机或电机电缆有故障
+Неисправность в двигателе или кабеле двигателя
+Usterka w silniku lub w kablu silnika
+Hiba a motorban vagy a motorkábelben
+Fallo en el motor o en el cable del motor
+
+#2669
+Déconnectez le câble au variateur et mesurez séparément le câble et le moteur au mégohmmètre. Réparez le court-circuit ou le défaut à la terre.
+Desconecte o cabo no inversor e meça o cabo e o motor separadamente com o megôhmetro. Repare o curto ou a falha para a terra.
+在变频器处断开电缆，分别用兆欧表测电缆和电机。修复短路或接地故障。
+Отсоедините кабель на преобразователе и проверьте кабель и двигатель мегаомметром по отдельности. Устраните короткое замыкание или замыкание на землю.
+Odłącz kabel przy falowniku i zmierz kabel oraz silnik osobno megaomomierzem. Napraw zwarcie lub zwarcie doziemne.
+Húzza le a kábelt a frekvenciaváltónál, és szigetelésmérővel mérje meg külön a kábelt és a motort. Javítsa ki a zárlatot vagy a földzárlatot.
+Desconecte el cable en el variador y mida con el megóhmetro el cable y el motor por separado. Repare el cortocircuito o el fallo a tierra.
+
+#2670
+Surtension régénérative (rampe trop rapide, pas de résistance de freinage)
+Sobretensão regenerativa (rampa rápida demais, sem resistor de frenagem)
+再生过电压（减速斜坡太快，没有制动电阻）
+Рекуперативное перенапряжение (слишком быстрый темп торможения, нет тормозного резистора)
+Przepięcie regeneracyjne (zbyt szybka rampa, brak rezystora hamującego)
+Regeneratív túlfeszültség (túl gyors lassítási rámpa, nincs fékezőellenállás)
+Sobretensión regenerativa (rampa demasiado rápida, sin resistencia de frenado)
+
+#2671
+Allongez la rampe de décélération, activez le régulateur de bus continu, ou montez une résistance de freinage et un hacheur.
+Aumente a rampa de desaceleração, ative o controlador do barramento CC ou instale um resistor de frenagem e um chopper.
+延长减速斜坡时间，启用直流母线控制器，或加装制动电阻和制动单元。
+Увеличьте время торможения, включите регулятор шины постоянного тока или установите тормозной резистор и прерыватель.
+Wydłuż rampę hamowania, włącz regulator szyny DC lub zamontuj rezystor hamujący i chopper.
+Növelje a lassítási rámpa idejét, kapcsolja be a DC köztes kör szabályozót, vagy építsen be fékezőellenállást és fékchoppert.
+Alargue la rampa de deceleración, active el controlador del bus de CC o monte una resistencia de frenado y un chopper.
+
+#2672
+Alimentation basse ou qui chute
+Alimentação baixa ou oscilando
+供电偏低或波动下沉
+Низкое или проседающее питание
+Niskie lub spadające zasilanie
+Alacsony vagy bemélyedő betáplálás
+Alimentación baja o con caídas
+
+#2673
+Vérifiez la tension d'arrivée, les connexions, le disjoncteur amont et le transformateur. Montez une inductance de ligne si l'alimentation est faible.
+Verifique a tensão de entrada, as juntas, o disjuntor a montante e o transformador. Instale um reator de linha se a alimentação for fraca.
+检查进线电压、连接点、上游断路器和变压器。如果电源较弱，加装进线电抗器。
+Проверьте входное напряжение, соединения, вышестоящий автомат и трансформатор. Установите сетевой дроссель, если сеть слабая.
+Sprawdź napięcie wejściowe, połączenia, wyłącznik nadrzędny i transformator. Zamontuj dławik sieciowy, jeśli zasilanie jest słabe.
+Ellenőrizze a bejövő feszültséget, a csatlakozásokat, az előtte lévő megszakítót és a transzformátort. Gyenge betáplálásnál építsen be hálózati fojtót.
+Compruebe la tensión de entrada, las uniones, el interruptor automático aguas arriba y el transformador. Monte una reactancia de línea si la alimentación es débil.
+
+#2674
+Mauvais paramètres ou câblage de commande
+Parâmetros ou fiação de controle errados
+参数或控制接线错误
+Неверные параметры или проводка цепей управления
+Złe parametry lub okablowanie sterowania
+Rossz paraméterek vagy vezérlési huzalozás
+Parámetros o cableado de control incorrectos
+
+#2675
+Vérifiez les données de la plaque du moteur, la source de marche (bornier / clavier / bus), la source de consigne et le câblage des DI (PNP/NPN). Remettez les valeurs par défaut et reparamétrez en cas de doute.
+Verifique os dados da placa do motor, a origem do comando de partida (borne / teclado / barramento), a origem da referência e a fiação das DI (PNP/NPN). Restaure os padrões e configure de novo, se tiver dúvida.
+检查电机铭牌数据、运行命令来源（端子 / 键盘 / 总线）、给定来源以及DI接线（PNP/NPN）。如果拿不准，恢复出厂默认值并重新设置。
+Проверьте данные шильдика двигателя, источник команды пуска (клеммы / панель / шина), источник задания и подключение DI (PNP/NPN). Если не уверены, сбросьте на заводские значения и настройте заново.
+Sprawdź dane z tabliczki znamionowej silnika, źródło polecenia startu (zaciski / panel / magistrala), źródło wartości zadanej i okablowanie DI (PNP/NPN). W razie wątpliwości przywróć ustawienia domyślne i skonfiguruj od nowa.
+Ellenőrizze a motor típustáblájának adatait, az indítás forrását (kapocs / kezelőpanel / busz), az alapjel forrását és a DI huzalozását (PNP/NPN). Ha bizonytalan, állítsa vissza az alapértelmezéseket, és állítsa be újra.
+Compruebe los datos de la placa del motor, la fuente de marcha (bornes / teclado / bus), la fuente de consigna y el cableado de las DI (PNP/NPN). Restablezca los valores por defecto y configure de nuevo si tiene dudas.
+
+#2676
+Carte de commande défaillante
+Placa de controle com falha
+控制板损坏
+Отказ платы управления
+Uszkodzona płyta sterująca
+Meghibásodott vezérlőkártya
+Placa de control averiada
+
+#2677
+Remplacez la carte de commande (vérifiez la sauvegarde du firmware et des paramètres). Cherchez l'humidité et la poussière comme cause.
+Substitua a placa de controle (verifique o backup do firmware e dos parâmetros). Procure umidade e poeira como causa.
+更换控制板（先确认固件和参数已备份）。检查潮气和灰尘是否是原因。
+Замените плату управления (проверьте резервную копию прошивки и параметров). Поищите причину во влаге и пыли.
+Wymień płytę sterującą (sprawdź kopię zapasową firmware i parametrów). Poszukaj przyczyny w wilgoci i kurzu.
+Cserélje a vezérlőkártyát (ellenőrizze a firmware és a paraméterek mentését). Keresse az okot nedvességben és porban.
+Sustituya la placa de control (compruebe la copia de seguridad del firmware y de los parámetros). Busque la humedad y el polvo como causa.
+
+#2678
+Parasites (CEM) : câble non blindé, mauvaise terre
+Ruído (EMC): cabo sem blindagem, aterramento ruim
+干扰（EMC）：电缆未屏蔽、接地不良
+Помехи (ЭМС): неэкранированный кабель, плохое заземление
+Zakłócenia (EMC): kabel nieekranowany, złe uziemienie
+Zaj (EMC): árnyékolatlan kábel, rossz földelés
+Ruido (EMC): cable sin apantallar, mala puesta a tierra
+
+#2679
+Séparez les câbles de puissance et de signal, utilisez un câble blindé relié à la terre sur 360 degrés, corrigez la mise à la terre, ajoutez des filtres de sortie si nécessaire.
+Separe os cabos de potência e de sinal, use cabo blindado aterrado em 360 graus, corrija o aterramento e adicione filtros de saída, se necessário.
+动力电缆和信号电缆分开走线，使用360度接地的屏蔽电缆，修正接地，必要时加装输出滤波器。
+Разделите силовые и сигнальные кабели, используйте экранированный кабель с заземлением экрана на 360 градусов, исправьте заземление, при необходимости добавьте выходные фильтры.
+Rozdziel kable zasilające i sygnałowe, użyj kabla ekranowanego uziemionego na 360 stopni, popraw uziemienie, w razie potrzeby dodaj filtry wyjściowe.
+Válassza szét a teljesítmény- és jelkábeleket, használjon 360 fokban földelt árnyékolt kábelt, javítsa a földelést, szükség esetén tegyen be kimeneti szűrőket.
+Separe los cables de potencia y de señal, use cable apantallado puesto a tierra en 360 grados, corrija la puesta a tierra y añada filtros de salida si hace falta.
+
+#2680
+Environ 1,35 x la tension réseau quand il est sous tension
+Cerca de 1,35 x a tensão de rede quando ligado
+通电时约为线电压的1.35倍
+Около 1,35 x линейного напряжения при включении
+Około 1,35 x napięcia sieci po włączeniu
+Bekapcsolva kb. 1,35 x a hálózati feszültség
+Unas 1,35 x la tensión de red cuando está conectado
+
+#2681
+Trop bas ou qui s'effondre
+Baixo demais ou caindo
+过低或下沉
+Слишком низкое или проседает
+Za niskie lub spada
+Túl alacsony vagy bemélyed
+Demasiado bajo o con caídas
+
+#2682
+Zéro avec l'alimentation en marche
+Zero com a alimentação ligada
+通电时仍为零
+Ноль при включённом питании
+Zero przy włączonym zasilaniu
+Nulla bekapcsolt betáplálásnál
+Cero con la alimentación conectada
+
+#2683
+Tension du bus continu hors tension
+Tensão do barramento CC com a energia desligada
+断电后的直流母线电压
+Напряжение шины постоянного тока при выключенном питании
+Napięcie szyny DC przy wyłączonym zasilaniu
+A DC köztes kör feszültsége kikapcsolt állapotban
+Tensión del bus de CC con la alimentación apagada
+
+#2684
+Après le temps de décharge, mesurez DC+ vers DC- aux bornes du variateur. Mettez ensuite sous tension et mesurez de nouveau : environ 1,35 x la tension réseau (540 V sur 400 V).
+Depois do tempo de descarga, meça DC+ para DC- nos terminais do inversor. Depois ligue e meça de novo: cerca de 1,35 x a tensão de rede (540 V em 400 V).
+等放电时间过去后，在变频器端子处测量DC+对DC-。然后上电再测一次：约为线电压的1.35倍（400 V电网下为540 V）。
+После времени разряда измерьте DC+ на DC- на клеммах преобразователя. Затем включите питание и измерьте снова: около 1,35 x линейного напряжения (540 В при 400 В).
+Po czasie rozładowania zmierz DC+ do DC- na zaciskach falownika. Następnie włącz zasilanie i zmierz ponownie: około 1,35 x napięcia sieci (540 V przy 400 V).
+A kisülési idő letelte után mérje meg a DC+ és DC- feszültségét a frekvenciaváltó kapcsain. Majd kapcsolja be, és mérjen újra: kb. 1,35 x a hálózati feszültség (540 V 400 V-nál).
+Tras el tiempo de descarga, mida DC+ a DC- en los bornes del variador. Luego conecte y mida otra vez: unas 1,35 x la tensión de red (540 V con 400 V).
+
+#2685
+Attendez la décharge et vérifiez que c'est sous 50 V avant de toucher. Le bus continu peut garder une tension mortelle.
+Aguarde a descarga e verifique que está abaixo de 50 V antes de tocar. O barramento CC pode reter tensão letal.
+等放电完毕，并确认低于50 V之后再触碰。直流母线可能带有致命电压。
+Дождитесь разряда и убедитесь, что напряжение ниже 50 В, прежде чем прикасаться. Шина постоянного тока может удерживать смертельное напряжение.
+Poczekaj na rozładowanie i sprawdź, czy jest poniżej 50 V, zanim dotkniesz. Szyna DC może utrzymywać śmiertelne napięcie.
+Várja meg a kisülést, és érintés előtt ellenőrizze, hogy 50 V alatt van. A DC köztes kör életveszélyes feszültséget tarthat.
+Espere la descarga y verifique que esté por debajo de 50 V antes de tocar. El bus de CC puede conservar una tensión letal.
+
+#2686
+Absente, basse ou déséquilibrée
+Ausente, baixa ou desequilibrada
+缺失、偏低或不平衡
+Отсутствует, низкое или несимметричное
+Brak, niskie lub niezrównoważone
+Hiányzik, alacsony vagy kiegyensúlyozatlan
+Ausente, baja o desequilibrada
+
+#2687
+Tension d'entrée sur R, S, T
+Tensão de entrada em R, S, T
+R、S、T处的输入电压
+Входное напряжение на R, S, T
+Napięcie wejściowe na R, S, T
+Bemeneti feszültség R, S, T-n
+Tensión de entrada en R, S, T
+
+#2688
+Mesurez les trois tensions entre phases aux bornes d'entrée du variateur, disjoncteur fermé.
+Meça as três tensões entre fases nos terminais de entrada do inversor, com o disjuntor ligado.
+在断路器合上的状态下，测量变频器输入端子处的三个线电压。
+Измерьте три линейных напряжения на входных клеммах преобразователя при включённом автомате.
+Zmierz trzy napięcia międzyfazowe na zaciskach wejściowych falownika przy włączonym wyłączniku.
+Mérje meg a három vonali feszültséget a frekvenciaváltó bemeneti kapcsain, bekapcsolt megszakítónál.
+Mida las tres tensiones entre fases en los bornes de entrada del variador con el interruptor automático conectado.
+
+#2689
+Travail sous tension. Multimètre CAT III/IV et EPI.
+Trabalho com energia ligada. Multímetro CAT III/IV e EPI.
+带电作业。使用CAT III/IV万用表并穿戴个人防护装备。
+Работа под напряжением. Мультиметр CAT III/IV и СИЗ.
+Praca pod napięciem. Miernik CAT III/IV i ŚOI.
+Feszültség alatti munka. CAT III/IV műszer és egyéni védőeszköz.
+Trabajo en tensión. Polímetro CAT III/IV y EPI.
+
+#2690
+Toutes les jonctions normales
+Todas as junções normais
+所有结都正常
+Все переходы в норме
+Wszystkie złącza prawidłowe
+Minden átmenet normális
+Todas las uniones normales
+
+#2691
+Jonction d'entrée en court-circuit ou ouverte
+Junção de entrada em curto ou aberta
+输入结短路或开路
+Входной переход закорочен или оборван
+Złącze wejściowe zwarte lub przerwane
+A bemeneti átmenet zárlatos vagy szakadt
+Unión de entrada en cortocircuito o abierta
+
+#2692
+Jonction de sortie en court-circuit
+Junção de saída em curto
+输出结短路
+Выходной переход закорочен
+Złącze wyjściowe zwarte
+A kimeneti átmenet zárlatos
+Unión de salida en cortocircuito
+
+#2693
+Test de diode sur le pont d'entrée et sur la sortie
+Teste de diodo na ponte de entrada e na saída
+对输入整流桥和输出做二极管测试
+Проверка диодов входного моста и выхода
+Test diod na mostku wejściowym i na wyjściu
+Diódateszt a bemeneti hídon és a kimeneten
+Prueba de diodos en el puente de entrada y en la salida
+
+#2694
+Hors tension, bus déchargé. Test de diode de R/S/T vers DC+ et DC-, et de U/V/W vers DC+ et DC-. Chaque jonction doit donner 0,3 à 0,5 V dans un sens et OL dans l'autre.
+Energia desligada, barramento descarregado. Teste de diodo de R/S/T para DC+ e DC-, e de U/V/W para DC+ e DC-. Cada junção deve ler 0,3 a 0,5 V em um sentido e OL no outro.
+断电，母线已放电。对R/S/T到DC+和DC-，以及U/V/W到DC+和DC-做二极管测试。每个结正向应读到0.3至0.5 V，反向为OL。
+Питание выключено, шина разряжена. Проверьте диодным тестом R/S/T на DC+ и DC-, а также U/V/W на DC+ и DC-. Каждый переход должен показывать 0,3–0,5 В в одну сторону и OL в другую.
+Zasilanie wyłączone, szyna rozładowana. Test diod z R/S/T do DC+ i DC- oraz z U/V/W do DC+ i DC-. Każde złącze powinno wskazywać 0,3 do 0,5 V w jedną stronę i OL w drugą.
+Áramtalanítva, a köztes kör kisütve. Diódateszt R/S/T és DC+ meg DC-, valamint U/V/W és DC+ meg DC- között. Minden átmenetnek egyik irányban 0,3 és 0,5 V között kell lennie, a másikban OL.
+Con la alimentación apagada y el bus descargado. Prueba de diodos de R/S/T a DC+ y DC-, y de U/V/W a DC+ y DC-. Cada unión debe leer de 0,3 a 0,5 V en un sentido y OL en el otro.
+
+#2695
+Déconnectez d'abord le câble moteur.
+Desconecte primeiro o cabo do motor.
+先断开电机电缆。
+Сначала отсоедините кабель двигателя.
+Najpierw odłącz kabel silnika.
+Először húzza le a motorkábelt.
+Desconecte primero el cable del motor.
+
+#2696
+Isolement supérieur à 5 MΩ et enroulements équilibrés
+Isolamento acima de 5 MΩ e enrolamentos equilibrados
+绝缘高于5 MΩ且绕组平衡
+Изоляция выше 5 МОм и обмотки сбалансированы
+Izolacja powyżej 5 MΩ i zrównoważone uzwojenia
+A szigetelés 5 MΩ felett van és a tekercsek kiegyensúlyozottak
+Aislamiento por encima de 5 MΩ y bobinados equilibrados
+
+#2697
+Isolement faible ou court-circuit entre phases
+Isolamento baixo ou curto entre fases
+绝缘偏低或相间短路
+Низкая изоляция или короткое замыкание между фазами
+Niska izolacja lub zwarcie między fazami
+Alacsony szigetelés vagy fázisközi zárlat
+Aislamiento bajo o cortocircuito entre fases
+
+#2698
+Mégohmmètre et résistance du câble moteur et du moteur (variateur déconnecté)
+Megôhmetro e resistência do cabo do motor e do motor (inversor desconectado)
+电机电缆和电机的兆欧表与电阻测量（变频器已断开）
+Мегаомметр и сопротивление кабеля двигателя и двигателя (преобразователь отсоединён)
+Megaomomierz i rezystancja kabla silnika i silnika (falownik odłączony)
+Szigetelésmérés és ellenállás a motorkábelen és a motoron (frekvenciaváltó lekötve)
+Megóhmetro y resistencia del cable del motor y del motor (variador desconectado)
+
+#2699
+Déconnectez U, V, W au variateur. Mesurez au mégohmmètre le câble et le moteur par rapport à la terre (500 V). Contrôlez les trois résistances d'enroulement.
+Desconecte U, V, W no inversor. Meça o cabo e o motor contra a terra com o megôhmetro (500 V). Verifique as três resistências de enrolamento.
+在变频器处断开U、V、W。用兆欧表测电缆和电机对地的绝缘（500 V）。检查三个绕组电阻。
+Отсоедините U, V, W на преобразователе. Измерьте мегаомметром кабель и двигатель относительно земли (500 В). Проверьте три сопротивления обмоток.
+Odłącz U, V, W przy falowniku. Zmierz megaomomierzem kabel i silnik względem ziemi (500 V). Sprawdź trzy rezystancje uzwojeń.
+Húzza le az U, V, W vezetékeket a frekvenciaváltónál. Szigetelésmérővel mérje meg a kábelt és a motort a földhöz képest (500 V). Ellenőrizze a három tekercsellenállást.
+Desconecte U, V, W en el variador. Mida con el megóhmetro el cable y el motor respecto a tierra (500 V). Compruebe las tres resistencias de bobinado.
+
+#2700
+Ne mesurez jamais au mégohmmètre avec le variateur raccordé.
+Nunca use o megôhmetro com o inversor conectado.
+变频器未断开时，绝不要用兆欧表测量。
+Никогда не проверяйте мегаомметром при подключённом преобразователе.
+Nigdy nie mierz megaomomierzem przy podłączonym falowniku.
+Soha ne mérjen szigetelésmérővel, amíg a frekvenciaváltó csatlakoztatva van.
+Nunca mida con el megóhmetro con el variador conectado.
+
+#2701
+Les ventilateurs tournent, propre
+Ventiladores giram, limpo
+风扇转动，干净
+Вентиляторы вращаются, чисто
+Wentylatory kręcą się, czysto
+A ventilátorok forognak, tiszta
+Los ventiladores giran, limpio
+
+#2702
+Ventilateur mort ou ailettes encrassées
+Ventilador morto ou aletas entupidas
+风扇不转或散热片堵塞
+Вентилятор не работает или рёбра забиты
+Wentylator martwy lub żebra zapchane
+A ventilátor halott vagy a bordák eltömődtek
+Ventilador muerto o aletas obstruidas
+
+#2703
+Ventilateur et radiateur
+Ventilador e dissipador
+风扇和散热器
+Вентилятор и радиатор
+Wentylator i radiator
+Ventilátor és hűtőborda
+Ventilador y disipador
+
+#2704
+Mettez sous tension et observez les ventilateurs. Regardez les ailettes du radiateur et le passage d'air. Hors tension, tâtez pour détecter l'accumulation de poussière.
+Ligue e observe os ventiladores. Olhe as aletas do dissipador e o caminho do ar. Com a energia desligada, sinta se há acúmulo de poeira.
+通电并观察风扇。查看散热器的散热片和风道。断电后用手摸一摸有没有积灰。
+Включите питание и понаблюдайте за вентиляторами. Осмотрите рёбра радиатора и воздушный тракт. При выключенном питании на ощупь проверьте, нет ли накопления пыли.
+Włącz zasilanie i obserwuj wentylatory. Obejrzyj żebra radiatora i drogę przepływu powietrza. Przy wyłączonym zasilaniu dotykiem sprawdź, czy nie ma nagromadzonego kurzu.
+Kapcsolja be, és figyelje a ventilátorokat. Nézze meg a hűtőborda bordáit és a légutat. Áramtalanítva tapintással ellenőrizze a porlerakódást.
+Conecte y observe los ventiladores. Mire las aletas del disipador y el paso del aire. Con la alimentación apagada, toque para notar si hay acumulación de polvo.
+
+#2705
+Se déclenche pendant l'accélération
+Atua durante a aceleração
+加速过程中跳闸
+Срабатывает при разгоне
+Zadziała podczas przyspieszania
+Gyorsítás közben kiold
+Salta durante la aceleración
+
+#2706
+Se déclenche pendant la décélération
+Atua durante a desaceleração
+减速过程中跳闸
+Срабатывает при торможении
+Zadziała podczas hamowania
+Lassítás közben kiold
+Salta durante la deceleración
+
+#2707
+Se déclenche à vitesse stabilisée
+Atua em velocidade constante
+匀速运行时跳闸
+Срабатывает на установившейся скорости
+Zadziała przy stałej prędkości
+Állandó fordulatszámnál kiold
+Salta a velocidad constante
+
+#2708
+Se déclenche au démarrage ou à la mise sous tension
+Atua na partida ou ao energizar
+启动或上电时跳闸
+Срабатывает при пуске или при включении питания
+Zadziała przy starcie lub po włączeniu zasilania
+Indításkor vagy bekapcsoláskor kiold
+Salta al arrancar o al dar tensión
+
+#2709
+Lire le code de défaut et l'historique des défauts
+Ler o código de falha e o histórico de falhas
+读取故障代码和故障历史
+Прочитайте код неисправности и журнал неисправностей
+Odczytaj kod błędu i historię błędów
+Olvassa le a hibakódot és a hibatörténetet
+Leer el código de fallo y el historial de fallos
+
+#2710
+Lisez l'afficheur ou l'historique du clavier. Notez le code, l'heure, et la vitesse ou le courant au moment du déclenchement.
+Leia o display ou o histórico do teclado. Anote o código, a hora e a velocidade ou corrente no momento da atuação.
+读显示屏或键盘上的历史记录。记下故障代码、时间，以及跳闸时的转速或电流。
+Прочитайте дисплей или журнал панели. Запишите код, время и скорость или ток в момент срабатывания.
+Odczytaj wyświetlacz lub historię z panelu. Zanotuj kod, czas oraz prędkość lub prąd w chwili zadziałania.
+Olvassa le a kijelzőt vagy a kezelőpanel előzményeit. Jegyezze fel a kódot, az időpontot, valamint a fordulatszámot vagy az áramot a kioldás pillanatában.
+Lea la pantalla o el historial del teclado. Anote el código, la hora y la velocidad o la corriente en el momento del disparo.
+
+#2711
+Tout est correct
+Tudo correto
+一切正确
+Всё верно
+Wszystko prawidłowe
+Minden rendben
+Todo correcto
+
+#2712
+Quelque chose est faux ou manque
+Algo errado ou faltando
+有错误或缺失
+Что-то не так или отсутствует
+Coś jest nie tak lub brakuje
+Valami hibás vagy hiányzik
+Algo mal o falta
+
+#2713
+Vérifier les bornes de commande et les paramètres
+Verificar os terminais de controle e os parâmetros
+检查控制端子和参数
+Проверьте клеммы управления и параметры
+Sprawdź zaciski sterowania i parametry
+Ellenőrizze a vezérlő kapcsokat és a paramétereket
+Compruebe los bornes de control y los parámetros
+
+#2714
+Vérifiez la source de la commande de marche, la source de consigne, le câblage des DI et les données moteur saisies. Utilisez le moniteur du variateur pour voir les états des DI.
+Verifique a origem do comando de partida, a origem da referência, a fiação das DI e os dados do motor informados. Use o monitor do inversor para ver os estados das DI.
+检查运行命令来源、给定来源、DI接线，以及输入的电机数据。用变频器的监视功能查看各DI的状态。
+Проверьте источник команды пуска, источник задания, подключение DI и введённые данные двигателя. С помощью монитора преобразователя посмотрите состояния DI.
+Sprawdź źródło polecenia startu, źródło wartości zadanej, okablowanie DI oraz wprowadzone dane silnika. Użyj monitora falownika, aby zobaczyć stany DI.
+Ellenőrizze az indítás forrását, az alapjel forrását, a DI huzalozását és a megadott motoradatokat. A frekvenciaváltó monitorával nézze meg a DI-k állapotát.
+Compruebe la fuente del comando de marcha, la fuente de consigna, el cableado de las DI y los datos del motor introducidos. Use el monitor del variador para ver los estados de las DI.
+
+#2715
+Contacteur ou relais
+Contator ou relé
+接触器或继电器
+Контактор или реле
+Stycznik lub przekaźnik
+Kontaktor vagy relé
+Contactor o relé
+
+#2716
+Isolez d'abord. Photographiez les contacts, la bobine et les bornes. Comparez les trois pôles.
+Isole primeiro. Fotografe os contatos, a bobina e os terminais. Compare os três polos.
+先隔离。拍下触点、线圈和端子。比较三个极。
+Сначала отключите. Сфотографируйте контакты, катушку и клеммы. Сравните все три полюса.
+Najpierw odetnij. Sfotografuj styki, cewkę i zaciski. Porównaj trzy bieguny.
+Először válassza le. Fényképezze le az érintkezőket, a tekercset és a kapcsokat. Hasonlítsa össze a három pólust.
+Aísle primero. Fotografíe los contactos, la bobina y los bornes. Compare los tres polos.
+
+#2717
+Des contacts piqués, bleus ou noirs racontent l'histoire : étincelles dues à une tension trop basse, surcharge, ou arc dû à un rebond.
+Contatos corroídos, azulados ou pretos contam a história: faíscas por baixa tensão, sobrecarga ou arco por repique.
+触点有麻点、发蓝或发黑，就说明了问题：电压过低引起的火花、过载，或抖动产生的电弧。
+Выгоревшие, синие или чёрные контакты рассказывают историю: искрение от пониженного напряжения, перегрузка или дуга от дребезга.
+Wypalone, niebieskie lub czarne styki opowiadają całą historię: iskrzenie od zbyt niskiego napięcia, przeciążenie lub łuk od drgania styków.
+A kiégett, kék vagy fekete érintkezők elmesélik a történetet: szikrázás alacsony feszültségtől, túlterhelés vagy a pattogás okozta ív.
+Los contactos picados, azules o negros cuentan la historia: chispas por baja tensión, sobrecarga o arco por rebote.
+
+#2718
+Ne colle pas
+Não atua
+不吸合
+Не втягивается
+Nie przyciąga
+Nem húz be
+No engancha
+
+#2719
+Vibre ou bourdonne
+Vibra ou zumbe
+抖动或嗡嗡响
+Дребезжит или гудит
+Drga lub buczy
+Rezeg vagy zúg
+Vibra o zumba
+
+#2720
+Ne retombe pas
+Não desliga
+不释放
+Не отпускает
+Nie odpuszcza
+Nem old ki
+No desengancha
+
+#2721
+Contacts ou bornes chauds
+Contatos ou terminais quentes
+触点或端子发热
+Горячие контакты или клеммы
+Gorące styki lub zaciski
+Forró érintkezők vagy kapcsok
+Contactos o bornes calientes
+
+#2722
+Contacts soudés
+Contatos soldados
+触点熔焊
+Приварившиеся контакты
+Zespawane styki
+Összehegedt érintkezők
+Contactos soldados
+
+#2723
+Bobine très chaude ou brûlée
+Bobina muito quente ou queimada
+线圈过热或烧毁
+Катушка сильно греется или сгорела
+Cewka bardzo gorąca lub spalona
+A tekercs nagyon forró vagy kiégett
+Bobina muy caliente o quemada
+
+#2724
+Durée de vie des contacts courte
+Vida curta dos contatos
+触点寿命短
+Малый срок службы контактов
+Krótka żywotność styków
+Rövid érintkezőélettartam
+Vida corta de los contactos
+
+#2725
+Contacts piqués, bleus ou noirs
+Contatos corroídos, azulados ou pretos
+触点有麻点、发蓝或发黑
+Контакты выгорели, синие или чёрные
+Styki wypalone, niebieskie lub czarne
+Az érintkezők kiégettek, kékek vagy feketék
+Contactos picados, azules o negros
+
+#2726
+Contacts fondus ensemble
+Contatos fundidos entre si
+触点熔焊在一起
+Контакты сплавились
+Styki stopione razem
+Az érintkezők összeolvadtak
+Contactos fundidos entre sí
+
+#2727
+Bobine décolorée, fondue ou qui sent mauvais
+Bobina descolorida, derretida ou com cheiro
+线圈变色、熔化或有异味
+Катушка изменила цвет, расплавилась или пахнет
+Cewka przebarwiona, stopiona lub brzydko pachnie
+A tekercs elszíneződött, megolvadt vagy szaga van
+Bobina descolorida, derretida o con mal olor
+
+#2728
+Poussière, huile ou débris dans l'entrefer de l'armature
+Poeira, óleo ou detritos no entreferro da armadura
+衔铁气隙里有灰尘、油或杂物
+Пыль, масло или мусор в зазоре якоря
+Kurz, olej lub zanieczyszczenia w szczelinie zwory
+Por, olaj vagy szennyeződés a kotva légrésében
+Polvo, aceite o residuos en el entrehierro de la armadura
+
+#2729
+Vis de bornes desserrées ou isolant brûlé
+Parafusos de terminal soltos ou isolação queimada
+端子螺丝松动或绝缘烧焦
+Винты клемм ослаблены или изоляция обгорела
+Śruby zacisków luźne lub izolacja spalona
+A kapocscsavarok lazák, vagy a szigetelés megégett
+Tornillos de borne flojos o aislamiento quemado
+
+#2730
+Boîtier fissuré ou ressort cassé
+Carcaça trincada ou mola quebrada
+外壳开裂或弹簧断裂
+Корпус треснул или пружина сломана
+Pęknięta obudowa lub złamana sprężyna
+Repedt ház vagy törött rugó
+Carcasa agrietada o muelle roto
+
+#2731
+La tension de bobine sur l'étiquette ne correspond pas à l'alimentation de commande
+A tensão da bobina na etiqueta não corresponde à alimentação de controle
+标签上的线圈电压与控制电源不符
+Напряжение катушки на этикетке не соответствует питанию цепи управления
+Napięcie cewki na etykiecie nie zgadza się z zasilaniem sterowania
+A címkén lévő tekercsfeszültség nem egyezik a vezérlési betáplálással
+La tensión de bobina de la etiqueta no coincide con la alimentación de control
+
+#2732
+Commute souvent un moteur ou une batterie de condensateurs
+Comuta com frequência um motor ou banco de capacitores
+频繁开断一台电机或电容组
+Часто коммутирует двигатель или батарею конденсаторов
+Często załącza silnik lub baterię kondensatorów
+Gyakran kapcsol egy motort vagy kondenzátortelepet
+Conmuta con frecuencia un motor o un banco de condensadores
+
+#2733
+Contacts usés (vieillissement normal)
+Contatos desgastados (envelhecimento normal)
+触点磨损（正常老化）
+Износ контактов (нормальное старение)
+Zużyte styki (normalne starzenie)
+Elhasználódott érintkezők (normál öregedés)
+Contactos desgastados (envejecimiento normal)
+
+#2734
+Remplacez le kit de contacts ou le contacteur. Ne limez pas les contacts. Vérifiez la catégorie d'emploi (AC-3 / AC-4).
+Substitua o kit de contatos ou o contator. Não lime os contatos. Verifique a categoria de utilização (AC-3 / AC-4).
+更换触点组件或整个接触器。不要锉触点。检查使用类别（AC-3 / AC-4）。
+Замените комплект контактов или контактор. Не зачищайте контакты напильником. Проверьте категорию применения (AC-3 / AC-4).
+Wymień zestaw styków lub stycznik. Nie piłuj styków. Sprawdź kategorię użytkowania (AC-3 / AC-4).
+Cserélje az érintkezőkészletet vagy a kontaktort. Ne reszelje az érintkezőket. Ellenőrizze a használati kategóriát (AC-3 / AC-4).
+Sustituya el kit de contactos o el contactor. No lime los contactos. Compruebe la categoría de utilización (AC-3 / AC-4).
+
+#2735
+Dimensionnez pour AC-3 et la durée de vie mécanique ; utilisez AC-4 pour le pas-à-pas et le freinage à contre-courant.
+Dimensione para AC-3 e vida mecânica; use AC-4 para inching e frenagem por inversão.
+按AC-3和机械寿命选型；点动和反接制动用AC-4。
+Подбирайте по AC-3 и механическому ресурсу; для толчкового режима и торможения противотоком используйте AC-4.
+Dobieraj pod AC-3 i trwałość mechaniczną; dla pracy impulsowej i hamowania przeciwprądem stosuj AC-4.
+Méretezzen AC-3-ra és mechanikai élettartamra; tipegtetéshez és ellenáramú fékezéshez használjon AC-4-et.
+Dimensione para AC-3 y vida mecánica; use AC-4 para marcha por impulsos y frenado a contracorriente.
+
+#2736
+Courants de commutation au-dessus de la valeur nominale (appel de courant, pas-à-pas, surcharge)
+Correntes de comutação acima do valor nominal (partida, inching, sobrecarga)
+开断电流超过额定值（冲击电流、点动、过载）
+Коммутируемые токи выше номинала (пусковой ток, толчковый режим, перегрузка)
+Prądy łączeniowe powyżej wartości znamionowej (prąd rozruchowy, praca impulsowa, przeciążenie)
+A kapcsolt áramok meghaladják a névlegest (bekapcsolási áram, tipegtetés, túlterhelés)
+Corrientes de conmutación por encima de la nominal (pico de arranque, marcha por impulsos, sobrecarga)
+
+#2737
+Utilisez un contacteur plus gros ou la bonne catégorie d'emploi, ajoutez un démarreur progressif ou une précharge pour les charges capacitives.
+Use um contator maior ou a categoria de utilização correta, adicione partida suave ou pré-carga para cargas capacitivas.
+改用更大的接触器或正确的使用类别；对电容性负载加软启动或预充电。
+Используйте контактор большего номинала или правильную категорию применения, для ёмкостных нагрузок добавьте плавный пуск или предзаряд.
+Użyj większego stycznika lub właściwej kategorii użytkowania, dodaj softstart lub wstępne ładowanie dla obciążeń pojemnościowych.
+Használjon nagyobb kontaktort vagy megfelelő használati kategóriát, kapacitív terheléshez tegyen be lágyindítót vagy előtöltést.
+Use un contactor mayor o la categoría de utilización correcta, añada arranque suave o una precarga para cargas capacitivas.
+
+#2738
+Tension de bobine basse (alimentation de commande faible)
+Tensão baixa na bobina (alimentação de controle fraca)
+线圈电压低（控制电源太弱）
+Низкое напряжение катушки (слабое питание цепи управления)
+Niskie napięcie cewki (słabe zasilanie sterowania)
+Alacsony tekercsfeszültség (gyenge vezérlési betáplálás)
+Tensión de bobina baja (alimentación de control débil)
+
+#2739
+Mesurez la tension de bobine pendant l'appel. Elle doit rester au-dessus de 85 % du nominal. Corrigez l'alimentation, la chute dans le câble de commande ou la puissance de l'alimentation.
+Meça a tensão da bobina enquanto ela atua. Deve ficar acima de 85 % do nominal. Corrija a alimentação, a queda no cabo de controle ou a capacidade da fonte.
+在吸合的过程中测量线圈电压。它必须保持在额定值的85 %以上。处理好电源、控制电缆上的压降，或电源容量。
+Измерьте напряжение на катушке в момент втягивания. Оно должно оставаться выше 85 % номинала. Исправьте питание, падение напряжения в кабеле управления или мощность блока питания.
+Zmierz napięcie cewki w trakcie przyciągania. Musi pozostać powyżej 85 % wartości znamionowej. Napraw zasilanie, spadek na kablu sterowania lub moc zasilacza.
+Mérje meg a tekercsfeszültséget behúzás közben. A névleges érték 85 %-a fölött kell maradnia. Javítsa a betáplálást, a vezérlőkábel feszültségesését vagy a tápegység teljesítményét.
+Mida la tensión de la bobina mientras engancha. Debe mantenerse por encima del 85 % del valor nominal. Corrija la alimentación, la caída en el cable de control o la potencia de la fuente.
+
+#2740
+Bobine brûlée ou ouverte
+Bobina queimada ou aberta
+线圈烧毁或开路
+Катушка сгорела или оборвана
+Cewka spalona lub przerwana
+A tekercs kiégett vagy szakadt
+Bobina quemada o abierta
+
+#2741
+Remplacez la bobine. Trouvez pourquoi : surtension, mauvaise tension de bobine, armature qui ne se ferme pas (un entrefer sale fait surchauffer la bobine).
+Substitua a bobina. Descubra por quê: sobretensão, tensão de bobina errada, armadura que não fecha (um entreferro sujo faz a bobina superaquecer).
+更换线圈。查明原因：过电压、线圈电压选错、衔铁没有闭合（气隙脏污会让线圈过热）。
+Замените катушку. Выясните причину: перенапряжение, неверное напряжение катушки, якорь не замыкается (грязный зазор приводит к перегреву катушки).
+Wymień cewkę. Ustal dlaczego: przepięcie, złe napięcie cewki, zwora się nie zamyka (brudna szczelina powoduje przegrzewanie cewki).
+Cserélje a tekercset. Derítse ki, miért: túlfeszültség, rossz tekercsfeszültség, a kotva nem zár (a szennyezett légrés miatt a tekercs túlmelegszik).
+Sustituya la bobina. Averigüe por qué: sobretensión, tensión de bobina incorrecta, armadura que no cierra (un entrehierro sucio hace que la bobina se sobrecaliente).
+
+#2742
+Saleté ou rouille dans l'entrefer de l'armature
+Sujeira ou ferrugem no entreferro da armadura
+衔铁气隙中有污物或锈蚀
+Грязь или ржавчина в зазоре якоря
+Brud lub rdza w szczelinie zwory
+Szennyeződés vagy rozsda a kotva légrésében
+Suciedad u óxido en el entrehierro de la armadura
+
+#2743
+Nettoyez les faces polaires, vérifiez la bague de déphasage et le ressort de rappel. Remplacez si la face est usée.
+Limpe as faces dos polos, verifique o anel de sombra e a mola de retorno. Substitua se a face estiver desgastada.
+清洁极面，检查分磁环和复位弹簧。极面磨损就更换。
+Очистите поверхности полюсов, проверьте короткозамкнутый виток и возвратную пружину. Замените, если поверхность изношена.
+Wyczyść powierzchnie biegunów, sprawdź pierścień zwarciowy i sprężynę powrotną. Wymień, jeśli powierzchnia jest zużyta.
+Tisztítsa meg a pólusfelületeket, ellenőrizze az árnyékológyűrűt és a visszahúzó rugót. Cserélje, ha a felület kopott.
+Limpie las caras polares, compruebe el anillo de sombra y el muelle de retorno. Sustituya si la cara está desgastada.
+
+#2744
+Contacts soudés par un court-circuit ou une longue surcharge
+Contatos soldados por um curto ou por sobrecarga prolongada
+触点因短路或长时间过载而熔焊
+Контакты приварились из-за короткого замыкания или длительной перегрузки
+Styki zespawane przez zwarcie lub długie przeciążenie
+Az érintkezők zárlat vagy hosszú túlterhelés miatt összehegedtek
+Contactos soldados por un cortocircuito o una sobrecarga prolongada
+
+#2745
+Remplacez le contacteur. Trouvez la cause : un court-circuit non éliminé à temps, un blocage du moteur ou une mauvaise courbe de disjoncteur.
+Substitua o contator. Descubra a causa: um curto que não foi eliminado a tempo, travamento do motor ou curva errada do disjuntor.
+更换接触器。找出原因：短路没有及时切除、电机堵转，或断路器曲线选错。
+Замените контактор. Найдите причину: короткое замыкание не было отключено вовремя, заклинивание двигателя или неверная характеристика автомата.
+Wymień stycznik. Znajdź przyczynę: zwarcie nie zostało wyłączone na czas, zablokowanie silnika lub zła charakterystyka wyłącznika.
+Cserélje a kontaktort. Keresse meg az okot: a zárlatot nem szakították meg időben, a motor leblokkolt, vagy rossz a megszakító karakterisztikája.
+Sustituya el contactor. Busque la causa: un cortocircuito no despejado a tiempo, un bloqueo del motor o una curva de interruptor automático incorrecta.
+
+#2746
+Borne desserrée provoquant une connexion chaude
+Terminal solto causando conexão quente
+端子松动造成连接点发热
+Ослабленная клемма вызывает нагрев соединения
+Luźny zacisk powodujący nagrzewanie połączenia
+Laza kapocs okozta forró csatlakozás
+Borne flojo que causa una conexión caliente
+
+#2747
+Recoupez, reconnectez et serrez au couple prescrit. Marquez les vis et recontrôlez à la prochaine maintenance préventive.
+Corte, refaça o terminal e aperte no torque especificado. Marque os parafusos e verifique de novo na próxima manutenção preventiva.
+剪短重新压接，按规定扭矩拧紧。给螺丝做标记，下次预防性维护时再检查。
+Обрежьте, заново оконцуйте и затяните с моментом по спецификации. Отметьте винты и проверьте снова при следующем плановом обслуживании.
+Utnij, zarób na nowo i dokręć momentem zgodnym ze specyfikacją. Oznacz śruby i sprawdź ponownie przy następnym przeglądzie.
+Vágja vissza, kösse be újra, és húzza meg az előírt nyomatékkal. Jelölje meg a csavarokat, és ellenőrizze újra a következő karbantartáskor.
+Corte, vuelva a conectar y apriete al par especificado. Marque los tornillos y vuelva a comprobar en el próximo mantenimiento preventivo.
+
+#2748
+Blocage mécanique ou ressort cassé
+Travamento mecânico ou mola quebrada
+机械卡阻或弹簧断裂
+Механическое заклинивание или сломанная пружина
+Zakleszczenie mechaniczne lub złamana sprężyna
+Mechanikai beszorulás vagy törött rugó
+Atasco mecánico o muelle roto
+
+#2749
+Remplacez le contacteur.
+Substitua o contator.
+更换接触器。
+Замените контактор.
+Wymień stycznik.
+Cserélje a kontaktort.
+Sustituya el contactor.
+
+#2750
+Retour de tension ou circuit parasite qui le maintient
+Retorno de tensão ou circuito parasita que o mantém ligado
+有反馈电压或寄生回路把它保持住
+Обратная подпитка или паразитная цепь удерживает его
+Napięcie zwrotne lub obwód pasożytniczy go podtrzymuje
+Visszatáplálás vagy parazita áramkör tartja behúzva
+Retroalimentación o circuito parásito que lo mantiene enganchado
+
+#2751
+Vérifiez dans le circuit de commande un chemin d'auto-maintien, une sortie statique qui fuit ou un câblage erroné.
+Verifique no circuito de controle um caminho de selo, uma saída estática com fuga ou uma fiação errada.
+检查控制回路中是否有自保持通路、固态输出漏电，或接线错误。
+Проверьте в цепи управления наличие цепи самоподхвата, утечку твердотельного выхода или неверный монтаж.
+Sprawdź w obwodzie sterowania ścieżkę samopodtrzymania, upływ wyjścia półprzewodnikowego lub błędne okablowanie.
+Ellenőrizze a vezérlőkörben az önfenntartó utat, a szivárgó félvezetős kimenetet vagy a hibás huzalozást.
+Compruebe en el circuito de control un camino de enclavamiento, una salida de estado sólido con fugas o un cableado erróneo.
+
+#2752
+Pleine tension, mais il ne colle pas
+Tensão plena, mas não atua
+电压正常，但不吸合
+Полное напряжение, но не втягивается
+Pełne napięcie, ale nie przyciąga
+Teljes feszültség, de nem húz be
+Tensión plena, pero no engancha
+
+#2753
+Tension basse (sous 85 %)
+Tensão baixa (abaixo de 85 %)
+电压偏低（低于85 %）
+Низкое напряжение (ниже 85 %)
+Niskie napięcie (poniżej 85 %)
+Alacsony feszültség (85 % alatt)
+Tensión baja (por debajo del 85 %)
+
+#2754
+Pas de tension
+Sem tensão
+没有电压
+Нет напряжения
+Brak napięcia
+Nincs feszültség
+Sin tensión
+
+#2755
+Tension de bobine quand il devrait coller
+Tensão da bobina quando deveria atuar
+应该吸合时的线圈电压
+Напряжение на катушке, когда она должна втягиваться
+Napięcie cewki, gdy powinna przyciągać
+Tekercsfeszültség, amikor be kellene húznia
+Tensión de bobina cuando debería engancharse
+
+#2756
+Sous tension. Mesurez aux bornes de la bobine A1-A2 quand la commande de marche est donnée.
+Energizado. Meça nos terminais da bobina A1-A2 quando o comando de partida for dado.
+带电测量。给出启动命令时，在线圈端子A1-A2处测量。
+Под напряжением. Измерьте на клеммах катушки A1-A2 в момент подачи команды пуска.
+Pod napięciem. Zmierz na zaciskach cewki A1-A2 w chwili wydania polecenia startu.
+Feszültség alatt. Mérje meg a tekercs A1-A2 kapcsain, amikor kiadják az indítási parancsot.
+En tensión. Mida en los bornes de la bobina A1-A2 cuando se da la orden de marcha.
+
+#2757
+Travail sous tension, utilisez un multimètre CAT III.
+Trabalho com energia ligada, use um multímetro CAT III.
+带电作业，使用CAT III万用表。
+Работа под напряжением, используйте мультиметр CAT III.
+Praca pod napięciem, użyj miernika CAT III.
+Feszültség alatti munka, használjon CAT III műszert.
+Trabajo en tensión, use un polímetro CAT III.
+
+#2758
+Valeur normale
+Valor normal
+正常值
+Нормальное значение
+Wartość prawidłowa
+Normál érték
+Valor normal
+
+#2759
+Très basse (spires en court-circuit)
+Muito baixa (espiras em curto)
+很低（匝间短路）
+Очень низкое (короткозамкнутые витки)
+Bardzo niska (zwarte zwoje)
+Nagyon alacsony (zárlatos menetek)
+Muy baja (espiras en cortocircuito)
+
+#2760
+Résistance de la bobine (hors tension)
+Resistência da bobina (energia desligada)
+线圈电阻（断电）
+Сопротивление катушки (питание выключено)
+Rezystancja cewki (zasilanie wyłączone)
+Tekercsellenállás (áramtalanítva)
+Resistencia de la bobina (alimentación apagada)
+
+#2761
+Isolé, un fil de bobine soulevé. Mesurez A1-A2. Comparez avec une bobine neuve du même type.
+Isolado, um fio da bobina levantado. Meça A1-A2. Compare com uma bobina nova do mesmo tipo.
+已隔离，把一根线圈引线拆开。测量A1-A2。与同型号的新线圈对比。
+Изолировано, один вывод катушки отсоединён. Измерьте A1-A2. Сравните с новой катушкой того же типа.
+Odizolowany, jeden przewód cewki odłączony. Zmierz A1-A2. Porównaj z nową cewką tego samego typu.
+Leválasztva, a tekercs egyik vezetéke felemelve. Mérje meg A1-A2-t. Vesse össze egy ugyanolyan típusú új tekerccsel.
+Aislado, con un conductor de la bobina levantado. Mida A1-A2. Compare con una bobina nueva del mismo tipo.
+
+#2762
+Faible et égale sur tous les pôles
+Baixa e igual em todos os polos
+各极都低且相等
+Низкое и одинаковое на всех полюсах
+Niska i jednakowa na wszystkich biegunach
+Alacsony és egyenlő minden póluson
+Baja e igual en todos los polos
+
+#2763
+Élevée ou différente sur un pôle
+Alta ou diferente em um polo
+有一个极偏高或不同
+Высокое или отличается на одном полюсе
+Wysoka lub inna na jednym biegunie
+Magas vagy eltérő az egyik póluson
+Alta o distinta en un polo
+
+#2764
+Résistance de contact / chute de tension à travers chaque pôle
+Resistência de contato / queda de tensão em cada polo
+每个极的接触电阻 / 压降
+Сопротивление контакта / падение напряжения на каждом полюсе
+Rezystancja styku / spadek napięcia na każdym biegunie
+Érintkezési ellenállás / feszültségesés minden póluson
+Resistencia de contacto / caída de tensión en cada polo
+
+#2765
+Fermez le contacteur à la main (ou alimentez-le) et mesurez la chute de tension à travers chaque pôle en charge, ou la résistance hors tension.
+Feche o contator à mão (ou energize) e meça a queda de tensão em cada polo sob carga, ou a resistência com a energia desligada.
+用手把接触器压合（或通电），在带载状态下测量每个极上的压降，或在断电状态下测电阻。
+Замкните контактор вручную (или подайте питание) и измерьте падение напряжения на каждом полюсе под нагрузкой либо сопротивление при выключенном питании.
+Zamknij stycznik ręcznie (lub zasil go) i zmierz spadek napięcia na każdym biegunie pod obciążeniem albo rezystancję przy wyłączonym zasilaniu.
+Zárja a kontaktort kézzel (vagy kapcsoljon rá feszültséget), és mérje meg a feszültségesést minden póluson terhelés alatt, vagy az ellenállást áramtalanítva.
+Cierre el contactor a mano (o aliméntelo) y mida la caída de tensión en cada polo bajo carga, o la resistencia con la alimentación apagada.
+
+#2766
+Retombe normalement
+Desliga normalmente
+正常释放
+Отпускает нормально
+Odpuszcza normalnie
+Normálisan old
+Desengancha normalmente
+
+#2767
+Reste fermé
+Fica fechado
+保持闭合
+Остаётся замкнутым
+Pozostaje zamknięty
+Zárva marad
+Se queda cerrado
+
+#2768
+Retombe-t-il quand la bobine est mise hors tension ?
+Ele desliga quando a bobina é desenergizada?
+线圈失电后它会释放吗？
+Отпускает ли он, когда катушка обесточена?
+Czy odpuszcza po odłączeniu napięcia z cewki?
+Elenged, amikor a tekercset feszültségmentesítik?
+¿Desengancha al desenergizar la bobina?
+
+#2769
+Coupez la tension de bobine et observez l'armature. Essayez le bouton de test manuel s'il y en a un.
+Retire a tensão da bobina e observe a armadura. Experimente o botão de teste manual, se houver.
+去掉线圈电压，观察衔铁。如果有手动测试按钮，试一下。
+Снимите напряжение с катушки и понаблюдайте за якорем. Если есть кнопка ручной проверки, нажмите её.
+Odłącz napięcie od cewki i obserwuj zworę. Jeśli jest przycisk testu ręcznego, wypróbuj go.
+Szüntesse meg a tekercsfeszültséget, és figyelje a kotvát. Ha van kézi teszt gomb, próbálja ki.
+Quite la tensión de la bobina y observe la armadura. Pruebe el botón de prueba manual si lo tiene.
+
+#2770
+Disjoncteur, MCCB ou fusible
+Disjuntor, MCCB ou fusível
+断路器、MCCB或熔断器
+Автомат, MCCB или предохранитель
+Wyłącznik, MCCB lub bezpiecznik
+Megszakító, MCCB vagy biztosíték
+Interruptor automático, MCCB o fusible
+
+#2771
+Ne réarmez pas encore et encore un disjoncteur déclenché. Déterminez s'il s'agissait d'une surcharge, d'un court-circuit ou d'un défaut à la terre.
+Não rearme várias vezes um disjuntor que atuou. Descubra se foi sobrecarga, curto-circuito ou falha para a terra.
+不要对跳闸的断路器反复合闸。先判断是过载、短路还是接地故障。
+Не включайте снова и снова сработавший автомат. Выясните, что это было: перегрузка, короткое замыкание или замыкание на землю.
+Nie załączaj w kółko wyłącznika, który zadziałał. Ustal, czy było to przeciążenie, zwarcie, czy zwarcie doziemne.
+Ne kapcsolja vissza újra és újra a kioldott megszakítót. Derítse ki, hogy túlterhelés, zárlat vagy földzárlat volt-e.
+No rearme una y otra vez un interruptor automático disparado. Averigüe si fue una sobrecarga, un cortocircuito o un fallo a tierra.
+
+#2772
+La position de la manette et l'indicateur de déclenchement indiquent le type de déclenchement. Photographiez-les d'abord.
+A posição da alavanca e o indicador de atuação mostram o tipo de atuação. Fotografe-os primeiro.
+手柄位置和脱扣指示可以看出是哪种脱扣。先把它们拍下来。
+Положение рукоятки и индикатор срабатывания показывают тип срабатывания. Сначала сфотографируйте их.
+Położenie dźwigni i wskaźnik zadziałania wskazują rodzaj zadziałania. Najpierw je sfotografuj.
+A kar állása és a kioldásjelző megmutatja a kioldás típusát. Először fényképezze le őket.
+La posición de la palanca y el indicador de disparo indican el tipo de disparo. Fotografíelos primero.
+
+#2773
+Se déclenche tout de suite au réarmement
+Atua imediatamente ao rearmar
+一合闸就立刻跳闸
+Срабатывает сразу при включении
+Zadziała natychmiast po załączeniu
+Visszakapcsoláskor azonnal kiold
+Salta inmediatamente al rearmar
+
+#2774
+Se déclenche après un moment en charge
+Atua depois de algum tempo sob carga
+带载一段时间后跳闸
+Срабатывает через некоторое время под нагрузкой
+Zadziała po jakimś czasie pod obciążeniem
+Egy idő után kiold terhelés alatt
+Salta tras un tiempo bajo carga
+
+#2775
+Se déclenche au hasard (intempestif)
+Atua aleatoriamente (indevido)
+随机跳闸（误动作）
+Срабатывает случайно (ложные срабатывания)
+Zadziała losowo (fałszywe zadziałania)
+Véletlenszerűen kiold (nem kívánt kioldás)
+Salta al azar (disparo intempestivo)
+
+#2776
+Ne se réarme pas ou ne se ferme pas
+Não rearma nem fecha
+无法复位或合闸
+Не взводится или не включается
+Nie da się zresetować lub załączyć
+Nem állítható vissza vagy nem zár
+No se rearma o no cierra
+
+#2777
+Disjoncteur ou bornes chauds
+Disjuntor ou terminais quentes
+断路器或端子发热
+Автомат или клеммы горячие
+Wyłącznik lub zaciski gorące
+A megszakító vagy a kapcsok forrók
+Interruptor automático o bornes calientes
+
+#2778
+Le fusible fond
+O fusível queima
+熔断器烧断
+Предохранитель перегорает
+Bezpiecznik się przepala
+A biztosíték kiég
+El fusible se funde
+
+#2779
+Bornes brûlées ou boîtier fondu
+Terminais queimados ou carcaça derretida
+端子烧毁或外壳熔化
+Клеммы обгорели или корпус оплавился
+Zaciski spalone lub obudowa stopiona
+A kapcsok kiégtek vagy a ház megolvadt
+Bornes quemados o carcasa derretida
+
+#2780
+Suie ou traces noires à l'intérieur
+Fuligem ou marcas pretas por dentro
+内部有烟灰或黑色痕迹
+Копоть или чёрные следы внутри
+Sadza lub czarne ślady w środku
+Korom vagy fekete nyomok belül
+Hollín o marcas negras en el interior
+
+#2781
+Cosses ou vis de câbles desserrées
+Terminais de cabo ou parafusos soltos
+电缆接线鼻或螺丝松动
+Кабельные наконечники или винты ослаблены
+Luźne końcówki kabli lub śruby
+Laza kábelsaruk vagy csavarok
+Terminales de cable o tornillos flojos
+
+#2782
+Le type ou la courbe du disjoncteur ne convient pas à la charge
+O tipo ou a curva do disjuntor não serve para a carga
+断路器的类型或曲线不适合该负载
+Тип или характеристика автомата не подходят нагрузке
+Typ lub charakterystyka wyłącznika nie pasuje do obciążenia
+A megszakító típusa vagy karakterisztikája nem illik a terheléshez
+El tipo o la curva del interruptor automático no es adecuado para la carga
+
+#2783
+Vieux disjoncteur, nombreux déclenchements, ou dans une armoire chaude
+Disjuntor velho, muitas atuações ou em painel quente
+断路器老旧、跳闸次数多，或安装在发热的柜内
+Старый автомат, много срабатываний или в горячем шкафу
+Stary wyłącznik, wiele zadziałań lub w gorącej szafie
+Régi megszakító, sok kioldás, vagy forró szekrényben
+Interruptor automático viejo, muchos disparos o en un armario caliente
+
+#2784
+L'indicateur de déclenchement montre un court-circuit (magnétique)
+O indicador de atuação mostra curto-circuito (magnético)
+脱扣指示显示短路（磁脱扣）
+Индикатор показывает короткое замыкание (электромагнитный расцепитель)
+Wskaźnik zadziałania pokazuje zwarcie (magnetyczne)
+A kioldásjelző zárlatot mutat (mágneses)
+El indicador de disparo muestra cortocircuito (magnético)
+
+#2785
+Court-circuit en aval
+Curto-circuito a jusante
+下游短路
+Короткое замыкание после автомата
+Zwarcie za wyłącznikiem
+Zárlat a megszakító után
+Cortocircuito aguas abajo
+
+#2786
+Isolez et trouvez le court-circuit au mégohmmètre / à l'ohmmètre, tronçon par tronçon. Ne réarmez pas avant de l'avoir trouvé.
+Isole e encontre o curto com megôhmetro / teste de ohms, trecho por trecho. Não rearme até encontrar.
+隔离后，用兆欧表 / 电阻档逐段查找短路点。找到之前不要合闸。
+Отключите и найдите короткое замыкание мегаомметром / омметром, участок за участком. Не включайте, пока не найдёте.
+Odetnij i znajdź zwarcie megaomomierzem / omomierzem, odcinek po odcinku. Nie załączaj, dopóki go nie znajdziesz.
+Válassza le, és szigetelésmérővel / ohmmérővel szakaszról szakaszra keresse meg a zárlatot. Ne kapcsolja vissza, amíg meg nem találta.
+Aísle y encuentre el cortocircuito con megóhmetro / prueba de ohmios, tramo a tramo. No rearme hasta encontrarlo.
+
+#2787
+Surcharge
+Sobrecarga
+过载
+Перегрузка
+Przeciążenie
+Túlterhelés
+Sobrecarga
+
+#2788
+Mesurez le courant réel de la charge à la pince. Comparez avec les calibres du disjoncteur et du câble. Réduisez ou répartissez la charge.
+Meça a corrente real da carga com alicate. Compare com as capacidades do disjuntor e do cabo. Reduza ou divida a carga.
+用钳形表测量负载的实际电流。与断路器和电缆的额定值对比。减小负载或把负载分开。
+Измерьте токоизмерительными клещами реальный ток нагрузки. Сравните с номиналами автомата и кабеля. Уменьшите нагрузку или разделите её.
+Zmierz cęgami rzeczywisty prąd obciążenia. Porównaj z wartościami znamionowymi wyłącznika i kabla. Zmniejsz obciążenie lub podziel je.
+Mérje meg lakatfogóval a terhelés tényleges áramát. Vesse össze a megszakító és a kábel névleges értékeivel. Csökkentse vagy ossza meg a terhelést.
+Mida con la pinza la corriente real de la carga. Compare con los valores del interruptor automático y del cable. Reduzca o reparta la carga.
+
+#2789
+Fuite à la terre (DDR / disjoncteur différentiel)
+Fuga para a terra (DR / DR+disjuntor)
+对地漏电（RCD / RCBO）
+Утечка на землю (УЗО / дифавтомат)
+Upływ do ziemi (RCD / RCBO)
+Szivárgás a földre (FI-relé / RCBO)
+Fuga a tierra (diferencial / RCBO)
+
+#2790
+Déconnectez les circuits un par un et retestez pour trouver celui qui fuit. Mesurez chaque circuit au mégohmmètre entre L+N et la terre.
+Desconecte os circuitos um a um e teste de novo para achar o que está com fuga. Meça cada circuito com megôhmetro de L+N para a terra.
+逐个断开各回路并重新测试，找出漏电的那一路。对每个回路，用兆欧表测L+N对地。
+Отключайте цепи по одной и проверяйте снова, чтобы найти утекающую. Измерьте мегаомметром каждую цепь между L+N и землёй.
+Odłączaj obwody jeden po drugim i testuj ponownie, aby znaleźć ten z upływem. Zmierz megaomomierzem każdy obwód między L+N a ziemią.
+Egyenként húzza le az áramköröket, és tesztelje újra, hogy megtalálja a szivárgót. Szigetelésmérővel mérje meg minden áramkört L+N és a föld között.
+Desconecte los circuitos uno a uno y vuelva a probar para encontrar el que tiene la fuga. Mida con el megóhmetro cada circuito entre L+N y tierra.
+
+#2791
+Connexion desserrée qui échauffe le disjoncteur
+Conexão solta superaquecendo o disjuntor
+连接松动使断路器过热
+Ослабленное соединение перегревает автомат
+Luźne połączenie przegrzewa wyłącznik
+Laza csatlakozás túlmelegíti a megszakítót
+Conexión floja que sobrecalienta el interruptor automático
+
+#2792
+Remplacez le disjoncteur si le boîtier ou les bornes sont abîmés. Reconnectez et serrez tout au couple.
+Substitua o disjuntor se a carcaça ou os terminais estiverem danificados. Refaça as conexões e aperte tudo no torque.
+如果外壳或端子损坏，就更换断路器。重新压接并按扭矩拧紧所有连接。
+Замените автомат, если корпус или клеммы повреждены. Заново выполните соединения и затяните всё с нужным моментом.
+Wymień wyłącznik, jeśli obudowa lub zaciski są uszkodzone. Wykonaj połączenia na nowo i dokręć wszystko momentem.
+Cserélje a megszakítót, ha a ház vagy a kapcsok sérültek. Kösse be újra, és húzza meg mindent az előírt nyomatékkal.
+Sustituya el interruptor automático si la carcasa o los bornes están dañados. Vuelva a conectar y apriete todo al par.
+
+#2793
+Mauvaise courbe ou calibre pour la charge (appel de courant)
+Curva ou valor errado para a carga (corrente de partida)
+曲线或额定值与负载不匹配（冲击电流）
+Неверная характеристика или номинал для нагрузки (пусковой ток)
+Zła charakterystyka lub wartość znamionowa dla obciążenia (prąd rozruchowy)
+Rossz karakterisztika vagy névleges érték a terheléshez (bekapcsolási áram)
+Curva o valor incorrecto para la carga (pico de arranque)
+
+#2794
+Utilisez la courbe C ou D pour l'appel de courant des moteurs et transformateurs, ou un MPCB pour les moteurs. Gardez le câble protégé.
+Use a curva C ou D para a corrente de partida de motores e transformadores, ou um MPCB para motores. Mantenha o cabo protegido.
+电机和变压器的冲击电流选用C或D曲线，电机也可用MPCB。要确保电缆仍受保护。
+Для пускового тока двигателей и трансформаторов используйте характеристику C или D либо MPCB для двигателей. Следите, чтобы кабель оставался защищённым.
+Dla prądu rozruchowego silników i transformatorów użyj charakterystyki C lub D albo MPCB dla silników. Dopilnuj, aby kabel pozostał chroniony.
+Motorok és transzformátorok bekapcsolási áramához használjon C vagy D karakterisztikát, motorokhoz MPCB-t. Tartsa védve a kábelt.
+Use la curva C o D para el pico de arranque de motores y transformadores, o un MPCB para motores. Mantenga protegido el cable.
+
+#2795
+Disjoncteur usé (vieillissement, déclenchements répétés)
+Disjuntor desgastado (envelhecimento, atuações repetidas)
+断路器老化（年久、反复跳闸）
+Изношенный автомат (старение, повторные срабатывания)
+Zużyty wyłącznik (starzenie, powtarzające się zadziałania)
+Elhasználódott megszakító (öregedés, ismételt kioldások)
+Interruptor automático desgastado (envejecimiento, disparos repetidos)
+
+#2796
+Remplacez le disjoncteur.
+Substitua o disjuntor.
+更换断路器。
+Замените автомат.
+Wymień wyłącznik.
+Cserélje a megszakítót.
+Sustituya el interruptor automático.
+
+#2797
+Bien en dessous du calibre
+Bem abaixo do valor nominal
+远低于额定值
+Намного ниже номинала
+Znacznie poniżej wartości znamionowej
+Jóval a névleges érték alatt
+Muy por debajo del valor nominal
+
+#2798
+Proche ou au-dessus du calibre
+Próxima ou acima do valor nominal
+接近或超过额定值
+Около номинала или выше
+Blisko wartości znamionowej lub powyżej
+A névleges érték közelében vagy felett
+Cerca o por encima del valor nominal
+
+#2799
+Mesurer le courant de la charge
+Medir a corrente da carga
+测量负载电流
+Измерьте ток нагрузки
+Zmierz prąd obciążenia
+Mérje meg a terhelés áramát
+Medir la corriente de la carga
+
+#2800
+Mesurez chaque phase / la ligne à la pince, la charge en marche. Comparez avec le calibre du disjoncteur.
+Meça cada fase / a linha com a alicate, com a carga funcionando. Compare com o valor nominal do disjuntor.
+在负载运行时，用钳形表测每一相 / 该线路。与断路器额定值对比。
+Измерьте клещами каждую фазу / линию при работающей нагрузке. Сравните с номиналом автомата.
+Zmierz cęgami każdą fazę / linię przy pracującym obciążeniu. Porównaj z wartością znamionową wyłącznika.
+Mérje meg lakatfogóval az egyes fázisokat / a vezetéket, működő terhelésnél. Vesse össze a megszakító névleges értékével.
+Mida con la pinza cada fase / la línea con la carga en marcha. Compare con el valor nominal del interruptor automático.
+
+#2801
+Tout au-dessus de 1 MΩ
+Tudo acima de 1 MΩ
+全部高于1 MΩ
+Всё выше 1 МОм
+Wszystko powyżej 1 MΩ
+Minden 1 MΩ felett
+Todo por encima de 1 MΩ
+
+#2802
+Proche de zéro entre L et N
+Próximo de zero entre L e N
+L与N之间接近零
+Около нуля между L и N
+Blisko zera między L a N
+Közel nulla L és N között
+Cerca de cero entre L y N
+
+#2803
+Faible vers la terre
+Baixo para a terra
+对地偏低
+Низкое на землю
+Niskie do ziemi
+Alacsony a földhöz
+Bajo a tierra
+
+#2804
+Mesurer au mégohmmètre le circuit en aval (disjoncteur ouvert)
+Medir com megôhmetro o circuito a jusante (disjuntor desligado)
+用兆欧表测下游回路（断路器断开）
+Проверьте мегаомметром цепь после автомата (автомат выключен)
+Zmierz megaomomierzem obwód za wyłącznikiem (wyłącznik wyłączony)
+Mérje meg szigetelésmérővel a megszakító utáni áramkört (megszakító kikapcsolva)
+Medir con el megóhmetro el circuito aguas abajo (interruptor automático apagado)
+
+#2805
+Disjoncteur ouvert et verrouillé. Mesurez L-N, L-PE et N-PE du circuit en aval, charges déconnectées.
+Disjuntor desligado e bloqueado. Meça L-N, L-PE e N-PE do circuito a jusante, com as cargas desconectadas.
+断路器断开并上锁。在负载已断开的情况下，测量下游回路的L-N、L-PE和N-PE。
+Автомат выключен и заблокирован. Измерьте L-N, L-PE и N-PE цепи после автомата при отключённых нагрузках.
+Wyłącznik wyłączony i zablokowany. Zmierz L-N, L-PE i N-PE obwodu za wyłącznikiem przy odłączonych odbiornikach.
+A megszakító kikapcsolva és lezárva. Mérje meg L-N, L-PE és N-PE értékét a megszakító utáni áramkörben, lekötött terhelésekkel.
+Interruptor automático apagado y bloqueado. Mida L-N, L-PE y N-PE del circuito aguas abajo con las cargas desconectadas.
+
+#2806
+Tout est serré, pas de point chaud
+Tudo apertado, sem ponto quente
+全部拧紧，没有热点
+Всё затянуто, горячих точек нет
+Wszystko dokręcone, brak gorących punktów
+Minden meghúzva, nincs forró pont
+Todo apretado, sin punto caliente
+
+#2807
+Une connexion desserrée ou chaude
+Uma conexão solta ou quente
+有一处连接松动或发热
+Одно соединение ослаблено или горячее
+Jedno połączenie luźne lub gorące
+Egy laza vagy forró csatlakozás
+Una conexión floja o caliente
+
+#2808
+Vérifier le serrage des cosses et l'image thermique
+Verificar o aperto dos terminais e a imagem térmica
+检查接线鼻的紧固情况和热成像
+Проверьте затяжку наконечников и тепловизионное изображение
+Sprawdź dokręcenie końcówek i obraz termowizyjny
+Ellenőrizze a saruk meghúzását és a hőképet
+Compruebe el apriete de los terminales y la imagen térmica
+
+#2809
+Isolé : resserrez les bornes. Ou utilisez une caméra thermique en charge : une borne plus chaude de plus de 10 K que ses voisines est une mauvaise connexion.
+Isolado: reaperte os terminais. Ou use uma câmera térmica sob carga: um terminal mais de 10 K mais quente que seus vizinhos é uma junta ruim.
+已隔离：重新紧固端子。或者带载时用热像仪：某个端子比相邻端子热出10 K以上，就是接触不良。
+Изолировано: подтяните клеммы. Либо используйте тепловизор под нагрузкой: клемма, которая более чем на 10 К горячее соседних, — плохое соединение.
+Odizolowany: dokręć zaciski ponownie. Albo użyj kamery termowizyjnej pod obciążeniem: zacisk cieplejszy o ponad 10 K od sąsiednich to złe połączenie.
+Leválasztva: húzza utána a kapcsokat. Vagy terhelés alatt használjon hőkamerát: az a kapocs, amely több mint 10 K-nel melegebb a szomszédainál, rossz kötés.
+Aislado: vuelva a apretar los bornes. O use una cámara térmica en carga: un borne más de 10 K más caliente que sus vecinos es una mala unión.
+
+#2810
+Adapté
+Adequado
+合适
+Подходит
+Odpowiedni
+Megfelelő
+Adecuado
+
+#2811
+Trop petit ou mauvaise courbe
+Pequeno demais ou curva errada
+偏小或曲线不对
+Слишком мал или неверная характеристика
+Za mały lub zła charakterystyka
+Túl kicsi vagy rossz karakterisztika
+Demasiado pequeño o curva incorrecta
+
+#2812
+Vérifier la courbe et le calibre par rapport à la charge
+Verificar a curva e o valor nominal contra a carga
+对照负载检查曲线和额定值
+Сверьте характеристику и номинал с нагрузкой
+Sprawdź charakterystykę i wartość znamionową względem obciążenia
+Ellenőrizze a karakterisztikát és a névleges értéket a terheléshez képest
+Compruebe la curva y el valor nominal frente a la carga
+
+#2813
+Lisez l'étiquette du disjoncteur (B, C, D, courant). Comparez avec le type de charge et l'intensité admissible du câble.
+Leia a etiqueta do disjuntor (B, C, D, corrente). Compare com o tipo de carga e a capacidade de corrente do cabo.
+读断路器上的标签（B、C、D、电流）。与负载类型和电缆载流量对照。
+Прочтите маркировку автомата (B, C, D, ток). Сравните с типом нагрузки и допустимым током кабеля.
+Odczytaj etykietę wyłącznika (B, C, D, prąd). Porównaj z rodzajem obciążenia i obciążalnością prądową kabla.
+Olvassa le a megszakító címkéjét (B, C, D, áram). Vesse össze a terhelés típusával és a kábel terhelhetőségével.
+Lea la etiqueta del interruptor automático (B, C, D, corriente). Compare con el tipo de carga y la intensidad admisible del cable.
+
+#2814
+Câble, borne ou câblage d'armoire
+Cabo, terminal ou fiação do painel
+电缆、端子或柜内接线
+Кабель, клемма или проводка шкафа
+Kabel, zacisk lub okablowanie szafy
+Kábel, kapocs vagy szekrény-huzalozás
+Cable, borne o cableado del armario
+
+#2815
+La chaleur est le symptôme. Trouvez la connexion chaude avant que l'isolant ne lâche. Une caméra thermique en charge la trouve en quelques secondes.
+O calor é o sintoma. Encontre a junta quente antes que a isolação falhe. Uma câmera térmica sob carga a encontra em segundos.
+发热只是症状。要在绝缘失效之前找到发热的连接点。带载时用热像仪几秒钟就能找到。
+Нагрев — это симптом. Найдите горячее соединение, прежде чем откажет изоляция. Тепловизор под нагрузкой находит его за секунды.
+Nagrzewanie to objaw. Znajdź gorące połączenie, zanim izolacja zawiedzie. Kamera termowizyjna pod obciążeniem znajdzie je w kilka sekund.
+A hő a tünet. Találja meg a forró kötést, mielőtt a szigetelés tönkremegy. Hőkamerával terhelés alatt másodpercek alatt megtalálható.
+El calor es el síntoma. Encuentre la unión caliente antes de que falle el aislamiento. Una cámara térmica en carga la encuentra en segundos.
+
+#2816
+Photographiez la brûlure, puis isolez et examinez le conducteur, l'embout et la vis.
+Fotografe a queima, depois isole e olhe o condutor, a ponteira e o parafuso.
+先拍下烧损处，然后隔离，检查导线、管型端子和螺丝。
+Сфотографируйте ожог, затем отключите и осмотрите проводник, гильзу и винт.
+Sfotografuj przepalenie, potem odetnij i obejrzyj przewód, tulejkę i śrubę.
+Fényképezze le az égésnyomot, majd válassza le, és nézze meg a vezetőt, az érvéghüvelyt és a csavart.
+Fotografíe la quemadura, luego aísle y mire el conductor, la punta y el tornillo.
+
+#2817
+Le terminal ou le câble est chaud
+O terminal ou o cabo está quente
+端子或电缆发热
+Клемма или кабель горячие
+Zacisk lub kabel jest gorący
+A kapocs vagy a kábel forró
+El borne o el cable está caliente
+
+#2818
+Défauts intermittents
+Falhas intermitentes
+间歇性故障
+Периодические неисправности
+Usterki sporadyczne
+Szakaszos hibák
+Fallos intermitentes
+
+#2819
+Chute de tension / sous-tension de l'équipement
+Queda de tensão / subtensão no equipamento
+电压降 / 设备欠压
+Падение напряжения / пониженное напряжение на оборудовании
+Spadek napięcia / zbyt niskie napięcie na urządzeniu
+Feszültségesés / a berendezés alulfeszültsége
+Caída de tensión / subtensión en el equipo
+
+#2820
+Le disjoncteur déclenche sur un circuit de câble
+O disjuntor atua em um circuito de cabo
+电缆回路上的断路器跳闸
+Автомат срабатывает на кабельной цепи
+Wyłącznik zadziała na obwodzie kablowym
+A megszakító kiold egy kábelkörön
+El interruptor automático salta en un circuito de cable
+
+#2821
+Fuite ou décharges électriques
+Fuga ou choques
+漏电或触电感
+Утечка или удары током
+Upływ lub porażenia
+Szivárgás vagy áramütések
+Fuga o descargas
+
+#2822
+Isolant brun, dur ou fondu près d'une borne
+Isolação marrom, dura ou derretida perto de um terminal
+端子附近的绝缘发棕、变硬或熔化
+Изоляция коричневая, твёрдая или оплавлена возле клеммы
+Izolacja brązowa, twarda lub stopiona przy zacisku
+A szigetelés barna, kemény vagy megolvadt a kapocs közelében
+Aislamiento marrón, duro o derretido cerca de un borne
+
+#2823
+Croûte verte ou blanche sur le cuivre
+Crosta verde ou branca no cobre
+铜上有绿色或白色的锈壳
+Зелёный или белый налёт на меди
+Zielony lub biały nalot na miedzi
+Zöld vagy fehér lerakódás a rézen
+Costra verde o blanca en el cobre
+
+#2824
+Brins coupés ou cassés à la cosse
+Fios cortados ou quebrados no terminal
+接线鼻处有线股被剪断或断裂
+Перерезанные или сломанные жилы у наконечника
+Przecięte lub złamane druty przy końcówce
+Elvágott vagy törött szálak a saruban
+Hilos cortados o rotos en el terminal
+
+#2825
+Pas d'embout, brins nus sous la vis
+Sem ponteira, fios nus sob o parafuso
+没有管型端子，线股裸露在螺丝下
+Нет гильзы, оголённые жилы под винтом
+Brak tulejki, gołe druty pod śrubą
+Nincs érvéghüvely, csupasz szálak a csavar alatt
+Sin punta, hilos al descubierto bajo el tornillo

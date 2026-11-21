@@ -1,0 +1,1782 @@
+#560
+Nom de la puce
+Nome do chip
+芯片名称
+Название микросхемы
+Nazwa układu
+Chip neve
+Nombre del chip
+
+#561
+Numéro de broche VCC
+Número do pino VCC
+VCC引脚编号
+Номер вывода VCC
+Numer pinu VCC
+VCC láb száma
+Número del pin VCC
+
+#562
+Numéro de broche GND
+Número do pino GND
+GND引脚编号
+Номер вывода GND
+Numer pinu GND
+GND láb száma
+Número del pin GND
+
+#563
+Puce morte
+Chip morto
+芯片损坏
+Микросхема неисправна
+Układ uszkodzony
+A chip tönkrement
+Chip averiado
+
+#564
+CI 8 broches (DIP générique)
+CI de 8 pinos (DIP genérico)
+8脚IC（通用DIP）
+Микросхема 8 выводов (универсальный DIP)
+Układ scalony 8-pinowy (ogólny DIP)
+8 lábú IC (általános DIP)
+CI de 8 pines (DIP genérico)
+
+#565
+CI 14 broches (DIP générique)
+CI de 14 pinos (DIP genérico)
+14脚IC（通用DIP）
+Микросхема 14 выводов (универсальный DIP)
+Układ scalony 14-pinowy (ogólny DIP)
+14 lábú IC (általános DIP)
+CI de 14 pines (DIP genérico)
+
+#566
+CI 16 broches (DIP générique)
+CI de 16 pinos (DIP genérico)
+16脚IC（通用DIP）
+Микросхема 16 выводов (универсальный DIP)
+Układ scalony 16-pinowy (ogólny DIP)
+16 lábú IC (általános DIP)
+CI de 16 pines (DIP genérico)
+
+#567
+Varistance (MOV)
+Varistor (MOV)
+压敏电阻（MOV）
+Варистор (MOV)
+Warystor (MOV)
+Varisztor (MOV)
+Varistor (MOV)
+
+#568
+Parasurtenseur sur le secteur. Circuit ouvert en usage normal (mégohms). Il écrête les pointes. Après une forte surtension ou une surtension prolongée, il vieillit et finit par se défaire EN COURT-CIRCUIT : il fait fondre le fusible placé devant ou brûle. Une varistance qui mesure bas ou paraît fissurée ou noircie doit être remplacée.
+Absorvedor de surtos na rede elétrica. Circuito aberto em uso normal (megohms). Ele limita picos. Após um grande surto ou uma sobretensão prolongada, ele envelhece e por fim falha EM CURTO: queima o fusível à sua frente ou queima. Um MOV que lê baixo ou parece trincado ou enegrecido deve ser substituído.
+并联在市电上的浪涌吸收器。正常使用时相当于开路（兆欧级）。它把尖峰电压钳住。经历大浪涌或长时间过电压后会老化，最终以短路方式失效：把前面的保险丝熔断，或自己烧毁。读数偏低、或者外观开裂发黑的压敏电阻必须更换。
+Ограничитель перенапряжения в сети. В нормальном режиме цепь разомкнута (мегаомы). Срезает выбросы. После сильного импульса или длительного перенапряжения стареет и в итоге выходит из строя КОРОТКИМ ЗАМЫКАНИЕМ: перегорает предохранитель перед ним или он сам сгорает. Варистор, который показывает малое сопротивление или выглядит треснувшим или почерневшим, нужно заменить.
+Ogranicznik przepięć na sieci. W normalnym użyciu obwód otwarty (megaomy). Obcina szpilki napięcia. Po dużym przepięciu lub długotrwałym nadnapięciu starzeje się i w końcu ulega uszkodzeniu ZWARCIEM: przepala bezpiecznik przed sobą lub się pali. Warystor, który wskazuje małą rezystancję albo wygląda na pęknięty lub poczerniały, trzeba wymienić.
+Hálózatra kötött túlfeszültség-levezető. Normál használatnál szakadás (megaohmos). Lenyesi a feszültséglökéseket. Nagy túlfeszültség vagy hosszú túlfeszültség után elöregszik, és végül ZÁRLATTAL hibásodik meg: kiégeti az előtte lévő biztosítékot, vagy ő maga ég el. Az a varisztor, amelyik kis értéket mutat, vagy repedtnek, megfeketedettnek látszik, cserére szorul.
+Absorbedor de sobretensiones en la red. Circuito abierto en uso normal (megaohmios). Recorta los picos. Tras una gran sobretensión o una sobretensión prolongada envejece y finalmente falla EN CORTOCIRCUITO: funde el fusible que tiene delante o se quema. Un MOV que mide bajo o parece agrietado u ennegrecido debe sustituirse.
+
+#569
+Tension alternative nominale (V)
+Tensão CA nominal (V)
+额定交流电压（V）
+Номинальное напряжение AC (В)
+Znamionowe napięcie AC (V)
+Névleges AC feszültség (V)
+Tensión CA nominal (V)
+
+#570
+Défaillant en court-circuit
+Falhou em curto
+失效短路
+Отказ коротким замыканием
+Uszkodzony zwarciem
+Zárlattal hibásodott meg
+Fallo en cortocircuito
+
+#571
+Vieilli (fuite 50 kohm)
+Envelhecido (fuga de 50 kΩ)
+老化（漏电50 kΩ）
+Состарен (утечка 50 кОм)
+Zestarzały (upływ 50 kΩ)
+Elöregedett (50 kΩ szivárgás)
+Envejecido (fuga de 50 kΩ)
+
+#572
+Fusible réarmable (PTC)
+Fusível rearmável (PTC)
+自恢复保险丝（PTC）
+Самовосстанавливающийся предохранитель (PTC)
+Bezpiecznik samoresetujący (PTC)
+Visszaálló biztosíték (PTC)
+Fusible rearmable (PTC)
+
+#573
+Faible résistance jusqu'à ce que le courant dépasse sa valeur de déclenchement, puis il chauffe et sa résistance saute à des kilohms. Il reste déclenché tant qu'il est alimenté et se réarme après quelques secondes sans tension. Utilisé sur les ports USB, les alimentations de capteurs et les petites cartes.
+Baixa resistência até a corrente passar do valor de disparo; depois ele aquece e a resistência salta para quilohms. Permanece desarmado enquanto há energia e rearma depois que a alimentação é removida por alguns segundos. Usado em USB, alimentação de sensores e placas pequenas.
+电流超过动作值之前电阻很小，超过后发热，电阻跃升到千欧级。通电期间一直保持动作状态，断电几秒钟后复位。用于USB、传感器供电和小型电路板。
+Малое сопротивление, пока ток не превысит порог срабатывания; затем он нагревается, и сопротивление скачком возрастает до килоомов. Остаётся в сработавшем состоянии, пока подано питание, и восстанавливается после снятия питания на несколько секунд. Применяется в USB, питании датчиков и на небольших платах.
+Mała rezystancja, dopóki prąd nie przekroczy wartości zadziałania, potem się nagrzewa i rezystancja skacze do kiloomów. Pozostaje zadziałany, dopóki jest zasilanie, i resetuje się po kilku sekundach bez zasilania. Stosowany w USB, zasilaniu czujników i małych płytkach.
+Kis ellenállású, amíg az áram el nem éri a kioldási értéket, utána felmelegszik, és az ellenállása kiloohmokra ugrik. Amíg táp van rajta, kioldva marad, és néhány másodperc tápmegvonás után visszaáll. USB-n, érzékelők tápján és kis paneleken használják.
+Baja resistencia hasta que la corriente supera su valor de disparo; después se calienta y su resistencia salta a kiloohmios. Permanece disparado mientras hay alimentación y se rearma tras quitarla unos segundos. Se usa en USB, alimentación de sensores y placas pequeñas.
+
+#574
+Courant de maintien (A)
+Corrente de retenção (A)
+维持电流（A）
+Ток удержания (А)
+Prąd podtrzymania (A)
+Tartóáram (A)
+Corriente de mantenimiento (A)
+
+#575
+Dégradé (résistance élevée)
+Degradado (alta resistência)
+性能退化（电阻偏大）
+Деградировал (высокое сопротивление)
+Zdegradowany (wysoka rezystancja)
+Leromlott (nagy ellenállás)
+Degradado (alta resistencia)
+
+#576
+Quartz / résonateur
+Cristal / ressonador
+晶振 / 谐振器
+Кварц / резонатор
+Rezonator kwarcowy / ceramiczny
+Kvarc / rezonátor
+Cristal / resonador
+
+#577
+Fixe la fréquence d'horloge d'un microcontrôleur. Pour un multimètre en CC, il ressemble à un circuit ouvert. Un quartz fissuré ou mort rend la carte morte ou instable : vérifiez l'horloge à l'oscilloscope, pas au multimètre.
+Define a frequência de clock de um microcontrolador. Para um multímetro em CC parece um circuito aberto. Um cristal trincado ou morto deixa a placa morta ou instável: verifique o clock com um osciloscópio, não com um multímetro.
+决定微控制器的时钟频率。对直流万用表来说它像是开路。晶振开裂或损坏会让电路板不工作或工作不稳：要用示波器查时钟，而不是用万用表。
+Задаёт тактовую частоту микроконтроллера. Для мультиметра в режиме постоянного тока выглядит как разрыв цепи. Треснувший или неисправный кварц делает плату неработающей или нестабильной: проверяйте тактовый сигнал осциллографом, а не мультиметром.
+Ustala częstotliwość zegara mikrokontrolera. Dla multimetru w trybie DC wygląda jak obwód otwarty. Pęknięty lub martwy kwarc sprawia, że płytka nie działa lub działa niestabilnie: sprawdzaj zegar oscyloskopem, nie multimetrem.
+Meghatározza a mikrokontroller órajelét. Egyenáramú multiméternek szakadásnak látszik. A repedt vagy tönkrement kvarc miatt a panel halott vagy kiszámíthatatlan: az órajelet oszcilloszkóppal ellenőrizze, ne multiméterrel.
+Fija la frecuencia de reloj de un microcontrolador. Para un multímetro en CC parece un circuito abierto. Un cristal agrietado o muerto deja la placa muerta o errática: compruebe el reloj con un osciloscopio, no con un multímetro.
+
+#578
+Fréquence
+Frequência
+频率
+Частота
+Częstotliwość
+Frekvencia
+Frecuencia
+
+#579
+Fissuré / n'oscille pas
+Trincado / não oscila
+开裂 / 不起振
+Треснул / не генерирует
+Pęknięty / nie generuje
+Repedt / nem rezeg
+Agrietado / no oscila
+
+#580
+Diode TVS (écrêteur de surtension)
+Diodo TVS (grampeador de surtos)
+TVS二极管（浪涌钳位）
+TVS-диод (ограничитель выбросов)
+Dioda TVS (ogranicznik przepięć)
+TVS dióda (túlfeszültség-határoló)
+Diodo TVS (limitador de sobretensión)
+
+#581
+Écrête les pointes au-dessus de sa tension de claquage pour protéger un rail ou une ligne de données. Se met en court-circuit quand l'énergie de la surtension est trop forte. Si une TVS en parallèle sur une alimentation mesure un court-circuit, elle a fait son travail : il faut la remplacer et chercher la cause de la surtension.
+Limita picos acima da sua tensão de ruptura para proteger um barramento ou uma linha de dados. Falha em curto quando a energia do surto é grande demais. Se um TVS sobre uma alimentação lê curto, ele fez seu trabalho e precisa ser substituído, e a causa do surto deve ser investigada.
+把超过击穿电压的尖峰钳住，用来保护电源轨或数据线。浪涌能量过大时会以短路方式失效。如果电源上的TVS测出短路，说明它尽到了职责，必须更换，并查找浪涌的原因。
+Ограничивает выбросы выше напряжения пробоя, защищая шину питания или линию данных. При слишком большой энергии импульса выходит из строя коротким замыканием. Если TVS на питании показывает короткое замыкание, он выполнил свою задачу: его нужно заменить и найти причину выброса.
+Ogranicza szpilki powyżej swojego napięcia przebicia, chroniąc szynę zasilania lub linię danych. Ulega uszkodzeniu zwarciem, gdy energia przepięcia jest zbyt duża. Jeśli TVS na zasilaniu pokazuje zwarcie, wykonał swoją pracę: trzeba go wymienić i poszukać przyczyny przepięcia.
+Az átütési feszültsége feletti lökéseket levágja, hogy védje a tápsínt vagy az adatvonalat. Zárlattal hibásodik meg, ha a lökés energiája túl nagy. Ha egy tápra kötött TVS zárlatot mutat, megtette a dolgát: ki kell cserélni, és meg kell keresni a túlfeszültség okát.
+Recorta los picos por encima de su tensión de ruptura para proteger un carril o una línea de datos. Falla en cortocircuito cuando la energía del pico es demasiado grande. Si un TVS en una alimentación mide cortocircuito, ha cumplido su función: hay que sustituirlo y buscar la causa de la sobretensión.
+
+#582
+Tension de claquage (V)
+Tensão de ruptura (V)
+击穿电压（V）
+Напряжение пробоя (В)
+Napięcie przebicia (V)
+Átütési feszültség (V)
+Tensión de ruptura (V)
+
+#583
+Thyristor (SCR)
+Tiristor (SCR)
+晶闸管（SCR）
+Тиристор (SCR)
+Tyrystor (SCR)
+Tirisztor (SCR)
+Tiristor (SCR)
+
+#584
+Une impulsion de gâchette (quelques mA, gâchette positive par rapport à K) le met à ON et il reste conducteur tout seul tant que le courant d'anode reste au-dessus du courant de maintien (environ 5 mA). Seule la suppression du courant (ou l'inversion de l'anode) le coupe. C'est une démonstration de verrouillage en CC ; en CA, un vrai SCR se bloque à chaque demi-période et la commande de phase n'est pas simulée. Défauts : court-circuit, ouvert, pas d'amorçage.
+Um pulso de gatilho (alguns mA, gatilho positivo em relação a K) o liga e ele permanece ligado sozinho enquanto a corrente de anodo ficar acima da corrente de retenção (cerca de 5 mA). Só remover a corrente (ou inverter o anodo) o desliga. Esta é uma demonstração de travamento em CC; em CA um SCR real desliga a cada meio ciclo e o controle de fase não é simulado. Falhas: em curto, aberto, sem disparo.
+门极脉冲（几mA，门极相对K为正）使其导通，只要阳极电流保持在维持电流（约5 mA）以上，它就自己保持导通。只有切断电流（或把阳极反向）才能关断。这是直流锁存演示；在交流下真实的SCR每半个周期都会关断，这里不模拟相位控制。故障：短路、开路、无法触发。
+Импульс на управляющем электроде (несколько мА, управляющий электрод положителен относительно K) включает его, и он остаётся включённым сам, пока ток анода выше тока удержания (около 5 мА). Выключить можно только сняв ток (или изменив полярность анода). Это демонстрация защёлкивания на постоянном токе; на переменном настоящий SCR закрывается каждые полпериода, а фазовое регулирование здесь не моделируется. Неисправности: пробой, обрыв, нет запуска.
+Impuls bramki (kilka mA, bramka dodatnia względem K) włącza go i pozostaje on włączony samoczynnie, dopóki prąd anody jest powyżej prądu podtrzymania (około 5 mA). Wyłącza go tylko odcięcie prądu (lub odwrócenie anody). To demonstracja zatrzasku DC; przy AC prawdziwy SCR wyłącza się w każdym półokresie, a sterowanie fazowe nie jest symulowane. Usterki: zwarty, otwarty, brak wyzwalania.
+A kapuimpulzus (néhány mA, a kapu pozitív a K-hoz képest) bekapcsolja, és magától bekapcsolva marad, amíg az anódáram a tartóáram (kb. 5 mA) felett marad. Csak az áram megszüntetése (vagy az anód megfordítása) kapcsolja ki. Ez egy DC reteszelési bemutató; AC-n a valódi SCR minden félperiódusban kikapcsol, a fázisszabályozást nem szimuláljuk. Hibák: zárlatos, szakadt, nem gyújtható.
+Un pulso de puerta (unos mA, puerta positiva respecto a K) lo pone en ON y se mantiene solo mientras la corriente de ánodo siga por encima de la corriente de mantenimiento (unos 5 mA). Solo quitar la corriente (o invertir el ánodo) lo apaga. Es una demostración de enclavamiento en CC; en CA un SCR real se apaga cada semiciclo y el control de fase no se simula. Averías: en cortocircuito, abierto, sin disparo.
+
+#585
+Courant nominal (A)
+Corrente nominal (A)
+额定电流（A）
+Номинальный ток (А)
+Prąd znamionowy (A)
+Névleges áram (A)
+Corriente nominal (A)
+
+#586
+Gâchette morte (ne s'amorce jamais)
+Gatilho morto (nunca dispara)
+门极损坏（始终无法触发）
+Управляющий электрод неисправен (никогда не запускается)
+Bramka martwa (nigdy nie wyzwala)
+A kapu tönkrement (soha nem gyullad)
+Puerta averiada (nunca dispara)
+
+#587
+Triac
+Triac
+双向晶闸管（Triac）
+Симистор
+Triak
+Triak
+Triac
+
+#588
+Interrupteur CA. Un courant de gâchette (quelques mA) l'amorce, et il reste conducteur tant que le courant de charge dépasse le courant de maintien. Utilisé pour la commande de chauffage et de lampes, souvent piloté par un optotriac. Ici il conduit pleinement une fois amorcé, la commande de phase (gradation) n'est pas simulée. Défauts : court-circuit (toujours passant), ouvert, gâchette morte.
+Chave CA. Uma corrente de gatilho (alguns mA) o liga, e ele permanece ligado enquanto a corrente de carga ficar acima da corrente de retenção. Usado no controle de aquecimento e lâmpadas, muitas vezes acionado por um optoacoplador com triac. Aqui ele conduz totalmente ao ser disparado; o controle de fase (dimmer) não é simulado. Falhas: em curto (sempre ligado), aberto, gatilho morto.
+交流开关。门极电流（几mA）使其导通，只要负载电流高于维持电流就保持导通。用于加热器和灯的控制，常由光耦双向晶闸管驱动。这里触发后完全导通，不模拟相位控制（调光）。故障：短路（常通）、开路、门极损坏。
+Ключ переменного тока. Ток управляющего электрода (несколько мА) включает его, и он остаётся включённым, пока ток нагрузки выше тока удержания. Применяется для управления нагревателями и лампами, часто управляется оптосимистором. Здесь после запуска он проводит полностью, фазовое регулирование (диммирование) не моделируется. Неисправности: пробой (всегда включён), обрыв, неисправный управляющий электрод.
+Przełącznik AC. Prąd bramki (kilka mA) włącza go, a pozostaje włączony, dopóki prąd obciążenia jest powyżej prądu podtrzymania. Używany do sterowania grzałkami i lampami, często sterowany transoptorem z triakiem. Tutaj po wyzwoleniu przewodzi w pełni, sterowanie fazowe (ściemnianie) nie jest symulowane. Usterki: zwarty (zawsze włączony), otwarty, bramka martwa.
+AC kapcsoló. A kapuáram (néhány mA) bekapcsolja, és bekapcsolva marad, amíg a terhelőáram a tartóáram felett van. Fűtés- és lámpavezérlésre használják, gyakran optotriakos meghajtással. Itt gyújtás után teljesen vezet, a fázisszabályozást (fényerő-szabályozás) nem szimuláljuk. Hibák: zárlatos (mindig be van kapcsolva), szakadt, a kapu tönkrement.
+Interruptor de CA. Una corriente de puerta (unos mA) lo activa y se mantiene conduciendo mientras la corriente de carga esté por encima de la corriente de mantenimiento. Se usa para el control de calefacción y lámparas, a menudo accionado por un optotriac. Aquí conduce por completo al dispararse; el control de fase (atenuación) no se simula. Averías: en cortocircuito (siempre conectado), abierto, puerta averiada.
+
+#589
+En court-circuit (toujours passant)
+Em curto (sempre ligado)
+短路（常通）
+Пробой (всегда включён)
+Zwarty (zawsze włączony)
+Zárlatos (mindig be van kapcsolva)
+En cortocircuito (siempre conectado)
+
+#590
+Pastille de test / via
+Ponto de teste / via
+测试点 / 过孔
+Контрольная площадка / переходное отверстие
+Punkt pomiarowy / przelotka
+Mérőpont / átvezetés
+Punto de prueba / vía
+
+#591
+Une pastille de cuivre nue. Placez-la sur une piste pour donner un endroit où poser les pointes. Reliez-la par des pistes comme n'importe quelle autre broche.
+Uma ilha de cobre exposta. Coloque-a sobre uma trilha para dar um lugar onde as pontas de prova possam tocar. Ligue-a com trilhas como qualquer outro pino.
+裸露的铜焊盘。把它放在线路上，给表笔提供一个接触点。像其他引脚一样用线路连接它。
+Открытая медная площадка. Поставьте её на дорожку, чтобы щупам было куда прикоснуться. Соединяйте её дорожками, как любой другой вывод.
+Goła miedziana wysepka. Umieść ją na ścieżce, aby sondy miały gdzie się oprzeć. Łącz ją ścieżkami jak każdy inny pin.
+Csupasz rézfelület. Tegye egy vezetősávra, hogy a mérőhegyeknek legyen hova érniük. Vezetősávokkal kösse be, mint bármely más lábat.
+Un pad de cobre desnudo. Colóquelo sobre una pista para dar a las puntas un sitio donde tocar. Conéctelo con pistas como cualquier otro pin.
+
+#592
+Entrée d'alimentation (5 / 12 / 24 V)
+Entrada de alimentação (5 / 12 / 24 V)
+电源输入（5 / 12 / 24 V）
+Вход питания (5 / 12 / 24 В)
+Wejście zasilania (5 / 12 / 24 V)
+Tápbemenet (5 / 12 / 24 V)
+Entrada de alimentación (5 / 12 / 24 V)
+
+#593
+Connecteur d'alimentation de la carte. La broche du haut est le + et celle du bas le 0 V (masse). L'interrupteur Alimentation de la barre du haut le met sous et hors tension.
+Conector de alimentação da placa. O pino de cima é + e o de baixo é 0 V (terra). A chave Alimentação da barra superior liga e desliga.
+电路板的电源接头。上面的引脚是+，下面的引脚是0 V（地）。顶部栏的“电源”开关用来开关它。
+Разъём питания платы. Верхний вывод — «+», нижний — 0 В (земля). Выключатель «Питание» на верхней панели включает и отключает его.
+Złącze zasilania płytki. Górny pin to +, dolny to 0 V (masa). Przełącznik Zasilanie na górnym pasku włącza i wyłącza go.
+A panel tápcsatlakozója. A felső láb a +, az alsó a 0 V (föld). A felső sáv Táp kapcsolója be- és kikapcsolja.
+Conector de alimentación de la placa. El pin superior es + y el inferior es 0 V (masa). El interruptor Alimentación de la barra superior lo enciende y apaga.
+
+#594
+Résistance (CMS)
+Resistor (SMD)
+电阻（贴片）
+Резистор (SMD)
+Rezystor (SMD)
+Ellenállás (SMD)
+Resistencia (SMD)
+
+#595
+Diode (CMS)
+Diodo (SMD)
+二极管（贴片）
+Диод (SMD)
+Dioda (SMD)
+Dióda (SMD)
+Diodo (SMD)
+
+#596
+Fusible (CMS)
+Fusível (SMD)
+保险丝（贴片）
+Предохранитель (SMD)
+Bezpiecznik (SMD)
+Biztosíték (SMD)
+Fusible (SMD)
+
+#597
+Fusible rapide. Fond au-dessus d'environ 1,6 fois son calibre. Remplacez uniquement par la même valeur.
+Fusível rápido. Queima acima de cerca de 1,6 vez o seu valor nominal. Substitua somente pelo mesmo valor.
+快熔保险丝。超过额定值约1.6倍时熔断。只能换成相同规格。
+Быстродействующий предохранитель. Перегорает при токе выше примерно 1,6 номинала. Заменяйте только на такой же номинал.
+Bezpiecznik szybki. Przepala się powyżej około 1,6 raza swojej wartości znamionowej. Wymieniaj tylko na tę samą wartość.
+Gyors biztosíték. A névleges érték kb. 1,6-szerese felett kiég. Csak azonos értékűre cserélje.
+Fusible rápido. Se funde por encima de aproximadamente 1,6 veces su calibre. Sustitúyalo solo por el mismo valor.
+
+#598
+Bouton tactile
+Botão táctil
+轻触开关
+Тактовая кнопка
+Przycisk tact
+Taktilis kapcsoló
+Pulsador táctil
+
+#599
+Bouton-poussoir momentané. Se ferme pendant l'appui (mode Test).
+Botão momentâneo. Fecha enquanto pressionado (modo Teste).
+瞬时按钮。按下时闭合（测试模式）。
+Кнопка без фиксации. Замкнута, пока нажата (режим теста).
+Przycisk chwilowy. Zamyka się podczas naciskania (tryb testu).
+Pillanatnyi nyomógomb. Lenyomás alatt zár (Teszt mód).
+Pulsador momentáneo. Cierra mientras se pulsa (modo Prueba).
+
+#600
+Valeur (µF)
+Valor (µF)
+容量（µF）
+Значение (мкФ)
+Wartość (µF)
+Érték (µF)
+Valor (µF)
+
+#601
+Fuyant (220 Ω)
+Com fuga (220 Ω)
+漏电（220 Ω）
+С утечкой (220 Ом)
+Z upływem (220 Ω)
+Szivárgó (220 Ω)
+Con fuga (220 Ω)
+
+#602
+Condensateur électrolytique. Bloque le CC quand il est sain (affiche ouvert en ohms). Un condensateur en court-circuit sur l'alimentation est une cause classique de fusible fondu.
+Capacitor eletrolítico. Bloqueia CC quando está bom (lê aberto em ohms). Um capacitor em curto na alimentação é uma causa clássica de fusível queimado.
+电解电容。良好时阻断直流（电阻档读数为开路）。电源上的电容短路是保险丝熔断的典型原因。
+Электролитический конденсатор. Исправный блокирует постоянный ток (в режиме омметра показывает обрыв). Короткозамкнутый конденсатор на питании — классическая причина перегоревшего предохранителя.
+Kondensator elektrolityczny. Gdy jest sprawny, blokuje DC (na omach wskazuje przerwę). Zwarty kondensator na zasilaniu to klasyczna przyczyna przepalonego bezpiecznika.
+Elektrolit kondenzátor. Ép állapotban blokkolja az egyenáramot (ohm állásban szakadást mutat). A tápra kötött zárlatos kondenzátor a kiégett biztosíték klasszikus oka.
+Condensador electrolítico. Bloquea la CC cuando está sano (mide abierto en ohmios). Un condensador en cortocircuito en la alimentación es una causa clásica de fusible fundido.
+
+#603
+Régulateur de tension (78xx)
+Regulador de tensão (78xx)
+稳压器（78xx）
+Стабилизатор напряжения (78xx)
+Stabilizator napięcia (78xx)
+Feszültségstabilizátor (78xx)
+Regulador de tensión (78xx)
+
+#604
+Sortie (V)
+Saída (V)
+输出（V）
+Выход (В)
+Wyjście (V)
+Kimenet (V)
+Salida (V)
+
+#605
+Régulateur linéaire. Il faut au moins 2 V de plus sur IN que la sortie. Donne un OUT stable entre OUT et GND. La tension d'essai d'un mégohmmètre le détruit.
+Regulador linear. Precisa de pelo menos 2 V a mais em IN do que a saída. Fornece uma OUT estável entre OUT e GND. A tensão de teste de um megôhmetro o destrói.
+线性稳压器。输入端IN至少要比输出高2 V。在OUT和GND之间提供稳定输出。兆欧表的测试电压会把它损坏。
+Линейный стабилизатор. На IN нужно как минимум на 2 В больше, чем на выходе. Даёт стабильное напряжение между OUT и GND. Испытательное напряжение мегаомметра его уничтожит.
+Stabilizator liniowy. Potrzebuje co najmniej o 2 V więcej na IN niż na wyjściu. Daje stabilne napięcie OUT między OUT a GND. Napięcie probiercze megaomomierza go niszczy.
+Lineáris stabilizátor. Az IN-en legalább 2 V-tal többnek kell lennie, mint a kimeneten. Stabil kimenetet ad az OUT és a GND között. A szigetelésmérő mérőfeszültsége tönkreteszi.
+Regulador lineal. Necesita al menos 2 V más en IN que la salida. Da una OUT estable entre OUT y GND. La tensión de prueba de un megóhmetro lo destruye.
+
+#606
+Démarreur direct
+Partida direta
+直接启动器
+Прямой пуск двигателя
+Rozruch bezpośredni silnika
+Közvetlen motorindító
+Arrancador directo
+
+#607
+Marche/arrêt avec contact d'auto-maintien, relais thermique et deux voyants. Mettez QF1 sur ON, puis appuyez sur SB2.
+Partida/parada com contato de selo, relé de sobrecarga e duas lâmpadas de sinalização. Ligue QF1 em ON e depois aperte SB2.
+带自锁触点、热过载继电器和两盏指示灯的启停电路。先把QF1合上，再按SB2。
+Пуск/стоп с блок-контактом самоподхвата, тепловым реле и двумя сигнальными лампами. Включите QF1, затем нажмите SB2.
+Start/stop ze stykiem samopodtrzymania, przekaźnikiem termicznym i dwiema lampkami. Włącz QF1 na ON, potem naciśnij SB2.
+Indítás/leállítás önfenntartó érintkezővel, hőkioldó relével és két jelzőlámpával. Kapcsolja BE a QF1-et, majd nyomja meg az SB2-t.
+Marcha/paro con contacto de enclavamiento, relé térmico y dos lámparas piloto. Ponga QF1 en ON y luego pulse SB2.
+
+#608
+Démarreur étoile-triangle
+Partida estrela-triângulo
+星三角启动器
+Пуск звезда-треугольник
+Rozruch gwiazda-trójkąt
+Csillag-delta indító
+Arrancador estrella-triángulo
+
+#609
+Principal KM1, étoile KM2, triangle KM3 avec verrouillages et un temporisateur étoile-triangle KT1. Appuyez sur SB2 et observez le courant et la vitesse.
+Principal KM1, estrela KM2, triângulo KM3 com intertravamentos e um temporizador estrela-triângulo KT1. Aperte SB2 e observe a corrente e a velocidade.
+主接触器KM1、星形KM2、三角形KM3，带互锁和星三角定时器KT1。按SB2并观察电流和转速。
+Главный KM1, звезда KM2, треугольник KM3 с блокировками и реле времени звезда-треугольник KT1. Нажмите SB2 и следите за током и скоростью.
+Główny KM1, gwiazda KM2, trójkąt KM3 z blokadami i przekaźnikiem czasowym gwiazda-trójkąt KT1. Naciśnij SB2 i obserwuj prąd i prędkość.
+Fő KM1, csillag KM2, delta KM3 reteszeléssel és KT1 csillag-delta időrelével. Nyomja meg az SB2-t, és figyelje az áramot és a fordulatszámot.
+Principal KM1, estrella KM2, triángulo KM3 con enclavamientos y un temporizador estrella-triángulo KT1. Pulse SB2 y observe la corriente y la velocidad.
+
+#610
+Démarreur sens avant / arrière
+Partida avante / reverso
+正反转启动器
+Реверсивный пускатель
+Rozrusznik rewersyjny
+Előre / hátra indító
+Arrancador de inversión de giro
+
+#611
+Deux contacteurs avec verrouillage électrique (contacts NF dans chaque circuit de bobine). Permute L1 et L3 pour le sens inverse.
+Dois contatores com intertravamento elétrico (contatos NF em cada circuito de bobina). Troca L1 e L3 para o reverso.
+两个接触器带电气互锁（每个线圈回路中串入常闭触点）。对调L1和L3实现反转。
+Два контактора с электрической блокировкой (контакты NC в цепи каждой катушки). Для реверса меняются местами L1 и L3.
+Dwa styczniki z blokadą elektryczną (styki NC w obwodzie każdej cewki). Zamienia L1 i L3 dla przeciwnego kierunku.
+Két kontaktor elektromos reteszeléssel (NC érintkezők mindkét tekercs áramkörében). Az L1 és L3 felcserélésével fordul a forgásirány.
+Dos contactores con enclavamiento eléctrico (contactos NC en cada circuito de bobina). Intercambia L1 y L3 para el giro inverso.
+
+#612
+Variateur (VFD) avec potentiomètre et interrupteur de marche
+Inversor (VFD) com potenciômetro e chave de partida
+带电位器和启动开关的变频器（VFD）
+Преобразователь частоты с потенциометром и пусковым выключателем
+Falownik (VFD) z potencjometrem i przełącznikiem startu
+Frekvenciaváltó (VFD) potenciométerrel és indítókapcsolóval
+Variador (VFD) con potenciómetro e interruptor de marcha
+
+#613
+Moteur sur un variateur. Tournez SA1 pour la marche, réglez la vitesse avec RV1 (0-10 V vers AI1). Essayez de mesurer le bus continu après la mise hors tension.
+Motor em um inversor. Gire SA1 para partir, ajuste a velocidade com RV1 (0-10 V para AI1). Tente medir o barramento CC depois de desligar.
+变频器驱动的电机。转动SA1运行，用RV1设定速度（0-10 V送到AI1）。断电后试着测量直流母线。
+Двигатель на преобразователе частоты. Поверните SA1 для пуска, скорость задаётся RV1 (0–10 В на AI1). Попробуйте измерить шину постоянного тока после отключения питания.
+Silnik na falowniku. Przekręć SA1, aby uruchomić, prędkość ustaw RV1 (0-10 V na AI1). Spróbuj zmierzyć szynę DC po wyłączeniu zasilania.
+Motor frekvenciaváltón. Forgassa el az SA1-et az indításhoz, a sebességet az RV1-gyel állítsa (0-10 V az AI1-re). Próbálja megmérni a DC köztes kört kikapcsolás után.
+Motor en un variador. Gire SA1 para marcha, fije la velocidad con RV1 (0-10 V a AI1). Intente medir el bus de CC tras apagar.
+
+#614
+Boucle 4-20 mA
+Malha 4-20 mA
+4-20 mA回路
+Токовая петля 4–20 мА
+Pętla 4-20 mA
+4-20 mA hurok
+Lazo 4-20 mA
+
+#615
+Alimentation 24 V, transmetteur 2 fils et entrée analogique d'automate. TB1 est une borne sectionnable : appuyez dessus pour ouvrir la boucle et placer votre appareil en série.
+Fonte de 24 V, transmissor de 2 fios e uma entrada analógica de CLP. TB1 é um terminal seccionável: aperte-o para abrir a malha e colocar o medidor em série.
+24 V电源、两线制变送器和PLC模拟量输入。TB1是可断开端子：按下它即可断开回路，把仪表串进去。
+Источник 24 В, двухпроводный преобразователь и аналоговый вход ПЛК. TB1 — размыкаемая клемма: нажмите её, чтобы разорвать петлю и включить прибор последовательно.
+Zasilanie 24 V, przetwornik 2-przewodowy i wejście analogowe PLC. TB1 to zacisk rozłączalny: naciśnij go, aby otworzyć pętlę i włączyć miernik szeregowo.
+24 V-os táp, 2 vezetékes jeladó és PLC analóg bemenet. A TB1 szakítókapocs: nyomja meg a hurok megnyitásához, és kösse sorba a műszert.
+Alimentación de 24 V, transmisor a 2 hilos y una entrada analógica de PLC. TB1 es un borne seccionable: púlselo para abrir el lazo y poner el medidor en serie.
+
+#616
+Banc de vannes (exercice avec calibrateur mA)
+Bancada de válvulas (prática com calibrador de mA)
+阀门台（mA校准器练习）
+Стенд клапанов (практика с калибратором mA)
+Stanowisko zaworów (ćwiczenie z kalibratorem mA)
+Szelep-munkapad (mA kalibrátor gyakorlat)
+Banco de válvulas (práctica con calibrador de mA)
+
+#617
+Trois vannes non câblées : électrovanne 24 V, électrovanne basse consommation, vanne I/P. Choisissez le calibrateur mA, pincez OUT+ et OUT- sur une vanne et injectez un courant.
+Três válvulas sem ligação: solenoide de 24 V, solenoide de baixa potência, válvula I/P. Escolha o calibrador de mA, prenda OUT+ e OUT- em uma válvula e injete uma corrente.
+三个未接线的阀门：24 V电磁阀、低功耗电磁阀、I/P阀。选择mA校准器，把OUT+和OUT-夹到某个阀上并输出电流。
+Три неподключённых клапана: соленоид 24 В, маломощный соленоид, клапан I/P. Выберите калибратор mA, подсоедините OUT+ и OUT− к клапану и подайте ток.
+Trzy niepodłączone zawory: elektrozawór 24 V, elektrozawór małej mocy, zawór I/P. Wybierz kalibrator mA, podepnij OUT+ i OUT- do zaworu i wprowadź prąd.
+Három bekötetlen szelep: 24 V-os mágnesszelep, kis fogyasztású mágnesszelep, I/P szelep. Válassza az mA kalibrátort, csíptesse az OUT+ és OUT- kimenetet egy szelepre, és adjon áramot.
+Tres válvulas sin cablear: electroválvula de 24 V, electroválvula de bajo consumo, válvula I/P. Elija el calibrador de mA, conecte OUT+ y OUT- a una válvula e inyecte una corriente.
+
+#618
+Capteur de proximité vers entrée d'automate
+Sensor de proximidade para entrada do CLP
+接近开关接PLC输入
+Датчик приближения на вход ПЛК
+Czujnik zbliżeniowy do wejścia PLC
+Közelítésérzékelő PLC bemenetre
+Sensor de proximidad a entrada de PLC
+
+#619
+Capteur PNP câblé sur une entrée d'automate. Cliquez sur le capteur pour approcher une cible métallique et lisez l'entrée DI.
+Sensor PNP ligado a uma entrada do CLP. Clique no sensor para aproximar um alvo metálico e leia a DI.
+PNP传感器接到PLC输入。点击传感器让金属目标靠近，并读取DI状态。
+PNP-датчик подключён к входу ПЛК. Щёлкните по датчику, чтобы поднести металлическую мишень, и считайте состояние DI.
+Czujnik PNP podłączony do wejścia PLC. Kliknij czujnik, aby zbliżyć metalowy cel, i odczytaj DI.
+PNP érzékelő PLC bemenetre kötve. Kattintson az érzékelőre, hogy fémtárgyat közelítsen hozzá, és olvassa le a DI-t.
+Sensor PNP cableado a una entrada de PLC. Haga clic en el sensor para acercar un objetivo metálico y lea la DI.
+
+#620
+Circuit CC de base (exercice de mesure)
+Circuito CC básico (prática de medição)
+基础直流电路（仪表练习）
+Простая схема постоянного тока (практика измерений)
+Podstawowy obwód DC (ćwiczenie pomiarowe)
+Egyszerű DC áramkör (mérési gyakorlat)
+Circuito básico de CC (práctica de medida)
+
+#621
+Alimentation 24 V, interrupteur, 3 résistances et une LED avec sa résistance série. Mesurez les chutes de tension et le courant.
+Fonte de 24 V, chave, 3 resistores e um LED com seu resistor em série. Meça as quedas de tensão e a corrente.
+24 V电源、开关、3个电阻以及一个带串联电阻的LED。测量各处压降和电流。
+Источник 24 В, выключатель, 3 резистора и светодиод с последовательным резистором. Измерьте падения напряжения и ток.
+Zasilanie 24 V, przełącznik, 3 rezystory i dioda LED z rezystorem szeregowym. Zmierz spadki napięcia i prąd.
+24 V-os táp, kapcsoló, 3 ellenállás és egy LED soros ellenállással. Mérje meg a feszültségeséseket és az áramot.
+Alimentación de 24 V, interruptor, 3 resistencias y un LED con su resistencia en serie. Mida las caídas de tensión y la corriente.
+
+#622
+Commande 24 V avec alimentation et relais
+Comando 24 V com fonte e relé
+带电源和继电器的24 V控制
+Управление 24 В с блоком питания и реле
+Sterowanie 24 V z zasilaczem i przekaźnikiem
+24 V-os vezérlés tápegységgel és relével
+Mando a 24 V con fuente y relé
+
+#623
+Une alimentation 230 V vers 24 V CC pilote un relais KA1. Le contact du relais commute une lampe 230 V.
+Uma fonte de 230 V para 24 V CC aciona um relé KA1. O contato do relé chaveia uma lâmpada de 230 V.
+230 V转24 V直流电源驱动继电器KA1。继电器触点切换一盏230 V的灯。
+Блок питания 230 В в 24 В DC управляет реле KA1. Контакт реле включает лампу 230 В.
+Zasilacz 230 V na 24 V DC steruje przekaźnikiem KA1. Styk przekaźnika załącza lampkę 230 V.
+Egy 230 V → 24 V DC tápegység hajtja a KA1 relét. A relé érintkezője egy 230 V-os lámpát kapcsol.
+Una fuente de 230 V a 24 V CC maneja un relé KA1. El contacto del relé conmuta una lámpara de 230 V.
+
+#624
+Multimètre numérique (type Fluke)
+Multímetro digital (estilo Fluke)
+数字万用表（Fluke类）
+Цифровой мультиметр (типа Fluke)
+Multimetr cyfrowy (typu Fluke)
+Digitális multiméter (Fluke jellegű)
+Multímetro digital (tipo Fluke)
+
+#625
+Mesure tension, résistance, continuité, diodes et courant. Règle : choisissez la fonction sur le cadran ET mettez la pointe rouge dans la prise correspondante, puis touchez avec les pointes.
+Mede tensão, resistência, continuidade, diodos e corrente. Regra: escolha a função no dial E coloque a ponta vermelha na entrada correspondente, depois encoste as pontas.
+可测量电压、电阻、通断、二极管和电流。规则：先在旋钮上选好功能，并把红表笔插到对应的插孔，再去接触测点。
+Измеряет напряжение, сопротивление, прозвонку, диоды и ток. Правило: выберите функцию на переключателе И вставьте красный щуп в соответствующее гнездо, затем касайтесь щупами.
+Mierzy napięcie, rezystancję, ciągłość, diody i prąd. Zasada: wybierz funkcję pokrętłem I włóż czerwoną sondę do odpowiedniego gniazda, potem dotknij sondami.
+Feszültséget, ellenállást, szakadásmérést, diódát és áramot mér. Szabály: válassza ki a funkciót a tárcsán ÉS tegye a piros mérőhegyet a megfelelő aljzatba, csak azután érintse meg a mérőhegyeket.
+Mide tensión, resistencia, continuidad, diodos y corriente. Regla: elija la función en el dial Y ponga la punta roja en la toma correspondiente, y luego toque con las puntas.
+
+#626
+Appareil éteint. Tournez le cadran ici pour le ranger ou pour changer un fusible.
+Medidor desligado. Gire o dial para cá ao guardá-lo ou ao trocar um fusível.
+万用表已关闭。存放或更换保险丝时把旋钮拨到这里。
+Прибор выключен. Ставьте переключатель сюда при хранении или замене предохранителя.
+Miernik wyłączony. Ustaw tu pokrętło, gdy go odkładasz lub wymieniasz bezpiecznik.
+A műszer ki van kapcsolva. Tárolás vagy biztosítékcsere előtt ide forgassa a tárcsát.
+Medidor apagado. Gire el dial aquí al guardarlo o al cambiar un fusible.
+
+#627
+V~ (volts alternatifs)
+V~ (volts CA)
+V~（交流电压）
+V~ (переменное напряжение)
+V~ (napięcie przemienne)
+V~ (váltakozó feszültség)
+V~ (voltios CA)
+
+#628
+Tension alternative, affichée en valeur efficace. Utilisez-la sur le secteur (230 / 400 V), les secondaires de transformateurs et les sorties de variateurs. Appuyez sur Hz pour voir la fréquence. Pointes en parallèle avec la charge.
+Tensão CA, mostrada em valor RMS. Use na rede (230 / 400 V), em secundários de transformadores e em saídas de inversores. Aperte Hz para ver a frequência. Pontas em paralelo com a carga.
+交流电压，以有效值显示。用于市电（230 / 400 V）、变压器二次侧和变频器输出。按Hz可看频率。表笔与负载并联。
+Переменное напряжение, показывается как действующее значение. Применяйте в сети (230 / 400 В), на вторичных обмотках трансформаторов и выходах преобразователей. Нажмите Hz, чтобы увидеть частоту. Щупы параллельно нагрузке.
+Napięcie przemienne, pokazywane jako wartość skuteczna. Używaj w sieci (230 / 400 V), na uzwojeniach wtórnych transformatorów i wyjściach falowników. Naciśnij Hz, aby zobaczyć częstotliwość. Sondy równolegle do obciążenia.
+Váltakozó feszültség, effektív értékben kijelezve. Használja hálózaton (230 / 400 V), transzformátorok szekunder oldalán és hajtások kimenetén. A Hz gombbal a frekvencia is látható. A mérőhegyek a terheléssel párhuzamosan.
+Tensión alterna, mostrada en valor eficaz. Úsela en red (230 / 400 V), secundarios de transformadores y salidas de variadores. Pulse Hz para ver la frecuencia. Puntas en paralelo con la carga.
+
+#629
+V⎓ (volts continus)
+V⎓ (volts CC)
+V⎓（直流电压）
+V⎓ (постоянное напряжение)
+V⎓ (napięcie stałe)
+V⎓ (egyenfeszültség)
+V⎓ (voltios CC)
+
+#630
+Tension continue pour la commande 24 V, les sorties d'alimentation et les batteries. Rouge sur +, noir sur −. Un signe moins signifie que les cordons sont inversés.
+Tensão contínua para comando de 24 V, saídas de fontes e baterias. Vermelho em +, preto em −. Um sinal de menos significa que as pontas estão invertidas.
+用于24 V控制、电源输出和电池的直流电压。红表笔接+，黑表笔接−。显示负号表示表笔接反了。
+Постоянное напряжение для цепей управления 24 В, выходов блоков питания и батарей. Красный на «+», чёрный на «−». Знак минус означает, что щупы перепутаны.
+Napięcie stałe dla sterowania 24 V, wyjść zasilaczy i akumulatorów. Czerwona na +, czarna na −. Znak minus oznacza, że przewody są zamienione.
+Egyenfeszültség 24 V-os vezérléshez, tápegységek kimenetéhez és akkumulátorokhoz. Piros a +-ra, fekete a −-ra. A mínusz jel azt jelenti, hogy a mérőzsinórok fel vannak cserélve.
+Tensión continua para mando a 24 V, salidas de fuentes y baterías. Rojo en +, negro en −. Un signo menos significa que las puntas están invertidas.
+
+#631
+mV⎓ (millivolts)
+mV⎓ (milivolts)
+mV⎓（毫伏）
+mV⎓ (милливольты)
+mV⎓ (miliwolty)
+mV⎓ (millivolt)
+mV⎓ (milivoltios)
+
+#632
+Petits signaux continus : thermocouples, chutes sur shunt. Maximum 600 mV, au-delà l'afficheur indique OL.
+Pequenos sinais CC: termopares, quedas em shunt. Máximo 600 mV; acima disso o display mostra OL.
+小的直流信号：热电偶、分流器压降。最大600 mV，超过则显示OL。
+Малые постоянные сигналы: термопары, падения на шунте. Максимум 600 мВ, выше на дисплее появляется OL.
+Małe sygnały stałe: termopary, spadki na bocznikach. Maksimum 600 mV, powyżej wyświetlacz pokazuje OL.
+Kis egyenfeszültségű jelek: hőelemek, söntön eső feszültség. Legfeljebb 600 mV, afelett a kijelző OL-t mutat.
+Señales pequeñas de CC: termopares, caídas en shunt. Máximo 600 mV; por encima el display muestra OL.
+
+#633
+Ω (résistance)
+Ω (resistência)
+Ω（电阻）
+Ω (сопротивление)
+Ω (rezystancja)
+Ω (ellenállás)
+Ω (resistencia)
+
+#634
+Résistance d'un enroulement, d'un élément chauffant, d'une résistance ou d'un câble. Le circuit doit être hors tension et isolé. L'appareil envoie lui-même 0,4 V : un circuit sous tension donne une mauvaise lecture et peut endommager l'appareil. Utilisez REL pour annuler la résistance des cordons.
+Resistência de um enrolamento, aquecedor, resistor ou cabo. O circuito deve estar sem tensão e isolado. O medidor envia 0,4 V por conta própria: um circuito energizado dá leitura errada e pode danificar o medidor. Use REL para cancelar a resistência das pontas.
+测量绕组、加热器、电阻或电缆的电阻。电路必须断电并隔离。万用表自己会输出0.4 V，所以带电电路会读数错误并可能损坏万用表。用REL可抵消表笔电阻。
+Сопротивление обмотки, нагревателя, резистора или кабеля. Цепь должна быть обесточена и изолирована. Сам прибор выдаёт 0,4 В, поэтому на цепи под напряжением показание будет неверным, а прибор может выйти из строя. Используйте REL, чтобы убрать сопротивление щупов.
+Rezystancja uzwojenia, grzałki, rezystora lub kabla. Obwód musi być bez napięcia i odizolowany. Miernik sam wysyła 0,4 V, więc obwód pod napięciem daje błędny odczyt i może uszkodzić miernik. Użyj REL, aby zniwelować rezystancję przewodów.
+Tekercs, fűtőelem, ellenállás vagy kábel ellenállása. Az áramkörnek feszültségmentesnek és leválasztottnak kell lennie. A műszer maga ad 0,4 V-ot, ezért feszültség alatti áramkörön hibás értéket mutat, és tönkremehet. A REL-lel kiküszöbölheti a mérőzsinórok ellenállását.
+Resistencia de un devanado, calefactor, resistencia o cable. El circuito debe estar sin tensión y aislado. El medidor envía 0,4 V por sí mismo, así que un circuito con tensión da una lectura errónea y puede dañar el medidor. Use REL para cancelar la resistencia de las puntas.
+
+#635
+Continuité (buzzer)
+Continuidade (bipe)
+通断（蜂鸣）
+Прозвонка (зуммер)
+Ciągłość (brzęczyk)
+Szakadásmérés (csipogó)
+Continuidad (zumbador)
+
+#636
+Émet un bip quand la résistance est inférieure à environ 30 Ω. Contrôle rapide des fils, fusibles et contacts. Circuits hors tension uniquement.
+Emite um bipe quando a resistência é menor que cerca de 30 Ω. Verificação rápida de fios, fusíveis e contatos. Somente em circuitos sem tensão.
+电阻低于约30 Ω时蜂鸣。快速检查导线、保险丝和触点。仅限断电电路。
+Звучит, когда сопротивление ниже примерно 30 Ом. Быстрая проверка проводов, предохранителей и контактов. Только на обесточенных цепях.
+Piszczy, gdy rezystancja jest poniżej około 30 Ω. Szybkie sprawdzanie przewodów, bezpieczników i styków. Tylko obwody bez napięcia.
+Csipog, ha az ellenállás kb. 30 Ω alatt van. Vezetékek, biztosítékok és érintkezők gyors ellenőrzése. Csak feszültségmentes áramkörökön.
+Emite un pitido cuando la resistencia es inferior a unos 30 Ω. Comprobación rápida de cables, fusibles y contactos. Solo circuitos sin tensión.
+
+#637
+Test de diode
+Teste de diodo
+二极管测试
+Проверка диодов
+Test diody
+Diódateszt
+Prueba de diodos
+
+#638
+Affiche la chute directe : environ 0,5 à 0,7 V pour le silicium, 1,8 à 3 V pour une LED. Rouge sur l'anode. En inverse ou ouvert, affiche OL.
+Mostra a queda direta: cerca de 0,5 a 0,7 V para silício, 1,8 a 3 V para um LED. Vermelho no ânodo. Reverso ou aberto mostra OL.
+显示正向压降：硅管约0.5到0.7 V，LED约1.8到3 V。红表笔接阳极。反向或开路时显示OL。
+Показывает прямое падение: около 0,5–0,7 В для кремния, 1,8–3 В для светодиода. Красный на анод. При обратном включении или обрыве показывает OL.
+Pokazuje spadek w kierunku przewodzenia: około 0,5 do 0,7 V dla krzemu, 1,8 do 3 V dla diody LED. Czerwona na anodę. W kierunku zaporowym lub przy przerwie pokazuje OL.
+A nyitóirányú feszültségesést mutatja: szilíciumnál kb. 0,5-0,7 V, LED-nél 1,8-3 V. Piros az anódra. Záróirányban vagy szakadásnál OL-t mutat.
+Muestra la caída directa: unos 0,5 a 0,7 V en silicio, 1,8 a 3 V en un LED. Rojo en el ánodo. En inversa o abierto muestra OL.
+
+#639
+mA (petit courant)
+mA (corrente pequena)
+mA（小电流）
+mA (малый ток)
+mA (mały prąd)
+mA (kis áram)
+mA (corriente pequeña)
+
+#640
+Courant CC/CA jusqu'à 400 mA, en série avec la charge (ouvrez le circuit et placez l'appareil dans la coupure). La pointe rouge va dans la prise mA. Le fusible est de 440 mA.
+Corrente CC/CA até 400 mA, em série com a carga (abra o circuito e coloque o medidor na abertura). A ponta vermelha vai na entrada mA. O fusível é de 440 mA.
+最大400 mA的直流/交流电流，要与负载串联（断开电路，把万用表接在断口处）。红表笔插mA孔。保险丝为440 mA。
+Постоянный/переменный ток до 400 мА, последовательно с нагрузкой (разорвите цепь и включите прибор в разрыв). Красный щуп вставляется в гнездо mA. Предохранитель 440 мА.
+Prąd DC/AC do 400 mA, szeregowo z obciążeniem (przerwij obwód i włącz miernik w przerwę). Czerwona sonda idzie do gniazda mA. Bezpiecznik ma 440 mA.
+Egyen-/váltakozó áram 400 mA-ig, sorba kötve a terheléssel (szakítsa meg az áramkört, és tegye a műszert a résbe). A piros mérőzsinór az mA aljzatba kerül. A biztosíték 440 mA.
+Corriente CC/CA hasta 400 mA, en serie con la carga (abra el circuito y ponga el medidor en el hueco). La punta roja va en la toma mA. El fusible es de 440 mA.
+
+#641
+A (courant 10 A)
+A (corrente de 10 A)
+A（10 A电流）
+A (ток 10 А)
+A (prąd 10 A)
+A (10 A áram)
+A (corriente de 10 A)
+
+#642
+Courant jusqu'à 10 A, en série. Pointe rouge dans la prise 10 A. Le fusible est de 11 A. Ne le placez jamais aux bornes d'une source de tension : c'est un court-circuit.
+Corrente até 10 A, em série. Ponta vermelha na entrada 10 A. O fusível é de 11 A. Nunca o coloque sobre uma fonte de tensão: é um curto-circuito.
+最大10 A电流，串联测量。红表笔插10 A孔。保险丝为11 A。绝不能把它直接跨接在电压源上：那就是短路。
+Ток до 10 А, последовательно. Красный щуп в гнездо 10 А. Предохранитель 11 А. Никогда не подключайте его параллельно источнику напряжения: это короткое замыкание.
+Prąd do 10 A, szeregowo. Czerwona sonda w gnieździe 10 A. Bezpiecznik ma 11 A. Nigdy nie podłączaj go na źródle napięcia: to zwarcie.
+Áram 10 A-ig, sorba kötve. A piros mérőzsinór a 10 A aljzatba kerül. A biztosíték 11 A. Soha ne kösse feszültségforrásra: az zárlat.
+Corriente hasta 10 A, en serie. Punta roja en la toma de 10 A. El fusible es de 11 A. No lo ponga nunca en paralelo con una fuente de tensión: es un cortocircuito.
+
+#643
+Prises (10A / mA / COM / VΩ)
+Entradas (10A / mA / COM / VΩ)
+插孔（10A / mA / COM / VΩ）
+Гнёзда (10A / mA / COM / VΩ)
+Gniazda (10A / mA / COM / VΩ)
+Aljzatok (10A / mA / COM / VΩ)
+Tomas (10A / mA / COM / VΩ)
+
+#644
+COM est toujours le cordon noir. VΩ sert aux volts, ohms, continuité et diode. mA et 10A servent uniquement au courant. Laisser la pointe rouge dans une prise courant en mesurant une tension crée un court-circuit sur la source et fait fondre le fusible.
+COM é sempre a ponta preta. VΩ é para volts, ohms, continuidade e diodo. mA e 10A são só para corrente. Deixar a ponta vermelha em uma entrada de corrente ao medir tensão faz um curto na fonte e queima o fusível.
+COM永远接黑表笔。VΩ用于电压、电阻、通断和二极管。mA和10A只用于电流。测电压时若红表笔仍插在电流孔，会使电源短路并烧断保险丝。
+COM — всегда чёрный щуп. VΩ — для вольт, ом, прозвонки и диода. mA и 10A — только для тока. Если при измерении напряжения оставить красный щуп в гнезде тока, источник окажется замкнут, и предохранитель перегорит.
+COM to zawsze czarny przewód. VΩ jest do woltów, omów, ciągłości i diody. mA i 10A są tylko do prądu. Pozostawienie czerwonej sondy w gnieździe prądowym podczas pomiaru napięcia zwiera źródło i przepala bezpiecznik.
+A COM mindig a fekete mérőzsinór. A VΩ feszültséghez, ellenálláshoz, szakadásmérésre és diódához való. Az mA és a 10A csak áramhoz. Ha feszültségmérés közben a piros mérőzsinór áramaljzatban marad, zárlatot okoz a forráson, és kiégeti a biztosítékot.
+COM es siempre la punta negra. VΩ es para voltios, ohmios, continuidad y diodo. mA y 10A son solo para corriente. Dejar la punta roja en una toma de corriente al medir tensión provoca un cortocircuito en la fuente y funde el fusible.
+
+#645
+Fige l'affichage pour que vous puissiez lire après avoir retiré les pointes, par exemple dans un coffret exigu.
+Congela o display para que você leia depois de tirar as pontas, por exemplo em um painel apertado.
+冻结显示，这样拿开表笔后还能读数，例如在狭窄的配电柜里。
+Фиксирует показание, чтобы его можно было прочитать после снятия щупов, например в тесном шкафу.
+Zamraża wyświetlacz, aby można było odczytać wynik po zdjęciu sond, na przykład w ciasnej szafie.
+Lefagyasztja a kijelzőt, hogy a mérőhegyek levétele után is leolvashassa, például szűk szekrényben.
+Congela la pantalla para que pueda leerla después de retirar las puntas, por ejemplo en un cuadro estrecho.
+
+#646
+Passe entre gamme automatique et manuelle, et change de gamme en manuel. La gamme manuelle lit plus vite et reste stable quand la valeur varie.
+Alterna entre faixa automática e manual e muda a faixa no modo manual. A faixa manual lê mais rápido e fica estável quando o valor oscila.
+在自动量程和手动量程之间切换，手动时逐级改变量程。手动量程读数更快，数值跳动时也更稳定。
+Переключает автоматический и ручной диапазоны, а в ручном режиме переходит к следующему диапазону. Ручной диапазон считывает быстрее и устойчив, когда значение скачет.
+Przełącza między zakresem automatycznym i ręcznym oraz zmienia zakres w trybie ręcznym. Zakres ręczny odczytuje szybciej i jest stabilny, gdy wartość skacze.
+Váltás az automatikus és a kézi méréshatár között, kézi módban lépteti a méréshatárt. A kézi méréshatár gyorsabban mér, és stabil marad, ha az érték ugrál.
+Cambia entre rango automático y manual y avanza el rango en manual. El rango manual lee más rápido y es estable cuando el valor oscila.
+
+#647
+Enregistre les valeurs minimale et maximale. Appuyez à nouveau pour parcourir direct, MAX, MIN, puis arrêt. Utile pour les creux de tension et le démarrage d'un moteur.
+Registra os valores mínimo e máximo. Aperte de novo para alternar entre ao vivo, MAX, MIN e desligado. Útil para quedas de tensão e partida de motor.
+记录最小值和最大值。再按一次依次切换：实时、MAX、MIN，然后关闭。适合捕捉电压跌落和电机启动。
+Записывает минимальное и максимальное значения. Повторное нажатие переключает: текущее, MAX, MIN, выкл. Удобно для провалов напряжения и пуска двигателя.
+Zapisuje wartości minimalną i maksymalną. Kolejne naciśnięcia przełączają: bieżąca, MAX, MIN, wyłączone. Przydatne przy zapadach napięcia i rozruchu silnika.
+Rögzíti a legkisebb és a legnagyobb értéket. Újabb megnyomásra váltogat: élő, MAX, MIN, majd ki. Hasznos feszültségeséseknél és motorindításnál.
+Registra los valores mínimo y máximo. Pulse de nuevo para recorrer en vivo, MAX, MIN y apagado. Útil para caídas de tensión y arranque de motores.
+
+#648
+REL Δ (relatif)
+REL Δ (relativo)
+REL Δ（相对值）
+REL Δ (относительное)
+REL Δ (względny)
+REL Δ (relatív)
+REL Δ (relativo)
+
+#649
+Prend la lecture actuelle comme zéro et affiche les écarts par rapport à elle. Commencez par joindre les cordons en gamme Ω pour supprimer la résistance des cordons.
+Toma a leitura atual como zero e mostra as diferenças em relação a ela. Primeiro encoste as pontas uma na outra na faixa Ω para remover a resistência das pontas.
+把当前读数当作零点，显示与它的差值。先在Ω档把两支表笔短接，以消除表笔电阻。
+Принимает текущее показание за ноль и показывает отклонения от него. Сначала замкните щупы между собой в диапазоне Ω, чтобы убрать сопротивление щупов.
+Przyjmuje bieżący odczyt za zero i pokazuje różnice względem niego. Najpierw zewrzyj sondy ze sobą na zakresie Ω, aby usunąć rezystancję przewodów.
+Az aktuális értéket veszi nullának, és az attól való eltéréseket mutatja. Előbb az Ω tartományban zárja rövidre a mérőzsinórokat, hogy kiküszöbölje azok ellenállását.
+Toma la lectura actual como cero y muestra las diferencias respecto a ella. Primero junte las puntas en el rango Ω para eliminar la resistencia de las puntas.
+
+#650
+Affiche la fréquence de la tension alternative (gamme V~). Le secteur est à 50 Hz. La sortie d'un variateur change avec le réglage de vitesse.
+Mostra a frequência da tensão CA (faixa V~). A rede é de 50 Hz. A saída de um inversor muda com o ajuste de velocidade.
+显示交流电压的频率（V~档）。市电为50 Hz。变频器输出会随速度设定变化。
+Показывает частоту переменного напряжения (диапазон V~). В сети 50 Гц. Выход преобразователя меняется в зависимости от заданной скорости.
+Pokazuje częstotliwość napięcia przemiennego (zakres V~). Sieć ma 50 Hz. Wyjście falownika zmienia się z nastawą prędkości.
+Az AC feszültség frekvenciáját mutatja (V~ tartomány). A hálózat 50 Hz. A hajtás kimenete a sebességbeállítással változik.
+Muestra la frecuencia de la tensión alterna (rango V~). La red es de 50 Hz. La salida de un variador cambia con el ajuste de velocidad.
+
+#651
+Touche jaune (~ / ⎓)
+Tecla amarela (~ / ⎓)
+黄色键（~ / ⎓）
+Жёлтая кнопка (~ / ⎓)
+Żółty klawisz (~ / ⎓)
+Sárga gomb (~ / ⎓)
+Tecla amarilla (~ / ⎓)
+
+#652
+Bascule les gammes de courant entre CA et CC. Les gammes de tension ont des positions de cadran distinctes.
+Alterna as faixas de corrente entre CA e CC. As faixas de tensão têm posições separadas no dial.
+在交流和直流之间切换电流量程。电压量程在旋钮上有各自独立的位置。
+Переключает диапазоны тока между AC и DC. Диапазоны напряжения имеют отдельные положения переключателя.
+Przełącza zakresy prądu między AC i DC. Zakresy napięcia mają osobne położenia pokrętła.
+Az áramtartományokat váltja AC és DC között. A feszültségtartományoknak külön tárcsaállásuk van.
+Cambia los rangos de corriente entre CA y CC. Los rangos de tensión tienen posiciones separadas en el dial.
+
+#653
+Sécurité
+Segurança
+安全
+Безопасность
+Bezpieczeństwo
+Biztonság
+Seguridad
+
+#654
+Vérifiez l'appareil et les cordons avant usage (isolant fissuré, bonne catégorie CAT, bon fusible). Prouver-tester-prouver : essayez sur une source connue sous tension, testez le circuit, puis testez à nouveau la source connue. Tenez si possible une main loin du coffret.
+Verifique o medidor e as pontas antes de usar (isolação trincada, categoria CAT correta, fusível bom). Comprovar-testar-comprovar: teste em uma fonte energizada conhecida, teste o circuito, teste a fonte conhecida de novo. Mantenha uma mão afastada do painel quando possível.
+使用前检查万用表和表笔（绝缘有无开裂、CAT等级是否合适、保险丝是否完好）。验证—测试—再验证：先在已知带电的电源上测试，再测电路，然后再测一次已知电源。尽量让一只手远离配电柜。
+Перед использованием проверьте прибор и щупы (трещины изоляции, нужная категория CAT, исправный предохранитель). Проверить–измерить–проверить: проверьте на заведомо находящемся под напряжением источнике, измерьте цепь, снова проверьте на известном источнике. По возможности держите одну руку подальше от щита.
+Przed użyciem sprawdź miernik i przewody (pęknięta izolacja, właściwa kategoria CAT, sprawny bezpiecznik). Sprawdź–zmierz–sprawdź: przetestuj na znanym źródle pod napięciem, przetestuj obwód, przetestuj znane źródło ponownie. Jeśli możesz, trzymaj jedną rękę z dala od szafy.
+Használat előtt ellenőrizze a műszert és a mérőzsinórokat (repedt szigetelés, megfelelő CAT besorolás, ép biztosíték). Ellenőrzés–mérés–ellenőrzés: próbálja ki ismert feszültség alatti forráson, mérje meg az áramkört, majd próbálja ki újra az ismert forrást. Ha lehet, tartsa az egyik kezét távol a szekrénytől.
+Compruebe el medidor y las puntas antes de usar (aislamiento agrietado, categoría CAT correcta, fusible bueno). Comprobar-medir-comprobar: pruebe en una fuente con tensión conocida, mida el circuito y vuelva a probar la fuente conocida. Mantenga una mano alejada del cuadro cuando sea posible.
+
+#655
+Pince ampèremétrique
+Alicate amperímetro
+钳形表
+Токоизмерительные клещи
+Cęgi prądowe
+Lakatfogó
+Pinza amperimétrica
+
+#656
+Mesure le courant sans ouvrir le circuit en enserrant UN SEUL conducteur. Elle mesure aussi tension, résistance et continuité avec des cordons.
+Mede corrente sem abrir o circuito, abraçando APENAS UM condutor. Também mede tensão, resistência e continuidade com pontas.
+通过钳住一根导线，无需断开电路即可测电流。接上表笔后还能测电压、电阻和通断。
+Измеряет ток без разрыва цепи, охватывая ОДИН проводник. Со щупами также измеряет напряжение, сопротивление и прозвонку.
+Mierzy prąd bez przerywania obwodu, obejmując JEDEN przewód. Z przewodami mierzy też napięcie, rezystancję i ciągłość.
+Az áramot az áramkör megszakítása nélkül méri, ha EGY vezetőt átfog. Mérőzsinórokkal feszültséget, ellenállást és szakadásmérést is tud.
+Mide corriente sin abrir el circuito abrazando UN SOLO conductor. Con puntas también mide tensión, resistencia y continuidad.
+
+#657
+Appareil éteint.
+Medidor desligado.
+万用表已关闭。
+Прибор выключен.
+Miernik wyłączony.
+A műszer ki van kapcsolva.
+Medidor apagado.
+
+#658
+A~ (courant alternatif)
+A~ (corrente CA)
+A~（交流电流）
+A~ (переменный ток)
+A~ (prąd przemienny)
+A~ (váltakozó áram)
+A~ (corriente CA)
+
+#659
+Enserrez un fil de phase d'un moteur pour lire son courant de ligne. Comparez-le au courant de la plaque signalétique. Si vous enserrez deux conducteurs du même circuit, les champs s'annulent et la lecture est proche de zéro.
+Abrace um fio de fase de um motor para ler a corrente de linha. Compare com a corrente da placa. Se abraçar dois condutores do mesmo circuito, os campos se anulam e a leitura fica próxima de zero.
+钳住电机的一根相线即可读出线电流，并与铭牌电流对比。如果把同一回路的两根导线一起钳住，磁场会互相抵消，读数接近零。
+Охватите клещами один фазный провод двигателя, чтобы считать линейный ток. Сравните его с током на шильдике. Если охватить два проводника одной цепи, поля компенсируются, и показание будет около нуля.
+Obejmij cęgami jeden przewód fazowy silnika, aby odczytać prąd przewodowy. Porównaj go z prądem z tabliczki znamionowej. Jeśli obejmiesz dwa przewody tego samego obwodu, pola się znoszą, a odczyt wynosi około zera.
+Fogja át a motor egyik fázisvezetékét a vonali áram leolvasásához. Hasonlítsa az adattábla áramához. Ha ugyanazon áramkör két vezetőjét fogja át, a mezők kioltják egymást, és az érték nulla körüli lesz.
+Abrace un cable de fase de un motor para leer su corriente de línea. Compárela con la corriente de la placa. Si abraza dos conductores del mismo circuito, los campos se anulan y la lectura es casi cero.
+
+#660
+A⎓ (courant continu)
+A⎓ (corrente CC)
+A⎓（直流电流）
+A⎓ (постоянный ток)
+A⎓ (prąd stały)
+A⎓ (egyenáram)
+A⎓ (corriente CC)
+
+#661
+Courant continu par capteur à effet Hall, par exemple pour les charges 24 V et les bus continus. Faites ZERO à l'air libre avant de mesurer.
+Corrente contínua com sensor Hall, por exemplo em cargas de 24 V e barramentos CC. Use ZERO no ar antes de medir.
+用霍尔传感器测直流电流，例如24 V负载和直流母线。测量前先在空气中按ZERO校零。
+Постоянный ток с датчиком Холла, например для нагрузок 24 В и шин постоянного тока. Перед измерением выполните ZERO на воздухе.
+Prąd stały z czujnikiem Halla, na przykład dla odbiorników 24 V i szyn DC. Przed pomiarem wykonaj ZERO w powietrzu.
+Egyenáram Hall-érzékelővel, például 24 V-os fogyasztókon és DC köztes köröknél. Mérés előtt végezzen ZERO-t a levegőben.
+Corriente continua con sensor Hall, por ejemplo en cargas de 24 V y buses de CC. Haga ZERO al aire antes de medir.
+
+#662
+Tension alternative avec cordons, comme le multimètre.
+Tensão CA com pontas, como no multímetro.
+用表笔测交流电压，与万用表相同。
+Переменное напряжение щупами, как у мультиметра.
+Napięcie przemienne przewodami, jak w multimetrze.
+AC feszültség mérőzsinórokkal, mint a multiméternél.
+Tensión alterna con puntas, igual que el multímetro.
+
+#663
+Tension continue avec cordons.
+Tensão contínua com pontas.
+用表笔测直流电压。
+Постоянное напряжение щупами.
+Napięcie stałe przewodami.
+DC feszültség mérőzsinórokkal.
+Tensión continua con puntas.
+
+#664
+Résistance avec cordons, circuit hors tension.
+Resistência com pontas, circuito sem tensão.
+用表笔测电阻，电路必须断电。
+Сопротивление щупами, цепь обесточена.
+Rezystancja przewodami, obwód bez napięcia.
+Ellenállás mérőzsinórokkal, feszültségmentes áramkörön.
+Resistencia con puntas, circuito sin tensión.
+
+#665
+Buzzer de continuité avec cordons, circuit hors tension.
+Bipe de continuidade com pontas, circuito sem tensão.
+用表笔测通断并蜂鸣，电路必须断电。
+Зуммер прозвонки щупами, цепь обесточена.
+Brzęczyk ciągłości z przewodami, obwód bez napięcia.
+Szakadásmérő csipogó mérőzsinórokkal, feszültségmentes áramkörön.
+Zumbador de continuidad con puntas, circuito sin tensión.
+
+#666
+Mâchoire et gâchette
+Garra e gatilho
+钳口和扳机
+Губки и рычаг
+Szczęki i spust
+Fogópofa és ravasz
+Mordaza y gatillo
+
+#667
+Appuyez sur la gâchette pour ouvrir la mâchoire, refermez-la autour d'un conducteur. Dans ce labo, touchez une borne du circuit pour enserrer son fil. Le fil doit être au milieu de la mâchoire.
+Aperte o gatilho para abrir a garra e feche-a em torno de um condutor. Neste laboratório, toque em um terminal do circuito para abraçar o fio dele. O fio deve ficar no meio da garra.
+按扳机张开钳口，再合拢夹住一根导线。在这个实验室里，点击电路上的一个端子，就能钳住它的导线。导线要位于钳口中央。
+Нажмите на рычаг, чтобы раскрыть губки, и сомкните их вокруг одного проводника. В этой лаборатории коснитесь клеммы на схеме, чтобы охватить её провод. Провод должен находиться в центре губок.
+Naciśnij spust, aby otworzyć szczęki, i zamknij je wokół jednego przewodu. W tym laboratorium dotknij zacisku w obwodzie, aby objąć jego przewód. Przewód musi być pośrodku szczęk.
+Nyomja meg a ravaszt a fogópofa kinyitásához, majd zárja egy vezető köré. Ebben a laborban érintsen meg egy kapcsot az áramkörön, hogy a vezetékét átfogja. A vezetéknek a fogópofa közepén kell lennie.
+Pulse el gatillo para abrir la mordaza y ciérrela alrededor de un conductor. En este laboratorio, toque un borne del circuito para abrazar su cable. El cable debe quedar en el centro de la mordaza.
+
+#668
+Fige la valeur affichée.
+Congela o valor mostrado.
+冻结显示的数值。
+Фиксирует отображаемое значение.
+Zamraża wyświetlaną wartość.
+Lefagyasztja a kijelzett értéket.
+Congela el valor mostrado.
+
+#669
+Capture le courant de démarrage (appel). Appuyez sur INRUSH, puis démarrez le moteur : la crête reste à l'écran. Un moteur en démarrage direct appelle 6 à 8 fois son courant de marche un instant ; un démarrage étoile-triangle appelle environ un tiers de cela.
+Captura a corrente de partida (inrush). Aperte INRUSH e depois dê partida no motor: o pico permanece na tela. Um motor de partida direta puxa de 6 a 8 vezes a corrente de funcionamento por um instante; uma partida estrela-triângulo puxa cerca de um terço disso.
+捕捉启动（冲击）电流。按INRUSH，然后启动电机：峰值会保留在屏幕上。直接启动的电机瞬间电流是运行电流的6到8倍；星三角启动约为其三分之一。
+Захватывает пусковой ток. Нажмите INRUSH, затем запустите двигатель: пик остаётся на экране. Двигатель при прямом пуске на мгновение потребляет в 6–8 раз больше рабочего тока; при пуске звезда-треугольник примерно треть от этого.
+Rejestruje prąd rozruchowy. Naciśnij INRUSH, potem uruchom silnik: szczyt pozostaje na ekranie. Silnik przy rozruchu bezpośrednim pobiera na chwilę 6 do 8 razy swój prąd pracy; rozruch gwiazda-trójkąt około jednej trzeciej tego.
+Rögzíti az indítási (bekapcsolási) áramot. Nyomja meg az INRUSH-t, majd indítsa a motort: a csúcsérték a kijelzőn marad. A közvetlen indítású motor egy pillanatra az üzemi áram 6-8-szorosát veszi fel; a csillag-delta indítás ennek kb. harmadát.
+Captura la corriente de arranque. Pulse INRUSH y luego arranque el motor: el pico queda en pantalla. Un motor de arranque directo absorbe de 6 a 8 veces su corriente de marcha un instante; un arranque estrella-triángulo absorbe alrededor de un tercio de eso.
+
+#670
+Enregistre le courant le plus élevé vu (crête) jusqu'à la remise à zéro.
+Registra a maior corrente vista (pico) até você zerar.
+记录出现过的最大电流（峰值），直到你将其清零。
+Запоминает наибольший зафиксированный ток (пик) до сброса.
+Rejestruje największy zaobserwowany prąd (szczyt), dopóki go nie wyzerujesz.
+Rögzíti a legnagyobb látott áramot (csúcsérték), amíg nem nullázza.
+Registra la mayor corriente vista (pico) hasta que se ponga a cero.
+
+#671
+Annule le décalage du capteur sur A⎓ et efface la crête enregistrée.
+Cancela o offset do sensor em A⎓ e apaga o pico registrado.
+消除A⎓档传感器的零点偏移，并清除已记录的峰值。
+Убирает смещение нуля датчика на A⎓ и сбрасывает записанный пик.
+Kasuje offset czujnika na A⎓ i czyści zapisany szczyt.
+Megszünteti az érzékelő eltolását az A⎓ tartományon, és törli a rögzített csúcsértéket.
+Cancela el desvío del sensor en A⎓ y borra el pico registrado.
+
+#672
+Mégohmmètre
+Megôhmetro
+兆欧表
+Мегаомметр
+Megaomomierz
+Szigetelésmérő
+Megóhmetro
+
+#673
+Applique une haute tension continue (250 à 1000 V) entre un conducteur et la terre pour mesurer la résistance d'isolement en MΩ. Utilisé sur les moteurs, câbles et jeux de barres. Jamais sur un circuit sous tension.
+Aplica uma alta tensão CC (250 a 1000 V) entre um condutor e a terra para medir a resistência de isolação em MΩ. Usado em motores, cabos e barramentos. Nunca é usado em circuito energizado.
+在导体和大地之间施加直流高压（250到1000 V）来测量绝缘电阻，单位MΩ。用于电机、电缆和母排。绝不能用于带电电路。
+Подаёт высокое постоянное напряжение (250–1000 В) между проводником и землёй для измерения сопротивления изоляции в МОм. Применяется на двигателях, кабелях и шинах. Никогда не используется на цепи под напряжением.
+Podaje wysokie napięcie stałe (250 do 1000 V) między przewód a ziemię, aby zmierzyć rezystancję izolacji w MΩ. Używany na silnikach, kablach i szynach zbiorczych. Nigdy na obwodzie pod napięciem.
+Nagy egyenfeszültséget (250-1000 V) ad egy vezető és a föld közé a szigetelési ellenállás mérésére MΩ-ban. Motorokon, kábeleken és gyűjtősíneken használják. Feszültség alatti áramkörön soha nem használják.
+Aplica una alta tensión continua (250 a 1000 V) entre un conductor y tierra para medir la resistencia de aislamiento en MΩ. Se usa en motores, cables y embarrados. Nunca se usa en un circuito con tensión.
+
+#674
+Tension d'essai (250 / 500 / 1000 V)
+Tensão de teste (250 / 500 / 1000 V)
+测试电压（250 / 500 / 1000 V）
+Испытательное напряжение (250 / 500 / 1000 В)
+Napięcie probiercze (250 / 500 / 1000 V)
+Mérőfeszültség (250 / 500 / 1000 V)
+Tensión de prueba (250 / 500 / 1000 V)
+
+#675
+Choisissez selon la tension nominale de l'équipement : 500 V pour un équipement jusqu'à 500 V (moteur 400 V typique), 1000 V pour un équipement 690 V, 250 V pour un câblage de commande sensible ou basse tension.
+Escolha pela tensão nominal do equipamento: 500 V para equipamento até 500 V (motor de 400 V típico), 1000 V para equipamento de 690 V, 250 V para fiação de comando sensível ou de baixa tensão.
+按设备额定电压选择：500 V以下的设备用500 V（典型的400 V电机），690 V设备用1000 V，敏感或低压控制线路用250 V。
+Выбирайте по номинальному напряжению оборудования: 500 В для оборудования до 500 В (типичный двигатель 400 В), 1000 В для оборудования 690 В, 250 В для чувствительной или низковольтной проводки управления.
+Wybierz według napięcia znamionowego urządzenia: 500 V dla urządzeń do 500 V (typowy silnik 400 V), 1000 V dla urządzeń 690 V, 250 V dla wrażliwego lub niskonapięciowego okablowania sterowania.
+A berendezés névleges feszültsége szerint válasszon: 500 V a 500 V-ig terjedő berendezésekhez (tipikus 400 V-os motor), 1000 V a 690 V-os berendezésekhez, 250 V az érzékeny vagy kisfeszültségű vezérlő huzalozáshoz.
+Elija según la tensión nominal del equipo: 500 V para equipos de hasta 500 V (motor típico de 400 V), 1000 V para equipos de 690 V, 250 V para cableado de mando sensible o de baja tensión.
+
+#676
+LINE (cordon rouge)
+LINE (ponta vermelha)
+LINE（红表笔）
+LINE (красный щуп)
+LINE (czerwony przewód)
+LINE (piros mérőzsinór)
+LINE (punta roja)
+
+#677
+Se place sur le conducteur à tester, par exemple une borne d'enroulement de moteur.
+Vai no condutor sob teste, por exemplo um terminal de enrolamento de motor.
+接在被测导体上，例如电机绕组的接线端。
+Подключается к проверяемому проводнику, например к выводу обмотки двигателя.
+Idzie na badany przewód, na przykład zacisk uzwojenia silnika.
+A vizsgált vezetőre kerül, például egy motortekercs kapcsára.
+Va en el conductor bajo prueba, por ejemplo un borne de devanado del motor.
+
+#678
+EARTH (cordon noir)
+EARTH (ponta preta)
+EARTH（黑表笔）
+EARTH (чёрный щуп)
+EARTH (czarny przewód)
+EARTH (fekete mérőzsinór)
+EARTH (punta negra)
+
+#679
+Se place sur la terre (PE) ou la carcasse du moteur. Pour des essais entre phases, mettez-le sur un autre enroulement.
+Vai na terra (PE) ou na carcaça do motor. Para testes fase-fase, coloque em outro enrolamento.
+接在大地（PE）或电机机座上。做相间测试时，接到另一个绕组上。
+Подключается к земле (PE) или корпусу двигателя. Для проверки между фазами подключите к другой обмотке.
+Idzie na ziemię (PE) lub korpus silnika. Do prób międzyfazowych podłącz do innego uzwojenia.
+A földre (PE) vagy a motorvázra kerül. Fázisok közötti méréshez egy másik tekercsre tegye.
+Va en tierra (PE) o en la carcasa del motor. Para pruebas entre fases, póngala en otro devanado.
+
+#680
+TEST (maintenir)
+TEST (manter pressionado)
+TEST（按住）
+TEST (удерживать)
+TEST (przytrzymaj)
+TEST (tartsa lenyomva)
+TEST (mantener)
+
+#681
+Maintenez pour appliquer la tension. La valeur monte à mesure que le câble se charge : attendez environ 60 secondes. Si l'appareil trouve plus de 30 V sur le circuit, il refuse l'essai. Après l'essai, l'appareil décharge le circuit à travers lui-même : gardez les cordons en place jusqu'à ce que la valeur baisse.
+Mantenha pressionado para aplicar a tensão. A leitura sobe conforme o cabo carrega, então aguarde cerca de 60 segundos. Se o medidor encontrar mais de 30 V no circuito, ele se recusa a testar. Após o teste, o medidor descarrega o circuito por si mesmo: mantenha as pontas até a leitura cair.
+按住即施加电压。随着电缆充电，读数会上升，所以要等约60秒。如果仪表发现电路上有超过30 V的电压，会拒绝测试。测试后，仪表会通过自身对电路放电：在读数下降之前不要拿开表笔。
+Удерживайте, чтобы подать напряжение. Показание растёт по мере заряда кабеля, поэтому подождите около 60 секунд. Если прибор обнаружит на цепи более 30 В, он откажется от испытания. После испытания прибор разряжает цепь через себя: не снимайте щупы, пока показание не упадёт.
+Przytrzymaj, aby podać napięcie. Odczyt rośnie w miarę ładowania kabla, więc poczekaj około 60 sekund. Jeśli miernik wykryje na obwodzie więcej niż 30 V, odmawia testu. Po teście miernik rozładowuje obwód przez siebie: trzymaj przewody, dopóki odczyt nie spadnie.
+Tartsa lenyomva a feszültség ráadásához. Az érték nő, ahogy a kábel feltöltődik, ezért várjon kb. 60 másodpercet. Ha a műszer 30 V-nál nagyobb feszültséget talál az áramkörön, megtagadja a mérést. A mérés után a műszer saját magán keresztül kisüti az áramkört: tartsa a mérőzsinórokat a helyükön, amíg az érték le nem esik.
+Mantenga pulsado para aplicar la tensión. La lectura sube a medida que el cable se carga, así que espere unos 60 segundos. Si el medidor encuentra más de 30 V en el circuito, se niega a probar. Tras la prueba, el medidor descarga el circuito a través de sí mismo: mantenga las puntas hasta que la lectura baje.
+
+#682
+Lecture et verdict
+Leitura e veredito
+读数和结论
+Показание и вердикт
+Odczyt i werdykt
+Érték és értékelés
+Lectura y veredicto
+
+#683
+Au-dessus de 100 MΩ : excellent ; 10 à 100 MΩ : acceptable pour un moteur BT ; 1 à 10 MΩ : limite (séchez et refaites l'essai) ; sous 1 MΩ : échec. La tendance compte : notez chaque essai et comparez avec le précédent.
+Acima de 100 MΩ é excelente, 10 a 100 MΩ é aceitável para um motor BT, 1 a 10 MΩ é limítrofe (seque e teste de novo), abaixo de 1 MΩ reprova. A tendência importa: registre cada teste e compare com o último.
+高于100 MΩ为优秀，10到100 MΩ对低压电机可接受，1到10 MΩ处于临界（烘干后重测），低于1 MΩ不合格。趋势很重要：记录每次测试并与上一次比较。
+Выше 100 МОм — отлично, 10–100 МОм — приемлемо для низковольтного двигателя, 1–10 МОм — на грани (просушите и повторите проверку), ниже 1 МОм — не годится. Важна динамика: записывайте каждое испытание и сравнивайте с предыдущим.
+Powyżej 100 MΩ to doskonały wynik, 10 do 100 MΩ jest akceptowalne dla silnika nn, 1 do 10 MΩ jest graniczne (wysusz i powtórz test), poniżej 1 MΩ to niezaliczone. Liczy się trend: zapisuj każdy test i porównuj z poprzednim.
+100 MΩ felett kiváló, 10-100 MΩ elfogadható kisfeszültségű motornál, 1-10 MΩ határeset (szárítsa ki és mérje újra), 1 MΩ alatt megbukott. A trend számít: jegyezze fel minden mérést, és hasonlítsa az előzőhöz.
+Por encima de 100 MΩ es excelente, de 10 a 100 MΩ es aceptable para un motor de BT, de 1 a 10 MΩ es límite (seque y vuelva a medir), por debajo de 1 MΩ no pasa. La tendencia importa: anote cada prueba y compárela con la anterior.
+
+#684
+Isolez et consignez d'abord. Débranchez variateurs, alimentations, cartes d'automate et capteurs électroniques : la tension d'essai les détruit. Ne touchez ni les cordons ni l'enroulement pendant ou juste après un essai.
+Isole e bloqueie primeiro. Desconecte inversores, fontes, cartões de CLP e sensores eletrônicos: a tensão de teste os destrói. Não toque nas pontas nem no enrolamento durante ou logo após um teste.
+先隔离并上锁挂牌。断开变频器、电源、PLC模块和电子传感器：测试电压会损坏它们。测试期间和刚结束时不要触碰表笔或绕组。
+Сначала изолируйте и заблокируйте. Отключите преобразователи, блоки питания, платы ПЛК и электронные датчики: испытательное напряжение их уничтожит. Не касайтесь щупов и обмотки во время испытания и сразу после него.
+Najpierw odizoluj i zablokuj. Odłącz falowniki, zasilacze, karty PLC i czujniki elektroniczne: napięcie probiercze je niszczy. Nie dotykaj przewodów ani uzwojenia podczas testu ani tuż po nim.
+Előbb válassza le és zárja le. Csatlakoztassa le a hajtásokat, tápegységeket, PLC-kártyákat és elektronikus érzékelőket: a mérőfeszültség tönkreteszi őket. Ne érjen a mérőzsinórokhoz vagy a tekercshez mérés közben vagy közvetlenül utána.
+Aísle y bloquee primero. Desconecte variadores, fuentes, tarjetas de PLC y sensores electrónicos: la tensión de prueba los destruye. No toque las puntas ni el devanado durante o justo después de una prueba.
+
+#685
+Calibrateur mA / source de boucle
+Calibrador de mA / fonte de malha
+mA校准器 / 回路信号源
+Калибратор mA / источник токовой петли
+Kalibrator mA / źródło pętli
+mA kalibrátor / hurokforrás
+Calibrador de mA / fuente de lazo
+
+#686
+Génère ou mesure un signal de boucle 4 à 20 mA et des signaux en tension. Sert à vérifier les transmetteurs, convertisseurs I/P, positionneurs de vannes, entrées analogiques d'automate et électrovannes.
+Gera ou mede um sinal de malha de 4 a 20 mA e sinais de tensão. Usado para verificar transmissores, conversores I/P, posicionadores de válvulas, entradas analógicas de CLP e solenoides.
+产生或测量4到20 mA回路信号和电压信号。用于检查变送器、I/P转换器、阀门定位器、PLC模拟量输入和电磁阀。
+Генерирует или измеряет сигнал токовой петли 4–20 мА и сигналы напряжения. Используется для проверки преобразователей, преобразователей I/P, позиционеров клапанов, аналоговых входов ПЛК и соленоидов.
+Generuje lub mierzy sygnał pętli 4 do 20 mA oraz sygnały napięciowe. Służy do sprawdzania przetworników, przetworników I/P, pozycjonerów zaworów, wejść analogowych PLC i elektrozaworów.
+4-20 mA-es hurokjelet és feszültségjeleket állít elő vagy mér. Jeladók, I/P átalakítók, szelepállítók, PLC analóg bemenetek és mágnesszelepek ellenőrzésére használják.
+Genera o mide una señal de lazo de 4 a 20 mA y señales de tensión. Se usa para comprobar transmisores, convertidores I/P, posicionadores de válvulas, entradas analógicas de PLC y electroválvulas.
+
+#687
+Mode
+Modo
+模式
+Режим
+Tryb
+Mód
+Modo
+
+#688
+SOURCE mA injecte du courant dans un appareil (OUT+ rouge vers le + de l'appareil, OUT− noir vers le − de l'appareil). SOURCE V donne 0 à 10 V. MEASURE mA lit une boucle en série. LOOP POWER fournit 24 V et lit le courant. SIM TX se comporte comme un transmetteur et tire le courant réglé d'une alimentation 24 V externe.
+SOURCE mA injeta corrente em um dispositivo (OUT+ vermelho no + do dispositivo, OUT− preto no − do dispositivo). SOURCE V fornece 0 a 10 V. MEASURE mA lê uma malha em série. LOOP POWER fornece 24 V e lê a corrente. SIM TX se comporta como um transmissor, puxando a corrente ajustada de uma fonte externa de 24 V.
+SOURCE mA向设备输出电流（红色OUT+接设备的+，黑色OUT−接设备的−）。SOURCE V输出0到10 V。MEASURE mA串联测量回路电流。LOOP POWER提供24 V并读取电流。SIM TX模拟变送器，从外部24 V电源汲取设定的电流。
+SOURCE mA подаёт ток в устройство (красный OUT+ на «+» устройства, чёрный OUT− на «−» устройства). SOURCE V даёт 0–10 В. MEASURE mA измеряет ток петли при последовательном включении. LOOP POWER выдаёт 24 В и измеряет ток. SIM TX ведёт себя как преобразователь, потребляя заданный ток от внешнего источника 24 В.
+SOURCE mA wprowadza prąd do urządzenia (czerwone OUT+ do + urządzenia, czarne OUT− do − urządzenia). SOURCE V daje 0 do 10 V. MEASURE mA mierzy pętlę szeregowo. LOOP POWER daje 24 V i odczytuje prąd. SIM TX zachowuje się jak przetwornik, pobierając nastawiony prąd z zewnętrznego zasilania 24 V.
+A SOURCE mA áramot ad egy eszközbe (a piros OUT+ az eszköz +-ára, a fekete OUT− az eszköz −-ára). A SOURCE V 0-10 V-ot ad. A MEASURE mA sorosan egy hurkot mér. A LOOP POWER 24 V-ot ad és az áramot olvassa. A SIM TX jeladóként viselkedik, a beállított áramot külső 24 V-os forrásból veszi fel.
+SOURCE mA inyecta corriente en un dispositivo (OUT+ rojo al + del dispositivo, OUT− negro al − del dispositivo). SOURCE V da 0 a 10 V. MEASURE mA lee un lazo en serie. LOOP POWER da 24 V y lee la corriente. SIM TX se comporta como un transmisor, tomando la corriente fijada de una fuente externa de 24 V.
+
+#689
+Saute à 4, 8, 12, 16 et 20 mA, les points de contrôle d'étalonnage standard. Vanne 0 % : fermée ; 100 % : ouverte sur un actionneur à ouverture par air.
+Salta para 4, 8, 12, 16 e 20 mA, os pontos padrão de verificação de calibração. Válvula 0 % é fechada e 100 % é aberta em um atuador ar-para-abrir.
+跳转到4、8、12、16和20 mA，即标准校准检查点。对于气开式执行器，阀门0 %为关闭，100 %为全开。
+Переходит на 4, 8, 12, 16 и 20 мА — стандартные контрольные точки калибровки. Клапан 0 % закрыт, 100 % открыт для привода «воздух открывает».
+Przeskakuje do 4, 8, 12, 16 i 20 mA, czyli standardowych punktów kontroli kalibracji. Zawór 0 % jest zamknięty, a 100 % otwarty dla siłownika „powietrze otwiera".
+Ugrik 4, 8, 12, 16 és 20 mA-re, a szokásos kalibrálási ellenőrzőpontokra. A szelep 0 %-nál zárt, 100 %-nál nyitott, levegőre nyitó működtetőnél.
+Salta a 4, 8, 12, 16 y 20 mA, los puntos estándar de comprobación de calibración. La válvula al 0 % está cerrada y al 100 % abierta en un actuador de aire para abrir.
+
+#690
+Valeur au-delà de la gamme servant à vérifier si un appareil ou une électrovanne réagit à fort courant. Une bobine d'électrovanne conçue pour 24 V CC tire un courant selon sa résistance : un signal de 24 mA est trop faible pour une électrovanne 24 V standard mais suffisant pour un convertisseur I/P.
+Valor acima da faixa usado para testar se um dispositivo ou solenoide reage a alta corrente. Uma bobina de solenoide projetada para 24 V CC puxa corrente pela sua resistência: um sinal de 24 mA é fraco demais para um solenoide padrão de 24 V, mas suficiente para um conversor I/P.
+超量程数值，用来测试设备或电磁阀在大电流下是否动作。设计用于24 V直流的电磁阀线圈，电流由其电阻决定：24 mA信号对标准24 V电磁阀太小，但足够驱动I/P转换器。
+Значение за пределами диапазона для проверки, реагирует ли устройство или соленоид на большой ток. Катушка соленоида на 24 В DC потребляет ток по своему сопротивлению: сигнала 24 мА мало для стандартного соленоида 24 В, но достаточно для преобразователя I/P.
+Wartość poza zakresem do sprawdzenia, czy urządzenie lub elektrozawór reaguje na duży prąd. Cewka elektrozaworu zaprojektowana na 24 V DC pobiera prąd wynikający z jej rezystancji: sygnał 24 mA jest zbyt słaby dla standardowego elektrozaworu 24 V, ale wystarczy dla przetwornika I/P.
+Méréshatár feletti érték annak vizsgálatához, hogy egy eszköz vagy mágnesszelep reagál-e nagy áramra. A 24 V DC-re tervezett mágnesszelep-tekercs az ellenállása szerinti áramot vesz fel: a 24 mA-es jel túl gyenge egy szabványos 24 V-os mágnesszelepnek, de elég egy I/P átalakítónak.
+Valor por encima del rango usado para comprobar si un dispositivo o electroválvula reacciona a una corriente alta. Una bobina de electroválvula diseñada para 24 V CC absorbe corriente según su resistencia: una señal de 24 mA es demasiado débil para una electroválvula estándar de 24 V pero suficiente para un convertidor I/P.
+
+#691
++ / − et pas
++ / − e passo
++ / − 和步长
++ / − и шаг
++ / − i krok
++ / − és lépésköz
++ / − y paso
+
+#692
+Change la sortie du pas choisi. Grossier = 1 mA, fin = 0,01 mA. Vous pouvez aussi saisir la valeur.
+Altera a saída pelo passo escolhido. Grosso é 1 mA, fino é 0,01 mA. Você também pode digitar o valor.
+按步长调整输出。粗调为1 mA，细调为0.01 mA。也可以直接输入数值。
+Изменяет выход на выбранный шаг. Грубо — 1 мА, точно — 0,01 мА. Значение можно также ввести с клавиатуры.
+Zmienia wyjście o wybrany krok. Zgrubnie to 1 mA, dokładnie to 0,01 mA. Możesz też wpisać wartość.
+A kimenetet a lépésközzel változtatja. Durva: 1 mA, finom: 0,01 mA. Az értéket be is gépelheti.
+Cambia la salida según el paso. Grueso es 1 mA, fino es 0,01 mA. También puede escribir el valor.
+
+#693
+Rien ne sort des bornes tant que vous n'avez pas activé la sortie. Coupez-la avant de déplacer les cordons.
+Nada sai dos terminais até você ligar a saída. Desligue-a antes de mover as pontas.
+在你打开输出之前，端子上不会有任何输出。移动表笔前请先关闭输出。
+Пока вы не включите выход, с клемм ничего не поступает. Выключайте выход, прежде чем переставлять щупы.
+Nic nie wychodzi z zacisków, dopóki nie włączysz wyjścia. Wyłącz je przed przełożeniem przewodów.
+Amíg nem kapcsolja be a kimenetet, a kapcsokon semmi nem jelenik meg. A mérőzsinórok áthelyezése előtt kapcsolja ki.
+No sale nada de los bornes hasta que active la salida. Apáguela antes de mover las puntas.
+
+#694
+Conformité
+Conformidade
+顺从电压
+Предел выходного напряжения
+Zgodność (compliance)
+Megfelelési határ
+Conformidad
+
+#695
+Le calibrateur ne peut piloter que jusqu'à environ 24 V. Si la charge demande plus de tension pour le courant réglé, la sortie sature et l'avertissement apparaît. Cause typique : une résistance élevée, un contact ouvert ou de mauvaises bornes.
+O calibrador só consegue acionar até cerca de 24 V. Se a carga precisa de mais tensão para a corrente ajustada, a saída satura e o aviso aparece. Causa típica: uma resistência alta, um contato aberto ou terminais errados.
+校准器最多只能输出约24 V。如果负载为设定电流需要更高电压，输出就会饱和并出现警告。典型原因：电阻过大、触点断开或接错端子。
+Калибратор может выдавать не более примерно 24 В. Если нагрузке для заданного тока нужно большее напряжение, выход насыщается и появляется предупреждение. Типичная причина: большое сопротивление, разомкнутый контакт или не те клеммы.
+Kalibrator może wysterować tylko do około 24 V. Jeśli obciążenie wymaga większego napięcia dla nastawionego prądu, wyjście się nasyca i pojawia się ostrzeżenie. Typowa przyczyna: wysoka rezystancja, otwarty styk lub złe zaciski.
+A kalibrátor csak kb. 24 V-ig tud hajtani. Ha a terhelés a beállított áramhoz több feszültséget igényel, a kimenet telítésbe megy, és figyelmeztetés jelenik meg. Tipikus ok: nagy ellenállás, nyitott érintkező vagy rossz kapcsok.
+El calibrador solo puede impulsar hasta unos 24 V. Si la carga necesita más tensión para la corriente fijada, la salida se satura y aparece el aviso. Causa típica: una resistencia alta, un contacto abierto o bornes equivocados.
+
+#696
+Détecteur de tension bipolaire
+Detector de tensão bipolar
+双极验电器
+Двухполюсный указатель напряжения
+Dwubiegunowy wskaźnik napięcia
+Kétpólusú feszültségvizsgáló
+Detector de tensión bipolar
+
+#697
+Un détecteur à échelle de LED, sans choix de gamme. Il charge un peu le circuit, donc il ignore les tensions fantômes. C'est le bon outil pour prouver qu'un circuit est hors tension.
+Um detector com escada de LEDs e sem seleção de faixa. Ele carrega um pouco o circuito, então ignora tensões fantasma. É a ferramenta correta para comprovar que um circuito está sem tensão.
+带LED指示条、无需选量程的验电器。它会对电路产生一点负载，所以不会被感应电压（幽灵电压）误导。它是确认电路已断电的正确工具。
+Указатель со светодиодной шкалой, без выбора диапазона. Он немного нагружает цепь, поэтому игнорирует наведённые («фантомные») напряжения. Это правильный инструмент для подтверждения отсутствия напряжения.
+Wskaźnik z drabinką diod LED, bez wyboru zakresu. Lekko obciąża obwód, więc ignoruje napięcia indukowane. To właściwe narzędzie do potwierdzania braku napięcia.
+LED-soros vizsgáló, méréshatár-választás nélkül. Kissé terheli az áramkört, ezért figyelmen kívül hagyja a fantomfeszültségeket. Ez a megfelelő eszköz a feszültségmentesség igazolására.
+Un detector con escala de LED y sin selección de rango. Carga un poco el circuito, por lo que ignora las tensiones fantasma. Es la herramienta correcta para comprobar que un circuito está sin tensión.
+
+#698
+Échelle de LED (12 à 690 V)
+Escada de LEDs (12 a 690 V)
+LED指示条（12到690 V）
+Светодиодная шкала (12–690 В)
+Drabinka LED (12 do 690 V)
+LED-sor (12-690 V)
+Escala de LED (12 a 690 V)
+
+#699
+La LED allumée la plus haute indique la gamme de tension. L'échelle est approximative : utilisez un multimètre pour une valeur exacte.
+O LED aceso mais alto indica a faixa de tensão. A escada é aproximada: use um multímetro para um valor exato.
+最高的那个亮着的LED表示电压范围。指示条只是近似值：需要精确值请用万用表。
+Самый высокий горящий светодиод показывает диапазон напряжения. Шкала приблизительная: для точного значения используйте мультиметр.
+Najwyżej świecąca dioda LED wskazuje zakres napięcia. Drabinka jest przybliżona: dla dokładnej wartości użyj multimetru.
+A legmagasabban világító LED mutatja a feszültségtartományt. A sor hozzávetőleges: pontos értékhez használjon multimétert.
+El LED encendido más alto indica el rango de tensión. La escala es aproximada: use un multímetro para un valor exacto.
+
+#700
+Polarité + / −
+Polaridade + / −
+极性 + / −
+Полярность + / −
+Polaryzacja + / −
+Polaritás + / −
+Polaridad + / −
+
+#701
+Indique la polarité CC. Les deux voyants CA allumés signifient CA.
+Mostra a polaridade CC. As duas luzes CA acesas significam CA.
+指示直流极性。两个交流指示灯都亮表示交流。
+Показывает полярность постоянного тока. Если горят обе лампы AC — это переменное напряжение.
+Pokazuje polaryzację DC. Zapalone obie lampki AC oznaczają AC.
+A DC polaritást mutatja. Ha mindkét AC lámpa világít, akkor AC.
+Muestra la polaridad de CC. Las dos luces de CA encendidas significan CA.
+
+#702
+Autotest
+Autoteste
+自检
+Самопроверка
+Autotest
+Önteszt
+Autotest
+
+#703
+Touchez les deux pointes l'une contre l'autre ou appuyez sur l'autotest pour allumer l'échelle depuis la pile interne. Faites-le avant et après avoir testé un circuit : prouver-tester-prouver.
+Encoste as duas pontas uma na outra ou aperte o autoteste para acender a escada com a bateria interna. Faça isso antes e depois de testar um circuito: comprovar-testar-comprovar.
+把两支表笔碰在一起，或按自检键，用内部电池点亮指示条。测试电路前后都要做：验证—测试—再验证。
+Соедините два щупа друг с другом или нажмите самопроверку, чтобы зажечь шкалу от внутренней батареи. Делайте это до и после проверки цепи: проверить–измерить–проверить.
+Zetknij dwie sondy ze sobą lub naciśnij autotest, aby zapalić drabinkę z wewnętrznej baterii. Zrób to przed i po sprawdzeniu obwodu: sprawdź–zmierz–sprawdź.
+Érintse össze a két mérőhegyet, vagy nyomja meg az öntesztet, hogy a belső elemről kigyulladjon a sor. Tegye ezt egy áramkör vizsgálata előtt és után: ellenőrzés–mérés–ellenőrzés.
+Junte las dos puntas o pulse el autotest para encender la escala con la pila interna. Hágalo antes y después de probar un circuito: comprobar-medir-comprobar.
+
+#704
+Prouver-tester-prouver
+Comprovar-testar-comprovar
+验证—测试—再验证
+Проверить–измерить–проверить
+Sprawdź–zmierz–sprawdź
+Ellenőrzés–mérés–ellenőrzés
+Comprobar-medir-comprobar
+
+#705
+1) Testez sur une source connue sous tension. 2) Testez le circuit dont vous voulez prouver l'absence de tension, chaque paire (L-L, L-PE, L-N). 3) Testez à nouveau la source connue. Si l'étape 3 échoue, le résultat de l'étape 2 ne vaut rien.
+1) Teste em uma fonte energizada conhecida. 2) Teste o circuito que você quer comprovar sem tensão, cada par (L-L, L-PE, L-N). 3) Teste a fonte conhecida de novo. Se a etapa 3 falhar, o resultado da etapa 2 não vale nada.
+1）在已知带电的电源上测试。2）在要确认无电的电路上逐对测试（L-L、L-PE、L-N）。3）再测一次那个已知电源。如果第3步失败，第2步的结果就一文不值。
+1) Проверьте указатель на заведомо находящемся под напряжением источнике. 2) Проверьте цепь, отсутствие напряжения на которой нужно подтвердить, по каждой паре (L-L, L-PE, L-N). 3) Снова проверьте известный источник. Если шаг 3 не удался, результат шага 2 ничего не стоит.
+1) Przetestuj na znanym źródle pod napięciem. 2) Przetestuj obwód, w którym chcesz potwierdzić brak napięcia, każdą parę (L-L, L-PE, L-N). 3) Przetestuj znane źródło ponownie. Jeśli krok 3 się nie powiedzie, wynik kroku 2 jest bezwartościowy.
+1) Próbálja ki ismert feszültség alatti forráson. 2) Vizsgálja meg az áramkört, amelyről igazolni akarja, hogy feszültségmentes, minden párban (L-L, L-PE, L-N). 3) Próbálja ki újra az ismert forrást. Ha a 3. lépés nem sikerül, a 2. lépés eredménye értéktelen.
+1) Pruebe en una fuente con tensión conocida. 2) Pruebe el circuito que quiere comprobar sin tensión, cada par (L-L, L-PE, L-N). 3) Pruebe de nuevo la fuente conocida. Si el paso 3 falla, el resultado del paso 2 no vale nada.
+
+#706
+Stylo détecteur de tension sans contact
+Caneta detectora de tensão sem contato
+非接触式验电笔
+Бесконтактный указатель напряжения (ручка)
+Bezdotykowy długopis do wykrywania napięcia
+Érintésmentes feszültségvizsgáló toll
+Lápiz detector de tensión sin contacto
+
+#707
+Détecte le champ électrique alternatif autour d'un fil sous tension sans le toucher. Simple tri rapide : il ne prouve jamais qu'un circuit est hors tension.
+Detecta o campo elétrico CA ao redor de um fio energizado sem tocá-lo. Apenas triagem rápida: nunca comprova que um circuito está sem tensão.
+无需接触即可检测带电导线周围的交流电场。只是快速初筛：它永远不能证明电路已断电。
+Обнаруживает переменное электрическое поле вокруг провода под напряжением, не касаясь его. Только быстрая предварительная проверка: он никогда не доказывает отсутствие напряжения.
+Wykrywa pole elektryczne AC wokół przewodu pod napięciem bez dotykania. Tylko szybkie wstępne sprawdzenie: nigdy nie potwierdza braku napięcia.
+Érintés nélkül érzékeli a feszültség alatti vezeték körüli váltakozó elektromos mezőt. Csak gyors szűrésre jó: soha nem igazolja, hogy egy áramkör feszültségmentes.
+Detecta el campo eléctrico de CA alrededor de un cable con tensión sin tocarlo. Solo para una comprobación rápida: nunca demuestra que un circuito esté sin tensión.
+
+#708
+LED et buzzer
+LED e buzzer
+LED和蜂鸣器
+Светодиод и зуммер
+Dioda LED i brzęczyk
+LED és csipogó
+LED y zumbador
+
+#709
+S'allume et sonne quand une tension alternative est détectée près de la pointe.
+Acende e apita quando detecta tensão CA perto da ponta.
+在笔尖附近检测到交流电压时亮灯并鸣叫。
+Загорается и звучит, когда рядом с наконечником обнаружено переменное напряжение.
+Świeci i piszczy, gdy w pobliżu końcówki wykryje napięcie przemienne.
+Világít és csipog, ha a hegy közelében váltakozó feszültséget észlel.
+Se enciende y suena cuando detecta tensión alterna cerca de la punta.
+
+#710
+Sensibilité HI / LO
+Sensibilidade HI / LO
+灵敏度 HI / LO
+Чувствительность HI / LO
+Czułość HI / LO
+Érzékenység HI / LO
+Sensibilidad HI / LO
+
+#711
+HI détecte à partir d'environ 20 V, LO à partir d'environ 90 V. Utilisez LO pour ignorer les champs parasites faibles près d'un câble sous tension.
+HI detecta a partir de cerca de 20 V, LO a partir de cerca de 90 V. Use LO para ignorar campos parasitas fracos ao lado de um cabo energizado.
+HI可检测约20 V以上，LO可检测约90 V以上。靠近带电电缆时，用LO可忽略微弱的杂散电场。
+HI обнаруживает примерно от 20 В, LO примерно от 90 В. Используйте LO, чтобы игнорировать слабые паразитные поля рядом с кабелем под напряжением.
+HI wykrywa od około 20 V, LO od około 90 V. Użyj LO, aby ignorować słabe pola rozproszone obok kabla pod napięciem.
+A HI kb. 20 V-tól, az LO kb. 90 V-tól érzékel. Az LO-val figyelmen kívül hagyhatja a feszültség alatti kábel melletti gyenge szórt mezőket.
+HI detecta desde unos 20 V, LO desde unos 90 V. Use LO para ignorar campos parásitos débiles junto a un cable con tensión.
+
+#712
+Limites
+Limites
+局限
+Ограничения
+Ograniczenia
+Korlátok
+Límites
+
+#713
+Il ne détecte pas le CC. Un câble blindé ou armé peut masquer le champ. Un stylo silencieux ne veut pas dire hors tension : utilisez le détecteur bipolaire ou un multimètre.
+Não detecta CC. Cabo blindado ou armado pode esconder o campo. Uma caneta silenciosa não significa sem tensão: use o detector bipolar ou um multímetro.
+它检测不到直流。屏蔽或铠装电缆可能把电场遮住。笔不响并不等于没电：请用双极验电器或万用表。
+Он не обнаруживает постоянное напряжение. Экранированный или бронированный кабель может скрывать поле. Молчание ручки не означает отсутствия напряжения: используйте двухполюсный указатель или мультиметр.
+Nie wykrywa DC. Kabel ekranowany lub pancerny może ukrywać pole. Milczący długopis nie oznacza braku napięcia: użyj wskaźnika dwubiegunowego lub multimetru.
+Az egyenfeszültséget nem érzékeli. Az árnyékolt vagy páncélozott kábel elrejtheti a mezőt. A néma toll nem jelenti, hogy nincs feszültség: használjon kétpólusú vizsgálót vagy multimétert.
+No detecta CC. Un cable apantallado o armado puede ocultar el campo. Un lápiz en silencio no significa sin tensión: use el detector bipolar o un multímetro.
+
+#714
+Multimètre
+Multímetro
+万用表
+Мультиметр
+Multimetr
+Multiméter
+Multímetro
+
+#715
+Mégohmmètre
+Megôhmetro
+兆欧表
+Мегаомметр
+Megaomomierz
+Szigetelésmérő
+Megóhmetro
+
+#716
+Calibrateur mA
+Calibrador de mA
+mA校准器
+Калибратор mA
+Kalibrator mA
+mA kalibrátor
+Calibrador de mA
+
+#717
+Détecteur de tension
+Detector de tensão
+验电器
+Указатель напряжения
+Wskaźnik napięcia
+Feszültségvizsgáló
+Detector de tensión
+
+#718
+Stylo NCV
+Caneta NCV
+NCV验电笔
+Ручка NCV
+Długopis NCV
+NCV-toll
+Lápiz NCV
+
+#719
+Remplacer le fusible
+Substituir o fusível
+更换保险丝
+Заменить предохранитель
+Wymień bezpiecznik
+Biztosíték cseréje
+Cambiar el fusible
+
+#720
+Touchez en mode Apprentissage pour lire le verdict.
+Toque no modo Aprender para ler o veredito.
+在学习模式下点击可阅读结论说明。
+Нажмите в режиме обучения, чтобы прочитать вердикт.
+Dotknij w trybie nauki, aby przeczytać werdykt.
+Tanulás módban érintse meg az értékelés elolvasásához.
+Toque en el modo Aprendizaje para leer el veredicto.
+
+#721
+dernier résultat
+último resultado
+上次结果
+последний результат
+ostatni wynik
+utolsó eredmény
+último resultado
+
+#722
+ESSAI
+TESTANDO
+测试中
+ИСПЫТАНИЕ
+TESTOWANIE
+MÉRÉS
+PROBANDO
+
+#723
+BON
+BOM
+良好
+ХОРОШО
+DOBRY
+JÓ
+BUENO
+
+#724
+ACCEPTABLE
+ACEITÁVEL
+可接受
+ПРИЕМЛЕМО
+AKCEPTOWALNY
+ELFOGADHATÓ
+ACEPTABLE
+
+#725
+LIMITE
+LIMÍTROFE
+临界
+НА ГРАНИ
+GRANICZNY
+HATÁRESET
+LÍMITE
+
+#726
+ÉCHEC : claquage de l'isolement
+REPROVADO: ruptura da isolação
+不合格：绝缘击穿
+НЕГОДНО: пробой изоляции
+NIEZALICZONY: przebicie izolacji
+MEGBUKOTT: szigetelés átütése
+NO APTO: ruptura del aislamiento
+
+#727
+Source mA
+Fonte mA
+输出mA
+Источник mA
+Źródło mA
+mA forrás
+Fuente mA
+
+#728
+Source V
+Fonte V
+输出V
+Источник V
+Źródło V
+V forrás
+Fuente V
+
+#729
+Mesure mA
+Medir mA
+测量mA
+Измерение mA
+Pomiar mA
+mA mérés
+Medida mA
+
+#730
+Alimentation boucle
+Alimentação da malha
+回路供电
+Питание петли
+Zasilanie pętli
+Hurokáplálás
+Alimentación del lazo
+
+#731
+Simul. transmetteur
+Simular transmissor
+模拟变送器
+Имитация преобразователя
+Symulacja przetwornika
+Jeladó szimuláció
+Simular transmisor
+
+#732
+SORTIE ON
+SAÍDA ON
+输出开
+ВЫХОД ВКЛ
+WYJŚCIE WŁ.
+KIMENET BE
+SALIDA ON
+
+#733
+SORTIE OFF
+SAÍDA OFF
+输出关
+ВЫХОД ВЫКЛ
+WYJŚCIE WYŁ.
+KIMENET KI
+SALIDA OFF
+
+#734
+OUT+ (rouge) vers le + de l'appareil, OUT− (noir) vers le − de l'appareil.
+OUT+ (vermelho) no + do dispositivo, OUT− (preto) no − do dispositivo.
+OUT+（红）接设备的+，OUT−（黑）接设备的−。
+OUT+ (красный) на «+» устройства, OUT− (чёрный) на «−» устройства.
+OUT+ (czerwony) do + urządzenia, OUT− (czarny) do − urządzenia.
+Az OUT+ (piros) az eszköz +-ára, az OUT− (fekete) az eszköz −-ára.
+OUT+ (rojo) al + del dispositivo, OUT− (negro) al − del dispositivo.
+
+#735
+Sortie 0 à 10 V, maximum environ 25 mA.
+Saída de 0 a 10 V, máximo de cerca de 25 mA.
+输出0到10 V，最大约25 mA。
+Выход 0–10 В, максимум около 25 мА.
+Wyjście 0 do 10 V, maksymalnie około 25 mA.
+0-10 V kimenet, legfeljebb kb. 25 mA.
+Salida de 0 a 10 V, máximo unos 25 mA.
+
+#736
+Placez l'appareil en série avec la boucle.
+Coloque o medidor em série com a malha.
+把仪表串联进回路。
+Включите прибор последовательно с петлёй.
+Włącz miernik szeregowo z pętlą.
+Kösse a műszert sorba a hurokkal.
+Ponga el medidor en serie con el lazo.
+
+#737
+Donne 24 V à un transmetteur 2 fils et lit le courant de boucle.
+Fornece 24 V a um transmissor de 2 fios e lê a corrente da malha.
+给两线制变送器提供24 V并读取回路电流。
+Подаёт 24 В на двухпроводный преобразователь и измеряет ток петли.
+Daje 24 V przetwornikowi 2-przewodowemu i odczytuje prąd pętli.
+24 V-ot ad egy 2 vezetékes jeladónak, és olvassa a hurokáramot.
+Da 24 V a un transmisor a 2 hilos y lee la corriente del lazo.
+
+#738
+Se comporte comme un transmetteur sur une boucle 24 V externe.
+Age como um transmissor em uma malha externa de 24 V.
+在外部24 V回路上充当变送器。
+Работает как преобразователь во внешней петле 24 В.
+Działa jak przetwornik w zewnętrznej pętli 24 V.
+Jeladóként viselkedik egy külső 24 V-os hurkon.
+Actúa como un transmisor en un lazo externo de 24 V.
+
+#739
+AUTOTEST (maintenir)
+AUTOTESTE (manter pressionado)
+自检（按住）
+САМОПРОВЕРКА (удерживать)
+AUTOTEST (przytrzymaj)
+ÖNTESZT (tartsa lenyomva)
+AUTOTEST (mantener)
+
+#740
+Prouver-tester-prouver : testez une source connue sous tension, puis votre circuit, puis la source connue à nouveau.
+Comprovar-testar-comprovar: teste uma fonte energizada conhecida, depois o seu circuito, depois a fonte conhecida de novo.
+验证—测试—再验证：先测已知带电的电源，再测你的电路，然后再测一次已知电源。
+Проверить–измерить–проверить: проверьте на заведомо находящемся под напряжением источнике, затем свою цепь, затем снова известный источник.
+Sprawdź–zmierz–sprawdź: przetestuj znane źródło pod napięciem, potem swój obwód, potem znowu znane źródło.
+Ellenőrzés–mérés–ellenőrzés: próbálja ki az ismert feszültség alatti forrást, majd az áramkörét, majd újra az ismert forrást.
+Comprobar-medir-comprobar: pruebe una fuente con tensión conocida, luego su circuito y de nuevo la fuente conocida.
+
+#741
+Simple tri rapide. Ne l'utilisez jamais pour prouver qu'un circuit est hors tension.
+Apenas triagem rápida. Nunca use para comprovar que um circuito está sem tensão.
+只是快速初筛。绝不能用它来证明电路已断电。
+Только быстрая предварительная проверка. Никогда не используйте для подтверждения отсутствия напряжения.
+Tylko szybkie wstępne sprawdzenie. Nigdy nie używaj do potwierdzania braku napięcia.
+Csak gyors szűrés. Soha ne használja a feszültségmentesség igazolására.
+Solo una comprobación rápida. No lo use nunca para demostrar que un circuito está sin tensión.
+
+#742
+sensibilité
+sensibilidade
+灵敏度
+чувствительность
+czułość
+érzékenység
+sensibilidad
+
+#743
+Tension détectée !
+Tensão detectada!
+检测到电压！
+Обнаружено напряжение!
+Wykryto napięcie!
+Feszültség észlelve!
+¡Tensión detectada!
+
+#744
+Aucun champ
+Sem campo
+无电场
+Поля нет
+Brak pola
+Nincs mező
+Sin campo
+
+#745
+Choisissez un outil par son nom (multimètre, mégohmmètre, pince...)
+Escolha uma ferramenta pelo nome (multímetro, megôhmetro, alicate...)
+按名称选择仪表（万用表、兆欧表、钳形表…）
+Выберите инструмент по названию (мультиметр, мегаомметр, клещи...)
+Wybierz narzędzie po nazwie (multimetr, megaomomierz, cęgi...)
+Válasszon eszközt név szerint (multiméter, szigetelésmérő, lakatfogó...)
+Elija una herramienta por su nombre (multímetro, megóhmetro, pinza...)
+
+#746
+Mode Apprentissage : ON
+Modo Aprender: ON
+学习模式：开
+Режим обучения: ВКЛ
+Tryb nauki: WŁ.
+Tanulás mód: BE
+Modo Aprendizaje: ON
+
+#747
+Mode Apprentissage
+Modo Aprender
+学习模式
+Режим обучения
+Tryb nauki
+Tanulás mód
+Modo Aprendizaje
+
+#748
+Touchez n'importe quel bouton, position de cadran ou prise pour voir ce qu'il fait. Rien n'est actionné dans ce mode.
+Toque em qualquer botão, posição do dial ou entrada para ver o que faz. Nada é acionado neste modo.
+点击任意按键、旋钮位置或插孔，就能看它的作用。此模式下不会实际操作任何东西。
+Нажмите на любую кнопку, положение переключателя или гнездо, чтобы увидеть, что оно делает. В этом режиме ничего не включается.
+Dotknij dowolnego przycisku, położenia pokrętła lub gniazda, aby zobaczyć, co robi. W tym trybie nic nie jest uruchamiane.
+Érintsen meg bármelyik gombot, tárcsaállást vagy aljzatot, hogy lássa, mit csinál. Ebben a módban semmi nem működik.
+Toque cualquier botón, posición del dial o toma para ver qué hace. En este modo no se acciona nada.
+
+#749
+Ce que fait chaque commande
+O que cada controle faz
+每个控件的作用
+Что делает каждый элемент управления
+Co robi każdy element sterujący
+Mit csinál az egyes vezérlőelem
+Qué hace cada control
+
+#750
+non placé
+não colocado
+未放置
+не установлен
+nie umieszczono
+nincs elhelyezve
+no colocado
+
+#751
+Touchez pour choisir cette pointe, puis touchez une borne du circuit
+Toque para escolher esta ponta e depois toque em um terminal do circuito
+点击选择这支表笔，然后点击电路上的一个端子
+Нажмите, чтобы выбрать этот щуп, затем нажмите на клемму в схеме
+Dotknij, aby wybrać tę sondę, potem dotknij zacisku w obwodzie
+Érintse meg a mérőhegy kiválasztásához, majd egy kapocs megérintéséhez az áramkörön
+Toque para elegir esta punta y luego toque un borne del circuito
+
+#752
+Rouge
+Vermelha
+红
+Красный
+Czerwony
+Piros
+Rojo
+
+#753
+Noir
+Preta
+黑
+Чёрный
+Czarny
+Fekete
+Negro
+
+#754
+Pince
+Alicate
+钳形
+Клещи
+Cęgi
+Fogó
+Pinza
+
+#755
+Stylo
+Caneta
+笔
+Ручка
+Długopis
+Toll
+Lápiz
+
+#756
+Passez en mode Test, puis touchez les bornes.
+Mude para o modo Teste e depois toque nos terminais.
+切换到测试模式，然后点击端子。
+Перейдите в режим теста, затем нажимайте на клеммы.
+Przełącz na tryb testu, potem dotykaj zacisków.
+Váltson Teszt módra, majd érintse meg a kapcsokat.
+Cambie al modo Prueba y luego toque los bornes.
+
+#757
+Touchez une borne du circuit pour placer la pointe choisie.
+Toque em um terminal do circuito para colocar a ponta selecionada.
+点击电路上的一个端子，放置所选的表笔。
+Нажмите на клемму в схеме, чтобы установить выбранный щуп.
+Dotknij zacisku w obwodzie, aby umieścić wybraną sondę.
+Érintsen meg egy kapcsot az áramkörön a kiválasztott mérőhegy elhelyezéséhez.
+Toque un borne del circuito para colocar la punta elegida.
+

@@ -1,0 +1,2069 @@
+#3056
+Trouvez le court-circuit : injectez une tension à courant limité et repérez la pièce chaude avec une caméra thermique ou de l'alcool sur la carte. Remplacez cette pièce.
+Encontre o curto: injete tensão com corrente limitada e localize a peça quente com uma câmera térmica ou álcool sobre a placa. Substitua essa peça.
+找出短路点：注入限流电压，用热像仪或在板上涂酒精找出发热的元件。更换该元件。
+Найдите короткое замыкание: подайте напряжение с ограничением тока и найдите горячую деталь тепловизором или спиртом на плате. Замените эту деталь.
+Znajdź zwarcie: podaj napięcie z ograniczeniem prądu i znajdź gorący element kamerą termowizyjną lub alkoholem na płytce. Wymień ten element.
+Keresse meg a zárlatot: adjon rá áramkorlátozott feszültséget, és a forró alkatrészt hőkamerával vagy a kártyára cseppentett alkohollal találja meg. Cserélje azt az alkatrészt.
+Encuentre el cortocircuito: inyecte una tensión con corriente limitada y localice la pieza caliente con una cámara térmica o alcohol sobre la placa. Sustituya esa pieza.
+
+#3057
+Dommages dus à une surtension ou à une pointe (MOV, TVS, étage d'entrée)
+Danos por surto ou pico (MOV, TVS, estágio de entrada)
+浪涌或尖峰造成的损坏（MOV、TVS、输入级）
+Повреждение от выброса или скачка напряжения (MOV, TVS, входной каскад)
+Uszkodzenie przez przepięcie lub szpilkę (MOV, TVS, stopień wejściowy)
+Túlfeszültség- vagy tüskekárosodás (MOV, TVS, bemeneti fokozat)
+Daños por sobretensión o pico (MOV, TVS, etapa de entrada)
+
+#3058
+Remplacez les composants de protection et les composants d'entrée endommagés. Améliorez la protection contre les surtensions sur l'alimentation.
+Substitua as peças de proteção e os componentes de entrada danificados. Melhore a proteção contra surtos na alimentação.
+更换保护元件和受损的输入元件。加强电源上的浪涌保护。
+Замените защитные компоненты и повреждённые входные детали. Улучшите защиту от перенапряжений на питании.
+Wymień elementy zabezpieczające i uszkodzone elementy wejściowe. Popraw ochronę przeciwprzepięciową na zasilaniu.
+Cserélje a védőalkatrészeket és a sérült bemeneti alkatrészeket. Javítsa a betáplálás túlfeszültség-védelmét.
+Sustituya las piezas de protección y los componentes de entrada dañados. Mejore la protección contra sobretensiones en la alimentación.
+
+#3059
+Dommages dus à l'humidité ou à la corrosion
+Danos por umidade ou corrosão
+受潮或腐蚀造成的损坏
+Повреждение от влаги или коррозии
+Uszkodzenie przez wilgoć lub korozję
+Nedvesség vagy korrózió okozta kár
+Daños por humedad o corrosión
+
+#3060
+Nettoyez à l'alcool isopropylique et avec une brosse douce, séchez complètement, remplacez les pièces corrodées et vernissez la carte. Réparez la fuite ou la condensation.
+Limpe com álcool isopropílico e uma escova macia, seque completamente, substitua as peças corroídas e aplique verniz na placa. Corrija o vazamento ou a condensação.
+用异丙醇和软毛刷清洁，彻底干燥，更换被腐蚀的元件，并给电路板喷涂三防漆。排除漏水或凝露的问题。
+Очистите изопропиловым спиртом и мягкой щёткой, полностью высушите, замените корродированные детали и покройте плату лаком. Устраните протечку или конденсат.
+Wyczyść alkoholem izopropylowym i miękką szczotką, całkowicie osusz, wymień skorodowane elementy i pokryj płytkę lakierem. Usuń przeciek lub kondensację.
+Tisztítsa izopropil-alkohollal és puha kefével, szárítsa meg teljesen, cserélje a korrodált alkatrészeket, és vonja be a kártyát lakkal. Szüntesse meg a szivárgást vagy a páralecsapódást.
+Limpie con alcohol isopropílico y un cepillo suave, seque por completo, sustituya las piezas corroídas y barnice la placa. Repare la fuga o la condensación.
+
+#3061
+Défaut de connecteur ou de câble
+Falha de conector ou cabo
+连接器或电缆故障
+Неисправность разъёма или кабеля
+Usterka złącza lub kabla
+Csatlakozó- vagy kábelhiba
+Fallo de conector o de cable
+
+#3062
+Remplacez le connecteur ou le sertissage, remettez bien en place et fixez le câble.
+Substitua o conector ou a crimpagem, reencaixe e prenda o cabo.
+更换连接器或重新压接，重新插紧并固定好电缆。
+Замените разъём или обжимку, переустановите и закрепите кабель.
+Wymień złącze lub zarób na nowo, osadź ponownie i zabezpiecz kabel.
+Cserélje a csatlakozót vagy a krimpelést, dugja vissza, és rögzítse a kábelt.
+Sustituya el conector o el crimpado, vuelva a insertarlo y asegure el cable.
+
+#3063
+CI ou transistor endommagé
+CI ou transistor danificado
+芯片或晶体管损坏
+Повреждённая микросхема или транзистор
+Uszkodzony układ scalony lub tranzystor
+Sérült IC vagy tranzisztor
+CI o transistor dañado
+
+#3064
+Remplacez la pièce par un équivalent exact, puis trouvez ce qui l'a détruite (surtension, court-circuit en sortie, ESD).
+Substitua a peça por um equivalente exato e depois descubra o que a matou (sobretensão, curto na saída, ESD).
+用完全等效的元件替换，然后找出是什么把它烧坏的（过压、输出短路、静电放电）。
+Замените деталь точным аналогом, затем выясните, что её вывело из строя (перенапряжение, короткое замыкание на выходе, ESD).
+Wymień element na dokładny odpowiednik, potem ustal, co go zniszczyło (przepięcie, zwarcie na wyjściu, ESD).
+Cserélje az alkatrészt pontos megfelelőre, majd derítse ki, mi ölte meg (túlfeszültség, zárlat a kimeneten, ESD).
+Sustituya la pieza por un equivalente exacto y luego averigüe qué la mató (sobretensión, cortocircuito en la salida, ESD).
+
+#3065
+Relais usé ou brûlé
+Relé desgastado ou queimado
+继电器磨损或烧毁
+Реле изношено или сгорело
+Przekaźnik zużyty lub spalony
+A relé elhasználódott vagy kiégett
+Relé desgastado o quemado
+
+#3066
+Remplacez le relais par le même type. Ajoutez un antiparasitage aux bornes des charges inductives.
+Substitua o relé pelo mesmo tipo. Adicione supressão sobre as cargas indutivas.
+换成同型号的继电器。在感性负载两端加抑制器件。
+Замените реле таким же типом. Добавьте подавление помех на индуктивных нагрузках.
+Wymień przekaźnik na ten sam typ. Dodaj tłumienie zakłóceń na obciążeniach indukcyjnych.
+Cserélje a relét ugyanolyan típusúra. Tegyen zavarszűrést az induktív terhelésekre.
+Sustituya el relé por el mismo tipo. Añada supresión en las cargas inductivas.
+
+#3067
+Défaillance du quartz ou de l'oscillateur
+Falha do cristal ou oscilador
+晶振或振荡器失效
+Отказ кварца или генератора
+Uszkodzenie kwarcu lub oscylatora
+Kvarc- vagy oszcillátorhiba
+Fallo del cristal o del oscilador
+
+#3068
+Remplacez le quartz et ses condensateurs de charge.
+Substitua o cristal e seus capacitores de carga.
+更换晶振及其负载电容。
+Замените кварц и его нагрузочные конденсаторы.
+Wymień kwarc i jego kondensatory obciążające.
+Cserélje a kvarcot és a terhelőkondenzátorait.
+Sustituya el cristal y sus condensadores de carga.
+
+#3069
+Tous les rails corrects
+Todos os trilhos corretos
+所有电源轨都正常
+Все шины в норме
+Wszystkie szyny prawidłowe
+Minden sín rendben
+Todos los carriles correctos
+
+#3070
+Entrée présente, un rail manque
+Entrada presente, um trilho ausente
+输入正常，缺一路电源轨
+Вход есть, одной шины нет
+Wejście jest, brakuje jednej szyny
+A bemenet megvan, egy sín hiányzik
+Entrada presente, falta un carril
+
+#3071
+Un rail est bas ou bruyant
+Um trilho está baixo ou ruidoso
+有一路电源轨偏低或有噪声
+Одна шина низкая или с помехами
+Jedna szyna niska lub zaszumiona
+Egy sín alacsony vagy zajos
+Un carril está bajo o ruidoso
+
+#3072
+Pas d'alimentation en entrée
+Sem alimentação na entrada
+输入没有电
+Нет входного питания
+Brak zasilania na wejściu
+Nincs betáplálás a bemeneten
+Sin alimentación de entrada
+
+#3073
+Mesurer les rails d'alimentation
+Medir os trilhos de alimentação
+测量电源轨
+Измерьте шины питания
+Zmierz szyny zasilania
+Mérje meg a tápsíneket
+Medir los carriles de alimentación
+
+#3074
+Mesurez l'entrée, puis chaque rail régulé (5 V, 3,3 V, etc.) par rapport à la masse. Comparez avec le schéma ou les marquages.
+Meça a entrada e depois cada trilho regulado (5 V, 3,3 V e assim por diante) em relação ao terra. Compare com o esquema ou as marcações.
+先测输入，再对地测每一路稳压后的电源轨（5 V、3.3 V等）。与原理图或板上的标注对照。
+Измерьте вход, затем каждую стабилизированную шину (5 В, 3,3 В и т. д.) относительно земли. Сравните со схемой или маркировкой.
+Zmierz wejście, potem każdą stabilizowaną szynę (5 V, 3,3 V itd.) względem masy. Porównaj ze schematem lub oznaczeniami.
+Mérje meg a bemenetet, majd minden szabályozott sínt (5 V, 3,3 V stb.) a földhöz képest. Vesse össze a kapcsolási rajzzal vagy a jelölésekkel.
+Mida la entrada y luego cada carril regulado (5 V, 3,3 V, etc.) respecto a masa. Compare con el esquema o las marcas.
+
+#3075
+Prudence avec le côté secteur et les gros condensateurs.
+Cuidado com o lado da rede e com capacitores grandes.
+注意市电侧和大电容。
+Будьте осторожны с сетевой стороной и крупными конденсаторами.
+Zachowaj ostrożność przy stronie sieciowej i dużych kondensatorach.
+Legyen óvatos a hálózati oldallal és a nagy kondenzátorokkal.
+Tenga cuidado con el lado de red y los condensadores grandes.
+
+#3076
+Tout est bon
+Tudo bem
+一切正常
+Всё в порядке
+Wszystko w porządku
+Minden rendben
+Todo bien
+
+#3077
+Un ou plusieurs avec ESR élevée / valeur basse
+Um ou mais com ESR alto / valor baixo
+有一个或多个ESR偏高 / 容量偏低
+Один или несколько с высоким ESR / малой ёмкостью
+Jeden lub więcej z wysokim ESR / niską wartością
+Egy vagy több magas ESR-rel / alacsony értékkel
+Uno o más con ESR alto / valor bajo
+
+#3078
+Vérifier les condensateurs (ESR ou capacité, en circuit si possible)
+Verificar os capacitores (ESR ou capacitância, no circuito se puder)
+检查电容（ESR或容量，能在线测就在线测）
+Проверьте конденсаторы (ESR или ёмкость, в схеме, если возможно)
+Sprawdź kondensatory (ESR lub pojemność, w układzie, jeśli to możliwe)
+Ellenőrizze a kondenzátorokat (ESR vagy kapacitás, lehetőleg áramkörben)
+Comprobar los condensadores (ESR o capacidad, en circuito si es posible)
+
+#3079
+Utilisez un ESR-mètre en circuit, ou démontez et mesurez. Une ESR élevée ou une faible capacité signifie qu'il est usé.
+Use um medidor de ESR no circuito, ou retire e meça. ESR alto ou capacitância baixa significa desgaste.
+在线使用ESR表，或拆下来测量。ESR偏高或容量偏低说明已老化。
+Используйте ESR-метр в схеме либо выпаяйте и измерьте. Высокий ESR или малая ёмкость означают износ.
+Użyj miernika ESR w układzie albo wylutuj i zmierz. Wysoki ESR lub niska pojemność oznacza zużycie.
+Használjon ESR-mérőt áramkörben, vagy szerelje ki és mérje meg. A magas ESR vagy alacsony kapacitás elhasználódást jelent.
+Use un medidor de ESR en circuito, o desmonte y mida. Un ESR alto o una capacidad baja significa desgaste.
+
+#3080
+Déchargez les condensateurs avant de tester.
+Descarregue os capacitores antes de testar.
+测试之前先给电容放电。
+Разряжайте конденсаторы перед проверкой.
+Rozładuj kondensatory przed testem.
+Teszt előtt süsse ki a kondenzátorokat.
+Descargue los condensadores antes de probar.
+
+#3081
+Valeur plausible
+Valor plausível
+数值合理
+Правдоподобное значение
+Wiarygodna wartość
+Hihető érték
+Valor plausible
+
+#3082
+Proche de zéro
+Próximo de zero
+接近零
+Около нуля
+Blisko zera
+Közel nulla
+Cerca de cero
+
+#3083
+Résistance de chaque rail d'alimentation par rapport à la masse (hors tension)
+Resistência de cada trilho de alimentação ao terra (energia desligada)
+各电源轨对地的电阻（断电）
+Сопротивление каждой шины питания относительно земли (питание выключено)
+Rezystancja każdej szyny zasilania względem masy (zasilanie wyłączone)
+Az egyes tápsínek ellenállása a földhöz képest (áramtalanítva)
+Resistencia de cada carril de alimentación a masa (alimentación apagada)
+
+#3084
+Hors tension. Mesurez chaque rail par rapport à la masse. Près de zéro ohm, c'est un court-circuit ; comparez avec une carte identique en bon état si vous en avez une.
+Sem energia. Meça cada trilho em relação ao terra. Perto de zero ohm é um curto; compare com uma placa idêntica boa, se tiver.
+不通电。对地测量每一路电源轨。接近零欧姆就是短路；如果有一块相同的好板，可以对比。
+Питание отсутствует. Измерьте каждую шину относительно земли. Около нуля ом — короткое замыкание; сравните с такой же исправной платой, если она у вас есть.
+Bez zasilania. Zmierz każdą szynę względem masy. Blisko zera omów to zwarcie; porównaj z identyczną sprawną płytką, jeśli ją masz.
+Tápellátás nélkül. Mérje meg az egyes sínek ellenállását a földhöz képest. A nulla ohm közeli érték zárlat; ha van azonos, jó kártya, vesse össze vele.
+Sin alimentación. Mida cada carril respecto a masa. Cerca de cero ohmios es un cortocircuito; compare con una placa idéntica en buen estado si tiene una.
+
+#3085
+Aucun changement
+Sem mudança
+没有变化
+Без изменений
+Bez zmian
+Nincs változás
+Sin cambios
+
+#3086
+Le défaut va et vient
+A falha aparece e some
+故障时有时无
+Неисправность то появляется, то пропадает
+Usterka pojawia się i znika
+A hiba jön-megy
+El fallo va y viene
+
+#3087
+Tapotez, fléchissez et réchauffez la carte pendant qu'elle fonctionne
+Bata, flexione e aqueça a placa enquanto ela funciona
+在电路板工作时敲一敲、弯一弯、加热一下
+Постучите по плате, слегка изогните и прогрейте её во время работы
+Postukaj, wygnij i podgrzej płytkę podczas pracy
+Ütögesse, hajlítsa és melegítse a kártyát működés közben
+Golpee, flexione y caliente la placa mientras funciona
+
+#3088
+Tapotez doucement les pièces avec un outil isolé, fléchissez légèrement la carte, réchauffez-la au pistolet à air chaud réglé bas ou refroidissez-la avec un spray réfrigérant, et observez si le défaut change.
+Bata levemente nas peças com uma ferramenta isolada, flexione a placa levemente, aqueça com uma pistola de ar quente em baixa ou resfrie com spray congelante e observe se a falha muda.
+用绝缘工具轻轻敲击元件，把电路板稍微弯一弯，用热风枪低档加热，或用冷冻喷剂降温，观察故障有没有变化。
+Слегка постучите по деталям изолированным инструментом, чуть изогните плату, прогрейте её феном на малой мощности или охладите спреем-заморозкой и наблюдайте, меняется ли неисправность.
+Delikatnie postukaj w elementy izolowanym narzędziem, lekko wygnij płytkę, podgrzej ją opalarką na niskim poziomie lub schłodź sprayem chłodzącym i obserwuj, czy usterka się zmienia.
+Szigetelt szerszámmal finoman ütögesse az alkatrészeket, kissé hajlítsa meg a kártyát, melegítse alacsony fokozaton hőlégfúvóval vagy hűtse fagyasztóspray-vel, és figyelje, változik-e a hiba.
+Golpee suavemente las piezas con una herramienta aislada, flexione ligeramente la placa, caliéntela con una pistola de aire caliente en bajo o enfríela con un spray congelante, y observe si el fallo cambia.
+
+#3089
+N'appliquez jamais de spray réfrigérant sur une zone côté secteur sous tension.
+Nunca aplique spray congelante em uma área do lado da rede energizada.
+绝不要对带电的市电侧区域喷冷冻喷剂。
+Никогда не применяйте спрей-заморозку на сетевой стороне под напряжением.
+Nigdy nie stosuj sprayu chłodzącego na zasilanym obszarze po stronie sieciowej.
+Soha ne használjon fagyasztóspray-t feszültség alatt álló hálózati oldali területen.
+Nunca aplique spray congelante en una zona del lado de red con tensión.
+
+#3090
+En court-circuit ou ouvert
+Em curto ou aberto
+短路或开路
+Короткое замыкание или обрыв
+Zwarty lub przerwany
+Zárlatos vagy szakadt
+En cortocircuito o abierto
+
+#3091
+Test de diode sur les semi-conducteurs suspects
+Teste de diodo nos semicondutores suspeitos
+对可疑的半导体做二极管测试
+Диодный тест подозрительных полупроводников
+Test diod na podejrzanych półprzewodnikach
+Diódateszt a gyanús félvezetőkön
+Prueba de diodos en los semiconductores sospechosos
+
+#3092
+Hors tension. Testez diodes, transistors et MOSFET en circuit ; une lecture proche de 0 V dans les deux sens est un court-circuit, ouvert dans les deux sens est une coupure. Dessoudez une patte pour confirmer.
+Sem energia. Teste diodos, transistores e MOSFETs no circuito; uma leitura próxima de 0 V nos dois sentidos é curto, aberto nos dois sentidos é aberto. Retire uma perna para confirmar.
+不通电。在线测试二极管、晶体管和MOSFET；两个方向都读到接近0 V是短路，两个方向都开路则是断路。拆开一只脚来确认。
+Питание отсутствует. Проверьте диоды, транзисторы и MOSFET в схеме; показание около 0 В в обе стороны — короткое замыкание, обрыв в обе стороны — обрыв. Отпаяйте один вывод для подтверждения.
+Bez zasilania. Testuj diody, tranzystory i MOSFET-y w układzie; odczyt bliski 0 V w obie strony to zwarcie, przerwa w obie strony to przerwa. Odlutuj jedną nóżkę, aby potwierdzić.
+Tápellátás nélkül. Tesztelje a diódákat, tranzisztorokat és MOSFET-eket áramkörben; ha mindkét irányban 0 V közeli értéket mutat, az zárlat, ha mindkét irányban szakadás, az szakadás. Egy láb kiforrasztásával erősítse meg.
+Sin alimentación. Pruebe diodos, transistores y MOSFET en circuito; una lectura cercana a 0 V en ambos sentidos es un cortocircuito, abierto en ambos sentidos es un circuito abierto. Desuelde una pata para confirmar.
+
+#3093
+Capteur ou transmetteur
+Sensor ou transmissor
+传感器或变送器
+Датчик или преобразователь
+Czujnik lub przetwornik
+Érzékelő vagy jeladó
+Sensor o transmisor
+
+#3094
+Séparez les trois : le capteur lui-même, le câble et l'entrée qu'il alimente. Testez le capteur avec un simulateur ou un capteur connu bon.
+Separe os três: o próprio sensor, o cabo e a entrada que ele alimenta. Teste o sensor com um simulador ou um sensor comprovadamente bom.
+把三者分开：传感器本身、电缆，以及它所接的输入。用模拟器或一个确认完好的传感器来测试。
+Разделите три части: сам датчик, кабель и вход, на который он подаёт сигнал. Проверьте датчик симулятором или заведомо исправным датчиком.
+Rozdziel trzy elementy: sam czujnik, kabel i wejście, które zasila. Przetestuj czujnik symulatorem lub sprawnym czujnikiem.
+Válassza szét a hármat: maga az érzékelő, a kábel és a bemenet, amelyet táplál. Tesztelje az érzékelőt szimulátorral vagy egy ismerten jó érzékelővel.
+Separe los tres: el propio sensor, el cable y la entrada a la que alimenta. Pruebe el sensor con un simulador o con uno que sepa que funciona.
+
+#3095
+Pour les boucles 4-20 mA : sous 3,6 mA, c'est une coupure ; au-dessus de 21 mA, c'est un court-circuit ou un dépassement d'échelle.
+Para malhas de 4-20 mA: abaixo de 3,6 mA significa rompimento, acima de 21 mA significa curto ou fim de escala excedido.
+对于4-20 mA回路：低于3.6 mA表示断线，高于21 mA表示短路或超量程。
+Для токовых петель 4–20 мА: ниже 3,6 мА — обрыв, выше 21 мА — короткое замыкание или выход за диапазон.
+W pętlach 4-20 mA: poniżej 3,6 mA oznacza zerwanie, powyżej 21 mA oznacza zwarcie lub przekroczenie zakresu.
+4-20 mA-es hurkoknál: 3,6 mA alatt szakadás, 21 mA felett zárlat vagy túlterjedés.
+Para lazos de 4-20 mA: por debajo de 3,6 mA significa rotura, por encima de 21 mA significa cortocircuito o fuera de rango.
+
+#3096
+Aucun signal
+Sem sinal
+没有信号
+Нет сигнала
+Brak sygnału
+Nincs jel
+Sin señal
+
+#3097
+Bloqué sur une valeur
+Travado em um valor
+卡在某个数值
+Застрял на одном значении
+Zablokowany na jednej wartości
+Egy értéken beragadt
+Atascado en un valor
+
+#3098
+La mesure dérive ou est fausse
+A leitura deriva ou está errada
+读数漂移或不对
+Показание уходит или неверное
+Odczyt dryfuje lub jest błędny
+Az érték sodródik vagy hibás
+La lectura deriva o es errónea
+
+#3099
+Instable ou qui saute
+Instável ou saltando
+不稳定或跳变
+Нестабильно или скачет
+Niestabilny lub skacze
+Instabil vagy ugrál
+Inestable o con saltos
+
+#3100
+Déclenchements intempestifs
+Disparos falsos
+误触发
+Ложные срабатывания
+Fałszywe wyzwolenia
+Téves kioldások
+Disparos falsos
+
+#3101
+Rate des détections
+Perde detecções
+漏检
+Пропускает обнаружения
+Pomija wykrycia
+Kihagy észleléseket
+Pierde detecciones
+
+#3102
+Face sensible sale, couverte ou abîmée
+Face sensora suja, coberta ou danificada
+感应面脏污、被遮盖或损坏
+Чувствительная поверхность загрязнена, закрыта или повреждена
+Powierzchnia czynna brudna, zasłonięta lub uszkodzona
+Az érzékelő felület szennyezett, takart vagy sérült
+Cara sensora sucia, cubierta o dañada
+
+#3103
+Câble abîmé, plié ou eau dans le presse-étoupe
+Cabo danificado, dobrado ou água no prensa-cabo
+电缆损坏、扭折，或密封接头里进水
+Кабель повреждён, перегнут или вода в кабельном вводе
+Kabel uszkodzony, załamany lub woda w dławnicy
+A kábel sérült, megtört, vagy víz van a tömszelencében
+Cable dañado, doblado o agua en el prensaestopas
+
+#3104
+Fixation lâche, mal alignée ou mauvaise distance
+Fixação solta, desalinhada ou distância errada
+安装松动、没对准或距离不对
+Крепление ослаблено, смещено или неверное расстояние
+Mocowanie luźne, przesunięte lub zła odległość
+A rögzítés laza, rosszul beállított vagy rossz a távolság
+Montaje flojo, desalineado o distancia incorrecta
+
+#3105
+Exposé à la chaleur, aux vibrations ou au lavage
+Exposto a calor, vibração ou lavagem
+暴露在高温、振动或冲洗环境中
+Подвергается нагреву, вибрации или мойке
+Narażony na ciepło, drgania lub mycie
+Hőnek, rezgésnek vagy lemosásnak kitéve
+Expuesto a calor, vibración o lavado
+
+#3106
+Le voyant LED ne change pas
+O LED indicador não muda
+指示LED没有变化
+Индикаторный светодиод не меняется
+Dioda kontrolna się nie zmienia
+A jelző LED nem változik
+El LED indicador no cambia
+
+#3107
+Ligne d'impulsion bouchée ou contenant de l'air ou du condensat (pression)
+Linha de impulso bloqueada ou com ar ou condensado (pressão)
+取压管路堵塞，或里面有空气或冷凝水（压力）
+Импульсная линия забита или в ней воздух либо конденсат (давление)
+Linia impulsowa zatkana lub z powietrzem lub kondensatem (ciśnienie)
+Az impulzusvezeték eldugult, vagy levegő vagy kondenzátum van benne (nyomás)
+Línea de impulso bloqueada o con aire o condensado (presión)
+
+#3108
+Face sensible sale ou mal alignée
+Face sensora suja ou desalinhada
+感应面脏污或没对准
+Чувствительная поверхность загрязнена или смещена
+Powierzchnia czynna brudna lub źle ustawiona
+Az érzékelő felület szennyezett vagy rosszul beállított
+Cara sensora sucia o desalineada
+
+#3109
+Nettoyez la face, corrigez la distance et l'alignement, serrez la fixation.
+Limpe a face, corrija a distância e o alinhamento e aperte a fixação.
+清洁感应面，纠正距离和对准，拧紧安装件。
+Очистите поверхность, исправьте расстояние и соосность, затяните крепление.
+Wyczyść powierzchnię, popraw odległość i ustawienie, dokręć mocowanie.
+Tisztítsa meg a felületet, javítsa a távolságot és a beállítást, húzza meg a rögzítést.
+Limpie la cara, corrija la distancia y la alineación, y apriete el montaje.
+
+#3110
+Défaut de câble ou de connecteur
+Falha de cabo ou conector
+电缆或连接器故障
+Неисправность кабеля или разъёма
+Usterka kabla lub złącza
+Kábel- vagy csatlakozóhiba
+Fallo de cable o conector
+
+#3111
+Vérifiez la continuité et l'isolement du câble, remplacez le câble ou le connecteur M12, étanchez le presse-étoupe.
+Verifique a continuidade e o isolamento do cabo, substitua o cabo ou o conector M12 e vede o prensa-cabo.
+检查电缆的通断和绝缘，更换电缆或M12连接器，密封好接头。
+Проверьте целостность и изоляцию кабеля, замените кабель или разъём M12, загерметизируйте кабельный ввод.
+Sprawdź ciągłość i izolację kabla, wymień kabel lub złącze M12, uszczelnij dławnicę.
+Ellenőrizze a kábel folytonosságát és szigetelését, cserélje a kábelt vagy az M12 csatlakozót, tömítse a tömszelencét.
+Compruebe la continuidad y el aislamiento del cable, sustituya el cable o el conector M12 y selle el prensaestopas.
+
+#3112
+Capteur défaillant (électronique ou élément)
+Sensor com falha (eletrônica ou elemento)
+传感器损坏（电子部分或敏感元件）
+Отказ датчика (электроника или чувствительный элемент)
+Czujnik uszkodzony (elektronika lub element)
+Meghibásodott érzékelő (elektronika vagy elem)
+Sensor averiado (electrónica o elemento)
+
+#3113
+Remplacez le capteur et trouvez ce qui l'a détruit : chaleur, vibration, surtension ou erreur de câblage.
+Substitua o sensor e descubra o que o matou: calor, vibração, sobretensão ou erro de fiação.
+更换传感器，并查明是什么把它弄坏的：高温、振动、过压或接线错误。
+Замените датчик и выясните, что его вывело из строя: нагрев, вибрация, перенапряжение или ошибка монтажа.
+Wymień czujnik i ustal, co go zniszczyło: ciepło, drgania, przepięcie lub błąd okablowania.
+Cserélje az érzékelőt, és derítse ki, mi ölte meg: hő, rezgés, túlfeszültség vagy huzalozási hiba.
+Sustituya el sensor y averigüe qué lo mató: calor, vibración, sobretensión o un error de cableado.
+
+#3114
+Tension d'alimentation incorrecte ou basse
+Tensão de alimentação errada ou baixa
+供电电压不对或偏低
+Неверное или низкое напряжение питания
+Złe lub niskie napięcie zasilania
+Rossz vagy alacsony betáplálási feszültség
+Tensión de alimentación incorrecta o baja
+
+#3115
+Mesurez aux bornes du capteur en charge. Corrigez l'alimentation ou la chute de tension dans un long câble.
+Meça nos terminais do sensor sob carga. Corrija a alimentação ou a queda de tensão em um cabo longo.
+带载时在传感器端子处测量。纠正电源，或长电缆造成的压降。
+Измерьте на клеммах датчика под нагрузкой. Исправьте питание или падение напряжения в длинном кабеле.
+Zmierz na zaciskach czujnika pod obciążeniem. Napraw zasilanie lub spadek napięcia na długim kablu.
+Mérje meg az érzékelő kapcsain terhelés alatt. Javítsa a betáplálást vagy a hosszú kábel feszültségesését.
+Mida en los bornes del sensor bajo carga. Corrija la alimentación o la caída de tensión en un cable largo.
+
+#3116
+Dérive d'étalonnage ou vieillissement
+Deriva de calibração ou envelhecimento
+校准漂移或老化
+Дрейф калибровки или старение
+Dryf kalibracji lub starzenie
+Kalibrációs sodródás vagy öregedés
+Deriva de calibración o envejecimiento
+
+#3117
+Réétalonnez avec une référence ; remplacez s'il ne tient pas.
+Recalibre com uma referência; substitua se não se mantiver.
+用基准重新校准；如果无法保持精度就更换。
+Откалибруйте заново по эталону; замените, если не держит калибровку.
+Skalibruj ponownie wzorcem; wymień, jeśli nie trzyma kalibracji.
+Kalibrálja újra referenciával; cserélje, ha nem tartja.
+Vuelva a calibrar con una referencia; sustituya si no se mantiene.
+
+#3118
+Étalonnez selon un calendrier avec des étalons raccordés.
+Calibre conforme a programação com padrões rastreáveis.
+定期使用可溯源的标准器进行校准。
+Калибруйте по графику по прослеживаемым эталонам.
+Kalibruj według harmonogramu wzorcami z identyfikowalnością.
+Kalibráljon ütemezetten, nyomon követhető etalonokkal.
+Calibre según un calendario con patrones trazables.
+
+#3119
+Bruit électrique sur le signal
+Ruído elétrico no sinal
+信号上有电气干扰
+Электрические помехи на сигнале
+Zakłócenia elektryczne na sygnale
+Elektromos zaj a jelen
+Ruido eléctrico en la señal
+
+#3120
+Utilisez une paire torsadée blindée, reliez le blindage à la terre à une extrémité, séparez des câbles de puissance, ajoutez du filtrage.
+Use par trançado blindado, aterre a blindagem em uma ponta, separe dos cabos de potência e adicione filtragem.
+使用屏蔽双绞线，屏蔽层单端接地，与动力电缆分开，加装滤波。
+Используйте экранированную витую пару, заземлите экран с одного конца, отделите от силовых кабелей, добавьте фильтрацию.
+Użyj ekranowanej skrętki, uziemij ekran z jednej strony, oddziel od kabli zasilających, dodaj filtrowanie.
+Használjon árnyékolt sodrott érpárt, földelje az árnyékolást az egyik végén, válassza el a teljesítménykábelektől, tegyen be szűrést.
+Use par trenzado apantallado, ponga a tierra la pantalla por un extremo, sepárelo de los cables de potencia y añada filtrado.
+
+#3121
+Problème de raccordement au procédé (ligne bouchée, air, mauvaise plage)
+Problema de conexão ao processo (linha bloqueada, ar, faixa errada)
+过程连接问题（管路堵塞、有空气、量程不对）
+Проблема подключения к процессу (линия забита, воздух, неверный диапазон)
+Problem z przyłączem procesowym (zatkana linia, powietrze, zły zakres)
+Folyamatcsatlakozási probléma (eldugult vezeték, levegő, rossz méréstartomány)
+Problema de conexión al proceso (línea bloqueada, aire, rango incorrecto)
+
+#3122
+Purgez et dégagez la ligne d'impulsion, vérifiez les vannes d'isolement et les réglages de plage.
+Purgue e desobstrua a linha de impulso, verifique as válvulas de isolamento e os ajustes de faixa.
+排气并疏通取压管路，检查隔离阀和量程设置。
+Продуйте и прочистите импульсную линию, проверьте запорные клапаны и настройки диапазона.
+Przedmuchaj i udrożnij linię impulsową, sprawdź zawory odcinające i ustawienia zakresu.
+Légtelenítse és tisztítsa ki az impulzusvezetéket, ellenőrizze az elzáró szelepeket és a méréstartomány beállításait.
+Purgue y despeje la línea de impulso, y compruebe las válvulas de aislamiento y los ajustes de rango.
+
+#3123
+La LED suit la cible
+O LED acompanha o alvo
+LED跟随目标变化
+Светодиод следует за объектом
+Dioda podąża za obiektem
+A LED követi a célt
+El LED sigue al objetivo
+
+#3124
+La LED ne change pas
+O LED não muda
+LED不变化
+Светодиод не меняется
+Dioda się nie zmienia
+A LED nem változik
+El LED no cambia
+
+#3125
+La LED scintille
+O LED pisca
+LED闪烁
+Светодиод мерцает
+Dioda miga
+A LED villog
+El LED parpadea
+
+#3126
+Observez la LED témoin pendant que vous présentez une cible
+Observe o LED indicador enquanto apresenta um alvo
+放入目标时观察指示LED
+Наблюдайте за индикаторным светодиодом, поднося объект
+Obserwuj diodę kontrolną, zbliżając obiekt
+Figyelje a jelző LED-et, miközben célt mutat az érzékelőnek
+Observe el LED indicador mientras presenta un objetivo
+
+#3127
+Présentez puis retirez une cible. La LED doit suivre. Pour les capteurs analogiques, utilisez une entrée simulée.
+Apresente e retire um alvo. O LED deve acompanhar. Para sensores analógicos, use uma entrada simulada.
+放入再移开目标。LED应当跟着变化。模拟量传感器则使用模拟输入。
+Поднесите и уберите объект. Светодиод должен следовать за ним. Для аналоговых датчиков используйте имитируемый вход.
+Zbliż i odsuń obiekt. Dioda powinna podążać. Dla czujników analogowych użyj symulowanego wejścia.
+Mutasson be, majd vegyen el egy célt. A LED-nek követnie kell. Analóg érzékelőknél használjon szimulált bemenetet.
+Presente y retire un objetivo. El LED debe seguirlo. En sensores analógicos, use una entrada simulada.
+
+#3128
+Dans la spécification
+Dentro da especificação
+在规格范围内
+В пределах спецификации
+W zakresie specyfikacji
+A specifikáción belül
+Dentro de la especificación
+
+#3129
+Basse ou absente
+Baixa ou ausente
+偏低或没有
+Низкое или отсутствует
+Niskie lub brak
+Alacsony vagy hiányzik
+Baja o ausente
+
+#3130
+Tension aux bornes du capteur
+Tensão nos terminais do sensor
+传感器端子处的电压
+Напряжение на клеммах датчика
+Napięcie na zaciskach czujnika
+Feszültség az érzékelő kapcsain
+Tensión en los bornes del sensor
+
+#3131
+Mesurez la tension d'alimentation au niveau du capteur lui-même, le circuit étant en charge.
+Meça a tensão de alimentação no próprio sensor, com o circuito carregado.
+在电路带载的情况下，在传感器本身处测量供电电压。
+Измерьте напряжение питания непосредственно на датчике при нагруженной цепи.
+Zmierz napięcie zasilania na samym czujniku przy obciążonym obwodzie.
+Mérje meg a betáplálási feszültséget magán az érzékelőn, terhelt áramkörnél.
+Mida la tensión de alimentación en el propio sensor con el circuito en carga.
+
+#3132
+Correspond au procédé
+Corresponde ao processo
+与过程相符
+Соответствует процессу
+Zgadza się z procesem
+Megfelel a folyamatnak
+Coincide con el proceso
+
+#3133
+Sous 3,6 mA (coupure)
+Abaixo de 3,6 mA (rompimento)
+低于3.6 mA（断线）
+Ниже 3,6 мА (обрыв)
+Poniżej 3,6 mA (zerwanie)
+3,6 mA alatt (szakadás)
+Por debajo de 3,6 mA (rotura)
+
+#3134
+Au-dessus de 21 mA
+Acima de 21 mA
+高于21 mA
+Выше 21 мА
+Powyżej 21 mA
+21 mA felett
+Por encima de 21 mA
+
+#3135
+Différent du procédé, mais pas une valeur de défaut
+Diferente do processo, mas não um valor de falha
+与过程不符，但也不是故障值
+Отличается от процесса, но не является значением неисправности
+Inna niż proces, ale nie jest to wartość błędu
+Eltér a folyamattól, de nem hibaérték
+Distinto del proceso, pero no es un valor de fallo
+
+#3136
+Courant de boucle ou signal de sortie avec un calibrateur
+Corrente da malha ou sinal de saída com um calibrador
+用校准器测量回路电流或输出信号
+Ток петли или выходной сигнал калибратором
+Prąd pętli lub sygnał wyjściowy kalibratorem
+Hurokáram vagy kimeneti jel kalibrátorral
+Corriente del lazo o señal de salida con un calibrador
+
+#3137
+Mesurez la boucle 4-20 mA en série, ou la sortie côté automate et côté capteur. Ou injectez un signal connu sur l'entrée de l'automate.
+Meça a malha de 4-20 mA em série, ou a saída no lado do CLP e no lado do sensor. Ou injete um sinal conhecido na entrada do CLP.
+串联测量4-20 mA回路，或对比PLC端和传感器端的输出。也可以在PLC输入端注入一个已知信号。
+Измерьте петлю 4–20 мА последовательно либо выход на стороне ПЛК и на стороне датчика. Или подайте известный сигнал на вход ПЛК.
+Zmierz pętlę 4-20 mA szeregowo albo wyjście po stronie PLC i po stronie czujnika. Lub podaj znany sygnał na wejście PLC.
+Mérje meg sorosan a 4-20 mA-es hurkot, vagy a kimenetet a PLC és az érzékelő oldalán. Vagy adjon ismert jelet a PLC bemenetére.
+Mida en serie el lazo de 4-20 mA, o la salida en el lado del PLC y en el del sensor. O inyecte una señal conocida en la entrada del PLC.
+
+#3138
+Bon
+Bom
+良好
+Хорошо
+Dobry
+Jó
+Bueno
+
+#3139
+Ouvert, court-circuit ou isolement faible
+Aberto, curto ou isolamento baixo
+开路、短路或绝缘偏低
+Обрыв, короткое замыкание или низкая изоляция
+Przerwa, zwarcie lub niska izolacja
+Szakadt, zárlatos vagy alacsony szigetelés
+Abierto, en cortocircuito o aislamiento bajo
+
+#3140
+Tester le câble : continuité et isolement
+Testar o cabo: continuidade e isolamento
+测试电缆：通断和绝缘
+Проверьте кабель: целостность и изоляцию
+Przetestuj kabel: ciągłość i izolację
+Tesztelje a kábelt: folytonosság és szigetelés
+Probar el cable: continuidad y aislamiento
+
+#3141
+Isolé, déconnecté aux deux extrémités. Continuité de chaque âme, isolement entre âmes et vers l'écran.
+Isolado, desconectado nas duas pontas. Continuidade de cada veia, isolamento entre veias e para a blindagem.
+已隔离，两端都已断开。检查每根线芯的通断，以及线芯之间和对屏蔽层的绝缘。
+Изолировано, отсоединено с обоих концов. Целостность каждой жилы, изоляция между жилами и на экран.
+Odizolowany, odłączony z obu końców. Ciągłość każdej żyły, izolacja między żyłami i względem ekranu.
+Leválasztva, mindkét végén lekötve. Minden ér folytonossága, az erek közötti és az árnyékolás felé mért szigetelés.
+Aislado, desconectado por ambos extremos. Continuidad de cada hilo, aislamiento entre hilos y hacia la pantalla.
+
+#3142
+Le défaut disparaît
+A falha desaparece
+故障消失了
+Неисправность исчезает
+Usterka znika
+A hiba megszűnik
+El fallo desaparece
+
+#3143
+Le défaut reste
+A falha permanece
+故障依然存在
+Неисправность остаётся
+Usterka pozostaje
+A hiba megmarad
+El fallo se mantiene
+
+#3144
+Échanger avec un capteur connu bon
+Trocar por um sensor comprovadamente bom
+换上一个确认完好的传感器
+Заменить заведомо исправным датчиком
+Wymień na sprawny czujnik
+Cserélje ki egy ismerten jó érzékelőre
+Cambiar por un sensor que se sepa que funciona
+
+#3145
+Montez un capteur connu bon du même type sur le même câble et voyez si le défaut suit.
+Instale um sensor comprovadamente bom do mesmo tipo no mesmo cabo e veja se a falha o acompanha.
+在同一根电缆上装一个同型号的完好传感器，看故障是否跟着走。
+Установите заведомо исправный датчик того же типа на тот же кабель и посмотрите, перейдёт ли неисправность.
+Podłącz sprawny czujnik tego samego typu do tego samego kabla i sprawdź, czy usterka za nim podąża.
+Szereljen fel egy ismerten jó, azonos típusú érzékelőt ugyanarra a kábelre, és nézze meg, követi-e a hiba.
+Monte un sensor del mismo tipo que se sepa que funciona en el mismo cable y vea si el fallo lo sigue.
+
+#3146
+Transformateur ou transformateur de commande
+Transformador ou transformador de controle
+变压器或控制变压器
+Трансформатор или трансформатор цепей управления
+Transformator lub transformator sterowniczy
+Transzformátor vagy vezérlőtranszformátor
+Transformador o transformador de control
+
+#3147
+Vérifiez d'abord les fusibles primaire et secondaire et les tensions de la plaque signalétique. Le ronflement et la chaleur viennent en général d'une surcharge ou du noyau.
+Verifique primeiro os fusíveis primário e secundário e as tensões da placa. Zumbido e calor geralmente são sobrecarga ou problemas no núcleo.
+先检查初级和次级熔断器，以及铭牌上的电压。嗡嗡声和发热通常是过载或铁芯的问题。
+Сначала проверьте предохранители первичной и вторичной цепей и напряжения на шильдике. Гул и нагрев обычно связаны с перегрузкой или сердечником.
+Najpierw sprawdź bezpieczniki pierwotny i wtórny oraz napięcia z tabliczki znamionowej. Buczenie i ciepło to zwykle przeciążenie lub problem z rdzeniem.
+Először a primer és szekunder biztosítékokat és a típustáblán szereplő feszültségeket ellenőrizze. A zúgás és a hő általában túlterhelés vagy a vasmag problémája.
+Compruebe primero los fusibles primario y secundario y las tensiones de la placa. El zumbido y el calor suelen ser sobrecarga o problemas del núcleo.
+
+#3148
+Pas de tension de sortie
+Sem tensão de saída
+没有输出电压
+Нет выходного напряжения
+Brak napięcia wyjściowego
+Nincs kimeneti feszültség
+Sin tensión de salida
+
+#3149
+Tension de sortie basse
+Tensão de saída baixa
+输出电压偏低
+Выходное напряжение низкое
+Niskie napięcie wyjściowe
+Alacsony kimeneti feszültség
+Tensión de salida baja
+
+#3150
+Chauffe
+Esquenta
+发热
+Греется
+Nagrzewa się
+Melegszik
+Se calienta
+
+#3151
+Fort ronflement ou bourdonnement
+Zumbido ou vibração alto
+嗡嗡声或蜂鸣声很大
+Громкий гул или жужжание
+Głośne buczenie lub brzęczenie
+Hangos zúgás vagy berregés
+Zumbido fuerte
+
+#3152
+Le fusible ou le disjoncteur primaire saute
+O fusível ou disjuntor primário atua
+初级熔断器或断路器跳闸
+Срабатывает первичный предохранитель или автомат
+Bezpiecznik lub wyłącznik pierwotny zadziała
+A primer biztosíték vagy megszakító kiold
+Salta el fusible o interruptor automático del primario
+
+#3153
+Isolant de l'enroulement brûlé ou vernis cloqué
+Isolação do enrolamento queimada ou verniz empolado
+绕组绝缘烧焦或漆层起泡
+Изоляция обмотки обгорела или лак вздулся
+Izolacja uzwojenia spalona lub lakier pęcherzowy
+A tekercs szigetelése megégett vagy a lakk felbuborékosodott
+Aislamiento del bobinado quemado o barniz con ampollas
+
+#3154
+Bornes ou connexions de prises brûlées
+Terminais ou conexões de derivação queimados
+端子或抽头连接烧毁
+Клеммы или соединения отпаек обгорели
+Zaciski lub połączenia odczepów spalone
+A kapcsok vagy leágazási csatlakozások kiégtek
+Bornes o conexiones de tomas quemados
+
+#3155
+Tôles du noyau desserrées ou boulons desserrés
+Chapas do núcleo soltas ou parafusos soltos
+铁芯叠片松动或螺栓松动
+Пластины сердечника ослабли или болты ослаблены
+Blachy rdzenia luźne lub śruby luźne
+A vasmaglemezek vagy a csavarok lazák
+Chapas del núcleo flojas o tornillos flojos
+
+#3156
+Fuite d'huile ou huile noire (à bain d'huile)
+Vazamento de óleo ou óleo escuro (imerso em óleo)
+漏油或油色发黑（油浸式）
+Течь масла или тёмное масло (маслонаполненный)
+Wyciek oleju lub ciemny olej (olejowy)
+Olajszivárgás vagy sötét olaj (olajtöltésű)
+Fuga de aceite o aceite oscuro (en baño de aceite)
+
+#3157
+Secondaire en surcharge
+Secundário sobrecarregado
+次级过载
+Перегрузка вторичной обмотки
+Przeciążone uzwojenie wtórne
+Túlterhelt szekunder
+Secundario sobrecargado
+
+#3158
+Réduisez la charge ou montez un transformateur plus gros. L'appel de courant des bobines de contacteurs compte aussi : vérifiez les VA.
+Reduza a carga ou instale um transformador maior. A corrente de partida das bobinas dos contatores também conta: verifique os VA.
+减小负载或换用更大的变压器。接触器线圈的吸合冲击电流也要算进去：核对VA。
+Уменьшите нагрузку или установите трансформатор большей мощности. Пусковой ток катушек контакторов тоже учитывается: проверьте ВА.
+Zmniejsz obciążenie lub zamontuj większy transformator. Liczy się też prąd rozruchowy cewek styczników: sprawdź VA.
+Csökkentse a terhelést, vagy építsen be nagyobb transzformátort. A kontaktortekercsek bekapcsolási árama is számít: ellenőrizze a VA-t.
+Reduzca la carga o monte un transformador mayor. También cuenta el pico de arranque de las bobinas de los contactores: compruebe los VA.
+
+#3159
+Spires en court-circuit ou défaut d'enroulement
+Espiras em curto ou falha no enrolamento
+匝间短路或绕组故障
+Короткозамкнутые витки или неисправность обмотки
+Zwarte zwoje lub usterka uzwojenia
+Menetzárlat vagy tekercshiba
+Espiras en cortocircuito o fallo del bobinado
+
+#3160
+Remplacez ou rebobinez. Cherchez un court-circuit en aval comme cause.
+Substitua ou rebobine. Procure um curto a jusante como causa.
+更换或重绕。检查下游是否有短路作为原因。
+Замените или перемотайте. Ищите причину в коротком замыкании на стороне нагрузки.
+Wymień lub przewiń. Szukaj przyczyny w zwarciu za transformatorem.
+Cserélje vagy tekercselje újra. Okként keressen zárlatot a transzformátor utáni részen.
+Sustituya o rebobine. Busque como causa un cortocircuito aguas abajo.
+
+#3161
+Enroulement ouvert ou protection fondue
+Enrolamento aberto ou proteção queimada
+绕组开路或保护器件烧断
+Обмотка оборвана или сработала защита
+Uzwojenie przerwane lub zabezpieczenie przepalone
+A tekercs szakadt vagy a védelem kiégett
+Bobinado abierto o protección fundida
+
+#3162
+Vérifiez d'abord les fusibles, puis les résistances d'enroulement, puis les bornes.
+Verifique primeiro os fusíveis, depois as resistências dos enrolamentos e depois os terminais.
+先查熔断器，再查绕组电阻，然后查端子。
+Сначала проверьте предохранители, затем сопротивления обмоток, затем клеммы.
+Najpierw sprawdź bezpieczniki, potem rezystancje uzwojeń, potem zaciski.
+Először a biztosítékokat ellenőrizze, majd a tekercsellenállásokat, utána a kapcsokat.
+Compruebe primero los fusibles, luego las resistencias de los bobinados y después los bornes.
+
+#3163
+Mauvaise prise ou mauvaise tension primaire
+Derivação errada ou tensão primária errada
+抽头或初级电压不对
+Неверная отпайка или первичное напряжение
+Zły odczep lub napięcie pierwotne
+Rossz leágazás vagy primer feszültség
+Toma incorrecta o tensión primaria incorrecta
+
+#3164
+Comparez l'alimentation primaire avec la prise. Changez la prise ou corrigez l'alimentation.
+Compare a alimentação primária com a derivação. Mude a derivação ou corrija a alimentação.
+把初级供电与所接抽头对照。换抽头，或纠正供电。
+Сравните первичное питание с отпайкой. Переключите отпайку или исправьте питание.
+Porównaj zasilanie pierwotne z odczepem. Zmień odczep lub napraw zasilanie.
+Vesse össze a primer betáplálást a leágazással. Váltson leágazást, vagy javítsa a betáplálást.
+Compare la alimentación primaria con la toma. Cambie la toma o corrija la alimentación.
+
+#3165
+Connexion desserrée ou borne brûlée
+Conexão solta ou terminal queimado
+连接松动或端子烧毁
+Ослабленное соединение или сгоревшая клемма
+Luźne połączenie lub spalony zacisk
+Laza csatlakozás vagy kiégett kapocs
+Conexión floja o borne quemado
+
+#3166
+Reconnectez et serrez au couple.
+Refaça a terminação e aplique o torque.
+重新接线并按扭矩拧紧。
+Заново подключите и затяните с нужным моментом.
+Wykonaj połączenie na nowo i dokręć momentem.
+Kösse be újra, és húzza meg az előírt nyomatékkal.
+Vuelva a conectar y apriete al par.
+
+#3167
+Noyau desserré ou surexcitation
+Núcleo solto ou sobre-excitação
+铁芯松动或过励磁
+Ослабленный сердечник или перевозбуждение
+Luźny rdzeń lub przewzbudzenie
+Laza vasmag vagy túlgerjesztés
+Núcleo flojo o sobreexcitación
+
+#3168
+Resserrez le noyau, vérifiez que l'alimentation n'a pas de surtension ni de composante continue.
+Reaperte o núcleo e verifique se a alimentação tem sobretensão ou offset CC.
+紧固铁芯，检查电源是否过压或有直流偏置。
+Подтяните сердечник, проверьте питание на перенапряжение или постоянную составляющую.
+Dokręć rdzeń, sprawdź zasilanie pod kątem przepięcia lub składowej stałej.
+Húzza meg a vasmagot, ellenőrizze a betáplálást túlfeszültség vagy DC-eltolás szempontjából.
+Apriete el núcleo y compruebe si la alimentación tiene sobretensión o componente continua.
+
+#3169
+Correspond à la prise
+Corresponde à derivação
+与抽头相符
+Соответствует отпайке
+Zgadza się z odczepem
+Megfelel a leágazásnak
+Coincide con la toma
+
+#3170
+Pas de tension primaire
+Sem tensão primária
+没有初级电压
+Нет первичного напряжения
+Brak napięcia pierwotnego
+Nincs primer feszültség
+Sin tensión primaria
+
+#3171
+Mesurer la tension primaire et la prise
+Medir a tensão primária e a derivação
+测量初级电压和抽头
+Измерьте первичное напряжение и отпайку
+Zmierz napięcie pierwotne i odczep
+Mérje meg a primer feszültséget és a leágazást
+Medir la tensión primaria y la toma
+
+#3172
+Sous tension : mesurez la tension aux bornes du primaire et comparez avec la prise utilisée.
+Energizado: meça a tensão nos terminais do primário e compare com a derivação usada.
+带电测量：测初级端子上的电压，并与所接抽头对照。
+Под напряжением: измерьте напряжение на клеммах первичной обмотки и сравните с используемой отпайкой.
+Pod napięciem: zmierz napięcie na zaciskach uzwojenia pierwotnego i porównaj z użytym odczepem.
+Feszültség alatt: mérje meg a primer kapcsokon a feszültséget, és vesse össze a használt leágazással.
+En tensión: mida la tensión en los bornes del primario y compárela con la toma utilizada.
+
+#3173
+Correcte à vide, basse en charge
+Correto sem carga, baixo com carga
+空载正常，带载偏低
+Верно без нагрузки, низкое под нагрузкой
+Prawidłowe bez obciążenia, niskie pod obciążeniem
+Terheletlenül helyes, terhelve alacsony
+Correcta en vacío, baja con carga
+
+#3174
+Zéro à vide
+Zero sem carga
+空载为零
+Ноль без нагрузки
+Zero bez obciążenia
+Nulla terheletlenül
+Cero en vacío
+
+#3175
+Basse à vide
+Baixa sem carga
+空载偏低
+Низкое без нагрузки
+Niskie bez obciążenia
+Alacsony terheletlenül
+Baja en vacío
+
+#3176
+Mesurer le secondaire à vide et en charge
+Medir o secundário sem carga e com carga
+测量次级空载和带载电压
+Измерьте вторичное напряжение без нагрузки и под нагрузкой
+Zmierz wtórne bez obciążenia i pod obciążeniem
+Mérje meg a szekundert terheletlenül és terhelve
+Medir el secundario en vacío y en carga
+
+#3177
+Mesurez la tension du secondaire charge déconnectée, puis connectée.
+Meça a tensão do secundário com a carga desconectada e depois conectada.
+先断开负载测次级电压，再接上负载测一次。
+Измерьте напряжение вторичной обмотки при отсоединённой нагрузке, затем при подключённой.
+Zmierz napięcie wtórne z odłączonym obciążeniem, a potem z podłączonym.
+Mérje meg a szekunder feszültséget lekötött, majd csatlakoztatott terheléssel.
+Mida la tensión del secundario con la carga desconectada y luego conectada.
+
+#3178
+Plausible
+Plausível
+合理
+Правдоподобно
+Wiarygodne
+Hihető
+Plausible
+
+#3179
+Bien plus bas que prévu
+Muito mais baixa que o esperado
+比预期低很多
+Намного ниже ожидаемого
+Znacznie niższe niż oczekiwane
+Sokkal alacsonyabb a vártnál
+Mucho más baja de lo esperado
+
+#3180
+Résistance d'enroulement et continuité (isolé)
+Resistência do enrolamento e continuidade (isolado)
+绕组电阻和通断（已隔离）
+Сопротивление обмотки и целостность (изолировано)
+Rezystancja uzwojenia i ciągłość (odizolowany)
+Tekercsellenállás és folytonosság (leválasztva)
+Resistencia del bobinado y continuidad (aislado)
+
+#3181
+Isolé : mesurez les résistances du primaire et du secondaire et comparez avec la fiche technique ou une unité identique.
+Isolado: meça as resistências do primário e do secundário e compare com a folha de dados ou uma unidade idêntica.
+已隔离：测量初级和次级电阻，并与数据手册或同型号的设备对比。
+Изолировано: измерьте сопротивления первичной и вторичной обмоток и сравните с паспортными данными или с таким же аппаратом.
+Odizolowany: zmierz rezystancje uzwojenia pierwotnego i wtórnego i porównaj z kartą katalogową lub identycznym urządzeniem.
+Leválasztva: mérje meg a primer és szekunder ellenállását, és vesse össze az adatlappal vagy egy azonos egységgel.
+Aislado: mida las resistencias del primario y del secundario y compárelas con la hoja de datos o una unidad idéntica.
+
+#3182
+Mesurer au mégohmmètre le primaire vers le secondaire et vers la terre
+Meça com megôhmetro do primário para o secundário e para a terra
+用兆欧表测初级对次级以及对地的绝缘
+Проверьте мегаомметром первичную обмотку на вторичную и на землю
+Zmierz megaomomierzem uzwojenie pierwotne względem wtórnego i względem ziemi
+Mérje meg szigetelésmérővel a primert a szekunderhez és a földhöz képest
+Medir con el megóhmetro el primario respecto al secundario y a tierra
+
+#3183
+Isolé : 500 V entre enroulements et de chacun vers le noyau.
+Isolado: 500 V entre enrolamentos e de cada um para o núcleo.
+已隔离：绕组之间以及每个绕组对铁芯施加500 V。
+Изолировано: 500 В между обмотками и от каждой на сердечник.
+Odizolowany: 500 V między uzwojeniami i od każdego do rdzenia.
+Leválasztva: 500 V a tekercsek között és mindegyikről a vasmagra.
+Aislado: 500 V entre bobinados y de cada uno al núcleo.
+
+#3184
+Électrovanne ou actionneur
+Válvula solenoide ou atuador
+电磁阀或执行器
+Соленоидный клапан или привод
+Elektrozawór lub siłownik
+Mágnesszelep vagy működtető
+Electroválvula o actuador
+
+#3185
+Vérifiez trois choses dans l'ordre : la tension à la bobine, la résistance de la bobine et la partie mécanique (saleté, pression, mauvais orifice).
+Verifique três coisas em ordem: a tensão na bobina, a resistência da bobina e o lado mecânico (sujeira, pressão, via errada).
+按顺序检查三件事：线圈上的电压、线圈电阻，以及机械部分（脏污、压力、接错的口）。
+Проверьте три вещи по порядку: напряжение на катушке, сопротивление катушки и механическую часть (грязь, давление, не тот порт).
+Sprawdź trzy rzeczy po kolei: napięcie na cewce, rezystancję cewki i część mechaniczną (brud, ciśnienie, zły port).
+Három dolgot ellenőrizzen sorrendben: a feszültséget a tekercsen, a tekercs ellenállását és a mechanikai oldalt (szennyeződés, nyomás, rossz csatlakozónyílás).
+Compruebe tres cosas en orden: la tensión en la bobina, la resistencia de la bobina y el lado mecánico (suciedad, presión, vía equivocada).
+
+#3186
+Une bobine qui brûle à répétition vient généralement d'une surtension, d'un plongeur coincé ou d'une chaleur constante. Corrigez la cause.
+Uma bobina que queima repetidamente geralmente é por sobretensão, êmbolo travado ou calor constante. Corrija a causa.
+线圈反复烧毁，通常是由于过压、衔铁卡住或持续发热。要把原因解决掉。
+Катушка, которая сгорает снова и снова, обычно страдает от перенапряжения, заклинившего плунжера или постоянного нагрева. Устраните причину.
+Cewka, która się wielokrotnie przepala, zwykle cierpi z powodu przepięcia, zablokowanego tłoczka lub stałego nagrzewania. Usuń przyczynę.
+Az a tekercs, amely ismételten kiég, általában túlfeszültségtől, beragadt dugattyútól vagy állandó hőtől szenved. Szüntesse meg az okot.
+Una bobina que se quema repetidamente suele deberse a sobretensión, un núcleo atascado o calor constante. Corrija la causa.
+
+#3187
+Ne bouge pas
+Não se move
+不动作
+Не двигается
+Nie rusza się
+Nem mozdul
+No se mueve
+
+#3188
+Reste ouverte ou fuit
+Fica aberta ou vaza
+保持打开或内漏
+Остаётся открытым или протекает
+Pozostaje otwarty lub przecieka
+Nyitva marad vagy átereszt
+Se queda abierta o pierde
+
+#3189
+Action lente ou faible
+Ação lenta ou fraca
+动作慢或无力
+Медленное или слабое срабатывание
+Wolne lub słabe działanie
+Lassú vagy gyenge működés
+Acción lenta o débil
+
+#3190
+Bobine chaude ou brûlée
+Bobina quente ou queimada
+线圈发烫或烧毁
+Катушка горячая или сгорела
+Cewka gorąca lub spalona
+A tekercs forró vagy kiégett
+Bobina caliente o quemada
+
+#3191
+Ronfle ou bourdonne (bobine CA)
+Zumbe ou vibra (bobina CA)
+嗡嗡响或蜂鸣（交流线圈）
+Гудит или жужжит (катушка переменного тока)
+Buczy lub brzęczy (cewka AC)
+Zúg vagy berreg (AC tekercs)
+Zumba o vibra (bobina de CA)
+
+#3192
+Le fusible ou la sortie déclenche
+O fusível ou a saída atua
+熔断器或输出保护跳闸
+Срабатывает предохранитель или защита выхода
+Bezpiecznik lub wyjście zadziała
+A biztosíték vagy a kimenet kiold
+Salta el fusible o la salida
+
+#3193
+Fuit à l'extérieur
+Vaza externamente
+外漏
+Течёт наружу
+Przecieka na zewnątrz
+Kívülre szivárog
+Pierde hacia el exterior
+
+#3194
+Bobine brûlée, décolorée ou fondue
+Bobina queimada, descolorida ou derretida
+线圈烧焦、变色或熔化
+Катушка сгорела, изменила цвет или оплавилась
+Cewka spalona, przebarwiona lub stopiona
+A tekercs kiégett, elszíneződött vagy megolvadt
+Bobina quemada, descolorida o derretida
+
+#3195
+Saleté, tartre ou débris dans la vanne
+Sujeira, incrustação ou detritos dentro da válvula
+阀内有污物、水垢或杂质
+Грязь, накипь или мусор внутри клапана
+Brud, kamień lub zanieczyszczenia wewnątrz zaworu
+Szennyeződés, vízkő vagy törmelék a szelepben
+Suciedad, incrustaciones o residuos dentro de la válvula
+
+#3196
+Joint gonflé, durci ou déchiré
+Vedação inchada, dura ou rasgada
+密封件膨胀、变硬或撕裂
+Уплотнение разбухло, затвердело или порвано
+Uszczelka spęczniała, stwardniała lub porwana
+A tömítés megduzzadt, megkeményedett vagy elszakadt
+Junta hinchada, dura o rota
+
+#3197
+Plongeur rayé, rouillé ou coincé
+Êmbolo riscado, enferrujado ou travado
+衔铁有划痕、生锈或卡住
+Плунжер поцарапан, ржавый или заклинил
+Tłoczek porysowany, zardzewiały lub zablokowany
+A dugattyú karcos, rozsdás vagy beragadt
+Núcleo rayado, oxidado o atascado
+
+#3198
+Eau dans le boîtier de bobine ou le connecteur
+Água na carcaça da bobina ou no conector
+线圈壳体或连接器内进水
+Вода в корпусе катушки или разъёме
+Woda w obudowie cewki lub w złączu
+Víz a tekercsházban vagy a csatlakozóban
+Agua en la carcasa de la bobina o en el conector
+
+#3199
+Pression de service hors de la plage de la vanne
+Pressão de operação fora da faixa da válvula
+工作压力超出阀的范围
+Рабочее давление вне диапазона клапана
+Ciśnienie robocze poza zakresem zaworu
+Az üzemi nyomás a szelep tartományán kívül van
+Presión de trabajo fuera del rango de la válvula
+
+#3200
+Remplacez la bobine (même tension, CA / CC, et même taille). Trouvez pourquoi : surtension, toujours sous tension, plongeur coincé.
+Substitua a bobina (mesma tensão, CA / CC e tamanho). Descubra por quê: sobretensão, sempre ligada, êmbolo travado.
+更换线圈（电压、交流/直流和尺寸都要相同）。查明原因：过压、一直通电、衔铁卡住。
+Замените катушку (то же напряжение, AC / DC и размер). Выясните причину: перенапряжение, постоянно включена, заклинивший плунжер.
+Wymień cewkę (to samo napięcie, AC / DC i rozmiar). Ustal dlaczego: przepięcie, stale włączona, zablokowany tłoczek.
+Cserélje a tekercset (azonos feszültség, AC / DC és méret). Derítse ki, miért: túlfeszültség, állandóan bekapcsolva, beragadt dugattyú.
+Sustituya la bobina (misma tensión, CA / CC y tamaño). Averigüe por qué: sobretensión, siempre conectada, núcleo atascado.
+
+#3201
+Débris ou tartre qui bloque la vanne
+Detritos ou incrustações bloqueando a válvula
+杂质或水垢堵塞了阀
+Мусор или накипь блокирует клапан
+Zanieczyszczenia lub kamień blokują zawór
+Törmelék vagy vízkő blokkolja a szelepet
+Residuos o incrustaciones que bloquean la válvula
+
+#3202
+Nettoyez ou remplacez la vanne, posez un filtre en amont.
+Limpe ou substitua a válvula e instale um filtro a montante.
+清洗或更换阀，并在上游加装过滤器。
+Очистите или замените клапан, установите фильтр перед ним.
+Wyczyść lub wymień zawór, zamontuj filtr przed nim.
+Tisztítsa vagy cserélje a szelepet, szereljen be szűrőt előtte.
+Limpie o sustituya la válvula y monte un filtro aguas arriba.
+
+#3203
+Posez un filtre et rincez la ligne.
+Instale um filtro e lave a linha.
+装上过滤器并冲洗管路。
+Установите фильтр и промойте линию.
+Zamontuj filtr i przepłucz linię.
+Szereljen be szűrőt, és öblítse át a vezetéket.
+Monte un filtro y purgue la línea.
+
+#3204
+Joint ou membrane usé
+Vedação ou diafragma desgastado
+密封件或膜片磨损
+Изношенное уплотнение или мембрана
+Zużyta uszczelka lub membrana
+Elhasználódott tömítés vagy membrán
+Junta o membrana desgastada
+
+#3205
+Remplacez le kit de joints et vérifiez la compatibilité avec le fluide.
+Substitua o kit de vedação e verifique a compatibilidade com o fluido.
+更换密封件套件，并检查与介质的兼容性。
+Замените ремонтный комплект уплотнений и проверьте совместимость с рабочей средой.
+Wymień zestaw uszczelek i sprawdź zgodność z medium.
+Cserélje a tömítéskészletet, és ellenőrizze az összeférhetőséget a közeggel.
+Sustituya el kit de juntas y compruebe la compatibilidad con el fluido.
+
+#3206
+Tension basse à la bobine
+Tensão baixa na bobina
+线圈电压低
+Низкое напряжение на катушке
+Niskie napięcie na cewce
+Alacsony feszültség a tekercsen
+Tensión baja en la bobina
+
+#3207
+Mesurez à la bobine en fonctionnement. Corrigez l'alimentation ou la chute de tension.
+Meça na bobina em operação. Corrija a alimentação ou a queda de tensão.
+在工作状态下测量线圈上的电压。纠正电源或压降。
+Измерьте на катушке во время работы. Исправьте питание или падение напряжения.
+Zmierz na cewce podczas pracy. Napraw zasilanie lub spadek napięcia.
+Mérjen a tekercsen működés közben. Javítsa a betáplálást vagy a feszültségesést.
+Mida en la bobina en funcionamiento. Corrija la alimentación o la caída de tensión.
+
+#3208
+Pression hors des limites de la vanne
+Pressão fora dos limites da válvula
+压力超出阀的限值
+Давление вне пределов клапана
+Ciśnienie poza granicami zaworu
+A nyomás a szelep határain kívül van
+Presión fuera de los límites de la válvula
+
+#3209
+Comparez la pression de ligne avec les données de la vanne (différentiel min / max). Choisissez en conséquence une vanne à servocommande ou à action directe.
+Compare a pressão da linha com os dados da válvula (diferencial mín. / máx.). Escolha uma válvula servoassistida ou de ação direta conforme o caso.
+把管路压力与阀的数据（最小/最大压差）对比。据此选择先导式或直动式阀。
+Сравните давление в линии с данными клапана (минимальный / максимальный перепад). Выберите сервоуправляемый или прямого действия клапан соответственно.
+Porównaj ciśnienie w linii z danymi zaworu (różnica ciśnień min / maks). Wybierz odpowiednio zawór sterowany pośrednio lub bezpośredniego działania.
+Vesse össze a vezeték nyomását a szelep adataival (min / max nyomáskülönbség). Ennek megfelelően válasszon előirányítású vagy közvetlen működésű szelepet.
+Compare la presión de la línea con los datos de la válvula (diferencial mín. / máx.). Elija en consecuencia una válvula servoasistida o de acción directa.
+
+#3210
+Défaut de connecteur ou de câblage
+Falha de conector ou fiação
+连接器或接线故障
+Неисправность разъёма или проводки
+Usterka złącza lub okablowania
+Csatlakozó- vagy huzalozási hiba
+Fallo de conector o de cableado
+
+#3211
+Vérifiez le connecteur, les joints et le câble. Réparez la fuite dans le connecteur.
+Verifique o conector, as vedações e o cabo. Corrija o vazamento no conector.
+检查连接器、密封件和电缆。排除连接器里的渗漏。
+Проверьте разъём, уплотнения и кабель. Устраните протечку в разъём.
+Sprawdź złącze, uszczelki i kabel. Usuń przeciek do złącza.
+Ellenőrizze a csatlakozót, a tömítéseket és a kábelt. Szüntesse meg a csatlakozóba jutó szivárgást.
+Compruebe el conector, las juntas y el cable. Repare la fuga hacia el conector.
+
+#3212
+Plongeur coincé ou endommagé
+Êmbolo travado ou danificado
+衔铁卡住或损坏
+Плунжер заклинил или повреждён
+Tłoczek zablokowany lub uszkodzony
+A dugattyú beragadt vagy sérült
+Núcleo atascado o dañado
+
+#3213
+Remplacez le corps de vanne ou l'ensemble plongeur.
+Substitua o corpo da válvula ou o conjunto do êmbolo.
+更换阀体或衔铁组件。
+Замените корпус клапана или узел плунжера.
+Wymień korpus zaworu lub zespół tłoczka.
+Cserélje a szeleptestet vagy a dugattyú-egységet.
+Sustituya el cuerpo de la válvula o el conjunto del núcleo.
+
+#3214
+Tension nominale
+Tensão nominal
+额定电压
+Номинальное напряжение
+Napięcie znamionowe
+Névleges feszültség
+Tensión nominal
+
+#3215
+Aucune
+Nenhuma
+没有
+Нет
+Brak
+Nincs
+Ninguna
+
+#3216
+Tension à la bobine quand elle est commandée
+Tensão na bobina quando comandada
+接到动作命令时线圈上的电压
+Напряжение на катушке при подаче команды
+Napięcie na cewce przy wysterowaniu
+Feszültség a tekercsen, amikor bekapcsolják
+Tensión en la bobina cuando se ordena
+
+#3217
+Mesurez aux bornes de la bobine, la vanne étant commandée.
+Meça nos terminais da bobina com a válvula comandada.
+在阀接到动作命令时，在线圈端子处测量。
+Измерьте на клеммах катушки при поданной на клапан команде.
+Zmierz na zaciskach cewki przy wysterowanym zaworze.
+Mérje meg a tekercs kapcsain, amikor a szelepet bekapcsolják.
+Mida en los bornes de la bobina con la válvula ordenada.
+
+#3218
+Travail sous tension. Vérifiez la tension nominale avant de mesurer.
+Trabalho com energia ligada. Verifique a tensão nominal antes de medir.
+带电作业。测量之前先核对额定电压。
+Работа под напряжением. Проверьте номинальное напряжение, прежде чем измерять.
+Praca pod napięciem. Sprawdź napięcie znamionowe przed pomiarem.
+Feszültség alatti munka. Mérés előtt ellenőrizze a névleges feszültséget.
+Trabajo en tensión. Compruebe la tensión nominal antes de medir.
+
+#3219
+Très basse
+Muito baixa
+很低
+Очень низкое
+Bardzo niska
+Nagyon alacsony
+Muy baja
+
+#3220
+Résistance de la bobine (isolée)
+Resistência da bobina (isolada)
+线圈电阻（已隔离）
+Сопротивление катушки (изолирована)
+Rezystancja cewki (odizolowana)
+Tekercsellenállás (leválasztva)
+Resistencia de la bobina (aislada)
+
+#3221
+Déconnectez la bobine et mesurez la résistance. Comparez avec les données ou avec une bobine neuve.
+Desconecte a bobina e meça a resistência. Compare com os dados ou com uma bobina nova.
+断开线圈并测量电阻。与数据资料或一个新线圈对比。
+Отсоедините катушку и измерьте сопротивление. Сравните с паспортными данными или с новой катушкой.
+Odłącz cewkę i zmierz rezystancję. Porównaj z danymi lub z nową cewką.
+Kösse le a tekercset, és mérje meg az ellenállását. Vesse össze az adatokkal vagy egy új tekerccsel.
+Desconecte la bobina y mida la resistencia. Compare con los datos o con una bobina nueva.
+
+#3222
+Clic net / magnétisé
+Clique nítido / magnetizado
+有清脆的咔哒声 / 有磁性
+Чёткий щелчок / намагничено
+Wyraźne kliknięcie / namagnesowany
+Határozott kattanás / mágnesezett
+Clic nítido / magnetizado
+
+#3223
+Rien
+Nada
+没有任何动静
+Ничего
+Nic
+Semmi
+Nada
+
+#3224
+Ronfle mais ne bouge pas
+Zumbe mas não se move
+嗡嗡响但不动作
+Гудит, но не двигается
+Buczy, ale nie rusza się
+Zúg, de nem mozdul
+Zumba pero no se mueve
+
+#3225
+Écoutez et sentez le clic du plongeur, bobine alimentée
+Escute e sinta o estalo do êmbolo com a bobina energizada
+线圈通电时，听和感受衔铁的咔哒声
+Прислушайтесь и почувствуйте щелчок плунжера при поданном на катушку напряжении
+Nasłuchuj i wyczuj kliknięcie tłoczka przy zasilonej cewce
+Hallgassa és érezze a dugattyú kattanását bekapcsolt tekercsnél
+Escuche y note el clic del núcleo con la bobina alimentada
+
+#3226
+Alimentez et écoutez. Posez la pointe d'un tournevis sur l'écrou : il doit être magnétisé.
+Energize e escute. Encoste a ponta de uma chave de fenda na porca: ela deve estar magnetizada.
+通电并仔细听。把螺丝刀头靠在螺母上：它应当有磁性。
+Подайте питание и прислушайтесь. Приложите жало отвёртки к гайке: она должна быть намагничена.
+Zasil i nasłuchuj. Przyłóż końcówkę wkrętaka do nakrętki: powinna być namagnesowana.
+Kapcsoljon rá feszültséget és hallgassa. Tegye egy csavarhúzó hegyét az anyára: mágnesesnek kell lennie.
+Alimente y escuche. Apoye la punta de un destornillador en la tuerca: debe estar magnetizada.
+
+#3227
+Dans la plage de la vanne
+Dentro da faixa da válvula
+在阀的范围内
+В диапазоне клапана
+W zakresie zaworu
+A szelep tartományán belül
+Dentro del rango de la válvula
+
+#3228
+Hors plage ou inversé
+Fora da faixa ou invertido
+超出范围或方向反了
+Вне диапазона или наоборот
+Poza zakresem lub odwrócone
+Tartományon kívül vagy fordítva
+Fuera de rango o invertido
+
+#3229
+Vérifier la pression de ligne et le sens d'écoulement
+Verificar a pressão da linha e o sentido do fluxo
+检查管路压力和流向
+Проверьте давление в линии и направление потока
+Sprawdź ciśnienie w linii i kierunek przepływu
+Ellenőrizze a vezeték nyomását és az áramlás irányát
+Comprobar la presión de la línea y el sentido del flujo
+
+#3230
+Lisez le manomètre. Comparez la flèche sur le corps avec le sens d'écoulement.
+Leia o manômetro. Compare a seta no corpo com o sentido do fluxo.
+读压力表。把阀体上的箭头与流向对照。
+Прочтите манометр. Сравните стрелку на корпусе с направлением потока.
+Odczytaj manometr. Porównaj strzałkę na korpusie z kierunkiem przepływu.
+Olvassa le a manométert. Vesse össze a testen lévő nyilat az áramlás irányával.
+Lea el manómetro. Compare la flecha del cuerpo con el sentido del flujo.
+
+#3231
+Propre et mobile librement
+Limpo e se move livremente
+干净且活动自如
+Чисто и двигается свободно
+Czysty i porusza się swobodnie
+Tiszta és szabadon mozog
+Limpio y se mueve libremente
+
+#3232
+Sale ou rayé
+Sujo ou riscado
+脏污或有划痕
+Грязный или поцарапан
+Brudny lub porysowany
+Szennyezett vagy karcos
+Sucio o rayado
+
+#3233
+Joint endommagé
+Vedação danificada
+密封件损坏
+Уплотнение повреждено
+Uszczelka uszkodzona
+A tömítés sérült
+Junta dañada
+
+#3234
+Actionnez la commande manuelle et inspectez l'intérieur
+Acione o comando manual e inspecione o interior
+操作手动应急装置并检查内部
+Задействуйте ручное управление и осмотрите внутренние детали
+Uruchom sterowanie ręczne i obejrzyj wnętrze
+Működtesse a kézi vészműködtetést, és vizsgálja meg a belsőt
+Accione el mando manual e inspeccione el interior
+
+#3235
+Pression coupée et verrouillée. Utilisez la commande manuelle, puis démontez et inspectez le plongeur, le ressort et le joint.
+Pressão desligada e bloqueada. Use o comando manual, depois desmonte e inspecione o êmbolo, a mola e a vedação.
+压力已泄放并上锁。使用手动应急装置，然后拆开检查衔铁、弹簧和密封件。
+Давление сброшено и заблокировано. Воспользуйтесь ручным управлением, затем разберите и осмотрите плунжер, пружину и уплотнение.
+Ciśnienie odcięte i zablokowane. Użyj sterowania ręcznego, potem rozbierz i obejrzyj tłoczek, sprężynę i uszczelkę.
+A nyomás megszüntetve és lezárva. Használja a kézi vészműködtetést, majd szerelje szét, és vizsgálja meg a dugattyút, a rugót és a tömítést.
+Presión cortada y bloqueada. Use el mando manual y luego desmonte e inspeccione el núcleo, el muelle y la junta.
+
+#3236
+Relâchez la pression et verrouillez avant d'ouvrir.
+Alivie a pressão e bloqueie antes de abrir.
+打开之前先泄压并上锁。
+Сбросьте давление и заблокируйте, прежде чем открывать.
+Zwolnij ciśnienie i zablokuj, zanim otworzysz.
+Nyitás előtt szüntesse meg a nyomást, és zárja le.
+Libere la presión y bloquee antes de abrir.
+
+#3237
+Résistance chauffante ou élément chauffant
+Aquecedor ou elemento de aquecimento
+加热器或加热元件
+Нагреватель или нагревательный элемент
+Grzałka lub element grzejny
+Fűtőtest vagy fűtőelem
+Resistencia calefactora o elemento calefactor
+
+#3238
+Les résistances chauffantes tombent en circuit ouvert. Mesurez la résistance de chaque élément, puis l'isolement par rapport à la terre.
+Aquecedores falham abertos. Meça a resistência de cada elemento e depois o isolamento para a terra.
+加热器通常是开路失效。测量每个元件的电阻，然后测对地绝缘。
+Нагреватели выходят из строя обрывом. Измерьте сопротивление каждого элемента, затем изоляцию относительно земли.
+Grzałki ulegają uszkodzeniu przez przerwę w obwodzie. Zmierz rezystancję każdego elementu, potem izolację względem ziemi.
+A fűtőtestek szakadással hibásodnak meg. Mérje meg minden elem ellenállását, majd a földhöz képest a szigetelést.
+Las resistencias calefactoras fallan en abierto. Mida la resistencia de cada elemento y luego el aislamiento a tierra.
+
+#3239
+Comparez la résistance avec V au carré divisé par P de la plaque signalétique.
+Compare a resistência com V ao quadrado dividido por P da placa.
+把电阻值与铭牌上的V²/P对比。
+Сравните сопротивление с V в квадрате, делённым на P, по шильдику.
+Porównaj rezystancję z V do kwadratu podzielonym przez P z tabliczki znamionowej.
+Vesse össze az ellenállást a típustáblán szereplő V négyzet osztva P értékkel.
+Compare la resistencia con V al cuadrado dividido por P de la placa.
+
+#3240
+Pas de chaleur
+Sem calor
+不发热
+Нет нагрева
+Brak ciepła
+Nincs hő
+Sin calor
+
+#3241
+Chaleur faible
+Calor fraco
+发热不足
+Слабый нагрев
+Słabe nagrzewanie
+Gyenge hő
+Calor débil
+
+#3242
+Le disjoncteur ou le différentiel déclenche
+O disjuntor ou DR atua
+断路器或漏电保护器跳闸
+Срабатывает автомат или УЗО
+Wyłącznik lub różnicówka zadziała
+A megszakító vagy a FI-relé kiold
+Salta el interruptor automático o el diferencial
+
+#3243
+Surchauffe ou cycle sur la limite
+Superaquece ou cicla no limite
+过热或在限温点反复通断
+Перегревается или циклирует по ограничителю
+Przegrzewa się lub cykluje na ogranicznik
+Túlmelegszik vagy a határolón ciklizál
+Se sobrecalienta o cicla en el limitador
+
+#3244
+Élément cassé, cloqué ou zones incandescentes
+Elemento quebrado, empolado ou com manchas incandescentes
+元件断裂、起泡或有发红发亮的斑块
+Элемент сломан, вздулся или есть раскалённые пятна
+Element złamany, pęcherzowy lub z rozżarzonymi plamami
+Az elem eltört, felhólyagosodott vagy izzó foltok vannak rajta
+Elemento roto, con ampollas o con zonas incandescentes
+
+#3245
+Bornes brûlées ou desserrées
+Terminais queimados ou soltos
+端子烧毁或松动
+Клеммы обгорели или ослабли
+Zaciski spalone lub luźne
+A kapcsok kiégtek vagy lazák
+Bornes quemados o flojos
+
+#3246
+Tartre ou dépôts sur l'élément
+Incrustação ou depósitos no elemento
+元件上有水垢或沉积物
+Накипь или отложения на элементе
+Kamień lub osady na elemencie
+Vízkő vagy lerakódás az elemen
+Incrustaciones o depósitos en el elemento
+
+#3247
+Humidité dans la boîte à bornes ou dans l'isolant
+Umidade na caixa de terminais ou na isolação
+接线盒或绝缘内有潮气
+Влага в клеммной коробке или изоляции
+Wilgoć w puszce zaciskowej lub w izolacji
+Nedvesség a kapocsdobozban vagy a szigetelésben
+Humedad en la caja de bornes o en el aislamiento
+
+#3248
+Thermostat ou limiteur coincé ou brûlé
+Termostato ou limitador travado ou queimado
+温控器或限温器卡住或烧毁
+Термостат или ограничитель залип или сгорел
+Termostat lub ogranicznik zablokowany lub spalony
+A termosztát vagy határoló beragadt vagy kiégett
+Termostato o limitador atascado o quemado
+
+#3249
+Élément ouvert
+Elemento aberto
+元件开路
+Элемент оборван
+Element przerwany
+Az elem szakadt
+Elemento abierto
+
+#3250
+Remplacez l'élément. Cherchez le tartre, le fonctionnement à sec ou les points chauds comme cause.
+Substitua o elemento. Procure incrustação, funcionamento a seco ou pontos quentes como causa.
+更换元件。检查水垢、干烧或局部过热是否是原因。
+Замените элемент. Ищите причину в накипи, работе всухую или горячих точках.
+Wymień element. Szukaj przyczyny w kamieniu, pracy na sucho lub gorących punktach.
+Cserélje az elemet. Okként keressen vízkövet, szárazon futást vagy forró pontokat.
+Sustituya el elemento. Busque como causa incrustaciones, funcionamiento en seco o puntos calientes.
+
+#3251
+Fuite d'isolement vers la terre
+Fuga de isolamento para a terra
+绝缘对地泄漏
+Утечка изоляции на землю
+Upływ izolacji do ziemi
+Szigetelési szivárgás a földre
+Fuga de aislamiento a tierra
+
+#3252
+Séchez et mesurez au mégohmmètre. Si la valeur reste basse, remplacez l'élément (l'isolant MgO absorbe l'humidité).
+Seque e meça com megôhmetro. Se continuar baixo, substitua o elemento (a isolação de MgO absorve umidade).
+先烘干，再用兆欧表测量。如果仍然偏低，就更换元件（MgO绝缘会吸潮）。
+Просушите и измерьте мегаомметром. Если значение остаётся низким, замените элемент (изоляция из MgO впитывает влагу).
+Osusz i zmierz megaomomierzem. Jeśli nadal jest niskie, wymień element (izolacja MgO chłonie wilgoć).
+Szárítsa ki és mérjen szigetelésmérővel. Ha alacsony marad, cserélje az elemet (az MgO szigetelés felszívja a nedvességet).
+Seque y mida con el megóhmetro. Si sigue bajo, sustituya el elemento (el aislamiento de MgO absorbe humedad).
+
+#3253
+Borne desserrée ou brûlée
+Terminal solto ou queimado
+端子松动或烧毁
+Клемма ослаблена или сгорела
+Zacisk luźny lub spalony
+Laza vagy kiégett kapocs
+Borne flojo o quemado
+
+#3254
+Reconnectez avec des cosses adaptées à la température, serrez au couple prescrit.
+Refaça a terminação com terminais adequados para a temperatura e aperte no torque especificado.
+用耐受该温度的合适接线鼻重新接线，按规定扭矩拧紧。
+Заново оконцуйте наконечниками, рассчитанными на эту температуру, затяните с моментом по спецификации.
+Wykonaj połączenie na nowo końcówkami przeznaczonymi na tę temperaturę, dokręć momentem zgodnym ze specyfikacją.
+Kösse be újra az adott hőmérsékletre méretezett saruval, és húzza meg az előírt nyomatékkal.
+Vuelva a conectar con terminales aptos para la temperatura y apriete al par especificado.
+
+#3255
+Défaut de thermostat ou de limiteur
+Falha de termostato ou limitador
+温控器或限温器故障
+Неисправность термостата или ограничителя
+Usterka termostatu lub ogranicznika
+Termosztát- vagy határolóhiba
+Fallo de termostato o limitador
+
+#3256
+Remplacez le thermostat et le limiteur. Testez sa consigne.
+Substitua o termostato e o limitador. Teste o ponto de ajuste.
+更换温控器和限温器。测试它的设定点。
+Замените термостат и ограничитель. Проверьте его уставку.
+Wymień termostat i ogranicznik. Sprawdź jego nastawę.
+Cserélje a termosztátot és a határolót. Tesztelje a beállított értéket.
+Sustituya el termostato y el limitador. Pruebe su consigna.
+
+#3257
+Élément entartré (mauvais transfert de chaleur)
+Elemento incrustado (má transferência de calor)
+元件结垢（传热不良）
+Элемент в накипи (плохая теплопередача)
+Element z kamieniem (słaba wymiana ciepła)
+Vízköves elem (gyenge hőátadás)
+Elemento incrustado (mala transferencia de calor)
+
+#3258
+Détartrez ou remplacez, traitez l'eau.
+Remova a incrustação ou substitua e trate a água.
+除垢或更换，并处理水质。
+Удалите накипь или замените, обработайте воду.
+Usuń kamień lub wymień, uzdatnij wodę.
+Vízkőtlenítse vagy cserélje, kezelje a vizet.
+Desincruste o sustituya y trate el agua.
+
+#3259
+Phase manquante ou fusible fondu
+Fase ausente ou fusível queimado
+缺相或熔断器烧断
+Нет фазы или перегорел предохранитель
+Brak fazy lub przepalony bezpiecznik
+Hiányzó fázis vagy kiégett biztosíték
+Fase ausente o fusible fundido
+
+#3260
+Vérifiez l'alimentation de chaque groupe d'éléments.
+Verifique a alimentação de cada grupo de elementos.
+检查每组元件的供电。
+Проверьте питание каждой группы элементов.
+Sprawdź zasilanie każdej grupy elementów.
+Ellenőrizze az egyes elemcsoportok betáplálását.
+Compruebe la alimentación de cada grupo de elementos.
+
+#3261
+À 10 % de la valeur attendue
+Dentro de 10 % do esperado
+在预期值的10 %以内
+В пределах 10 % от ожидаемого
+W granicach 10 % wartości oczekiwanej
+A várt érték 10 %-án belül
+Dentro del 10 % de lo esperado
+
+#3262
+Beaucoup plus élevée
+Muito mais alta
+高很多
+Намного выше
+Znacznie wyższa
+Sokkal magasabb
+Mucho más alta
+
+#3263
+Résistance de chaque élément
+Resistência de cada elemento
+每个元件的电阻
+Сопротивление каждого элемента
+Rezystancja każdego elementu
+Az egyes elemek ellenállása
+Resistencia de cada elemento
+
+#3264
+Isolé : mesurez chaque élément. R attendue = V au carré / P.
+Isolado: meça cada elemento. R esperada = V ao quadrado / P.
+已隔离：逐个测量元件。预期电阻 R = V² / P。
+Изолировано: измерьте каждый элемент. Ожидаемое R = V в квадрате / P.
+Odizolowany: zmierz każdy element. Oczekiwane R = V do kwadratu / P.
+Leválasztva: mérje meg az egyes elemeket. A várt R = V négyzet / P.
+Aislado: mida cada elemento. R esperada = V al cuadrado / P.
+
+#3265
+Au-dessus de 1 MΩ
+Acima de 1 MΩ
+高于1 MΩ
+Выше 1 МОм
+Powyżej 1 MΩ
+1 MΩ felett
+Por encima de 1 MΩ
+
+#3266
+Mesurer l'élément par rapport à la terre au mégohmmètre
+Meça o elemento para a terra com o megôhmetro
+用兆欧表测元件对地绝缘
+Измерьте мегаомметром элемент относительно земли
+Zmierz megaomomierzem element względem ziemi
+Mérje meg szigetelésmérővel az elemet a földhöz képest
+Medir el elemento respecto a tierra con el megóhmetro
+
+#3267
+Isolé, 500 V. Les éléments chauds ou humides donnent une valeur plus basse ; séchez-les d'abord.
+Isolado, 500 V. Elementos quentes ou úmidos leem menos; seque-os primeiro.
+已隔离，500 V。发热或受潮的元件读数会偏低；先把它们烘干。
+Изолировано, 500 В. Горячие или влажные элементы показывают меньше; сначала просушите их.
+Odizolowany, 500 V. Gorące lub wilgotne elementy wskazują niżej; najpierw je osusz.
+Leválasztva, 500 V. A forró vagy nedves elemek alacsonyabb értéket mutatnak; előbb szárítsa ki őket.
+Aislado, 500 V. Los elementos calientes o húmedos leen menos; séquelos primero.
+
+#3268
+Basse ou nulle sur une phase
+Baixa ou zero em uma fase
+有一相偏低或为零
+Низкое или нулевое на одной фазе
+Niska lub zerowa na jednej fazie
+Alacsony vagy nulla az egyik fázison
+Baja o cero en una fase
+
+#3269
+Zéro sur toutes
+Zero em todas
+全部为零
+Ноль на всех
+Zero na wszystkich
+Mindegyiken nulla
+Cero en todas
+
+#3270
+Mesurer le courant du réchauffeur à la pince
+Meça a corrente do aquecedor com o alicate
+用钳形表测加热器电流
+Измерьте токоизмерительными клещами ток нагревателя
+Zmierz cęgami prąd grzałki
+Mérje meg lakatfogóval a fűtőtest áramát
+Medir con la pinza la corriente de la resistencia calefactora
+
+#3271
+Mesurez chaque phase quand il devrait chauffer. Comparez avec la plaque signalétique.
+Meça cada fase quando deveria estar aquecendo. Compare com a placa.
+在应当加热时测量每一相。与铭牌对比。
+Измерьте каждую фазу, когда нагреватель должен греть. Сравните с шильдиком.
+Zmierz każdą fazę, gdy powinien grzać. Porównaj z tabliczką znamionową.
+Mérje meg az egyes fázisokat, amikor fűtenie kellene. Vesse össze a típustáblával.
+Mida cada fase cuando debería estar calentando. Compare con la placa.
+
+#3272
+Fermé et fonctionne
+Fechado e atua
+闭合且能动作
+Замкнут и срабатывает
+Zamknięty i działa
+Zárt és működik
+Cerrado y opera
+
+#3273
+Ouvert, coincé ou mauvaise consigne
+Aberto, travado ou ponto de ajuste errado
+开路、卡住或设定点不对
+Разомкнут, залип или неверная уставка
+Otwarty, zablokowany lub zła nastawa
+Nyitott, beragadt vagy rossz a beállított érték
+Abierto, atascado o consigna incorrecta
+
+#3274
+Tester la continuité du thermostat / limiteur
+Testar a continuidade do termostato / limitador
+测试温控器 / 限温器的通断
+Проверьте целостность термостата / ограничителя
+Przetestuj ciągłość termostatu / ogranicznika
+Tesztelje a termosztát / határoló folytonosságát
+Probar la continuidad del termostato / limitador
+
+#3275
+Isolé : vérifiez la continuité à température ambiante et observez l'action à chaud ou au réarmement.
+Isolado: verifique a continuidade à temperatura ambiente e observe a ação quando aquecido ou rearmado.
+已隔离：检查室温下的通断，并观察受热或复位时的动作。
+Изолировано: проверьте целостность при комнатной температуре и понаблюдайте за срабатыванием при нагреве или сбросе.
+Odizolowany: sprawdź ciągłość w temperaturze pokojowej i obserwuj działanie po nagrzaniu lub zresetowaniu.
+Leválasztva: ellenőrizze a folytonosságot szobahőmérsékleten, és figyelje a működést melegítéskor vagy visszaállításkor.
+Aislado: compruebe la continuidad a temperatura ambiente y observe la acción al calentar o rearmar.
+
+#3276
+IHM, afficheur ou pupitre opérateur
+IHM, display ou painel do operador
+HMI、显示屏或操作面板
+HMI, дисплей или панель оператора
+HMI, wyświetlacz lub panel operatorski
+HMI, kijelző vagy kezelőpanel
+HMI, pantalla o panel de operador
+
+#3277
+Vérifiez les 24 V à ses bornes avant d'accuser l'écran. La plupart des IHM mortes viennent d'un problème d'alimentation ou de connexion.
+Verifique os 24 V nos seus terminais antes de culpar a tela. A maioria das IHM mortas é problema de alimentação ou de conexão.
+在怪罪屏幕之前，先查它端子上的24 V。大多数不亮的HMI都是供电或连接的问题。
+Проверьте 24 В на её клеммах, прежде чем винить экран. Большинство неработающих HMI — это проблема питания или соединения.
+Sprawdź 24 V na jego zaciskach, zanim obwinisz ekran. Większość martwych HMI to problem z zasilaniem lub połączeniem.
+Mielőtt a képernyőt hibáztatja, ellenőrizze a 24 V-ot a kapcsain. A legtöbb halott HMI betáplálási vagy csatlakozási probléma.
+Compruebe los 24 V en sus bornes antes de culpar a la pantalla. La mayoría de los HMI muertos son un problema de alimentación o de conexión.
+
+#3278
+Écran noir
+Tela escura
+黑屏
+Тёмный экран
+Ciemny ekran
+Sötét képernyő
+Pantalla oscura
+
+#3279
+Bloqué au démarrage ou redémarre
+Travado no boot ou reinicia
+卡在启动界面或反复重启
+Зависает при загрузке или перезапускается
+Zawiesza się przy starcie lub restartuje
+Beragad indításkor vagy újraindul
+Se queda en el arranque o se reinicia
+
+#3280
+Le tactile ne répond pas ou est décalé
+O toque não responde ou está deslocado
+触摸无反应或位置偏移
+Сенсор не реагирует или смещён
+Dotyk nie reaguje lub jest przesunięty
+Az érintés nem reagál vagy eltolódott
+El tacto no responde o está desplazado
+
+#3281
+Communication perdue avec l'automate
+Comunicação perdida com o CLP
+与PLC通讯中断
+Потеряна связь с ПЛК
+Utracono komunikację z PLC
+Megszakadt a kommunikáció a PLC-vel
+Comunicación perdida con el PLC
+
+#3282
+Lignes, scintillement ou image sombre
+Linhas, cintilação ou imagem escura
+有线条、闪烁或画面发暗
+Полосы, мерцание или тусклое изображение
+Linie, migotanie lub ciemny obraz
+Vonalak, villogás vagy sötét kép
+Líneas, parpadeo o imagen tenue
+
+#3283
+Se fige ou lent
+Congela ou lento
+卡死或运行缓慢
+Зависает или тормозит
+Zawiesza się lub jest wolny
+Lefagy vagy lassú
+Se congela o va lento
+
+#3284
+Écran fissuré ou marques de pression
+Tela trincada ou marcas de pressão
+屏幕开裂或有压痕
+Экран треснул или следы давления
+Ekran pęknięty lub ślady nacisku
+A képernyő megrepedt vagy nyomásnyomok vannak rajta
+Pantalla agrietada o marcas de presión
+
+#3285
+Humidité ou poussière derrière le joint
+Umidade ou poeira atrás da vedação
+密封圈后面有潮气或灰尘
+Влага или пыль за прокладкой
+Wilgoć lub kurz za uszczelką
+Nedvesség vagy por a tömítés mögött
+Humedad o polvo detrás de la junta

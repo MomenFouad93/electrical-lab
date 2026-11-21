@@ -1,0 +1,657 @@
+#131
+Supprimer le défaut
+Remover a falha
+清除故障
+Убрать неисправность
+Usuń usterkę
+Hiba eltávolítása
+Quitar la avería
+
+#132
+Tapez ou dictez une commande...
+Digite ou fale um comando...
+输入或语音说出命令...
+Введите или произнесите команду...
+Wpisz lub powiedz polecenie...
+Írjon be vagy mondjon egy parancsot...
+Escriba o diga un comando...
+
+#133
+Voix
+Voz
+语音
+Голос
+Głos
+Hang
+Voz
+
+#134
+La saisie vocale n'est pas prise en charge par ce navigateur. Utilisez la touche micro du clavier de votre téléphone, ou tapez.
+A entrada de voz não é compatível com este navegador. Use a tecla de microfone do teclado do celular ou digite.
+此浏览器不支持语音输入。请使用手机键盘上的麦克风键，或直接输入。
+Голосовой ввод не поддерживается этим браузером. Используйте кнопку микрофона на клавиатуре телефона или печатайте.
+Ta przeglądarka nie obsługuje wprowadzania głosowego. Użyj klawisza mikrofonu na klawiaturze telefonu lub pisz.
+Ez a böngésző nem támogatja a hangbevitelt. Használja a telefon billentyűzetének mikrofon gombját, vagy gépeljen.
+Este navegador no admite la entrada de voz. Use la tecla de micrófono del teclado del teléfono o escriba.
+
+#135
+=
+=
+=
+=
+=
+=
+=
+
+#136
+Vérifier mon circuit
+Verificar meu circuito
+检查我的电路
+Проверить мою схему
+Sprawdź mój obwód
+Áramköröm ellenőrzése
+Revisar mi circuito
+
+#137
+=
+=
+=
+=
+=
+=
+=
+
+#138
+Démarreur direct
+Partida direta
+直接启动
+Прямой пуск
+Rozruch bezpośredni
+Közvetlen indítás
+Arranque directo
+
+#139
+=
+=
+=
+=
+=
+=
+=
+
+#140
+Étoile-triangle
+Estrela-triângulo
+星三角启动
+Звезда-треугольник
+Gwiazda-trójkąt
+Csillag-delta
+Estrella-triángulo
+
+#141
+=
+=
+=
+=
+=
+=
+=
+
+#142
+Ajouter un contacteur
+Adicionar contator
+添加接触器
+Добавить контактор
+Dodaj stycznik
+Kontaktor hozzáadása
+Añadir contactor
+
+#143
+=
+=
+=
+=
+=
+=
+=
+
+#144
+Aide
+Ajuda
+帮助
+Помощь
+Pomoc
+Súgó
+Ayuda
+
+#145
+Assistant
+Assistente
+助手
+Помощник
+Asystent
+Segéd
+Asistente
+
+#146
+Missions
+Missões
+任务挑战
+Задания
+Misje
+Küldetések
+Misiones
+
+#147
+Entraînement au dépannage
+Treino de localização de falhas
+故障排查练习
+Тренировка поиска неисправностей
+Ćwiczenie lokalizacji usterek
+Hibakeresési gyakorlat
+Práctica de localización de averías
+
+#148
+Journal des événements
+Registro de eventos
+事件日志
+Журнал событий
+Dziennik zdarzeń
+Eseménynapló
+Registro de eventos
+
+#149
+Bonjour. Demandez-moi de construire un circuit, de le vérifier ou d'expliquer pourquoi quelque chose ne fonctionne pas. La voix fonctionne sur les navigateurs qui la prennent en charge.
+Olá. Peça para eu montar um circuito, verificá-lo ou explicar por que algo não funciona. A voz funciona nos navegadores compatíveis.
+你好。你可以让我搭建电路、检查电路，或解释某个东西为什么不工作。支持语音的浏览器可以使用语音输入。
+Здравствуйте. Попросите меня собрать схему, проверить её или объяснить, почему что-то не работает. Голосовой ввод работает в браузерах, которые его поддерживают.
+Cześć. Poproś mnie o zbudowanie obwodu, jego sprawdzenie albo wyjaśnienie, dlaczego coś nie działa. Głos działa w przeglądarkach, które go obsługują.
+Üdv. Kérjen tőlem áramkör építését, ellenőrzését, vagy magyarázatot arra, miért nem működik valami. A hang az azt támogató böngészőkben működik.
+Hola. Pídame que construya un circuito, que lo revise o que explique por qué algo no funciona. La voz funciona en los navegadores que la admiten.
+
+#150
+Commencez ici
+Comece aqui
+从这里开始
+Начните здесь
+Zacznij tutaj
+Kezdje itt
+Empiece aquí
+
+#151
+Onglet Paillasse : faites glisser un composant de la liste de gauche vers le dessin, ou touchez-le pour l'ajouter au milieu. Touchez une borne puis une autre pour tracer un fil. Glisser depuis une borne fonctionne aussi.
+Aba Bancada: arraste um componente da lista da esquerda para o desenho, ou toque nele para adicioná-lo no meio. Toque em um terminal e depois em outro para traçar um fio. Arrastar a partir de um terminal também funciona.
+工作台页：把左侧列表中的元件拖到图纸里，或点击它把它添加到中间。先点一个端子再点另一个端子即可连线，从端子开始拖动也可以。
+Вкладка «Стенд»: перетащите компонент из списка слева на чертёж или нажмите на него, чтобы добавить в центр. Нажмите на одну клемму, затем на другую, чтобы провести провод. Можно и протянуть от клеммы.
+Karta Stanowisko: przeciągnij element z listy po lewej na rysunek albo dotknij go, aby dodać go na środku. Dotknij jednego zacisku, potem drugiego, aby poprowadzić przewód. Przeciąganie od zacisku też działa.
+Munkapad fül: húzzon egy alkatrészt a bal oldali listából a rajzra, vagy érintse meg, hogy középre kerüljön. Érintsen meg egy kapcsot, majd egy másikat a vezeték megrajzolásához. A kapocsról húzás is működik.
+Pestaña Banco: arrastre un componente de la lista de la izquierda al dibujo, o tóquelo para añadirlo en el centro. Toque un borne y luego otro para trazar un cable. También sirve arrastrar desde un borne.
+
+#152
+Le mode Construction modifie le circuit. Le mode Test le fait fonctionner : appuyez sur les boutons, tournez les sélecteurs, posez les pointes de mesure sur les bornes.
+O modo Montagem edita o circuito. O modo Teste o coloca em funcionamento: aperte botões, gire seletores, coloque as pontas de prova nos terminais.
+搭建模式用来编辑电路，测试模式用来运行电路：按按钮、转动选择开关、把表笔放在端子上。
+Режим сборки редактирует схему. Режим теста запускает её: нажимайте кнопки, поворачивайте переключатели, прикладывайте щупы к клеммам.
+Tryb budowy służy do edycji obwodu. Tryb testu go uruchamia: naciskaj przyciski, przekręcaj przełączniki, przykładaj sondy do zacisków.
+Az Építés mód szerkeszti az áramkört. A Teszt mód működteti: nyomjon gombokat, forgassa a választókapcsolókat, tegye a mérőhegyeket a kapcsokra.
+El modo Montaje edita el circuito. El modo Prueba lo hace funcionar: pulse botones, gire selectores, ponga las puntas de medida en los bornes.
+
+#153
+Les circuits prêts à l'emploi (bouton Circuits prêts) chargent un exemple qui fonctionne. Dérégliez-le avec la liste de défauts de l'onglet Composant et trouvez le défaut avec les appareils de mesure.
+Os circuitos prontos (botão Circuitos prontos) carregam um exemplo que funciona. Provoque uma falha com a lista de falhas na aba Componente e encontre-a com os instrumentos.
+现成电路（“现成电路”按钮）会加载一个能正常工作的示例。用“元件”页里的故障列表把它弄坏，再用仪表找出故障。
+Готовые схемы (кнопка «Готовые схемы») загружают рабочий пример. Испортите его с помощью списка неисправностей на вкладке «Компонент» и найдите неисправность приборами.
+Gotowe obwody (przycisk Gotowe obwody) wczytują działający przykład. Zepsuj go z listy usterek na karcie Element i znajdź usterkę miernikami.
+A kész áramkörök (Kész áramkörök gomb) egy működő példát töltenek be. Rontsa el az Alkatrész fülön lévő hibalistával, és keresse meg a hibát a műszerekkel.
+Los circuitos listos (botón Circuitos listos) cargan un ejemplo que funciona. Averíelo con la lista de averías de la pestaña Componente y encuentre la avería con los instrumentos.
+
+#154
+L'assistant comprend de courtes commandes en arabe ou en anglais : "add a contactor", "connect KM1:A1 to L1", "why is the motor not running", "load star-delta". Le bouton micro utilise la reconnaissance vocale de votre navigateur : il faut Chrome ou Safari, et sur certains téléphones une connexion internet. L'assistant fonctionne par règles, ce n'est pas un modèle de langage.
+O assistente entende comandos curtos em árabe ou inglês: "add a contactor", "connect KM1:A1 to L1", "why is the motor not running", "load star-delta". O botão de microfone usa o reconhecimento de voz do seu navegador, então precisa do Chrome ou Safari e, em alguns celulares, de conexão com a internet. O assistente é baseado em regras, não é um modelo de linguagem.
+助手能听懂阿拉伯语或英语的简短命令："add a contactor"、"connect KM1:A1 to L1"、"why is the motor not running"、"load star-delta"。麦克风按钮使用浏览器自带的语音识别，所以需要Chrome或Safari，部分手机还需要联网。助手是基于规则的，不是语言模型。
+Помощник понимает короткие команды на арабском или английском: "add a contactor", "connect KM1:A1 to L1", "why is the motor not running", "load star-delta". Кнопка микрофона использует распознавание речи вашего браузера, поэтому нужен Chrome или Safari, а на некоторых телефонах ещё и интернет. Помощник работает по правилам, это не языковая модель.
+Asystent rozumie krótkie polecenia po arabsku lub angielsku: "add a contactor", "connect KM1:A1 to L1", "why is the motor not running", "load star-delta". Przycisk mikrofonu korzysta z rozpoznawania mowy przeglądarki, więc potrzebny jest Chrome lub Safari, a na niektórych telefonach także internet. Asystent działa na regułach, to nie jest model językowy.
+A segéd rövid parancsokat ért arabul vagy angolul: "add a contactor", "connect KM1:A1 to L1", "why is the motor not running", "load star-delta". A mikrofon gomb a böngésző beszédfelismerését használja, ezért Chrome vagy Safari kell hozzá, egyes telefonokon pedig internet is. A segéd szabályalapú, nem nyelvi modell.
+El asistente entiende comandos cortos en árabe o inglés: "add a contactor", "connect KM1:A1 to L1", "why is the motor not running", "load star-delta". El botón de micrófono usa el reconocimiento de voz de su navegador, así que necesita Chrome o Safari y, en algunos teléfonos, conexión a internet. El asistente funciona con reglas, no es un modelo de lenguaje.
+
+#155
+Diagnostic et dépannage guidé
+Diagnóstico e localização guiada de falhas
+诊断与引导式排查
+Диагностика и пошаговый поиск неисправностей
+Diagnostyka i prowadzone szukanie usterek
+Diagnosztika és vezetett hibakeresés
+Diagnóstico y localización guiada de averías
+
+#156
+La Paillasse et la Réparation de cartes ont chacune un bouton Diagnostic. Dessinez un circuit ou une carte, appuyez dessus, et le moteur intégré fait passer le dessin par des scénarios de test. Il indique ce qui est bon, ce qui ne va pas, où, et ce qui ne s'allumera ou ne tournera pas. Des repères apparaissent sur le dessin.
+A Bancada e o Reparo de placas têm um botão Diagnóstico. Desenhe um circuito ou uma placa, aperte o botão, e o motor integrado passa o desenho por cenários de teste. Ele diz o que está certo, o que está errado, onde, e o que não vai acender nem funcionar. Marcas aparecem no desenho.
+工作台和电路板维修都有“诊断”按钮。画好电路或电路板后点击它，内置引擎会让图纸跑一遍测试场景，告诉你哪里对、哪里错、错在哪，以及什么不会亮或不会运转。图纸上会出现标记。
+И на «Стенде», и в «Ремонте плат» есть кнопка «Диагностика». Нарисуйте схему или плату, нажмите её, и встроенный движок прогонит чертёж через тестовые сценарии. Он покажет, что правильно, что нет, где именно, и что не загорится или не запустится. На чертеже появятся отметки.
+Zarówno Stanowisko, jak i Naprawa płytek mają przycisk Diagnostyka. Narysuj obwód lub płytkę, naciśnij go, a wbudowany silnik przepuści rysunek przez scenariusze testowe. Pokaże, co jest dobrze, co źle, gdzie oraz co się nie zaświeci lub nie ruszy. Na rysunku pojawią się oznaczenia.
+A Munkapadon és a NYÁK-javításnál is van Diagnosztika gomb. Rajzoljon áramkört vagy panelt, nyomja meg, és a beépített motor tesztforgatókönyveken futtatja végig a rajzot. Megmondja, mi jó, mi rossz, hol, és mi nem fog világítani vagy járni. A rajzon jelölések jelennek meg.
+El Banco y la Reparación de placas tienen un botón Diagnóstico. Dibuje un circuito o una placa, púlselo, y el motor integrado pasa el dibujo por escenarios de prueba. Le dice qué está bien, qué está mal, dónde, y qué no se encenderá o no funcionará. Aparecen marcas en el dibujo.
+
+#157
+Dépannage guidé : indiquez le symptôme. Il suggère quoi mesurer en premier, vous saisissez ce que vous avez obtenu, et il réduit les suspects jusqu'à n'en laisser qu'un. En Réparation de cartes, il peut aussi cacher un défaut dans la carte pour que vous le trouviez.
+Localização guiada: informe o sintoma. Ele sugere o que medir primeiro, você informa o que obteve e ele vai reduzindo os suspeitos até sobrar um. No Reparo de placas, ele também pode esconder uma falha na placa para você encontrar.
+引导式排查：告诉它故障现象。它会建议先测什么，你输入测到的结果，它就逐步缩小嫌疑范围，直到只剩一个。在电路板维修里，它还能在板子上藏一个故障让你去找。
+Пошаговый поиск: опишите симптом. Он подскажет, что измерить в первую очередь, вы вводите результат, и он сужает круг подозреваемых, пока не останется один. В «Ремонте плат» он также может спрятать на плате неисправность, чтобы вы её нашли.
+Prowadzone szukanie usterek: podaj objaw. Podpowie, co zmierzyć najpierw, wpisujesz wynik, a on zawęża listę podejrzanych, aż zostanie jeden. W Naprawie płytek może też ukryć usterkę na płytce, abyś ją znalazł.
+Vezetett hibakeresés: mondja meg a tünetet. Javasolja, mit mérjen meg először, Ön beírja az eredményt, ő pedig szűkíti a gyanúsítottak körét, amíg egy marad. A NYÁK-javításnál hibát is elrejthet a panelen, hogy Ön megtalálja.
+Localización guiada: indique el síntoma. Sugiere qué medir primero, usted introduce lo que obtuvo y va acotando los sospechosos hasta que queda uno. En Reparación de placas también puede esconder una avería en la placa para que la encuentre.
+
+#158
+Choix du moteur : Intégré fonctionne hors ligne et ne demande rien. Intégré + IA ajoute un second avis d'un modèle en ligne et demande internet et votre propre clé API. La clé reste dans ce navigateur. Un réseau d'entreprise peut le bloquer, le moteur intégré n'en dépend pas.
+Escolha do motor: o Integrado funciona offline e não precisa de nada. O Integrado + IA acrescenta uma segunda opinião de um modelo online e exige internet e sua própria chave de API. A chave fica neste navegador. Uma rede corporativa pode bloqueá-lo; o motor integrado não depende disso.
+引擎选择：“内置”可离线使用，不需要任何额外条件。“内置 + AI”会增加一个在线模型给出的第二意见，需要联网和你自己的API密钥。密钥只保存在这个浏览器里。公司网络可能会屏蔽它，内置引擎不依赖它。
+Выбор движка: «Встроенный» работает офлайн и ничего не требует. «Встроенный + ИИ» добавляет второе мнение от онлайн-модели и требует интернет и ваш собственный ключ API. Ключ остаётся в этом браузере. Корпоративная сеть может это блокировать, встроенный движок от этого не зависит.
+Wybór silnika: Wbudowany działa offline i niczego nie wymaga. Wbudowany + AI dodaje drugą opinię modelu online i wymaga internetu oraz własnego klucza API. Klucz zostaje w tej przeglądarce. Sieć firmowa może to blokować, wbudowany silnik od tego nie zależy.
+A motor kiválasztása: a Beépített offline működik, és semmit nem igényel. A Beépített + MI egy online modell második véleményét adja hozzá, ehhez internet és saját API-kulcs kell. A kulcs ebben a böngészőben marad. A vállalati hálózat blokkolhatja, a beépített motor nem függ tőle.
+Elección del motor: el Integrado funciona sin conexión y no necesita nada. Integrado + IA añade una segunda opinión de un modelo en línea y requiere internet y su propia clave de API. La clave se queda en este navegador. Una red corporativa puede bloquearlo; el motor integrado no depende de ello.
+
+#159
+Cas résolus : chaque cas enregistré rend le même défaut plus probable la prochaine fois. Exportez le fichier pour le partager avec un collègue.
+Casos resolvidos: cada caso salvo torna a mesma falha mais provável da próxima vez. Exporte o arquivo para compartilhá-lo com um colega.
+已解决案例：你保存的每个案例都会让同类故障下次更容易被排在前面。导出文件即可分享给同事。
+Решённые случаи: каждый сохранённый случай повышает вероятность такой же неисправности в следующий раз. Экспортируйте файл, чтобы поделиться с коллегой.
+Rozwiązane przypadki: każdy zapisany przypadek zwiększa prawdopodobieństwo tej samej usterki następnym razem. Wyeksportuj plik, aby udostępnić go koledze.
+Megoldott esetek: minden elmentett eset valószínűbbé teszi ugyanazt a hibát legközelebb. Exportálja a fájlt, hogy megossza egy kollégával.
+Casos resueltos: cada caso que guarda hace más probable la misma avería la próxima vez. Exporte el archivo para compartirlo con un compañero.
+
+#160
+Onglet Inspection : photo, symptômes, causes
+Aba Inspeção: foto, sintomas, causas
+检查页：照片、现象、原因
+Вкладка «Осмотр»: фото, симптомы, причины
+Karta Inspekcja: zdjęcie, objawy, przyczyny
+Ellenőrzés fül: fotó, tünetek, okok
+Pestaña Inspección: foto, síntomas, causas
+
+#161
+Choisissez l'équipement (moteur, variateur, contacteur, disjoncteur, câblage, moteur monophasé, alimentation, automate, carte, capteur, transformateur, électrovanne, résistance chauffante, IHM, onduleur). Prenez ou choisissez une photo, ou travaillez sans. Touchez Repérer, touchez la photo à l'endroit où vous voyez quelque chose et nommez-le.
+Escolha o equipamento (motor, inversor, contator, disjuntor, fiação, motor monofásico, fonte de alimentação, CLP, placa, sensor, transformador, solenoide, resistência, IHM, nobreak). Tire ou escolha uma foto, ou trabalhe sem uma. Toque em Marcar, toque na foto onde você vê algo e dê um nome.
+选择设备（电机、变频器、接触器、断路器、接线、单相电机、电源、PLC、电路板、传感器、变压器、电磁阀、加热器、人机界面、UPS）。拍一张照片或选一张，也可以不用照片。点“标记”，在照片上点你看到异常的位置并给它命名。
+Выберите оборудование (двигатель, привод, контактор, автомат, проводка, однофазный двигатель, блок питания, ПЛК, плата, датчик, трансформатор, соленоид, нагреватель, панель HMI, ИБП). Сделайте или выберите фото либо работайте без него. Нажмите «Отметить», коснитесь фото там, где видите что-то, и назовите это.
+Wybierz urządzenie (silnik, napęd, stycznik, wyłącznik, okablowanie, silnik jednofazowy, zasilacz, PLC, płytka, czujnik, transformator, elektrozawór, grzałka, HMI, UPS). Zrób lub wybierz zdjęcie albo pracuj bez niego. Dotknij Oznacz, dotknij zdjęcia w miejscu, gdzie coś widzisz, i nazwij to.
+Válassza ki a berendezést (motor, hajtás, kontaktor, megszakító, huzalozás, egyfázisú motor, tápegység, PLC, panel, érzékelő, transzformátor, mágnesszelep, fűtőelem, HMI, UPS). Készítsen vagy válasszon fotót, vagy dolgozzon anélkül. Érintse meg a Jelölés gombot, majd a fotón azt a helyet, ahol valamit lát, és nevezze el.
+Elija el equipo (motor, variador, contactor, interruptor, cableado, motor monofásico, fuente de alimentación, PLC, placa, sensor, transformador, electroválvula, resistencia calefactora, HMI, SAI). Haga o elija una foto, o trabaje sin ella. Toque Marcar, toque la foto donde vea algo y póngale nombre.
+
+#162
+Répondez à Qu'est-ce qui ne va pas et Qu'est-ce que vous voyez. Ne répondez qu'à ce que vous voyez. La liste des causes probables se classe d'elle-même à mesure que vous ajoutez des faits et montre la réparation et comment l'éviter.
+Responda O que está errado e O que você vê. Responda apenas o que você consegue ver. A lista de causas prováveis se ordena sozinha conforme você adiciona fatos e mostra o reparo e como evitar.
+回答“哪里不对”和“你看到了什么”。只回答你亲眼看到的。随着你不断补充事实，可能原因列表会自动重新排序，并给出修复方法和预防措施。
+Ответьте на вопросы «Что не так» и «Что вы видите». Отвечайте только на то, что видите. Список вероятных причин сам пересортировывается по мере добавления фактов и показывает ремонт и способ предотвращения.
+Odpowiedz na pytania Co jest nie tak oraz Co widzisz. Odpowiadaj tylko na to, co widzisz. Lista prawdopodobnych przyczyn sama się porządkuje w miarę dodawania faktów i pokazuje naprawę oraz sposób zapobiegania.
+Válaszoljon a Mi a hiba és a Mit lát kérdésekre. Csak arra válaszoljon, amit lát. A valószínű okok listája maga rendezi át magát, ahogy tényeket ad hozzá, és megmutatja a javítást és a megelőzést.
+Responda a Qué falla y Qué ve. Responda solo lo que ve. La lista de causas probables se reordena sola al añadir hechos y muestra la reparación y cómo prevenirla.
+
+#163
+Le contrôle suivant est la boucle guidée : elle vous demande de regarder ou de mesurer quelque chose, vous touchez ce que vous avez obtenu, et elle élimine des suspects jusqu'à ce que la cause soit claire. Utilisez Annuler si vous avez touché la mauvaise réponse.
+A próxima verificação é o ciclo guiado: ele pede que você observe ou meça algo, você toca no que obteve e ele elimina suspeitos até a causa ficar clara. Use Desfazer se tocar na resposta errada.
+“下一步检查”是引导式循环：它让你去看某样东西或测某个量，你点选得到的结果，它就逐步排除嫌疑，直到原因明确。点错了答案就用“撤销”。
+«Следующая проверка» — это пошаговый цикл: он просит что-то осмотреть или измерить, вы нажимаете полученный результат, и он исключает подозреваемых, пока причина не станет ясной. Если нажали не тот ответ, используйте «Отменить».
+Następna kontrola to prowadzona pętla: prosi o obejrzenie lub zmierzenie czegoś, dotykasz uzyskanego wyniku, a ona eliminuje podejrzanych, aż przyczyna stanie się jasna. Jeśli dotkniesz złej odpowiedzi, użyj Cofnij.
+A Következő ellenőrzés a vezetett ciklus: megkéri, hogy nézzen meg vagy mérjen meg valamit, Ön megérinti a kapott eredményt, és kizárja a gyanúsítottakat, amíg az ok nyilvánvaló nem lesz. Ha rossz választ érintett meg, használja a Visszavonást.
+La siguiente comprobación es el ciclo guiado: le pide que mire o mida algo, usted toca lo que obtuvo y va descartando sospechosos hasta que la causa queda clara. Use Deshacer si tocó la respuesta equivocada.
+
+#164
+Apprendre à l'application : quand vous connaissez la vraie cause, enregistrez le cas. Le classement s'améliore avec vos cas. Vous pouvez aussi ajouter votre propre cause. Les cas restent sur cet appareil. Exporter et Importer les déplacent d'un appareil à l'autre.
+Ensine o aplicativo: quando você souber a causa real, salve o caso. A classificação melhora com os seus casos. Você também pode adicionar sua própria causa. Os casos ficam neste dispositivo. Exportar e Importar os movem entre dispositivos.
+教会应用：当你知道真正原因时，保存这个案例。排序会随着你的案例越来越准。你也可以添加自己的原因。案例只保存在这台设备上，用“导出”和“导入”可以在设备之间转移。
+Обучите приложение: когда вы знаете настоящую причину, сохраните случай. Ранжирование улучшается по вашим случаям. Можно добавить и свою причину. Случаи хранятся на этом устройстве. «Экспорт» и «Импорт» переносят их между устройствами.
+Naucz aplikację: gdy znasz prawdziwą przyczynę, zapisz przypadek. Ranking poprawia się dzięki Twoim przypadkom. Możesz też dodać własną przyczynę. Przypadki zostają na tym urządzeniu. Eksport i Import przenoszą je między urządzeniami.
+Tanítsa az alkalmazást: ha tudja a valódi okot, mentse el az esetet. A rangsor az Ön esetei alapján javul. Saját okot is hozzáadhat. Az esetek ezen az eszközön maradnak. Az Exportálás és az Importálás viszi át őket az eszközök között.
+Enseñe a la aplicación: cuando conozca la causa real, guarde el caso. La clasificación mejora con sus casos. También puede añadir su propia causa. Los casos se quedan en este dispositivo. Exportar e Importar los mueven entre dispositivos.
+
+#165
+L'IA en ligne, facultative, peut regarder la photo. La photo et vos notes sont envoyées au service d'IA : ne l'utilisez donc pour rien de confidentiel. La méthode hors ligne fonctionne sans elle. Le bouton Galerie montre des références dessinées de défauts courants : enroulements brûlés, condensateurs gonflés, soudures fissurées, corrosion, bornes surchauffées, contacts usés, roulements endommagés.
+A IA online, opcional, pode olhar a foto. A foto e suas anotações vão para o serviço de IA, então não a use para nada confidencial. O método offline funciona sem ela. O botão Galeria mostra referências desenhadas de defeitos comuns: enrolamentos queimados, capacitores estufados, solda trincada, corrosão, terminais superaquecidos, contatos desgastados, rolamentos danificados.
+可选的在线AI可以查看照片。照片和你的备注会发送到AI服务，所以涉及机密的内容不要使用。离线方法不需要它。“图库”按钮提供常见缺陷的手绘参考：绕组烧毁、电容鼓包、焊点开裂、腐蚀、端子过热、触点磨损、轴承损坏。
+Необязательный онлайн-ИИ может посмотреть фото. Фото и ваши заметки уходят в сервис ИИ, поэтому не используйте его для конфиденциальных материалов. Офлайн-метод работает без него. Кнопка «Галерея» показывает нарисованные эталоны типичных дефектов: сгоревшие обмотки, вздувшиеся конденсаторы, трещины пайки, коррозия, перегретые клеммы, изношенные контакты, повреждённые подшипники.
+Opcjonalna sztuczna inteligencja online może obejrzeć zdjęcie. Zdjęcie i Twoje notatki trafiają do usługi AI, więc nie używaj jej do niczego poufnego. Metoda offline działa bez niej. Przycisk Galeria pokazuje rysunkowe wzorce typowych wad: spalone uzwojenia, spęczniałe kondensatory, pęknięte luty, korozję, przegrzane zaciski, zużyte styki, uszkodzone łożyska.
+A nem kötelező online MI megnézheti a fotót. A fotó és a jegyzetei az MI-szolgáltatáshoz kerülnek, ezért ne használja bizalmas anyagokhoz. Az offline módszer enélkül is működik. A Galéria gomb a gyakori hibák rajzolt mintáit mutatja: elégett tekercsek, felpúposodott kondenzátorok, repedt forrasztás, korrózió, túlmelegedett kapcsok, kopott érintkezők, sérült csapágyak.
+La IA en línea, opcional, puede mirar la foto. La foto y sus notas van al servicio de IA, así que no la use para nada confidencial. El método sin conexión funciona sin ella. El botón Galería muestra referencias dibujadas de defectos comunes: devanados quemados, condensadores hinchados, soldadura agrietada, corrosión, bornes sobrecalentados, contactos desgastados, rodamientos dañados.
+
+#166
+Le bouton de rapport enregistre un fichier HTML avec la photo, les repères, les causes, les contrôles et les détails de l'équipement.
+O botão de relatório salva um arquivo HTML com a foto, as marcas, as causas, as verificações e os dados do equipamento.
+报告按钮会保存一个HTML文件，内含照片、标记、原因、检查项和设备信息。
+Кнопка отчёта сохраняет HTML-файл с фото, отметками, причинами, проверками и данными оборудования.
+Przycisk raportu zapisuje plik HTML ze zdjęciem, oznaczeniami, przyczynami, kontrolami i danymi urządzenia.
+A jelentés gomb egy HTML-fájlt ment a fotóval, a jelölésekkel, az okokkal, az ellenőrzésekkel és a berendezés adataival.
+El botón de informe guarda un archivo HTML con la foto, las marcas, las causas, las comprobaciones y los datos del equipo.
+
+#167
+Composants, cartes et modèles
+Componentes, placas e modelos
+元件、电路板和模板
+Компоненты, платы и шаблоны
+Elementy, płytki i szablony
+Alkatrészek, panelek és sablonok
+Componentes, placas y plantillas
+
+#168
+La boîte à outils regroupe les composants en sources, protection, variateurs, commande (contacteurs, relais, temporisateurs, boutons-poussoirs, sélecteurs, voyants), automatisme (automate et E/S), charges, appareils de terrain (capteurs), câblage (bornes et câbles) et électronique. Utilisez la zone de recherche à gauche pour trouver un composant par son nom.
+A caixa de ferramentas agrupa os componentes em fontes, proteção, inversores, comando (contatores, relés, temporizadores, botões, seletores, lâmpadas), automação (CLP e E/S), cargas, dispositivos de campo (sensores), fiação (bornes e cabos) e eletrônica. Use a caixa de busca à esquerda para achar um componente pelo nome.
+工具箱把元件分为电源、保护、驱动、控制（接触器、继电器、定时器、按钮、选择开关、指示灯）、自动化（PLC和I/O）、负载、现场设备（传感器）、接线（端子和电缆）以及电子元件。用左侧的搜索框可以按名称查找元件。
+Набор компонентов сгруппирован так: источники, защита, приводы, управление (контакторы, реле, реле времени, кнопки, переключатели, лампы), автоматика (ПЛК и ввод/вывод), нагрузки, полевые устройства (датчики), проводка (клеммы и кабели) и электроника. Для поиска компонента по названию используйте строку поиска слева.
+Przybornik grupuje elementy na: źródła, zabezpieczenia, napędy, sterowanie (styczniki, przekaźniki, przekaźniki czasowe, przyciski, przełączniki, lampki), automatykę (PLC i I/O), odbiorniki, urządzenia polowe (czujniki), okablowanie (zaciski i kable) oraz elektronikę. Pole wyszukiwania po lewej pozwala znaleźć element po nazwie.
+Az eszköztár az alkatrészeket csoportokba rendezi: tápforrások, védelem, hajtások, vezérlés (kontaktorok, relék, időrelék, nyomógombok, választókapcsolók, lámpák), automatika (PLC és be/ki), fogyasztók, terepi eszközök (érzékelők), huzalozás (kapcsok és kábelek) és elektronika. A bal oldali keresőmezővel név szerint megtalálhat egy alkatrészt.
+La caja de herramientas agrupa los componentes en fuentes, protección, variadores, mando (contactores, relés, temporizadores, pulsadores, selectores, lámparas), automatización (PLC y E/S), cargas, dispositivos de campo (sensores), cableado (bornes y cables) y electrónica. Use el cuadro de búsqueda de la izquierda para encontrar un componente por su nombre.
+
+#169
+La Réparation de cartes propose des cartes d'entraînement avec un défaut caché : une piste fissurée, une résistance grillée, un fusible fondu, un régulateur mort, un pilote à transistor, un optocoupleur, un pilote de relais, une alimentation secteur, un port USB 5 V et une carte 230 V avec varistance. Il y a aussi une carte libre : prenez en photo votre propre carte et placez les composants sur ses pastilles.
+O Reparo de placas tem placas de treino com uma falha oculta: uma trilha trincada, um resistor queimado, um fusível queimado, um regulador morto, um driver com transistor, um optoacoplador, um driver de relé, uma fonte de rede, uma porta USB de 5 V e uma placa de 230 V com varistor. Há também uma placa livre: tire uma foto da sua própria placa e posicione os componentes sobre as ilhas.
+电路板维修提供带隐藏故障的练习板：开裂的线路、烧毁的电阻、熔断的保险丝、损坏的稳压器、晶体管驱动、光耦、继电器驱动、市电电源、USB 5 V接口，以及带压敏电阻的230 V板。还有一块自由板：给你自己的电路板拍照，把元件放到焊盘上。
+В «Ремонте плат» есть учебные платы со скрытой неисправностью: треснувшая дорожка, сгоревший резистор, перегоревший предохранитель, неисправный стабилизатор, транзисторный драйвер, оптопара, драйвер реле, сетевой блок питания, порт USB 5 В и плата 230 В с варистором. Есть и свободная плата: сфотографируйте свою плату и расставьте компоненты поверх её контактных площадок.
+Naprawa płytek ma płytki ćwiczebne z ukrytą usterką: pęknięta ścieżka, spalony rezystor, przepalony bezpiecznik, martwy stabilizator, sterownik tranzystorowy, transoptor, sterownik przekaźnika, zasilacz sieciowy, port USB 5 V oraz płytka 230 V z warystorem. Jest też płytka dowolna: zrób zdjęcie własnej płytki i ustaw elementy na jej polach lutowniczych.
+A NYÁK-javításban gyakorlópanelek vannak rejtett hibával: repedt vezetősáv, kiégett ellenállás, kiégett biztosíték, tönkrement stabilizátor, tranzisztoros meghajtó, optocsatoló, relémeghajtó, hálózati tápegység, USB 5 V-os port és egy 230 V-os panel varisztorral. Van egy szabad panel is: fotózza le a saját paneljét, és helyezze az alkatrészeket a forrasztási felületekre.
+La Reparación de placas tiene placas de práctica con una avería oculta: una pista agrietada, una resistencia quemada, un fusible fundido, un regulador muerto, un driver con transistor, un optoacoplador, un driver de relé, una fuente de red, un puerto USB de 5 V y una placa de 230 V con varistor. También hay una placa libre: haga una foto de su propia placa y coloque los componentes sobre sus pads.
+
+#170
+Appareils de mesure : utilisation sûre
+Instrumentos: uso seguro
+仪表：安全使用
+Приборы: безопасное использование
+Mierniki: bezpieczne użycie
+Műszerek: biztonságos használat
+Instrumentos: uso seguro
+
+#171
+Multimètre : pointe rouge dans la prise VΩ pour la tension et les ohms, dans la prise mA ou 10 A uniquement pour un courant en série. Ne mesurez jamais une tension avec les cordons dans une prise courant. C'est la façon classique de griller un fusible ou un appareil.
+Multímetro: ponta vermelha na entrada VΩ para tensão e ohms, na entrada mA ou 10 A somente para corrente em série. Nunca meça tensão com as pontas nas entradas de corrente. Essa é a forma clássica de queimar um fusível ou o medidor.
+万用表：测电压和电阻时红表笔插VΩ孔；只有串联测电流时才插mA或10 A孔。表笔插在电流孔时绝对不要测电压，这是烧保险丝或烧表的典型原因。
+Мультиметр: красный щуп в гнездо VΩ для напряжения и сопротивления, в гнездо mA или 10 А только для тока в последовательной цепи. Никогда не измеряйте напряжение со щупами в гнёздах тока. Это классический способ сжечь предохранитель или прибор.
+Multimetr: czerwona sonda w gnieździe VΩ do napięcia i omów, w gnieździe mA lub 10 A tylko do prądu w szeregu. Nigdy nie mierz napięcia z przewodami w gniazdach prądowych. To klasyczny sposób na przepalenie bezpiecznika lub miernika.
+Multiméter: a piros mérőhegy a VΩ aljzatba kerül feszültséghez és ellenálláshoz, az mA vagy 10 A aljzatba csak sorba kötött áramméréshez. Soha ne mérjen feszültséget az áramaljzatokba dugott mérőzsinórokkal. Ez a klasszikus módja a biztosíték vagy a műszer kiégetésének.
+Multímetro: punta roja en la toma VΩ para tensión y ohmios, en la toma mA o 10 A solo para corriente en serie. Nunca mida tensión con las puntas en una toma de corriente. Es la forma clásica de fundir un fusible o el medidor.
+
+#172
+Résistance et continuité : mettez d'abord hors tension. Un appareil en ohms sur un circuit sous tension affiche n'importe quoi et peut être endommagé.
+Resistência e continuidade: desenergize primeiro. Um medidor em ohms em um circuito energizado mostra valores sem sentido e pode ser danificado.
+电阻和通断：先断电。万用表在带电电路上用电阻档会读出无意义的数字，还可能损坏。
+Сопротивление и прозвонка: сначала снимите напряжение. Прибор в режиме омметра на цепи под напряжением показывает чепуху и может выйти из строя.
+Rezystancja i ciągłość: najpierw odłącz napięcie. Miernik na omach podłączony do obwodu pod napięciem pokazuje bzdury i może się uszkodzić.
+Ellenállás és szakadásmérés: előbb kapcsolja feszültségmentesre. Az ohm állásban feszültség alatti áramkörre kötött műszer értelmetlen értéket mutat, és tönkremehet.
+Resistencia y continuidad: desenergice primero. Un medidor en ohmios sobre un circuito con tensión muestra valores sin sentido y puede dañarse.
+
+#173
+Pince ampèremétrique : serrez UN SEUL conducteur. Deux conducteurs s'annulent. Utilisez INRUSH pour capter le courant de démarrage du moteur.
+Alicate amperímetro: abrace APENAS UM condutor. Dois condutores se anulam. Use INRUSH para capturar a corrente de partida do motor.
+钳形表：只钳一根导线。钳住两根会互相抵消。用INRUSH（冲击电流）档可以捕捉电机的启动电流。
+Токоизмерительные клещи: охватывайте только ОДИН проводник. Два проводника компенсируют друг друга. Режим INRUSH позволяет поймать пусковой ток двигателя.
+Cęgi prądowe: obejmuj TYLKO JEDEN przewód. Dwa przewody się znoszą. Użyj INRUSH, aby złapać prąd rozruchowy silnika.
+Lakatfogó: CSAK EGY vezetőt fogjon át. Két vezető kioltja egymást. Az INRUSH móddal elkaphatja a motor indítási áramát.
+Pinza amperimétrica: abrace SOLO UN conductor. Dos conductores se anulan. Use INRUSH para capturar la corriente de arranque del motor.
+
+#174
+Mégohmmètre : uniquement sur un circuit hors tension et isolé. 500 V pour les moteurs 400 V, 250 V pour le câblage proche de l'électronique, 1000 V pour les tensions supérieures. Débranchez d'abord les variateurs et l'électronique, la tension d'essai les détruit. Maintenez TEST et attendez que la valeur se stabilise.
+Megôhmetro: somente em circuito sem tensão e isolado. 500 V para motores de 400 V, 250 V para fiação próxima de eletrônica, 1000 V para tensões maiores. Desconecte antes os inversores e a eletrônica, pois a tensão de teste os destrói. Mantenha TEST pressionado e espere a leitura estabilizar.
+兆欧表：只能用在已断电且已隔离的电路上。400 V电机用500 V，靠近电子设备的接线用250 V，更高等级用1000 V。先拆下变频器和电子设备，测试电压会损坏它们。按住TEST，等读数稳定。
+Мегаомметр: только на обесточенной и изолированной цепи. 500 В для двигателей 400 В, 250 В для проводки вблизи электроники, 1000 В для более высоких напряжений. Сначала отключите приводы и электронику, испытательное напряжение их уничтожит. Удерживайте TEST и дождитесь, пока показание установится.
+Megaomomierz: tylko na obwodzie bez napięcia i odizolowanym. 500 V dla silników 400 V, 250 V dla okablowania w pobliżu elektroniki, 1000 V dla wyższych napięć. Najpierw odłącz napędy i elektronikę, napięcie probiercze je niszczy. Przytrzymaj TEST i poczekaj, aż odczyt się ustabilizuje.
+Szigetelésmérő: csak feszültségmentes, leválasztott áramkörön. 500 V a 400 V-os motorokhoz, 250 V az elektronika közelében lévő huzalozáshoz, 1000 V a magasabb feszültségekhez. Előbb csatlakoztassa le a hajtásokat és az elektronikát, a mérőfeszültség tönkreteszi őket. Tartsa lenyomva a TEST gombot, és várja meg, míg az érték beáll.
+Megóhmetro: solo en un circuito sin tensión y aislado. 500 V para motores de 400 V, 250 V para cableado cercano a electrónica, 1000 V para tensiones superiores. Desconecte antes los variadores y la electrónica, la tensión de prueba los destruye. Mantenga TEST y espere a que la lectura se estabilice.
+
+#175
+Calibrateur mA : le mode source injecte un signal (4 à 20 mA, 24 mA, volts) dans une boucle ou une bobine. Le mode mesure lit la boucle. Vérifiez que la boucle n'est pas alimentée par l'automate pendant l'injection.
+Calibrador de mA: o modo fonte injeta um sinal (4 a 20 mA, 24 mA, volts) em uma malha ou bobina. O modo medição lê a malha. Verifique se a malha não está alimentada pelo CLP durante a injeção.
+mA校准器：源模式向回路或线圈输出信号（4至20 mA、24 mA、电压）。测量模式读取回路电流。注入信号时，确认回路没有同时由PLC供电。
+Калибратор mA: режим источника подаёт сигнал (4–20 мА, 24 мА, вольты) в контур или катушку. Режим измерения считывает контур. Убедитесь, что во время подачи контур не запитан от ПЛК.
+Kalibrator mA: tryb źródła podaje sygnał (4 do 20 mA, 24 mA, wolty) do pętli lub cewki. Tryb pomiaru odczytuje pętlę. Upewnij się, że podczas wprowadzania sygnału pętla nie jest zasilana z PLC.
+mA kalibrátor: a forrás mód jelet (4–20 mA, 24 mA, volt) ad egy hurokra vagy tekercsre. A mérés mód a hurkot olvassa. Ellenőrizze, hogy a hurkot nem táplálja a PLC, amíg Ön betáplál.
+Calibrador de mA: el modo fuente inyecta una señal (4 a 20 mA, 24 mA, voltios) en un lazo o bobina. El modo medida lee el lazo. Compruebe que el lazo no esté alimentado por el PLC mientras inyecta.
+
+#176
+Détecteur de tension et stylo NCV : ils disent "quelque chose est sous tension", jamais "c'est hors tension". Prouvez toujours l'absence de tension avec un VAT bipolaire, et vérifiez le testeur sur une source sous tension connue avant et après.
+Detector de tensão e caneta NCV: eles dizem "algo está energizado", nunca "isto está sem tensão". Sempre comprove a ausência de tensão com um detector bipolar e teste o detector em uma fonte energizada conhecida antes e depois.
+验电器和非接触式验电笔：它们只能告诉你“有东西带电”，永远不能说“这里没电”。一定要用双极验电器确认无电，并在前后都用已知带电的电源验证验电器本身。
+Индикатор напряжения и NCV-ручка: они говорят «что-то под напряжением», но никогда не говорят «напряжения нет». Отсутствие напряжения всегда проверяйте двухполюсным указателем, а сам указатель проверяйте на заведомо находящемся под напряжением источнике до и после.
+Próbnik napięcia i długopis NCV: mówią „coś jest pod napięciem”, nigdy „tu nie ma napięcia”. Brak napięcia zawsze potwierdzaj dwubiegunowym wskaźnikiem, a sam wskaźnik sprawdzaj na znanym źródle pod napięciem przed i po.
+Feszültségjelző és NCV-toll: azt mondják, hogy „valami feszültség alatt van”, azt soha, hogy „ez feszültségmentes”. A feszültségmentességet mindig kétpólusú vizsgálóval igazolja, és a vizsgálót is ellenőrizze ismert feszültség alatti forráson előtte és utána.
+Detector de tensión y lápiz NCV: dicen "algo tiene tensión", nunca "esto está sin tensión". Compruebe siempre la ausencia de tensión con un detector bipolar, y verifique el detector en una fuente con tensión conocida antes y después.
+
+#177
+Consigner, étiqueter, essayer
+Bloquear, etiquetar, testar
+上锁、挂牌、试启动
+Блокировка, бирка, проверка
+Zablokuj, oznacz, sprawdź
+Lezárás, címkézés, kipróbálás
+Bloquear, etiquetar, probar
+
+#178
+Ordre : préparer et prévenir, arrêt normal, isoler chaque source d'énergie, poser votre propre cadenas et étiquette, libérer ou bloquer l'énergie stockée, puis vérifier par un essai de démarrage et un testeur (prouver-tester-prouver).
+Ordem: preparar e avisar, parada normal, isolar todas as fontes de energia, aplicar seu próprio cadeado e etiqueta, liberar ou bloquear a energia armazenada e então verificar com um teste de partida e um detector (comprovar-testar-comprovar).
+顺序：准备并通知、正常停机、隔离每一个能源、挂上你自己的锁和标签、释放或阻断储存的能量，然后用试启动和验电器验证（验证验电器—测试—再验证验电器）。
+Порядок: подготовиться и уведомить, штатно остановить, изолировать каждый источник энергии, повесить свой замок и бирку, сбросить или заблокировать накопленную энергию, затем убедиться пробным пуском и индикатором (проверить индикатор — проверить цепь — снова проверить индикатор).
+Kolejność: przygotować i powiadomić, normalne zatrzymanie, odizolować każde źródło energii, założyć własną kłódkę i etykietę, zwolnić lub zablokować energię zgromadzoną, a potem zweryfikować próbą uruchomienia i wskaźnikiem (sprawdź wskaźnik – zmierz – sprawdź wskaźnik).
+Sorrend: előkészítés és értesítés, normál leállítás, minden energiaforrás leválasztása, saját lakat és címke felhelyezése, a tárolt energia leeresztése vagy blokkolása, majd ellenőrzés próbaindítással és vizsgálóval (vizsgáló ellenőrzése – mérés – vizsgáló ellenőrzése).
+Orden: preparar y avisar, parada normal, aislar cada fuente de energía, colocar su propio candado y etiqueta, liberar o bloquear la energía almacenada y luego verificar con una prueba de arranque y un detector (comprobar-medir-comprobar).
+
+#179
+Une personne, un cadenas, une clé. N'utilisez jamais le cadenas de quelqu'un d'autre. La consignation de groupe utilise une boîte de consignation : chaque travailleur y met son cadenas personnel.
+Uma pessoa, um cadeado, uma chave. Nunca use o cadeado de outra pessoa. O bloqueio em grupo usa uma caixa de bloqueio: cada trabalhador coloca um cadeado pessoal na caixa.
+一人、一把锁、一把钥匙。绝不使用别人的锁。集体上锁要用锁箱：每位工人都在锁箱上挂自己的锁。
+Один человек, один замок, один ключ. Никогда не пользуйтесь чужим замком. При групповой блокировке используется ящик блокировки: каждый работник вешает на ящик свой личный замок.
+Jedna osoba, jedna kłódka, jeden klucz. Nigdy nie używaj cudzej kłódki. Blokada grupowa używa skrzynki blokującej: każdy pracownik zakłada na skrzynkę własną kłódkę.
+Egy személy, egy lakat, egy kulcs. Soha ne használja más lakatját. A csoportos lezárás lezáródobozt használ: minden dolgozó személyes lakatot tesz a dobozra.
+Una persona, un candado, una llave. No use nunca el candado de otra persona. El bloqueo en grupo usa una caja de bloqueo: cada trabajador pone un candado personal en la caja.
+
+#180
+Énergie stockée : réservoirs d'air, ressorts, charges levées, condensateurs, conduites chaudes ou sous pression. Libérez-la ou bloquez-la, et continuez à contrôler.
+Energia armazenada: reservatórios de ar, molas, cargas elevadas, capacitores, linhas quentes ou pressurizadas. Libere-a ou bloqueie-a e continue verificando.
+储存的能量：储气罐、弹簧、被抬起的负载、电容、高温或带压管路。要释放或阻断，并且持续检查。
+Накопленная энергия: ресиверы, пружины, поднятые грузы, конденсаторы, горячие или находящиеся под давлением линии. Сбросьте или заблокируйте её и продолжайте проверять.
+Energia zgromadzona: zbiorniki powietrza, sprężyny, podniesione ładunki, kondensatory, gorące lub będące pod ciśnieniem przewody. Zwolnij ją lub zablokuj i dalej sprawdzaj.
+Tárolt energia: légtartályok, rugók, megemelt terhek, kondenzátorok, forró vagy nyomás alatti vezetékek. Eressze le vagy blokkolja, és közben folyamatosan ellenőrizze.
+Energía almacenada: depósitos de aire, muelles, cargas elevadas, condensadores, líneas calientes o a presión. Libérela o bloquéela y siga comprobando.
+
+#181
+Retrait d'un cadenas : c'est la personne qui l'a posé qui le retire, une fois la zone dégagée et tout le monde informé.
+Retirada do cadeado: quem o colocou o retira, depois que a área estiver livre e todos informados.
+移除锁具：由挂锁的人本人移除，并且要在现场已清理、所有人都已被告知之后。
+Снятие замка: его снимает тот, кто его повесил, когда зона свободна и все проинформированы.
+Zdejmowanie kłódki: zdejmuje ją ta osoba, która ją założyła, gdy strefa jest wolna i wszyscy są poinformowani.
+A lakat eltávolítása: azt távolítja el, aki felhelyezte, miután a terület szabad és mindenki értesítve van.
+Retirada de un candado: lo retira quien lo puso, cuando la zona está despejada y todos están informados.
+
+#182
+Tableau général : une page avec un échantillon de tout. Interrupteur d'éclairage, prise, disjoncteurs, sectionneur rotatif, petit coffret de commande, moteurs, variateur, vannes, réservoir d'air, énergie stockée et kit de consignation. Passez à Après LOTO pour voir comment chacun est isolé et expliqué en mots simples. Vert : dispositif d'isolement, ambre : commande seulement, bleu : énergie stockée.
+Quadro geral: uma página com uma amostra de tudo. Interruptor de luz, tomada, disjuntores, seccionadora rotativa, um pequeno painel de comando, motores, um inversor, válvulas, um reservatório de ar, energia armazenada e o kit LOTO. Passe para Após LOTO para ver como cada um é isolado e explicado em palavras simples. Verde é dispositivo de isolação, âmbar é só comando, azul é energia armazenada.
+总览板：一页展示各类设备的样例。电灯开关、插座、断路器、旋转隔离开关、小型控制柜、电机、变频器、阀门、储气罐、储存的能量以及LOTO工具包。切换到“上锁后”，可以看到每一种设备是如何被隔离的，并用简单的话解释。绿色是隔离装置，琥珀色只是控制，蓝色是储存的能量。
+Общая панель: одна страница с образцом всего. Выключатель света, розетка, автоматы, поворотный разъединитель, небольшой шкаф управления, двигатели, привод, клапаны, ресивер, накопленная энергия и набор LOTO. Переключитесь на «После LOTO», чтобы увидеть, как изолируется каждое устройство, с объяснением простыми словами. Зелёный — устройство изоляции, янтарный — только управление, синий — накопленная энергия.
+Tablica główna: jedna strona z próbką wszystkiego. Włącznik światła, gniazdo, wyłączniki, rozłącznik obrotowy, mała szafka sterownicza, silniki, napęd, zawory, zbiornik powietrza, energia zgromadzona i zestaw LOTO. Przełącz na Po LOTO, aby zobaczyć, jak każde z nich jest odizolowane, i przeczytać proste wyjaśnienie. Zielony to urządzenie izolujące, bursztynowy to tylko sterowanie, niebieski to energia zgromadzona.
+Főtábla: egy oldal mindenből egy mintával. Villanykapcsoló, dugalj, megszakítók, forgókapcsoló-szakaszoló, egy kis vezérlőszekrény, motorok, egy hajtás, szelepek, egy légtartály, tárolt energia és a LOTO-készlet. Váltson a LOTO után nézetre, és nézze meg, hogyan van leválasztva és egyszerű szavakkal elmagyarázva mindegyik. A zöld leválasztó eszköz, a borostyán csak vezérlés, a kék tárolt energia.
+Cuadro general: una página con una muestra de todo. Interruptor de luz, enchufe, interruptores automáticos, seccionador rotativo, un pequeño armario de mando, motores, un variador, válvulas, un depósito de aire, energía almacenada y el kit LOTO. Cambie a Después de LOTO para ver cómo se aísla cada uno, explicado con palabras sencillas. Verde es dispositivo de aislamiento, ámbar es solo mando, azul es energía almacenada.
+
+#183
+Touchez n'importe quelle tuile ou appareil du catalogue ou de l'entraîneur pour ouvrir sa fenêtre. Extérieur montre la forme réelle, Intérieur est une coupe, et LOTO appliqué montre la consignation posée. Touchez les numéros bleus pour savoir ce que fait chaque pièce. Pincez ou faites défiler pour zoomer. Vous pouvez ajouter votre propre photo de l'appareil réel et nommer ses pièces.
+Toque em qualquer bloco ou dispositivo do catálogo ou do treinador para abrir sua janela. Exterior mostra a forma real, Interior é um corte e LOTO aplicado mostra o bloqueio instalado. Toque nos números azuis para ver o que cada peça faz. Use pinça ou role para dar zoom. Você pode adicionar sua própria foto do dispositivo real e identificar as peças.
+点击目录或训练器中的任意图块或设备，即可打开它的窗口。“外观”显示真实外形，“内部”是剖视图，“已上锁”显示已挂好的锁具。点击蓝色数字可查看每个部件的作用。双指缩放或滚动可放大。你还可以添加自己拍的真实设备照片并给各部件标注。
+Нажмите на любую плитку или устройство в каталоге или тренажёре, чтобы открыть его окно. «Снаружи» показывает реальную форму, «Внутри» — разрез, а «LOTO применён» — установленную блокировку. Нажимайте на синие номера, чтобы узнать, что делает каждая деталь. Масштабируйте щипком или прокруткой. Можно добавить собственное фото реального устройства и подписать его детали.
+Dotknij dowolnej kafelki lub urządzenia w katalogu albo w trenerze, aby otworzyć jego okno. Na zewnątrz pokazuje prawdziwy kształt, Wewnątrz to przekrój, a LOTO założone pokazuje założoną blokadę. Dotknij niebieskich numerów, aby zobaczyć, co robi każda część. Powiększaj szczypnięciem lub przewijaniem. Możesz dodać własne zdjęcie prawdziwego urządzenia i opisać jego części.
+Érintsen meg bármelyik csempét vagy eszközt a katalógusban vagy a gyakorlóban az ablakának megnyitásához. A Kívül a valódi formát mutatja, a Belül egy metszet, a LOTO felhelyezve pedig a felhelyezett lezárást. Érintse meg a kék számokat, hogy megtudja, mit csinál az egyes alkatrész. Nagyításhoz csippentsen vagy görgessen. Hozzáadhatja a valódi eszköz saját fotóját, és megcímkézheti a részeit.
+Toque cualquier mosaico o dispositivo del catálogo o del entrenador para abrir su ventana. Exterior muestra la forma real, Interior es un corte y LOTO aplicado muestra el bloqueo colocado. Toque los números azules para saber qué hace cada pieza. Pellizque o desplace para ampliar. Puede añadir su propia foto del dispositivo real y rotular sus piezas.
+
+#184
+Trouvez les erreurs : douze techniciens décrivent ce qu'ils ont fait, vous marquez chacun Sûr ou Pas sûr. Dans l'entraîneur, Vérifier ma consignation contrôle votre cadenas, votre étiquette, l'énergie stockée et la vérification, avec la norme derrière chaque point. Cela ne change pas votre score. L'IA en ligne est facultative.
+Encontre os erros: doze técnicos descrevem o que fizeram e você marca cada um como Seguro ou Não seguro. No treinador, Revisar meu isolamento verifica seu cadeado, etiqueta, energia armazenada e verificação, com a norma por trás de cada ponto. Isso não altera a sua pontuação. A IA online é opcional.
+找出错误：十二位技术员描述自己做了什么，你把每一位标为“安全”或“不安全”。在训练器里，“检查我的隔离”会检查你的锁、标签、储存的能量和验证步骤，并给出每一点背后的标准。它不会改变你的得分。在线AI是可选的。
+Найдите ошибки: двенадцать техников описывают, что они сделали, а вы отмечаете каждого как «Безопасно» или «Небезопасно». В тренажёре «Проверить мою изоляцию» разбирает ваш замок, бирку, накопленную энергию и проверку, со ссылкой на стандарт по каждому пункту. На ваш счёт это не влияет. Онлайн-ИИ необязателен.
+Znajdź błędy: dwunastu techników opisuje, co zrobili, a Ty oznaczasz każdego jako Bezpiecznie albo Niebezpiecznie. W trenerze Sprawdź moją izolację weryfikuje Twoją kłódkę, etykietę, energię zgromadzoną i weryfikację, wraz z normą stojącą za każdym punktem. Nie zmienia to Twojego wyniku. AI online jest opcjonalna.
+Keresse meg a hibákat: tizenkét technikus leírja, mit tett, Ön pedig mindegyiket Biztonságosnak vagy Nem biztonságosnak jelöli. A gyakorlóban az Elkülönítésem ellenőrzése átnézi a lakatot, a címkét, a tárolt energiát és az ellenőrzést, minden ponthoz megadva a mögöttes szabványt. Ez nem változtatja meg a pontszámát. Az online MI nem kötelező.
+Encuentre los errores: doce técnicos describen lo que hicieron y usted marca cada uno como Seguro o No seguro. En el entrenador, Revisar mi aislamiento comprueba su candado, etiqueta, energía almacenada y verificación, con la norma detrás de cada punto. No cambia su puntuación. La IA en línea es opcional.
+
+#185
+Méthode de réparation de carte
+Método de reparo de placas
+电路板维修方法
+Метод ремонта платы
+Metoda naprawy płytki
+Panelek javításának módszere
+Método de reparación de placas
+
+#186
+Regardez d'abord : traces de brûlure, condensateurs gonflés, soudures fissurées, pastilles décollées. Mettez ensuite sous tension et mesurez l'entrée, puis suivez le signal jusqu'à ce que la tension disparaisse.
+Olhe primeiro: marcas de queima, capacitores estufados, solda trincada, ilhas levantadas. Depois ligue e meça a entrada, então siga o sinal até a tensão sumir.
+先看：烧焦痕迹、电容鼓包、焊点开裂、焊盘翘起。然后通电测量输入，再沿着信号往下走，直到电压消失的地方。
+Сначала осмотрите: следы гари, вздувшиеся конденсаторы, трещины пайки, оторванные площадки. Затем включите питание и измерьте вход, потом идите по сигналу, пока напряжение не пропадёт.
+Najpierw obejrzyj: ślady przypalenia, spęczniałe kondensatory, pęknięte luty, oderwane pola lutownicze. Potem włącz zasilanie i zmierz wejście, a następnie idź za sygnałem, aż napięcie zniknie.
+Először nézze meg: égésnyomok, felpúposodott kondenzátorok, repedt forrasztás, felemelkedett forrasztási felületek. Aztán kapcsoljon feszültséget, mérje meg a bemenetet, majd kövesse a jelet addig, amíg a feszültség el nem tűnik.
+Mire primero: marcas de quemado, condensadores hinchados, soldadura agrietada, pads levantados. Después conecte la alimentación y mida la entrada, y siga la señal hasta que desaparezca la tensión.
+
+#187
+Hors tension pour la continuité et la résistance. Une piste fissurée affiche un circuit ouvert entre deux pastilles qui devraient être sur le même réseau. Pontez-la avec un strap en fil fin, soudé aux deux extrémités.
+Sem energia para continuidade e resistência. Uma trilha trincada mostra circuito aberto entre duas ilhas que deveriam ser a mesma rede. Faça uma ponte com um fio fino, soldado nas duas pontas.
+测通断和电阻时要断电。开裂的线路在本应属于同一网络的两个焊盘之间会显示开路。用细导线跳线把它接上，两端都焊牢。
+Для прозвонки и измерения сопротивления выключите питание. Треснувшая дорожка показывает обрыв между двумя площадками, которые должны быть одной цепью. Перемкните её тонким проводом-перемычкой, припаянным с обоих концов.
+Do pomiaru ciągłości i rezystancji wyłącz zasilanie. Pęknięta ścieżka pokazuje przerwę między dwoma polami, które powinny należeć do tej samej sieci. Zmostkuj ją cienką zworką z drutu, przylutowaną z obu stron.
+Szakadás- és ellenállásméréshez kapcsolja ki a tápot. A repedt vezetősáv szakadást mutat két olyan forrasztási felület között, amelyeknek ugyanahhoz a hálóhoz kellene tartozniuk. Hidalja át vékony drótáthidalással, mindkét végén beforrasztva.
+Con la alimentación desconectada para continuidad y resistencia. Una pista agrietada da circuito abierto entre dos pads que deberían ser la misma red. Puentéela con un puente de hilo fino, soldado en ambos extremos.
+
+#188
+Un fusible fondu est un symptôme. Cherchez un court-circuit avant de le remplacer, et utilisez le même calibre.
+Um fusível queimado é um sintoma. Procure um curto-circuito antes de substituí-lo e use o mesmo valor nominal.
+熔断的保险丝只是现象。更换前先检查有没有短路，并使用相同额定值的保险丝。
+Перегоревший предохранитель — это симптом. Перед заменой поищите короткое замыкание и ставьте предохранитель того же номинала.
+Przepalony bezpiecznik to objaw. Przed wymianą sprawdź, czy nie ma zwarcia, i użyj bezpiecznika o tej samej wartości.
+A kiégett biztosíték csak tünet. Csere előtt keressen zárlatot, és azonos névleges értékűt használjon.
+Un fusible fundido es un síntoma. Busque un cortocircuito antes de cambiarlo y use el mismo calibre.
+
+#189
+Ne posez jamais un mégohmmètre sur une carte équipée.
+Nunca ponha um megôhmetro em uma placa com componentes montados.
+绝不要把兆欧表接到已焊装元件的电路板上。
+Никогда не подключайте мегаомметр к плате с установленными компонентами.
+Nigdy nie podłączaj megaomomierza do płytki z zamontowanymi elementami.
+Soha ne tegyen szigetelésmérőt beültetett panelre.
+Nunca ponga un megóhmetro en una placa con componentes montados.
+
+#190
+Couleurs des fils (CEI)
+Cores dos fios (IEC)
+导线颜色（IEC）
+Цвета проводов (МЭК)
+Kolory przewodów (IEC)
+Vezetékszínek (IEC)
+Colores de los cables (IEC)
+
+#191
+L1 marron, L2 noir, L3 gris, neutre bleu, terre de protection vert-jaune. CC : + rouge, − bleu. La paillasse les dessine dans ces couleurs. Vérifiez ce que dit la norme de votre site, les anciens tableaux diffèrent.
+L1 marrom, L2 preto, L3 cinza, neutro azul, terra de proteção verde e amarelo. CC: + vermelho, − azul. A bancada desenha com essas cores. Confira o que diz a norma da sua planta; painéis mais antigos são diferentes.
+L1棕色，L2黑色，L3灰色，中性线蓝色，保护接地线黄绿双色。直流：+ 红色，− 蓝色。工作台就是按这些颜色绘制的。请查看你们工厂的标准，老旧的柜子可能不同。
+L1 коричневый, L2 чёрный, L3 серый, нейтраль синий, защитное заземление жёлто-зелёный. Постоянный ток: + красный, − синий. Стенд рисует их этими цветами. Проверьте, что говорит стандарт вашего предприятия: на старых щитах цвета другие.
+L1 brązowy, L2 czarny, L3 szary, neutralny niebieski, ochronny żółto-zielony. DC: + czerwony, − niebieski. Stanowisko rysuje je w tych kolorach. Sprawdź, co mówi norma Twojego zakładu, starsze rozdzielnice mają inne kolory.
+L1 barna, L2 fekete, L3 szürke, nulla kék, védőföld zöld-sárga. DC: + piros, − kék. A munkapad ezekkel a színekkel rajzolja őket. Nézze meg, mit mond az Ön üzemének szabványa, a régebbi szekrények eltérnek.
+L1 marrón, L2 negro, L3 gris, neutro azul, tierra de protección verde y amarillo. CC: + rojo, − azul. El banco los dibuja con estos colores. Compruebe qué dice la norma de su planta; los cuadros antiguos son distintos.
+
+#192
+Numéros de bornes
+Numeração dos terminais
+端子编号
+Номера клемм
+Numeracja zacisków
+Kapocsszámok
+Numeración de bornes
+
+#193
+Pôles de puissance du contacteur : 1-2, 3-4, 5-6 (aussi L1-T1, L2-T2, L3-T3). Bobine : A1 et A2. Contacts auxiliaires : le premier chiffre est la position, le second la fonction. 13-14 et 23-24 normalement ouverts, 21-22 et 31-32 normalement fermés. Relais thermique : 95-96 normalement fermé, 97-98 normalement ouvert.
+Polos de potência do contator: 1-2, 3-4, 5-6 (também L1-T1, L2-T2, L3-T3). Bobina: A1 e A2. Contatos auxiliares: o primeiro dígito é a posição, o segundo é a função. 13-14 e 23-24 normalmente abertos, 21-22 e 31-32 normalmente fechados. Relé de sobrecarga: 95-96 normalmente fechado, 97-98 normalmente aberto.
+接触器主触头：1-2、3-4、5-6（也写作L1-T1、L2-T2、L3-T3）。线圈：A1和A2。辅助触点：第一位数字表示位置，第二位表示功能。13-14和23-24为常开，21-22和31-32为常闭。过载继电器：95-96为常闭，97-98为常开。
+Силовые полюса контактора: 1-2, 3-4, 5-6 (также L1-T1, L2-T2, L3-T3). Катушка: A1 и A2. Вспомогательные контакты: первая цифра — позиция, вторая — функция. 13-14 и 23-24 нормально разомкнутые, 21-22 и 31-32 нормально замкнутые. Тепловое реле: 95-96 нормально замкнутый, 97-98 нормально разомкнутый.
+Bieguny mocy stycznika: 1-2, 3-4, 5-6 (także L1-T1, L2-T2, L3-T3). Cewka: A1 i A2. Styki pomocnicze: pierwsza cyfra to pozycja, druga to funkcja. 13-14 i 23-24 normalnie otwarte, 21-22 i 31-32 normalnie zamknięte. Przekaźnik termiczny: 95-96 normalnie zamknięty, 97-98 normalnie otwarty.
+A kontaktor főpólusai: 1-2, 3-4, 5-6 (ezek L1-T1, L2-T2, L3-T3 is). Tekercs: A1 és A2. Segédérintkezők: az első számjegy a pozíció, a második a funkció. A 13-14 és 23-24 záró (NO), a 21-22 és 31-32 nyitó (NC) érintkező. Hőkioldó relé: 95-96 nyitó (NC), 97-98 záró (NO).
+Polos de potencia del contactor: 1-2, 3-4, 5-6 (también L1-T1, L2-T2, L3-T3). Bobina: A1 y A2. Contactos auxiliares: la primera cifra es la posición y la segunda la función. 13-14 y 23-24 normalmente abiertos, 21-22 y 31-32 normalmente cerrados. Relé térmico: 95-96 normalmente cerrado, 97-98 normalmente abierto.
+
+#194
+Bornes du moteur : U1 V1 W1 et W2 U2 V2. Étoile : reliez W2 U2 V2. Triangle : U1-W2, V1-U2, W1-V2.
+Terminais do motor: U1 V1 W1 e W2 U2 V2. Estrela: una W2 U2 V2. Triângulo: U1-W2, V1-U2, W1-V2.
+电机端子：U1 V1 W1 和 W2 U2 V2。星形：把W2 U2 V2短接。三角形：U1-W2、V1-U2、W1-V2。
+Клеммы двигателя: U1 V1 W1 и W2 U2 V2. Звезда: соедините W2 U2 V2. Треугольник: U1-W2, V1-U2, W1-V2.
+Zaciski silnika: U1 V1 W1 oraz W2 U2 V2. Gwiazda: połącz W2 U2 V2. Trójkąt: U1-W2, V1-U2, W1-V2.
+Motorkapcsok: U1 V1 W1 és W2 U2 V2. Csillag: kösse össze a W2 U2 V2-t. Delta: U1-W2, V1-U2, W1-V2.
+Bornes del motor: U1 V1 W1 y W2 U2 V2. Estrella: una W2 U2 V2. Triángulo: U1-W2, V1-U2, W1-V2.
+
+#195
+Catégories de sécurité des appareils
+Categorias de segurança dos medidores
+仪表安全等级
+Категории безопасности приборов
+Kategorie bezpieczeństwa mierników
+Műszerek biztonsági kategóriái
+Categorías de seguridad de los medidores
+
+#196
+CAT II : prises murales et charges enfichables. CAT III : tableaux de distribution et armoires. CAT IV : origine de l'alimentation. Utilisez un appareil et des cordons adaptés à la catégorie et à la tension, et gardez les doigts derrière les protections.
+CAT II: tomadas de parede e cargas de plugue. CAT III: quadros de distribuição e painéis. CAT IV: origem da alimentação. Use um medidor e pontas adequados à categoria e à tensão, e mantenha os dedos atrás das proteções.
+CAT II：墙壁插座和插接式负载。CAT III：配电箱和控制柜。CAT IV：电源进线处。使用与类别和电压相匹配的仪表和表笔，手指要始终保持在护挡后面。
+CAT II: настенные розетки и подключаемые нагрузки. CAT III: распределительные щиты и шкафы. CAT IV: точка ввода питания. Используйте прибор и щупы, рассчитанные на нужную категорию и напряжение, и держите пальцы за ограничителями.
+CAT II: gniazda ścienne i odbiorniki wtykowe. CAT III: rozdzielnice i szafy. CAT IV: początek instalacji zasilającej. Używaj miernika i przewodów przeznaczonych dla danej kategorii i napięcia oraz trzymaj palce za osłonami.
+CAT II: fali dugaljak és dugaszolható fogyasztók. CAT III: elosztótáblák és szekrények. CAT IV: a betáplálás eredete. Az adott kategóriára és feszültségre méretezett műszert és mérőzsinórt használjon, és tartsa az ujjait az ujjvédők mögött.
+CAT II: tomas de pared y cargas enchufables. CAT III: cuadros de distribución y armarios. CAT IV: origen de la alimentación. Use un medidor y puntas adecuados a la categoría y a la tensión, y mantenga los dedos detrás de las protecciones.
+
+#197
+Ce qu'est et n'est pas cette application
+O que este aplicativo é e não é
+这个应用是什么，不是什么
+Что представляет собой это приложение и чем оно не является
+Czym jest, a czym nie jest ta aplikacja
+Mi ez az alkalmazás, és mi nem
+Qué es y qué no es esta aplicación
+
+#198
+C'est un simulateur de formation simplifié. Il enseigne le raisonnement et l'ordre sûr des opérations. Il ne remplace ni la documentation du constructeur, ni votre permis de travail du site, ni une personne compétente.
+É um simulador de treinamento simplificado. Ele ensina o raciocínio e a ordem segura do trabalho. Não substitui a documentação do fabricante, a permissão de trabalho do seu local nem uma pessoa competente.
+这是一个简化的培训模拟器。它教的是思考方法和安全的作业顺序。它不能替代厂家的资料、你们现场的作业许可，也不能替代有资质的人员。
+Это упрощённый учебный симулятор. Он учит рассуждению и безопасному порядку работ. Он не заменяет документацию производителя, наряд-допуск вашего предприятия или компетентного специалиста.
+To uproszczony symulator szkoleniowy. Uczy rozumowania i bezpiecznej kolejności prac. Nie zastępuje dokumentacji producenta, zezwolenia na pracę w Twoim zakładzie ani osoby kompetentnej.
+Egyszerűsített oktatási szimulátor. A gondolkodást és a biztonságos munkasorrendet tanítja. Nem helyettesíti a gyártó dokumentációját, az Ön üzemének munkavégzési engedélyét, sem a hozzáértő személyt.
+Es un simulador de formación simplificado. Enseña el razonamiento y el orden seguro de trabajo. No sustituye la documentación del fabricante, su permiso de trabajo del centro ni a una persona competente.
+
+#199
+Tout s'exécute dans votre navigateur. Rien n'est envoyé nulle part. Votre paillasse n'est enregistrée que sur cet appareil. Utilisez Enregistrer / ouvrir pour conserver un fichier ou l'envoyer à un ami.
+Tudo roda no seu navegador. Nada é enviado a lugar nenhum. Sua bancada é salva apenas neste dispositivo. Use Salvar / abrir para guardar um arquivo ou enviá-lo a um amigo.
+所有内容都在你的浏览器中运行，不会向任何地方发送数据。工作台只保存在这台设备上。用“保存 / 打开”可以保存文件或发给朋友。
+Всё выполняется в вашем браузере. Ничего никуда не отправляется. Ваш стенд сохраняется только на этом устройстве. Используйте «Сохранить / открыть», чтобы сохранить файл или отправить его другу.
+Wszystko działa w Twojej przeglądarce. Nic nie jest nigdzie wysyłane. Twoje stanowisko jest zapisywane tylko na tym urządzeniu. Użyj Zapisz / otwórz, aby zachować plik lub wysłać go znajomemu.
+Minden a böngészőjében fut. Semmi nem kerül sehová elküldésre. A munkapad csak ezen az eszközön van elmentve. A Mentés / megnyitás használatával fájlt tarthat meg, vagy elküldheti egy barátnak.
+Todo se ejecuta en su navegador. No se envía nada a ningún sitio. Su banco se guarda solo en este dispositivo. Use Guardar / abrir para conservar un archivo o enviarlo a un amigo.
+
+#200
+Guide
+Guia
+指南
+Руководство
+Przewodnik
+Útmutató
+Guía
+
+#201
+Notes courtes à lire avant de commencer. Touchez un titre pour l'ouvrir.
+Notas curtas para ler antes de começar. Toque em um título para abri-lo.
+开始前可以先读的简短说明。点击标题即可展开。
+Краткие заметки, которые стоит прочитать перед началом. Нажмите на заголовок, чтобы открыть.
+Krótkie notatki do przeczytania przed rozpoczęciem. Dotknij tytułu, aby go otworzyć.
+Rövid jegyzetek, amelyeket érdemes elolvasni a kezdés előtt. Érintsen meg egy címet a megnyitásához.
+Notas breves para leer antes de empezar. Toque un título para abrirlo.
+
+#202
+Le fusible de l'appareil est fondu. Remplacez-le.
+O fusível do medidor queimou. Substitua-o.
+仪表保险丝已熔断，请更换。
+Предохранитель прибора перегорел. Замените его.
+Bezpiecznik miernika jest przepalony. Wymień go.
+A műszer biztosítéka kiégett. Cserélje ki.
+El fusible del medidor está fundido. Cámbielo.
+
+#203
+Placez les deux pointes sur des bornes
+Coloque as duas pontas de prova em terminais
+请把两支表笔放在端子上
+Приложите оба щупа к клеммам
+Umieść obie sondy na zaciskach
+Tegye mindkét mérőhegyet kapcsokra
+Ponga ambas puntas en bornes
+

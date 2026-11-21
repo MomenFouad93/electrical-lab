@@ -1,0 +1,1170 @@
+#1
+Composants du tableau
+Componentes do painel
+电柜元件
+Компоненты щита
+Elementy rozdzielnicy
+Kapcsolószekrény-alkatrészek
+Componentes del cuadro
+
+#2
+Sources
+Fontes
+电源
+Источники питания
+Źródła zasilania
+Tápforrások
+Fuentes
+
+#3
+Protection
+Proteção
+保护
+Защита
+Zabezpieczenia
+Védelem
+Protección
+
+#4
+Variateurs
+Inversores
+变频驱动
+Приводы
+Napędy
+Hajtások
+Variadores
+
+#5
+Commande
+Comando
+控制
+Управление
+Sterowanie
+Vezérlés
+Mando
+
+#6
+Automatisme (API, E/S)
+Automação (CLP, E/S)
+自动化（PLC、I/O）
+Автоматика (ПЛК, ввод/вывод)
+Automatyka (PLC, I/O)
+Automatika (PLC, be/ki)
+Automatización (PLC, E/S)
+
+#7
+Charges
+Cargas
+负载
+Нагрузки
+Odbiorniki
+Fogyasztók
+Cargas
+
+#8
+Appareils de terrain
+Dispositivos de campo
+现场设备
+Полевые устройства
+Urządzenia polowe
+Terepi eszközök
+Dispositivos de campo
+
+#9
+Câblage, bornes, câbles
+Fiação, bornes, cabos
+接线、端子、电缆
+Проводка, клеммы, кабели
+Okablowanie, zaciski, kable
+Huzalozás, kapcsok, kábelek
+Cableado, bornes, cables
+
+#10
+Électronique
+Eletrônica
+电子元件
+Электроника
+Elektronika
+Elektronika
+Electrónica
+
+#11
+Étiquettes et cadres
+Rótulos e molduras
+标签和边框
+Надписи и рамки
+Etykiety i ramki
+Címkék és keretek
+Etiquetas y marcos
+
+#12
+Fil
+Fio
+导线
+Провод
+Przewód
+Vezeték
+Cable
+
+#13
+Faites glisser le point jaune pour déplacer le tracé du fil. Supprimer retire le fil.
+Arraste o ponto amarelo para mover o trajeto do fio. Excluir remove o fio.
+拖动黄色圆点可移动导线路径。点击删除可移除导线。
+Перетащите жёлтую точку, чтобы изменить маршрут провода. «Удалить» убирает провод.
+Przeciągnij żółtą kropkę, aby przesunąć trasę przewodu. Usuń kasuje przewód.
+Húzza el a sárga pontot a vezeték útvonalának mozgatásához. A Törlés eltávolítja a vezetéket.
+Arrastre el punto amarillo para mover el trazado del cable. Eliminar quita el cable.
+
+#14
+Supprimer le fil
+Excluir fio
+删除导线
+Удалить провод
+Usuń przewód
+Vezeték törlése
+Eliminar cable
+
+#15
+Rétablir la piste
+Restaurar a trilha
+恢复线路
+Восстановить дорожку
+Przywróć ścieżkę
+Vezetősáv visszaállítása
+Restaurar la pista
+
+#16
+Couper la piste
+Cortar a trilha
+切断线路
+Перерезать дорожку
+Przetnij ścieżkę
+Vezetősáv megszakítása
+Cortar la pista
+
+#17
+Rien de sélectionné
+Nada selecionado
+未选择任何项
+Ничего не выбрано
+Nic nie zaznaczono
+Nincs kijelölve semmi
+Nada seleccionado
+
+#18
+Touchez un composant pour voir ses détails, ses propriétés et ses valeurs en direct. En mode Construction, touchez une borne pour commencer un fil.
+Toque em um componente para ver seus detalhes, propriedades e valores ao vivo. No modo Montagem, toque em um terminal para iniciar um fio.
+点击元件可查看其详情、属性和实时数值。在搭建模式下点击端子即可开始连线。
+Нажмите на компонент, чтобы увидеть его данные, свойства и текущие значения. В режиме сборки нажмите на клемму, чтобы начать провод.
+Dotknij elementu, aby zobaczyć jego szczegóły, właściwości i wartości na żywo. W trybie budowy dotknij zacisku, aby zacząć przewód.
+Érintsen meg egy alkatrészt a részletek, tulajdonságok és élő értékek megtekintéséhez. Építés módban egy kapocs megérintésével kezdhet vezetéket.
+Toque un componente para ver sus detalles, propiedades y valores en vivo. En modo Montaje, toque un borne para iniciar un cable.
+
+#19
+Dupliquer
+Duplicar
+复制
+Дублировать
+Duplikuj
+Másolás
+Duplicar
+
+#20
+Supprimer
+Excluir
+删除
+Удалить
+Usuń
+Törlés
+Eliminar
+
+#21
+Propriétés
+Propriedades
+属性
+Свойства
+Właściwości
+Tulajdonságok
+Propiedades
+
+#22
+Oui
+Sim
+是
+Да
+Tak
+Igen
+Sí
+
+#23
+Simulation de défaut
+Simulação de falha
+故障模拟
+Имитация неисправности
+Symulacja usterki
+Hibaszimuláció
+Simulación de avería
+
+#24
+Un défaut est caché sur un composant. Trouvez-le avec les appareils de mesure.
+Uma falha está escondida em algum componente. Encontre-a com os instrumentos de medição.
+某个元件上隐藏了一个故障。请用仪表找出它。
+На одном из компонентов скрыта неисправность. Найдите её с помощью приборов.
+Na jednym z elementów ukryto usterkę. Znajdź ją za pomocą mierników.
+Egy alkatrészen hiba rejtőzik. Keresse meg a mérőműszerekkel.
+Hay una avería oculta en algún componente. Encuéntrela con los instrumentos de medida.
+
+#25
+Remplacer par une pièce neuve
+Substituir por uma peça nova
+更换为新元件
+Заменить новой деталью
+Wymień na nową część
+Csere új alkatrészre
+Sustituir por una pieza nueva
+
+#26
+Pourquoi n'est-il pas sous tension ?
+Por que não está energizado?
+为什么没有带电？
+Почему нет напряжения?
+Dlaczego nie ma napięcia?
+Miért nincs feszültség alatt?
+¿Por qué no está energizado?
+
+#27
+Vitesse (tr/min)
+Velocidade (rpm)
+转速（rpm）
+Скорость (об/мин)
+Prędkość (obr/min)
+Fordulatszám (rpm)
+Velocidad (rpm)
+
+#28
+Courant (A)
+Corrente (A)
+电流（A）
+Ток (А)
+Prąd (A)
+Áram (A)
+Corriente (A)
+
+#29
+Courant de sortie (A)
+Corrente de saída (A)
+输出电流（A）
+Выходной ток (А)
+Prąd wyjściowy (A)
+Kimeneti áram (A)
+Corriente de salida (A)
+
+#30
+Fréquence (Hz)
+Frequência (Hz)
+频率（Hz）
+Частота (Гц)
+Częstotliwość (Hz)
+Frekvencia (Hz)
+Frecuencia (Hz)
+
+#31
+Bus continu (V)
+Barramento CC (V)
+直流母线（V）
+Шина постоянного тока (В)
+Szyna DC (V)
+DC köztes kör (V)
+Bus de CC (V)
+
+#32
+Charge thermique (%)
+Carga térmica (%)
+热负荷（%）
+Тепловая нагрузка (%)
+Obciążenie cieplne (%)
+Termikus terhelés (%)
+Carga térmica (%)
+
+#33
+Contacts fermés
+Contatos fechados
+触点闭合
+Контакты замкнуты
+Styki zwarte
+Zárt érintkezők
+Contactos cerrados
+
+#34
+Déclenché
+Desarmado
+已跳闸
+Сработал
+Zadziałał
+Kioldott
+Disparado
+
+#35
+Actionné
+Acionado
+已动作
+Задействован
+Zadziałał
+Működtetve
+Accionado
+
+#36
+Broche
+Pino
+引脚
+Вывод
+Pin
+Láb
+Pin
+
+#37
+Valeurs en direct
+Valores ao vivo
+实时数值
+Текущие значения
+Wartości na żywo
+Élő értékek
+Valores en vivo
+
+#38
+Circuits prêts à l'emploi
+Circuitos prontos
+现成电路
+Готовые схемы
+Gotowe obwody
+Kész áramkörök
+Circuitos listos
+
+#39
+Choisissez-en un pour le charger sur la paillasse. Vous pourrez ensuite le modifier, le dérégler et le mesurer.
+Escolha um para carregá-lo na bancada. Depois você pode alterá-lo, provocar falhas e medi-lo.
+选择一个电路加载到工作台。之后可以修改它、制造故障并进行测量。
+Выберите схему, чтобы загрузить её на стенд. Затем её можно изменить, сломать и измерить.
+Wybierz jeden, aby wczytać go na stanowisko. Potem możesz go zmieniać, psuć i mierzyć.
+Válasszon egyet, hogy betöltse a munkapadra. Utána módosíthatja, elronthatja és megmérheti.
+Elija uno para cargarlo en el banco. Después puede modificarlo, averiarlo y medirlo.
+
+#40
+Vider toute la paillasse ?
+Limpar toda a bancada?
+清空整个工作台？
+Очистить весь стенд?
+Wyczyścić całe stanowisko?
+Törli a teljes munkapadot?
+¿Vaciar todo el banco?
+
+#41
+Enregistrer et charger
+Salvar e carregar
+保存和加载
+Сохранение и загрузка
+Zapis i wczytywanie
+Mentés és betöltés
+Guardar y cargar
+
+#42
+Télécharger le fichier du circuit
+Baixar o arquivo do circuito
+下载电路文件
+Скачать файл схемы
+Pobierz plik obwodu
+Áramköri fájl letöltése
+Descargar el archivo del circuito
+
+#43
+Ouvrir un fichier
+Abrir arquivo
+打开文件
+Открыть файл
+Otwórz plik
+Fájl megnyitása
+Abrir archivo
+
+#44
+Circuit chargé.
+Circuito carregado.
+电路已加载。
+Схема загружена.
+Obwód wczytany.
+Áramkör betöltve.
+Circuito cargado.
+
+#45
+Fichier incorrect.
+Arquivo inválido.
+文件无效。
+Неверный файл.
+Nieprawidłowy plik.
+Hibás fájl.
+Archivo no válido.
+
+#46
+Ou collez le texte du circuit :
+Ou cole o texto do circuito:
+或粘贴电路文本：
+Или вставьте текст схемы:
+Lub wklej tekst obwodu:
+Vagy illessze be az áramkör szövegét:
+O pegue el texto del circuito:
+
+#47
+Texte incorrect.
+Texto inválido.
+文本无效。
+Неверный текст.
+Nieprawidłowy tekst.
+Hibás szöveg.
+Texto no válido.
+
+#48
+Charger le texte collé
+Carregar o texto colado
+加载粘贴的文本
+Загрузить вставленный текст
+Wczytaj wklejony tekst
+A beillesztett szöveg betöltése
+Cargar el texto pegado
+
+#49
+Afficher le texte de ce circuit
+Mostrar o texto deste circuito
+显示此电路的文本
+Показать текст этой схемы
+Pokaż tekst tego obwodu
+Az áramkör szövegének megjelenítése
+Mostrar el texto de este circuito
+
+#50
+Déclenché :
+Desarmado:
+已跳闸：
+Сработал:
+Zadziałał:
+Kioldott:
+Disparado:
+
+#51
+Grillé :
+Queimado:
+已烧毁：
+Сгорел:
+Spalony:
+Kiégett:
+Quemado:
+
+#52
+Défaut variateur sur
+Falha do inversor em
+变频器故障：
+Отказ привода на
+Błąd napędu na
+Hajtáshiba itt:
+Fallo del variador en
+
+#53
+Alimentation ON
+Alimentação ON
+电源开
+Питание ВКЛ
+Zasilanie WŁ.
+Táp BE
+Alimentación ON
+
+#54
+Alimentation OFF
+Alimentação OFF
+电源关
+Питание ВЫКЛ
+Zasilanie WYŁ.
+Táp KI
+Alimentación OFF
+
+#55
+Vitesse de simulation
+Velocidade da simulação
+模拟速度
+Скорость симуляции
+Prędkość symulacji
+Szimuláció sebessége
+Velocidad de simulación
+
+#56
+Touchez la deuxième borne pour terminer le fil
+Toque no segundo terminal para terminar o fio
+点击第二个端子以完成连线
+Нажмите на вторую клемму, чтобы завершить провод
+Dotknij drugiego zacisku, aby zakończyć przewód
+Érintse meg a második kapcsot a vezeték befejezéséhez
+Toque el segundo borne para terminar el cable
+
+#57
+Ces deux bornes sont déjà reliées.
+Esses dois terminais já estão ligados.
+这两个端子已经连接。
+Эти две клеммы уже соединены.
+Te dwa zaciski są już połączone.
+Ez a két kapocs már össze van kötve.
+Esos dos bornes ya están conectados.
+
+#58
+Langue
+Idioma
+语言
+Язык
+Język
+Nyelv
+Idioma
+
+#59
+Laboratoire d'électricité
+Laboratório de eletricidade
+电气实验室
+Электролаборатория
+Laboratorium elektryczne
+Elektromos labor
+Laboratorio de electricidad
+
+#60
+Paillasse
+Bancada
+工作台
+Стенд
+Stanowisko
+Munkapad
+Banco
+
+#61
+=
+=
+=
+=
+=
+=
+=
+
+#62
+Réparation de cartes
+Reparo de placas
+电路板维修
+Ремонт плат
+Naprawa płytek
+NYÁK-javítás
+Reparación de placas
+
+#63
+Inspection
+Inspeção
+检查
+Осмотр
+Inspekcja
+Ellenőrzés
+Inspección
+
+#64
+Chercher un composant (contacteur, moteur...)
+Buscar componente (contator, motor...)
+搜索元件（接触器、电机…）
+Поиск компонента (контактор, двигатель...)
+Szukaj elementu (stycznik, silnik...)
+Alkatrész keresése (kontaktor, motor...)
+Buscar componente (contactor, motor...)
+
+#65
+Circuits prêts
+Circuitos prontos
+现成电路
+Готовые схемы
+Gotowe obwody
+Kész áramkörök
+Circuitos listos
+
+#66
+Enregistrer / ouvrir
+Salvar / abrir
+保存 / 打开
+Сохранить / открыть
+Zapisz / otwórz
+Mentés / megnyitás
+Guardar / abrir
+
+#67
+Effacer
+Limpar
+清除
+Очистить
+Wyczyść
+Törlés
+Borrar
+
+#68
+Composant
+Componente
+元件
+Компонент
+Element
+Alkatrész
+Componente
+
+#69
+Appareils de mesure
+Instrumentos
+仪表
+Приборы
+Mierniki
+Műszerek
+Instrumentos
+
+#70
+Composants
+Componentes
+元件库
+Компоненты
+Elementy
+Alkatrészek
+Componentes
+
+#71
+Chercher un composant de carte
+Buscar componente da placa
+搜索电路板元件
+Поиск компонента платы
+Szukaj elementu płytki
+Panelalkatrész keresése
+Buscar componente de placa
+
+#72
+Tâche
+Tarefa
+任务
+Задача
+Zadanie
+Feladat
+Tarea
+
+#73
+Il est consigné (LOTO). Retirez d'abord le cadenas.
+Está bloqueado (LOTO). Remova primeiro o cadeado.
+已上锁挂牌（LOTO）。请先移除锁具。
+Он заблокирован (LOTO). Сначала снимите замок.
+Jest zablokowany (LOTO). Najpierw zdejmij kłódkę.
+Le van zárva (LOTO). Először távolítsa el a lakatot.
+Está bloqueado (LOTO). Retire primero el candado.
+
+#74
+Il est sur OFF. Mettez-le sur ON en mode Test.
+Está em OFF. Ligue-o em ON no modo Teste.
+当前为关闭状态。请在测试模式下将其合上。
+Он выключен. Включите его в режиме теста.
+Jest wyłączony. Włącz go w trybie testu.
+KI van kapcsolva. Kapcsolja BE Teszt módban.
+Está en OFF. Póngalo en ON en modo Prueba.
+
+#75
+Il est sur ON mais un pôle ne conduit pas : le disjoncteur est défectueux.
+Está em ON, mas um polo não conduz: o disjuntor está com defeito.
+已合闸但有一极不导通：断路器有故障。
+Он включён, но один полюс не проводит: автомат неисправен.
+Jest włączony, ale jeden biegun nie przewodzi: wyłącznik jest uszkodzony.
+BE van kapcsolva, de az egyik pólus nem vezet: a megszakító hibás.
+Está en ON pero un polo no conduce: el interruptor está averiado.
+
+#76
+Ce bouton-poussoir normalement ouvert doit être pressé. Maintenez-le en mode Test.
+Este botão normalmente aberto precisa ser pressionado. Mantenha-o pressionado no modo Teste.
+这个常开按钮需要按下。请在测试模式下按住它。
+Эту нормально разомкнутую кнопку нужно нажать. Удерживайте её в режиме теста.
+Ten przycisk normalnie otwarty trzeba nacisnąć. Przytrzymaj go w trybie testu.
+Ezt a záróérintkezős nyomógombot meg kell nyomni. Tartsa lenyomva Teszt módban.
+Este pulsador normalmente abierto debe pulsarse. Manténgalo pulsado en modo Prueba.
+
+#77
+Ce bouton normalement fermé doit être fermé au repos. Vérifiez qu'il n'est pas pressé ou câblé sur son contact NO.
+Este botão normalmente fechado deve estar fechado em repouso. Verifique se não está pressionado ou ligado ao contato NA.
+这个常闭按钮静止时应处于闭合状态。请检查它是否被按下，或是否接到了常开触点上。
+Эта нормально замкнутая кнопка в покое должна быть замкнута. Проверьте, не нажата ли она и не подключена ли к контакту NO.
+Ten przycisk normalnie zamknięty powinien w spoczynku być zwarty. Sprawdź, czy nie jest wciśnięty lub podłączony do styku NO.
+Ennek a nyugalmi helyzetben záró (NC) gombnak nyugalomban zártnak kell lennie. Ellenőrizze, hogy nincs-e lenyomva, illetve nincs-e a NO érintkezőre kötve.
+Este pulsador normalmente cerrado debe estar cerrado en reposo. Compruebe que no esté pulsado ni cableado a su contacto NA.
+
+#78
+L'arrêt d'urgence est enfoncé. Relâchez-le.
+A parada de emergência está acionada. Libere-a.
+急停按钮已按下。请将其释放。
+Аварийный стоп нажат. Отпустите его.
+Wyłącznik awaryjny jest wciśnięty. Zwolnij go.
+A vészleállító be van nyomva. Oldja ki.
+La parada de emergencia está pulsada. Libérela.
+
+#79
+Le contact 97-98 ne se ferme que lorsque le relais thermique déclenche (il alimente le voyant de défaut). C'est normal tant que le moteur est sain.
+O contato 97-98 só fecha quando o relé de sobrecarga atua (alimenta a lâmpada de desarme). Isso é normal enquanto o motor está saudável.
+触点97-98仅在过载继电器动作时闭合（它给跳闸指示灯供电）。电机正常时这是正常现象。
+Контакт 97-98 замыкается только при срабатывании теплового реле (он питает лампу аварии). Пока двигатель исправен, это нормально.
+Styk 97-98 zamyka się tylko po zadziałaniu przekaźnika termicznego (zasila lampkę zadziałania). Przy sprawnym silniku jest to normalne.
+A 97-98 érintkező csak akkor zár, amikor a hőkioldó relé kiold (ez táplálja a kioldásjelző lámpát). Ép motor esetén ez normális.
+El contacto 97-98 solo se cierra cuando el relé térmico dispara (alimenta la lámpara de disparo). Es normal mientras el motor está sano.
+
+#80
+Le relais thermique a déclenché. Attendez qu'il refroidisse, puis réarmez-le (cliquez dessus).
+O relé de sobrecarga atuou. Aguarde esfriar e rearme-o (clique nele).
+过载继电器已动作。等待其冷却，然后复位（点击它）。
+Тепловое реле сработало. Подождите, пока остынет, затем сбросьте его (щёлкните по нему).
+Przekaźnik termiczny zadziałał. Poczekaj, aż ostygnie, i zresetuj go (kliknij).
+A hőkioldó relé kioldott. Várja meg, míg lehűl, majd állítsa vissza (kattintson rá).
+El relé térmico ha disparado. Espere a que se enfríe y rearme (haga clic en él).
+
+#81
+Un contact du relais thermique (95-96) est ouvert ou n'est pas câblé dans le circuit de commande.
+Um contato do relé de sobrecarga (95-96) está aberto ou não foi ligado no circuito de comando.
+过载触点（95-96）处于断开状态，或没有接入控制回路。
+Контакт теплового реле (95-96) разомкнут или не включён в цепь управления.
+Styk przekaźnika termicznego (95-96) jest otwarty lub nie jest wpięty w obwód sterowania.
+A hőkioldó relé (95-96) érintkezője nyitott, vagy nincs bekötve a vezérlőáramkörbe.
+Un contacto del relé térmico (95-96) está abierto o no está cableado en el circuito de mando.
+
+#82
+Le fusible est peut-être fondu ou retiré. Testez-le en continuité.
+O fusível pode estar queimado ou removido. Teste-o com continuidade.
+熔断器可能已熔断或被取出。请用通断档测试。
+Предохранитель, возможно, перегорел или снят. Проверьте его на прозвонку.
+Bezpiecznik może być przepalony lub wyjęty. Sprawdź go testem ciągłości.
+Az olvadóbiztosíték lehet, hogy kiégett vagy ki van véve. Ellenőrizze szakadásmérővel.
+El fusible puede estar fundido o retirado. Pruébelo con continuidad.
+
+#83
+Ce contact est ouvert parce que la bobine n'est pas alimentée (ou que le contact est NO). Alimentez la bobine.
+Este contato está aberto porque a bobina não está energizada (ou o contato é NA). Energize a bobina.
+这个触点处于断开状态，因为线圈没有得电（或该触点是常开触点）。请给线圈通电。
+Этот контакт разомкнут, потому что катушка не под напряжением (или контакт нормально разомкнутый). Подайте питание на катушку.
+Ten styk jest otwarty, bo cewka nie jest zasilona (lub styk jest NO). Zasil cewkę.
+Ez az érintkező azért nyitott, mert a tekercs nincs feszültség alatt (vagy az érintkező záró típusú). Adjon feszültséget a tekercsre.
+Este contacto está abierto porque la bobina no está energizada (o el contacto es NA). Energice la bobina.
+
+#84
+Un contact de temporisateur ne change d'état qu'après le temps réglé.
+Um contato de temporizador só muda depois do tempo ajustado.
+定时器触点只有在设定时间到后才会切换。
+Контакт реле времени переключается только после заданной выдержки.
+Styk przekaźnika czasowego zmienia stan dopiero po nastawionym czasie.
+Az időrelé érintkezője csak a beállított idő letelte után vált.
+Un contacto de temporizador solo cambia tras el tiempo programado.
+
+#85
+Contact d'un fin de course ou d'un pressostat : cliquez dessus en mode Test pour l'actionner.
+Contato de fim de curso ou pressostato: clique nele no modo Teste para acioná-lo.
+行程开关或压力开关触点：在测试模式下点击它来操作。
+Контакт концевого выключателя или реле давления: щёлкните по нему в режиме теста, чтобы задействовать.
+Styk wyłącznika krańcowego lub presostatu: kliknij go w trybie testu, aby go zadziałać.
+Végálláskapcsoló vagy nyomáskapcsoló érintkezője: kattintson rá Teszt módban a működtetéséhez.
+Contacto de final de carrera o presostato: haga clic en él en modo Prueba para accionarlo.
+
+#86
+Ce contact est ouvert.
+Este contato está aberto.
+这个触点是断开的。
+Этот контакт разомкнут.
+Ten styk jest otwarty.
+Ez az érintkező nyitott.
+Este contacto está abierto.
+
+#87
+Attendez un instant que la simulation tourne.
+Aguarde um momento para a simulação rodar.
+请稍等，让模拟运行一下。
+Подождите немного, пока выполнится симуляция.
+Poczekaj chwilę, aż symulacja się uruchomi.
+Várjon egy kicsit, amíg a szimuláció fut.
+Espere un momento a que se ejecute la simulación.
+
+#88
+L'interrupteur d'alimentation est sur OFF (barre du haut).
+A chave de alimentação está em OFF (barra superior).
+电源开关处于关闭状态（顶部栏）。
+Выключатель питания в положении ВЫКЛ (верхняя панель).
+Wyłącznik zasilania jest w pozycji WYŁ. (górny pasek).
+A tápkapcsoló KI van kapcsolva (felső sáv).
+El interruptor de alimentación está en OFF (barra superior).
+
+#89
+Il est grillé : il a reçu une mauvaise tension auparavant. Remplacez-le et vérifiez le type (CA ou CC) et le niveau d'alimentation.
+Está queimado: recebeu uma tensão errada antes. Substitua-o e verifique o tipo (CA ou CC) e o nível da alimentação.
+它已烧毁：之前接入了错误的电压。请更换，并检查电源类型（交流或直流）和电压等级。
+Он сгорел: ранее на него было подано неверное напряжение. Замените его и проверьте род (AC или DC) и уровень питания.
+Jest spalony: wcześniej otrzymał złe napięcie. Wymień go i sprawdź rodzaj (AC lub DC) oraz poziom zasilania.
+Kiégett: korábban hibás feszültséget kapott. Cserélje ki, és ellenőrizze a tápellátás fajtáját (AC vagy DC) és szintjét.
+Está quemado: antes recibió una tensión incorrecta. Sustitúyalo y compruebe el tipo (CA o CC) y el nivel de alimentación.
+
+#90
+La bobine est alimentée mais ne colle pas : vérifiez la tension nominale de la bobine, CA ou CC.
+A bobina está alimentada, mas não atraca: verifique a tensão nominal da bobina, CA ou CC.
+线圈已供电但没有吸合：请检查线圈额定值，交流还是直流。
+Катушка запитана, но не срабатывает: проверьте номинал катушки, AC или DC.
+Cewka jest zasilona, ale nie przyciąga: sprawdź parametry cewki, AC lub DC.
+A tekercs kap feszültséget, de nem húz be: ellenőrizze a tekercs névleges értékét, AC vagy DC.
+La bobina recibe tensión pero no engancha: compruebe la tensión nominal de la bobina, CA o CC.
+
+#91
+Il devrait fonctionner. Si ce n'est pas le cas, patientez : certains composants ont besoin de temps.
+Ele deveria estar funcionando. Se não parecer, aguarde: alguns componentes precisam de tempo.
+它应该在正常工作。如果看起来没有，请稍等：有些元件需要一点时间。
+Он должен работать. Если это не так, подождите: некоторым компонентам нужно время.
+Powinien działać. Jeśli tak nie wygląda, poczekaj: niektóre elementy potrzebują czasu.
+Működnie kellene. Ha nem úgy tűnik, várjon: egyes alkatrészeknek idő kell.
+Debería estar funcionando. Si no lo parece, espere: algunos componentes necesitan tiempo.
+
+#92
+Un point sous tension est accessible par les fils, mais aucun contact ouvert n'explique la perte. Cherchez un fil desserré ou manquant, ou un composant défectueux (utilisez le multimètre le long du chemin).
+Um ponto energizado é alcançável pelos fios, mas nenhum contato aberto explica a perda. Procure um fio solto ou faltando, ou um componente com falha (use o multímetro ao longo do caminho).
+通过导线可以到达带电点，但没有任何断开的触点能解释失电。请查找松动或缺失的导线，或有故障的元件（沿线路用万用表测量）。
+К токоведущей точке можно пройти по проводам, но ни один разомкнутый контакт не объясняет потерю. Ищите ослабленный или отсутствующий провод либо неисправный компонент (идите по цепи с мультиметром).
+Do punktu pod napięciem można dojść przewodami, ale żaden otwarty styk nie tłumaczy braku napięcia. Szukaj luźnego lub brakującego przewodu albo uszkodzonego elementu (mierz multimetrem wzdłuż toru).
+Egy feszültség alatti pont vezetékeken keresztül elérhető, de egyetlen nyitott érintkező sem magyarázza a hiányt. Keressen laza vagy hiányzó vezetéket, vagy hibás alkatrészt (mérjen multiméterrel az úton végig).
+Se puede llegar a un punto con tensión por los cables, pero ningún contacto abierto explica la pérdida. Busque un cable suelto o ausente, o un componente averiado (use el multímetro a lo largo del camino).
+
+#93
+Aucun point sous tension n'est relié à ce composant. Câblez-le à l'alimentation (et au neutre ou 0 V de l'autre côté). Si l'alimentation est sur OFF, mettez-la sur ON.
+Nenhum ponto energizado está ligado a este componente. Ligue-o à alimentação (e ao neutro ou 0 V do outro lado). Se a alimentação estiver em OFF, ligue-a.
+没有任何带电点连接到这个元件。请把它接到电源（另一侧接零线或0 V）。如果电源是关闭的，请打开。
+К этому компоненту не подключена ни одна точка под напряжением. Подключите его к питанию (а с другой стороны к нейтрали или 0 В). Если питание выключено, включите его.
+Żaden punkt pod napięciem nie jest połączony z tym elementem. Podłącz go do zasilania (a z drugiej strony do neutralnego lub 0 V). Jeśli zasilanie jest wyłączone, włącz je.
+Egyetlen feszültség alatti pont sincs ehhez az alkatrészhez kötve. Kösse a tápellátáshoz (a másik oldalon a nullavezetőhöz vagy 0 V-hoz). Ha a táp KI van kapcsolva, kapcsolja be.
+Ningún punto con tensión está conectado a este componente. Conéctelo a la alimentación (y al neutro o 0 V por el otro lado). Si la alimentación está en OFF, enciéndala.
+
+#94
+La tension est présente mais le moteur ne tourne pas : rotor bloqué, mauvais couplage des enroulements ou surcharge.
+Há tensão, mas o motor não gira: rotor travado, ligação errada dos enrolamentos ou sobrecarga.
+有电压但电机不转：转子卡死、绕组接法错误或过载。
+Напряжение есть, но двигатель не вращается: заклинен ротор, неверное соединение обмоток или перегрузка.
+Napięcie jest, ale silnik się nie kręci: zablokowany wirnik, złe połączenie uzwojeń lub przeciążenie.
+Van feszültség, de a motor nem forog: elakadt forgórész, hibás tekercselés-kapcsolás vagy túlterhelés.
+Hay tensión pero el motor no gira: rotor bloqueado, conexión incorrecta de los devanados o sobrecarga.
+
+#95
+Deux phases seulement : marche en monophasé. Une phase est coupée en amont (fusible, pôle du contacteur, pôle du disjoncteur ou câblage).
+Apenas duas fases: falta de fase. Uma fase está cortada a montante (fusível, polo do contator, polo do disjuntor ou fiação).
+只有两相：缺相运行。有一相在上游被断开（熔断器、接触器触头、断路器极或接线）。
+Только две фазы: обрыв фазы. Одна фаза оборвана выше по цепи (предохранитель, полюс контактора, полюс автомата или проводка).
+Tylko dwie fazy: praca na dwóch fazach. Jedna faza jest przerwana wyżej (bezpiecznik, biegun stycznika, biegun wyłącznika lub okablowanie).
+Csak két fázis van: kétfázisú üzem. Az egyik fázis megszakadt feljebb (olvadóbiztosíték, kontaktorpólus, megszakítópólus vagy huzalozás).
+Solo dos fases: funcionamiento en bifásico. Una fase está cortada aguas arriba (fusible, polo del contactor, polo del interruptor o cableado).
+
+#96
+La paillasse est vide. Ajoutez des composants ou chargez un circuit prêt à l'emploi.
+A bancada está vazia. Adicione componentes ou carregue um circuito pronto.
+工作台是空的。请添加元件或加载一个现成电路。
+Стенд пуст. Добавьте компоненты или загрузите готовую схему.
+Stanowisko jest puste. Dodaj elementy lub wczytaj gotowy obwód.
+A munkapad üres. Adjon hozzá alkatrészeket, vagy töltsön be egy kész áramkört.
+El banco está vacío. Añada componentes o cargue un circuito listo.
+
+#97
+Aucune erreur de câblage trouvée, et le circuit fonctionne.
+Nenhum erro de fiação encontrado, e o circuito está funcionando.
+未发现接线错误，电路工作正常。
+Ошибок монтажа не найдено, схема работает.
+Nie znaleziono błędów okablowania, obwód działa.
+Nem található huzalozási hiba, és az áramkör működik.
+No se encontraron errores de cableado y el circuito funciona.
+
+#98
+Aucune erreur de câblage trouvée. Rien ne fonctionne encore : mettez l'alimentation et actionnez les boutons en mode Test.
+Nenhum erro de fiação encontrado. Nada está funcionando ainda: ligue a alimentação e acione os botões no modo Teste.
+未发现接线错误。目前还没有任何设备运行：请在测试模式下接通电源并操作按钮。
+Ошибок монтажа не найдено. Пока ничего не работает: включите питание и нажимайте кнопки в режиме теста.
+Nie znaleziono błędów okablowania. Nic jeszcze nie działa: włącz zasilanie i obsługuj przyciski w trybie testu.
+Nem található huzalozási hiba. Még semmi nem működik: kapcsolja be a tápot, és működtesse a gombokat Teszt módban.
+No se encontraron errores de cableado. Aún no funciona nada: conecte la alimentación y accione los pulsadores en modo Prueba.
+
+#99
+Des problèmes ont été trouvés. Corrigez d'abord les éléments en rouge.
+Foram encontrados problemas. Corrija primeiro os itens em vermelho.
+发现问题。请先修复标红的项目。
+Найдены проблемы. Сначала исправьте пункты, отмеченные красным.
+Znaleziono problemy. Najpierw popraw pozycje oznaczone na czerwono.
+Problémák találhatók. Először a piros tételeket javítsa ki.
+Se encontraron problemas. Corrija primero los elementos en rojo.
+
+#100
+Paillasse vidée.
+Bancada limpa.
+工作台已清空。
+Стенд очищен.
+Stanowisko wyczyszczone.
+A munkapad kiürítve.
+Banco vaciado.
+
+#101
+Dites-moi quel composant, par exemple : pourquoi KM1 ne fonctionne pas.
+Diga qual componente, por exemplo: por que o KM1 não funciona.
+请告诉我是哪个元件，例如：为什么KM1不工作。
+Скажите, какой компонент, например: почему не работает KM1.
+Powiedz, który element, na przykład: dlaczego KM1 nie działa.
+Mondja meg, melyik alkatrész, például: miért nem működik a KM1.
+Indique qué componente, por ejemplo: por qué no funciona KM1.
+
+#102
+Dites-le ainsi : connect KM1 A1 to G1 N (repère du composant, puis borne).
+Diga assim: connect KM1 A1 to G1 N (tag do componente, depois o terminal).
+请这样说：connect KM1 A1 to G1 N（元件位号，然后是端子）。
+Скажите так: connect KM1 A1 to G1 N (обозначение компонента, затем клемма).
+Powiedz tak: connect KM1 A1 to G1 N (oznaczenie elementu, potem zacisk).
+Így mondja: connect KM1 A1 to G1 N (az alkatrész jele, majd a kapocs).
+Dígalo así: connect KM1 A1 to G1 N (etiqueta del componente y luego el borne).
+
+#103
+Je n'ai pas compris. Essayez : "add contactor", "load star delta", "connect KM1 A1 to G1 N", "press SB2", "why KM1 is not working", "check my circuit", "use megger".
+Não entendi. Tente: "add contactor", "load star delta", "connect KM1 A1 to G1 N", "press SB2", "why KM1 is not working", "check my circuit", "use megger".
+我没听懂。请试试："add contactor"、"load star delta"、"connect KM1 A1 to G1 N"、"press SB2"、"why KM1 is not working"、"check my circuit"、"use megger"。
+Не понял. Попробуйте: "add contactor", "load star delta", "connect KM1 A1 to G1 N", "press SB2", "why KM1 is not working", "check my circuit", "use megger".
+Nie zrozumiałem. Spróbuj: "add contactor", "load star delta", "connect KM1 A1 to G1 N", "press SB2", "why KM1 is not working", "check my circuit", "use megger".
+Nem értettem. Próbálja: "add contactor", "load star delta", "connect KM1 A1 to G1 N", "press SB2", "why KM1 is not working", "check my circuit", "use megger".
+No lo he entendido. Pruebe: "add contactor", "load star delta", "connect KM1 A1 to G1 N", "press SB2", "why KM1 is not working", "check my circuit", "use megger".
+
+#104
+Je peux : ajouter des composants, charger des circuits prêts, relier deux bornes, appuyer sur des boutons, manœuvrer des disjoncteurs, choisir un instrument, mesurer entre deux bornes, expliquer pourquoi un composant ne fonctionne pas et revoir le circuit. C'est un assistant à règles qui connaît la simulation du laboratoire, pas une IA généraliste.
+Eu posso: adicionar componentes, carregar circuitos prontos, ligar dois terminais, apertar botões, manobrar disjuntores, escolher um instrumento, medir entre dois terminais, explicar por que um componente não funciona e revisar o circuito. É um assistente baseado em regras que conhece a simulação do laboratório, não uma IA geral.
+我可以：添加元件、加载现成电路、连接两个端子、按下按钮、操作断路器、选择仪表、在两个端子之间测量、解释某个元件为何不工作，以及检查电路。这是一个基于规则的助手，了解本实验室自己的仿真，不是通用AI。
+Я умею: добавлять компоненты, загружать готовые схемы, соединять две клеммы, нажимать кнопки, переключать автоматы, выбирать прибор, измерять между двумя клеммами, объяснять, почему компонент не работает, и проверять схему. Это помощник на правилах, знающий симуляцию этой лаборатории, а не универсальный ИИ.
+Potrafię: dodawać elementy, wczytywać gotowe obwody, łączyć dwa zaciski, naciskać przyciski, przełączać wyłączniki, wybierać przyrząd, mierzyć między dwoma zaciskami, wyjaśniać, dlaczego element nie działa, i sprawdzać obwód. To asystent oparty na regułach, który zna symulację tego laboratorium, a nie ogólna sztuczna inteligencja.
+Tudok: alkatrészeket hozzáadni, kész áramköröket betölteni, két kapcsot összekötni, gombokat megnyomni, megszakítókat kapcsolni, műszert választani, két kapocs között mérni, megmagyarázni, miért nem működik egy alkatrész, és átnézni az áramkört. Szabályalapú segéd, amely ismeri a labor saját szimulációját, nem általános MI.
+Puedo: añadir componentes, cargar circuitos listos, conectar dos bornes, pulsar botones, maniobrar interruptores, elegir un instrumento, medir entre dos bornes, explicar por qué un componente no funciona y revisar el circuito. Es un asistente basado en reglas que conoce la simulación del laboratorio, no una IA general.
+
+#105
+Allumer un voyant
+Acender uma lâmpada de sinalização
+点亮一个指示灯
+Зажечь сигнальную лампу
+Zapal lampkę sygnalizacyjną
+Jelzőlámpa felgyújtása
+Encender una lámpara piloto
+
+#106
+Reliez une alimentation à une lampe pour qu'elle s'allume (lampe 230 V sur 230 V, ou lampe 24 V sur une source 24 V).
+Ligue uma fonte a uma lâmpada para que acenda (lâmpada de 230 V em 230 V, ou lâmpada de 24 V em uma fonte de 24 V).
+把电源接到灯上让它亮起来（230 V的灯接230 V，或24 V的灯接24 V电源）。
+Подключите источник питания к лампе, чтобы она загорелась (лампа 230 В к 230 В или лампа 24 В к источнику 24 В).
+Podłącz zasilanie do lampki, aby się zaświeciła (lampka 230 V do 230 V lub lampka 24 V do źródła 24 V).
+Kössön tápforrást a lámpához, hogy kigyulladjon (230 V-os lámpa 230 V-ra, vagy 24 V-os lámpa 24 V-os forrásra).
+Conecte una fuente a una lámpara para que se encienda (lámpara de 230 V a 230 V, o de 24 V a una fuente de 24 V).
+
+#107
+Faire tourner un moteur
+Fazer um motor girar
+让电机转起来
+Запустить двигатель
+Uruchom silnik
+Motor forgatása
+Hacer girar un motor
+
+#108
+Faites tourner un moteur à plus de 1000 tr/min avec un contacteur (construisez-le ou chargez le circuit DOL).
+Faça um motor girar acima de 1000 rpm usando um contator (monte o circuito ou carregue o circuito de partida direta).
+用接触器让电机转速超过1000 rpm（自己搭建，或加载直接启动电路）。
+Заставьте двигатель вращаться быстрее 1000 об/мин с помощью контактора (соберите схему или загрузите схему прямого пуска).
+Rozpędź silnik powyżej 1000 obr/min za pomocą stycznika (zbuduj obwód lub wczytaj obwód rozruchu bezpośredniego).
+Forgassa a motort 1000 fordulat/perc fölé kontaktorral (építse meg, vagy töltse be a közvetlen indítású áramkört).
+Haga girar un motor por encima de 1000 rpm con un contactor (móntelo o cargue el circuito de arranque directo).
+
+#109
+Mesurer 24 V CC
+Medir 24 V CC
+测量24 V直流
+Измерить 24 В DC
+Zmierz 24 V DC
+24 V DC mérése
+Medir 24 V CC
+
+#110
+Avec le multimètre sur V⎓, lisez entre 23 et 25 V sur une source 24 V.
+Com o multímetro em V⎓, leia entre 23 e 25 V em uma fonte de 24 V.
+将万用表拨到V⎓档，在24 V电源上读到23至25 V之间的数值。
+Мультиметром в положении V⎓ считайте на источнике 24 В значение от 23 до 25 В.
+Multimetrem ustawionym na V⎓ odczytaj na źródle 24 V wartość od 23 do 25 V.
+A multiméterrel V⎓ állásban olvasson le 23 és 25 V közötti értéket egy 24 V-os forráson.
+Con el multímetro en V⎓, lea entre 23 y 25 V en una fuente de 24 V.
+
+#111
+Capter l'appel de courant du moteur
+Capturar a corrente de partida do motor
+捕捉电机启动冲击电流
+Поймать пусковой ток двигателя
+Złap prąd rozruchowy silnika
+A motor bekapcsolási áramának elfogása
+Capturar la corriente de arranque del motor
+
+#112
+Utilisez la pince ampèremétrique en mode INRUSH sur une phase du moteur et démarrez le moteur. Pic supérieur à 15 A.
+Use o alicate amperímetro no modo INRUSH em uma fase do motor e dê a partida no motor. Pico acima de 15 A.
+在电机一相上用钳形表的INRUSH（冲击电流）模式，然后启动电机。峰值要超过15 A。
+Включите токоизмерительные клещи в режим INRUSH на фазе двигателя и запустите двигатель. Пик выше 15 А.
+Użyj cęgów prądowych w trybie INRUSH na fazie silnika i uruchom silnik. Szczyt powyżej 15 A.
+Használja a lakatfogót INRUSH módban a motor egyik fázisán, és indítsa el a motort. A csúcs legyen 15 A felett.
+Use la pinza amperimétrica en modo INRUSH en una fase del motor y arranque el motor. Pico superior a 15 A.
+
+#113
+Tester l'isolement d'un moteur
+Testar a isolação de um motor
+电机绝缘测试
+Проверить изоляцию двигателя
+Zbadaj izolację silnika
+Motor szigetelésének mérése
+Probar el aislamiento de un motor
+
+#114
+Alimentation sur OFF, cordons du mégohmmètre sur un enroulement du moteur et le PE, maintenez TEST. Obtenez une valeur supérieure à 10 MΩ.
+Alimentação em OFF, pontas do megôhmetro em um enrolamento do motor e no PE, mantenha TEST. Obtenha uma leitura acima de 10 MΩ.
+电源关闭，把兆欧表的表笔接到电机绕组和PE上，按住TEST。读数要超过10 MΩ。
+Питание ВЫКЛ, щупы мегаомметра на обмотку двигателя и PE, удерживайте TEST. Получите показание выше 10 МОм.
+Zasilanie WYŁ., przewody megomierza na uzwojenie silnika i PE, przytrzymaj TEST. Uzyskaj odczyt powyżej 10 MΩ.
+A táp KI van kapcsolva, a szigetelésmérő mérőzsinórjait kösse a motor egy tekercsére és a PE-re, tartsa lenyomva a TEST gombot. Az értéknek 10 MΩ fölött kell lennie.
+Alimentación en OFF, puntas del megóhmetro en un devanado del motor y en PE, mantenga TEST. Obtenga una lectura superior a 10 MΩ.
+
+#115
+Injecter 12 mA dans une boucle
+Injetar 12 mA em uma malha
+向回路注入12 mA
+Подать 12 мА в контур
+Wprowadź 12 mA do pętli
+12 mA betáplálása egy hurokba
+Inyectar 12 mA en un lazo
+
+#116
+Avec le calibrateur en Source mA, envoyez 12 mA dans une charge de sorte que 12 mA circulent réellement.
+Com o calibrador em Source mA, envie 12 mA a uma carga de modo que 12 mA realmente circulem.
+将校准器设为Source mA，向负载输出12 mA，并确保真的有12 mA电流流过。
+Включив калибратор в режим Source mA, подайте 12 мА в нагрузку так, чтобы 12 мА действительно протекали.
+Przy kalibratorze w trybie Source mA podaj 12 mA na obciążenie tak, aby faktycznie płynęło 12 mA.
+A kalibrátort Source mA módba állítva adjon 12 mA-t egy terhelésre úgy, hogy valóban 12 mA folyjon.
+Con el calibrador en Source mA, envíe 12 mA a una carga de modo que realmente circulen 12 mA.
+
+#117
+Provoquer un déclenchement de surcharge
+Provocar o desarme por sobrecarga
+让过载保护动作
+Вызвать срабатывание защиты от перегрузки
+Wywołaj zadziałanie zabezpieczenia przeciążeniowego
+Túlterhelés-kioldás előidézése
+Provocar un disparo por sobrecarga
+
+#118
+Faites déclencher un relais thermique ou un disjoncteur (par exemple en réglant le relais trop bas).
+Faça um relé térmico ou um disjuntor atuar (por exemplo, ajustando a sobrecarga muito baixa).
+让热继电器或断路器动作（例如把过载整定值调得过低）。
+Добейтесь срабатывания теплового реле или автомата (например, установив слишком низкую уставку).
+Doprowadź do zadziałania przekaźnika termicznego lub wyłącznika (na przykład ustawiając zbyt niski prąd nastawy).
+Érje el, hogy egy hőkioldó relé vagy megszakító kioldjon (például a hőkioldót túl alacsonyra állítva).
+Haga que un relé térmico o un interruptor dispare (por ejemplo, ajustando la sobrecarga demasiado baja).
+
+#119
+Mission accomplie :
+Missão cumprida:
+任务完成：
+Задание выполнено:
+Misja wykonana:
+Feladat teljesítve:
+Misión cumplida:
+
+#120
+Chargez d'abord un circuit.
+Carregue primeiro um circuito.
+请先加载一个电路。
+Сначала загрузите схему.
+Najpierw wczytaj obwód.
+Először töltsön be egy áramkört.
+Cargue primero un circuito.
+
+#121
+Un défaut caché a été injecté. Trouvez-le.
+Uma falha oculta foi inserida. Encontre-a.
+已植入一个隐藏故障。请找出它。
+Скрытая неисправность внесена. Найдите её.
+Wprowadzono ukrytą usterkę. Znajdź ją.
+Rejtett hibát illesztettünk be. Keresse meg.
+Se ha inyectado una avería oculta. Encuéntrela.
+
+#122
+Injecter un défaut caché
+Inserir uma falha oculta
+植入隐藏故障
+Внести скрытую неисправность
+Wprowadź ukrytą usterkę
+Rejtett hiba beillesztése
+Inyectar una avería oculta
+
+#123
+Un composant au hasard reçoit un défaut caché. Utilisez les appareils de mesure pour trouver quel composant et quel défaut, puis répondez ici.
+Um componente aleatório recebe uma falha oculta. Use os instrumentos para descobrir qual componente e qual falha, depois responda aqui.
+随机选一个元件植入隐藏故障。用仪表找出是哪个元件、什么故障，然后在这里作答。
+Случайный компонент получает скрытую неисправность. С помощью приборов определите, какой компонент и какая неисправность, и ответьте здесь.
+Losowy element otrzymuje ukrytą usterkę. Za pomocą mierników ustal, który to element i jaka usterka, a potem odpowiedz tutaj.
+Egy véletlenszerű alkatrészbe rejtett hiba kerül. A műszerekkel találja meg, melyik alkatrész és milyen hiba, majd válaszoljon itt.
+Un componente al azar recibe una avería oculta. Use los instrumentos para hallar qué componente y qué avería, y responda aquí.
+
+#124
+Quel composant ?
+Qual componente?
+哪个元件？
+Какой компонент?
+Który element?
+Melyik alkatrész?
+¿Qué componente?
+
+#125
+Quel défaut ?
+Qual falha?
+什么故障？
+Какая неисправность?
+Jaka usterka?
+Milyen hiba?
+¿Qué avería?
+
+#126
+Correct ! Le composant et le défaut sont bons.
+Correto! O componente e a falha estão certos.
+正确！元件和故障都对。
+Верно! Компонент и неисправность определены правильно.
+Dobrze! Element i usterka są prawidłowe.
+Helyes! Az alkatrész és a hiba is jó.
+¡Correcto! El componente y la avería son los correctos.
+
+#127
+Bon composant, mauvais type de défaut.
+Componente certo, tipo de falha errado.
+元件对了，但故障类型不对。
+Компонент верный, тип неисправности неверный.
+Dobry element, zły rodzaj usterki.
+Jó alkatrész, de rossz hibatípus.
+Componente correcto, tipo de avería incorrecto.
+
+#128
+Ce n'est pas ce composant. Continuez à mesurer.
+Não é esse componente. Continue medindo.
+不是这个元件。继续测量。
+Не этот компонент. Продолжайте измерять.
+To nie ten element. Mierz dalej.
+Nem ez az alkatrész. Mérjen tovább.
+No es ese componente. Siga midiendo.
+
+#129
+Vérifier ma réponse
+Verificar minha resposta
+检查我的答案
+Проверить мой ответ
+Sprawdź moją odpowiedź
+Válaszom ellenőrzése
+Comprobar mi respuesta
+
+#130
+Afficher la réponse
+Mostrar a resposta
+显示答案
+Показать ответ
+Pokaż odpowiedź
+Válasz megjelenítése
+Mostrar la respuesta
+

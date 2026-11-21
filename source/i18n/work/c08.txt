@@ -1,0 +1,2070 @@
+#1218
+Lisez la tension, le couplage (Y ou Δ), le courant et l'indice IP. Le couplage détermine le câblage de la boîte à bornes.
+Leia a tensão, a ligação (Y ou Δ), a corrente e o grau IP. A ligação define como a caixa de terminais é ligada.
+读取电压、接法（Y或Δ）、电流和IP防护等级。接法决定接线盒怎么接线。
+Прочитайте напряжение, схему соединения (Y или Δ), ток и степень защиты IP. Схема соединения определяет, как подключается клеммная коробка.
+Odczytaj napięcie, połączenie (Y lub Δ), prąd i stopień ochrony IP. Połączenie decyduje o sposobie okablowania skrzynki zaciskowej.
+Olvassa le a feszültséget, a kapcsolást (Y vagy Δ), az áramot és az IP védettséget. A kapcsolás határozza meg a kapocsdoboz huzalozását.
+Lea la tensión, la conexión (Y o Δ), la corriente y el grado IP. La conexión decide cómo se cablea la caja de bornes.
+
+#1219
+Ne l'ouvrez qu'après avoir isolé le circuit et prouvé qu'il est hors tension.
+Abra somente depois de o circuito ser isolado e comprovado sem tensão.
+只有在回路已隔离并确认无电之后才能打开它。
+Открывайте только после того, как цепь отключена и подтверждено отсутствие напряжения.
+Otwieraj dopiero po odcięciu obwodu i potwierdzeniu braku napięcia.
+Csak akkor nyissa ki, ha az áramkört leválasztották, és igazolták a feszültségmentességet.
+Ábrala solo después de aislar el circuito y comprobar que está sin tensión.
+
+#1220
+Arbre
+Eixo
+轴
+Вал
+Wał
+Tengely
+Eje
+
+#1221
+Un arbre qui tourne peut happer les vêtements. Il peut aussi continuer à tourner après l'isolement.
+Um eixo girando pode prender roupas. Ele também pode continuar girando depois do isolamento.
+转动的轴会卷住衣物。隔离之后它还可能继续转动。
+Вращающийся вал может затянуть одежду. Он также может продолжать вращаться после отключения.
+Obracający się wał może wciągnąć ubranie. Może też kręcić się dalej po odcięciu.
+A forgó tengely beránthatja a ruhát. A leválasztás után is foroghat tovább.
+Un eje que gira puede atrapar la ropa. También puede seguir girando tras el aislamiento.
+
+#1222
+Capot du ventilateur
+Tampa do ventilador de resfriamento
+冷却风扇罩
+Кожух вентилятора охлаждения
+Osłona wentylatora chłodzącego
+Hűtőventilátor-burkolat
+Cubierta del ventilador de refrigeración
+
+#1223
+Le ventilateur souffle de l'air sur les ailettes. Gardez-le couvert ; il s'arrête en dernier.
+O ventilador sopra ar sobre as aletas. Mantenha coberto; ele é o último a parar.
+风扇向散热片吹风。保持罩好；它是最后停下的部件。
+Вентилятор обдувает рёбра воздухом. Держите его закрытым; он останавливается последним.
+Wentylator nadmuchuje powietrze na żebra. Utrzymuj osłonę; zatrzymuje się jako ostatni.
+A ventilátor levegőt fúj a bordákra. Tartsa letakarva; ez áll meg utoljára.
+El ventilador sopla aire sobre las aletas. Manténgalo cubierto; es lo último que se detiene.
+
+#1224
+Enroulements du stator
+Enrolamentos do estator
+定子绕组
+Обмотки статора
+Uzwojenia stojana
+Állórész-tekercsek
+Devanados del estator
+
+#1225
+Trois jeux de bobines, un par phase, créent un champ magnétique tournant.
+Três conjuntos de bobinas, um por fase, criam um campo magnético girante.
+三组线圈，每相一组，产生旋转磁场。
+Три группы катушек, по одной на фазу, создают вращающееся магнитное поле.
+Trzy zestawy cewek, po jednym na fazę, tworzą wirujące pole magnetyczne.
+Három tekercscsoport, fázisonként egy, forgó mágneses mezőt hoz létre.
+Tres juegos de bobinas, uno por fase, crean un campo magnético giratorio.
+
+#1226
+Rotor
+Rotor
+转子
+Ротор
+Wirnik
+Forgórész
+Rotor
+
+#1227
+Barres de cuivre ou d'aluminium dans un noyau de fer. Le champ l'entraîne en rotation.
+Barras de cobre ou alumínio em um núcleo de ferro. O campo o arrasta em rotação.
+铁芯中的铜条或铝条。磁场带着它转动。
+Медные или алюминиевые стержни в железном сердечнике. Поле увлекает его за собой.
+Pręty miedziane lub aluminiowe w rdzeniu żelaznym. Pole porywa go w ruch obrotowy.
+Réz- vagy alumíniumrudak vasmagban. A mező magával húzza.
+Barras de cobre o aluminio en un núcleo de hierro. El campo lo arrastra en giro.
+
+#1228
+Extrémités d'enroulement U1 V1 W1
+Pontas de enrolamento U1 V1 W1
+绕组端头U1 V1 W1
+Выводы обмоток U1 V1 W1
+Końce uzwojeń U1 V1 W1
+Tekercsvégek U1 V1 W1
+Extremos de devanado U1 V1 W1
+
+#1229
+Six extrémités arrivent dans la boîte. Les barrettes décident étoile ou triangle.
+Seis pontas chegam à caixa. As barras de ligação decidem estrela ou triângulo.
+六个端头引到接线盒。连接片决定是星形还是三角形。
+В коробку выходят шесть выводов. Перемычки определяют «звезду» или «треугольник».
+Do skrzynki dochodzi sześć końców. Mostki decydują o gwieździe lub trójkącie.
+Hat vég érkezik a dobozba. Az áthidalók döntik el, hogy csillag vagy delta lesz.
+Seis extremos llegan a la caja. Los puentes deciden estrella o triángulo.
+
+#1230
+De mauvaises barrettes sur une alimentation 400 V brûlent le moteur ou le laissent faible.
+Barras de ligação erradas em uma alimentação de 400 V queimam o motor ou o deixam fraco.
+在400 V电源上接错连接片会烧毁电机，或者让它出力不足。
+Неправильные перемычки при питании 400 В сжигают двигатель или оставляют его слабым.
+Złe mostki przy zasilaniu 400 V spalają silnik lub osłabiają go.
+Rossz áthidalók 400 V-os betáplálásnál kiégetik a motort, vagy gyengévé teszik.
+Puentes incorrectos con una alimentación de 400 V queman el motor o lo dejan débil.
+
+#1231
+Terre
+Terra
+接地
+Земля
+Uziemienie
+Föld
+Tierra
+
+#1232
+Relie la carcasse à la terre. Ne la retirez jamais.
+Liga a carcaça à terra. Nunca a remova.
+把机壳接到大地。绝不要拆掉它。
+Соединяет корпус с землёй. Никогда не снимайте.
+Łączy obudowę z ziemią. Nigdy go nie usuwaj.
+A vázat a földhöz köti. Soha ne távolítsa el.
+Conecta la carcasa a tierra. No la quite nunca.
+
+#1233
+Isolez au démarreur ou au disjoncteur et verrouillez là (le moteur lui-même n'a pas de point de verrouillage).
+Isole na partida ou no disjuntor e bloqueie ali (o motor em si não tem ponto de bloqueio).
+在启动器或断路器处隔离并在那里上锁（电机本身没有上锁点）。
+Отключите на пускателе или автомате и заблокируйте там (у самого двигателя нет точки блокировки).
+Odetnij na rozruszniku lub wyłączniku i zablokuj tam (sam silnik nie ma punktu blokady).
+Válassza le az indítónál vagy a megszakítónál, és ott zárja le (magán a motoron nincs lezárási pont).
+Aísle en el arrancador o el interruptor y bloquee allí (el motor en sí no tiene punto de bloqueo).
+
+#1234
+Attendez l'arrêt de l'arbre ; bloquez-le si des personnes sont proches.
+Espere o eixo parar; bloqueie-o se houver pessoas por perto.
+等轴完全停转；如果有人靠近，要把它卡住。
+Дождитесь остановки вала; застопорьте его, если рядом люди.
+Poczekaj, aż wał się zatrzyma; zablokuj go, jeśli w pobliżu są ludzie.
+Várja meg, amíg a tengely megáll; blokkolja, ha emberek vannak a közelben.
+Espere a que el eje se pare; bloquéelo si hay personas cerca.
+
+#1235
+Testez U1, V1, W1 entre eux et vers la terre avant de toucher.
+Teste U1, V1, W1 entre si e para a terra antes de tocar.
+触摸之前，测试U1、V1、W1之间以及对地。
+Перед тем как прикоснуться, проверьте U1, V1, W1 между собой и на землю.
+Przed dotknięciem przetestuj U1, V1, W1 między sobą i do ziemi.
+Mielőtt hozzáér, vizsgálja meg az U1, V1, W1 kapcsokat egymás között és a föld felé.
+Pruebe U1, V1, W1 entre sí y a tierra antes de tocar.
+
+#1236
+Prouver-tester-prouver avec un testeur bipolaire sur la boîte à bornes, six paires.
+Comprovar-testar-comprovar com um testador bipolar na caixa de terminais, seis pares.
+用双极验电器在接线盒上做验证—测试—再验证，共六对。
+Проверить–измерить–проверить двухполюсным указателем на клеммной коробке, шесть пар.
+Sprawdź–zmierz–sprawdź testerem dwubiegunowym na skrzynce zaciskowej, sześć par.
+Ellenőrzés–mérés–ellenőrzés kétpólusú vizsgálóval a kapocsdobozon, hat pár.
+Comprobar-medir-comprobar con un comprobador bipolar en la caja de bornes, seis pares.
+
+#1237
+Travailler sur le moteur parce qu'« il s'est arrêté ».
+Trabalhar no motor porque "ele parou".
+因为"它停了"就在电机上作业。
+Работать на двигателе, потому что «он остановился».
+Praca przy silniku, bo „się zatrzymał".
+A motoron dolgozni, mert „leállt".
+Trabajar en el motor porque «se ha parado».
+
+#1238
+Ouvrir la boîte alors que la machine tourne encore et génère de la tension.
+Abrir a caixa com a máquina ainda girando e gerando tensão.
+机器仍在转动并产生电压时就打开接线盒。
+Открывать коробку, пока машина ещё вращается и вырабатывает напряжение.
+Otwieranie skrzynki, gdy maszyna jeszcze się obraca i generuje napięcie.
+Kinyitni a dobozt, amíg a gép még forog és feszültséget termel.
+Abrir la caja con la máquina aún girando y generando tensión.
+
+#1239
+IEC 60034. Un moteur qui tourne peut se comporter en générateur ; isolez le variateur et attendez l'arrêt complet.
+IEC 60034. Um motor girando pode atuar como gerador; isole o acionamento e espere a parada total.
+IEC 60034。旋转的电机可以充当发电机；要隔离驱动器并等到完全停转。
+IEC 60034. Вращающийся двигатель может работать как генератор; отключите привод и дождитесь полной остановки.
+IEC 60034. Obracający się silnik może działać jak generator; odetnij napęd i poczekaj na całkowite zatrzymanie.
+IEC 60034. A forgó motor generátorként viselkedhet; válassza le a hajtást, és várja meg a teljes leállást.
+IEC 60034. Un motor que gira puede actuar como generador; aísle el accionamiento y espere a la parada completa.
+
+#1240
+Moteur monophasé avec condensateur permanent
+Motor monofásico com capacitor de funcionamento
+带运行电容的单相电机
+Однофазный двигатель с рабочим конденсатором
+Silnik jednofazowy z kondensatorem roboczym
+Egyfázisú motor üzemi kondenzátorral
+Motor monofásico con condensador de marcha
+
+#1241
+Un petit moteur 230 V, courant sur les ventilateurs, pompes et compresseurs. Il a un enroulement principal et un second enroulement alimenté par un condensateur pour lancer la rotation. Le condensateur peut garder une charge douloureuse pendant des minutes après la coupure. Isolez l'alimentation, puis déchargez le condensateur à travers une résistance avant d'y toucher.
+Um pequeno motor de 230 V, comum em ventiladores, bombas e compressores. Tem um enrolamento principal e um segundo enrolamento alimentado por um capacitor para iniciar a rotação. O capacitor pode manter uma carga dolorosa por minutos depois de desligado. Isole a alimentação e depois descarregue o capacitor por um resistor antes de tocá-lo.
+一种小型230 V电机，常见于风机、水泵和压缩机。它有一个主绕组，以及一个通过电容供电、用于起动旋转的第二绕组。电容在断电后几分钟内仍可能带有会造成疼痛电击的电荷。先隔离电源，然后在触摸之前用电阻给电容放电。
+Небольшой двигатель на 230 В, распространённый на вентиляторах, насосах и компрессорах. У него есть главная обмотка и вторая обмотка, питаемая через конденсатор для запуска вращения. Конденсатор может держать болезненный заряд несколько минут после отключения. Отключите питание, затем разрядите конденсатор через резистор, прежде чем касаться его.
+Mały silnik 230 V, popularny w wentylatorach, pompach i sprężarkach. Ma uzwojenie główne i drugie uzwojenie zasilane przez kondensator, które rozpoczyna ruch obrotowy. Kondensator może trzymać bolesny ładunek przez kilka minut po wyłączeniu. Odetnij zasilanie, a potem rozładuj kondensator przez rezystor, zanim go dotkniesz.
+Kis, 230 V-os motor, gyakori ventilátorokon, szivattyúkon és kompresszorokon. Van egy főtekercse és egy második, kondenzátoron át táplált tekercse, amely elindítja a forgást. A kondenzátor a kikapcsolás után percekig fájdalmas töltést tarthat. Válassza le a betáplálást, majd érintés előtt süsse ki a kondenzátort ellenálláson keresztül.
+Un motor pequeño de 230 V, habitual en ventiladores, bombas y compresores. Tiene un devanado principal y un segundo devanado alimentado a través de un condensador para iniciar el giro. El condensador puede retener una carga dolorosa durante minutos tras apagar. Aísle la alimentación y luego descargue el condensador a través de una resistencia antes de tocarlo.
+
+#1242
+Alimenté par : un disjoncteur bipolaire ou une prise, 230 V.
+Alimentado por: um disjuntor bipolar ou um plugue, 230 V.
+供电来源：双极断路器或插头，230 V。
+Питается от: двухполюсного автомата или вилки, 230 В.
+Zasilany przez: wyłącznik dwubiegunowy lub wtyczkę, 230 V.
+Táplálja: kétpólusú megszakító vagy dugó, 230 V.
+Alimentado por: un interruptor bipolar o un enchufe, 230 V.
+
+#1243
+Charge stockée : déchargez avant de toucher
+Carga armazenada: descarregue antes de tocar
+储存有电荷：触摸前先放电
+Накопленный заряд: разрядите, прежде чем касаться
+Zmagazynowany ładunek: rozładuj przed dotknięciem
+Tárolt töltés: érintés előtt süsse ki
+Carga almacenada: descargue antes de tocar
+
+#1244
+Condensateur permanent
+Capacitor de funcionamento
+运行电容
+Рабочий конденсатор
+Kondensator roboczy
+Üzemi kondenzátor
+Condensador de marcha
+
+#1245
+Le boîtier bleu au-dessus. Il stocke de l'énergie même moteur débranché.
+A lata azul em cima. Ele armazena energia mesmo com o motor desligado da tomada.
+上面的蓝色圆罐。即使电机已拔掉插头，它仍然储存着能量。
+Синий цилиндр сверху. Он хранит энергию, даже когда двигатель отключён от сети.
+Niebieska puszka na górze. Magazynuje energię nawet po wyjęciu wtyczki silnika.
+A felső kék henger. Akkor is tárol energiát, ha a motort kihúzták.
+La lata azul de arriba. Almacena energía incluso con el motor desenchufado.
+
+#1246
+Tension, vitesse, puissance et valeur du condensateur.
+Tensão, velocidade, potência e valor do capacitor.
+电压、转速、功率和电容值。
+Напряжение, скорость, мощность и ёмкость конденсатора.
+Napięcie, prędkość, moc i wartość kondensatora.
+Feszültség, fordulatszám, teljesítmény és a kondenzátor értéke.
+Tensión, velocidad, potencia y valor del condensador.
+
+#1247
+Ailettes de refroidissement
+Aletas de resfriamento
+散热片
+Охлаждающие рёбра
+Żebra chłodzące
+Hűtőbordák
+Aletas de refrigeración
+
+#1248
+La poussière et l'huile sur les ailettes font chauffer le moteur.
+Poeira e óleo nas aletas fazem o motor esquentar.
+散热片上的灰尘和油污会使电机过热。
+Пыль и масло на рёбрах заставляют двигатель перегреваться.
+Kurz i olej na żebrach powodują przegrzewanie się silnika.
+A bordákon lévő por és olaj miatt a motor túlmelegszik.
+El polvo y el aceite en las aletas hacen que el motor se caliente.
+
+#1249
+Enroulement principal
+Enrolamento principal
+主绕组
+Главная обмотка
+Uzwojenie główne
+Főtekercs
+Devanado principal
+
+#1250
+Alimenté directement par le réseau.
+Alimentado diretamente pela rede.
+直接由电网供电。
+Питается непосредственно от сети.
+Zasilane bezpośrednio z sieci.
+Közvetlenül a hálózatról táplálják.
+Alimentado directamente desde la red.
+
+#1251
+Enroulement de démarrage (auxiliaire)
+Enrolamento de partida (auxiliar)
+起动（辅助）绕组
+Пусковая (вспомогательная) обмотка
+Uzwojenie rozruchowe (pomocnicze)
+Indító (segéd) tekercs
+Devanado de arranque (auxiliar)
+
+#1252
+Alimenté par le condensateur. Le condensateur déphase pour qu'un champ tournant se forme.
+Alimentado através do capacitor. O capacitor desloca a fase para formar um campo girante.
+通过电容供电。电容使相位移动，从而形成旋转磁场。
+Питается через конденсатор. Конденсатор сдвигает фазу, и образуется вращающееся поле.
+Zasilane przez kondensator. Kondensator przesuwa fazę, dzięki czemu powstaje pole wirujące.
+A kondenzátoron át táplált. A kondenzátor fázist tol el, így forgó mező jön létre.
+Alimentado a través del condensador. El condensador desplaza la fase para que se forme un campo giratorio.
+
+#1253
+Peut garder plusieurs centaines de volts après la coupure. Déchargez à travers une résistance, jamais avec un tournevis.
+Pode manter várias centenas de volts depois do desligamento. Descarregue por um resistor, nunca com uma chave de fenda.
+断电后可能保持几百伏电压。要通过电阻放电，绝不能用螺丝刀。
+Может сохранять несколько сотен вольт после отключения. Разряжайте через резистор, никогда отвёрткой.
+Może utrzymywać kilkaset woltów po wyłączeniu. Rozładowuj przez rezystor, nigdy śrubokrętem.
+A kikapcsolás után több száz voltot is tarthat. Ellenálláson át süsse ki, soha ne csavarhúzóval.
+Puede retener varios cientos de voltios tras apagar. Descargue a través de una resistencia, nunca con un destornillador.
+
+#1254
+Rotor à cage simple, comme un moteur triphasé.
+Rotor de gaiola simples, igual ao de um motor trifásico.
+普通笼型转子，与三相电机相同。
+Простой короткозамкнутый ротор, как у трёхфазного двигателя.
+Zwykły wirnik klatkowy, taki sam jak w silniku trójfazowym.
+Egyszerű kalickás forgórész, ugyanolyan, mint a háromfázisú motornál.
+Rotor de jaula simple, igual que en un motor trifásico.
+
+#1255
+Isolez l'alimentation 230 V : disjoncteur ou prise, verrouillez.
+Isole a alimentação de 230 V: disjuntor ou plugue, e bloqueie.
+隔离230 V电源：断路器或插头，并上锁。
+Отключите питание 230 В: автомат или вилку, заблокируйте.
+Odetnij zasilanie 230 V: wyłącznik lub wtyczkę, zablokuj.
+Válassza le a 230 V-os betáplálást: megszakítót vagy dugót, és zárja le.
+Aísle la alimentación de 230 V: interruptor o enchufe, y bloquee.
+
+#1256
+Attendez une minute et déchargez le condensateur à travers une résistance.
+Espere um minuto e descarregue o capacitor por um resistor.
+等一分钟，然后通过电阻给电容放电。
+Подождите минуту и разрядите конденсатор через резистор.
+Poczekaj minutę i rozładuj kondensator przez rezystor.
+Várjon egy percet, és süsse ki a kondenzátort ellenálláson át.
+Espere un minuto y descargue el condensador a través de una resistencia.
+
+#1257
+Mesurez aux bornes du condensateur : il doit indiquer 0 V.
+Meça nos terminais do capacitor: deve marcar 0 V.
+测量电容两端：应读到0 V。
+Измерьте на выводах конденсатора: должно быть 0 В.
+Zmierz na zaciskach kondensatora: powinien wskazać 0 V.
+Mérje meg a kondenzátor kapcsain: 0 V-ot kell mutatnia.
+Mida en los bornes del condensador: debe marcar 0 V.
+
+#1258
+Toucher les bornes du condensateur après avoir débranché.
+Tocar os terminais do capacitor depois de desligar da tomada.
+拔掉插头后就去碰电容的端子。
+Касаться выводов конденсатора после отключения вилки.
+Dotykanie zacisków kondensatora po wyciągnięciu wtyczki.
+Megérinteni a kondenzátor kapcsait a kihúzás után.
+Tocar los bornes del condensador tras desenchufar.
+
+#1259
+Court-circuiter le condensateur avec un tournevis : étincelles et dégâts.
+Curto-circuitar o capacitor com uma chave de fenda: faíscas e danos.
+用螺丝刀短接电容：会产生火花并造成损坏。
+Замыкать конденсатор отвёрткой: искры и повреждения.
+Zwieranie kondensatora śrubokrętem: iskry i uszkodzenia.
+A kondenzátor rövidre zárása csavarhúzóval: szikrák és károk.
+Cortocircuitar el condensador con un destornillador: chispas y daños.
+
+#1260
+IEC 60034 / IEC 61010. Les condensateurs peuvent garder une charge : utilisez une résistance de décharge.
+IEC 60034 / IEC 61010. Capacitores podem reter carga: use um resistor de descarga.
+IEC 60034 / IEC 61010。电容可能保持电荷：请使用放电电阻。
+IEC 60034 / IEC 61010. Конденсаторы могут сохранять заряд: используйте разрядный резистор.
+IEC 60034 / IEC 61010. Kondensatory mogą utrzymywać ładunek: użyj rezystora rozładowczego.
+IEC 60034 / IEC 61010. A kondenzátorok töltést tarthatnak: használjon kisütő ellenállást.
+IEC 60034 / IEC 61010. Los condensadores pueden retener carga: use una resistencia de descarga.
+
+#1261
+En marche
+Em funcionamento
+运行中
+Работает
+Pracuje
+Üzemel
+En marcha
+
+#1262
+Isolé il y a 10 s
+Isolado há 10 s
+10 秒前已隔离
+Отключён 10 с назад
+Odcięty 10 s temu
+10 mp-e leválasztva
+Aislado hace 10 s
+
+#1263
+Après 5 min
+Após 5 min
+5 分钟后
+Через 5 мин
+Po 5 min
+5 perc után
+Tras 5 min
+
+#1264
+Un variateur redresse le secteur en un bus continu (environ 560 V sur du 400 V) maintenu par de gros condensateurs, puis reconstruit un nouveau courant alternatif pour le moteur. Après l'isolement et la consignation de l'alimentation, les condensateurs gardent le bus chargé pendant plusieurs minutes. L'étiquette du variateur indique le temps d'attente (souvent 5 minutes). Mesurez DC+ vers DC- et attendez que la valeur soit proche de zéro.
+Um inversor retifica a rede em um barramento CC (cerca de 560 V em 400 V) mantido por grandes capacitores, e depois gera uma nova CA para o motor. Depois que você isola e bloqueia a alimentação, os capacitores mantêm o barramento carregado por minutos. A etiqueta do inversor informa o tempo de espera (muitas vezes 5 minutos). Meça DC+ a DC- e espere até ficar próximo de zero.
+变频器把市电整流成直流母线（400 V电网下约560 V），由大电容保持，然后再为电机生成新的交流电。你把电源隔离并上锁之后，电容仍会让母线保持带电好几分钟。变频器铭牌上标有等待时间（通常是5分钟）。测量DC+对DC-，等到读数接近零。
+Преобразователь выпрямляет сетевое напряжение в шину постоянного тока (около 560 В при 400 В), которую держат большие конденсаторы, а затем формирует новое переменное напряжение для двигателя. После того как вы отключили и заблокировали питание, конденсаторы удерживают шину заряженной в течение нескольких минут. На табличке преобразователя указано время ожидания (часто 5 минут). Измерьте DC+ относительно DC- и дождитесь, пока значение приблизится к нулю.
+Falownik prostuje napięcie sieci do szyny DC (około 560 V przy 400 V) utrzymywanej przez duże kondensatory, a następnie buduje nowe napięcie przemienne dla silnika. Po odcięciu i zablokowaniu zasilania kondensatory utrzymują szynę naładowaną przez kilka minut. Etykieta falownika podaje czas oczekiwania (często 5 minut). Zmierz DC+ do DC- i poczekaj, aż wartość będzie bliska zera.
+A frekvenciaváltó a hálózatot egyenirányítja egy DC köztes körbe (400 V mellett kb. 560 V), amelyet nagy kondenzátorok tartanak, majd új váltakozó feszültséget állít elő a motornak. Miután leválasztotta és lezárta a betáplálást, a kondenzátorok percekig töltve tartják a köztes kört. A hajtás címkéje megadja a várakozási időt (gyakran 5 perc). Mérje meg a DC+ és DC- között, és várja meg, amíg nulla közelébe esik.
+Un variador rectifica la red en un bus de CC (unos 560 V con 400 V) sostenido por grandes condensadores y luego genera una nueva CA para el motor. Después de aislar y bloquear la alimentación, los condensadores mantienen el bus cargado durante minutos. La etiqueta del variador indica el tiempo de espera (a menudo 5 minutos). Mida DC+ a DC- y espere hasta que esté cerca de cero.
+
+#1265
+Alimente : un moteur à vitesse réglable. Les bornes de commande peuvent avoir des alimentations séparées.
+Alimenta: um motor com velocidade ajustável. Os terminais de comando podem ter alimentações separadas.
+供电对象：调速电机。控制端子可能有独立的电源。
+Питает: двигатель с регулируемой скоростью. Клеммы управления могут иметь отдельное питание.
+Zasila: silnik o regulowanej prędkości. Zaciski sterowania mogą mieć osobne zasilanie.
+Táplál: állítható fordulatszámú motort. A vezérlőkapcsoknak külön betáplálásuk lehet.
+Alimenta: un motor de velocidad ajustable. Los bornes de mando pueden tener alimentaciones separadas.
+
+#1266
+DANGER
+PERIGO
+危险
+ОПАСНО
+NIEBEZPIECZEŃSTWO
+VESZÉLY
+PELIGRO
+
+#1267
+Attendre 5 min après la mise hors tension
+Esperar 5 min após desligar
+断电后等待5分钟
+Подождать 5 мин после отключения питания
+Poczekać 5 min po wyłączeniu zasilania
+Kikapcsolás után várjon 5 percet
+Esperar 5 min tras cortar la alimentación
+
+#1268
+Condensateurs du bus continu
+Capacitores do barramento CC
+直流母线电容
+Конденсаторы шины постоянного тока
+Kondensatory szyny DC
+DC köztes kör kondenzátorai
+Condensadores del bus de CC
+
+#1269
+6 diodes
+6 diodos
+6个二极管
+6 диодов
+6 diod
+6 dióda
+6 diodos
+
+#1270
+Onduleur
+Inversor (estágio de saída)
+逆变器
+Инвертор
+Falownik (stopień wyjściowy)
+Inverter
+Inversor
+
+#1271
+Tension du bus continu
+Tensão do barramento CC
+直流母线电压
+Напряжение шины постоянного тока
+Napięcie szyny DC
+DC köztes kör feszültsége
+Tensión del bus de CC
+
+#1272
+En marche : le bus est à environ 560 V
+Em funcionamento: o barramento está em cerca de 560 V
+运行中：母线约560 V
+Работает: шина около 560 В
+Praca: szyna ma około 560 V
+Üzemel: a köztes kör kb. 560 V
+En marcha: el bus está en unos 560 V
+
+#1273
+Isolé, mais le bus est toujours mortel
+Isolado, mas o barramento ainda é letal
+已隔离，但母线仍然致命
+Отключён, но шина всё ещё смертельно опасна
+Odcięty, ale szyna nadal jest śmiertelna
+Leválasztva, de a köztes kör még életveszélyes
+Aislado, pero el bus sigue siendo letal
+
+#1274
+Proche de zéro : mesurez pour confirmer
+Próximo de zero: meça para confirmar
+接近零：测量确认
+Около нуля: измерьте для подтверждения
+Bliskie zera: zmierz, aby potwierdzić
+Nulla közelében: mérjen a megerősítéshez
+Cerca de cero: mida para confirmar
+
+#1275
+Afficheur
+Display
+显示屏
+Дисплей
+Wyświetlacz
+Kijelző
+Pantalla
+
+#1276
+Un afficheur éteint ne veut pas dire que le bus continu est déchargé.
+Um display apagado não significa que o barramento CC está descarregado.
+显示屏熄灭并不表示直流母线已经放完电。
+Погасший дисплей не означает, что шина постоянного тока разряжена.
+Wygaszony wyświetlacz nie oznacza, że szyna DC jest rozładowana.
+A sötét kijelző nem jelenti, hogy a DC köztes kör kisült.
+Una pantalla apagada no significa que el bus de CC esté descargado.
+
+#1277
+Étiquette d'avertissement
+Etiqueta de aviso
+警告标签
+Предупреждающая табличка
+Etykieta ostrzegawcza
+Figyelmeztető címke
+Etiqueta de advertencia
+
+#1278
+Indique le temps d'attente avant d'ouvrir les capots.
+Informa o tempo de espera antes de abrir as tampas.
+给出打开护盖前需要等待的时间。
+Указывает время ожидания перед открытием крышек.
+Podaje czas oczekiwania przed otwarciem osłon.
+Megadja a burkolatok felnyitása előtti várakozási időt.
+Indica el tiempo de espera antes de abrir las cubiertas.
+
+#1279
+Bornes DC+ DC-
+Terminais DC+ DC-
+DC+ DC-端子
+Клеммы DC+ DC-
+Zaciski DC+ DC-
+DC+ DC- kapcsok
+Bornes DC+ DC-
+
+#1280
+Mesurez ici entre DC+ et DC-. Utilisez un appareil prévu pour la tension du bus (1000 V).
+Meça aqui entre DC+ e DC-. Use um medidor com classificação para a tensão do barramento (1000 V).
+在这里测量DC+和DC-之间。使用额定电压能满足母线电压的仪表（1000 V）。
+Измеряйте здесь между DC+ и DC-. Используйте прибор, рассчитанный на напряжение шины (1000 В).
+Mierz tutaj między DC+ a DC-. Użyj miernika przystosowanego do napięcia szyny (1000 V).
+Itt mérjen a DC+ és DC- között. Olyan műszert használjon, amely a köztes kör feszültségére méretezett (1000 V).
+Mida aquí entre DC+ y DC-. Use un medidor apto para la tensión del bus (1000 V).
+
+#1281
+Six diodes transforment le courant alternatif triphasé en courant continu.
+Seis diodos transformam a CA trifásica em CC.
+六个二极管把三相交流变成直流。
+Шесть диодов превращают трёхфазное переменное напряжение в постоянное.
+Sześć diod zamienia trójfazowe AC na DC.
+Hat dióda alakítja a háromfázisú váltakozó feszültséget egyenfeszültséggé.
+Seis diodos convierten la CA trifásica en CC.
+
+#1282
+Gros condensateurs électrolytiques. Ils se déchargent lentement à travers des résistances de purge.
+Grandes capacitores eletrolíticos. Descarregam devagar por resistores de sangria.
+大型电解电容。它们通过泄放电阻缓慢放电。
+Большие электролитические конденсаторы. Они медленно разряжаются через разрядные резисторы.
+Duże kondensatory elektrolityczne. Rozładowują się powoli przez rezystory upustowe.
+Nagy elektrolit kondenzátorok. Lassan sülnek ki a kisütő ellenállásokon át.
+Grandes condensadores electrolíticos. Se descargan lentamente a través de resistencias de descarga.
+
+#1283
+Des IGBT hachent le courant continu en un nouveau courant alternatif pour le moteur. Les câbles de sortie sont aussi sous tension pendant la marche.
+IGBTs picam a CC em uma nova CA para o motor. Os cabos de saída também ficam energizados enquanto ele funciona.
+IGBT把直流斩波成为电机用的新交流电。运行时输出电缆也带电。
+IGBT-транзисторы нарезают постоянное напряжение в новое переменное для двигателя. Выходные кабели тоже под напряжением во время работы.
+Tranzystory IGBT tną napięcie stałe na nowe przemienne dla silnika. Kable wyjściowe również są pod napięciem podczas pracy.
+Az IGBT-k az egyenfeszültséget új váltakozó feszültséggé szecskázzák a motor számára. A kimeneti kábelek üzem közben szintén feszültség alatt vannak.
+Los IGBT trocean la CC en una nueva CA para el motor. Los cables de salida también tienen tensión mientras funciona.
+
+#1284
+Voltmètre du bus
+Medidor do barramento
+母线电压表
+Вольтметр шины
+Miernik szyny
+Köztes kör mérő
+Medidor del bus
+
+#1285
+Montre comment la tension baisse après l'isolement. Les vrais variateurs ont une résistance de purge qui peut défaillir : mesurez toujours.
+Mostra como a tensão cai depois do isolamento. Inversores reais têm um resistor de sangria que pode falhar: sempre meça.
+显示隔离之后电压如何下降。真实的变频器带有泄放电阻，但它可能失效：一定要测量。
+Показывает, как падает напряжение после отключения. В реальных преобразователях есть разрядный резистор, который может выйти из строя: всегда измеряйте.
+Pokazuje, jak spada napięcie po odcięciu. Prawdziwe falowniki mają rezystor upustowy, który może zawieść: zawsze mierz.
+Megmutatja, hogyan esik a feszültség a leválasztás után. A valódi hajtásokban kisütő ellenállás van, amely meghibásodhat: mindig mérjen.
+Muestra cómo cae la tensión tras el aislamiento. Los variadores reales tienen una resistencia de descarga que puede fallar: mida siempre.
+
+#1286
+Isolez et verrouillez l'alimentation du variateur (disjoncteur ou sectionneur rotatif).
+Isole e bloqueie a alimentação do inversor (disjuntor ou seccionadora rotativa).
+隔离并锁定变频器的电源（断路器或旋转隔离开关）。
+Отключите и заблокируйте питание преобразователя (автомат или поворотный разъединитель).
+Odetnij i zablokuj zasilanie falownika (wyłącznik lub rozłącznik obrotowy).
+Válassza le és zárja le a hajtás betáplálását (megszakító vagy forgókaros szakaszoló).
+Aísle y bloquee la alimentación del variador (interruptor o seccionador rotativo).
+
+#1287
+Attendez le temps imprimé sur le variateur.
+Espere o tempo impresso no inversor.
+等待变频器上标注的时间。
+Подождите время, указанное на преобразователе.
+Poczekaj czas podany na falowniku.
+Várja meg a hajtáson feltüntetett időt.
+Espere el tiempo impreso en el variador.
+
+#1288
+Mesurez DC+ vers DC- et vers la terre ; la valeur doit être proche de zéro.
+Meça DC+ para DC- e para a terra; deve ficar próximo de zero.
+测量DC+对DC-以及对地；必须接近零。
+Измерьте DC+ относительно DC- и на землю; значение должно быть около нуля.
+Zmierz DC+ do DC- i do ziemi; musi być bliskie zera.
+Mérje meg a DC+ és DC- között, valamint a föld felé; nulla közelében kell lennie.
+Mida DC+ a DC- y a tierra; debe estar cerca de cero.
+
+#1289
+Prouvez votre appareil sur une source connue, mesurez le bus, prouvez à nouveau.
+Comprove seu medidor em uma fonte conhecida, meça o barramento, comprove de novo.
+先在已知电源上验证你的仪表，再测母线，然后再验证一次。
+Проверьте прибор на известном источнике, измерьте шину, проверьте снова.
+Sprawdź miernik na znanym źródle, zmierz szynę, sprawdź ponownie.
+Igazolja a műszerét ismert forráson, mérje meg a köztes kört, majd igazolja újra.
+Compruebe su medidor en una fuente conocida, mida el bus y vuelva a comprobar.
+
+#1290
+Ouvrir le capot quelques secondes après la coupure.
+Abrir a tampa alguns segundos depois de desligar.
+断电几秒钟后就打开护盖。
+Открывать крышку через несколько секунд после отключения.
+Otwieranie osłony kilka sekund po wyłączeniu.
+Felnyitni a burkolatot néhány másodperccel a kikapcsolás után.
+Abrir la cubierta unos segundos después de apagar.
+
+#1291
+Mesurer avec un appareil non prévu pour la tension du bus.
+Medir com um medidor sem classificação para a tensão do barramento.
+用额定电压不够母线电压的仪表去测量。
+Измерять прибором, не рассчитанным на напряжение шины.
+Pomiar miernikiem nieprzystosowanym do napięcia szyny.
+Mérés olyan műszerrel, amely nem a köztes kör feszültségére méretezett.
+Medir con un medidor no apto para la tensión del bus.
+
+#1292
+IEC 61800-5-1 : les variateurs doivent porter un avertissement et le temps de décharge.
+IEC 61800-5-1: os inversores devem trazer um aviso e o tempo de descarga.
+IEC 61800-5-1：变频器必须标有警告和放电时间。
+IEC 61800-5-1: преобразователи должны иметь предупреждение и время разряда.
+IEC 61800-5-1: falowniki muszą mieć ostrzeżenie i czas rozładowania.
+IEC 61800-5-1: a hajtásokon figyelmeztetésnek és kisülési időnek kell lennie.
+IEC 61800-5-1: los variadores deben llevar una advertencia y el tiempo de descarga.
+
+#1293
+Types d'alimentation : monophasée, biphasée et triphasée
+Tipos de alimentação: monofásica, bifásica e trifásica
+供电类型：单相、两相和三相
+Типы питания: однофазное, двухфазное и трёхфазное
+Rodzaje zasilania: jedno-, dwu- i trójfazowe
+Betáplálási típusok: egy-, két- és háromfázisú
+Tipos de alimentación: monofásica, bifásica y trifásica
+
+#1294
+Le monophasé, c'est un fil de phase (L) et un neutre (N) : 230 V. Une charge biphasée est alimentée par deux des trois phases : 400 V entre elles, pas de neutre. Le triphasé a trois fils de phase décalés de 120 degrés : 400 V entre deux quelconques, 230 V de chacun au neutre. Chacun demande un appareil qui ouvre tous ses fils de phase, et un test entre chaque paire plus vers la terre.
+Monofásico é um fio vivo (L) e um neutro (N): 230 V. Uma carga bifásica é alimentada por duas das três fases: 400 V entre elas, sem neutro. O trifásico tem três fios vivos defasados em 120 graus: 400 V entre quaisquer dois, 230 V de cada um para o neutro. Cada um precisa de um dispositivo que abra todos os seus fios vivos e de um teste entre todos os pares, mais para a terra.
+单相是一根相线（L）和一根零线（N）：230 V。两相负载由三相中的两相供电：两相之间400 V，没有零线。三相有三根相线，相位彼此相差120度：任意两根之间400 V，每根对零线230 V。每一种都需要一个能断开其所有相线的器件，并且要在每一对之间以及对地进行测试。
+Однофазная сеть — это фазный провод (L) и нейтраль (N): 230 В. Двухфазная нагрузка питается от двух из трёх фаз: 400 В между ними, нейтрали нет. В трёхфазной сети три фазных провода со сдвигом 120 градусов: 400 В между любыми двумя, 230 В от каждого до нейтрали. Для каждой нужен аппарат, который размыкает все её фазные провода, и проверка между каждой парой плюс на землю.
+Jednofazowe to przewód fazowy (L) i neutralny (N): 230 V. Odbiornik dwufazowy jest zasilany z dwóch z trzech faz: 400 V między nimi, bez przewodu neutralnego. Trójfazowe ma trzy przewody fazowe przesunięte o 120 stopni: 400 V między dowolnymi dwoma, 230 V od każdego do neutralnego. Każde wymaga urządzenia, które otwiera wszystkie jego przewody fazowe, oraz testu między każdą parą i do ziemi.
+Az egyfázisú rendszer egy fázisvezető (L) és egy nulla (N): 230 V. A kétfázisú terhelést a három fázisból kettő táplálja: köztük 400 V, nulla nélkül. A háromfázisúnak három fázisvezetője van 120 fokkal eltolva: bármelyik kettő között 400 V, mindegyik és a nulla között 230 V. Mindegyikhez olyan készülék kell, amely az összes fázisvezetőjét megnyitja, és minden pár között, valamint a föld felé is mérni kell.
+Monofásico es un cable de fase (L) y un neutro (N): 230 V. Una carga bifásica se alimenta de dos de las tres fases: 400 V entre ellas, sin neutro. El trifásico tiene tres cables de fase desfasados 120 grados: 400 V entre dos cualesquiera, 230 V de cada uno al neutro. Cada uno necesita un dispositivo que abra todos sus cables de fase y una prueba entre cada par más a tierra.
+
+#1295
+Monophasé
+Monofásico
+单相
+Однофазная
+Jednofazowe
+Egyfázisú
+Monofásico
+
+#1296
+Biphasé
+Bifásico
+两相
+Двухфазная
+Dwufazowe
+Kétfázisú
+Bifásico
+
+#1297
+Triphasé
+Trifásico
+三相
+Трёхфазная
+Trójfazowe
+Háromfázisú
+Trifásico
+
+#1298
+3 tests :
+3 testes:
+3次测试：
+3 проверки:
+3 testy:
+3 mérés:
+3 pruebas:
+
+#1299
+6 tests :
+6 testes:
+6次测试：
+6 проверок:
+6 testów:
+6 mérés:
+6 pruebas:
+
+#1300
+3 paires de phases, 3 vers la terre
+3 pares de fases, 3 para a terra
+3对相间，3个对地
+3 пары фаз, 3 на землю
+3 pary faz, 3 do ziemi
+3 fázispár, 3 a föld felé
+3 pares de fases, 3 a tierra
+
+#1301
+Paires pour un circuit triphasé
+Pares para um circuito trifásico
+三相回路的测试对
+Пары для трёхфазной цепи
+Pary dla obwodu trójfazowego
+Párok háromfázisú áramkörhöz
+Pares para un circuito trifásico
+
+#1302
+Ajoutez N vers la terre quand un neutre est présent
+Adicione N para a terra quando houver neutro
+有零线时，加测N对地
+Добавьте N на землю, если есть нейтраль
+Dodaj N do ziemi, gdy jest przewód neutralny
+Ha van nulla, mérje meg az N-t is a föld felé
+Añada N a tierra cuando haya neutro
+
+#1303
+Éclairage, prises, petites machines. Isolez avec un appareil bipolaire (L et N).
+Iluminação, tomadas, máquinas pequenas. Isole com um dispositivo bipolar (L e N).
+照明、插座、小型机器。用双极器件（L和N）隔离。
+Освещение, розетки, небольшие машины. Отключайте двухполюсным аппаратом (L и N).
+Oświetlenie, gniazda, małe maszyny. Odcinaj urządzeniem dwubiegunowym (L i N).
+Világítás, dugaljak, kis gépek. Kétpólusú készülékkel (L és N) válasszon le.
+Alumbrado, tomas, máquinas pequeñas. Aísle con un dispositivo bipolar (L y N).
+
+#1304
+Deux des trois phases : 400 V entre elles. Il n'y a pas de neutre, donc les deux fils sont sous tension par rapport à la terre.
+Duas das três fases: 400 V entre elas. Não há neutro, então os dois fios estão energizados em relação à terra.
+三相中的两相：它们之间400 V。没有零线，所以两根线对地都带电。
+Две из трёх фаз: 400 В между ними. Нейтрали нет, поэтому оба провода находятся под напряжением относительно земли.
+Dwie z trzech faz: 400 V między nimi. Nie ma przewodu neutralnego, więc oba przewody są pod napięciem względem ziemi.
+A három fázisból kettő: köztük 400 V. Nulla nincs, ezért mindkét vezeték feszültség alatt van a földhöz képest.
+Dos de las tres fases: 400 V entre ellas. No hay neutro, así que ambos cables tienen tensión respecto a tierra.
+
+#1305
+Moteurs et grosses charges. Ouvrez les trois ensemble.
+Motores e cargas grandes. Abra os três juntos.
+电机和大负载。三根要同时断开。
+Двигатели и большие нагрузки. Размыкайте все три одновременно.
+Silniki i duże odbiorniki. Otwieraj wszystkie trzy razem.
+Motorok és nagy terhelések. Mindhármat együtt nyissa.
+Motores y cargas grandes. Abra las tres a la vez.
+
+#1306
+Onde sinusoïdale
+Onda senoidal
+正弦波
+Синусоида
+Przebieg sinusoidalny
+Szinuszhullám
+Onda sinusoidal
+
+#1307
+La tension oscille entre plus et moins 50 fois par seconde.
+A tensão oscila entre mais e menos 50 vezes por segundo.
+电压每秒在正负之间摆动50次。
+Напряжение 50 раз в секунду меняется между плюсом и минусом.
+Napięcie waha się między plusem a minusem 50 razy na sekundę.
+A feszültség másodpercenként 50-szer lendül plusz és mínusz között.
+La tensión oscila entre más y menos 50 veces por segundo.
+
+#1308
+Déphasage
+Defasagem
+相移
+Фазовый сдвиг
+Przesunięcie fazowe
+Fáziseltolás
+Desfase
+
+#1309
+Deux phases d'un système triphasé sont décalées de 120 degrés, donc L1–L2 fait 400 V, pas 460 V.
+Duas fases de um sistema trifásico estão defasadas em 120 graus, então L1–L2 é 400 V, não 460 V.
+三相系统中的两相相差120度，所以L1–L2是400 V，不是460 V。
+Две фазы трёхфазной системы сдвинуты на 120 градусов, поэтому L1–L2 составляет 400 В, а не 460 В.
+Dwie fazy układu trójfazowego są przesunięte o 120 stopni, więc L1–L2 to 400 V, a nie 460 V.
+A háromfázisú rendszer két fázisa 120 fokkal van eltolva, ezért az L1–L2 400 V, nem 460 V.
+Dos fases de un sistema trifásico están desfasadas 120 grados, así que L1–L2 es 400 V, no 460 V.
+
+#1310
+Trois ondes
+Três ondas
+三条波形
+Три волны
+Trzy przebiegi
+Három hullám
+Tres ondas
+
+#1311
+Des ondes régulièrement espacées donnent un champ tournant régulier dans un moteur.
+Ondas igualmente espaçadas dão um campo girante suave em um motor.
+等间隔的波形在电机中产生平稳的旋转磁场。
+Равномерно сдвинутые волны дают в двигателе плавное вращающееся поле.
+Równomiernie rozmieszczone przebiegi dają w silniku płynne pole wirujące.
+Egyenletesen eltolt hullámok sima forgó mezőt adnak a motorban.
+Las ondas espaciadas por igual dan un campo giratorio suave en un motor.
+
+#1312
+Paires à tester
+Pares de teste
+测试对
+Пары для проверки
+Pary do testowania
+Vizsgálandó párok
+Pares de prueba
+
+#1313
+Testez chaque paire ; un seul test peut manquer un fil sous tension.
+Teste todos os pares; um único teste pode deixar passar um fio energizado.
+每一对都要测；只测一次可能漏掉一根带电的线。
+Проверяйте каждую пару; одной проверкой можно пропустить находящийся под напряжением провод.
+Testuj każdą parę; pojedynczy test może przeoczyć przewód pod napięciem.
+Minden párat vizsgáljon meg; egyetlen méréssel kimaradhat egy feszültség alatti vezeték.
+Pruebe cada par; una sola prueba puede pasar por alto un cable con tensión.
+
+#1314
+Choisissez un appareil qui ouvre tous les fils de phase du circuit.
+Escolha um dispositivo que abra todos os fios vivos do circuito.
+选一个能断开该回路所有相线的器件。
+Выберите аппарат, который размыкает все фазные провода цепи.
+Wybierz urządzenie, które otwiera wszystkie przewody fazowe obwodu.
+Válasszon olyan készüléket, amely az áramkör minden fázisvezetőjét megnyitja.
+Elija un dispositivo que abra todos los cables de fase del circuito.
+
+#1315
+Verrouillez-le et étiquetez-le.
+Bloqueie e etiquete.
+上锁并挂标签。
+Заблокируйте и пометьте биркой.
+Zablokuj i oznacz zawieszką.
+Zárja le és címkézze fel.
+Bloquéelo y etiquételo.
+
+#1316
+Testez chaque paire indiquée dans la vue en coupe.
+Teste cada par listado na vista em corte.
+测试剖视图中列出的每一对。
+Проверьте каждую пару, перечисленную на разрезе.
+Przetestuj każdą parę wymienioną w widoku przekroju.
+Vizsgálja meg a metszeti nézetben felsorolt összes párat.
+Pruebe cada par indicado en la vista en corte.
+
+#1317
+Prouver-tester-prouver avec un testeur bipolaire adapté.
+Comprovar-testar-comprovar com um testador bipolar adequado.
+用额定合适的双极验电器做验证—测试—再验证。
+Проверить–измерить–проверить подходящим двухполюсным указателем.
+Sprawdź–zmierz–sprawdź odpowiednim testerem dwubiegunowym.
+Ellenőrzés–mérés–ellenőrzés megfelelő besorolású kétpólusú vizsgálóval.
+Comprobar-medir-comprobar con un comprobador bipolar adecuado.
+
+#1318
+Tester une seule paire et déclarer « hors tension ».
+Testar um único par e declarar sem tensão.
+只测一对就宣布"已断电"。
+Проверить одну пару и объявить цепь обесточенной.
+Przetestowanie jednej pary i uznanie obwodu za bez napięcia.
+Egyetlen párat megmérni, és feszültségmentesnek nyilvánítani.
+Probar un solo par y declarar «sin tensión».
+
+#1319
+N'isoler que la phase dans un circuit monophasé.
+Isolar somente a fase em um circuito monofásico.
+在单相回路中只隔离相线。
+Отключать только фазу в однофазной цепи.
+Odcinanie tylko fazy w obwodzie jednofazowym.
+Egyfázisú áramkörben csak a fázisvezetőt leválasztani.
+Aislar solo la fase en un circuito monofásico.
+
+#1320
+IEC 60364-5-53 et la procédure LOTO du site.
+IEC 60364-5-53 e o procedimento de LOTO da planta.
+IEC 60364-5-53以及本厂的LOTO程序。
+IEC 60364-5-53 и процедура LOTO предприятия.
+IEC 60364-5-53 i procedura LOTO zakładu.
+IEC 60364-5-53 és az üzem LOTO-eljárása.
+IEC 60364-5-53 y el procedimiento LOTO de la planta.
+
+#1321
+Le dispositif de consignation bloque le levier ou le volant. La vanne ne peut pas être ouverte tant que le cadenas est en place.
+O dispositivo de bloqueio trava a alavanca ou o volante. A válvula não pode ser aberta enquanto o cadeado estiver colocado.
+锁具卡住手柄或手轮。挂锁在位时，阀门无法打开。
+Блокирующее устройство фиксирует рукоятку или маховик. Пока замок установлен, кран открыть нельзя.
+Urządzenie blokujące unieruchamia dźwignię lub pokrętło. Dopóki kłódka jest założona, zaworu nie można otworzyć.
+A lezáró eszköz blokkolja a kart vagy a kézikereket. Amíg a lakat rajta van, a szelep nem nyitható.
+El dispositivo de bloqueo traba la palanca o el volante. La válvula no puede abrirse mientras el candado esté puesto.
+
+#1322
+Vanne à boisseau sphérique (levier quart de tour)
+Válvula esfera (alavanca de quarto de volta)
+球阀（四分之一圈手柄）
+Шаровой кран (рукоятка на четверть оборота)
+Zawór kulowy (dźwignia ćwierćobrotowa)
+Gömbcsap (negyedfordulatos kar)
+Válvula de bola (palanca de cuarto de vuelta)
+
+#1323
+À l'intérieur, une bille percée d'un trou. Levier dans le sens de la conduite : le trou s'aligne et l'eau ou l'air passe. Levier en travers : la partie pleine fait face au flux et il s'arrête. On voit la position grâce au levier, c'est pourquoi c'est la vanne d'isolement préférée. Le dispositif de consignation serre le levier pour qu'il ne tourne plus. De la pression peut rester piégée en aval : relâchez-la avant de travailler.
+Dentro há uma esfera com um furo. Alavanca ao longo do tubo: o furo se alinha e a água ou o ar flui. Alavanca atravessada: o lado maciço fica de frente para o fluxo e ele para. Você vê a posição pela alavanca, e por isso é a válvula de isolamento favorita. O bloqueio prende a alavanca para que não gire. A pressão ainda pode ficar retida a jusante: alivie-a antes do trabalho.
+里面是一个带孔的球。手柄顺着管道：孔对正，水或空气流通。手柄横过管道：实心的一面对着来流，流动停止。看手柄就能知道位置，这正是它成为最受欢迎的隔离阀的原因。锁具把手柄夹住，使其无法转动。下游仍可能憋着压力：作业前先把它释放掉。
+Внутри шар с отверстием. Рукоятка вдоль трубы: отверстие совпадает, вода или воздух идут. Рукоятка поперёк трубы: глухая сторона обращена к потоку, и поток прекращается. Положение видно по рукоятке, поэтому это любимый запорный кран для отключения. Блокировка зажимает рукоятку, чтобы она не поворачивалась. Давление может оставаться запертым после крана: сбросьте его перед работой.
+Wewnątrz jest kula z otworem. Dźwignia wzdłuż rury: otwór się pokrywa i płynie woda lub powietrze. Dźwignia w poprzek rury: pełna strona jest zwrócona do przepływu i on ustaje. Położenie widać po dźwigni, dlatego jest to ulubiony zawór odcinający. Blokada zaciska dźwignię, aby nie mogła się obracać. Ciśnienie może pozostać uwięzione za zaworem: zwolnij je przed pracą.
+Belül egy furatos golyó van. A kar a cső irányában: a furat egy vonalba kerül, és víz vagy levegő áramlik. A kar keresztben: a tömör oldal néz az áramlás felé, és az megáll. A helyzet a karról látszik, ezért ez a kedvelt leválasztó szelep. A lezáró eszköz befogja a kart, hogy ne tudjon elfordulni. Lefelé nyomás ragadhat bent: munka előtt engedje ki.
+Dentro hay una bola con un orificio. Palanca a lo largo de la tubería: el orificio se alinea y circula agua o aire. Palanca atravesada: el lado macizo da al flujo y este se detiene. La posición se ve por la palanca, por eso es la válvula de aislamiento favorita. El bloqueo sujeta la palanca para que no gire. Aguas abajo puede quedar presión atrapada: libérela antes de trabajar.
+
+#1324
+Isole : conduites d'eau, d'air, d'huile ou de gaz.
+Isola: linhas de água, ar, óleo ou gás.
+隔离对象：水、空气、油或气体管路。
+Отключает: линии воды, воздуха, масла или газа.
+Odcina: przewody wody, powietrza, oleju lub gazu.
+Leválaszt: víz-, levegő-, olaj- vagy gázvezetékeket.
+Aísla: líneas de agua, aire, aceite o gas.
+
+#1325
+Levier dans le sens de la conduite = OUVERT
+Alavanca ao longo do tubo = ABERTA
+手柄顺着管道 = 开
+Рукоятка вдоль трубы = ОТКРЫТО
+Dźwignia wzdłuż rury = OTWARTY
+Kar a cső irányában = NYITVA
+Palanca a lo largo de la tubería = ABIERTA
+
+#1326
+Levier en travers de la conduite = FERMÉ
+Alavanca atravessada no tubo = FECHADA
+手柄横过管道 = 关
+Рукоятка поперёк трубы = ЗАКРЫТО
+Dźwignia w poprzek rury = ZAMKNIĘTY
+Kar keresztben a csövön = ZÁRVA
+Palanca atravesada en la tubería = CERRADA
+
+#1327
+pas de débit
+sem fluxo
+无流量
+нет потока
+brak przepływu
+nincs áramlás
+sin caudal
+
+#1328
+Pression en amont, peut-être piégée en aval
+Pressão a montante, talvez retida a jusante
+上游有压力，下游可能憋着压力
+Давление до крана, возможно запертое после крана
+Ciśnienie przed zaworem, możliwe uwięzione za nim
+Nyomás a bemenő oldalon, lehet, hogy lefelé bent ragadt
+Presión aguas arriba, quizá atrapada aguas abajo
+
+#1329
+Levier
+Alavanca
+手柄
+Рукоятка
+Dźwignia
+Kar
+Palanca
+
+#1330
+Indique la position : dans le sens de la conduite = ouvert, en travers = fermé. Le dispositif de consignation le serre.
+Mostra a posição: ao longo do tubo é aberto, atravessado é fechado. O bloqueio prende a alavanca.
+显示位置：顺着管道是开，横过管道是关。锁具把它夹住。
+Показывает положение: вдоль трубы — открыт, поперёк — закрыт. Блокировка зажимает её.
+Pokazuje położenie: wzdłuż rury to otwarty, w poprzek to zamknięty. Blokada go zaciska.
+Mutatja a helyzetet: a cső irányában nyitva, keresztben zárva. A lezáró eszköz befogja.
+Muestra la posición: a lo largo de la tubería es abierta, atravesada es cerrada. El bloqueo la sujeta.
+
+#1331
+Corps de vanne
+Corpo da válvula
+阀体
+Корпус крана
+Korpus zaworu
+Szelepház
+Cuerpo de la válvula
+
+#1332
+La bille est à l'intérieur. Prévu pour une pression : vérifiez le marquage.
+A esfera fica dentro. Classificada para uma pressão: verifique a marcação.
+球在内部。有额定压力：查看标记。
+Шар находится внутри. Рассчитан на определённое давление: проверьте маркировку.
+Kula znajduje się w środku. Przystosowany do określonego ciśnienia: sprawdź oznaczenie.
+A golyó belül ül. Meghatározott nyomásra méretezett: ellenőrizze a jelölést.
+La bola está dentro. Calificada para una presión: compruebe el marcado.
+
+#1333
+Conduite à brides
+Tubo flangeado
+法兰管道
+Фланцевая труба
+Rura kołnierzowa
+Karimás cső
+Tubería con bridas
+
+#1334
+La pression peut exister des deux côtés d'une vanne fermée.
+Pode haver pressão dos dois lados de uma válvula fechada.
+关闭的阀门两侧都可能有压力。
+Давление может быть с обеих сторон закрытого крана.
+Ciśnienie może występować po obu stronach zamkniętego zaworu.
+Zárt szelep mindkét oldalán lehet nyomás.
+Puede haber presión a ambos lados de una válvula cerrada.
+
+#1335
+Bille percée
+Esfera com furo
+带孔的球
+Шар с отверстием
+Kula z otworem
+Furatos golyó
+Bola con orificio
+
+#1336
+Siège
+Sede
+阀座
+Седло
+Gniazdo
+Ülék
+Asiento
+
+#1337
+Des sièges souples (PTFE) assurent l'étanchéité de la bille. Un siège usé fuit même fermé.
+Sedes macias (PTFE) vedam a esfera. Uma sede desgastada vaza mesmo fechada.
+软密封阀座（PTFE）封住球体。阀座磨损后，即使关闭也会泄漏。
+Мягкие седла (PTFE) уплотняют шар. Изношенное седло течёт даже в закрытом положении.
+Miękkie gniazda (PTFE) uszczelniają kulę. Zużyte gniazdo przecieka nawet przy zamknięciu.
+A lágy ülékek (PTFE) tömítik a golyót. A kopott ülék zárva is szivárog.
+Los asientos blandos (PTFE) sellan la bola. Un asiento desgastado pierde incluso cerrado.
+
+#1338
+Tige
+Haste
+阀杆
+Шток
+Trzpień
+Orsó
+Vástago
+
+#1339
+Tourne la bille de 90 degrés. Le presse-étoupe autour retient le fluide.
+Gira a esfera 90 graus. A gaxeta ao redor mantém o fluido dentro.
+使球旋转90度。周围的填料把流体封在里面。
+Поворачивает шар на 90 градусов. Сальниковая набивка вокруг удерживает среду внутри.
+Obraca kulę o 90 stopni. Uszczelnienie wokół zatrzymuje medium wewnątrz.
+90 fokkal elfordítja a golyót. A körülötte lévő tömítés bent tartja a közeget.
+Gira la bola 90 grados. El prensaestopas alrededor mantiene el fluido dentro.
+
+#1340
+Côté aval
+Lado a jusante
+下游侧
+Сторона после крана
+Strona za zaworem
+Kifelé eső oldal
+Lado aguas abajo
+
+#1341
+La pression piégée ici doit être évacuée avant d'ouvrir la conduite.
+A pressão retida aqui deve ser aliviada antes de abrir o tubo.
+这里憋着的压力必须先泄放，才能打开管道。
+Запертое здесь давление нужно сбросить, прежде чем вскрывать трубу.
+Uwięzione tu ciśnienie trzeba spuścić przed otwarciem rury.
+Az itt bent ragadt nyomást ki kell engedni, mielőtt a csövet megbontják.
+La presión atrapada aquí debe ventearse antes de abrir la tubería.
+
+#1342
+Fermez la vanne (levier en travers de la conduite).
+Feche a válvula (alavanca atravessada no tubo).
+关闭阀门（手柄横过管道）。
+Закройте кран (рукоятка поперёк трубы).
+Zamknij zawór (dźwignia w poprzek rury).
+Zárja el a szelepet (kar keresztben a csövön).
+Cierre la válvula (palanca atravesada en la tubería).
+
+#1343
+Posez la consignation de vanne à boisseau sur le levier et la conduite.
+Instale o bloqueio de válvula esfera sobre a alavanca e o tubo.
+把球阀锁具装在手柄和管道上。
+Установите блокировку шарового крана на рукоятку и трубу.
+Załóż blokadę zaworu kulowego na dźwignię i rurę.
+Tegye fel a gömbcsap-lezárót a karra és a csőre.
+Coloque el bloqueo de válvula de bola sobre la palanca y la tubería.
+
+#1344
+Ajoutez cadenas et étiquette, puis purgez la pression en aval.
+Adicione cadeado e etiqueta e depois alivie a pressão a jusante.
+加上挂锁和标签，然后泄放下游的压力。
+Добавьте замок и бирку, затем сбросьте давление после крана.
+Dodaj kłódkę i zawieszkę, potem spuść ciśnienie za zaworem.
+Tegye fel a lakatot és a címkét, majd engedje ki a lefelé lévő nyomást.
+Añada candado y etiqueta y luego purgue la presión aguas abajo.
+
+#1345
+Ouvrez la vanne de purge ou lisez le manomètre : il doit indiquer 0 bar et rester à 0.
+Abra a válvula de purga ou leia o manômetro: deve mostrar 0 bar e permanecer em 0.
+打开泄压阀或读取压力表：必须显示0 bar并保持为0。
+Откройте продувочный клапан или посмотрите на манометр: он должен показывать 0 бар и оставаться на 0.
+Otwórz zawór odpowietrzający lub odczytaj manometr: musi wskazywać 0 bar i pozostać na 0.
+Nyissa ki a légtelenítő szelepet, vagy olvassa le a manométert: 0 bart kell mutatnia, és 0-n kell maradnia.
+Abra la válvula de purga o lea el manómetro: debe marcar 0 bar y mantenerse en 0.
+
+#1346
+Fermer la vanne mais la laisser sans cadenas.
+Fechar a válvula mas deixá-la sem cadeado.
+关了阀门却不上锁。
+Закрыть кран, но оставить его без замка.
+Zamknięcie zaworu, ale pozostawienie go bez kłódki.
+Elzárni a szelepet, de lakat nélkül hagyni.
+Cerrar la válvula pero dejarla sin candado.
+
+#1347
+Ouvrir la conduite sans purger la pression piégée.
+Abrir a linha sem aliviar a pressão retida.
+不泄放憋着的压力就打开管路。
+Вскрывать линию, не сбросив запертое давление.
+Otwieranie przewodu bez spuszczenia uwięzionego ciśnienia.
+Megbontani a vezetéket a bent ragadt nyomás kiengedése nélkül.
+Abrir la línea sin purgar la presión atrapada.
+
+#1348
+ISO 5211 / procédure LOTO du site. Vérifiez toujours la pression zéro.
+ISO 5211 / procedimento de LOTO da planta. Sempre verifique pressão zero.
+ISO 5211 / 本厂LOTO程序。务必确认压力为零。
+ISO 5211 / процедура LOTO предприятия. Всегда проверяйте нулевое давление.
+ISO 5211 / procedura LOTO zakładu. Zawsze weryfikuj zerowe ciśnienie.
+ISO 5211 / az üzem LOTO-eljárása. Mindig ellenőrizze a nulla nyomást.
+ISO 5211 / procedimiento LOTO de la planta. Verifique siempre presión cero.
+
+#1349
+Vanne à opercule / à soupape (volant)
+Válvula gaveta / globo (volante)
+闸阀 / 截止阀（手轮）
+Задвижка / вентиль (маховик)
+Zawór klinowy / grzybkowy (pokrętło)
+Tolózár / szelep (kézikerék)
+Válvula de compuerta / de globo (volante)
+
+#1350
+On tourne un volant plusieurs fois et un coin glisse en travers de la conduite. Une tige montante montre la position : tige haute = ouvert, tige basse = fermé. Le volant se tourne facilement avec une clé, donc la consignation doit emprisonner le volant. Comptez les tours et ne vous fiez pas à une vanne qui tourne trop librement : le coin peut être desserré ou cassé.
+Você gira um volante muitas vezes e uma cunha desliza atravessando o tubo. Uma haste ascendente mostra a posição: haste para cima é aberta, haste para baixo é fechada. O volante gira fácil com uma chave, então o bloqueio deve prender o volante. Conte as voltas e não confie numa válvula que gira livre demais: a cunha pode estar solta ou quebrada.
+要把手轮转很多圈，一个楔块才横着滑过管道。上升的阀杆指示位置：阀杆升起为开，阀杆下降为关。用扳手很容易转动手轮，所以锁具必须卡住手轮。数一数圈数，不要相信转得太轻松的阀门：楔块可能松了或断了。
+Маховик поворачивают много раз, и клин скользит поперёк трубы. Выдвижной шток показывает положение: шток вверху — открыто, шток внизу — закрыто. Маховик легко поворачивается ключом, поэтому блокировка должна запирать сам маховик. Считайте обороты и не доверяйте крану, который вращается слишком свободно: клин может быть болтающимся или сломанным.
+Pokrętłem kręci się wiele razy, a klin przesuwa się w poprzek rury. Wznoszący się trzpień pokazuje położenie: trzpień u góry to otwarty, u dołu to zamknięty. Pokrętło łatwo obrócić kluczem, więc blokada musi zamknąć pokrętło. Licz obroty i nie ufaj zaworowi, który obraca się zbyt swobodnie: klin może być luźny lub złamany.
+A kézikereket sokszor kell forgatni, és az ék keresztben becsúszik a csőbe. A kiemelkedő orsó mutatja a helyzetet: orsó fent = nyitva, orsó lent = zárva. A kézikerék kulccsal könnyen forgatható, ezért a lezáró eszköznek magát a kereket kell lefognia. Számolja a fordulatokat, és ne bízzon olyan szelepben, amely túl könnyen forog: az ék meglazulhatott vagy eltörhetett.
+Se gira un volante muchas vueltas y una cuña se desliza atravesando la tubería. Un vástago ascendente muestra la posición: vástago arriba es abierta, vástago abajo es cerrada. El volante se gira fácilmente con una llave, por lo que el bloqueo debe atrapar el volante. Cuente las vueltas y no se fíe de una válvula que gira demasiado libre: la cuña puede estar suelta o rota.
+
+#1351
+Isole : conduites d'eau, de vapeur, d'huile.
+Isola: linhas de água, vapor, óleo.
+隔离对象：水、蒸汽、油管路。
+Отключает: линии воды, пара, масла.
+Odcina: przewody wody, pary, oleju.
+Leválaszt: víz-, gőz-, olajvezetékeket.
+Aísla: líneas de agua, vapor, aceite.
+
+#1352
+Tige haute = OUVERT
+Haste para cima = ABERTA
+阀杆升起 = 开
+Шток вверху = ОТКРЫТО
+Trzpień u góry = OTWARTY
+Orsó fent = NYITVA
+Vástago arriba = ABIERTA
+
+#1353
+Tige basse = FERMÉ
+Haste para baixo = FECHADA
+阀杆下降 = 关
+Шток внизу = ЗАКРЫТО
+Trzpień u dołu = ZAMKNIĘTY
+Orsó lent = ZÁRVA
+Vástago abajo = CERRADA
+
+#1354
+Volant
+Volante
+手轮
+Маховик
+Pokrętło
+Kézikerék
+Volante
+
+#1355
+Tournez dans le sens horaire pour fermer. Le cache de consignation l'emprisonne.
+Gire no sentido horário para fechar. A capa de bloqueio o prende.
+顺时针转动关闭。锁具罩把它卡住。
+Поверните по часовой стрелке для закрытия. Блокирующий колпак запирает его.
+Obróć zgodnie z ruchem wskazówek zegara, aby zamknąć. Osłona blokująca go zamyka.
+Zárásához forgassa az óramutató járásával megegyezően. A lezáró burkolat befogja.
+Gire en sentido horario para cerrar. La cubierta de bloqueo lo atrapa.
+
+#1356
+Tige montante
+Haste ascendente
+上升阀杆
+Выдвижной шток
+Wznoszący się trzpień
+Kiemelkedő orsó
+Vástago ascendente
+
+#1357
+Corps
+Corpo
+阀体
+Корпус
+Korpus
+Ház
+Cuerpo
+
+#1358
+La pression nominale et la flèche de sens d'écoulement sont moulées dessus.
+A pressão nominal e a seta de sentido do fluxo são fundidas nele.
+额定压力和流向箭头铸在阀体上。
+Номинальное давление и стрелка направления потока отлиты на корпусе.
+Ciśnienie znamionowe i strzałka kierunku przepływu są odlane na nim.
+A névleges nyomás és az áramlásirány-nyíl rá van öntve.
+La presión nominal y la flecha de sentido del flujo vienen moldeadas en él.
+
+#1359
+Coin (opercule)
+Cunha (gaveta)
+楔块（闸板）
+Клин (затвор)
+Klin (zasuwa)
+Ék (tolózár)
+Cuña (compuerta)
+
+#1360
+Glisse en travers de la conduite. Un coin desserré ou cassé laisse la vanne apparemment fermée mais fuyante.
+Desliza atravessando o tubo. Uma cunha solta ou quebrada deixa a válvula aparentemente fechada mas vazando.
+横着滑过管道。楔块松动或断裂时，阀门看上去是关着的，实际上在漏。
+Скользит поперёк трубы. Болтающийся или сломанный клин оставляет кран внешне закрытым, но протекающим.
+Przesuwa się w poprzek rury. Luźny lub złamany klin pozostawia zawór pozornie zamknięty, ale przeciekający.
+Keresztben becsúszik a csőbe. A meglazult vagy eltört ék miatt a szelep látszólag zárt, de szivárog.
+Se desliza atravesando la tubería. Una cuña suelta o rota deja la válvula aparentemente cerrada pero con fugas.
+
+#1361
+Tige filetée
+Haste roscada
+螺纹阀杆
+Резьбовой шток
+Gwintowany trzpień
+Menetes orsó
+Vástago roscado
+
+#1362
+De nombreux tours déplacent un peu le coin : lent et précis.
+Muitas voltas movem a cunha um pouco: lento e preciso.
+转很多圈才使楔块移动一点：慢而精确。
+Много оборотов лишь немного двигают клин: медленно и точно.
+Wiele obrotów przesuwa klin tylko trochę: powoli i precyzyjnie.
+Sok fordulat mozdítja el kicsit az éket: lassú és pontos.
+Muchas vueltas mueven la cuña un poco: lento y preciso.
+
+#1363
+Le coin s'appuie contre les bagues de siège.
+A cunha veda contra os anéis de sede.
+楔块压紧在阀座圈上实现密封。
+Клин уплотняется на седловых кольцах.
+Klin uszczelnia się na pierścieniach gniazd.
+Az ék az ülékgyűrűkre tömít.
+La cuña sella contra los anillos de asiento.
+
+#1364
+Volant
+Volante
+手轮
+Маховик
+Pokrętło
+Kézikerék
+Volante
+
+#1365
+Force des mains uniquement. N'utilisez pas de clé sur le cache de consignation.
+Somente força das mãos. Não use chave sobre a capa de bloqueio.
+只能用手劲。不要在锁具罩上使用扳手。
+Только усилие рук. Не используйте ключ на блокирующем колпаке.
+Tylko siła rąk. Nie używaj klucza na osłonie blokującej.
+Csak kézi erő. Ne használjon kulcsot a lezáró burkolaton.
+Solo fuerza de la mano. No use llave sobre la cubierta de bloqueo.
+
+#1366
+Fermez complètement la vanne à la main (comptez les tours).
+Feche totalmente a válvula à mão (conte as voltas).
+用手把阀门完全关紧（数圈数）。
+Полностью закройте кран вручную (считайте обороты).
+Zamknij zawór całkowicie ręcznie (licz obroty).
+Zárja el teljesen a szelepet kézzel (számolja a fordulatokat).
+Cierre la válvula por completo a mano (cuente las vueltas).
+
+#1367
+Posez le cache de volant sur le volant.
+Instale a capa de volante sobre o volante.
+把手轮罩装在手轮上。
+Установите колпак маховика на маховик.
+Załóż osłonę pokrętła na pokrętło.
+Tegye fel a kézikerék-burkolatot a kézikerékre.
+Coloque la cubierta de volante sobre el volante.
+
+#1368
+Ajoutez cadenas et étiquette, puis purgez la conduite.
+Adicione cadeado e etiqueta e depois alivie a linha.
+加上挂锁和标签，然后泄放管路压力。
+Добавьте замок и бирку, затем сбросьте давление в линии.
+Dodaj kłódkę i zawieszkę, potem spuść ciśnienie z przewodu.
+Tegye fel a lakatot és a címkét, majd légtelenítse a vezetéket.
+Añada candado y etiqueta y luego purgue la línea.
+
+#1369
+Vérifiez le manomètre ou ouvrez le point de purge : la pression doit être nulle et le rester.
+Verifique o manômetro ou abra o ponto de purga: a pressão deve ser zero e permanecer zero.
+查看压力表或打开泄压点：压力必须为零并保持为零。
+Проверьте манометр или откройте точку сброса: давление должно быть нулевым и оставаться нулевым.
+Sprawdź manometr lub otwórz punkt odpowietrzania: ciśnienie musi być zerowe i takie pozostać.
+Ellenőrizze a manométert, vagy nyissa ki a légtelenítő pontot: a nyomásnak nullának kell lennie, és annak is kell maradnia.
+Revise el manómetro o abra el punto de purga: la presión debe ser cero y mantenerse en cero.
+
+#1370
+Se fier à une vanne qui tourne sans résistance.
+Confiar em uma válvula que gira sem resistência.
+相信一个转起来毫不费力的阀门。
+Доверять крану, который вращается без сопротивления.
+Zaufanie zaworowi, który obraca się bez oporu.
+Megbízni egy olyan szelepben, amely ellenállás nélkül forog.
+Fiarse de una válvula que gira sin resistencia.
+
+#1371
+Verrouiller une vanne seulement partiellement fermée.
+Bloquear uma válvula que está apenas parcialmente fechada.
+锁住一个只关了一部分的阀门。
+Блокировать кран, закрытый лишь частично.
+Blokowanie zaworu, który jest zamknięty tylko częściowo.
+Lezárni egy csak részben elzárt szelepet.
+Bloquear una válvula que solo está parcialmente cerrada.
+
+#1372
+Une seule vanne peut fuir : pour les fluides dangereux, utilisez le double bloc et purge.
+Uma única válvula pode vazar: para fluidos perigosos, use bloqueio duplo e sangria.
+单个阀门可能泄漏：对于危险流体，请使用双截止加泄放。
+Один кран может протекать: для опасных сред используйте двойную блокировку со сбросом.
+Pojedynczy zawór może przeciekać: dla niebezpiecznych mediów stosuj podwójną blokadę z odpowietrzeniem.
+Egyetlen szelep szivároghat: veszélyes közegeknél használjon kettős elzárást légtelenítéssel.
+Una sola válvula puede tener fugas: para fluidos peligrosos use doble bloqueo y purga.
+
+#1373
+Vanne papillon (levier avec plaque crantée)
+Válvula borboleta (alavanca com placa entalhada)
+蝶阀（带定位板的手柄）
+Дисковый затвор (рукоятка с зубчатой пластиной)
+Zawór motylkowy (dźwignia z płytką nacinaną)
+Pillangószelep (kar bevágott lemezzel)
+Válvula de mariposa (palanca con placa de muescas)
+
+#1374
+Un disque sur une tige tourne d'un quart de tour dans la conduite. Le levier est tenu dans des crans sur une plaque : parallèle à la conduite = ouvert, en travers = fermé. La plaque de consignation se loge dans un cran et reçoit un cadenas. Un joint en caoutchouc assure l'étanchéité : vérifiez son usure.
+Um disco em uma haste gira um quarto de volta dentro do tubo. A alavanca fica presa em entalhes de uma placa: paralela ao tubo é aberta, atravessada é fechada. A placa de bloqueio encaixa em um entalhe e recebe um cadeado. Um revestimento de borracha faz a vedação, então verifique o desgaste.
+阀杆上的阀板在管道内转四分之一圈。手柄被固定在定位板的卡槽里：与管道平行为开，横过管道为关。锁板卡进一个槽里并可挂挂锁。橡胶衬里负责密封，所以要检查它是否磨损。
+Диск на штоке поворачивается на четверть оборота внутри трубы. Рукоятка фиксируется в прорезях пластины: параллельно трубе — открыто, поперёк — закрыто. Блокирующая пластина вставляется в прорезь и принимает замок. Уплотнение создаёт резиновая манжета, поэтому проверьте её износ.
+Tarcza na trzpieniu obraca się o ćwierć obrotu wewnątrz rury. Dźwignia jest trzymana w nacięciach płytki: równolegle do rury to otwarty, w poprzek to zamknięty. Płytka blokująca wchodzi w nacięcie i przyjmuje kłódkę. Uszczelnienie zapewnia gumowa wykładzina, więc sprawdź jej zużycie.
+A száron lévő tárcsa negyedfordulatot tesz a csőben. A kar a lemez bevágásaiban rögzül: a csővel párhuzamosan nyitva, keresztben zárva. A lezáró lemez egy bevágásba illeszkedik, és lakatot fogad. Gumibélés adja a tömítést, ezért ellenőrizze a kopását.
+Un disco en un vástago gira un cuarto de vuelta dentro de la tubería. La palanca se mantiene en muescas de una placa: paralela a la tubería es abierta, atravesada es cerrada. La placa de bloqueo encaja en una muesca y admite un candado. Un revestimiento de goma hace el cierre, así que compruebe su desgaste.
+
+#1375
+Isole : grandes conduites d'eau et d'air.
+Isola: grandes linhas de água e ar.
+隔离对象：大口径水管和空气管路。
+Отключает: крупные линии воды и воздуха.
+Odcina: duże przewody wody i powietrza.
+Leválaszt: nagy víz- és levegővezetékeket.
+Aísla: grandes líneas de agua y aire.
+
+#1376
+Le joint en caoutchouc s'appuie contre le disque
+O revestimento de borracha veda contra o disco
+橡胶衬里压紧阀板实现密封
+Резиновая манжета уплотняется на диске
+Gumowa wykładzina uszczelnia się na tarczy
+A gumibélés a tárcsára tömít
+El revestimiento de goma sella contra el disco
+
+#1377
+Tenu dans un cran. Parallèle à la conduite = ouvert.
+Preso em um entalhe. Paralelo ao tubo = aberta.
+被卡在槽里。与管道平行 = 开。
+Удерживается в прорези. Параллельно трубе = открыто.
+Trzymana w nacięciu. Równolegle do rury = otwarty.
+Bevágásban tartva. A csővel párhuzamos = nyitva.
+Sujeta en una muesca. Paralela a la tubería = abierta.
+
+#1378
+Plaque crantée
+Placa entalhada
+定位板
+Зубчатая пластина
+Płytka nacinana
+Bevágott lemez
+Placa de muescas
+
+#1379
+La plaque de consignation passe dans le cran de fermeture et reçoit un cadenas.
+A placa de bloqueio passa pelo entalhe de fechamento e recebe um cadeado.
+锁板穿过关闭槽并可挂挂锁。
+Блокирующая пластина проходит через прорезь закрытого положения и принимает замок.
+Płytka blokująca przechodzi przez nacięcie zamknięcia i przyjmuje kłódkę.
+A lezáró lemez átmegy a zárt állás bevágásán, és lakatot fogad.
+La placa de bloqueo pasa por la muesca de cierre y admite un candado.
+
+#1380
+Corps wafer
+Corpo wafer
+对夹式阀体
+Корпус межфланцевого типа
+Korpus międzykołnierzowy
+Betétes (wafer) ház
+Cuerpo wafer
+
+#1381
+Se place entre deux brides de conduite. Les boulons tiennent tout l'ensemble.
+Fica entre dois flanges do tubo. Os parafusos seguram todo o conjunto.
+夹在两个管道法兰之间。螺栓把整个组件固定。
+Устанавливается между двумя фланцами трубы. Болты стягивают весь пакет.
+Montowany między dwoma kołnierzami rury. Śruby trzymają cały zestaw.
+Két csőkarima közé kerül. A csavarok az egész köteget összetartják.
+Se sitúa entre dos bridas de la tubería. Los pernos sujetan todo el conjunto.
+
+#1382
+Disque
+Disco
+阀板
+Диск
+Tarcza
+Tárcsa
+Disco
+
+#1383
+Fait tourner le disque de 90 degrés.
+Gira o disco 90 graus.
+使阀板转90度。
+Поворачивает диск на 90 градусов.
+Obraca tarczę o 90 stopni.
+90 fokkal elfordítja a tárcsát.
+Gira el disco 90 grados.
+
+#1384
+Manchette
+Revestimento
+衬里
+Манжета
+Wykładzina
+Bélés
+Revestimiento
+
+#1385
+Siège en caoutchouc. Une manchette abîmée fuit à la fermeture.
+Sede de borracha. Um revestimento danificado vaza quando fechado.
+橡胶阀座。衬里损坏时，关闭后也会泄漏。
+Резиновое седло. Повреждённая манжета протекает в закрытом положении.
+Gumowe gniazdo. Uszkodzona wykładzina przecieka w pozycji zamkniętej.
+Gumi ülék. A sérült bélés zárva is szivárog.
+Asiento de goma. Un revestimiento dañado pierde cuando está cerrada.
+
+#1386
+Fermez la vanne (levier en travers de la conduite) et laissez-le se loger dans le cran fermé.
+Feche a válvula (alavanca atravessada no tubo) e deixe-a assentar no entalhe de fechada.
+关闭阀门（手柄横过管道），让它落入关闭槽中。
+Закройте кран (рукоятка поперёк трубы) и дайте ей встать в прорезь закрытого положения.
+Zamknij zawór (dźwignia w poprzek rury) i pozwól jej wejść w nacięcie zamknięcia.
+Zárja el a szelepet (kar keresztben a csövön), és hagyja a zárt állás bevágásába ülni.
+Cierre la válvula (palanca atravesada en la tubería) y deje que asiente en la muesca de cerrada.
+
+#1387
+Posez la plaque de consignation de vanne papillon.
+Instale a placa de bloqueio da válvula borboleta.
+装上蝶阀锁板。
+Установите блокирующую пластину дискового затвора.
+Załóż płytkę blokującą zaworu motylkowego.
+Tegye fel a pillangószelep lezáró lemezét.
+Coloque la placa de bloqueo de la válvula de mariposa.
+
+#1388
+Ajoutez cadenas et étiquette. Purgez la pression.
+Adicione cadeado e etiqueta. Alivie a pressão.
+加上挂锁和标签。泄放压力。
+Добавьте замок и бирку. Сбросьте давление.
+Dodaj kłódkę i zawieszkę. Spuść ciśnienie.
+Tegye fel a lakatot és a címkét. Engedje ki a nyomást.
+Añada candado y etiqueta. Purgue la presión.
+
+#1389
+Manomètre à zéro, purge ouverte, pas de débit.
+Manômetro em zero, dreno aberto, sem fluxo.
+压力表归零，排放口打开，无流量。
+Манометр на нуле, дренаж открыт, потока нет.
+Manometr na zero, spust otwarty, brak przepływu.
+A manométer nullán, a leeresztő nyitva, nincs áramlás.
+Manómetro a cero, drenaje abierto, sin caudal.
+
+#1390
+Laisser le levier dans le cran ouvert et le verrouiller.
+Deixar a alavanca no entalhe de aberta e bloqueá-la.
+把手柄留在开启槽里就锁上了。
+Оставить рукоятку в прорези открытого положения и заблокировать её.
+Pozostawienie dźwigni w nacięciu otwarcia i zablokowanie jej.
+A kart a nyitott bevágásban hagyni és lezárni.
+Dejar la palanca en la muesca de abierta y bloquearla.
+
+#1391
+API 609 / procédure LOTO du site.
+API 609 / procedimento de LOTO da planta.
+API 609 / 本厂LOTO程序。
+API 609 / процедура LOTO предприятия.
+API 609 / procedura LOTO zakładu.
+API 609 / az üzem LOTO-eljárása.
+API 609 / procedimiento LOTO de la planta.
+
+#1392
+Déconnecté
+Desconectado
+已断开
+Отсоединено
+Odłączone
+Lecsatlakoztatva
+Desconectado
+
+#1393
+Connecté
+Conectado
+已连接
+Подсоединено
+Podłączone
+Csatlakoztatva
+Conectado
+
+#1394
+Raccord
+Engate
+接头
+Соединение
+Złącze
+Csatlakozó
+Acoplamiento
+
+#1395
+On ne peut pas verrouiller un raccord assemblé. Déconnectez-le d'abord, puis posez le capuchon de consignation.
+Não é possível bloquear um engate unido. Desconecte-o primeiro e depois instale a tampa de bloqueio.
+已连接的接头无法上锁。先断开，再装上锁帽。
+Соединённое соединение заблокировать нельзя. Сначала отсоедините его, затем наденьте блокирующий колпачок.
+Nie można zablokować połączonego złącza. Najpierw je odłącz, potem załóż nasadkę blokującą.
+Összekapcsolt csatlakozót nem lehet lezárni. Előbb csatlakoztassa le, majd tegye fel a lezáró kupakot.
+No se puede bloquear un acoplamiento unido. Desconéctelo primero y luego coloque la tapa de bloqueo.
+
+#1396
+Une paire à enfichage rapide pour l'air comprimé. Tirez la bague et la fiche sort. Sur un bon raccord, le côté alimentation se ferme automatiquement, mais le côté machine garde sa pression jusqu'à ce que vous la purgiez. Le capuchon de consignation recouvre la prise pour que la fiche ne puisse pas être remise.
+Um par de encaixe rápido para ar comprimido. Puxe a luva e o plugue sai. Em um bom engate, o lado da alimentação fecha automaticamente, mas o lado da máquina mantém a pressão até você ventilar. A tampa de bloqueio cobre a tomada para que o plugue não possa voltar.
+一对用于压缩空气的快插接头。拉动套筒，插头就脱出。好的接头会自动关闭供气侧，但机器侧会保持压力，直到你把它放空。锁帽盖住插座，使插头无法重新插入。
+Быстроразъёмная пара для сжатого воздуха. Оттяните муфту, и штуцер выходит. На хорошем соединении сторона подачи закрывается автоматически, но сторона машины сохраняет давление, пока вы его не сбросите. Блокирующий колпачок закрывает гнездо, чтобы штуцер нельзя было вставить обратно.
+Szybkozłączna para do sprężonego powietrza. Pociągnij tuleję i wtyk wychodzi. W dobrym złączu strona zasilania zamyka się automatycznie, ale strona maszyny trzyma ciśnienie, dopóki go nie spuścisz. Nasadka blokująca zakrywa gniazdo, aby wtyk nie mógł wrócić.
+Sűrített levegőhöz való gyorscsatlakozós pár. Húzza vissza a hüvelyt, és a dugó kijön. Jó csatlakozónál a betáplálási oldal automatikusan zár, de a gép oldala megtartja a nyomást, amíg ki nem engedi. A lezáró kupak befedi az aljzatot, hogy a dugót ne lehessen visszatenni.
+Un par de conexión rápida para aire comprimido. Tire del manguito y sale el enchufe. En un buen acoplamiento el lado de alimentación se cierra automáticamente, pero el lado de la máquina conserva su presión hasta que lo ventee. La tapa de bloqueo cubre la toma para que el enchufe no pueda volver a entrar.
+
+#1397
+Isole : l'air comprimé vers un outil ou une machine.
+Isola: o ar comprimido para uma ferramenta ou máquina.
+隔离对象：通往工具或机器的压缩空气。
+Отключает: сжатый воздух к инструменту или машине.
+Odcina: sprężone powietrze do narzędzia lub maszyny.
+Leválaszt: a szerszámhoz vagy géphez menő sűrített levegőt.
+Aísla: el aire comprimido a una herramienta o máquina.
+
+#1398
+Côté machine
+Lado da máquina
+机器侧
+Сторона машины
+Strona maszyny
+Gép oldala
+Lado de la máquina
+
+#1399
+Purgez le côté machine
+Ventile o lado da máquina
+放空机器侧
+Сбросьте давление на стороне машины
+Spuść powietrze po stronie maszyny
+Légtelenítse a gép oldalát
+Ventee el lado de la máquina
+
+#1400
+Prise avec bague
+Tomada com luva
+带套筒的插座
+Гнездо с муфтой
+Gniazdo z tuleją
+Aljzat hüvellyel
+Toma con manguito
+
+#1401
+Tirez la bague vers l'arrière pour libérer la fiche.
+Puxe a luva para trás para soltar o plugue.
+向后拉套筒以释放插头。
+Оттяните муфту назад, чтобы освободить штуцер.
+Pociągnij tuleję do tyłu, aby zwolnić wtyk.
+Húzza vissza a hüvelyt a dugó kioldásához.
+Tire del manguito hacia atrás para soltar el enchufe.
+
+#1402
+S'enfiche dans la prise. Le côté machine retient l'air si le flexible est fermé.
+Encaixa na tomada. O lado da máquina ainda retém ar se a mangueira estiver fechada.
+插入插座。如果软管是封闭的，机器侧仍然留有空气。
+Вставляется в гнездо. Сторона машины всё ещё удерживает воздух, если шланг закрыт.
+Wchodzi w gniazdo. Strona maszyny nadal trzyma powietrze, jeśli wąż jest zamknięty.
+Az aljzatba illeszkedik. A gép oldala akkor is tartja a levegőt, ha a tömlő le van zárva.
+Encaja en la toma. El lado de la máquina retiene aire si la manguera está cerrada.
+
+#1403
+Flexible d'alimentation
+Mangueira de alimentação
+供气软管
+Питающий шланг
+Wąż zasilający
+Betáplálási tömlő
+Manguera de alimentación
+
+#1404
+Sous pression tant que l'air d'usine est ouvert.
+Com pressão enquanto o ar da fábrica estiver ligado.
+只要工厂气源开着，就一直有压。
+Под давлением, пока подан заводской воздух.
+Pod ciśnieniem, dopóki powietrze zakładowe jest włączone.
+Nyomás alatt van, amíg az üzemi levegő nyitva van.
+Con presión mientras el aire de planta esté abierto.
+
+#1405
+Arrêtez la machine, puis fermez la vanne d'air principale si possible.
+Desligue a máquina e depois feche a válvula principal de ar, se possível.
+先停机，然后尽可能关闭主气阀。
+Остановите машину, затем по возможности закройте главный воздушный кран.
+Wyłącz maszynę, potem zamknij główny zawór powietrza, jeśli to możliwe.
+Állítsa le a gépet, majd ha lehet, zárja el a főlevegő-szelepet.
+Pare la máquina y luego cierre la válvula principal de aire si es posible.
+
+#1406
+Tirez la bague et déconnectez le raccord.
+Puxe a luva e desconecte o engate.
+拉动套筒，断开接头。
+Оттяните муфту и отсоедините соединение.
+Pociągnij tuleję i odłącz złącze.
+Húzza vissza a hüvelyt, és csatlakoztassa le a csatlakozót.
+Tire del manguito y desconecte el acoplamiento.
+
+#1407
+Purgez le côté machine, posez le capuchon de consignation, ajoutez cadenas et étiquette.
+Ventile o lado da máquina, instale a tampa de bloqueio, adicione cadeado e etiqueta.
+放空机器侧，装上锁帽，加上挂锁和标签。
+Сбросьте давление на стороне машины, наденьте блокирующий колпачок, добавьте замок и бирку.
+Spuść powietrze po stronie maszyny, załóż nasadkę blokującą, dodaj kłódkę i zawieszkę.
+Légtelenítse a gép oldalát, tegye fel a lezáró kupakot, majd a lakatot és a címkét.
+Ventee el lado de la máquina, coloque la tapa de bloqueo y añada candado y etiqueta.
+
+#1408
+Le manomètre côté machine indique 0 bar, pas de sifflement de la vanne de purge.
+O manômetro do lado da máquina marca 0 bar, sem chiado da válvula de purga.
+机器侧压力表读数0 bar，泄压阀不再嘶嘶作响。
+Манометр на стороне машины показывает 0 бар, продувочный клапан не шипит.
+Manometr po stronie maszyny wskazuje 0 bar, zawór odpowietrzający nie syczy.
+A gép oldali manométer 0 bart mutat, a légtelenítő szelep nem sziszeg.
+El manómetro del lado de la máquina marca 0 bar, sin siseo de la válvula de purga.
+
+#1409
+Déconnecter et laisser la fiche pendre au flexible sans cadenas.
+Desconectar e deixar o plugue pendurado na mangueira sem cadeado.
+断开后让插头挂在软管上，也不上锁。
+Отсоединить и оставить штуцер висеть на шланге без замка.
+Odłączenie i pozostawienie wtyku zwisającego na wężu bez kłódki.
+Lecsatlakoztatni, és a dugót lakat nélkül lógva hagyni a tömlőn.
+Desconectar y dejar el enchufe colgando de la manguera sin candado.
+
+#1410
+Un raccord débranché est une coupure visible ; ajoutez un cadenas pour qu'il ne puisse pas être reconnecté.
+Um engate desconectado é uma interrupção que você vê; adicione um cadeado para que não possa ser reconectado.
+接头拔开就是一个看得见的断点；再加一把锁，使它无法被重新连接。
+Разъединённое соединение — это видимый разрыв; добавьте замок, чтобы его нельзя было подключить снова.
+Rozłączone złącze to widoczne rozwarcie; dodaj kłódkę, aby nie dało się go ponownie połączyć.
+A lecsatlakoztatott csatlakozó látható megszakítás; tegyen rá lakatot, hogy ne lehessen újra összekapcsolni.
+Un acoplamiento desconectado es una ruptura visible; añada un candado para que no pueda reconectarse.
+
+#1411
+Fermé et purgé
+Fechado e ventilado
+已关闭并已放空
+Закрыто и сброшено
+Zamknięte i odpowietrzone
+Zárva és légtelenítve
+Cerrado y venteado
+
+#1412
+Groupe de conditionnement d'air avec vanne de décharge verrouillable (FRL)
+Unidade de tratamento de ar com válvula de descarga bloqueável (FRL)
+带可上锁泄放阀的气源处理单元（FRL）
+Блок подготовки воздуха с блокируемым сбросным клапаном (FRL)
+Zespół przygotowania powietrza z blokowanym zaworem spustowym (FRL)
+Zárható leeresztő szelepes levegő-előkészítő egység (FRL)
+Unidad de tratamiento de aire con válvula de descarga bloqueable (FRL)
+
+#1413
+Le filtre, le régulateur et le lubrificateur placés devant une machine. Beaucoup ont un tiroir avec un trou pour cadenas. Fermé, il coupe l'alimentation ET ouvre l'aval à l'atmosphère, donc l'air de la machine est purgé en un seul geste. C'est la meilleure isolation de l'air comprimé sur une machine.
+O filtro, o regulador e o lubrificador que ficam na frente de uma máquina. Muitos têm uma válvula deslizante com furo para cadeado. Fechada, corta a alimentação E abre a jusante para a atmosfera, então o ar da máquina é ventilado em um só movimento. É o melhor isolamento de ar comprimido em uma máquina.
+位于机器前面的过滤器、调压阀和油雾器。很多带有一个有挂锁孔的滑阀。推到关闭位置时，既切断供气，又把下游通向大气，所以机器内的空气一步就放空了。这是机器上压缩空气的最佳隔离方式。
+Фильтр, регулятор и лубрикатор, которые стоят перед машиной. У многих есть золотниковый клапан с отверстием под замок. В закрытом положении он перекрывает подачу И открывает участок после себя в атмосферу, так что воздух в машине сбрасывается одним движением. Это лучший способ отключения сжатого воздуха на машине.
+Filtr, reduktor i smarownica, które stoją przed maszyną. Wiele z nich ma zawór suwakowy z otworem na kłódkę. Po zamknięciu odcina zasilanie I otwiera odcinek za sobą do atmosfery, więc powietrze maszyny jest spuszczane jednym ruchem. To najlepsza izolacja sprężonego powietrza przy maszynie.
+A gép előtt álló szűrő, nyomásszabályozó és olajozó. Sokon van tolattyús szelep lakatlyukkal. Elzárt állásban elvágja a betáplálást ÉS a lefelé eső részt a szabadba nyitja, így a gép levegője egyetlen mozdulattal kiürül. Ez a sűrített levegő legjobb leválasztása egy gépen.
+El filtro, el regulador y el lubricador que se montan delante de una máquina. Muchos tienen una válvula deslizante con un orificio para candado. Cerrada, corta el suministro Y abre el lado de aguas abajo a la atmósfera, por lo que el aire de la máquina se ventea en un solo movimiento. Es el mejor aislamiento de aire comprimido en una máquina.
+
+#1414
+Isole : l'air comprimé vers une machine, et le purge.
+Isola: o ar comprimido para uma máquina e o ventila.
+隔离对象：通往机器的压缩空气，并将其放空。
+Отключает: сжатый воздух к машине и сбрасывает его.
+Odcina: sprężone powietrze do maszyny i je spuszcza.
+Leválaszt: a géphez menő sűrített levegőt, és légteleníti.
+Aísla: el aire comprimido a una máquina y lo ventea.
+
+#1415
+Bouton enfoncé : l'air passe
+Botão empurrado: o ar flui
+旋钮推入：气流通
+Рукоятка вдвинута: воздух идёт
+Pokrętło wciśnięte: powietrze płynie
+Gomb benyomva: a levegő áramlik
+Pomo empujado: el aire fluye
+
+#1416
+Bouton tiré : air coupé et côté machine purgé
+Botão puxado: ar cortado e lado da máquina ventilado
+旋钮拉出：切断气源，机器侧放空
+Рукоятка вытянута: воздух перекрыт, сторона машины сброшена
+Pokrętło wyciągnięte: powietrze odcięte i strona maszyny odpowietrzona
+Gomb kihúzva: a levegő elzárva, a gép oldala légtelenítve
+Pomo extraído: aire cortado y lado de la máquina venteado
+
+#1417
+ENTRÉE 6 bar
+ENTRADA 6 bar
+进气 6 bar
+ВХОД 6 бар
+WEJŚCIE 6 bar
+BEMENET 6 bar
+ENTRADA 6 bar
+
+#1418
+SORTIE
+SAÍDA
+出气
+ВЫХОД
+WYJŚCIE
+KIMENET
+SALIDA
+
+#1419
+EXH (échappement)
+EXH (exaustão)
+EXH（排气）
+EXH (выхлоп)
+EXH (wydmuch)
+EXH (kifúvás)
+EXH (escape)
+
+#1420
+Alimentation bloquée, le côté machine se purge
+Alimentação bloqueada, o lado da máquina ventila
+供气被切断，机器侧放空
+Подача перекрыта, сторона машины сбрасывается
+Zasilanie zablokowane, strona maszyny się odpowietrza
+A betáplálás elzárva, a gép oldala légtelenít
+Suministro bloqueado, el lado de la máquina se ventea
+
+#1421
+Tiroir verrouillable
+Válvula deslizante bloqueável
+可上锁的滑阀
+Блокируемый золотниковый клапан
+Blokowany zawór suwakowy
+Zárható tolattyús szelep
+Válvula deslizante bloqueable
+
+#1422
+Poussez pour ouvrir, tirez pour fermer et purger. Le trou reçoit un cadenas.
+Empurre para abrir, puxe para fechar e ventilar. O furo recebe um cadeado.
+推入为打开，拉出为关闭并放空。孔内可挂挂锁。
+Вдвиньте, чтобы открыть, вытяните, чтобы закрыть и сбросить. В отверстие вставляется замок.
+Wciśnij, aby otworzyć, wyciągnij, aby zamknąć i odpowietrzyć. Otwór przyjmuje kłódkę.
+Benyomva nyit, kihúzva zár és légtelenít. A lyuk lakatot fogad.
+Empuje para abrir, tire para cerrar y ventear. El orificio admite un candado.
+
+#1423
+Manomètre
+Manômetro
+压力表
+Манометр
+Manometr
+Manométer
+Manómetro
+
+#1424
+Indique la pression côté machine. Elle doit tomber à 0.
+Mostra a pressão do lado da máquina. Deve cair a 0.
+显示机器侧压力。它必须降到0。
+Показывает давление на стороне машины. Оно должно упасть до 0.
+Pokazuje ciśnienie po stronie maszyny. Musi spaść do 0.
+A gép oldali nyomást mutatja. 0-ra kell esnie.
+Muestra la presión del lado de la máquina. Debe caer a 0.
+
+#1425
+Cuve du filtre
+Copo do filtro
+过滤器水杯
+Стакан фильтра
+Kubek filtra
+Szűrőpohár
+Vaso del filtro
+
+#1426
+Évacue l'eau et les impuretés. Dépressurisez avant de retirer la cuve.
+Drena água e sujeira. Despressurize antes de remover o copo.
+排出水和污物。取下水杯之前要先泄压。
+Сливает воду и грязь. Сбросьте давление, прежде чем снимать стакан.
+Odprowadza wodę i brud. Zredukuj ciśnienie przed zdjęciem kubka.
+Leereszti a vizet és a szennyeződést. A pohár levétele előtt nyomásmentesítsen.
+Drena agua y suciedad. Despresurice antes de quitar el vaso.
+
+#1427
+Lubrificateur
+Lubrificador
+油雾器
+Лубрикатор
+Smarownica
+Olajozó
+Lubricador
+
+#1428
+Ajoute un brouillard d'huile pour les outils pneumatiques.
+Adiciona uma névoa de óleo para ferramentas pneumáticas.
+为气动工具添加油雾。
+Добавляет масляный туман для пневматических инструментов.
+Dodaje mgłę olejową dla narzędzi pneumatycznych.
+Olajködöt ad a pneumatikus szerszámokhoz.
+Añade una niebla de aceite para herramientas neumáticas.
+
+#1429
+Tiroir de la vanne coulissante
+Carretel da válvula deslizante
+滑阀阀芯
+Золотник клапана
+Suwak zaworu suwakowego
+Tolattyús szelep tolattyúja
+Corredera de la válvula deslizante
+
+#1430
+Fermé : l'alimentation est bloquée et le côté machine est relié à l'échappement.
+Fechada: a alimentação é bloqueada e o lado da máquina conecta à exaustão.
+关闭：供气被切断，机器侧接通排气口。
+Закрыт: подача перекрыта, и сторона машины соединена с выхлопом.
+Zamknięty: zasilanie jest zablokowane, a strona maszyny połączona z wydmuchem.
+Zárva: a betáplálás elzárva, a gép oldala a kifúváshoz csatlakozik.
+Cerrada: el suministro está bloqueado y el lado de la máquina se conecta al escape.
+
+#1431
+Orifice d'échappement
+Porta de exaustão
+排气口
+Выхлопное отверстие
+Port wydmuchowy
+Kifúvónyílás
+Puerto de escape
+
+#1432
+L'air piégé sort ici. On entend un sifflement qui s'arrête.
+O ar retido sai aqui. Você ouve um chiado que para.
+被困的空气从这里排出。你会听到一阵嘶嘶声，随后停止。
+Запертый воздух выходит здесь. Слышен шипящий звук, который прекращается.
+Uwięzione powietrze wychodzi tutaj. Słychać syk, który ustaje.
+A bent ragadt levegő itt távozik. Sziszegést hall, amely megszűnik.
+El aire atrapado sale por aquí. Se oye un siseo que se detiene.
+
+#1433
+Alimentation
+Alimentação
+供气
+Подача
+Zasilanie
+Betáplálás
+Suministro
+
+#1434
+Toujours sous pression en amont de la vanne.
+Sempre com pressão a montante da válvula.
+阀门上游始终有压。
+Всегда под давлением до клапана.
+Zawsze pod ciśnieniem przed zaworem.
+A szelep előtt mindig nyomás alatt van.
+Siempre con presión aguas arriba de la válvula.
+
+#1435
+Fermez le tiroir. Le côté machine se purge avec un sifflement.
+Feche a válvula deslizante. O lado da máquina ventila com um chiado.
+推上滑阀关闭。机器侧嘶嘶地放空。
+Закройте клапан. Сторона машины сбрасывается с шипением.
+Zamknij zawór suwakowy. Strona maszyny odpowietrza się z sykiem.
+Zárja el a tolattyús szelepet. A gép oldala sziszegve légtelenít.
+Cierre la válvula deslizante. El lado de la máquina se ventea con un siseo.
+
+#1436
+Passez votre cadenas dans le trou de la vanne.
+Passe seu cadeado pelo furo da válvula.
+把你的挂锁穿过阀上的孔。
+Проденьте замок в отверстие клапана.
+Przełóż kłódkę przez otwór w zaworze.
+Fűzze át a lakatját a szelep lyukán.
+Pase su candado por el orificio de la válvula.
+
+#1437
+Ajoutez une étiquette et lisez le manomètre : 0 bar.
+Adicione uma etiqueta e leia o manômetro: 0 bar.
+挂上标签并读取压力表：0 bar。
+Добавьте бирку и посмотрите на манометр: 0 бар.
+Dodaj zawieszkę i odczytaj manometr: 0 bar.
+Tegyen fel címkét, és olvassa le a manométert: 0 bar.
+Añada una etiqueta y lea el manómetro: 0 bar.
+
+#1438
+Le manomètre indique 0. Essayez d'appuyer sur la gâchette d'un outil : rien ne bouge.
+O manômetro marca 0. Tente apertar o gatilho de uma ferramenta: nada se move.
+压力表读数0。试着扣动工具的扳机：什么都不动。
+Манометр показывает 0. Попробуйте нажать на спусковой крючок инструмента: ничего не двигается.
+Manometr wskazuje 0. Spróbuj nacisnąć spust narzędzia: nic się nie rusza.
+A manométer 0-t mutat. Próbálja meg meghúzni egy szerszám ravaszát: semmi nem mozdul.
+El manómetro marca 0. Intente accionar el gatillo de una herramienta: nada se mueve.
+
+#1439
+Verrouiller une vanne sans échappement et laisser de l'air piégé.
+Bloquear uma válvula sem exaustão e deixar ar retido.
+锁住一个没有排气口的阀门，把空气留在里面。
+Блокировать клапан без выхлопа и оставить воздух запертым.
+Blokowanie zaworu bez wydmuchu i pozostawienie uwięzionego powietrza.
+Lezárni egy kifúvás nélküli szelepet, és a levegőt bent hagyni.
+Bloquear una válvula sin escape y dejar aire atrapado.
+
+#1440
+ISO 4414 / ISO 14118 : purgez l'énergie pneumatique stockée.
+ISO 4414 / ISO 14118: ventile a energia pneumática armazenada.
+ISO 4414 / ISO 14118：放空储存的气动能量。
+ISO 4414 / ISO 14118: сбрасывайте накопленную пневматическую энергию.
+ISO 4414 / ISO 14118: spuszczaj zmagazynowaną energię pneumatyczną.
+ISO 4414 / ISO 14118: engedje ki a tárolt pneumatikus energiát.
+ISO 4414 / ISO 14118: ventee la energía neumática almacenada.
+
+#1441
+Purgé (0 bar)
+Ventilado (0 bar)
+已放空（0 bar）
+Сброшено (0 бар)
+Odpowietrzony (0 bar)
+Légtelenítve (0 bar)
+Venteado (0 bar)
+
+#1442
+Sous pression (6 bar)
+Pressurizado (6 bar)
+带压（6 bar）
+Под давлением (6 бар)
+Pod ciśnieniem (6 bar)
+Nyomás alatt (6 bar)
+Presurizado (6 bar)
+
+#1443
+Réservoir
+Tanque
+储罐
+Ресивер
+Zbiornik
+Tartály
+Depósito
+
+#1444
+La vanne d'entrée est verrouillée fermée et la purge est ouverte : le réservoir ne peut pas être mis sous pression.
+A válvula de entrada está bloqueada fechada e o dreno está aberto: o tanque não pode ser pressurizado.
+进气阀已锁在关闭位置，排放口打开：储罐无法被加压。
+Впускной клапан заблокирован в закрытом положении, а дренаж открыт: ресивер нельзя наполнить давлением.
+Zawór wlotowy jest zablokowany w pozycji zamkniętej, a spust otwarty: zbiornik nie może zostać napełniony ciśnieniem.
+A bemeneti szelep zárva lezárva, a leeresztő nyitva: a tartály nem nyomás alá helyezhető.
+La válvula de entrada está bloqueada cerrada y el drenaje está abierto: el depósito no puede presurizarse.
+
+#1445
+Réservoir d'air (appareil à pression)
+Reservatório de ar (vaso de pressão)
+储气罐（压力容器）
+Воздушный ресивер (сосуд под давлением)
+Zbiornik powietrza (zbiornik ciśnieniowy)
+Légtartály (nyomástartó edény)
+Depósito de aire (recipiente a presión)
+
+#1446
+Un réservoir plein d'air comprimé reste dangereux longtemps après l'arrêt du compresseur. Isolez la vanne d'entrée et verrouillez-la, ouvrez le purgeur et la purge, et attendez que le manomètre indique zéro. Un purgeur fermé avec une sortie bloquée retient encore la pression : ouvrez-le complètement et laissez-le ouvert pendant le travail.
+Um tanque cheio de ar comprimido continua perigoso muito depois de o compressor parar. Isole a válvula de entrada e bloqueie-a, abra o dreno e a purga e espere o manômetro marcar zero. Um dreno fechado com saída bloqueada ainda retém pressão, então abra-o totalmente e deixe aberto enquanto trabalha.
+装满压缩空气的储罐在压缩机停机很久之后仍然危险。隔离进气阀并上锁，打开排放口和泄压口，等到压力表读数为零。排放口关闭、出口又被堵住时仍然会憋着压力，所以要把它完全打开，作业期间一直保持打开。
+Ресивер, полный сжатого воздуха, остаётся опасным ещё долго после остановки компрессора. Отключите впускной клапан и заблокируйте его, откройте дренаж и сброс и дождитесь нуля на манометре. Закрытый дренаж при заблокированном выходе по-прежнему удерживает давление, поэтому откройте его полностью и оставьте открытым на время работы.
+Zbiornik pełen sprężonego powietrza pozostaje niebezpieczny długo po zatrzymaniu sprężarki. Odetnij zawór wlotowy i zablokuj go, otwórz spust i odpowietrznik, i poczekaj, aż manometr wskaże zero. Zamknięty spust przy zablokowanym wylocie nadal trzyma ciśnienie, więc otwórz go całkowicie i zostaw otwarty na czas pracy.
+A sűrített levegővel teli tartály a kompresszor leállása után még sokáig veszélyes marad. Válassza le a bemeneti szelepet, és zárja le, nyissa ki a leeresztőt és a légtelenítőt, és várja meg, amíg a manométer nullát mutat. A zárt leeresztő blokkolt kimenet mellett még mindig tartja a nyomást, ezért nyissa ki teljesen, és munka közben hagyja nyitva.
+Un depósito lleno de aire comprimido sigue siendo peligroso mucho después de que pare el compresor. Aísle la válvula de entrada y bloquéela, abra el drenaje y la purga y espere a que el manómetro marque cero. Un drenaje cerrado con la salida bloqueada aún retiene presión, así que ábralo del todo y déjelo abierto mientras trabaja.
+
+#1447
+Stocke : de l'air comprimé pour les outils et les vérins.
+Armazena: ar comprimido para ferramentas e cilindros.
+储存：供工具和气缸使用的压缩空气。
+Хранит: сжатый воздух для инструментов и цилиндров.
+Magazynuje: sprężone powietrze dla narzędzi i siłowników.
+Tárol: sűrített levegőt szerszámokhoz és hengerekhez.
+Almacena: aire comprimido para herramientas y cilindros.
+

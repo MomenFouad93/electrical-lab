@@ -1,0 +1,2070 @@
+#2136
+inversé
+invertido
+接反
+перевёрнут
+odwrócony
+fordítva
+invertido
+
+#2137
+Utilisez une section plus grande ou réduisez la charge.
+Use uma seção maior ou reduza a carga.
+使用更大截面的导线，或减小负载。
+Используйте большее сечение или уменьшите нагрузку.
+Użyj większego przekroju lub zmniejsz obciążenie.
+Használjon nagyobb keresztmetszetet, vagy csökkentse a terhelést.
+Use una sección mayor o reduzca la carga.
+
+#2138
+surchargé
+sobrecarregado
+过载
+перегружен
+przeciążony
+túlterhelt
+sobrecargado
+
+#2139
+Utilisez un disjoncteur au plus égal au courant admissible du câble, ou un câble plus gros.
+Use um disjuntor que não seja maior que a capacidade do cabo, ou um cabo maior.
+使用不大于电缆额定值的断路器，或者换更粗的电缆。
+Используйте автомат, не превышающий допустимый ток кабеля, или кабель большего сечения.
+Użyj wyłącznika nie większego niż obciążalność kabla albo grubszego kabla.
+Olyan megszakítót használjon, amely nem nagyobb a kábel terhelhetőségénél, vagy nagyobb kábelt.
+Use un interruptor automático no mayor que la capacidad del cable, o un cable mayor.
+
+#2140
+disjoncteur trop gros pour ce câble
+disjuntor grande demais para este cabo
+断路器对这根电缆来说太大
+автомат слишком велик для этого кабеля
+wyłącznik za duży dla tego kabla
+a megszakító túl nagy ehhez a kábelhez
+interruptor automático demasiado grande para este cable
+
+#2141
+Ajoutez un relais thermique (réglé sur le courant de la plaque signalétique) ou un MPCB.
+Adicione um relé de sobrecarga térmico (ajustado para a corrente da placa) ou um MPCB.
+加装热过载继电器（整定为铭牌电流）或MPCB。
+Добавьте тепловое реле (уставка по току с шильдика) или MPCB.
+Dodaj przekaźnik termiczny (nastawiony na prąd z tabliczki znamionowej) lub MPCB.
+Építsen be hőkioldó relét (a típustábla szerinti áramra állítva) vagy MPCB-t.
+Añada un relé térmico (ajustado a la corriente de la placa) o un MPCB.
+
+#2142
+aucune protection contre la surcharge
+sem proteção contra sobrecarga
+没有过载保护
+нет защиты от перегрузки
+brak zabezpieczenia przeciążeniowego
+nincs túlterhelés elleni védelem
+sin protección contra sobrecarga
+
+#2143
+Réglez-le sur le courant de la plaque signalétique du moteur.
+Ajuste para a corrente da placa do motor.
+把它整定为电机铭牌电流。
+Установите его на ток с шильдика двигателя.
+Ustaw go na prąd z tabliczki znamionowej silnika.
+Állítsa a motor típustábláján lévő áramra.
+Ajústelo a la corriente de la placa del motor.
+
+#2144
+réglé trop haut
+ajustado alto demais
+设得太高
+уставка слишком высокая
+ustawiony za wysoko
+túl magasra állítva
+ajustado demasiado alto
+
+#2145
+réglé trop bas
+ajustado baixo demais
+设得太低
+уставка слишком низкая
+ustawiony za nisko
+túl alacsonyra állítva
+ajustado demasiado bajo
+
+#2146
+Le contact d'arrêt d'urgence doit couper chaque charge dangereuse (catégorie d'arrêt 0 ou 1).
+O contato da parada de emergência deve interromper toda carga perigosa (categoria de parada 0 ou 1).
+急停触点必须切断每一个危险负载（停机类别0或1）。
+Контакт аварийного стопа должен отключать каждую опасную нагрузку (категория останова 0 или 1).
+Styk wyłącznika awaryjnego musi przerywać każde niebezpieczne obciążenie (kategoria zatrzymania 0 lub 1).
+A vészleállító érintkezőjének meg kell szakítania minden veszélyes terhelést (0. vagy 1. leállítási kategória).
+El contacto de la parada de emergencia debe interrumpir cada carga peligrosa (categoría de parada 0 o 1).
+
+#2147
+Câblez le contact NC de l'arrêt d'urgence en série avec l'alimentation des bobines de contacteurs (ou dans un relais de sécurité).
+Ligue o contato NF da parada de emergência em série com a alimentação das bobinas dos contatores (ou em um relé de segurança).
+把急停的常闭触点串联在接触器线圈的供电回路里（或接入安全继电器）。
+Включите НЗ-контакт аварийного стопа последовательно в цепь питания катушек контакторов (или в реле безопасности).
+Podłącz styk NC wyłącznika awaryjnego szeregowo z zasilaniem cewek styczników (lub do przekaźnika bezpieczeństwa).
+Kösse a vészleállító NC érintkezőjét sorba a kontaktortekercsek betáplálásával (vagy egy biztonsági relébe).
+Cablee el contacto NC de la parada de emergencia en serie con la alimentación de las bobinas de los contactores (o a un relé de seguridad).
+
+#2148
+l'arrêt d'urgence ne l'arrête pas
+a parada de emergência não o para
+急停无法让它停下
+аварийный стоп его не останавливает
+wyłącznik awaryjny go nie zatrzymuje
+a vészleállító nem állítja le
+la parada de emergencia no lo para
+
+#2149
+Vérifiez que le contact STOP (NC) est en série avec le circuit de la bobine et dans la bonne branche.
+Verifique se o contato STOP (NF) está em série com o circuito da bobina e no ramo correto.
+检查STOP触点（常闭）是否与线圈回路串联，并且接在正确的支路上。
+Проверьте, что контакт STOP (НЗ) включён последовательно в цепь катушки и в правильной ветви.
+Sprawdź, czy styk STOP (NC) jest szeregowo z obwodem cewki i w prawidłowej gałęzi.
+Ellenőrizze, hogy a STOP (NC) érintkező sorba van-e kötve a tekercskörrel, és a helyes ágban van-e.
+Compruebe que el contacto STOP (NC) está en serie con el circuito de la bobina y en la rama correcta.
+
+#2150
+ne s'arrête pas
+não para
+不会停
+не останавливается
+nie zatrzymuje się
+nem áll le
+no se detiene
+
+#2151
+Un contact d'auto-maintien du contacteur en parallèle avec START est normalement utilisé pour la commande d'un moteur.
+Um contato de selo (autorretenção) do contator em paralelo com START é normalmente usado no comando de motor.
+电机控制通常使用接触器的自保持触点与START并联。
+Для управления двигателем обычно применяют самоподхватывающий контакт контактора, включённый параллельно START.
+Do sterowania silnikiem zwykle stosuje się styk samopodtrzymania stycznika równolegle do START.
+Motorvezérlésnél általában a kontaktor önfenntartó érintkezőjét kötik párhuzamosan a START-tal.
+Para el mando de un motor se usa normalmente un contacto de autorretención del contactor en paralelo con START.
+
+#2152
+pas d'auto-maintien
+sem selo
+没有自保持
+нет самоподхвата
+brak samopodtrzymania
+nincs önfenntartás
+sin autorretención
+
+#2153
+Circuit de commande en 230 V. Pour la sécurité, utilisez un transformateur de commande ou une alimentation 24 V.
+Circuito de comando em 230 V. Por segurança, use um transformador de comando ou uma fonte de 24 V.
+控制回路为230 V。为了安全，请使用控制变压器或24 V电源。
+Цепь управления на 230 В. Для безопасности используйте управляющий трансформатор или источник 24 В.
+Obwód sterowania na 230 V. Dla bezpieczeństwa użyj transformatora sterowniczego lub zasilacza 24 V.
+A vezérlőkör 230 V-os. A biztonság érdekében használjon vezérlőtranszformátort vagy 24 V-os tápegységet.
+Circuito de mando a 230 V. Por seguridad use un transformador de mando o una fuente de 24 V.
+
+#2154
+une seule étiquette avec ce nom
+apenas uma etiqueta com este nome
+只有一个带这个名字的标签
+только одна метка с этим именем
+tylko jedna etykieta o tej nazwie
+csak egy címke van ezzel a névvel
+solo una etiqueta con este nombre
+
+#2155
+pas d'alimentation
+sem alimentação
+没有供电
+нет питания
+brak zasilania
+nincs betáplálás
+sin alimentación
+
+#2156
+ne fonctionne que sous condition (alarme / voyant de déclenchement ?)
+funciona somente sob condição (alarme / lâmpada de desarme?)
+只在某个条件下工作（报警 / 跳闸指示灯？）
+работает только при условии (аварийная / сигнальная лампа?)
+działa tylko pod warunkiem (alarm / lampka wyzwolenia?)
+csak feltétellel működik (riasztás / kioldásjelző lámpa?)
+funciona solo bajo una condición (¿alarma / piloto de disparo?)
+
+#2157
+ne fonctionne pas
+não funciona
+不工作
+не работает
+nie działa
+nem működik
+no funciona
+
+#2158
+Utilisez « Dépanner » ci-dessous : il vous dit quoi mesurer en premier.
+Use "Localizar falha" abaixo: ele diz o que medir primeiro.
+使用下面的"排查故障"：它会告诉你先测什么。
+Используйте «Найти неисправность» ниже: он подскажет, что измерить в первую очередь.
+Użyj „Szukaj usterki" poniżej: podpowie, co zmierzyć najpierw.
+Használja alább a „Hibakeresés" funkciót: megmondja, mit mérjen először.
+Use «Localizar avería» más abajo: le dice qué medir primero.
+
+#2159
+devrait fonctionner, ne fonctionne pas
+deveria funcionar, não funciona
+应该工作，却没有
+должно работать, но не работает
+powinno działać, nie działa
+működnie kellene, nem működik
+debería funcionar, no funciona
+
+#2160
+fonctionne
+funciona
+正常工作
+работает
+działa
+működik
+funciona
+
+#2161
+toujours allumé
+sempre ligado
+一直开着
+всегда включено
+zawsze włączone
+mindig be van kapcsolva
+siempre encendido
+
+#2162
+Erreur
+Erro
+错误
+Ошибка
+Błąd
+Hiba
+Error
+
+#2163
+Correction
+Correção
+修复
+Исправление
+Naprawa
+Javítás
+Solución
+
+#2164
+Remarque
+Nota
+备注
+Примечание
+Uwaga
+Megjegyzés
+Nota
+
+#2165
+Vérification...
+Verificando...
+正在检查...
+Проверка...
+Sprawdzanie...
+Ellenőrzés...
+Comprobando...
+
+#2166
+Lancer le diagnostic
+Executar diagnóstico
+运行诊断
+Запустить диагностику
+Uruchom diagnostykę
+Diagnosztika futtatása
+Ejecutar diagnóstico
+
+#2167
+Afficher les repères sur le schéma
+Mostrar marcas no desenho
+在图纸上显示标记
+Показать отметки на схеме
+Pokaż oznaczenia na rysunku
+Jelölések megjelenítése a rajzon
+Mostrar marcas en el dibujo
+
+#2168
+Repères
+Marcas
+标记
+Отметки
+Oznaczenia
+Jelölések
+Marcas
+
+#2169
+Moteur
+Motor
+引擎
+Движок
+Silnik
+Motor
+Motor
+
+#2170
+Intégré (hors ligne)
+Integrado (offline)
+内置（离线）
+Встроенный (офлайн)
+Wbudowany (offline)
+Beépített (offline)
+Integrado (sin conexión)
+
+#2171
+Intégré + IA
+Integrado + IA
+内置 + AI
+Встроенный + ИИ
+Wbudowany + AI
+Beépített + MI
+Integrado + IA
+
+#2172
+Auto
+Auto
+自动
+Авто
+Auto
+Automatikus
+Auto
+
+#2173
+Le schéma a changé. Relancez le diagnostic.
+O desenho mudou. Execute o diagnóstico de novo.
+图纸已更改。请重新运行诊断。
+Схема изменилась. Запустите диагностику снова.
+Rysunek się zmienił. Uruchom diagnostykę ponownie.
+A rajz megváltozott. Futtassa újra a diagnosztikát.
+El dibujo ha cambiado. Ejecute el diagnóstico de nuevo.
+
+#2174
+La vérification a échoué
+A verificação falhou
+检查失败
+Проверка не удалась
+Sprawdzenie nie powiodło się
+Az ellenőrzés sikertelen volt
+La comprobación ha fallado
+
+#2175
+Diagnostic
+Diagnóstico
+诊断
+Диагностика
+Diagnostyka
+Diagnosztika
+Diagnóstico
+
+#2176
+Dessinez un circuit ou une carte, puis appuyez sur le bouton. Je le passe dans des scénarios de test et je vous dis ce qui est juste, ce qui est faux, où, et ce qui ne s'allumera pas ou ne tournera pas. Des repères apparaissent sur le schéma.
+Desenhe um circuito ou uma placa e pressione o botão. Eu o passo por cenários de teste e digo o que está certo, o que está errado, onde, e o que não vai acender nem funcionar. Marcas aparecem no desenho.
+画一个电路或一块板子，然后按按钮。我会让它跑一遍测试场景，告诉你哪里对、哪里错、错在哪里，以及哪些东西不会亮或不会运转。标记会显示在图纸上。
+Нарисуйте цепь или плату и нажмите кнопку. Я прогоню её через тестовые сценарии и скажу, что правильно, что нет, где именно, и что не загорится и не заработает. Отметки появятся на схеме.
+Narysuj obwód lub płytkę, potem naciśnij przycisk. Przepuszczę je przez scenariusze testowe i powiem, co jest dobrze, co źle, gdzie oraz co się nie zaświeci i nie ruszy. Oznaczenia pojawią się na rysunku.
+Rajzoljon egy áramkört vagy kártyát, majd nyomja meg a gombot. Tesztforgatókönyveken futtatom végig, és megmondom, mi helyes, mi hibás, hol, és mi nem fog világítani vagy működni. A jelölések megjelennek a rajzon.
+Dibuje un circuito o una placa y pulse el botón. Lo paso por escenarios de prueba y le digo qué está bien, qué está mal, dónde, y qué no se encenderá ni funcionará. Aparecen marcas en el dibujo.
+
+#2177
+Faux / cassé
+Errado / quebrado
+错误 / 损坏
+Неверно / сломано
+Błędne / zepsute
+Hibás / törött
+Mal / roto
+
+#2178
+À vérifier ici
+Verifique aqui
+在这里检查
+Проверьте здесь
+Sprawdź tutaj
+Itt ellenőrizze
+Compruebe aquí
+
+#2179
+Fonctionne
+Funciona
+正常工作
+Работает
+Działa
+Működik
+Funciona
+
+#2180
+Semble correct
+Parece correto
+看起来正确
+Выглядит правильно
+Wygląda poprawnie
+Helyesnek tűnik
+Parece correcto
+
+#2181
+Fonctionne, des corrections sont nécessaires
+Funciona, precisa de correções
+能工作，但需要修正
+Работает, нужны исправления
+Działa, wymaga poprawek
+Működik, javításra szorul
+Funciona, necesita correcciones
+
+#2182
+Contient des erreurs
+Tem erros
+有错误
+Есть ошибки
+Zawiera błędy
+Hibákat tartalmaz
+Tiene errores
+
+#2183
+Rien à vérifier
+Nada para verificar
+没有可检查的内容
+Нечего проверять
+Nic do sprawdzenia
+Nincs mit ellenőrizni
+Nada que comprobar
+
+#2184
+erreur
+erro
+个错误
+ошибка
+błąd
+hiba
+error
+
+#2185
+erreurs
+erros
+个错误
+ошибок
+błędów
+hiba
+errores
+
+#2186
+à corriger
+a corrigir
+项待修复
+к исправлению
+do poprawy
+javítandó
+por corregir
+
+#2187
+ne fonctionnent pas
+não funcionam
+项不工作
+не работают
+nie działają
+nem működik
+no funcionan
+
+#2188
+tests
+testes
+项测试
+тестов
+testów
+teszt
+pruebas
+
+#2189
+Cette carte a un défaut caché. Je ne signale que ce que vous verriez sur la paillasse, pas la cause.
+Esta placa tem uma falha oculta. Eu relato apenas o que você veria na bancada, não a causa.
+这块板子有一个隐藏的故障。我只报告你在工作台上能看到的现象，不说原因。
+В этой плате скрыта неисправность. Я сообщаю только то, что вы увидите на стенде, а не причину.
+Ta płytka ma ukrytą usterkę. Podaję tylko to, co zobaczyłbyś na stanowisku, nie przyczynę.
+Ezen a kártyán rejtett hiba van. Csak azt jelzem, amit a munkapadon látna, az okot nem.
+Esta placa tiene una avería oculta. Solo informo de lo que vería en el banco, no de la causa.
+
+#2190
+Ce que j'ai trouvé
+O que encontrei
+我发现了什么
+Что я нашёл
+Co znalazłem
+Amit találtam
+Lo que he encontrado
+
+#2191
+Correction :
+Correção:
+修复：
+Исправление:
+Naprawa:
+Javítás:
+Solución:
+
+#2192
+Afficher sur le schéma
+Mostrar no desenho
+在图纸上显示
+Показать на схеме
+Pokaż na rysunku
+Megjelenítés a rajzon
+Mostrar en el dibujo
+
+#2193
+Dépanner
+Localizar falha
+排查故障
+Найти неисправность
+Szukaj usterki
+Hibakeresés
+Localizar avería
+
+#2194
+Ce qui fonctionne et ce qui ne fonctionne pas
+O que funciona e o que não funciona
+哪些能工作，哪些不能
+Что работает и что не работает
+Co działa, a co nie
+Mi működik és mi nem
+Qué funciona y qué no
+
+#2195
+Ne fonctionnera pas
+Não vai funcionar
+不会工作
+Не будет работать
+Nie będzie działać
+Nem fog működni
+No funcionará
+
+#2196
+Seulement sous condition
+Somente sob condição
+只在某个条件下
+Только при условии
+Tylko pod warunkiem
+Csak feltétellel
+Solo bajo una condición
+
+#2197
+Devrait fonctionner, ne fonctionne pas
+Deveria funcionar, não funciona
+应该工作，却没有
+Должно работать, но не работает
+Powinno działać, nie działa
+Működnie kellene, nem működik
+Debería funcionar, no funciona
+
+#2198
+Il attend
+Ele espera
+它在等待
+Ждёт
+Czeka na
+Arra vár:
+Espera a
+
+#2199
+, qui ne fonctionne pas.
+, que não funciona.
+，而它并不工作。
+, который не работает.
+, który nie działa.
+, ami nem működik.
+, que no funciona.
+
+#2200
+Avis de l'IA
+Revisão por IA
+AI审查
+Проверка ИИ
+Przegląd AI
+MI-áttekintés
+Revisión por IA
+
+#2201
+Demande en cours...
+Perguntando...
+正在询问...
+Запрос...
+Pytanie...
+Kérdezés...
+Preguntando...
+
+#2202
+Mode IA (facultatif, en ligne)
+Modo IA (opcional, online)
+AI模式（可选，在线）
+Режим ИИ (необязательно, онлайн)
+Tryb AI (opcjonalny, online)
+MI mód (nem kötelező, online)
+Modo IA (opcional, en línea)
+
+#2203
+Nécessite internet et votre propre clé API. La clé reste uniquement dans ce navigateur. Un réseau d'entreprise peut la bloquer. Le moteur intégré ci-dessus fonctionne sans rien de tout cela.
+Precisa de internet e da sua própria chave de API. A chave fica somente neste navegador. Uma rede corporativa pode bloqueá-la. O motor integrado acima funciona sem nada disso.
+需要联网和你自己的API密钥。密钥只保存在这个浏览器里。公司网络可能会屏蔽它。上面的内置引擎不需要这些也能使用。
+Требуются интернет и ваш собственный ключ API. Ключ хранится только в этом браузере. Корпоративная сеть может его блокировать. Встроенный движок выше работает без всего этого.
+Wymaga internetu i Twojego własnego klucza API. Klucz zostaje tylko w tej przeglądarce. Sieć firmowa może go blokować. Wbudowany silnik powyżej działa bez tego wszystkiego.
+Internetre és saját API-kulcsra van szükség. A kulcs csak ebben a böngészőben marad. A vállalati hálózat blokkolhatja. A fenti beépített motor ezek nélkül is működik.
+Necesita internet y su propia clave de API. La clave se queda solo en este navegador. Una red corporativa puede bloquearla. El motor integrado de arriba funciona sin nada de esto.
+
+#2204
+Enregistrer
+Salvar
+保存
+Сохранить
+Zapisz
+Mentés
+Guardar
+
+#2205
+Enregistré sur cet appareil.
+Salvo neste dispositivo.
+已保存在此设备上。
+Сохранено на этом устройстве.
+Zapisano na tym urządzeniu.
+Elmentve ezen az eszközön.
+Guardado en este dispositivo.
+
+#2206
+Faire examiner ce schéma par l'IA
+Revisar este desenho com IA
+用AI审查这张图纸
+Проверить эту схему с помощью ИИ
+Przejrzyj ten rysunek z pomocą AI
+A rajz áttekintése MI-vel
+Revisar este dibujo con IA
+
+#2207
+Mes cas résolus (
+Meus casos resolvidos (
+我已解决的案例（
+Мои решённые случаи (
+Moje rozwiązane przypadki (
+Megoldott eseteim (
+Mis casos resueltos (
+
+#2208
+Chaque cas enregistré rend le même défaut plus probable la prochaine fois. Exportez le fichier pour le partager avec un collègue.
+Cada caso que você salva torna a mesma falha mais provável da próxima vez. Exporte o arquivo para compartilhá-lo com um colega.
+你保存的每个案例都会让下次遇到同一故障时更容易判断出来。导出文件即可分享给同事。
+Каждый сохранённый случай делает ту же неисправность более вероятной в следующий раз. Экспортируйте файл, чтобы поделиться им с коллегой.
+Każdy zapisany przypadek zwiększa prawdopodobieństwo tej samej usterki następnym razem. Wyeksportuj plik, aby podzielić się nim z kolegą.
+Minden elmentett eset valószínűbbé teszi ugyanazt a hibát legközelebb. Exportálja a fájlt, hogy megoszthassa egy kollégával.
+Cada caso que guarda hace más probable la misma avería la próxima vez. Exporte el archivo para compartirlo con un colega.
+
+#2209
+vérifications
+verificações
+项检查
+проверок
+sprawdzeń
+ellenőrzés
+comprobaciones
+
+#2210
+Importés :
+Importados:
+已导入：
+Импортировано:
+Zaimportowano:
+Importálva:
+Importados:
+
+#2211
+Ce n'est pas un fichier de cas.
+Não é um arquivo de casos.
+这不是案例文件。
+Это не файл случаев.
+To nie jest plik przypadków.
+Ez nem esetfájl.
+No es un archivo de casos.
+
+#2212
+Exporter
+Exportar
+导出
+Экспорт
+Eksportuj
+Exportálás
+Exportar
+
+#2213
+Importer
+Importar
+导入
+Импорт
+Importuj
+Importálás
+Importar
+
+#2214
+Dépannage guidé
+Localização guiada de falhas
+引导式排查
+Пошаговый поиск неисправностей
+Prowadzone szukanie usterek
+Vezetett hibakeresés
+Localización guiada de averías
+
+#2215
+Quelque chose ne fonctionne pas sur la vraie machine ou carte ? Indiquez-moi le symptôme. Je suggère quoi mesurer en premier, vous me dites ce que vous avez obtenu, et je réduis les suspects jusqu'à n'en laisser qu'un.
+Algo não funciona na máquina ou na placa real? Diga-me o sintoma. Eu sugiro o que medir primeiro, você me diz o que obteve e eu restrinjo os suspeitos até sobrar um.
+真实的机器或板子上有东西不工作？告诉我症状。我会建议先测什么，你告诉我测到了什么，我再缩小怀疑范围，直到只剩一个。
+Что-то не работает на реальной машине или плате? Назовите симптом. Я подскажу, что измерить в первую очередь, вы скажете, что получили, а я буду сужать круг подозреваемых, пока не останется один.
+Coś nie działa na prawdziwej maszynie lub płytce? Podaj objaw. Podpowiem, co zmierzyć najpierw, Ty powiesz, co wyszło, a ja będę zawężać podejrzanych, aż zostanie jeden.
+Valami nem működik a valódi gépen vagy kártyán? Mondja el a tünetet. Javaslom, mit mérjen először, Ön megmondja, mit kapott, én pedig szűkítem a gyanúsítottak körét, amíg egy marad.
+¿Algo no funciona en la máquina o placa real? Dígame el síntoma. Sugiero qué medir primero, usted me dice qué obtuvo y yo voy reduciendo los sospechosos hasta que quede uno.
+
+#2216
+Démarrer
+Iniciar
+开始
+Начать
+Start
+Indítás
+Iniciar
+
+#2217
+Donnez-moi un défaut caché à trouver
+Dê-me uma falha oculta para encontrar
+给我一个隐藏故障让我来找
+Дайте мне скрытую неисправность, чтобы найти
+Daj mi ukrytą usterkę do znalezienia
+Adjon egy rejtett hibát, amit meg kell találnom
+Dame una avería oculta para encontrar
+
+#2218
+Dessinez d'abord quelque chose.
+Desenhe algo primeiro.
+请先画点东西。
+Сначала что-нибудь нарисуйте.
+Najpierw coś narysuj.
+Előbb rajzoljon valamit.
+Dibuje algo primero.
+
+#2219
+Le schéma a déjà un défaut caché. En ajouter un autre ?
+O desenho já tem uma falha oculta. Adicionar outra?
+图纸里已经有一个隐藏故障。再加一个吗？
+На схеме уже есть скрытая неисправность. Добавить ещё одну?
+Rysunek ma już ukrytą usterkę. Dodać kolejną?
+A rajzon már van rejtett hiba. Hozzáad még egyet?
+El dibujo ya tiene una avería oculta. ¿Añadir otra?
+
+#2220
+Je n'ai pas trouvé de défaut qui produise un symptôme ici.
+Não encontrei uma falha que produza um sintoma aqui.
+我没有找到在这里会产生症状的故障。
+Я не нашёл неисправность, которая здесь проявляется симптомом.
+Nie znalazłem usterki, która dawałaby tu objaw.
+Nem találtam olyan hibát, amely itt tünetet okozna.
+No encontré una avería que produzca un síntoma aquí.
+
+#2221
+Un défaut est caché quelque part. Passez en mode Test, faites fonctionner la machine et trouvez-le.
+Uma falha está escondida em algum lugar. Mude para o modo Teste, coloque a máquina para funcionar e encontre-a.
+某处藏着一个故障。切换到测试模式，让机器运行起来，把它找出来。
+Где-то скрыта неисправность. Перейдите в режим теста, запустите машину и найдите её.
+Gdzieś ukryta jest usterka. Przełącz na tryb testu, uruchom maszynę i znajdź ją.
+Valahol egy hiba rejtőzik. Váltson Teszt módra, működtesse a gépet, és találja meg.
+Hay una avería escondida en algún sitio. Cambie al modo Prueba, ponga en marcha la máquina y encuéntrela.
+
+#2222
+1. Qu'est-ce qui ne va pas ?
+1. O que ele faz de errado?
+1. 它哪里不对？
+1. Что она делает не так?
+1. Co robi źle?
+1. Mit csinál rosszul?
+1. ¿Qué hace mal?
+
+#2223
+J'ai rempli ceci d'après ce que fait la carte maintenant. Modifiez si vous avez vu autre chose.
+Preenchi isto com base no que a placa faz agora. Altere se você viu outra coisa.
+我是根据板子现在的表现填的。如果你看到的不一样，请修改。
+Я заполнил это по тому, что плата делает сейчас. Измените, если вы видели что-то другое.
+Wypełniłem to na podstawie tego, co płytka robi teraz. Zmień, jeśli widziałeś coś innego.
+Ezt aszerint töltöttem ki, amit a kártya most csinál. Módosítsa, ha mást látott.
+Lo rellené según lo que hace la placa ahora. Cámbielo si vio otra cosa.
+
+#2224
+Ne fait pas
+Não faz
+不会
+Не делает
+Nie robi
+Nem csinál
+No hace
+
+#2225
+2. Qu'avez-vous fait avant la panne ?
+2. O que você fez antes de falhar?
+2. 出故障之前你做了什么？
+2. Что вы делали перед отказом?
+2. Co zrobiłeś, zanim to przestało działać?
+2. Mit csinált, mielőtt meghibásodott?
+2. ¿Qué hizo antes de que fallara?
+
+#2226
+Rien à actionner. Je vais simplement la mettre sous tension.
+Nada para operar. Vou apenas energizá-la.
+没有需要操作的。我只是给它上电。
+Нечего задействовать. Я просто подам питание.
+Nic do obsługi. Po prostu ją zasilę.
+Nincs mit működtetni. Csak áram alá helyezem.
+Nada que accionar. Solo la pondré en tensión.
+
+#2227
+Utiliser mes étapes du mode Test (
+Usar meus passos do modo Teste (
+使用我在测试模式中的操作步骤（
+Использовать мои шаги из режима теста (
+Użyj moich kroków z trybu testu (
+Saját Teszt módos lépéseim használata (
+Usar mis pasos del modo Prueba (
+
+#2228
+Étapes standard (mettre sous tension, appuyer sur start)
+Passos padrão (ligar, pressionar start)
+标准步骤（通电，按start）
+Стандартные шаги (включить, нажать start)
+Kroki standardowe (włączyć, nacisnąć start)
+Szokásos lépések (bekapcsolás, start megnyomása)
+Pasos estándar (conectar, pulsar start)
+
+#2229
+Trouver le défaut
+Encontrar a falha
+查找故障
+Найти неисправность
+Znajdź usterkę
+Hiba megkeresése
+Encontrar la avería
+
+#2230
+Annuler
+Cancelar
+取消
+Отмена
+Anuluj
+Mégse
+Cancelar
+
+#2231
+Marquez au moins un appareil comme « ne fonctionne pas ».
+Marque pelo menos um dispositivo como "não funciona".
+至少把一个器件标记为"不工作"。
+Отметьте хотя бы одно устройство как «не работает».
+Oznacz co najmniej jedno urządzenie jako „nie działa".
+Jelöljön meg legalább egy eszközt „nem működik" állapotúnak.
+Marque al menos un dispositivo como «no funciona».
+
+#2232
+Marquez d'abord le symptôme.
+Marque primeiro o sintoma.
+请先标出症状。
+Сначала отметьте симптом.
+Najpierw oznacz objaw.
+Először jelölje meg a tünetet.
+Marque primero el síntoma.
+
+#2233
+Essai de chaque défaut simple possible sur votre schéma...
+Testando cada falha simples possível no seu desenho...
+正在逐一试验你图纸上每一个可能的单点故障...
+Перебор всех возможных одиночных неисправностей на вашей схеме...
+Sprawdzanie każdej możliwej pojedynczej usterki na Twoim rysunku...
+A rajzon lehetséges minden egyszeres hiba kipróbálása...
+Probando cada posible avería única en su dibujo...
+
+#2234
+défauts possibles ·
+falhas possíveis ·
+个可能的故障 ·
+возможных неисправностей ·
+możliwych usterek ·
+lehetséges hiba ·
+averías posibles ·
+
+#2235
+vérifications faites
+verificações feitas
+项检查已完成
+проверок выполнено
+sprawdzeń wykonano
+ellenőrzés kész
+comprobaciones hechas
+
+#2236
+Recommencer
+Recomeçar
+重新开始
+Начать заново
+Zacznij od nowa
+Újrakezdés
+Empezar de nuevo
+
+#2237
+Attention : le schéma lui-même se comporte de la même façon, sans aucun défaut. Le problème est peut-être dans la conception, pas dans une pièce. Lancez d'abord le diagnostic.
+Cuidado: o próprio desenho se comporta da mesma forma, sem nenhuma falha. O problema pode estar no projeto, não em uma peça. Execute primeiro o diagnóstico.
+注意：图纸本身没有任何故障，表现却是一样的。问题可能出在设计上，而不是某个元件。请先运行诊断。
+Осторожно: сама схема ведёт себя так же, без какой-либо неисправности. Проблема, возможно, в конструкции, а не в детали. Сначала запустите диагностику.
+Uwaga: sam rysunek zachowuje się tak samo, bez żadnej usterki. Problem może leżeć w projekcie, a nie w części. Najpierw uruchom diagnostykę.
+Vigyázat: maga a rajz is ugyanígy viselkedik, minden hiba nélkül. A probléma lehet, hogy a tervben van, nem egy alkatrészben. Előbb futtassa a diagnosztikát.
+Cuidado: el propio dibujo se comporta igual, sin ninguna avería. El problema puede estar en el diseño y no en una pieza. Ejecute primero el diagnóstico.
+
+#2238
+Aucun défaut simple n'explique toutes vos réponses. Revérifiez une mesure, ou il y a peut-être deux défauts.
+Nenhuma falha simples explica todas as suas respostas. Confira de novo uma leitura, ou pode haver duas falhas.
+没有任何单一故障能解释你所有的回答。请重新核对某个读数，或者可能有两个故障。
+Ни одна одиночная неисправность не объясняет все ваши ответы. Перепроверьте одно из показаний, либо неисправностей может быть две.
+Żadna pojedyncza usterka nie tłumaczy wszystkich Twoich odpowiedzi. Sprawdź ponownie któryś odczyt albo mogą być dwie usterki.
+Egyetlen hiba sem magyarázza az összes válaszát. Ellenőrizzen újra egy leolvasást, vagy lehet, hogy két hiba van.
+Ninguna avería única explica todas sus respuestas. Vuelva a comprobar una lectura, o puede haber dos averías.
+
+#2239
+Suspects
+Suspeitos
+怀疑对象
+Подозреваемые
+Podejrzani
+Gyanúsítottak
+Sospechosos
+
+#2240
+Prochaine vérification
+Próxima verificação
+下一步检查
+Следующая проверка
+Następne sprawdzenie
+Következő ellenőrzés
+Siguiente comprobación
+
+#2241
+Montrer
+Mostrar
+显示
+Показать
+Pokaż
+Mutat
+Mostrar
+
+#2242
+Placer les pointes du multimètre là
+Colocar as pontas do multímetro ali
+把表笔放到那里
+Поставить щупы мультиметра туда
+Umieść tam sondy miernika
+Tegye oda a műszer mérőcsúcsait
+Poner ahí las puntas del polímetro
+
+#2243
+Mesurer pour moi
+Medir para mim
+替我测量
+Измерить за меня
+Zmierz za mnie
+Mérje meg helyettem
+Medirlo por mí
+
+#2244
+Passer
+Pular
+跳过
+Пропустить
+Pomiń
+Kihagyás
+Omitir
+
+#2245
+Qu'avez-vous obtenu ?
+O que você obteve?
+你测到了什么？
+Что вы получили?
+Co wyszło?
+Mit kapott?
+¿Qué obtuvo?
+
+#2246
+aucun suspect n'attend cela
+nenhum suspeito espera isso
+没有任何怀疑对象预期是这个结果
+ни один подозреваемый этого не предполагает
+żaden podejrzany tego nie przewiduje
+egyik gyanúsított sem ezt várja
+ningún sospechoso espera esto
+
+#2247
+Ou saisissez la valeur (
+Ou digite a leitura (
+或者输入读数（
+Или введите показание (
+Albo wpisz odczyt (
+Vagy írja be az értéket (
+O escriba la lectura (
+
+#2248
+, OL pour ouvert
+, OL para aberto
+，OL表示开路
+, OL для обрыва
+, OL dla otwartego
+, OL a nyitotthoz
+, OL para abierto
+
+#2249
+Saisissez un nombre.
+Digite um número.
+请输入一个数字。
+Введите число.
+Wpisz liczbę.
+Írjon be egy számot.
+Escriba un número.
+
+#2250
+Cordon noir ici
+Ponta preta aqui
+黑表笔放这里
+Чёрный щуп сюда
+Czarna sonda tutaj
+Fekete mérővezeték ide
+Punta negra aquí
+
+#2251
+Valeur :
+Leitura:
+读数：
+Показание:
+Odczyt:
+Érték:
+Lectura:
+
+#2252
+Pointes placées. Pour une vraie mesure, la pièce doit d'abord être isolée (LOTO).
+Pontas posicionadas. Para uma medição real, a peça precisa primeiro ser isolada (LOTO).
+表笔已放好。实际测量时，必须先把该部件隔离（LOTO）。
+Щупы установлены. Для реального измерения деталь сначала нужно отключить (LOTO).
+Sondy umieszczone. Do prawdziwego pomiaru część musi być najpierw odcięta (LOTO).
+A mérővezetékek a helyén. Valódi méréshez az alkatrészt előbb le kell választani (LOTO).
+Puntas colocadas. Para una medición real, la pieza debe aislarse antes (LOTO).
+
+#2253
+Pointes placées. Lisez le multimètre.
+Pontas posicionadas. Leia o multímetro.
+表笔已放好。读取万用表的数值。
+Щупы установлены. Считайте показание мультиметра.
+Sondy umieszczone. Odczytaj miernik.
+A mérővezetékek a helyén. Olvassa le a műszert.
+Puntas colocadas. Lea el polímetro.
+
+#2254
+Vos réponses
+Suas respostas
+你的回答
+Ваши ответы
+Twoje odpowiedzi
+Válaszai
+Sus respuestas
+
+#2255
+Annuler la dernière réponse
+Desfazer a última resposta
+撤销上一个回答
+Отменить последний ответ
+Cofnij ostatnią odpowiedź
+Utolsó válasz visszavonása
+Deshacer la última respuesta
+
+#2256
+Le plus probable
+Mais provável
+最可能
+Наиболее вероятно
+Najbardziej prawdopodobne
+Legvalószínűbb
+Lo más probable
+
+#2257
+sûr
+certo
+确定
+уверен
+pewne
+biztos
+seguro
+
+#2258
+on ne peut pas les distinguer par la mesure ; la réparation est la même
+não dá para distingui-los medindo; o reparo é o mesmo
+测量无法区分它们；修理方法是一样的
+по измерениям их не различить; ремонт один и тот же
+nie da się ich odróżnić pomiarem; naprawa jest taka sama
+mérésekkel nem különböztethetők meg; a javítás ugyanaz
+no se pueden distinguir midiendo; la reparación es la misma
+
+#2259
+Que faire :
+O que fazer:
+怎么做：
+Что делать:
+Co zrobić:
+Teendő:
+Qué hacer:
+
+#2260
+Ensuite le plus probable :
+Em seguida, o mais provável:
+其次最可能：
+Следующий по вероятности:
+Kolejny najbardziej prawdopodobny:
+A következő legvalószínűbb:
+Siguiente más probable:
+
+#2261
+Le corriger dans le simulateur et tester
+Corrigi-lo no simulador e testar
+在模拟器里修复并测试
+Исправить в симуляторе и проверить
+Napraw to w symulatorze i przetestuj
+Javítsa ki a szimulátorban és tesztelje
+Corregirlo en el simulador y probar
+
+#2262
+Corrigé. Le symptôme a disparu.
+Corrigido. O sintoma desapareceu.
+已修复。症状消失了。
+Исправлено. Симптом исчез.
+Naprawiono. Objaw zniknął.
+Javítva. A tünet megszűnt.
+Corregido. El síntoma ha desaparecido.
+
+#2263
+Cette pièce a été réparée, mais le symptôme est toujours là. Il y a peut-être un second défaut.
+Esta peça foi reparada, mas o sintoma continua. Pode haver uma segunda falha.
+这个部件已修复，但症状仍然存在。可能还有第二个故障。
+Эта деталь отремонтирована, но симптом остался. Возможно, есть вторая неисправность.
+Ta część została naprawiona, ale objaw nadal występuje. Może być druga usterka.
+Ezt az alkatrészt megjavították, de a tünet megmaradt. Lehet, hogy van egy második hiba.
+Se reparó esta pieza, pero el síntoma sigue ahí. Puede haber una segunda avería.
+
+#2264
+Enregistrer comme cas résolu
+Salvar como caso resolvido
+保存为已解决案例
+Сохранить как решённый случай
+Zapisz jako rozwiązany przypadek
+Mentés megoldott esetként
+Guardar como caso resuelto
+
+#2265
+Enregistré. Il comptera la prochaine fois.
+Salvo. Será considerado da próxima vez.
+已保存。下次会纳入考虑。
+Сохранено. Это будет учтено в следующий раз.
+Zapisano. Zostanie to uwzględnione następnym razem.
+Elmentve. Legközelebb számítani fog.
+Guardado. Contará la próxima vez.
+
+#2266
+Si vous n'êtes pas d'accord, annulez la dernière réponse et essayez l'autre vérification.
+Se você discordar, desfaça a última resposta e tente a outra verificação.
+如果你不同意，请撤销上一个回答，试试另一项检查。
+Если вы не согласны, отмените последний ответ и попробуйте другую проверку.
+Jeśli się nie zgadzasz, cofnij ostatnią odpowiedź i spróbuj innego sprawdzenia.
+Ha nem ért egyet, vonja vissza az utolsó választ, és próbálja a másik ellenőrzést.
+Si no está de acuerdo, deshaga la última respuesta y pruebe la otra comprobación.
+
+#2267
+Demander un second avis à l'IA
+Pedir uma segunda opinião à IA
+向AI征求第二意见
+Попросить ИИ о втором мнении
+Poproś AI o drugą opinię
+Kérjen második véleményt az MI-től
+Pedir una segunda opinión a la IA
+
+#2268
+Bobinage brûlé uniformément
+Enrolamento queimado uniformemente
+绕组均匀烧毁
+Обмотка сгорела равномерно
+Uzwojenie spalone równomiernie
+Egyenletesen kiégett tekercs
+Bobinado quemado uniformemente
+
+#2269
+Les trois groupes de phase sont brun foncé ou noirs au même degré. Le vernis est cassant et l'odeur est âcre.
+Os três grupos de fase estão marrom-escuros ou pretos no mesmo grau. O verniz está quebradiço e o cheiro é forte.
+三个相组都同样程度地发暗褐或发黑。漆膜发脆，气味刺鼻。
+Все три фазные группы одинаково тёмно-коричневые или чёрные. Лак хрупкий, запах резкий.
+Wszystkie trzy grupy faz są ciemnobrązowe lub czarne w tym samym stopniu. Lakier jest kruchy, a zapach ostry.
+Mindhárom fázis csoport egyformán sötétbarna vagy fekete. A lakk törékeny, a szag csípős.
+Los tres grupos de fase están marrón oscuro o negros en el mismo grado. El barniz está quebradizo y el olor es acre.
+
+#2270
+Surcharge, longue marche sous basse tension, refroidissement bloqué ou mauvais raccordement. Le moteur a été chaud longtemps.
+Sobrecarga, funcionamento prolongado em baixa tensão, refrigeração bloqueada ou ligação errada. O motor ficou quente por muito tempo.
+过载、长时间在低电压下运行、散热受阻，或接线错误。电机长时间处于高温。
+Перегрузка, длительная работа на пониженном напряжении, затруднённое охлаждение или неправильное соединение. Двигатель долго был горячим.
+Przeciążenie, długa praca przy niskim napięciu, zablokowane chłodzenie lub błędne połączenie. Silnik był gorący przez długi czas.
+Túlterhelés, hosszú üzem alacsony feszültségen, elzáródott hűtés vagy hibás bekötés. A motor sokáig forró volt.
+Sobrecarga, funcionamiento prolongado con baja tensión, refrigeración bloqueada o conexión incorrecta. El motor estuvo caliente mucho tiempo.
+
+#2271
+Un groupe de phase brûlé
+Um grupo de fase queimado
+一个相组烧毁
+Сгорела одна фазная группа
+Jedna grupa faz spalona
+Egy fázis csoport kiégett
+Un grupo de fase quemado
+
+#2272
+Un des trois groupes (une bobine sur trois) est noir, les deux autres ont encore une couleur cuivre.
+Um dos três grupos (a cada terceira bobina) está preto, os outros dois ainda têm cor de cobre.
+三个相组中有一个（每隔两个线圈的那一组）是黑的，另外两个看起来仍是铜色。
+Одна из трёх групп (каждая третья катушка) чёрная, две другие всё ещё медного цвета.
+Jedna z trzech grup (co trzecia cewka) jest czarna, pozostałe dwie nadal mają kolor miedzi.
+A három csoport egyike (minden harmadik tekercs) fekete, a másik kettő még rézszínű.
+Uno de los tres grupos (una de cada tres bobinas) está negro; los otros dos aún tienen color cobre.
+
+#2273
+Marche monophasée : le moteur a tourné sur deux phases et l'enroulement qui portait le courant supplémentaire a brûlé.
+Funcionamento monofásico (perda de fase): o motor funcionou com duas fases e o enrolamento que levou a corrente extra queimou.
+缺相运行：电机靠两相运转，承担额外电流的那组绕组烧毁了。
+Работа на двух фазах: двигатель работал на двух фазах, и обмотка, принявшая на себя лишний ток, сгорела.
+Praca na dwóch fazach: silnik pracował na dwóch fazach, a uzwojenie przenoszące dodatkowy prąd spaliło się.
+Fáziskiesés: a motor két fázison futott, és az a tekercs égett ki, amely a többletáramot vitte.
+Funcionamiento en dos fases: el motor funcionó con dos fases y se quemó el bobinado que llevó la corriente extra.
+
+#2274
+Brûlure locale sur une bobine
+Queima localizada em uma bobina
+一个线圈局部烧毁
+Локальный ожог на одной катушке
+Miejscowe przepalenie jednej cewki
+Helyi égés egy tekercsen
+Quemadura local en una bobina
+
+#2275
+Une bobine, ou deux voisines, est brûlée en noir. Le reste de l'enroulement paraît normal.
+Uma bobina, ou duas vizinhas, está queimada em preto. O resto do enrolamento parece normal.
+有一个线圈，或相邻的两个线圈，烧黑了。绕组的其余部分看起来正常。
+Одна катушка или две соседние сгорели дочерна. Остальная часть обмотки выглядит нормально.
+Jedna cewka lub dwie sąsiednie są spalone na czarno. Reszta uzwojenia wygląda normalnie.
+Egy tekercs, vagy két szomszédos, feketére égett. A tekercselés többi része normálisnak látszik.
+Una bobina, o dos contiguas, están quemadas en negro. El resto del bobinado parece normal.
+
+#2276
+Court-circuit entre spires : isolation faible, pic de tension (souvent dû à un variateur) ou humidité.
+Curto entre espiras: isolamento fraco, pico de tensão (muitas vezes de um inversor) ou umidade.
+匝间短路：绝缘薄弱、电压尖峰（常来自变频器）或受潮。
+Межвитковое замыкание: слабая изоляция, скачок напряжения (часто от преобразователя) или влага.
+Zwarcie międzyzwojowe: słaba izolacja, szpilka napięcia (często z falownika) lub wilgoć.
+Menetzárlat: gyenge szigetelés, feszültséglökés (gyakran hajtástól) vagy nedvesség.
+Cortocircuito entre espiras: aislamiento débil, pico de tensión (a menudo de un variador) o humedad.
+
+#2277
+Brûlure entre deux groupes de phase
+Queima entre dois grupos de fase
+两个相组之间烧毁
+Ожог между двумя фазными группами
+Przepalenie między dwiema grupami faz
+Égés két fázis csoport között
+Quemadura entre dos grupos de fase
+
+#2278
+La zone sombre se trouve là où deux groupes de phase différents se touchent aux têtes de bobines.
+A mancha escura fica onde dois grupos de fase diferentes se tocam nas cabeças de bobina.
+暗色斑块位于两个不同相组在端部线圈处相互接触的地方。
+Тёмное пятно находится там, где две разные фазные группы соприкасаются на лобовых частях.
+Ciemna plama znajduje się tam, gdzie dwie różne grupy faz stykają się na czołach uzwojenia.
+A sötét folt ott van, ahol két különböző fázis csoport a tekercsfejeknél érintkezik.
+La mancha oscura está donde dos grupos de fase distintos se tocan en las cabezas de bobina.
+
+#2279
+Court-circuit entre phases : le papier séparateur a cédé ou bougé. Fréquent après un pic de tension ou avec un bobinage desserré.
+Curto entre fases: o papel separador falhou ou se moveu. Comum após um pico de tensão ou com enrolamento solto.
+相间短路：隔离纸失效或移位。常见于电压尖峰之后，或绕组松动的情况。
+Междуфазное замыкание: разделительная бумага повреждена или сместилась. Часто бывает после скачка напряжения или при ослабленной обмотке.
+Zwarcie międzyfazowe: papier separujący zawiódł lub się przesunął. Częste po szpilce napięcia lub przy luźnym uzwojeniu.
+Fázisközi zárlat: az elválasztó papír tönkrement vagy elmozdult. Gyakori feszültséglökés után vagy meglazult tekercselésnél.
+Cortocircuito entre fases: el papel separador falló o se movió. Frecuente tras un pico de tensión o con un bobinado suelto.
+
+#2280
+Condensateur électrolytique bombé
+Capacitor eletrolítico estufado
+鼓包的电解电容
+Вздувшийся электролитический конденсатор
+Spęczniały kondensator elektrolityczny
+Felpúposodott elektrolit kondenzátor
+Condensador electrolítico hinchado
+
+#2281
+Un boîtier sain a un dessus plat avec une fine entaille en croix. Un boîtier défaillant a un dessus bombé, un évent ouvert et un résidu brun sur la carte.
+Uma lata saudável tem o topo plano com um vinco em cruz raso. Uma defeituosa tem o topo abaulado, o respiro aberto e resíduo marrom na placa.
+完好的电容外壳顶部是平的，有一道浅的十字刻痕。失效的顶部鼓起，泄压口已裂开，板子上有棕色残留物。
+У исправного корпуса плоская верхняя часть с неглубокой крестообразной насечкой. У отказавшего верх куполообразный, клапан вскрыт, на плате коричневый налёт.
+Zdrowa obudowa ma płaską górę z płytkim nacięciem krzyżowym. Uszkodzona ma wypukłą górę, otwarty zawór bezpieczeństwa i brązowy osad na płytce.
+Az ép tok teteje lapos, sekély kereszt alakú bemetszéssel. A meghibásodotté domború, a szellőzőnyílás felnyílt, és barna lerakódás van a kártyán.
+Una carcasa sana tiene la parte superior plana con una muesca en cruz poco profunda. Una averiada tiene la parte superior abombada, el respiradero abierto y residuo marrón en la placa.
+
+#2282
+Séché ou surchauffé. Remplacez-le et vérifiez les voisins ainsi que le courant d'ondulation.
+Ressecado ou superaquecido. Substitua-o e confira os vizinhos e a corrente de ondulação.
+已干涸或过热。更换它，并检查相邻元件和纹波电流。
+Высох или перегрелся. Замените его и проверьте соседние детали и ток пульсаций.
+Wysuszony lub przegrzany. Wymień go i sprawdź sąsiednie elementy oraz prąd tętnień.
+Kiszáradt vagy túlmelegedett. Cserélje, és ellenőrizze a szomszédos alkatrészeket és a hullámossági áramot.
+Seco o sobrecalentado. Sustitúyalo y compruebe los vecinos y la corriente de rizado.
+
+#2283
+Composant brûlé et carte roussie
+Componente queimado e placa chamuscada
+烧毁的元件和烧焦的板子
+Сгоревший компонент и обгоревшая плата
+Spalony element i przypalona płytka
+Kiégett alkatrész és megperzselődött kártya
+Componente quemado y placa chamuscada
+
+#2284
+Un halo noir ou brun autour d'une pièce, un boîtier fendu, une carte carbonisée et une odeur. Une bonne résistance garde ses anneaux de couleur.
+Um halo preto ou marrom em volta de uma peça, o corpo rachado, a placa carbonizada e cheiro. Um bom resistor mantém suas faixas de cor.
+元件周围有黑色或棕色的晕圈、外壳裂开、板子炭化，还有气味。好的电阻会保留它的色环。
+Чёрный или коричневый ореол вокруг детали, треснувший корпус, обугленная плата и запах. Исправный резистор сохраняет цветные полосы.
+Czarna lub brązowa aureola wokół elementu, pęknięta obudowa, zwęglona płytka i zapach. Dobry rezystor zachowuje swoje paski kolorów.
+Fekete vagy barna udvar az alkatrész körül, repedt tok, elszenesedett kártya és szag. Egy ép ellenállás megtartja a színgyűrűit.
+Un halo negro o marrón alrededor de una pieza, el cuerpo partido, la placa carbonizada y olor. Una buena resistencia conserva sus bandas de color.
+
+#2285
+Cette pièce a reçu trop de courant ou de chaleur. Cherchez ce qui l'a provoqué : un court-circuit en aval, un voisin défaillant ou une mauvaise valeur.
+Essa peça recebeu corrente ou calor demais. Descubra o que a causou: um curto a jusante, um vizinho com defeito ou o valor errado.
+这个元件承受了过大的电流或热量。找出原因：下游短路、相邻元件失效，或者阻值用错。
+Эта деталь получила слишком большой ток или нагрев. Найдите, что к этому привело: короткое замыкание после неё, отказ соседней детали или неверный номинал.
+Ten element dostał za duży prąd lub ciepło. Znajdź, co do tego doprowadziło: zwarcie dalej w obwodzie, uszkodzony sąsiad lub zła wartość.
+Ez az alkatrész túl nagy áramot vagy hőt kapott. Keresse meg az okot: zárlat az áramkör további részén, meghibásodott szomszéd vagy rossz érték.
+Esa pieza recibió demasiada corriente o calor. Busque qué lo provocó: un cortocircuito aguas abajo, un vecino averiado o un valor incorrecto.
+
+#2286
+Soudure fissurée (froide)
+Solda trincada (fria)
+开裂（冷）焊点
+Треснувший (холодный) паяный шов
+Pęknięte (zimne) lutowanie
+Repedt (hideg) forrasztás
+Soldadura agrietada (fría)
+
+#2287
+Une bonne soudure est brillante et en forme de petit volcan. Une soudure fissurée est terne et granuleuse, avec un anneau fin autour de la broche.
+Uma boa junta é brilhante e tem forma de pequeno vulcão. Uma trincada é fosca e granulada, com um anel fino em volta do pino.
+好的焊点光亮，形状像一座小火山。开裂的焊点暗淡、粗糙，引脚周围有一圈细小裂纹。
+Хороший шов блестящий и по форме напоминает маленький вулкан. Треснувший — матовый и зернистый, с тонким кольцом вокруг вывода.
+Dobre lutowanie jest błyszczące i ma kształt małego wulkanu. Pęknięte jest matowe i ziarniste, z cienkim pierścieniem wokół nóżki.
+A jó forrasztás fényes, és kis vulkán alakú. A repedt tompa és szemcsés, a láb körül hajszálvékony gyűrűvel.
+Una buena unión es brillante y con forma de pequeño volcán. Una agrietada es mate y granulosa, con un anillo fino alrededor de la patilla.
+
+#2288
+Contact intermittent. Il apparaît quand la carte chauffe ou qu'on la tapote. Ressoudez avec de la soudure et du flux neufs.
+Contato intermitente. Aparece quando a placa esquenta ou é tocada. Ressolde com solda e fluxo novos.
+接触时好时坏。板子发热或被敲一下时就会出现。用新的焊锡和助焊剂重新焊接。
+Контакт пропадает периодически. Проявляется, когда плата нагревается или по ней постучать. Перепаяйте свежим припоем и флюсом.
+Styk przerywany. Pojawia się, gdy płytka się nagrzeje lub zostanie stuknięta. Przelutuj świeżym lutem i topnikiem.
+Szakaszos érintkezés. Akkor jelentkezik, amikor a kártya felmelegszik, vagy megütögetik. Forrassza újra friss ónnal és folyasztószerrel.
+Contacto intermitente. Aparece cuando la placa se calienta o se golpea. Vuelva a soldar con soldadura y fundente nuevos.
+
+#2289
+Corrosion et croûte
+Corrosão e crosta
+腐蚀和结壳
+Коррозия и налёт
+Korozja i osad
+Korrózió és lerakódás
+Corrosión y costra
+
+#2290
+Croûte cristalline verte, bleue ou blanche sur des broches, pastilles ou vis, souvent avec un film collant. Des contacts sains sont en métal brillant.
+Crosta cristalina verde, azul ou branca em pinos, ilhas ou parafusos, muitas vezes com uma película pegajosa. Contatos saudáveis são de metal brilhante.
+引脚、焊盘或螺钉上有绿色、蓝色或白色的结晶状硬壳，常带有黏膜。完好的触点是亮的金属。
+Зелёный, синий или белый кристаллический налёт на выводах, контактных площадках или винтах, часто с липкой плёнкой. Исправные контакты — блестящий металл.
+Zielony, niebieski lub biały krystaliczny osad na nóżkach, polach lutowniczych lub śrubach, często z lepką warstwą. Zdrowe styki to jasny metal.
+Zöld, kék vagy fehér kristályos lerakódás a lábakon, pástokon vagy csavarokon, gyakran ragacsos réteggel. Az ép érintkezők fényes fémek.
+Costra cristalina verde, azul o blanca en patillas, pads o tornillos, a menudo con una película pegajosa. Los contactos sanos son de metal brillante.
+
+#2291
+Humidité, condensation ou produit chimique répandu. Nettoyez, trouvez le chemin de l'eau, puis étanchéifiez ou déplacez.
+Umidade, condensação ou produto químico vazado. Limpe, encontre o caminho da água e depois vede ou realoque.
+受潮、冷凝水或化学品泄漏。清洁，找到水的来路，然后密封或移位。
+Влага, конденсат или пролитая химия. Очистите, найдите путь воды, затем загерметизируйте или перенесите.
+Wilgoć, kondensacja lub wyciek chemikaliów. Wyczyść, znajdź drogę wody, potem uszczelnij lub przenieś.
+Nedvesség, páralecsapódás vagy kifolyt vegyszer. Tisztítsa meg, keresse meg a víz útját, majd tömítse vagy helyezze át.
+Humedad, condensación o producto químico derramado. Limpie, encuentre el camino del agua y luego selle o reubique.
+
+#2292
+Borne brûlée ou connexion desserrée
+Terminal queimado ou conexão solta
+烧毁的端子或松动的连接
+Сгоревшая клемма или ослабленное соединение
+Spalony zacisk lub luźne połączenie
+Kiégett kapocs vagy laza csatlakozás
+Borne quemado o conexión floja
+
+#2293
+Isolant brun ou noir près de la vis, plastique fondu sur le bornier, tête de vis décolorée et cuivre brillant et piqué.
+Isolamento marrom ou preto perto do parafuso, plástico derretido no bloco de terminais, cabeça do parafuso descolorida e cobre brilhante e corroído.
+螺钉附近的绝缘层发棕或发黑，接线端子排上的塑料熔化，螺钉头变色，铜线发亮且有麻点。
+Коричневая или чёрная изоляция возле винта, оплавленный пластик на клеммной колодке, изменивший цвет шлиц винта и блестящая медь с выщербинами.
+Brązowa lub czarna izolacja przy śrubie, stopiony plastik na listwie zaciskowej, przebarwiony łeb śruby i jasna, wżerowata miedź.
+Barna vagy fekete szigetelés a csavar közelében, megolvadt műanyag a kapocsléc, elszíneződött csavarfej, valamint fényes, lyukacsos réz.
+Aislamiento marrón o negro cerca del tornillo, plástico fundido en la regleta, cabeza del tornillo descolorida y cobre brillante y picado.
+
+#2294
+La résistance élevée à la jonction a produit de la chaleur. Recoupez, reconnectez et serrez la vis au couple prescrit.
+A alta resistência na junção gerou calor. Corte, refaça a terminação e aperte o parafuso no torque especificado.
+连接处电阻过大产生了热量。剪掉烧坏的部分，重新接线，并按规定扭矩拧紧螺钉。
+Высокое сопротивление в соединении вызвало нагрев. Обрежьте, заново подключите и затяните винт с моментом по спецификации.
+Wysoka rezystancja połączenia wytworzyła ciepło. Utnij, zakończ na nowo i dokręć śrubę momentem zgodnym ze specyfikacją.
+A csatlakozás nagy ellenállása hőt termelt. Vágja vissza, kösse be újra, és a csavart az előírt nyomatékkal húzza meg.
+La alta resistencia en la unión generó calor. Corte, vuelva a terminar y apriete el tornillo al par especificado.
+
+#2295
+Roulement défaillant
+Rolamento com falha
+失效的轴承
+Отказавший подшипник
+Uszkodzone łożysko
+Meghibásodott csapágy
+Rodamiento averiado
+
+#2296
+Couleur bleue ou paille sur les bagues, graisse noire sèche ou graisse projetée hors du carter, rotation rugueuse à la main, billes rayées.
+Cor azul ou palha nas pistas, graxa preta seca ou graxa jogada para fora do alojamento, giro áspero com a mão, esferas riscadas.
+滚道上发蓝或呈草黄色，润滑脂变黑变干或被甩到壳体外面，用手转动时发涩，滚珠有划痕。
+Синий или соломенный цвет на кольцах, сухая чёрная смазка или смазка, выброшенная за корпус, шероховатое вращение от руки, задиры на шариках.
+Niebieski lub słomkowy kolor na bieżniach, suchy czarny smar lub smar wyrzucony poza obudowę, szorstki obrót ręką, zarysowane kulki.
+Kék vagy szalmaszín a futógyűrűkön, száraz fekete zsír vagy a házon kívülre dobott zsír, kézzel érdes forgás, karcos golyók.
+Color azul o pajizo en las pistas, grasa negra seca o grasa expulsada fuera de la carcasa, giro áspero a mano, bolas rayadas.
+
+#2297
+Surchauffe, perte de lubrification, désalignement ou courants d'arbre. Remplacez les deux roulements et trouvez la cause.
+Superaquecimento, perda de lubrificação, desalinhamento ou correntes no eixo. Substitua os dois rolamentos e encontre a causa.
+过热、润滑失效、不对中或轴电流。两个轴承都要更换，并找出原因。
+Перегрев, потеря смазки, несоосность или токи по валу. Замените оба подшипника и найдите причину.
+Przegrzanie, utrata smarowania, niewspółosiowość lub prądy wałowe. Wymień oba łożyska i znajdź przyczynę.
+Túlmelegedés, kenés elvesztése, tengelyeltérés vagy tengelyáramok. Cserélje mindkét csapágyat, és keresse meg az okot.
+Sobrecalentamiento, pérdida de lubricación, desalineación o corrientes por el eje. Sustituya ambos rodamientos y encuentre la causa.
+
+#2298
+Traces de frottement du rotor
+Marcas de atrito do rotor
+转子擦碰痕迹
+Следы задевания ротора
+Ślady ocierania wirnika
+Forgórész súrlódásának nyomai
+Marcas de roce del rotor
+
+#2299
+Un arc brillant et poli d'un côté du rotor ou de l'alésage du stator, des rayures et de la poussière métallique. Des surfaces saines sont uniformément mates.
+Um arco brilhante e polido em um lado do rotor ou do furo do estator, riscos e pó de metal. Superfícies saudáveis são uniformemente foscas.
+转子或定子内孔一侧有一段发亮的抛光弧面，有划痕和金属粉末。完好的表面是均匀的哑光。
+Блестящая полированная дуга с одной стороны ротора или расточки статора, царапины и металлическая пыль. Исправные поверхности равномерно матовые.
+Jasny wypolerowany łuk po jednej stronie wirnika lub otworu stojana, rysy i pył metalowy. Zdrowe powierzchnie są równomiernie matowe.
+Fényes, csiszolt ív a forgórész vagy az állórész furatának egyik oldalán, karcok és fémpor. Az ép felületek egyenletesen mattak.
+Un arco brillante y pulido en un lado del rotor o del taladro del estátor, arañazos y polvo metálico. Las superficies sanas son uniformemente mates.
+
+#2300
+Roulement usé, arbre faussé ou flasque desserré. L'entrefer n'est plus régulier.
+Rolamento gasto, eixo empenado ou tampa solta. O entreferro não é mais uniforme.
+轴承磨损、轴弯曲，或端盖松动。气隙已经不再均匀。
+Изношенный подшипник, погнутый вал или ослабленный подшипниковый щит. Воздушный зазор больше не равномерен.
+Zużyte łożysko, wygięty wał lub luźna tarcza łożyskowa. Szczelina powietrzna nie jest już równa.
+Kopott csapágy, elhajlott tengely vagy meglazult csapágypajzs. A légrés már nem egyenletes.
+Rodamiento desgastado, eje doblado o escudo flojo. El entrehierro ya no es uniforme.
+
+#2301
+Barre de rotor cassée
+Barra do rotor quebrada
+断裂的转子导条
+Сломанный стержень ротора
+Pęknięty pręt wirnika
+Törött forgórészrúd
+Barra del rotor rota
+
+#2302
+Fissures ou vides dans l'anneau de court-circuit, éclaboussures d'aluminium fondu et traces de brûlure sombres sur une barre.
+Trincas ou vazios no anel de curto-circuito, respingos de alumínio derretido e marcas escuras de queima em uma barra.
+端环上有裂纹或缺口，有熔化铝的飞溅物，某一根导条上有深色烧痕。
+Трещины или разрывы в короткозамыкающем кольце, брызги расплавленного алюминия и тёмные следы ожога на одном стержне.
+Pęknięcia lub luki w pierścieniu zwierającym, rozpryski stopionego aluminium i ciemne ślady przepalenia przy jednym pręcie.
+Repedések vagy hézagok a zárógyűrűben, megolvadt alumínium fröccsenései és sötét égésnyomok az egyik rúdnál.
+Grietas o huecos en el anillo de cortocircuito, salpicaduras de aluminio fundido y marcas oscuras de quemadura en una barra.
+
+#2303
+Démarrages durs répétés ou charge à forte inertie. La vitesse oscille et le courant fluctue.
+Partidas pesadas repetidas ou carga de alta inércia. A velocidade oscila e a corrente varia.
+反复的重载启动，或高惯量负载。转速忽高忽低，电流来回摆动。
+Повторяющиеся тяжёлые пуски или нагрузка с большим моментом инерции. Скорость колеблется, ток качается.
+Powtarzane ciężkie rozruchy lub obciążenie o dużej bezwładności. Prędkość się waha, a prąd faluje.
+Ismételt nehéz indítások vagy nagy tehetetlenségű terhelés. A fordulatszám ingadozik, az áram hullámzik.
+Arranques duros repetidos o carga de alta inercia. La velocidad oscila y la corriente fluctúa.
+
+#2304
+Barrettes de bornier étoile et triangle
+Barras de ligação estrela e triângulo
+星形和三角形接线端子连片
+Перемычки клеммной коробки для звезды и треугольника
+Zworki zacisków gwiazda i trójkąt
+Csillag és delta kapocsáthidalók
+Puentes de bornes estrella y triángulo
+
+#2305
+Gauche : étoile, les trois bornes du bas sont reliées par une barrette. Droite : triangle, trois barrettes relient le haut et le bas.
+Esquerda: estrela, os três terminais de baixo são unidos por uma barra. Direita: triângulo, três barras ligam o alto e o baixo.
+左：星形，下面三个端子由一根连片连在一起。右：三角形，三个连片把上下端子连起来。
+Слева: звезда, три нижние клеммы соединены одной перемычкой. Справа: треугольник, три перемычки соединяют верх и низ.
+Po lewej: gwiazda, trzy dolne zaciski połączone jedną zworką. Po prawej: trójkąt, trzy zworki łączą górę i dół.
+Balra: csillag, az alsó három kapcsot egy áthidaló köti össze. Jobbra: delta, három áthidaló köti össze a felső és az alsó kapcsokat.
+Izquierda: estrella, los tres bornes inferiores unidos por un puente. Derecha: triángulo, tres puentes unen arriba y abajo.
+
+#2306
+Respectez la plaque signalétique : 230/400 V signifie étoile sur 400 V, triangle sur 230 V. De mauvaises barrettes surtendent ou sous-tendent les enroulements.
+Siga a placa: 230/400 V significa estrela em 400 V, triângulo em 230 V. Barras erradas aplicam sobretensão ou subtensão aos enrolamentos.
+对照铭牌：230/400 V表示400 V时用星形，230 V时用三角形。连片接错会使绕组过压或欠压。
+Следуйте шильдику: 230/400 В означает звезду на 400 В, треугольник на 230 В. Неправильные перемычки дают обмоткам перенапряжение или пониженное напряжение.
+Dopasuj do tabliczki znamionowej: 230/400 V oznacza gwiazdę na 400 V, trójkąt na 230 V. Złe zworki powodują przepięcie lub zbyt niskie napięcie na uzwojeniach.
+Kövesse a típustáblát: 230/400 V azt jelenti: csillag 400 V-on, delta 230 V-on. A rossz áthidalók túlfeszültséget vagy alulfeszültséget adnak a tekercseknek.
+Respete la placa: 230/400 V significa estrella a 400 V, triángulo a 230 V. Puentes erróneos aplican sobretensión o subtensión a los bobinados.
+
+#2307
+Ventilateur de refroidissement cassé ou encrassé
+Ventilador de refrigeração quebrado ou entupido
+损坏或堵塞的冷却风扇
+Сломанный или забитый вентилятор охлаждения
+Uszkodzony lub zapchany wentylator chłodzący
+Törött vagy eltömődött hűtőventilátor
+Ventilador de refrigeración roto u obstruido
+
+#2308
+Une pale manquante ou fissurée, un capot plein de poussière et de peluches, des ailettes encrassées, un ventilateur qui tourne lentement.
+Uma pá faltando ou rachada, uma tampa cheia de poeira e fiapos, aletas entupidas de sujeira, um ventilador que gira devagar.
+缺失或开裂的扇叶，满是灰尘和绒絮的护罩，被污垢堵住的散热片，转得很慢的风扇。
+Отсутствующая или треснувшая лопасть, кожух, полный пыли и пуха, забитые грязью рёбра, медленно вращающийся вентилятор.
+Brakująca lub pęknięta łopatka, osłona pełna kurzu i kłaczków, żebra zapchane brudem, wentylator kręcący się wolno.
+Hiányzó vagy repedt lapát, porral és pihével teli burkolat, szennyeződéstől eltömődött bordák, lassan forgó ventilátor.
+Una aspa que falta o agrietada, una tapa llena de polvo y pelusa, aletas obstruidas por suciedad, un ventilador que gira despacio.
+
+#2309
+La chaleur ne peut pas quitter la machine. Nettoyez ou remplacez, et vérifiez la température ambiante.
+O calor não consegue sair da máquina. Limpe ou substitua e verifique a temperatura ambiente.
+热量散不出机器。清洁或更换，并检查环境温度。
+Тепло не может уйти из машины. Очистите или замените и проверьте температуру окружающей среды.
+Ciepło nie może opuścić maszyny. Wyczyść lub wymień i sprawdź temperaturę otoczenia.
+A hő nem tud távozni a gépből. Tisztítsa vagy cserélje, és ellenőrizze a környezeti hőmérsékletet.
+El calor no puede salir de la máquina. Limpie o sustituya y compruebe la temperatura ambiente.
+
+#2310
+Contacts usés ou brûlés
+Contatos gastos ou queimados
+磨损或烧蚀的触点
+Изношенные или обгоревшие контакты
+Zużyte lub spalone styki
+Kopott vagy kiégett érintkezők
+Contactos desgastados o quemados
+
+#2311
+Des contacts neufs sont lisses, d'un argent brillant. Les contacts usés sont piqués, noirs ou bleus, avec des cratères et parfois des perles soudées.
+Contatos novos são lisos, de prata brilhante. Os gastos têm cavidades, são pretos ou azulados, com crateras e às vezes gotas soldadas.
+新触点光滑，是亮银色。磨损的触点有麻点，发黑或发蓝，有凹坑，有时还有熔焊的小珠。
+Новые контакты гладкие, ярко-серебристые. Изношенные в раковинах, чёрные или синие, с кратерами, иногда с приваренными каплями.
+Nowe styki są gładkie, jasnosrebrne. Zużyte są wżerowate, czarne lub niebieskie, z kraterami, a czasem ze zespawanymi kroplami.
+Az új érintkezők simák, fényes ezüstszínűek. A kopottak lyukacsosak, feketék vagy kékek, kráterekkel és olykor összehegedt gyöngyökkel.
+Los contactos nuevos son lisos y de plata brillante. Los desgastados están picados, negros o azules, con cráteres y a veces perlas soldadas.
+
+#2312
+Arc dû à la commutation d'un courant trop fort, vibration à basse tension de bobine, ou fin de vie. Remplacez le jeu, ne les limez jamais.
+Arco por chavear corrente demais, trepidação por baixa tensão de bobina ou fim de vida. Substitua o jogo; nunca lime os contatos.
+因切换电流过大而拉弧、线圈电压过低引起颤动，或寿命到期。整套更换，绝不要锉。
+Дуга из-за коммутации слишком большого тока, дребезг при низком напряжении катушки или конец срока службы. Замените весь комплект, никогда не зачищайте напильником.
+Łuk od przełączania zbyt dużego prądu, drgania przy niskim napięciu cewki lub koniec żywotności. Wymień cały zestaw, nigdy nie szlifuj.
+Túl nagy áram kapcsolásából eredő ív, alacsony tekercsfeszültség miatti rezgés vagy az élettartam vége. Cserélje a készletet, soha ne reszelje.
+Arco por conmutar demasiada corriente, vibración por baja tensión de bobina o fin de vida. Sustituya el juego, nunca los lime.
+
+#2313
+Bobine brûlée
+Bobina queimada
+烧毁的线圈
+Сгоревшая катушка
+Spalona cewka
+Kiégett tekercs
+Bobina quemada
+
+#2314
+Carcasse décolorée ou fondue, isolant du fil brun et cassant, une cloque et une odeur. Une bobine saine a une couleur uniforme et ferme.
+Carretel descolorido ou derretido, isolamento do fio marrom e quebradiço, uma bolha e cheiro. Uma bobina saudável tem cor uniforme e firme.
+线圈骨架变色或熔化，导线绝缘发棕变脆，有鼓泡，并有气味。完好的线圈颜色均匀，质地坚实。
+Каркас обесцвечен или оплавлен, изоляция провода коричневая и хрупкая, есть вздутие и запах. Исправная катушка равномерного цвета и плотная.
+Przebarwiony lub stopiony karkas, brązowa i krucha izolacja przewodu, pęcherz i zapach. Zdrowa cewka ma równy kolor i jest twarda.
+Elszíneződött vagy megolvadt tekercstest, barna és törékeny huzalszigetelés, hólyag és szag. Az ép tekercs egyenletes színű és szilárd.
+Carrete decolorado o fundido, aislamiento del hilo marrón y quebradizo, una ampolla y olor. Una bobina sana tiene color uniforme y es firme.
+
+#2315
+Surtension, mauvais type de bobine, ou armature bloquée qui a fait porter à la bobine son courant d'appel en continu.
+Sobretensão, tipo de bobina errado ou armadura travada que fez a bobina conduzir continuamente a corrente de partida.
+过电压、线圈类型不对，或衔铁卡住，使线圈一直承受启动冲击电流。
+Перенапряжение, неверный тип катушки или заклинивший якорь, из-за которого катушка постоянно несла пусковой ток.
+Przepięcie, zły typ cewki lub zablokowana zwora, przez co cewka stale przewodziła prąd rozruchowy.
+Túlfeszültség, rossz tekercstípus, vagy elakadt kotva, amely miatt a tekercs folyamatosan a bekapcsolási áramot vitte.
+Sobretensión, tipo de bobina incorrecto o armadura atascada que hizo que la bobina llevara continuamente su corriente de arranque.
+
+#2316
+Module de puissance éclaté
+Módulo de potência estourado
+炸裂的功率模块
+Взорвавшийся силовой модуль
+Rozerwany moduł mocy
+Szétrobbant teljesítménymodul
+Módulo de potencia reventado
+
+#2317
+Une fissure ou un trou soufflé dans le boîtier noir, de la suie autour, des bornes fondues et une odeur d'époxy brûlé.
+Uma rachadura ou um furo estourado na caixa preta, fuligem em volta, terminais derretidos e cheiro de epóxi queimado.
+黑色外壳上有裂缝或炸开的洞，周围有烟灰，端子熔化，并有环氧树脂烧焦的气味。
+Трещина или пробитое отверстие в чёрном корпусе, сажа вокруг, оплавленные выводы и запах горелой эпоксидки.
+Pęknięcie lub wybity otwór w czarnej obudowie, sadza wokół, stopione zaciski i zapach spalonej żywicy epoksydowej.
+Repedés vagy kifújt lyuk a fekete tokon, korom körülötte, megolvadt kivezetések és égett epoxi szaga.
+Una grieta o un agujero reventado en la carcasa negra, hollín alrededor, terminales fundidos y olor a epoxi quemado.
+
+#2318
+Court-circuit en sortie ou défaut de commande de grille. Vérifiez le moteur et le câble avant de monter un nouveau module.
+Curto-circuito na saída ou falha no acionamento de gate. Verifique o motor e o cabo antes de instalar um módulo novo.
+输出端短路或栅极驱动故障。装新模块之前先检查电机和电缆。
+Короткое замыкание на выходе или неисправность драйвера затвора. Проверьте двигатель и кабель, прежде чем ставить новый модуль.
+Zwarcie na wyjściu lub usterka sterowania bramką. Sprawdź silnik i kabel przed montażem nowego modułu.
+Zárlat a kimeneten vagy a gate-meghajtás hibája. Új modul beépítése előtt ellenőrizze a motort és a kábelt.
+Cortocircuito en la salida o fallo del accionamiento de puerta. Compruebe el motor y el cable antes de montar un módulo nuevo.
+
+#2319
+Piste décollée ou brûlée
+Trilha levantada ou queimada
+翘起或烧断的走线
+Отслоившаяся или сгоревшая дорожка
+Odklejona lub przepalona ścieżka
+Felemelkedett vagy kiégett vezetősáv
+Pista levantada o quemada
+
+#2320
+Une piste de cuivre qui s'est décollée de la carte, un trou noir dans la piste, ou une pastille partie avec la patte.
+Uma trilha de cobre que se enrolou para fora da placa, uma falha preta na trilha ou uma ilha que saiu junto com a perna.
+一条铜走线从板上卷起，走线上有黑色断口，或者焊盘连着引脚一起脱落。
+Медная дорожка, отслоившаяся от платы, чёрный разрыв в дорожке или контактная площадка, оторвавшаяся вместе с выводом.
+Miedziana ścieżka, która odkleiła się od płytki, czarna przerwa w ścieżce albo pole lutownicze, które odeszło razem z nóżką.
+Egy rézsáv, amely felkunkorodott a kártyáról, fekete rés a sávban, vagy egy forrasztási felület, amely a lábbal együtt leszakadt.
+Una pista de cobre que se ha despegado de la placa, un hueco negro en la pista o un pad que se soltó con la patilla.
+
+#2321
+Surintensité dans cette piste ou dommage mécanique. Pontez avec un fil et trouvez pourquoi elle portait trop de courant.
+Sobrecorrente por essa trilha ou dano mecânico. Faça uma ponte com um fio e descubra por que ela conduziu corrente demais.
+这条走线通过了过大的电流，或者受到机械损伤。用一根跳线把它接通，并找出它为什么通过了过大的电流。
+Сверхток через эту дорожку или механическое повреждение. Перекройте её проводом-перемычкой и выясните, почему по ней шёл слишком большой ток.
+Przetężenie w tej ścieżce lub uszkodzenie mechaniczne. Zmostkuj ją przewodem i ustal, dlaczego niosła za duży prąd.
+Túláram folyt át azon a sávon, vagy mechanikai sérülés. Hidalja át egy huzaldarabbal, és derítse ki, miért vitt túl nagy áramot.
+Sobrecorriente por esa pista o daño mecánico. Puentéela con un cable y averigüe por qué llevó demasiada corriente.
+
+#2322
+Varistance ou fusible noirci
+Varistor ou fusível enegrecido
+发黑的压敏电阻或熔断器
+Почерневший варистор или предохранитель
+Sczerniały warystor lub bezpiecznik
+Megfeketedett varisztor vagy biztosíték
+Varistor o fusible ennegrecido
+
+#2323
+Une varistance disque avec une fissure, un bord ébréché ou une brûlure noire. Un fusible verre avec une trace sombre ou un fil vaporisé.
+Um varistor de disco com rachadura, borda lascada ou chamuscado preto. Um fusível de vidro com mancha escura ou fio vaporizado.
+压敏电阻圆片有裂纹、边缘缺口或黑色烧焦。玻璃管熔断器内有暗色烟痕或熔丝已汽化。
+Дисковый варистор с трещиной, отколотым краем или чёрным подпалом. Стеклянный предохранитель с тёмным налётом или испарившейся нитью.
+Warystor tarczowy z pęknięciem, wyszczerbioną krawędzią lub czarnym przypaleniem. Bezpiecznik szklany z ciemnym zaciekiem lub odparowanym drutem.
+Repedt, kicsorbult szélű vagy feketére perzselődött korongvarisztor. Sötét füstnyom vagy elpárolgott szál az üvegbiztosítékban.
+Un varistor de disco con grieta, borde astillado o quemadura negra. Un fusible de vidrio con mancha oscura o hilo vaporizado.
+
+#2324
+La carte a subi une forte surtension ou une surtension prolongée. La pièce s'est sacrifiée : remplacez-la et vérifiez l'alimentation.
+A placa sofreu um surto sério ou uma sobretensão prolongada. A peça se sacrificou: substitua-a e verifique a alimentação.
+板子遭遇了严重浪涌或持续过电压。该元件牺牲了自己：更换它，并检查电源。
+Плата испытала серьёзный выброс или продолжительное перенапряжение. Деталь пожертвовала собой: замените её и проверьте питание.
+Płytka doświadczyła poważnego przepięcia lub długotrwałego nadnapięcia. Element poświęcił się: wymień go i sprawdź zasilanie.
+A kártya komoly túlfeszültség-impulzust vagy tartós túlfeszültséget kapott. Az alkatrész feláldozta magát: cserélje, és ellenőrizze a betáplálást.
+La placa sufrió una sobretensión fuerte o una sobretensión sostenida. La pieza se sacrificó: sustitúyala y compruebe la alimentación.
+
+#2325
+Photo chargée. Les cercles en pointillés sont des indices de couleur approximatifs, vérifiez-les vous-même.
+Foto carregada. Os círculos tracejados são dicas aproximadas de cor, confira você mesmo.
+照片已加载。虚线圆圈只是粗略的颜色提示，请你自己核实。
+Фото загружено. Пунктирные круги — приблизительные подсказки по цвету, проверьте их сами.
+Zdjęcie wczytane. Przerywane kółka to przybliżone wskazówki kolorystyczne, sprawdź je samodzielnie.
+A fotó betöltve. A szaggatott körök hozzávetőleges színtippek, ellenőrizze őket maga.
+Foto cargada. Los círculos de trazos son pistas aproximadas de color, compruébelas usted mismo.
+
+#2326
+Photo chargée.
+Foto carregada.
+照片已加载。
+Фото загружено.
+Zdjęcie wczytane.
+A fotó betöltve.
+Foto cargada.
+
+#2327
+Impossible de lire cette image.
+Não foi possível ler essa imagem.
+无法读取这张图片。
+Не удалось прочитать это изображение.
+Nie udało się odczytać tego obrazu.
+Nem sikerült beolvasni a képet.
+No se pudo leer esa imagen.
+
+#2328
+Zone sombre ou carbonisée ?
+Área escura ou carbonizada?
+有发暗或炭化的区域吗？
+Тёмный или обугленный участок?
+Ciemny lub zwęglony obszar?
+Sötét vagy elszenesedett terület?
+¿Zona oscura o carbonizada?
+
+#2329
+Décoloration brune ?
+Descoloração marrom?
+有发棕的变色吗？
+Коричневое изменение цвета?
+Brązowe przebarwienie?
+Barna elszíneződés?
+¿Decoloración marrón?
+
+#2330
+Croûte pâle ou corrosion ?
+Crosta clara ou corrosão?
+有浅色结壳或腐蚀吗？
+Светлый налёт или коррозия?
+Jasny osad lub korozja?
+Világos lerakódás vagy korrózió?
+¿Costra clara o corrosión?
+
+#2331
+Astuce : passez sur Repérer, touchez la photo là où vous voyez quelque chose et nommez-le. Reliez-le à ce que vous voyez dans la liste à droite.
+Dica: mude para Marcar, toque na foto onde você vê algo e dê um nome. Associe ao que você vê na lista à direita.
+提示：切换到"标记"，在照片上你看到异常的地方点一下，并给它起个名字。再把它和右侧列表中你看到的情况关联起来。
+Совет: переключитесь на «Отметить», нажмите на фото там, где вы что-то видите, и назовите это. Свяжите с тем, что видите, в списке справа.
+Wskazówka: przełącz na Oznacz, dotknij zdjęcia tam, gdzie coś widzisz, i nazwij to. Połącz z tym, co widzisz, na liście po prawej.
+Tipp: váltson a Jelölés üzemmódra, érintse meg a fotón azt a helyet, ahol valamit lát, és nevezze el. Kapcsolja össze azzal, amit a jobb oldali listán lát.
+Consejo: cambie a Marcar, toque la foto donde vea algo y póngale un nombre. Enlácelo con lo que ve en la lista de la derecha.
+
+#2332
+Lier à une constatation...
+Associar a uma constatação...
+关联到一个发现...
+Связать с находкой...
+Powiąż z ustaleniem...
+Kapcsolás egy megállapításhoz...
+Enlazar con un hallazgo...
+
+#2333
+De quoi s'agit-il ?
+O que é isto?
+这是什么？
+Что это?
+Co to jest?
+Mi ez?
+¿Qué es esto?
+
+#2334
+Utiliser :
+Usar:
+使用：
+Использовать:
+Użyj:
+Használja:
+Usar:
+
+#2335
+Prenez ou choisissez une photo de l'équipement. Vous pouvez aussi travailler sans photo.
+Tire ou escolha uma foto do equipamento. Você também pode trabalhar sem foto.
+拍一张设备的照片，或选一张已有的照片。也可以不用照片。
+Сделайте или выберите фото оборудования. Можно работать и без фото.
+Zrób lub wybierz zdjęcie urządzenia. Możesz też pracować bez zdjęcia.
+Készítsen vagy válasszon fotót a berendezésről. Fénykép nélkül is dolgozhat.
+Haga o elija una foto del equipo. También puede trabajar sin foto.
+
+#2336
+Prendre / choisir une photo
+Tirar / escolher foto
+拍照 / 选择照片
+Снять / выбрать фото
+Zrób / wybierz zdjęcie
+Fotó készítése / választása
+Hacer / elegir foto
+
+#2337
+Repérer
+Marcar
+标记
+Отметить
+Oznacz
+Jelölés
+Marcar
+
+#2338
+Éclaircir
+Clarear
+提亮
+Осветлить
+Rozjaśnij
+Világosítás
+Aclarar
+
+#2339
+Indices
+Dicas
+提示
+Подсказки
+Podpowiedzi
+Tippek
+Pistas
+
+#2340
+Ajuster
+Ajustar
+适应
+Вписать
+Dopasuj
+Illesztés
+Ajustar
+
+#2341
+Photo
+Foto
+照片
+Фото
+Zdjęcie
+Fotó
+Foto
+
+#2342
+Retirer
+Remover
+移除
+Убрать
+Usuń
+Eltávolítás
+Quitar
+
+#2343
+Risque élevé
+Risco alto
+高风险
+Высокий риск
+Wysokie ryzyko
+Magas kockázat
+Riesgo alto
+
+#2344
+Moyen
+Médio
+中等
+Средний
+Średnie
+Közepes
+Medio
+
+#2345
+1. Qu'est-ce qui ne va pas ?
+1. O que está errado?
+1. 哪里不对？
+1. Что не так?
+1. Co jest nie tak?
+1. Mi a hiba?
+1. ¿Qué está mal?
+
+#2346
+2. Que voyez-vous ?
+2. O que você vê?
+2. 你看到了什么？
+2. Что вы видите?
+2. Co widzisz?
+2. Mit lát?
+2. ¿Qué ve?
+
+#2347
+Répondez seulement à ce que vous voyez. Laissez le reste. Touchez une image pour voir à quoi cela ressemble.
+Responda somente o que você consegue ver. Deixe o resto. Toque em uma imagem para ver como ela é.
+只回答你能看到的。其余的留空。点一下图片可以看看它是什么样子。
+Отвечайте только на то, что видите. Остальное оставьте. Нажмите на картинку, чтобы увидеть, как это выглядит.
+Odpowiadaj tylko na to, co widzisz. Resztę pomiń. Dotknij obrazka, aby zobaczyć, jak to wygląda.
+Csak arra válaszoljon, amit lát. A többit hagyja ki. Érintsen meg egy képet, hogy lássa, hogyan néz ki.
+Responda solo a lo que ve. Deje el resto. Toque una imagen para ver cómo es.
+
+#2348
+3. Causes probables
+3. Causas prováveis
+3. 可能的原因
+3. Вероятные причины
+3. Prawdopodobne przyczyny
+3. Valószínű okok
+3. Causas probables
+
+#2349
+Choisissez au moins un symptôme ou une chose que vous voyez. La liste se classe d'elle-même à mesure que vous ajoutez des faits.
+Escolha pelo menos um sintoma ou algo que você vê. A lista se ordena sozinha conforme você adiciona fatos.
+至少选一个症状或你看到的现象。你每添加一条信息，列表就会自动重新排序。
+Выберите хотя бы один симптом или то, что вы видите. Список ранжируется сам по мере добавления фактов.
+Wybierz co najmniej jeden objaw lub coś, co widzisz. Lista sama się porządkuje, gdy dodajesz fakty.
+Válasszon legalább egy tünetet vagy valamit, amit lát. A lista maga rendeződik, ahogy tényeket ad hozzá.
+Elija al menos un síntoma o algo que vea. La lista se ordena sola a medida que añade datos.
+
+#2350
+Correspond :
+Corresponde:
+匹配：
+Совпадает:
+Zgodność:
+Egyezés:
+Coincide:
+
+#2351
+Prévenir :
+Prevenir:
+预防：
+Профилактика:
+Zapobieganie:
+Megelőzés:
+Prevenir:
+
+#2352
+4. Prochaine vérification
+4. Próxima verificação
+4. 下一步检查
+4. Следующая проверка
+4. Następne sprawdzenie
+4. Következő ellenőrzés
+4. Siguiente comprobación
+
+#2353
+Ajoutez d'abord des symptômes.
+Adicione sintomas primeiro.
+请先添加症状。
+Сначала добавьте симптомы.
+Najpierw dodaj objawy.
+Előbb adjon hozzá tüneteket.
+Añada síntomas primero.
+
+#2354
+Plus aucune vérification utile. Si la cause principale ne correspond pas, apprenez à l'application ce que vous avez trouvé, à la fin.
+Não restam verificações úteis. Se a causa principal não se encaixa, ensine ao aplicativo o que você encontrou, no final.
+没有更多有用的检查了。如果排在最前面的原因不符，请在最后把你发现的情况教给应用。
+Полезных проверок больше нет. Если главная причина не подходит, в конце научите приложение тому, что вы нашли.
+Nie ma już przydatnych sprawdzeń. Jeśli najlepsza przyczyna nie pasuje, na końcu naucz aplikację tego, co znalazłeś.
+Nincs több hasznos ellenőrzés. Ha a legvalószínűbb ok nem illik, a végén tanítsa meg az alkalmazásnak, mit talált.
+No quedan comprobaciones útiles. Si la causa principal no encaja, enseñe a la aplicación lo que encontró, al final.
+
+#2355
+Cherchez ceci
+Procure isto
+找这个
+Ищите это
+Szukaj tego
+Ezt keresse
+Busque esto
+
+#2356
+Oui, je le vois
+Sim, eu vejo
+是的，我看到了
+Да, я это вижу
+Tak, widzę to
+Igen, látom
+Sí, lo veo
+
+#2357
+Je ne peux pas dire
+Não sei dizer
+说不准
+Не могу сказать
+Nie wiem
+Nem tudom megmondani
+No sabría decirlo
+
+#2358
+Qu'avez-vous obtenu ? Touchez la réponse.
+O que você obteve? Toque na resposta.
+你测到了什么？点一下对应的答案。
+Что вы получили? Нажмите на ответ.
+Co wyszło? Dotknij odpowiedzi.
+Mit kapott? Érintse meg a választ.
+¿Qué obtuvo? Toque la respuesta.
+
+#2359
+indique :
+aponta para:
+指向：
+указывает на:
+wskazuje:
+erre mutat:
+apunta a:
+
+#2360
+Je ne peux pas faire cette vérification
+Não consigo fazer esta verificação
+我做不了这项检查
+Я не могу выполнить эту проверку
+Nie mogę wykonać tego sprawdzenia
+Ezt az ellenőrzést nem tudom elvégezni
+No puedo hacer esta comprobación
+
+#2361
+Choisir une autre vérification
+Escolher outra verificação
+选择另一项检查
+Выбрать другую проверку
+Wybierz inne sprawdzenie
+Másik ellenőrzés választása
+Elegir otra comprobación
+
+#2362
+Annuler le dernier
+Desfazer o último
+撤销上一个
+Отменить последнее
+Cofnij ostatnie
+Utolsó visszavonása
+Deshacer el último
+
+#2363
+Cause la plus probable :
+Causa mais provável:
+最可能的原因：
+Наиболее вероятная причина:
+Najbardziej prawdopodobna przyczyna:
+Legvalószínűbb ok:
+Causa más probable:
+
+#2364
+Il s'agit d'une estimation classée à partir de ce que vous avez saisi, pas d'une certitude. Confirmez par la mesure avant de remplacer des pièces.
+Esta é uma estimativa ordenada a partir do que você informou, não uma certeza. Confirme com a medição antes de substituir peças.
+这是根据你输入的信息排出的估计，并不是确定的结论。更换部件之前请先用测量来确认。
+Это ранжированная оценка по введённым вами данным, а не уверенность. Подтвердите измерением, прежде чем менять детали.
+To uszeregowana ocena na podstawie wprowadzonych danych, a nie pewność. Potwierdź pomiarem, zanim wymienisz części.
+Ez az Ön által megadottak alapján rangsorolt becslés, nem bizonyosság. Alkatrészcsere előtt erősítse meg méréssel.
+Es una estimación ordenada a partir de lo que introdujo, no una certeza. Confirme con la medición antes de sustituir piezas.
+
+#2365
+Détails de l'équipement (pour le rapport)
+Detalhes do equipamento (para o relatório)
+设备信息（用于报告）
+Данные об оборудовании (для отчёта)
+Dane urządzenia (do raportu)
+A berendezés adatai (a jelentéshez)
+Datos del equipo (para el informe)
+

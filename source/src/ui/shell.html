@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="theme-color" content="#0c1423">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Electrical training lab</title>
+<style>/*CSS*/</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+<pattern id="pegy" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="4.5" height="9" fill="#91C361"/><rect x="4.5" width="4.5" height="9" fill="#FDC300"/></pattern>
+</defs></svg>
+<header class="top">
+  <div class="brand"><i></i><span data-t="Electrical lab|معمل الكهرباء">Electrical lab</span></div>
+  <nav class="tabs" id="tabs">
+    <button class="tab on" data-v="bench" data-t="Bench|المعمل">Bench</button>
+    <button class="tab" data-v="projects" data-t="Projects|المشاريع">Projects</button>
+    <button class="tab" data-v="loto" data-t="LOTO|اللوتو">LOTO</button>
+    <button class="tab" data-v="pcb" data-t="PCB repair|إصلاح كروت">PCB repair</button>
+    <button class="tab" data-v="inspect" data-t="Inspect|فحص">Inspect</button>
+    <button class="tab" data-v="guide" data-t="Guide|الدليل">Guide</button>
+  </nav>
+  <button class="chip lang" id="btnLang" type="button" aria-haspopup="listbox" aria-expanded="false" data-ti="Language|اللغة" title="Language"><svg class="gl" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.2 3 14.8 0 18M12 3c-3 3.2-3 14.8 0 18"/></svg><span class="lc">EN</span></button>
+</header>
+<main>
+  <!-- BENCH -->
+  <section class="view on" id="v-bench" data-mode="build">
+    <div class="bench">
+      <aside id="palette">
+        <div class="phead"><input type="search" id="psearch" data-ph="Search parts (contactor, motor...)|دور على جهاز (كونتاكتور، موتور...)"></div>
+        <div class="plist" id="plist"></div>
+      </aside>
+      <div class="stage">
+        <div class="tb">
+          <div class="seg vseg" id="viewSeg"><button class="btn on" data-v="panel" data-t="Panel|اللوحة">Panel</button><button class="btn" data-v="plant" data-t="Plant|العملية">Plant</button><button class="btn" data-v="ladder" data-t="Ladder|اللادر">Ladder</button></div>
+          <span class="sep"></span>
+          <div class="seg" id="modeSeg"><button class="btn on" data-m="build" data-t="Build|بناء">Build</button><button class="btn" data-m="test" data-t="Test|اختبار">Test</button></div>
+          <button class="btn pwr on" id="btnPower"><span>Supply ON</span></button>
+          <span class="sep"></span>
+          <button class="btn" id="btnUndo" title="Undo">↶</button><button class="btn" id="btnRedo" title="Redo">↷</button>
+          <button class="btn" id="btnZout">−</button><button class="btn" id="btnZin">+</button><button class="btn" id="btnFit" data-t="Fit|ملّي">Fit</button>
+          <span class="sep"></span>
+          <button class="btn" id="btnPause">⏸</button><button class="btn" id="btnSpeed" title="Simulation speed">1x</button>
+          <span class="mute ltr" id="simclock" style="min-width:36px">0s</span>
+          <span class="sep"></span>
+          <button class="btn pri" id="btnDiag" data-t="Diagnosis|دايجنوسس">Diagnosis</button>
+          <button class="btn" id="btnTpl" data-t="Ready circuits|دوائر جاهزة">Ready circuits</button>
+          <button class="btn" id="btnFile" data-t="Save / open|حفظ / فتح">Save / open</button>
+          <button class="btn" id="btnClear" data-t="Clear|مسح">Clear</button>
+          <button class="btn" id="btnMute" title="Sound">🔇</button>
+        </div>
+        <div class="cvhost" id="benchHost"></div>
+        <div class="cvhost" id="plantHost"></div>
+        <div class="cvhost" id="ladHost"></div>
+        <div class="statusbar" id="toasts"></div>
+      </div>
+      <aside id="side">
+        <div class="stabs" id="stabs">
+          <button class="stab on" data-p="part" data-t="Part|الجهاز">Part</button>
+          <button class="stab" data-p="meters" data-t="Meters|الأجهزة">Meters</button>
+          <button class="stab" data-p="diag" data-t="Diagnosis|دايجنوسس">Diagnosis</button>
+          <button class="stab" data-p="assist" data-t="Assistant|المساعد">Assistant</button>
+        </div>
+        <div class="spane on" id="pane-part"></div>
+        <div class="spane" id="pane-meters"></div>
+        <div class="spane" id="pane-diag"></div>
+        <div class="spane" id="pane-assist"></div>
+      </aside>
+    </div>
+    <nav class="dock" id="dock">
+      <button data-s="palette"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><path d="M17.5 14v7M14 17.5h7"/></svg><span data-t="Parts|القطع">Parts</span></button>
+      <button data-s="side" data-p="part"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg><span data-t="Part|الجهاز">Part</span></button>
+      <button data-s="side" data-p="meters"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="5" y="2" width="14" height="20" rx="3"/><rect x="8" y="5" width="8" height="5"/><circle cx="12" cy="16" r="3"/></svg><span data-t="Meters|الأجهزة">Meters</span></button>
+      <button data-s="side" data-p="diag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21M7.5 10.5l2 2 3.5-4"/></svg><span data-t="Diagnosis|دايجنوسس">Diagnosis</span></button>
+      <button data-s="side" data-p="assist"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 5h16v11H9l-5 4z"/></svg><span data-t="Assistant|المساعد">Assistant</span></button>
+    </nav>
+  </section>
+
+  <!-- PROJECTS -->
+  <section class="view" id="v-projects"><div class="scroll"><div class="wrapc wide" id="projRoot"></div></div></section>
+
+  <!-- LOTO -->
+  <section class="view" id="v-loto"><div class="scroll"><div class="wrapc" id="lotoRoot"></div></div></section>
+
+  <!-- PCB -->
+  <section class="view" id="v-pcb">
+    <div class="bench">
+      <aside id="ppalette"><div class="phead"><input type="search" id="ppsearch" data-ph="Search board parts|دور على قطعة"></div><div class="plist" id="pplist"></div></aside>
+      <div class="stage">
+        <div class="tb" id="pcbTb"></div>
+        <div class="cvhost" id="pcbHost"></div>
+        <div class="statusbar" id="ptoasts"></div>
+      </div>
+      <aside id="pside">
+        <div class="stabs"><button class="stab on" data-pp="task" data-t="Task|المهمة">Task</button><button class="stab" data-pp="part" data-t="Part|الجهاز">Part</button><button class="stab" data-pp="meters" data-t="Meters|الأجهزة">Meters</button><button class="stab" data-pp="diag" data-t="Diagnosis|دايجنوسس">Diagnosis</button></div>
+        <div class="spane on" id="ppane-task"></div><div class="spane" id="ppane-part"></div><div class="spane" id="ppane-meters"></div><div class="spane" id="ppane-diag"></div>
+      </aside>
+    </div>
+    <nav class="dock" id="pdock">
+      <button data-s="palette"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><path d="M17.5 14v7M14 17.5h7"/></svg><span data-t="Parts|القطع">Parts</span></button>
+      <button data-s="side" data-p="task"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 4h14v16H5z"/><path d="M8 9h8M8 13h8M8 17h5"/></svg><span data-t="Task|المهمة">Task</span></button>
+      <button data-s="side" data-p="part"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg><span data-t="Part|الجهاز">Part</span></button>
+      <button data-s="side" data-p="meters"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="5" y="2" width="14" height="20" rx="3"/><rect x="8" y="5" width="8" height="5"/><circle cx="12" cy="16" r="3"/></svg><span data-t="Meters|الأجهزة">Meters</span></button>
+      <button data-s="side" data-p="diag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21M7.5 10.5l2 2 3.5-4"/></svg><span data-t="Diagnosis|دايجنوسس">Diagnosis</span></button>
+    </nav>
+  </section>
+
+  <!-- INSPECT -->
+  <section class="view" id="v-inspect"><div class="scroll"><div class="wrapc wide" id="inspectRoot"></div></div></section>
+
+  <!-- GUIDE -->
+  <section class="view" id="v-guide"><div class="scroll"><div class="wrapc guide" id="guideRoot"></div></div></section>
+</main>
+<script>/*JS*/</script>
+</body>
+</html>

@@ -1,0 +1,2070 @@
+#758
+appuyez sur les bornes du circuit pour placer les pointes.
+toque nos terminais do circuito para colocar as pontas.
+点击电路上的端子来放置表笔。
+нажимайте на клеммы схемы, чтобы устанавливать щупы.
+dotykaj zacisków w obwodzie, aby umieszczać sondy.
+érintse meg az áramkör kapcsait a mérőhegyek elhelyezéséhez.
+toque los bornes del circuito para colocar las puntas.
+
+#759
+Quelle est cette pièce ? (ex. levier, borne L1)
+O que é esta peça? (ex.: alavanca, terminal L1)
+这是什么部件？（例如：手柄、端子L1）
+Что это за деталь? (напр. тумблер, клемма L1)
+Co to za część? (np. przełącznik, zacisk L1)
+Mi ez az alkatrész? (pl. kapcsoló, L1 kapocs)
+¿Qué pieza es esta? (p. ej. palanca, borne L1)
+
+#760
+Ajouter une étiquette
+Adicionar rótulo
+添加标注
+Добавить метку
+Dodaj etykietę
+Címke hozzáadása
+Añadir etiqueta
+
+#761
+Aucune étiquette pour l'instant. Touchez l'image à l'endroit d'une pièce, puis nommez-la. Vos étiquettes restent sur cet appareil.
+Ainda não há rótulos. Toque na imagem onde está uma peça e dê um nome. Seus rótulos ficam guardados neste aparelho.
+还没有标注。点击图片上某个部件的位置，然后给它命名。你的标注保存在本设备上。
+Меток пока нет. Нажмите на изображение там, где находится деталь, и назовите её. Ваши метки хранятся на этом устройстве.
+Brak etykiet. Dotknij obrazu w miejscu części i nazwij ją. Twoje etykiety są zapisane na tym urządzeniu.
+Még nincsenek címkék. Érintse meg a képet ott, ahol egy alkatrész van, és nevezze el. A címkék ezen az eszközön maradnak.
+Aún no hay etiquetas. Toque la imagen donde esté una pieza y póngale nombre. Sus etiquetas se guardan en este dispositivo.
+
+#762
+Ma photo
+Minha foto
+我的照片
+Моё фото
+Moje zdjęcie
+Saját fotóm
+Mi foto
+
+#763
+Supprimer la photo
+Excluir foto
+删除照片
+Удалить фото
+Usuń zdjęcie
+Fotó törlése
+Eliminar foto
+
+#764
+Fermer
+Fechar
+关闭
+Закрыть
+Zamknij
+Bezárás
+Cerrar
+
+#765
+Pincez ou faites défiler pour zoomer. Touchez une pièce pour l'étiqueter.
+Faça pinça ou role para dar zoom. Toque em uma peça para rotulá-la.
+双指缩放或滚动来放大。点击某个部件即可为其添加标注。
+Сведите пальцы или прокрутите для масштабирования. Нажмите на деталь, чтобы подписать её.
+Ściągnij palce lub przewiń, aby powiększyć. Dotknij części, aby ją oznaczyć.
+Csíptesse vagy görgessen a nagyításhoz. Érintsen meg egy alkatrészt a címkézéséhez.
+Pellizque o desplace para ampliar. Toque una pieza para etiquetarla.
+
+#766
+Mes photos de cet appareil
+Minhas fotos deste dispositivo
+我拍的这台设备的照片
+Мои фото этого устройства
+Moje zdjęcia tego urządzenia
+Saját fotóim erről az eszközről
+Mis fotos de este dispositivo
+
+#767
+Ajoutez une photo de l'appareil réel dans votre usine, zoomez et étiquetez ses pièces. Les photos restent sur cet appareil uniquement.
+Adicione uma foto do equipamento real da sua fábrica, dê zoom e rotule as peças. As fotos ficam somente neste aparelho.
+添加一张你工厂里实物的照片，放大并标注它的各个部件。照片只保存在本设备上。
+Добавьте фото реального устройства на вашем предприятии, увеличьте и подпишите его детали. Фото остаются только на этом устройстве.
+Dodaj zdjęcie prawdziwego urządzenia z Twojego zakładu, powiększ je i oznacz jego części. Zdjęcia zostają tylko na tym urządzeniu.
+Töltsön fel egy fotót a valódi készülékről az üzemében, nagyítson rá, és címkézze fel az alkatrészeit. A fotók csak ezen az eszközön maradnak.
+Añada una foto del equipo real de su planta, amplíela y etiquete sus piezas. Las fotos se quedan solo en este dispositivo.
+
+#768
+La mémoire du téléphone est pleine. Supprimez d'abord une photo plus ancienne.
+O armazenamento do celular está cheio. Exclua primeiro uma foto mais antiga.
+手机存储空间已满。请先删除一张较早的照片。
+Память телефона заполнена. Сначала удалите более старое фото.
+Pamięć telefonu jest pełna. Najpierw usuń starsze zdjęcie.
+A telefon tárhelye megtelt. Előbb törölje egy régebbi fotót.
+El almacenamiento del teléfono está lleno. Elimine primero una foto más antigua.
+
+#769
+Impossible de lire cette photo.
+Não foi possível ler esta foto.
+无法读取这张照片。
+Не удалось прочитать это фото.
+Nie udało się odczytać tego zdjęcia.
+Ezt a fotót nem sikerült beolvasni.
+No se pudo leer esta foto.
+
+#770
+Ajouter une photo
+Adicionar foto
+添加照片
+Добавить фото
+Dodaj zdjęcie
+Fotó hozzáadása
+Añadir foto
+
+#771
+Dispositif d'isolement
+Dispositivo de isolamento
+隔离装置
+Устройство отключения (изоляции)
+Urządzenie odłączające
+Leválasztó eszköz
+Dispositivo de aislamiento
+
+#772
+Dispositif de commande : PAS un isolement
+Dispositivo de comando: NÃO é isolamento
+控制装置：不是隔离
+Устройство управления: НЕ изоляция
+Urządzenie sterownicze: NIE jest izolacją
+Vezérlőeszköz: NEM leválasztás
+Dispositivo de mando: NO es aislamiento
+
+#773
+Machine / charge
+Máquina / carga
+机器 / 负载
+Машина / нагрузка
+Maszyna / obciążenie
+Gép / terhelés
+Máquina / carga
+
+#774
+Source d'énergie
+Fonte de energia
+能量源
+Источник энергии
+Źródło energii
+Energiaforrás
+Fuente de energía
+
+#775
+Élément du kit LOTO
+Item do kit LOTO
+LOTO套件物品
+Элемент набора LOTO
+Element zestawu LOTO
+LOTO-készlet eleme
+Elemento del kit LOTO
+
+#776
+Ouvrir cette pièce
+Abrir esta peça
+打开此部件
+Открыть эту деталь
+Otwórz tę część
+Az alkatrész megnyitása
+Abrir esta pieza
+
+#777
+Touchez un numéro bleu pour voir ce que fait cette pièce. Pincez ou faites défiler pour zoomer, glissez pour déplacer.
+Toque em um número azul para ver o que essa peça faz. Faça pinça ou role para dar zoom, arraste para mover.
+点击蓝色数字可查看该部件的作用。双指缩放或滚动来放大，拖动来移动。
+Нажмите на синий номер, чтобы увидеть, что делает эта деталь. Сведите пальцы или прокрутите для масштабирования, перетащите для перемещения.
+Dotknij niebieskiego numeru, aby zobaczyć, do czego służy ta część. Ściągnij palce lub przewiń, aby powiększyć, przeciągnij, aby przesunąć.
+Érintsen meg egy kék számot, hogy lássa, mit csinál az adott alkatrész. Csíptetéssel vagy görgetéssel nagyíthat, húzással mozgathat.
+Toque un número azul para ver qué hace esa pieza. Pellizque o desplace para ampliar, arrastre para mover.
+
+#778
+Extérieur
+Exterior
+外部
+Снаружи
+Zewnątrz
+Külső
+Exterior
+
+#779
+Intérieur (coupe)
+Interior (corte)
+内部（剖视）
+Внутри (разрез)
+Wnętrze (przekrój)
+Belső (metszet)
+Interior (corte)
+
+#780
+LOTO appliqué
+LOTO aplicado
+已执行LOTO
+LOTO применён
+LOTO założone
+LOTO alkalmazva
+LOTO aplicado
+
+#781
+Bloqué : le dispositif de consignation et le cadenas empêchent la poignée de passer sur ON. C'est tout le principe.
+Bloqueado: o dispositivo de bloqueio e o cadeado impedem que a alavanca vá para ON. Essa é a ideia toda.
+已锁住：锁具和挂锁使手柄无法拨到ON。这就是全部原理。
+Заблокировано: запорное устройство и навесной замок не дают рукоятке перейти в положение ON. В этом вся идея.
+Zablokowane: urządzenie blokujące i kłódka uniemożliwiają przestawienie rączki na ON. Na tym polega cały pomysł.
+Lezárva: a lezáró eszköz és a lakat megakadályozza, hogy a kar BE állásba kerüljön. Ez az egész lényege.
+Bloqueado: el dispositivo de bloqueo y el candado impiden que la palanca pase a ON. Esa es toda la idea.
+
+#782
+En termes simples
+Em palavras simples
+简单说
+Простыми словами
+Prostymi słowami
+Egyszerűen szólva
+En palabras simples
+
+#783
+Comment le verrouiller
+Como bloquear
+如何上锁
+Как заблокировать
+Jak zablokować
+Hogyan kell lezárni
+Cómo bloquearlo
+
+#784
+Comment prouver que c'est sûr
+Como comprovar que é seguro
+如何证明是安全的
+Как доказать, что это безопасно
+Jak udowodnić, że jest bezpiecznie
+Hogyan bizonyítsa be, hogy biztonságos
+Cómo comprobar que es seguro
+
+#785
+Erreurs courantes
+Erros comuns
+常见错误
+Типичные ошибки
+Typowe błędy
+Gyakori hibák
+Errores comunes
+
+#786
+Sectionneur rotatif / interrupteur-sectionneur
+Seccionadora rotativa / chave seccionadora
+旋转隔离开关
+Поворотный разъединитель / выключатель-разъединитель
+Rozłącznik obrotowy / odłącznik
+Forgókaros szakaszoló / főkapcsoló
+Seccionador rotativo / interruptor-seccionador
+
+#787
+Sectionneur à couteaux
+Seccionadora de faca
+刀闸隔离开关
+Ножевой разъединитель
+Rozłącznik nożowy
+Késes szakaszoló
+Seccionador de cuchillas
+
+#788
+Disjoncteur modulaire (rail DIN)
+Disjuntor miniatura (trilho DIN)
+微型断路器（DIN导轨）
+Модульный автоматический выключатель (DIN-рейка)
+Wyłącznik nadprądowy (szyna DIN)
+Kismegszakító (DIN-sín)
+Interruptor automático magnetotérmico (carril DIN)
+
+#789
+Disjoncteur à boîtier moulé
+Disjuntor de caixa moldada
+塑壳断路器
+Автоматический выключатель в литом корпусе
+Wyłącznik mocy w obudowie z tworzywa
+Öntött házas megszakító
+Interruptor automático de caja moldeada
+
+#790
+Fiche et prise
+Plugue e tomada
+插头和插座
+Вилка и розетка
+Wtyczka i gniazdo
+Dugó és aljzat
+Enchufe y toma
+
+#791
+Porte-fusible / interrupteur à fusibles
+Porta-fusível / chave fusível
+熔断器座 / 熔断器式开关
+Держатель предохранителя / выключатель-предохранитель
+Podstawa bezpiecznikowa / rozłącznik bezpiecznikowy
+Biztosítékfoglalat / biztosítós kapcsoló
+Portafusibles / interruptor con fusibles
+
+#792
+Interrupteur d'éclairage
+Interruptor de luz
+灯开关
+Выключатель света
+Włącznik światła
+Villanykapcsoló
+Interruptor de luz
+
+#793
+Bouton-poussoir d'arrêt
+Botão de parada
+停止按钮
+Кнопка «Стоп»
+Przycisk stop
+Stop nyomógomb
+Pulsador de paro
+
+#794
+Arrêt d'urgence
+Parada de emergência
+急停
+Аварийный останов
+Wyłącznik awaryjny
+Vészleállító
+Parada de emergencia
+
+#795
+Vanne à boisseau sphérique (levier)
+Válvula esfera (alavanca)
+球阀（手柄）
+Шаровой кран (рукоятка)
+Zawór kulowy (dźwignia)
+Gömbcsap (kar)
+Válvula de bola (palanca)
+
+#796
+Vanne à opercule / à soupape (volant)
+Válvula gaveta / globo (volante)
+闸阀 / 截止阀（手轮）
+Задвижка / вентиль (маховик)
+Zawór klinowy / zawór grzybkowy (pokrętło)
+Tolózár / szelep (kézikerék)
+Válvula de compuerta / de globo (volante)
+
+#797
+Vanne papillon (levier)
+Válvula borboleta (alavanca)
+蝶阀（手柄）
+Дисковый затвор (рукоятка)
+Zawór motylkowy (dźwignia)
+Pillangószelep (kar)
+Válvula de mariposa (palanca)
+
+#798
+Raccord pneumatique à connexion rapide
+Engate rápido pneumático
+快速气动接头
+Быстроразъёмное пневматическое соединение
+Szybkozłącze pneumatyczne
+Gyorscsatlakozó pneumatikus csatlakozó
+Acoplamiento neumático de conexión rápida
+
+#799
+Cadenas de sécurité personnel (rouge)
+Cadeado pessoal de segurança (vermelho)
+个人安全挂锁（红色）
+Личный навесной замок безопасности (красный)
+Osobista kłódka bezpieczeństwa (czerwona)
+Személyi biztonsági lakat (piros)
+Candado personal de seguridad (rojo)
+
+#800
+Un cadenas, une clé, une personne. La clé reste dans votre poche. Utilisé sur chaque point d'isolement sur lequel vous travaillez.
+Um cadeado, uma chave, uma pessoa. A chave fica no seu bolso. Usado em cada ponto de isolamento em que você trabalha.
+一把锁、一把钥匙、一个人。钥匙放在你自己口袋里。用在你作业的每一个隔离点上。
+Один замок, один ключ, один человек. Ключ остаётся у вас в кармане. Ставится на каждую точку отключения, на которой вы работаете.
+Jedna kłódka, jeden klucz, jedna osoba. Klucz zostaje w Twojej kieszeni. Używana na każdym punkcie odcięcia, przy którym pracujesz.
+Egy lakat, egy kulcs, egy személy. A kulcs a zsebében marad. Minden leválasztási ponton használja, amelyen dolgozik.
+Un candado, una llave, una persona. La llave se queda en su bolsillo. Se usa en cada punto de aislamiento en el que trabaja.
+
+#801
+Ne prêtez jamais votre clé et n'utilisez jamais un cadenas qui n'est pas le vôtre.
+Nunca empreste sua chave e nunca use um cadeado que não seja seu.
+绝不要借出你的钥匙，也绝不要使用不属于你的锁。
+Никогда не одалживайте свой ключ и не используйте чужой замок.
+Nigdy nie pożyczaj swojego klucza i nigdy nie używaj kłódki, która nie jest Twoja.
+Soha ne adja kölcsön a kulcsát, és soha ne használjon olyan lakatot, amely nem az Öné.
+Nunca preste su llave y nunca use un candado que no sea suyo.
+
+#802
+Cadenas de service (bleu, à clés identiques)
+Cadeado do departamento (azul, chaves iguais)
+部门挂锁（蓝色，同钥匙）
+Замок отдела (синий, с одинаковыми ключами)
+Kłódka działu (niebieska, jednakowe klucze)
+Részlegi lakat (kék, azonos kulcsú)
+Candado de departamento (azul, llaves iguales)
+
+#803
+Partagé par une équipe, clés identiques. Ne l'utilisez que si votre procédure autorise les cadenas partagés. Il ne REMPLACE PAS votre cadenas personnel.
+Compartilhado por uma equipe, as chaves são iguais. Use somente se o seu procedimento permitir cadeados compartilhados. NÃO substitui o seu cadeado pessoal.
+由一个班组共用，钥匙相同。只有你的程序允许共用挂锁时才可使用。它不能代替你的个人挂锁。
+Используется командой, ключи одинаковые. Применяйте только если ваша процедура разрешает общие замки. Он НЕ заменяет ваш личный замок.
+Używana wspólnie przez zespół, klucze są jednakowe. Używaj jej tylko wtedy, gdy Twoja procedura dopuszcza wspólne kłódki. NIE zastępuje Twojej osobistej kłódki.
+Egy csapat közösen használja, a kulcsok azonosak. Csak akkor használja, ha az eljárása megengedi a közös lakatokat. NEM helyettesíti a személyi lakatát.
+Compartido por un equipo, las llaves son iguales. Úselo solo si su procedimiento permite candados compartidos. NO sustituye a su candado personal.
+
+#804
+Toute personne ayant un double peut l'ouvrir : c'est une protection faible pour une personne exposée.
+Qualquer pessoa com uma cópia pode abri-lo, então é uma proteção fraca para quem está em risco.
+任何有复制钥匙的人都能打开它，所以对处于危险中的人来说保护很弱。
+Любой, у кого есть копия ключа, может его открыть, поэтому это слабая защита для человека, находящегося под риском.
+Każdy, kto ma kopię klucza, może ją otworzyć, więc to słaba ochrona dla osoby narażonej na ryzyko.
+Bárki kinyithatja, akinek van másolata, ezért gyenge védelem a veszélyben lévő személynek.
+Cualquiera que tenga una copia puede abrirlo, por lo que es una protección débil para una persona en riesgo.
+
+#805
+Cadenas visiteur / sous-traitant (jaune)
+Cadeado de visitante / terceirizado (amarelo)
+访客 / 承包商挂锁（黄色）
+Замок посетителя / подрядчика (жёлтый)
+Kłódka dla gości / podwykonawców (żółta)
+Látogatói / alvállalkozói lakat (sárga)
+Candado de visitante / contratista (amarillo)
+
+#806
+Remis aux sous-traitants et visiteurs qui travaillent sur l'équipement.
+Fornecido a terceirizados e visitantes que trabalham no equipamento.
+发给在设备上作业的承包商和访客。
+Выдаётся подрядчикам и посетителям, работающим на оборудовании.
+Wydawana podwykonawcom i gościom, którzy pracują przy urządzeniu.
+Az alvállalkozóknak és látogatóknak adják, akik a berendezésen dolgoznak.
+Se entrega a contratistas y visitantes que trabajan en el equipo.
+
+#807
+Même règle : clé personnelle, étiquette personnelle.
+Mesma regra: chave pessoal, etiqueta pessoal.
+规则相同：个人钥匙，个人标签。
+То же правило: личный ключ, личная бирка.
+Ta sama zasada: osobisty klucz, osobista zawieszka.
+Ugyanaz a szabály: személyi kulcs, személyi címke.
+Misma regla: llave personal, etiqueta personal.
+
+#808
+Cadenas à passe-partout (noir)
+Cadeado mestre (preto)
+万能钥匙挂锁（黑色）
+Замок с мастер-ключом (чёрный)
+Kłódka z kluczem uniwersalnym (czarna)
+Főkulcsos lakat (fekete)
+Candado de llave maestra (negro)
+
+#809
+Cadenas de superviseur qui ouvre aussi d'autres cadenas. Il n'est pas destiné à la consignation normale : il supprime la protection des cadenas personnels.
+Cadeado de supervisor que também abre outros cadeados. Não é para bloqueio normal: ele elimina a proteção dos cadeados pessoais.
+主管用的挂锁，也能打开其他的锁。不用于正常上锁：它会使个人挂锁的保护失效。
+Замок руководителя, который открывает и другие замки. Не предназначен для обычной блокировки: он лишает защиты личные замки.
+Kłódka przełożonego, która otwiera także inne kłódki. Nie służy do zwykłej blokady: znosi ochronę kłódek osobistych.
+Felügyelői lakat, amely más lakatokat is kinyit. Nem a szokásos lezárásra való: megszünteti a személyi lakatok védelmét.
+Candado de supervisor que también abre otros candados. No es para el bloqueo normal: elimina la protección de los candados personales.
+
+#810
+Uniquement pour un retrait d'urgence par une personne habilitée.
+Somente para remoção de emergência por uma pessoa autorizada.
+仅限被授权人员在紧急情况下拆除。
+Только для аварийного снятия уполномоченным лицом.
+Tylko do awaryjnego zdjęcia przez osobę upoważnioną.
+Csak sürgősségi eltávolításra, jogosult személy által.
+Solo para retirada de emergencia por una persona autorizada.
+
+#811
+Moraillon multi-cadenas (6 trous)
+Presilha multicadeado (6 furos)
+多锁搭扣（6孔）
+Мультизамковая накладка (6 отверстий)
+Zaczep wielokłódkowy (6 otworów)
+Többlakatos fül (6 lyuk)
+Pestillo multicandado (6 agujeros)
+
+#812
+Une barre articulée avec plusieurs trous. Posez-la sur le point (dans le trou du sectionneur ou dans un autre dispositif de consignation) pour que chaque intervenant ajoute son cadenas personnel. Consignation de groupe.
+Uma barra articulada com vários furos. Instale no ponto (pelo furo do seccionador ou por outro dispositivo de bloqueio) para que cada trabalhador adicione seu cadeado pessoal. Bloqueio em grupo.
+带铰链的多孔条。把它装在隔离点上（穿过隔离开关的孔，或穿过另一种锁具），这样每位作业人员都能加上自己的个人挂锁。用于集体上锁。
+Шарнирная планка с несколькими отверстиями. Устанавливается на точку (через отверстие разъединителя или через другое запорное устройство), чтобы каждый работник добавил личный замок. Групповая блокировка.
+Zawiasowa listwa z kilkoma otworami. Zakłada się ją na punkcie (przez otwór rozłącznika lub przez inne urządzenie blokujące), aby każdy pracownik dodał własną kłódkę. Blokada grupowa.
+Csuklós rúd több lyukkal. Szerelje a ponthoz (a szakaszoló lyukán vagy másik lezáró eszközön át), hogy minden dolgozó felrakhassa a saját személyi lakatját. Csoportos lezárás.
+Una barra articulada con varios agujeros. Colóquela en el punto (por el orificio del seccionador o por otro dispositivo de bloqueo) para que cada trabajador añada su candado personal. Bloqueo en grupo.
+
+#813
+Un moraillon ne verrouille rien par lui-même : il lui faut un dispositif de consignation ou un trou en dessous.
+Uma presilha não bloqueia nada sozinha: precisa de um dispositivo de bloqueio ou de um furo por baixo.
+搭扣本身不锁住任何东西：它下面需要有锁具或锁孔。
+Накладка сама ничего не блокирует: ей нужно запорное устройство или отверстие под ней.
+Zaczep sam niczego nie blokuje: potrzebuje urządzenia blokującego lub otworu pod spodem.
+A fül önmagában semmit sem zár le: alatta lezáró eszköznek vagy lyuknak kell lennie.
+Un pestillo no bloquea nada por sí solo: necesita un dispositivo de bloqueo o un orificio debajo.
+
+#814
+Boîte de consignation de groupe
+Caixa de bloqueio em grupo
+集体锁箱
+Групповой замковый бокс
+Skrzynka blokady grupowej
+Csoportos lezárási doboz
+Caja de bloqueo en grupo
+
+#815
+Contient les clés des cadenas posés sur plusieurs points. Chaque intervenant met son cadenas personnel sur la boîte : les clés ne peuvent être libérées que lorsque tout le monde a terminé.
+Guarda as chaves dos cadeados de vários pontos. Cada trabalhador coloca seu cadeado pessoal na caixa, então as chaves só podem ser liberadas quando todos terminarem.
+存放多个点位上挂锁的钥匙。每位作业人员都在锁箱上加自己的个人挂锁，所以只有所有人都完成后钥匙才能被取出。
+Хранит ключи от замков на нескольких точках. Каждый работник вешает на бокс свой личный замок, поэтому ключи можно достать только когда закончат все.
+Przechowuje klucze od kłódek na kilku punktach. Każdy pracownik zakłada na skrzynkę swoją osobistą kłódkę, więc klucze można uwolnić dopiero, gdy wszyscy skończą.
+Több ponton lévő lakatok kulcsait tartja. Minden dolgozó a dobozra teszi a saját személyi lakatját, így a kulcsok csak akkor szabadulnak fel, amikor mindenki végzett.
+Contiene las llaves de los candados de varios puntos. Cada trabajador pone su candado personal en la caja, así que las llaves solo se pueden liberar cuando todos hayan terminado.
+
+#816
+À utiliser pour les travaux longs avec de nombreux points d'isolement et de nombreuses personnes.
+Use em trabalhos longos com muitos pontos de isolamento e muitas pessoas.
+用于有很多隔离点、很多人参与的长时间作业。
+Применяйте для длительных работ с множеством точек отключения и многими людьми.
+Używaj przy długich pracach z wieloma punktami odcięcia i wieloma osobami.
+Hosszú munkákhoz használja, sok leválasztási ponttal és sok emberrel.
+Úselo en trabajos largos con muchos puntos de aislamiento y mucha gente.
+
+#817
+Clip de consignation pour disjoncteur modulaire (1 pôle)
+Clipe de bloqueio para disjuntor miniatura (1 polo)
+微型断路器锁扣（单极）
+Фиксатор для модульного автомата (1 полюс)
+Zaślepka blokująca do wyłącznika nadprądowego (1 biegun)
+Kismegszakító lezáró klip (1 pólus)
+Clip de bloqueo para magnetotérmico (1 polo)
+
+#818
+Se clipse sur le levier d'un disjoncteur sur rail DIN et comporte un trou pour cadenas. Convient pour un ou deux pôles.
+Encaixa sobre a alavanca de um disjuntor de trilho DIN e tem um furo para cadeado. Serve para um ou dois polos.
+卡在DIN导轨断路器的拨杆上，带挂锁孔。适用于一极或两极。
+Надевается на рычажок автомата на DIN-рейке и имеет отверстие под замок. Подходит для одного или двух полюсов.
+Zaczepia się na dźwigni wyłącznika na szynie DIN i ma otwór na kłódkę. Pasuje do jednego lub dwóch biegunów.
+Ráklipszelhető a DIN-sínes megszakító karjára, és lakatlyuk van rajta. Egy- vagy kétpólusú típushoz illik.
+Se engancha sobre la palanca de un magnetotérmico de carril DIN y tiene un orificio para candado. Sirve para uno o dos polos.
+
+#819
+Ne convient pas à un disjoncteur à boîtier moulé avec une large poignée.
+Não serve para disjuntor de caixa moldada com alavanca larga.
+不适用于手柄宽大的塑壳断路器。
+Не подходит для автомата в литом корпусе с широкой рукояткой.
+Nie pasuje do wyłącznika w obudowie z tworzywa z szeroką rączką.
+Nem illik a széles karú öntött házas megszakítóhoz.
+No sirve para un interruptor de caja moldeada con palanca ancha.
+
+#820
+Barre de consignation multipolaire pour disjoncteur modulaire (3 pôles)
+Barra de bloqueio multipolar para disjuntor miniatura (3 polos)
+多极微型断路器锁杆（三极）
+Многополюсная блокирующая планка для модульного автомата (3 полюса)
+Wielobiegunowa listwa blokująca do wyłącznika nadprądowego (3 bieguny)
+Többpólusú kismegszakító lezáró rúd (3 pólus)
+Barra de bloqueo multipolar para magnetotérmico (3 polos)
+
+#821
+Barre qui maintient plusieurs leviers de disjoncteurs modulaires sur OFF ensemble. Convient aux disjoncteurs triphasés sur rail DIN.
+Barra que mantém vários manípulos de disjuntores miniatura em OFF ao mesmo tempo. Boa para disjuntores trifásicos de trilho DIN.
+一根杆同时把多个微型断路器拨杆固定在OFF。适合三相DIN导轨断路器。
+Планка, которая удерживает сразу несколько рычажков модульных автоматов в положении OFF. Подходит для трёхфазных автоматов на DIN-рейке.
+Listwa, która trzyma kilka dźwigni wyłączników nadprądowych jednocześnie w położeniu OFF. Dobra do trójfazowych wyłączników na szynie DIN.
+Rúd, amely több kismegszakító karját együtt tartja KI állásban. Jó háromfázisú DIN-sínes megszakítókhoz.
+Barra que mantiene varias palancas de magnetotérmicos en OFF a la vez. Buena para interruptores trifásicos de carril DIN.
+
+#822
+Les barres et liaisons de poignées doivent maintenir tous les pôles sur OFF.
+Barras e ligações de manípulo devem manter todos os polos em OFF.
+手柄连接片和联动杆必须把所有极都固定在OFF。
+Соединители рукояток и планки должны удерживать все полюса в положении OFF.
+Łączniki dźwigni i listwy muszą trzymać wszystkie bieguny w położeniu OFF.
+A karösszekötőknek és rudaknak minden pólust KI állásban kell tartaniuk.
+Los puentes de palancas y las barras deben mantener todos los polos en OFF.
+
+#823
+Consignation pour disjoncteur à boîtier moulé / poignée large
+Bloqueio para MCCB / manípulo largo
+塑壳断路器 / 宽手柄锁具
+Блокировка для автомата в литом корпусе / широкой рукоятки
+Blokada do wyłącznika mocy / szerokiej rączki
+Öntött házas megszakító / széles kar lezárója
+Bloqueo para interruptor de caja moldeada / palanca ancha
+
+#824
+Recouvre la large poignée d'un disjoncteur à boîtier moulé et accepte un cadenas.
+Cobre o manípulo largo de um disjuntor de caixa moldada e aceita um cadeado.
+罩住塑壳断路器的宽手柄，并可挂锁。
+Закрывает широкую рукоятку автомата в литом корпусе и принимает замок.
+Zakrywa szeroką rączkę wyłącznika mocy i przyjmuje kłódkę.
+Beborítja az öntött házas megszakító széles karját, és lakatot fogad.
+Cubre la palanca ancha de un interruptor de caja moldeada y admite un candado.
+
+#825
+Convient aux poignées d'environ 10 à 30 mm d'épaisseur.
+Serve em manípulos com cerca de 10 a 30 mm de espessura.
+适用于厚度约10到30 mm的手柄。
+Подходит для рукояток толщиной примерно от 10 до 30 мм.
+Pasuje do rączek o grubości około 10 do 30 mm.
+Kb. 10-30 mm vastag karokhoz illik.
+Sirve para palancas de unos 10 a 30 mm de grosor.
+
+#826
+Consignation pour vanne à boisseau / à levier
+Bloqueio para válvula esfera / de alavanca
+球阀 / 手柄阀锁具
+Блокировка для шарового крана / рукоятки
+Blokada zaworu kulowego / dźwigniowego
+Gömbcsap / karos szelep lezárója
+Bloqueo para válvula de bola / de palanca
+
+#827
+Se serre autour de la conduite et du levier pour que le levier ne puisse plus bouger. Convient aux vannes quart de tour.
+Prende em volta do tubo e da alavanca para que a alavanca não se mova. Serve para válvulas de quarto de volta.
+夹在管道和手柄上，使手柄无法移动。适用于四分之一圈阀门。
+Зажимается вокруг трубы и рукоятки, чтобы рукоятка не могла двигаться. Подходит для четвертьоборотной арматуры.
+Zaciska się wokół rury i dźwigni, aby dźwignia nie mogła się poruszyć. Pasuje do zaworów ćwierćobrotowych.
+A cső és a kar köré szorul, hogy a kar ne mozdulhasson. Negyedfordulatos szelepekhez való.
+Se sujeta alrededor de la tubería y la palanca para que la palanca no pueda moverse. Sirve para válvulas de cuarto de vuelta.
+
+#828
+Fermez d'abord la vanne, puis posez-le. Ne convient pas à une vanne à volant.
+Feche primeiro a válvula e depois instale. Não serve para válvula de volante.
+先关闭阀门，再安装。不适用于手轮式阀门。
+Сначала закройте кран, затем установите. Не подходит для арматуры с маховиком.
+Najpierw zamknij zawór, potem załóż. Nie pasuje do zaworu z pokrętłem.
+Először zárja el a szelepet, utána szerelje fel. Kézikerekes szelephez nem illik.
+Cierre primero la válvula y luego colóquelo. No sirve para una válvula de volante.
+
+#829
+Cache-volant pour vanne à opercule / à soupape
+Capa de volante para válvula gaveta / globo
+闸阀 / 截止阀手轮罩
+Колпак маховика для задвижки / вентиля
+Osłona pokrętła zaworu klinowego / grzybkowego
+Tolózár / szelep kézikerék-burkolat
+Cubierta de volante para válvula de compuerta / de globo
+
+#830
+Capot en deux pièces qui emprisonne le volant. Réglable pour la plupart des tailles de volant.
+Capa em duas peças que prende o volante. Ajustável para a maioria dos tamanhos de volante.
+两片式罩壳，把手轮罩住。可调节，适合大多数手轮尺寸。
+Двухсекционный колпак, запирающий маховик. Регулируется под большинство размеров маховиков.
+Dwuczęściowa osłona, która zamyka pokrętło. Regulowana do większości rozmiarów pokręteł.
+Kétrészes burkolat, amely befogja a kézikereket. A legtöbb kerékmérethez állítható.
+Cubierta de dos piezas que atrapa el volante. Ajustable para la mayoría de tamaños de volante.
+
+#831
+Fermez complètement la vanne avant de poser le cache.
+Feche totalmente a válvula antes de instalar a capa.
+安装罩壳前先把阀门完全关闭。
+Полностью закройте кран, прежде чем устанавливать колпак.
+Zamknij zawór całkowicie przed założeniem osłony.
+A burkolat felszerelése előtt zárja el teljesen a szelepet.
+Cierre la válvula por completo antes de colocar la cubierta.
+
+#832
+Consignation pour vanne papillon
+Bloqueio para válvula borboleta
+蝶阀锁具
+Блокировка для дискового затвора
+Blokada zaworu motylkowego
+Pillangószelep lezárója
+Bloqueo para válvula de mariposa
+
+#833
+Plaque qui maintient la poignée du papillon dans l'encoche de fermeture.
+Placa que mantém a alavanca da borboleta no entalhe de fechamento.
+把蝶阀手柄固定在关闭卡槽中的挡板。
+Пластина, удерживающая рукоятку затвора в закрытой прорези.
+Płytka, która trzyma rączkę zaworu motylkowego w wycięciu zamknięcia.
+Lemez, amely a pillangószelep karját a zárt bevágásban tartja.
+Placa que mantiene la palanca de la mariposa en la muesca de cierre.
+
+#834
+Conçu pour les poignées à plaque crantée des vannes papillon.
+Feito para as alavancas de placa entalhada de válvulas borboleta.
+专为蝶阀的带槽板手柄设计。
+Предназначена для рукояток с зубчатой пластиной на дисковых затворах.
+Zaprojektowana dla rączek z nacinaną płytką w zaworach motylkowych.
+A pillangószelepek bevágott lemezes karjaihoz készült.
+Hecho para las palancas de placa con muescas de las válvulas de mariposa.
+
+#835
+Consignation de prise (capot)
+Bloqueio de plugue (capa)
+插头锁具（罩壳）
+Блокировка вилки (кожух)
+Blokada wtyczki (osłona)
+Dugólezáró (burkolat)
+Bloqueo de enchufe (cubierta)
+
+#836
+Enferme la fiche après le débranchement pour que personne ne puisse la rebrancher.
+Envolve o plugue depois de desligado para que ninguém possa ligá-lo de novo.
+拔下插头后把它罩住，没人能再插回去。
+Закрывает вилку после отсоединения, чтобы никто не мог воткнуть её обратно.
+Obejmuje wtyczkę po jej wyciągnięciu, aby nikt nie mógł jej ponownie włożyć.
+A kihúzás után körbezárja a dugót, hogy senki ne dugja vissza.
+Encierra el enchufe tras desenchufarlo para que nadie pueda volver a conectarlo.
+
+#837
+Débranchez d'abord, puis verrouillez la fiche et gardez-la en vue.
+Desligue primeiro, depois bloqueie o plugue e mantenha-o à vista.
+先拔下插头，再把它锁住并放在视线范围内。
+Сначала отсоедините, затем заблокируйте вилку и держите её в поле зрения.
+Najpierw wyciągnij, potem zablokuj wtyczkę i trzymaj ją na widoku.
+Először húzza ki, majd zárja le a dugót, és tartsa szem előtt.
+Primero desenchufe, luego bloquee el enchufe y manténgalo a la vista.
+
+#838
+Consignation par câble (réglable)
+Bloqueio por cabo (ajustável)
+线缆锁具（可调）
+Тросовая блокировка (регулируемая)
+Blokada linkowa (regulowana)
+Kábeles lezárás (állítható)
+Bloqueo por cable (ajustable)
+
+#839
+Une boucle de câble acier avec un cadenas. Fonctionne sur les formes inhabituelles, plusieurs vannes à la fois ou un levier où aucun clip ne convient.
+Um laço de cabo de aço com cadeado. Funciona em formas irregulares, em várias válvulas ao mesmo tempo ou em uma alavanca onde nenhum clipe serve.
+带挂锁的钢缆环。适用于形状特殊的部件、同时锁住多个阀门，或者任何卡扣都装不上的手柄。
+Стальная тросовая петля с замком. Подходит для необычных форм, нескольких кранов сразу или рукоятки, на которую не подходит ни один фиксатор.
+Pętla ze stalowej linki z kłódką. Działa na nietypowych kształtach, kilku zaworach naraz lub dźwigni, do której nie pasuje żaden zacisk.
+Acélkábel hurok lakattal. Szokatlan alakoknál, több szelepnél egyszerre, vagy olyan karnál használható, amelyre semmilyen klip nem illik.
+Un lazo de cable de acero con candado. Funciona en formas raras, en varias válvulas a la vez o en una palanca donde ningún clip encaja.
+
+#840
+Serrez le câble pour que la poignée ne puisse pas bouger.
+Aperte o cabo para que o manípulo não se mova.
+把线缆拉紧，使手柄无法移动。
+Затяните трос так, чтобы рукоятка не могла двигаться.
+Naciągnij linkę, aby rączka nie mogła się poruszać.
+Húzza szorosra a kábelt, hogy a kar ne mozdulhasson.
+Tense el cable para que la palanca no pueda moverse.
+
+#841
+Consignation de raccord pneumatique rapide
+Bloqueio de engate rápido pneumático
+快速气动接头锁具
+Блокировка быстроразъёмного пневмосоединения
+Blokada szybkozłącza pneumatycznego
+Pneumatikus gyorscsatlakozó lezárója
+Bloqueo de acoplamiento neumático rápido
+
+#842
+Se place sur un raccord d'air déconnecté pour qu'il ne puisse pas être reconnecté. Déconnectez, puis purgez l'air en aval.
+Encaixa sobre um engate de ar desconectado para que não possa ser reconectado. Desconecte e depois ventile o ar a jusante.
+罩在已断开的气动接头上，使其无法重新连接。先断开，再放掉下游的空气。
+Надевается на отсоединённое воздушное соединение, чтобы его нельзя было подключить снова. Отсоедините, затем сбросьте воздух после соединения.
+Zakłada się na odłączone szybkozłącze powietrza, aby nie dało się go ponownie podłączyć. Odłącz, a potem spuść powietrze z odcinka za złączem.
+Ráhúzzák a lekapcsolt levegő-csatlakozóra, hogy ne lehessen újra összekapcsolni. Csatlakoztassa le, majd légtelenítse a csatlakozó utáni levegőt.
+Se coloca sobre un acoplamiento de aire desconectado para que no pueda reconectarse. Desconecte y luego purgue el aire aguas abajo.
+
+#843
+Ne verrouillez jamais un raccord encore connecté et sous pression.
+Nunca bloqueie um engate que ainda está conectado e pressurizado.
+绝不要锁定仍然连接并带压的接头。
+Никогда не блокируйте соединение, которое всё ещё подключено и находится под давлением.
+Nigdy nie blokuj złącza, które nadal jest podłączone i pod ciśnieniem.
+Soha ne zárjon le olyan csatlakozót, amely még csatlakoztatva van és nyomás alatt áll.
+Nunca bloquee un acoplamiento que siga conectado y presurizado.
+
+#844
+Consignation de porte-fusible
+Bloqueio de porta-fusível
+熔断器座锁具
+Блокировка держателя предохранителя
+Blokada podstawy bezpiecznikowej
+Biztosítékfoglalat lezárója
+Bloqueo de portafusibles
+
+#845
+Maintient le porte-cartouche en position ouverte, ou on retire le fusible et on verrouille le porte-fusible vide.
+Mantém o porta-fusível na posição aberta, ou retira-se o fusível e bloqueia-se o suporte vazio.
+把熔断器载体固定在断开位置，或取出熔断器并锁住空座。
+Удерживает держатель патрона в открытом положении, либо предохранитель вынимают и блокируют пустой держатель.
+Utrzymuje wkładkę w pozycji otwartej albo wyjmuje się bezpiecznik i blokuje pustą podstawę.
+Nyitott állásban tartja a biztosítékbetét-tartót, vagy a biztosítékot kiveszik, és az üres foglalatot zárják le.
+Mantiene el portacartucho en la posición abierta, o se retira el fusible y se bloquea el portafusibles vacío.
+
+#846
+Retirer un fusible n'est pas un isolement s'il n'est pas consigné.
+Retirar um fusível não é isolamento a menos que esteja bloqueado.
+拿掉熔断器不算隔离，除非已上锁。
+Вынуть предохранитель — это не отключение, если оно не заблокировано.
+Wyjęcie bezpiecznika nie jest odcięciem, jeśli nie jest zablokowane.
+A biztosíték kivétele nem leválasztás, ha nincs lezárva.
+Quitar un fusible no es aislamiento si no está bloqueado.
+
+#847
+Cache de bouton-poussoir / arrêt d'urgence
+Capa de botão / parada de emergência
+按钮 / 急停保护罩
+Кожух кнопки / аварийного останова
+Osłona przycisku / wyłącznika awaryjnego
+Nyomógomb / vészleállító burkolat
+Cubierta de pulsador / parada de emergencia
+
+#848
+Verrouille un bouton-poussoir de commande en place. Uniquement pour les dispositifs de commande : un bouton d'arrêt verrouillé n'isole pas l'énergie.
+Trava um botão de comando no lugar. Somente para dispositivos de comando: um botão de parada travado não isola a energia.
+把控制按钮固定在原位。只适用于控制装置：被锁住的停止按钮并不隔离能量。
+Фиксирует кнопку управления на месте. Только для устройств управления: заблокированная кнопка «Стоп» не отключает энергию.
+Blokuje przycisk sterowniczy na miejscu. Tylko dla urządzeń sterowniczych: zablokowany przycisk stop nie odcina energii.
+A vezérlő nyomógombot a helyén rögzíti. Csak vezérlőeszközökre való: a lezárt stop gomb nem választja le az energiát.
+Bloquea un pulsador de mando en su sitio. Solo para dispositivos de mando: un pulsador de paro bloqueado no aísla la energía.
+
+#849
+Jamais la seule protection. Utilisez-le avec un vrai point d'isolement.
+Nunca como única proteção. Use junto com um ponto de isolamento real.
+绝不能作为唯一的防护。要与真正的隔离点配合使用。
+Никогда не единственная защита. Используйте вместе с настоящей точкой отключения.
+Nigdy jako jedyne zabezpieczenie. Używaj razem z prawdziwym punktem odcięcia.
+Soha nem lehet az egyetlen védelem. Valódi leválasztási ponttal együtt használja.
+Nunca como única protección. Úselo junto con un punto de aislamiento real.
+
+#850
+Cache d'interrupteur mural
+Capa de interruptor de parede
+墙壁开关罩
+Кожух настенного выключателя
+Osłona włącznika ściennego
+Fali kapcsoló burkolata
+Cubierta de interruptor de pared
+
+#851
+Recouvre un interrupteur d'éclairage. Convient uniquement aux circuits d'éclairage.
+Cobre um interruptor de luz. Adequado somente para circuitos de iluminação.
+罩住灯开关。仅适用于照明回路。
+Закрывает выключатель света. Подходит только для цепей освещения.
+Zakrywa włącznik światła. Odpowiednia tylko do obwodów oświetleniowych.
+Villanykapcsolót takar le. Csak világítási áramkörökhöz alkalmas.
+Cubre un interruptor de luz. Adecuada solo para circuitos de alumbrado.
+
+#852
+Pas pour l'isolement d'une machine.
+Não é para isolamento de máquina.
+不用于机器隔离。
+Не для отключения машин.
+Nie do odcinania maszyn.
+Gép leválasztására nem alkalmas.
+No sirve para aislar máquinas.
+
+#853
+Étiquette DANGER ne pas manœuvrer
+Etiqueta PERIGO não operar
+危险 禁止操作 标签
+Бирка ОПАСНО не включать
+Zawieszka NIEBEZPIECZEŃSTWO nie włączać
+VESZÉLY ne kapcsolja címke
+Etiqueta PELIGRO no operar
+
+#854
+Chaque cadenas reçoit une étiquette avec le nom de la personne, la date, le motif et les coordonnées. L'étiquette prévient les autres et leur dit qui appeler.
+Cada cadeado recebe uma etiqueta com o nome da pessoa, a data, o motivo e os dados de contato. A etiqueta avisa os outros e diz a quem ligar.
+每把锁都配一个标签，写明人员姓名、日期、原因和联系方式。标签警告其他人，并告诉他们该联系谁。
+На каждый замок вешается бирка с именем человека, датой, причиной и контактами. Бирка предупреждает других и подсказывает, кому звонить.
+Każda kłódka dostaje zawieszkę z imieniem i nazwiskiem osoby, datą, powodem i danymi kontaktowymi. Zawieszka ostrzega innych i mówi, do kogo zadzwonić.
+Minden lakat kap egy címkét a személy nevével, a dátummal, az okkal és az elérhetőséggel. A címke figyelmezteti a többieket, és megmondja, kit hívjanak.
+Cada candado lleva una etiqueta con el nombre de la persona, la fecha, el motivo y los datos de contacto. La etiqueta avisa a los demás y les dice a quién llamar.
+
+#855
+Une étiquette seule n'est pas un cadenas. Utilisez une étiquette avec un cadenas partout où un cadenas peut être posé.
+Uma etiqueta sozinha não é um cadeado. Use a etiqueta com cadeado sempre que um cadeado puder ser instalado.
+只挂标签不等于上锁。凡是能装锁的地方，都要标签和锁一起用。
+Одна бирка — это не замок. Везде, где можно поставить замок, используйте бирку вместе с замком.
+Sama zawieszka to nie kłódka. Używaj zawieszki razem z kłódką wszędzie tam, gdzie można założyć kłódkę.
+A címke egyedül nem lakat. Mindenütt, ahol lakat felszerelhető, címkét lakattal együtt használjon.
+Una etiqueta sola no es un candado. Use etiqueta con candado donde se pueda colocar un candado.
+
+#856
+L'outil de preuve pour le contrôle d'absence de tension. Utilisez-le entre toutes les phases et vers la terre.
+A ferramenta de prova para a verificação de ausência de tensão. Use entre todas as fases e para a terra.
+用于验电（确认无电）的验证工具。在所有相间以及对地之间使用。
+Инструмент для проверки отсутствия напряжения. Используйте между всеми фазами и на землю.
+Narzędzie do potwierdzania braku napięcia. Używaj między wszystkimi fazami i do ziemi.
+A feszültségmentesség ellenőrzésének eszköze. Használja az összes fázis között és a föld felé.
+La herramienta de comprobación de ausencia de tensión. Úsela entre todas las fases y a tierra.
+
+#857
+Prouver-tester-prouver.
+Comprovar-testar-comprovar.
+验证—测试—再验证。
+Проверить–измерить–проверить.
+Sprawdź–zmierz–sprawdź.
+Ellenőrzés–mérés–ellenőrzés.
+Comprobar-medir-comprobar.
+
+#858
+Cale / goupille de sécurité (gravité)
+Calço / pino de segurança (gravidade)
+安全支撑块 / 销（重力）
+Страховочный упор / штифт (гравитация)
+Blokada / sworzeń bezpieczeństwa (grawitacja)
+Biztonsági támasz / szeg (gravitáció)
+Calzo / pasador de seguridad (gravedad)
+
+#859
+Maintient mécaniquement une pièce relevée (coulisseau de presse, élévateur) pour qu'elle ne puisse pas tomber.
+Segura mecanicamente uma parte elevada (êmbolo de prensa, elevador) para que não possa cair.
+用机械方式托住被抬起的部件（压力机滑块、升降机），使其不会坠落。
+Механически удерживает поднятую часть (ползун пресса, подъёмник), чтобы она не могла упасть.
+Mechanicznie podtrzymuje uniesioną część (suwak prasy, podnośnik), aby nie mogła spaść.
+Mechanikusan megtartja a felemelt részt (présszán, emelő), hogy ne eshessen le.
+Sujeta mecánicamente una pieza elevada (carro de prensa, elevador) para que no pueda caer.
+
+#860
+La gravité est une source d'énergie : isoler l'air n'empêche pas un coulisseau de tomber.
+A gravidade é uma fonte de energia: isolar o ar não impede que um êmbolo caia.
+重力也是一种能量源：隔离了气源，滑块仍然可能掉下来。
+Гравитация — тоже источник энергии: отключение воздуха не мешает ползуну упасть.
+Grawitacja jest źródłem energii: odcięcie powietrza nie zapobiega opadnięciu suwaka.
+A gravitáció is energiaforrás: a levegő leválasztása nem akadályozza meg, hogy a szán leessen.
+La gravedad es una fuente de energía: aislar el aire no impide que un carro caiga.
+
+#861
+Vanne de purge / d'échappement
+Válvula de purga / escape
+泄压 / 排气阀
+Продувочный / сбросной клапан
+Zawór odpowietrzający / spustowy
+Légtelenítő / kifúvó szelep
+Válvula de purga / escape
+
+#862
+Libère la pression piégée (air ou fluide) après l'isolement et la consignation de l'alimentation.
+Libera a pressão retida (ar ou fluido) depois que a alimentação é isolada e bloqueada.
+在电源（气源）被隔离并上锁后，释放被困住的压力（空气或液体）。
+Сбрасывает запертое давление (воздуха или жидкости) после того, как подача отключена и заблокирована.
+Uwalnia uwięzione ciśnienie (powietrza lub cieczy) po odcięciu i zablokowaniu zasilania.
+Kiengedi a bezárt nyomást (levegő vagy folyadék), miután a betáplálást leválasztották és lezárták.
+Libera la presión atrapada (aire o fluido) después de aislar y bloquear la alimentación.
+
+#863
+Ouvrez lentement, placez-vous sur le côté, puis vérifiez que le manomètre indique zéro.
+Abra devagar, fique ao lado e depois confirme que o manômetro marca zero.
+缓慢打开，站在侧面，然后确认压力表读数为零。
+Открывайте медленно, встаньте сбоку, затем убедитесь, что манометр показывает ноль.
+Otwieraj powoli, stań z boku, a potem sprawdź, czy manometr wskazuje zero.
+Lassan nyissa ki, álljon oldalra, majd ellenőrizze, hogy a manométer nullát mutat.
+Abra despacio, colóquese a un lado y luego compruebe que el manómetro marque cero.
+
+#864
+Perche de décharge (résistive)
+Vara de descarga (resistiva)
+放电棒（电阻式）
+Разрядная штанга (резистивная)
+Drążek rozładowczy (rezystancyjny)
+Kisütőrúd (ellenállásos)
+Pértiga de descarga (resistiva)
+
+#865
+Décharge les condensateurs en toute sécurité. Les condensateurs du bus continu d'un variateur se déchargent aussi seuls en quelques minutes.
+Descarrega capacitores com segurança. Os capacitores do barramento CC de um inversor também se descarregam sozinhos em alguns minutos.
+安全地给电容放电。变频器直流母线电容也会在几分钟内自行泄放。
+Безопасно разряжает конденсаторы. Конденсаторы звена постоянного тока преобразователя также сами разряжаются за несколько минут.
+Bezpiecznie rozładowuje kondensatory. Kondensatory szyny DC falownika rozładowują się też samoczynnie w ciągu kilku minut.
+Biztonságosan kisüti a kondenzátorokat. A hajtás DC köztes körének kondenzátorai néhány perc alatt maguktól is kisülnek.
+Descarga los condensadores con seguridad. Los condensadores del bus de CC de un variador también se descargan solos en unos minutos.
+
+#866
+Après la décharge, mesurez pour prouver.
+Depois da descarga, meça para comprovar.
+放电后，要测量来证明。
+После разряда измерьте, чтобы подтвердить.
+Po rozładowaniu zmierz, aby to udowodnić.
+Kisütés után mérjen, hogy bizonyítsa.
+Tras la descarga, mida para comprobarlo.
+
+#867
+Moteur de convoyeur : remplacer un accouplement usé
+Motor de transportador: substituir um acoplamento desgastado
+输送机电机：更换磨损的联轴器
+Двигатель конвейера: замена изношенной муфты
+Silnik przenośnika: wymiana zużytego sprzęgła
+Szállítószalag-motor: kopott tengelykapcsoló cseréje
+Motor de cinta transportadora: sustituir un acoplamiento desgastado
+
+#868
+Vous devez remplacer l'accouplement entre le moteur et le réducteur d'un convoyeur. Isolez la machine et mettez-la en sécurité.
+Você precisa substituir o acoplamento entre o motor e a caixa de engrenagens de um transportador. Isole a máquina e deixe-a segura.
+你需要更换输送机电机与减速箱之间的联轴器。隔离机器并使其处于安全状态。
+Вам нужно заменить муфту между двигателем и редуктором конвейера. Отключите машину и приведите её в безопасное состояние.
+Musisz wymienić sprzęgło między silnikiem a przekładnią przenośnika. Odetnij maszynę i zabezpiecz ją.
+Ki kell cserélnie a szállítószalag motorja és hajtóműve közötti tengelykapcsolót. Válassza le a gépet, és tegye biztonságossá.
+Debe sustituir el acoplamiento entre el motor y el reductor de una cinta transportadora. Aísle la máquina y déjela en estado seguro.
+
+#869
+Réseau 400 V
+Rede 400 V
+400 V电网
+Сеть 400 В
+Sieć 400 V
+400 V-os hálózat
+Red 400 V
+
+#870
+Démarreur moteur
+Partida do motor
+电机启动器
+Пускатель двигателя
+Rozrusznik silnika
+Motorindító
+Arrancador de motor
+
+#871
+Moteur de convoyeur
+Motor do transportador
+输送机电机
+Двигатель конвейера
+Silnik przenośnika
+Szállítószalag-motor
+Motor de cinta transportadora
+
+#872
+QS1 sectionneur principal (porte de l'armoire)
+QS1 seccionadora principal (porta do painel)
+QS1 主隔离开关（柜门）
+QS1 главный разъединитель (дверца шкафа)
+QS1 rozłącznik główny (drzwi szafy)
+QS1 főszakaszoló (szekrényajtó)
+QS1 seccionador principal (puerta del cuadro)
+
+#873
+F1 disjoncteur du circuit de commande (24 V depuis l'armoire automate de la ligne)
+F1 disjuntor do circuito de comando (24 V do painel do CLP da linha)
+F1 控制回路断路器（24 V，来自产线PLC柜）
+F1 автомат цепи управления (24 В от шкафа ПЛК линии)
+F1 wyłącznik obwodu sterowania (24 V z szafy PLC linii)
+F1 vezérlőáramköri megszakító (24 V a vonal PLC-szekrényéből)
+F1 interruptor automático del circuito de mando (24 V desde el cuadro PLC de la línea)
+
+#874
+Ce circuit est alimenté depuis une autre armoire : QS1 ne le coupe donc pas.
+Este circuito é alimentado por outro painel, então a QS1 não o desliga.
+这个回路由另一个柜供电，所以QS1不能切断它。
+Эта цепь питается от другого шкафа, поэтому QS1 её не отключает.
+Ten obwód jest zasilany z innej szafy, więc QS1 go nie wyłącza.
+Ezt az áramkört másik szekrény táplálja, ezért a QS1 nem kapcsolja le.
+Este circuito se alimenta desde otro cuadro, por lo que QS1 no lo desconecta.
+
+#875
+SB1 bouton-poussoir d'arrêt
+SB1 botão de parada
+SB1 停止按钮
+SB1 кнопка «Стоп»
+SB1 przycisk stop
+SB1 stop nyomógomb
+SB1 pulsador de paro
+
+#876
+SB0 arrêt d'urgence
+SB0 parada de emergência
+SB0 急停
+SB0 аварийный останов
+SB0 wyłącznik awaryjny
+SB0 vészleállító
+SB0 parada de emergencia
+
+#877
+Électrique : alimentation 400 V du moteur
+Elétrica: alimentação de 400 V do motor
+电气：电机的400 V供电
+Электрическая: питание двигателя 400 В
+Elektryczna: zasilanie silnika 400 V
+Elektromos: 400 V-os motortáp
+Eléctrica: alimentación de 400 V del motor
+
+#878
+Électrique : commande 24 V depuis une autre armoire
+Elétrica: comando de 24 V de outro painel
+电气：来自另一个柜的24 V控制
+Электрическая: управление 24 В от другого шкафа
+Elektryczna: sterowanie 24 V z innej szafy
+Elektromos: 24 V-os vezérlés másik szekrényből
+Eléctrica: mando de 24 V desde otro cuadro
+
+#879
+Presse pneumatique : dégager un bourrage sous le coulisseau
+Prensa pneumática: liberar um travamento sob o êmbolo
+气动压力机：清除滑块下的卡料
+Пневматический пресс: устранение затора под ползуном
+Prasa pneumatyczna: usunięcie zakleszczenia pod suwakiem
+Pneumatikus prés: elakadás megszüntetése a szán alatt
+Prensa neumática: despejar un atasco bajo el carro
+
+#880
+Une pièce est coincée sous le coulisseau d'une petite presse pneumatique. Vous allez passer la main dans la zone d'outil. Isolez toutes les sources d'énergie de la presse.
+Uma peça está travada sob o êmbolo de uma pequena prensa pneumática. Você vai colocar a mão na área da ferramenta. Isole todas as fontes de energia da prensa.
+一个零件卡在小型气动压力机的滑块下。你要把手伸进模具区域。请隔离压力机的所有能量源。
+Деталь застряла под ползуном небольшого пневматического пресса. Вы собираетесь залезть рукой в зону инструмента. Отключите все источники энергии пресса.
+Część utknęła pod suwakiem małej prasy pneumatycznej. Będziesz sięgać do strefy narzędzia. Odetnij wszystkie źródła energii prasy.
+Egy alkatrész beszorult egy kis pneumatikus prés szánja alá. A szerszám területére kell nyúlnia. Válassza le a prés minden energiaforrását.
+Una pieza está atascada bajo el carro de una pequeña prensa neumática. Va a meter la mano en la zona de la herramienta. Aísle todas las fuentes de energía de la prensa.
+
+#881
+Air de l'usine 6 bar
+Ar da fábrica 6 bar
+工厂气源 6 bar
+Заводской воздух 6 бар
+Powietrze zakładowe 6 bar
+Üzemi sűrített levegő 6 bar
+Aire de planta 6 bar
+
+#882
+Réservoir d'air
+Reservatório de ar
+储气罐
+Ресивер
+Zbiornik powietrza
+Légtartály
+Depósito de aire
+
+#883
+Vérin de presse + coulisseau
+Cilindro da prensa + êmbolo
+压力机气缸 + 滑块
+Цилиндр пресса + ползун
+Siłownik prasy + suwak
+Préshenger + szán
+Cilindro de la prensa + carro
+
+#884
+V1 vanne d'alimentation en air comprimé
+V1 válvula de alimentação de ar comprimido
+V1 压缩空气供气阀
+V1 клапан подачи сжатого воздуха
+V1 zawór zasilania sprężonym powietrzem
+V1 sűrített levegő betáplálási szelep
+V1 válvula de alimentación de aire comprimido
+
+#885
+QF2 disjoncteur d'alimentation de la presse (électrovannes et automate)
+QF2 disjuntor de alimentação da prensa (solenoides e CLP)
+QF2 压力机供电断路器（电磁阀和PLC）
+QF2 автомат питания пресса (соленоиды и ПЛК)
+QF2 wyłącznik zasilania prasy (elektrozawory i PLC)
+QF2 présgép tápmegszakító (mágnesszelepek és PLC)
+QF2 interruptor de alimentación de la prensa (electroválvulas y PLC)
+
+#886
+Bouton de démarrage bimanuel
+Botão de partida bimanual
+双手启动按钮
+Кнопка двуручного пуска
+Przycisk startu oburęcznego
+Kétkezes indítógomb
+Pulsador de arranque a dos manos
+
+#887
+Électrique : 230 V vers les bobines d'électrovannes et l'automate
+Elétrica: 230 V para as bobinas dos solenoides e o CLP
+电气：230 V供给电磁阀线圈和PLC
+Электрическая: 230 В на катушки соленоидов и ПЛК
+Elektryczna: 230 V do cewek elektrozaworów i PLC
+Elektromos: 230 V a mágnesszelep-tekercsekhez és a PLC-hez
+Eléctrica: 230 V a las bobinas de las electroválvulas y al PLC
+
+#888
+Pneumatique : 6 bar dans les conduites, le réservoir et le vérin
+Pneumática: 6 bar nas linhas, no reservatório e no cilindro
+气动：管路、储气罐和气缸中有6 bar
+Пневматическая: 6 бар в линиях, ресивере и цилиндре
+Pneumatyczna: 6 bar w przewodach, zbiorniku i siłowniku
+Pneumatikus: 6 bar a vezetékekben, a tartályban és a hengerben
+Neumática: 6 bar en las líneas, el depósito y el cilindro
+
+#889
+Ouvrez la vanne de purge et évacuez l'air
+Abra a válvula de purga e ventile o ar
+打开泄压阀并放掉空气
+Откройте продувочный клапан и стравите воздух
+Otwórz zawór odpowietrzający i spuść powietrze
+Nyissa ki a légtelenítő szelepet, és engedje ki a levegőt
+Abra la válvula de purga y ventile el aire
+
+#890
+Gravité : le coulisseau relevé peut tomber
+Gravidade: o êmbolo elevado pode cair
+重力：被抬起的滑块可能坠落
+Гравитация: поднятый ползун может упасть
+Grawitacja: uniesiony suwak może spaść
+Gravitáció: a felemelt szán leeshet
+Gravedad: el carro elevado puede caer
+
+#891
+Posez la cale de sécurité sous le coulisseau
+Instale o calço de segurança sob o êmbolo
+在滑块下装上安全支撑块
+Установите страховочный упор под ползун
+Załóż blokadę bezpieczeństwa pod suwak
+Tegye a biztonsági támaszt a szán alá
+Coloque el calzo de seguridad bajo el carro
+
+#892
+Skid de pompe à variateur : changer une garniture mécanique
+Skid de bomba com inversor: trocar um selo mecânico
+变频泵组撬装：更换机械密封
+Насосная станция с преобразователем: замена торцевого уплотнения
+Zespół pompowy z falownikiem: wymiana uszczelnienia mechanicznego
+Frekvenciaváltós szivattyúegység: mechanikus tömítés cseréje
+Skid de bomba con variador: cambiar un sello mecánico
+
+#893
+La garniture mécanique d'une pompe fuit. La pompe est commandée par un variateur. Vous allez ouvrir le corps de pompe et travailler près des bornes du variateur. Isolez tout.
+O selo mecânico de uma bomba está vazando. A bomba é acionada por um inversor. Você vai abrir a carcaça da bomba e trabalhar perto dos terminais do inversor. Isole tudo.
+一台泵的机械密封漏水。该泵由变频器驱动。你要打开泵壳，并在变频器端子附近作业。请隔离所有能量。
+Торцевое уплотнение насоса течёт. Насос управляется преобразователем частоты. Вы будете вскрывать корпус насоса и работать рядом с клеммами преобразователя. Отключите всё.
+Uszczelnienie mechaniczne pompy przecieka. Pompa jest sterowana falownikiem. Będziesz otwierać korpus pompy i pracować w pobliżu zacisków falownika. Odetnij wszystko.
+Egy szivattyú mechanikus tömítése szivárog. A szivattyút frekvenciaváltó hajtja. Kinyitja a szivattyúházat, és a hajtás kapcsai közelében fog dolgozni. Válasszon le mindent.
+El sello mecánico de una bomba pierde. La bomba la maneja un variador. Va a abrir la carcasa de la bomba y a trabajar cerca de los bornes del variador. Aísle todo.
+
+#894
+Variateur (bus continu)
+Inversor (barramento CC)
+变频器（直流母线）
+Преобразователь частоты (шина постоянного тока)
+Falownik (szyna DC)
+Frekvenciaváltó (DC köztes kör)
+Variador (bus de CC)
+
+#895
+Pompe
+Bomba
+泵
+Насос
+Pompa
+Szivattyú
+Bomba
+
+#896
+QS1 sectionneur du variateur
+QS1 seccionadora do inversor
+QS1 变频器隔离开关
+QS1 разъединитель преобразователя
+QS1 rozłącznik falownika
+QS1 hajtás szakaszoló
+QS1 seccionador del variador
+
+#897
+F2 alimentation de commande 24 V du variateur
+F2 alimentação de comando 24 V do inversor
+F2 变频器24 V控制电源
+F2 питание управления преобразователя 24 В
+F2 zasilanie sterowania falownika 24 V
+F2 a frekvenciaváltó 24 V-os vezérlőtáplálása
+F2 alimentación de mando de 24 V del variador
+
+#898
+V1 vanne d'aspiration (volant)
+V1 válvula de sucção (volante)
+V1 吸入阀（手轮）
+V1 всасывающая задвижка (маховик)
+V1 zawór ssawny (pokrętło)
+V1 szívóoldali szelep (kézikerék)
+V1 válvula de aspiración (volante)
+
+#899
+V2 vanne de refoulement (levier)
+V2 válvula de recalque (alavanca)
+V2 排出阀（手柄）
+V2 напорная задвижка (рукоятка)
+V2 zawór tłoczny (dźwignia)
+V2 nyomóoldali szelep (kar)
+V2 válvula de impulsión (palanca)
+
+#900
+Électrique : 400 V vers le variateur et le moteur
+Elétrica: 400 V para o inversor e o motor
+电气：400 V供给变频器和电机
+Электрическая: 400 В на преобразователь и двигатель
+Elektryczna: 400 V do falownika i silnika
+Elektromos: 400 V a hajtáshoz és a motorhoz
+Eléctrica: 400 V al variador y al motor
+
+#901
+Électrique : alimentation de commande 24 V
+Elétrica: alimentação de comando 24 V
+电气：24 V控制电源
+Электрическая: питание управления 24 В
+Elektryczna: zasilanie sterowania 24 V
+Elektromos: 24 V-os vezérlőtáplálás
+Eléctrica: alimentación de mando de 24 V
+
+#902
+Électrique stockée : condensateurs du bus continu du variateur (jusqu'à environ 560 V)
+Elétrica armazenada: capacitores do barramento CC do inversor (até cerca de 560 V)
+储存的电能：变频器直流母线电容（最高约560 V）
+Накопленная электрическая: конденсаторы шины постоянного тока преобразователя (до примерно 560 В)
+Zmagazynowana elektryczna: kondensatory szyny DC falownika (do około 560 V)
+Tárolt elektromos: a hajtás DC köztes körének kondenzátorai (kb. 560 V-ig)
+Eléctrica almacenada: condensadores del bus de CC del variador (hasta unos 560 V)
+
+#903
+Attendez la décharge du bus continu (étiquette du variateur : 5 minutes)
+Aguarde o barramento CC descarregar (etiqueta do inversor: 5 minutos)
+等待直流母线放电（变频器标签：5分钟）
+Дождитесь разряда шины постоянного тока (по табличке преобразователя: 5 минут)
+Poczekaj na rozładowanie szyny DC (etykieta falownika: 5 minut)
+Várja meg a DC köztes kör kisülését (a hajtás címkéje szerint: 5 perc)
+Espere a que se descargue el bus de CC (etiqueta del variador: 5 minutos)
+
+#904
+Hydraulique : pression d'eau dans le corps (4 bar)
+Hidráulica: pressão de água na carcaça (4 bar)
+液压：泵壳内的水压（4 bar）
+Гидравлическая: давление воды в корпусе (4 бар)
+Hydrauliczna: ciśnienie wody w korpusie (4 bar)
+Hidraulikus: víznyomás a házban (4 bar)
+Hidráulica: presión de agua en la carcasa (4 bar)
+
+#905
+Ouvrez le purgeur du corps et relâchez la pression
+Abra o dreno da carcaça e alivie a pressão
+打开泵壳排水口并释放压力
+Откройте дренаж корпуса и сбросьте давление
+Otwórz spust korpusu i zwolnij ciśnienie
+Nyissa ki a ház leeresztőjét, és engedje ki a nyomást
+Abra el drenaje de la carcasa y alivie la presión
+
+#906
+Ligne de conditionnement : trois personnes, un travail (consignation de groupe)
+Linha de embalagem: três pessoas, um trabalho (bloqueio em grupo)
+包装线：三个人，一项作业（集体上锁）
+Линия упаковки: три человека, одна работа (групповая блокировка)
+Linia pakująca: trzy osoby, jedna praca (blokada grupowa)
+Csomagolósor: három ember, egy munka (csoportos lezárás)
+Línea de envasado: tres personas, un trabajo (bloqueo en grupo)
+
+#907
+Vous, Ahmed et Mona allez travailler en même temps sur différentes parties de la ligne de conditionnement. Chacun de vous doit être protégé par un cadenas personnel sur le disjoncteur principal, et l'air doit aussi être isolé.
+Você, Ahmed e Mona vão trabalhar ao mesmo tempo em partes diferentes da linha de embalagem. Cada um de vocês deve estar protegido por um cadeado pessoal no disjuntor principal, e o ar também deve ser isolado.
+你、Ahmed和Mona将同时在包装线的不同部位作业。你们每个人都必须有一把个人挂锁锁在总断路器上，气源也必须隔离。
+Вы, Ahmed и Mona будете одновременно работать на разных участках линии упаковки. Каждый из вас должен быть защищён личным замком на главном автомате, и воздух тоже должен быть отключён.
+Ty, Ahmed i Mona będziecie jednocześnie pracować przy różnych częściach linii pakującej. Każde z Was musi być chronione osobistą kłódką na wyłączniku głównym, a powietrze też musi być odcięte.
+Ön, Ahmed és Mona egyszerre fog dolgozni a csomagolósor különböző részein. Mindannyiukat egy-egy személyi lakatnak kell védenie a főmegszakítón, és a levegőt is le kell választani.
+Usted, Ahmed y Mona van a trabajar a la vez en distintas partes de la línea de envasado. Cada uno debe estar protegido por un candado personal en el interruptor principal, y el aire también debe aislarse.
+
+#908
+Ligne de conditionnement
+Linha de embalagem
+包装线
+Линия упаковки
+Linia pakująca
+Csomagolósor
+Línea de envasado
+
+#909
+Air de l'usine
+Ar da fábrica
+工厂气源
+Заводской воздух
+Powietrze zakładowe
+Üzemi sűrített levegő
+Aire de planta
+
+#910
+QF1 disjoncteur principal (100 A)
+QF1 disjuntor principal (100 A)
+QF1 总断路器（100 A）
+QF1 главный автомат (100 А)
+QF1 wyłącznik główny (100 A)
+QF1 főmegszakító (100 A)
+QF1 interruptor principal (100 A)
+
+#911
+V1 vanne d'alimentation en air
+V1 válvula de alimentação de ar
+V1 供气阀
+V1 клапан подачи воздуха
+V1 zawór zasilania powietrzem
+V1 levegő betáplálási szelep
+V1 válvula de alimentación de aire
+
+#912
+Fiche de l'étiqueteuse (prise 230 V)
+Plugue da rotuladora (tomada 230 V)
+贴标机插头（230 V插座）
+Вилка этикетировщика (розетка 230 В)
+Wtyczka etykieciarki (gniazdo 230 V)
+Címkéző dugója (230 V-os aljzat)
+Enchufe de la etiquetadora (toma de 230 V)
+
+#913
+Électrique : alimentation de ligne 400 V
+Elétrica: alimentação da linha 400 V
+电气：400 V产线供电
+Электрическая: питание линии 400 В
+Elektryczna: zasilanie linii 400 V
+Elektromos: 400 V-os soros betáplálás
+Eléctrica: alimentación de línea de 400 V
+
+#914
+Électrique : fiche de l'étiqueteuse 230 V
+Elétrica: plugue da rotuladora 230 V
+电气：贴标机230 V插头
+Электрическая: вилка этикетировщика 230 В
+Elektryczna: wtyczka etykieciarki 230 V
+Elektromos: címkéző 230 V-os dugója
+Eléctrica: enchufe de la etiquetadora de 230 V
+
+#915
+Pneumatique : 6 bar dans la ligne
+Pneumática: 6 bar na linha
+气动：管路中有6 bar
+Пневматическая: 6 бар в линии
+Pneumatyczna: 6 bar w linii
+Pneumatikus: 6 bar a vezetékben
+Neumática: 6 bar en la línea
+
+#916
+Doseuse branchée sur prise
+Dosadora ligada na tomada
+插座供电的灌装机
+Дозатор с питанием от розетки
+Dozownik zasilany z gniazda
+Dugaljról működő adagológép
+Dosificadora conectada a toma
+
+#917
+La doseuse est branchée sur une prise et utilise de l'air comprimé pour la vanne à pincement. Remplacez la buse de dosage en toute sécurité.
+A dosadora está ligada em uma tomada e usa ar comprimido para a válvula de pinça. Substitua o bico de dosagem com segurança.
+灌装机插在插座上，并用压缩空气驱动夹管阀。请安全地更换灌装嘴。
+Дозатор подключён к розетке и использует сжатый воздух для пережимного клапана. Безопасно замените дозирующую насадку.
+Dozownik jest podłączony do gniazda i używa sprężonego powietrza do zaworu zaciskowego. Bezpiecznie wymień dyszę dozującą.
+Az adagológép dugaljba van dugva, és sűrített levegőt használ a szorítószelephez. Cserélje ki biztonságosan az adagolófúvókát.
+La dosificadora está enchufada a una toma y usa aire comprimido para la válvula de pinzamiento. Sustituya la boquilla dosificadora con seguridad.
+
+#918
+Prise 230 V
+Tomada 230 V
+230 V插座
+Розетка 230 В
+Gniazdo 230 V
+230 V-os aljzat
+Toma de 230 V
+
+#919
+Doseuse
+Dosadora
+灌装机
+Дозатор
+Dozownik
+Adagológép
+Dosificadora
+
+#920
+Fiche d'alimentation de la machine
+Plugue de alimentação da máquina
+机器电源插头
+Вилка питания машины
+Wtyczka zasilania maszyny
+A gép tápdugója
+Enchufe de alimentación de la máquina
+
+#921
+Raccord rapide d'air
+Engate rápido de ar
+快速气动接头
+Быстроразъёмное соединение воздуха
+Szybkozłącze powietrza
+Levegő gyorscsatlakozó
+Acoplamiento rápido de aire
+
+#922
+Interrupteur d'éclairage de la salle (éclairage uniquement)
+Interruptor de luz da sala (somente iluminação)
+房间灯开关（仅限照明）
+Выключатель света в помещении (только освещение)
+Włącznik światła w pomieszczeniu (tylko oświetlenie)
+Helyiség világításkapcsolója (csak világítás)
+Interruptor de luz de la sala (solo alumbrado)
+
+#923
+Électrique : 230 V à la machine
+Elétrica: 230 V na máquina
+电气：机器处230 V
+Электрическая: 230 В на машине
+Elektryczna: 230 V na maszynie
+Elektromos: 230 V a gépnél
+Eléctrica: 230 V en la máquina
+
+#924
+Pneumatique : 6 bar piégés après le raccord
+Pneumática: 6 bar retidos depois do engate
+气动：接头之后残留6 bar
+Пневматическая: 6 бар заперто после соединения
+Pneumatyczna: 6 bar uwięzione za złączem
+Pneumatikus: 6 bar rekedt a csatlakozó után
+Neumática: 6 bar atrapados tras el acoplamiento
+
+#925
+Libérer l'énergie stockée
+Liberar a energia armazenada
+释放储存的能量
+Сбросить накопленную энергию
+Uwolnij zmagazynowaną energię
+Tárolt energia kiengedése
+Liberar la energía almacenada
+
+#926
+Ce qu'est le LOTO
+O que é o LOTO
+什么是LOTO
+Что такое LOTO
+Czym jest LOTO
+Mi a LOTO
+Qué es el LOTO
+
+#927
+La consignation (lock-out tag-out) est la procédure qui rend une machine sûre pour intervenir : chaque source d'énergie est isolée, verrouillée par un cadenas personnel, étiquetée, libérée et vérifiée hors tension avant que quiconque y touche.
+Lock-out tag-out é o procedimento que torna uma máquina segura para trabalho: cada fonte de energia é isolada, bloqueada com um cadeado pessoal, etiquetada, liberada e comprovada sem tensão antes que alguém toque nela.
+上锁挂牌（lock-out tag-out）是使机器可以安全作业的程序：每个能量源都要隔离，用个人挂锁锁住，挂上标签，释放残余能量，并在任何人接触之前验证已无电。
+Lock-out tag-out — процедура, которая делает машину безопасной для работы: каждый источник энергии отключается, блокируется личным навесным замком, помечается биркой, сбрасывается накопленная энергия, и до того как кто-либо к ней прикоснётся, подтверждается отсутствие напряжения.
+Lock-out tag-out to procedura, która czyni maszynę bezpieczną do pracy: każde źródło energii jest odcinane, blokowane osobistą kłódką, oznaczane zawieszką, energia jest uwalniana i potwierdzany jest jej brak, zanim ktokolwiek jej dotknie.
+A lock-out tag-out az az eljárás, amely biztonságossá teszi a gépet a munkához: minden energiaforrást leválasztanak, személyi lakattal lezárnak, címkével látnak el, kiengedik a tárolt energiát, és feszültségmentességet igazolnak, mielőtt bárki hozzáér.
+El bloqueo y etiquetado (lock-out tag-out) es el procedimiento que hace segura una máquina para trabajar en ella: cada fuente de energía se aísla, se bloquea con un candado personal, se etiqueta, se libera y se comprueba sin tensión antes de que nadie la toque.
+
+#928
+Les six étapes
+Os seis passos
+六个步骤
+Шесть шагов
+Sześć kroków
+A hat lépés
+Los seis pasos
+
+#929
+1) Préparer : connaître les sources d'énergie, informer les personnes. 2) Arrêter normalement. 3) Isoler chaque source. 4) Verrouiller et étiqueter chaque point. 5) Libérer l'énergie stockée. 6) Vérifier : essayer de démarrer, puis prouver avec un testeur.
+1) Preparar: conhecer as fontes de energia, avisar as pessoas. 2) Desligar normalmente. 3) Isolar cada fonte. 4) Bloquear e etiquetar cada ponto. 5) Liberar a energia armazenada. 6) Verificar: tentar partir, depois comprovar com um testador.
+1）准备：了解能量源，通知相关人员。2）正常停机。3）隔离每一个能量源。4）给每个点上锁并挂标签。5）释放储存的能量。6）验证：尝试启动，然后用验电器证明无电。
+1) Подготовка: знать источники энергии, предупредить людей. 2) Обычная остановка. 3) Отключить каждый источник. 4) Заблокировать и пометить биркой каждую точку. 5) Сбросить накопленную энергию. 6) Проверка: попытаться запустить, затем подтвердить индикатором.
+1) Przygotowanie: poznaj źródła energii, poinformuj ludzi. 2) Normalne wyłączenie. 3) Odetnij każde źródło. 4) Zablokuj i oznacz każdy punkt. 5) Uwolnij zmagazynowaną energię. 6) Weryfikacja: spróbuj uruchomić, potem potwierdź testerem.
+1) Előkészítés: ismerje az energiaforrásokat, tájékoztassa az embereket. 2) Normál leállítás. 3) Válasszon le minden forrást. 4) Zárjon le és címkézzen minden pontot. 5) Engedje ki a tárolt energiát. 6) Ellenőrzés: próbálja elindítani, majd bizonyítsa vizsgálóval.
+1) Preparar: conocer las fuentes de energía, informar a las personas. 2) Parar normalmente. 3) Aislar cada fuente. 4) Bloquear y etiquetar cada punto. 5) Liberar la energía almacenada. 6) Verificar: intentar arrancar y luego comprobar con un comprobador.
+
+#930
+Types d'énergie
+Tipos de energia
+能量类型
+Виды энергии
+Rodzaje energii
+Energiafajták
+Tipos de energía
+
+#931
+Électrique, pneumatique, hydraulique, gravité (pièces relevées), tension de ressort, thermique, chimique, et énergie électrique stockée dans les condensateurs (un bus continu de variateur conserve jusqu'à environ 560 V pendant plusieurs minutes).
+Elétrica, pneumática, hidráulica, gravidade (partes elevadas), tensão de mola, térmica, química e energia elétrica armazenada em capacitores (o barramento CC de um inversor mantém até cerca de 560 V por minutos).
+电气、气动、液压、重力（被抬起的部件）、弹簧张力、热能、化学能，以及电容中储存的电能（变频器直流母线可在几分钟内保持高达约560 V）。
+Электрическая, пневматическая, гидравлическая, гравитация (поднятые части), натяжение пружин, тепловая, химическая и накопленная электрическая энергия в конденсаторах (шина постоянного тока преобразователя держит до примерно 560 В в течение нескольких минут).
+Elektryczna, pneumatyczna, hydrauliczna, grawitacja (uniesione części), naprężenie sprężyn, cieplna, chemiczna oraz energia elektryczna zmagazynowana w kondensatorach (szyna DC falownika utrzymuje do około 560 V przez kilka minut).
+Elektromos, pneumatikus, hidraulikus, gravitációs (felemelt részek), rugófeszültség, hő, kémiai, valamint a kondenzátorokban tárolt elektromos energia (a hajtás DC köztes köre percekig akár kb. 560 V-ot tart).
+Eléctrica, neumática, hidráulica, gravedad (piezas elevadas), tensión de muelles, térmica, química y energía eléctrica almacenada en condensadores (el bus de CC de un variador mantiene hasta unos 560 V durante minutos).
+
+#932
+Ce qui n'est PAS un isolement
+O que NÃO é isolamento
+什么不算隔离
+Что НЕ является отключением
+Co NIE jest odcięciem
+Ami NEM leválasztás
+Lo que NO es aislamiento
+
+#933
+Un bouton d'arrêt, un arrêt d'urgence, un sélecteur, une sortie d'automate ou un verrouillage logiciel est un dispositif de commande. Il peut tomber en panne ou être actionné par quelqu'un d'autre. Seul un dispositif qui coupe physiquement le trajet de l'énergie (sectionneur, disjoncteur, vanne, fiche débranchée) est un point d'isolement.
+Um botão de parada, uma parada de emergência, uma chave seletora, uma saída de CLP ou um intertravamento por software é um dispositivo de comando. Ele pode falhar ou ser acionado por outra pessoa. Somente um dispositivo que interrompe fisicamente o caminho da energia (seccionador, disjuntor, válvula, plugue desligado) é um ponto de isolamento.
+停止按钮、急停、选择开关、PLC输出或软件联锁都是控制装置。它们可能失效，也可能被别人按下。只有在物理上切断能量通路的装置（隔离开关、断路器、阀门、拔掉的插头）才是隔离点。
+Кнопка «Стоп», аварийный останов, переключатель, выход ПЛК или программная блокировка — это устройства управления. Они могут выйти из строя или быть нажаты кем-то другим. Точкой отключения является только устройство, которое физически разрывает путь энергии (разъединитель, автомат, кран, вынутая вилка).
+Przycisk stop, wyłącznik awaryjny, przełącznik wybierakowy, wyjście PLC lub blokada programowa to urządzenia sterownicze. Mogą zawieść lub zostać naciśnięte przez kogoś innego. Punktem odcięcia jest tylko urządzenie, które fizycznie przerywa drogę energii (rozłącznik, wyłącznik, zawór, wyciągnięta wtyczka).
+A stop gomb, a vészleállító, a választókapcsoló, a PLC-kimenet vagy a szoftveres reteszelés vezérlőeszköz. Meghibásodhat, vagy valaki más megnyomhatja. Csak az az eszköz leválasztási pont, amely fizikailag megszakítja az energia útját (szakaszoló, megszakító, szelep, kihúzott dugó).
+Un pulsador de paro, una parada de emergencia, un selector, una salida de PLC o un enclavamiento por software es un dispositivo de mando. Puede fallar o ser accionado por otra persona. Solo un dispositivo que rompe físicamente el camino de la energía (seccionador, interruptor, válvula, enchufe desenchufado) es un punto de aislamiento.
+
+#934
+Cadenas et clés
+Cadeados e chaves
+挂锁和钥匙
+Замки и ключи
+Kłódki i klucze
+Lakatok és kulcsok
+Candados y llaves
+
+#935
+Un cadenas, une clé, une personne. Votre clé reste avec vous. Vous ne retirez que votre propre cadenas. Si une personne n'est pas disponible, une procédure de retrait définie (superviseur, vérifications, inspection) est suivie ; les passe-partout et les coupe-boulons sont le dernier recours.
+Um cadeado, uma chave, uma pessoa. Sua chave fica com você. Você remove somente o seu próprio cadeado. Se uma pessoa não estiver disponível, segue-se um procedimento de remoção definido (supervisor, verificações, inspeção); chaves mestras e cortadores de vergalhão são o último recurso.
+一把锁、一把钥匙、一个人。你的钥匙始终在你身上。你只能拆自己的锁。如果某个人不在场，要按规定的拆除程序（主管、检查、巡视）处理；万能钥匙和断线钳是最后的手段。
+Один замок, один ключ, один человек. Ключ остаётся у вас. Вы снимаете только свой собственный замок. Если человека нет на месте, выполняется установленная процедура снятия (руководитель, проверки, осмотр); мастер-ключи и болторезы — крайняя мера.
+Jedna kłódka, jeden klucz, jedna osoba. Twój klucz zostaje przy Tobie. Zdejmujesz tylko własną kłódkę. Jeśli osoby nie ma, stosuje się określoną procedurę zdejmowania (przełożony, sprawdzenia, kontrola); klucze uniwersalne i nożyce do prętów to ostateczność.
+Egy lakat, egy kulcs, egy személy. A kulcs Önnél marad. Csak a saját lakatját veszi le. Ha egy személy nem érhető el, az előírt eltávolítási eljárást követik (felügyelő, ellenőrzések, szemle); a főkulcs és a csavarvágó az utolsó megoldás.
+Un candado, una llave, una persona. Su llave se queda con usted. Solo retira su propio candado. Si una persona no está disponible, se sigue un procedimiento de retirada definido (supervisor, comprobaciones, inspección); las llaves maestras y las cizallas son el último recurso.
+
+#936
+Étiquettes
+Etiquetas
+标签
+Бирки
+Zawieszki
+Címkék
+Etiquetas
+
+#937
+Une étiquette porte le nom du travailleur, la date, le motif et le contact. Elle est fixée sur chaque cadenas. L'étiquette seule (sans cadenas) n'est acceptée que lorsqu'un cadenas ne peut pas être posé, avec des mesures de sécurité supplémentaires.
+Uma etiqueta traz o nome do trabalhador, a data, o motivo e o contato. Ela é presa a cada cadeado. Somente etiqueta (sem cadeado) só é aceita quando não é possível instalar um cadeado, com salvaguardas extras.
+标签上写有作业人员姓名、日期、原因和联系方式，挂在每把锁上。只有在无法装锁时才接受只挂标签（不上锁），并且要有额外的保护措施。
+На бирке указываются имя работника, дата, причина и контакты. Она крепится к каждому замку. Только бирка (без замка) допускается лишь тогда, когда замок установить невозможно, и с дополнительными мерами защиты.
+Zawieszka zawiera imię i nazwisko pracownika, datę, powód i kontakt. Jest przymocowana do każdej kłódki. Sama zawieszka (bez kłódki) jest dopuszczalna tylko wtedy, gdy nie można założyć kłódki, z dodatkowymi zabezpieczeniami.
+A címke a dolgozó nevét, a dátumot, az okot és az elérhetőséget tartalmazza. Minden lakatra rákerül. Csak címke (lakat nélkül) csak akkor fogadható el, ha lakat nem szerelhető fel, további óvintézkedésekkel.
+Una etiqueta lleva el nombre del trabajador, la fecha, el motivo y el contacto. Se fija a cada candado. Solo etiqueta (sin candado) se acepta únicamente cuando no se puede colocar un candado, con salvaguardas adicionales.
+
+#938
+Consignation de groupe
+Bloqueio em grupo
+集体上锁
+Групповая блокировка
+Blokada grupowa
+Csoportos lezárás
+Bloqueo en grupo
+
+#939
+Chaque intervenant pose un cadenas personnel sur le moraillon de chaque point, ou sur une boîte de consignation de groupe qui contient les clés des cadenas des points. La machine ne revient en service que lorsque le dernier cadenas personnel est retiré.
+Cada trabalhador coloca um cadeado pessoal na presilha de cada ponto, ou em uma caixa de bloqueio em grupo que guarda as chaves dos cadeados dos pontos. A máquina só volta ao serviço quando o último cadeado pessoal é removido.
+每位作业人员在每个点的搭扣上加自己的个人挂锁，或者加在存放各点挂锁钥匙的集体锁箱上。只有最后一把个人挂锁拆除后，机器才能恢复运行。
+Каждый работник ставит личный замок на накладку каждой точки или на групповой замковый бокс, в котором лежат ключи от замков на точках. Машина возвращается в работу только после снятия последнего личного замка.
+Każdy pracownik zakłada osobistą kłódkę na zaczepie każdego punktu albo na skrzynce blokady grupowej, która przechowuje klucze od kłódek na punktach. Maszyna wraca do pracy dopiero po zdjęciu ostatniej osobistej kłódki.
+Minden dolgozó személyi lakatot tesz minden pont fülére, vagy egy csoportos lezárási dobozra, amely a pontok lakatjainak kulcsait tartja. A gép csak akkor állhat újra üzembe, ha az utolsó személyi lakatot is levették.
+Cada trabajador pone un candado personal en el pestillo de cada punto, o en una caja de bloqueo en grupo que guarda las llaves de los candados de los puntos. La máquina vuelve al servicio solo cuando se retira el último candado personal.
+
+#940
+Vérification
+Verificação
+验证
+Проверка
+Weryfikacja
+Ellenőrzés
+Verificación
+
+#941
+Essayez de démarrer la machine depuis ses commandes normales (tout le monde à l'écart), puis prouvez avec un testeur : testez sur une source connue sous tension, testez chaque paire et vers la terre, testez à nouveau la source connue. Contrôlez les manomètres pour la pression de fluide et le bus continu du variateur. Ne vous fiez pas à un seul résultat.
+Tente partir a máquina pelos comandos normais (com todos afastados) e depois comprove com um testador: teste em uma fonte energizada conhecida, teste cada par e para a terra, teste a fonte conhecida de novo. Verifique os manômetros para pressão de fluido e o barramento CC do inversor. Não confie em um único resultado.
+用正常的控制方式尝试启动机器（所有人都要离开），然后用验电器验证：先在已知带电的电源上测试，再测每一对及对地，再测一次已知电源。检查压力表的液体压力和变频器直流母线。不要只相信一次结果。
+Попытайтесь запустить машину штатными органами управления (все отошли), затем подтвердите индикатором: проверьте на заведомо находящемся под напряжением источнике, проверьте каждую пару и на землю, снова проверьте известный источник. Проверьте манометры на давление жидкости и шину постоянного тока преобразователя. Не доверяйте единственному результату.
+Spróbuj uruchomić maszynę z jej normalnych sterowań (wszyscy z dala), a potem potwierdź testerem: przetestuj na znanym źródle pod napięciem, przetestuj każdą parę i do ziemi, przetestuj znane źródło ponownie. Sprawdź manometry pod kątem ciśnienia płynu i szynę DC falownika. Nie ufaj pojedynczemu wynikowi.
+Próbálja elindítani a gépet a normál vezérlőiről (mindenki távol van), majd bizonyítsa vizsgálóval: próbálja ki ismert feszültség alatti forráson, vizsgáljon meg minden párt és a föld felé, majd próbálja ki újra az ismert forrást. Ellenőrizze a manométereket a folyadéknyomásra és a hajtás DC köztes körét. Ne bízzon egyetlen eredményben.
+Intente arrancar la máquina desde sus mandos normales (con todos apartados) y luego compruebe con un comprobador: pruebe en una fuente con tensión conocida, pruebe cada par y a tierra, y pruebe de nuevo la fuente conocida. Revise los manómetros para la presión de fluido y el bus de CC del variador. No se fíe de un solo resultado.
+
+#942
+Côté alimentation
+Lado da alimentação
+电源侧
+Сторона питания
+Strona zasilania
+Betáplálási oldal
+Lado de alimentación
+
+#943
+toujours sous tension
+sempre energizado
+始终带电
+всегда под напряжением
+zawsze pod napięciem
+mindig feszültség alatt
+siempre con tensión
+
+#944
+Côté charge
+Lado da carga
+负载侧
+Сторона нагрузки
+Strona obciążenia
+Terhelési oldal
+Lado de carga
+
+#945
+Étiquette de calibre
+Etiqueta de classificação
+额定值标签
+Табличка с номиналом
+Etykieta z parametrami
+Névleges értékcímke
+Etiqueta de calibre
+
+#946
+C16 = déclenche à 16 A thermique, magnétique entre 5 et 10 fois le calibre. L'IEC 60898 est la norme domestique / industrie légère.
+C16 = dispara a 16 A térmico, magnético de 5 a 10 vezes o valor nominal. A IEC 60898 é a norma residencial / indústria leve.
+C16 = 热脱扣在16 A，磁脱扣在额定值的5到10倍。IEC 60898是民用 / 轻工业标准。
+C16 = срабатывает тепловой расцепитель на 16 А, электромагнитный при 5–10-кратном токе номинала. IEC 60898 — стандарт для бытового и лёгкого промышленного применения.
+C16 = wyzwala się termicznie przy 16 A, magnetycznie przy 5 do 10-krotności wartości znamionowej. IEC 60898 to norma dla instalacji domowych i lekkiego przemysłu.
+C16 = termikusan 16 A-nél old ki, mágnesesen a névleges érték 5-10-szeresénél. Az IEC 60898 a háztartási / könnyűipari szabvány.
+C16 = dispara térmicamente a 16 A, magnéticamente entre 5 y 10 veces el calibre. La IEC 60898 es la norma doméstica / de industria ligera.
+
+#947
+Bornes
+Terminais
+端子
+Клеммы
+Zaciski
+Kapcsok
+Bornes
+
+#948
+L'arrivée d'alimentation en haut reste sous tension sur la vis de borne même quand le disjoncteur est sur OFF. Considérez le haut comme sous tension.
+A entrada de alimentação no topo continua energizada no parafuso do terminal mesmo com o disjuntor em OFF. Trate a parte de cima como energizada.
+即使断路器在OFF位置，上方进线端子的螺钉上仍然带电。要把上方视为带电。
+Входящее питание сверху остаётся под напряжением на винте клеммы даже когда автомат выключен. Считайте верхнюю часть находящейся под напряжением.
+Wejściowe zasilanie u góry pozostaje pod napięciem na śrubie zacisku, nawet gdy wyłącznik jest w pozycji OFF. Traktuj górę jako będącą pod napięciem.
+A felső bejövő betáplálás a kapocscsavaron akkor is feszültség alatt marad, ha a megszakító KI állásban van. A felső részt tekintse feszültség alatt állónak.
+La entrada de alimentación de arriba sigue con tensión en el tornillo del borne incluso con el interruptor en OFF. Trate la parte superior como con tensión.
+
+#949
+Borne
+Terminal
+端子
+Клемма
+Zacisk
+Kapocs
+Borne
+
+#950
+La vis d'alimentation. Toujours sous tension du côté du jeu de barres.
+O parafuso da alimentação. Sempre energizado pelo lado do barramento.
+电源进线螺钉。母排侧始终带电。
+Винт подвода питания. Всегда под напряжением со стороны шины.
+Śruba zasilania. Zawsze pod napięciem od strony szyny zbiorczej.
+A betáplálás csavarja. A gyűjtősín felől mindig feszültség alatt van.
+El tornillo de alimentación. Siempre con tensión desde el lado del embarrado.
+
+#951
+Bilame (thermique)
+Bimetal (térmico)
+双金属片（热脱扣）
+Биметалл (тепловой)
+Bimetal (termiczny)
+Bimetál (termikus)
+Bimetal (térmico)
+
+#952
+Chauffe et se courbe avec le courant de surcharge. Lent : déclenche en quelques secondes à quelques minutes.
+Aquece e se curva com a corrente de sobrecarga. Lento: dispara em segundos a minutos.
+过载电流使其发热并弯曲。动作慢：几秒到几分钟内脱扣。
+Нагревается и изгибается от тока перегрузки. Медленный: срабатывает за секунды или минуты.
+Nagrzewa się i wygina pod wpływem prądu przeciążeniowego. Powolny: wyzwala się w ciągu sekund do minut.
+Túláram hatására felmelegszik és elhajlik. Lassú: másodpercek vagy percek alatt old ki.
+Se calienta y se curva con la corriente de sobrecarga. Lento: dispara en segundos o minutos.
+
+#953
+Bobine et plongeur (magnétique)
+Bobina e êmbolo (magnético)
+线圈和衔铁（磁脱扣）
+Катушка и плунжер (электромагнитный)
+Cewka i tłoczek (magnetyczny)
+Tekercs és dugattyú (mágneses)
+Bobina y núcleo (magnético)
+
+#954
+Un court-circuit éjecte le plongeur en quelques millisecondes et ouvre les contacts.
+Um curto-circuito lança o êmbolo em milissegundos e abre os contatos.
+短路时衔铁在几毫秒内弹出，使触点断开。
+Короткое замыкание выбрасывает плунжер за миллисекунды и размыкает контакты.
+Zwarcie wyrzuca tłoczek w ciągu milisekund i otwiera styki.
+Zárlat esetén a dugattyú ezredmásodpercek alatt kilökődik, és megnyitja az érintkezőket.
+Un cortocircuito expulsa el núcleo en milisegundos y abre los contactos.
+
+#955
+Contacts
+Contatos
+触点
+Контакты
+Styki
+Érintkezők
+Contactos
+
+#956
+Chambre de coupure
+Câmara de extinção
+灭弧室
+Дугогасительная камера
+Komora gaszeniowa
+Ívoltó kamra
+Cámara de extinción
+
+#957
+Des plaques d'acier divisent et refroidissent l'arc quand les contacts s'ouvrent en charge.
+Placas de aço dividem e resfriam o arco quando os contatos abrem sob carga.
+触点带载断开时，钢片把电弧分割并冷却。
+Стальные пластины разделяют и охлаждают дугу, когда контакты размыкаются под нагрузкой.
+Stalowe płytki dzielą i chłodzą łuk, gdy styki otwierają się pod obciążeniem.
+Az acéllemezek feldarabolják és lehűtik az ívet, amikor az érintkezők terhelés alatt nyitnak.
+Las placas de acero dividen y enfrían el arco cuando los contactos se abren bajo carga.
+
+#958
+Barre de liaison de déclenchement
+Barra de acoplamento do disparo
+脱扣联动杆
+Соединительная планка расцепления
+Łącznik wyzwalania
+Kioldó összekötő rúd
+Barra de unión de disparo
+
+#959
+Si un pôle déclenche, cette barre ouvre tous les pôles. Un moteur triphasé ne doit jamais continuer à tourner sur deux phases.
+Se um polo dispara, esta barra abre todos os polos. Um motor trifásico nunca deve continuar funcionando com duas fases.
+一极脱扣时，这根杆会使所有极都断开。三相电机绝不能在缺相（两相）状态下继续运转。
+Если срабатывает один полюс, эта планка размыкает все полюса. Трёхфазный двигатель ни в коем случае не должен продолжать работать на двух фазах.
+Jeśli wyzwoli się jeden biegun, ten łącznik otwiera wszystkie bieguny. Silnik trójfazowy nigdy nie może dalej pracować na dwóch fazach.
+Ha az egyik pólus kiold, ez a rúd az összes pólust megnyitja. A háromfázisú motor soha nem járhat tovább két fázison.
+Si un polo dispara, esta barra abre todos los polos. Un motor trifásico nunca debe seguir funcionando con dos fases.
+
+#960
+Après avoir mis sur OFF, testez le côté charge avec un testeur bipolaire entre toutes les paires et vers la terre.
+Depois de colocar em OFF, teste o lado da carga com um testador bipolar entre todos os pares e para a terra.
+切换到OFF之后，用双极验电器在负载侧的每一对之间以及对地进行测试。
+После перевода в положение OFF проверьте сторону нагрузки двухполюсным указателем по каждой паре и на землю.
+Po przełączeniu na OFF przetestuj stronę obciążenia testerem dwubiegunowym między każdą parą i do ziemi.
+KI kapcsolás után vizsgálja meg a terhelési oldalt kétpólusú vizsgálóval minden pár között és a föld felé.
+Tras pasar a OFF, pruebe el lado de carga con un comprobador bipolar entre cada par y a tierra.
+
+#961
+Le côté alimentation du disjoncteur reste sous tension. Ne touchez jamais ses bornes supérieures.
+O lado da alimentação do disjuntor continua energizado. Nunca toque nos terminais superiores.
+断路器的电源侧仍然带电。绝不要触摸它的上方端子。
+Сторона питания автомата остаётся под напряжением. Никогда не касайтесь его верхних клемм.
+Strona zasilania wyłącznika pozostaje pod napięciem. Nigdy nie dotykaj jego górnych zacisków.
+A megszakító betáplálási oldala feszültség alatt marad. Soha ne érjen a felső kapcsaihoz.
+El lado de alimentación del interruptor sigue con tensión. No toque nunca sus bornes superiores.
+
+#962
+Poser le cadenas sur la porte de l'armoire mais pas sur le levier du disjoncteur.
+Colocar o cadeado na porta do painel mas não na alavanca do disjuntor.
+把挂锁挂在柜门上，而不是挂在断路器拨杆上。
+Ставить замок на дверцу шкафа, а не на рычажок автомата.
+Zakładanie kłódki na drzwi szafy, a nie na dźwignię wyłącznika.
+A lakatot a szekrényajtóra teszik, de nem a megszakító karjára.
+Poner el candado en la puerta del cuadro pero no en la palanca del interruptor.
+
+#963
+Utiliser un disjoncteur déclenché comme point d'isolement : un disjoncteur déclenché peut être réarmé par quelqu'un d'autre.
+Usar um disjuntor que desarmou como ponto de isolamento: um disjuntor desarmado pode ser rearmado por outra pessoa.
+把已经脱扣的断路器当作隔离点：脱扣的断路器可以被别人合闸复位。
+Использовать сработавший автомат как точку отключения: сработавший автомат может быть взведён кем-то другим.
+Używanie wyłącznika, który zadziałał, jako punktu odcięcia: wyłącznik po zadziałaniu może zostać załączony przez kogoś innego.
+Kioldott megszakító használata leválasztási pontként: a kioldott megszakítót más visszakapcsolhatja.
+Usar un interruptor que ha saltado como punto de aislamiento: un interruptor disparado puede ser rearmado por otra persona.
+
+#964
+Oublier que les bornes du disjoncteur au-dessus sont sous tension.
+Esquecer que os terminais do disjuntor acima estão energizados.
+忘记上方的断路器端子是带电的。
+Забыть, что клеммы автомата сверху находятся под напряжением.
+Zapomnienie, że zaciski wyłącznika powyżej są pod napięciem.
+Elfelejteni, hogy a megszakító felső kapcsai feszültség alatt vannak.
+Olvidar que los bornes superiores del interruptor tienen tensión.
+
+#965
+IEC 60947-2 / 60898. Un disjoncteur à poignée verrouillable n'est accepté comme point d'isolement que s'il est marqué comme apte à l'isolement.
+IEC 60947-2 / 60898. Um disjuntor com manípulo bloqueável só é aceito como ponto de isolamento se for marcado como adequado para isolamento.
+IEC 60947-2 / 60898。只有标明适合隔离的断路器，其可上锁的手柄才被认可作为隔离点。
+IEC 60947-2 / 60898. Автомат с запираемой рукояткой принимается как точка отключения только если он маркирован как пригодный для разъединения.
+IEC 60947-2 / 60898. Wyłącznik z blokowaną rączką jest uznawany za punkt odcięcia tylko wtedy, gdy jest oznaczony jako nadający się do izolacji.
+IEC 60947-2 / 60898. A lezárható karú megszakítót csak akkor fogadják el leválasztási pontként, ha megjelölték leválasztásra alkalmasként.
+IEC 60947-2 / 60898. Un interruptor con palanca bloqueable solo se acepta como punto de aislamiento si está marcado como apto para aislamiento.
+
+#966
+Un disjoncteur sur rail DIN qui protège un circuit et le commute aussi. Un disjoncteur unipolaire n'ouvre que le fil de phase. Pour l'isolement monophasé, un appareil bipolaire (phase et neutre) est préférable. Le clip sur le levier le maintient sur OFF.
+Um disjuntor de trilho DIN que protege um circuito e também o liga e desliga. Um disjuntor unipolar abre somente o fio de fase. Para isolamento monofásico, um dispositivo bipolar (fase e neutro) é melhor. O clipe sobre a alavanca o mantém em OFF.
+一种DIN导轨断路器，既保护一条回路，也用来通断它。单极断路器只断开相线。对于单相隔离，双极器件（相线加零线）更好。拨杆上的卡扣使其保持在OFF。
+Автомат на DIN-рейке, который защищает цепь и одновременно её коммутирует. Однополюсный автомат размыкает только фазный провод. Для однофазного отключения лучше двухполюсное устройство (фаза и ноль). Фиксатор на рычажке удерживает его в положении OFF.
+Wyłącznik na szynie DIN, który chroni obwód i jednocześnie go załącza. Wyłącznik jednobiegunowy otwiera tylko przewód fazowy. Do odcięcia jednofazowego lepsze jest urządzenie dwubiegunowe (faza i neutralny). Zaślepka na dźwigni utrzymuje go w pozycji OFF.
+Egy DIN-sínes megszakító, amely véd egy áramkört, és kapcsolja is azt. Az egypólusú megszakító csak a fázisvezetőt nyitja. Egyfázisú leválasztáshoz a kétpólusú eszköz (fázis és nulla) jobb. A karon lévő klip KI állásban tartja.
+Un magnetotérmico de carril DIN que protege un circuito y también lo conmuta. Un interruptor unipolar solo abre el cable de fase. Para el aislamiento monofásico es mejor un dispositivo bipolar (fase y neutro). El clip sobre la palanca lo mantiene en OFF.
+
+#967
+Alimente : circuits de prises ou d'éclairage, 230 V.
+Alimenta: circuitos de tomadas ou de iluminação, 230 V.
+供电对象：插座或照明回路，230 V。
+Питает: розеточные или осветительные цепи, 230 В.
+Zasila: obwody gniazd lub oświetlenia, 230 V.
+Táplál: dugalj- vagy világítási áramköröket, 230 V.
+Alimenta: circuitos de tomas o de alumbrado, 230 V.
+
+#968
+Mettez le disjoncteur sur OFF.
+Coloque o disjuntor em OFF.
+把断路器拨到OFF。
+Переведите автомат в положение OFF.
+Przełącz wyłącznik na OFF.
+Kapcsolja a megszakítót KI állásba.
+Ponga el interruptor en OFF.
+
+#969
+Posez le clip de consignation de disjoncteur sur le levier.
+Instale o clipe de bloqueio do disjuntor sobre a alavanca.
+把断路器锁扣卡在拨杆上。
+Наденьте блокирующий фиксатор автомата на рычажок.
+Załóż zaślepkę blokującą wyłącznika na dźwignię.
+Tegye a megszakító lezáró klipet a karra.
+Coloque el clip de bloqueo del interruptor sobre la palanca.
+
+#970
+Ajoutez votre cadenas et votre étiquette.
+Adicione seu cadeado e sua etiqueta.
+加上你的挂锁和标签。
+Добавьте свой замок и бирку.
+Dodaj swoją kłódkę i zawieszkę.
+Tegye fel a lakatját és a címkéjét.
+Añada su candado y su etiqueta.
+
+#971
+Disjoncteur unipolaire (monophasé, modulaire)
+Disjuntor unipolar (monofásico, miniatura)
+单极断路器（单相，微型）
+Однополюсный автомат (однофазный, модульный)
+Wyłącznik jednobiegunowy (jednofazowy, nadprądowy)
+Egypólusú megszakító (egyfázisú, kismegszakító)
+Interruptor unipolar (monofásico, magnetotérmico)
+
+#972
+Deux pôles liés ensemble. Utilisé pour des charges biphasées (400 V entre L1 et L2) ou en monophasé avec coupure du neutre. Les deux pôles s'ouvrent ensemble, et la poignée liée se verrouille avec une seule barre.
+Dois polos ligados juntos. Usado para cargas bifásicas (400 V entre L1 e L2) ou monofásicas com chaveamento do neutro. Os dois polos abrem juntos, e o manípulo unido é bloqueado com uma única barra.
+两个极联动。用于两相负载（L1和L2之间400 V），或带零线断开的单相。两个极同时断开，联动手柄用一根杆就能锁住。
+Два полюса, связанные вместе. Применяется для двухфазных нагрузок (400 В между L1 и L2) или однофазных с коммутацией нуля. Оба полюса размыкаются вместе, а общая рукоятка блокируется одной планкой.
+Dwa bieguny połączone razem. Używany do obciążeń dwufazowych (400 V między L1 i L2) lub jednofazowych z przełączaniem przewodu neutralnego. Oba bieguny otwierają się razem, a połączona rączka jest blokowana jedną listwą.
+Két pólus összekötve. Kétfázisú terhelésekhez (400 V L1 és L2 között) vagy a nullavezetőt is kapcsoló egyfázisú terhelésekhez használják. Mindkét pólus együtt nyit, és az összekötött kart egyetlen rúddal lehet lezárni.
+Dos polos unidos. Se usa para cargas bifásicas (400 V entre L1 y L2) o monofásicas con corte del neutro. Los dos polos se abren juntos y la palanca unida se bloquea con una sola barra.
+
+#973
+Alimente : petits chauffages, charges biphasées 400 V, ou 230 V avec isolement du neutre.
+Alimenta: pequenos aquecedores, cargas bifásicas de 400 V ou 230 V com isolamento do neutro.
+供电对象：小型加热器、400 V两相负载，或带零线隔离的230 V。
+Питает: небольшие нагреватели, двухфазные нагрузки 400 В или 230 В с отключением нуля.
+Zasila: małe grzejniki, obciążenia dwufazowe 400 V lub 230 V z odcięciem przewodu neutralnego.
+Táplál: kis fűtőtesteket, 400 V-os kétfázisú terheléseket vagy 230 V-ot nullavezető-leválasztással.
+Alimenta: pequeños calefactores, cargas bifásicas de 400 V o 230 V con aislamiento del neutro.
+
+#974
+Mettez la poignée liée sur OFF.
+Coloque o manípulo unido em OFF.
+把联动手柄拨到OFF。
+Переведите общую рукоятку в положение OFF.
+Przełącz połączoną rączkę na OFF.
+Kapcsolja KI az összekötött kart.
+Ponga la palanca unida en OFF.
+
+#975
+Posez la barre de consignation multipolaire sur les deux leviers.
+Instale a barra de bloqueio multipolar sobre as duas alavancas.
+把多极锁杆装在两个拨杆上。
+Установите многополюсную блокирующую планку на оба рычажка.
+Załóż wielobiegunową listwę blokującą na obie dźwignie.
+Tegye a többpólusú lezáró rudat mindkét karra.
+Coloque la barra de bloqueo multipolar sobre las dos palancas.
+
+#976
+Disjoncteur bipolaire (deux phases ou phase + neutre)
+Disjuntor bipolar (duas fases ou fase + neutro)
+双极断路器（两相或相线+零线）
+Двухполюсный автомат (две фазы или фаза + ноль)
+Wyłącznik dwubiegunowy (dwie fazy lub faza + neutralny)
+Kétpólusú megszakító (két fázis vagy fázis + nulla)
+Interruptor bipolar (dos fases o fase + neutro)
+
+#977
+Trois pôles avec une barre de déclenchement commune. Il protège et commute un circuit triphasé. Une barre sur les trois leviers liés les maintient tous sur OFF, et un cadenas sur la barre suffit pour une personne.
+Três polos com uma barra de disparo comum. Protege e liga/desliga um circuito trifásico. Uma barra sobre as três alavancas unidas as mantém em OFF, e um cadeado na barra basta para uma pessoa.
+三个极共用一根脱扣联动杆。它保护并通断一条三相回路。一根杆压住三个联动拨杆，把它们全部固定在OFF，一个人只需要在杆上挂一把挂锁。
+Три полюса с общей планкой расцепления. Защищает и коммутирует трёхфазную цепь. Планка поверх трёх связанных рычажков удерживает их все в положении OFF, и одного замка на планке достаточно для одного человека.
+Trzy bieguny ze wspólnym łącznikiem wyzwalania. Chroni i załącza obwód trójfazowy. Listwa na trzech połączonych dźwigniach utrzymuje je wszystkie w pozycji OFF, a jedna kłódka na listwie wystarcza dla jednej osoby.
+Három pólus közös kioldó rúddal. Véd és kapcsol egy háromfázisú áramkört. A három összekötött karon lévő rúd mindet KI állásban tartja, és egy személynek egy lakat elég a rúdon.
+Tres polos con una barra de disparo común. Protege y conmuta un circuito trifásico. Una barra sobre las tres palancas unidas las mantiene todas en OFF, y un candado en la barra basta para una persona.
+
+#978
+Alimente : moteurs et armoires triphasés, 400 V.
+Alimenta: motores e painéis trifásicos, 400 V.
+供电对象：三相电机和配电柜，400 V。
+Питает: трёхфазные двигатели и щиты, 400 В.
+Zasila: silniki trójfazowe i szafy, 400 V.
+Táplál: háromfázisú motorokat és szekrényeket, 400 V.
+Alimenta: motores y cuadros trifásicos, 400 V.
+
+#979
+Mettez les trois leviers liés sur OFF.
+Coloque as três alavancas unidas em OFF.
+把三个联动拨杆拨到OFF。
+Переведите три связанных рычажка в положение OFF.
+Przełącz trzy połączone dźwignie na OFF.
+Kapcsolja KI a három összekötött kart.
+Ponga las tres palancas unidas en OFF.
+
+#980
+Posez la barre de consignation 3 pôles.
+Instale a barra de bloqueio de 3 polos.
+装上三极锁杆。
+Установите блокирующую планку на 3 полюса.
+Załóż listwę blokującą 3-biegunową.
+Tegye fel a 3 pólusú lezáró rudat.
+Coloque la barra de bloqueo de 3 polos.
+
+#981
+Ajoutez votre cadenas et votre étiquette. Si plusieurs personnes travaillent, ajoutez un moraillon.
+Adicione seu cadeado e sua etiqueta. Se várias pessoas trabalham, adicione uma presilha.
+加上你的挂锁和标签。如果有多人作业，再加一个搭扣。
+Добавьте свой замок и бирку. Если работают несколько человек, добавьте накладку.
+Dodaj swoją kłódkę i zawieszkę. Jeśli pracuje kilka osób, dodaj zaczep.
+Tegye fel a lakatját és a címkéjét. Ha többen dolgoznak, tegyen fel egy fület.
+Añada su candado y su etiqueta. Si trabajan varias personas, añada un pestillo.
+
+#982
+Disjoncteur tripolaire (triphasé, modulaire)
+Disjuntor tripolar (trifásico, miniatura)
+三极断路器（三相，微型）
+Трёхполюсный автомат (трёхфазный, модульный)
+Wyłącznik trójbiegunowy (trójfazowy, nadprądowy)
+Háromsarkú megszakító (háromfázisú, kismegszakító)
+Interruptor tripolar (trifásico, magnetotérmico)
+
+#983
+Disjoncteur à boîtier moulé (MCCB, 3 pôles)
+Disjuntor de caixa moldada (MCCB, 3 polos)
+塑壳断路器（MCCB，三极）
+Автоматический выключатель в литом корпусе (MCCB, 3 полюса)
+Wyłącznik mocy w obudowie z tworzywa (MCCB, 3 bieguny)
+Öntött házas megszakító (MCCB, 3 pólus)
+Interruptor de caja moldeada (MCCB, 3 polos)
+
+#984
+Le gros disjoncteur d'un tableau général. Il a une large poignée à trois positions : ON, OFF et DÉCLENCHÉ (milieu). Un disjoncteur déclenché n'est pas isolé : quelqu'un peut le réarmer. Verrouillez-le en position OFF avec un clip pour poignée large. Ses réglages de déclenchement sont ajustables par molettes.
+O disjuntor grande de um painel geral. Tem um manípulo largo com três posições: ON, OFF e DESARMADO (meio). Um disjuntor desarmado não está isolado: alguém pode rearmá-lo. Bloqueie na posição OFF com um clipe de manípulo largo. Os ajustes de disparo são reguláveis por seletores.
+总配电柜里的大型断路器。手柄宽大，有三个位置：ON、OFF和脱扣（中间）。脱扣状态的断路器并没有隔离：别人可以将其复位。要用宽手柄锁扣把它锁在OFF位置。它的脱扣整定值可用旋钮调节。
+Большой автомат в главном щите. У него широкая рукоятка с тремя положениями: ON, OFF и СРАБОТАЛ (посередине). Сработавший автомат не считается отключённым: кто-то может его взвести. Заблокируйте его в положении OFF фиксатором для широкой рукоятки. Уставки расцепления регулируются поворотными регуляторами.
+Duży wyłącznik w rozdzielnicy głównej. Ma szeroką rączkę z trzema położeniami: ON, OFF i ZADZIAŁAŁ (środek). Wyłącznik po zadziałaniu nie jest odcięty: ktoś może go załączyć. Zablokuj go w pozycji OFF zaślepką na szeroką rączkę. Jego nastawy wyzwalania są regulowane pokrętłami.
+A főelosztó nagy megszakítója. Széles karja három állású: BE, KI és KIOLDOTT (középen). A kioldott megszakító nincs leválasztva: valaki visszakapcsolhatja. Zárja le KI állásban széles karhoz való klippel. A kioldási beállításai tárcsákkal állíthatók.
+El interruptor grande de un cuadro general. Tiene una palanca ancha con tres posiciones: ON, OFF y DISPARADO (centro). Un interruptor disparado no está aislado: alguien puede rearmarlo. Bloquéelo en la posición OFF con un clip para palanca ancha. Sus ajustes de disparo se regulan con selectores.
+
+#985
+Alimente : une machine ou un sous-tableau, jusqu'à des centaines d'ampères.
+Alimenta: uma máquina ou um subpainel, até centenas de ampères.
+供电对象：一台机器或一个分配电柜，可达数百安培。
+Питает: машину или подщит, до сотен ампер.
+Zasila: maszynę lub podrozdzielnicę, do setek amperów.
+Táplál: egy gépet vagy alelosztót, akár több száz amperig.
+Alimenta: una máquina o un subcuadro, hasta cientos de amperios.
+
+#986
+Poignée large
+Manípulo largo
+宽手柄
+Широкая рукоятка
+Szeroka rączka
+Széles kar
+Palanca ancha
+
+#987
+Trois positions : ON, OFF et DÉCLENCHÉ (milieu). Après un déclenchement, il faut le pousser à fond sur OFF puis sur ON. Le clip de consignation le maintient sur OFF.
+Três posições: ON, OFF e DESARMADO (meio). Após um disparo, é preciso empurrá-lo totalmente para OFF e depois para ON. O clipe de bloqueio o mantém em OFF.
+三个位置：ON、OFF和脱扣（中间）。脱扣后必须先完全推到OFF，再推到ON。锁扣使其保持在OFF。
+Три положения: ON, OFF и СРАБОТАЛ (посередине). После срабатывания его нужно полностью перевести в OFF, а затем в ON. Блокирующий фиксатор удерживает его в положении OFF.
+Trzy położenia: ON, OFF i ZADZIAŁAŁ (środek). Po zadziałaniu trzeba go docisnąć do końca do OFF, a potem na ON. Zaślepka blokująca utrzymuje go w pozycji OFF.
+Három állás: BE, KI és KIOLDOTT (középen). Kioldás után teljesen KI-re, majd BE-re kell nyomni. A lezáró klip KI állásban tartja.
+Tres posiciones: ON, OFF y DISPARADO (centro). Tras un disparo hay que empujarlo del todo a OFF y luego a ON. El clip de bloqueo lo mantiene en OFF.
+
