@@ -1,7 +1,9 @@
-﻿# Electrical training lab
+# Electrical training lab
 
-Offline PWA for Servier maintenance training: electrical bench, LOTO practice board, PCB repair and inspection trainer.
+Offline training app for maintenance teams: electrical bench with meters, projects (panel + process plant + PLC ladder), LOTO practice board, PCB repair and inspection.
 
-Open it here: https://momenfouad93.github.io/electrical-lab/
+Open it: https://momenfouad93.github.io/electrical-lab/
 
-On iPhone (Safari) or Android (Chrome): open the link, then "Add to Home Screen" / "Install app". It then runs full-screen, offline, like an installed program.
+Phone: open the link in Safari (iPhone) or Chrome (Android), then Share > "Add to Home Screen" (iPhone) or menu > "Install app" (Android). It runs full-screen and offline, and updates itself when there is internet.
+
+Laptop without installing: download `electrical-lab.html` and open it in Edge or Chrome.

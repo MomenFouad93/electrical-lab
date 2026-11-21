@@ -1,6 +1,6 @@
 ELECTRICAL TRAINING LAB - installable web app (PWA)
 ====================================================
-Owner: Mo'men Fouad, Maintenance / Automation, Cairo site
+Owner: Mo'men Fouad, Maintenance / Automation
 
 WHAT THIS IS
 A training tool for maintenance teams: electrical bench simulator, LOTO practice board,
@@ -51,12 +51,20 @@ HOW USERS INSTALL IT (after it is hosted)
   Android, Chrome: open the address, menu > "Install app" / "Add to Home screen".
 After the first open it also works with no network.
 
-HOW TO UPDATE IT
-Replace index.html with the new one and change the VERSION text on line 2 of sw.js
-(for example to the new date). Users get the new version the next time they open the
-app while online.
+HOW UPDATES REACH USERS
+The page is loaded network-first by the service worker, and the app checks version.json
+when it opens and when it comes back to the screen. When a newer build is published, users
+see "A new version is ready - Update now". Offline, the last downloaded version keeps working.
+To publish: replace the files (index.html, sw.js, version.json, ...) from the new build.
+
+SECURITY
+  - Content-Security-Policy (meta tag) with script hashes: only the shipped script can run,
+    no external scripts, network only to this site (and api.anthropic.com only if a user
+    enters their own key for the optional AI photo check).
+  - Files a user opens (projects, circuits) are size-capped and cleaned before use.
+  - No cookies, no accounts, no tracking. HTTPS is enforced by the host.
 
 TESTED
-Service worker installs, manifest is valid, and the app reloads and runs fully offline
-(checked in Chromium, phone-size screen, 11 Nov 2026). Not yet tested on the company
-network or on a real iPhone install.
+Chromium desktop and phone size, 21 Nov 2026: service worker, offline reload, update bar,
+no CSP violations across all tabs, hostile project files run no code.
+Not yet tested on the company network or a managed (MDM) iPhone.
