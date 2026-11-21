@@ -6,8 +6,9 @@
   const KEY = 'ellab.projects', MAXP = 30;
 
   /* ---------- bench view switch ---------- */
-  const VIEWS = [['panel', ['Panel', 'اللوحة']], ['plant', ['Plant', 'العملية']], ['ladder', ['Ladder', 'اللادر']]];
+  const VIEWS = [['panel', ['Panel', 'اللوحة']], ['plant', ['Plant', 'العملية']], ['line', ['Line', 'الخط']]];
   function setView(v) {
+    if (v === 'ladder') { ui.show('prog'); return; }
     if (!VIEWS.some((x) => x[0] === v)) v = 'panel';
     const b = B(), prev = b.view;
     b.view = v;
@@ -16,15 +17,15 @@
     if (b.rebuildPalette) b.rebuildPalette();
     if (v === 'panel') { requestAnimationFrame(() => { if (b._fitPanel) { b._fitPanel = false; b.ed.fit(); } else b.ed.applyView(); }); b.inspector(b.ed); if (b.ed.hint) b.ed.hint(''); }
     if (v === 'plant') { ui.plant.render(true); if (prev !== 'plant' && !setView.fitted) { setView.fitted = true; requestAnimationFrame(() => ui.plant.fit()); } ui.plant.inspector(); }
-    if (v === 'ladder') { ui.ladder.render(); }
     if (v !== 'plant' && ui.plant.pending) { ui.plant.pending = null; }
+    if (v === 'line') { ui.line.render(true); if (prev !== 'line' && !setView.lfit) { setView.lfit = true; requestAnimationFrame(() => ui.line.fit()); } ui.line.inspector(); }
     try { localStorage.setItem('ellab.bview', v); } catch (e) {}
   }
   function hookBench() {
     const b = B();
     b.view = 'panel';
     b.setView = setView;
-    b.sideFor = function () { if (b.view === 'plant') ui.plant.inspector(); else if (b.view === 'ladder') ui.ladder.side(true); };
+    b.sideFor = function () { if (b.view === 'plant') ui.plant.inspector(); else if (b.view === 'line') ui.line.inspector(); };
     const seg = $('#viewSeg');
     for (const x of ui.$$('#viewSeg .btn')) x.addEventListener('click', () => { setView(x.dataset.v); ui.click(); });
     void seg;
@@ -33,13 +34,13 @@
     b.frame = function (now) {
       frame0(now);
       if (b.view === 'plant') { ui.plant.frame(); if (now - liveT > 300) { liveT = now; ui.plant.updateLive(); } }
-      else if (b.view === 'ladder') ui.ladder.frame();
+      else if (b.view === 'line') ui.line.frame();
     };
     const setMode0 = b.setMode;
-    b.setMode = function (m) { setMode0(m); if (b.view === 'plant') { ui.plant.render(true); ui.plant.inspector(); } };
+    b.setMode = function (m) { setMode0(m); if (b.view === 'plant') { ui.plant.render(true); ui.plant.inspector(); } else if (b.view === 'line') { ui.line.render(true); ui.line.inspector(); } };
     let lastC = b.ed.c;
     b.ed.hooks.push((ed) => {
-      if (ed.c !== lastC) { lastC = ed.c; b._fitPanel = b.view !== 'panel'; ui.plant.sel = null; ui.plant.selPipe = null; ui.plant.pending = null; ui.ladder.workFor = null; ui.ladder.dirty = false; if (b.view === 'plant') { ui.plant.render(true); ui.plant.inspector(); } if (b.view === 'ladder') ui.ladder.render(); }
+      if (ed.c !== lastC) { lastC = ed.c; b._fitPanel = b.view !== 'panel'; ui.plant.sel = null; ui.plant.selPipe = null; ui.plant.pending = null; ui.ladder.workFor = null; ui.ladder.dirty = false; ui.line.sel = null; setView.lfit = false; if (b.view === 'line') { ui.line.render(true); ui.line.inspector(); requestAnimationFrame(() => ui.line.fit()); } if (b.view === 'plant') { ui.plant.render(true); ui.plant.inspector(); } if (ui.view() === 'prog') ui.ladder.render(); }
     });
     let v0 = 'panel';
     try { v0 = localStorage.getItem('ellab.bview') || 'panel'; } catch (e) {}
@@ -52,7 +53,8 @@
   const clean = (s, n) => String(s || '').replace(/[<>`"&]/g, '').trim().slice(0, n);
   function openCircuit(c, msg) {
     const b = B();
-    if (b.ed.c.parts.length && !confirm(T(['Replace what is on the bench now? (Save it as a project first if you need it.)', 'تستبدل اللي على المعمل دلوقتي؟ (احفظه كمشروع الأول لو محتاجه.)']))) return false;
+    const cur = b.ed.c;
+    if ((cur.parts.length || (cur.plant && cur.plant.units && cur.plant.units.length) || (cur.line && cur.line.els && cur.line.els.length)) && !confirm(T(['Replace what is on the bench now? (Save it as a project first if you need it.)', 'تستبدل اللي على المعمل دلوقتي؟ (احفظه كمشروع الأول لو محتاجه.)']))) return false;
     EL.inst.probes = { red: null, black: null, clamp: null, ncv: null };
     b.ed.setCircuit(c);
     b.save();
@@ -67,8 +69,8 @@
     if (!openCircuit(c, T(P.name) + ': ' + T(P.tasks[0]))) return;
     B().setMode('test');
     setView.fitted = false;
-    setView(view || 'plant');
-    requestAnimationFrame(() => { if (B().view === 'panel') B().ed.fit(); ui.plant.fit(); });
+    if (view === 'ladder') { setView('plant'); ui.show('prog'); } else setView(view || 'plant');
+    requestAnimationFrame(() => { if (B().view === 'panel') B().ed.fit(); else if (B().view === 'line') ui.line.fit(); else ui.plant.fit(); });
   };
   PJ.openEmpty = function () {
     if (!openCircuit(PJ.empty(), T(['Empty project: add parts on the panel, units in the plant and a ladder program.', 'مشروع فاضي: ضيف أجهزة في اللوحة ووحدات في العملية وبرنامج لادر.']))) return;
@@ -102,14 +104,14 @@
     for (const id of PJ.list) {
       const P = PJ.map[id];
       const pv = h('div', { class: 'pj-thumb' });
-      try { pv.innerHTML = PA.preview(EL.plant.build(P.plant), 400, 220); } catch (e) { pv.textContent = ''; }
+      try { pv.innerHTML = P.line && !P.plant ? ui.line.preview(EL.line.build(P.line), 400, 220) : PA.preview(EL.plant.build(P.plant), 400, 220); } catch (e) { pv.textContent = ''; }
       const tasks = h('ol', { class: 'pj-tasks' }, P.tasks.map((t) => h('li', { text: T(t) })));
       grid.appendChild(h('div', { class: 'card pj-card' }, pv, h('h3', { text: T(P.name) }), h('p', { class: 'mute', text: T(P.desc) }),
         h('details', null, h('summary', { text: T(['What to try', 'جرّب إيه']) }), tasks),
         h('div', { class: 'row wrap' },
-          h('button', { class: 'btn pri', onclick: () => PJ.open(id, 'plant'), text: T(['Open', 'افتح']) }),
-          h('button', { class: 'btn', onclick: () => PJ.open(id, 'panel'), text: T(['Open the panel', 'افتح اللوحة']) }),
-          P.plc ? h('button', { class: 'btn', onclick: () => PJ.open(id, 'ladder'), text: T(['Open the ladder', 'افتح اللادر']) }) : null)));
+          h('button', { class: 'btn pri', onclick: () => PJ.open(id, P.view || 'plant'), text: T(['Open', 'افتح']) }),
+          P.circuit ? h('button', { class: 'btn', onclick: () => PJ.open(id, 'panel'), text: T(['Open the panel', 'افتح اللوحة']) }) : null,
+          P.plc ? h('button', { class: 'btn', onclick: () => PJ.open(id, 'ladder'), text: T(['Open the program', 'افتح البرنامج']) }) : null)));
     }
     root.appendChild(grid);
     // my projects

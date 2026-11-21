@@ -31,7 +31,8 @@
       h('button', { class: 'btn sm pri', onclick: () => PU.addMenu(), text: '+ ' + T(['Add', 'إضافة']) }),
       h('button', { class: 'btn sm', onclick: () => PU.zoom(1.2), text: '+', 'aria-label': 'zoom in' }), h('button', { class: 'btn sm', onclick: () => PU.zoom(1 / 1.2), text: '−', 'aria-label': 'zoom out' }),
       h('button', { class: 'btn sm', onclick: () => PU.fit(), text: T(['Fit', 'ملّي']) }),
-      h('button', { class: 'btn sm bad pl-del', onclick: () => PU.delSel(), text: T(['Delete', 'حذف']) }));
+      h('button', { class: 'btn sm bad pl-del', onclick: () => PU.delSel(), text: T(['Delete', 'حذف']) }),
+      h('button', { class: 'btn sm', onclick: () => PU.waterGuide(), text: T(['Water guide', 'دليل المية']) }));
     host.appendChild(tools);
     host.appendChild(h('div', { class: 'pl-empty', id: 'plEmpty' },
       h('b', { text: T(['No process yet', 'مفيش عملية لسه']) }),
@@ -46,7 +47,7 @@
   PU.zoom = function (f, cx, cy) {
     const r = host.getBoundingClientRect(), v = PU.view;
     cx = cx == null ? r.width / 2 : cx - r.left; cy = cy == null ? r.height / 2 : cy - r.top;
-    const k = Math.max(0.15, Math.min(3, v.k * f));
+    const k = Math.max(0.08, Math.min(3, v.k * f));
     v.x = cx - ((cx - v.x) * k) / v.k; v.y = cy - ((cy - v.y) * k) / v.k; v.k = k; applyView();
   };
   PU.fit = function () {
@@ -56,8 +57,8 @@
     let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9;
     for (const u of pl.units) { const d = PL.defs[u.type]; x0 = Math.min(x0, u.x - 20); y0 = Math.min(y0, u.y - 40); x1 = Math.max(x1, u.x + d.w + 110); y1 = Math.max(y1, u.y + d.h + 50); }
     const phone = r.width < 700;
-    let k = Math.max(0.2, Math.min(1.4, Math.min(r.width / (x1 - x0), (r.height - 40) / (y1 - y0)) * 0.95));
-    if (phone && k < 0.5) { const t = pl.units.find((u) => u.type === 'TANK') || pl.units[0]; PU.view.k = 0.55; PU.focus(t, true); return; }
+    let k = Math.max(0.1, Math.min(1.4, Math.min(r.width / (x1 - x0), (r.height - 40) / (y1 - y0)) * 0.95));
+    if (phone && k < 0.12) { const t = pl.units.find((u) => u.type === 'TANK') || pl.units[0]; PU.view.k = 0.55; PU.focus(t, true); return; }
     PU.view = { k, x: (r.width - (x1 - x0) * k) / 2 - x0 * k, y: 40 + (r.height - 40 - (y1 - y0) * k) / 2 - y0 * k };
     applyView();
   };
@@ -96,7 +97,7 @@
         `<path d="${d}" fill="none" stroke="#c9d1dc" stroke-width="3" stroke-linejoin="round" opacity=".35" transform="translate(0,-3)"/>` +
         `<path d="${d}" fill="none" stroke="${flow ? (hot ? '#ff7a55' : '#3aa2e6') : '#2a3446'}" stroke-width="6" stroke-linejoin="round"/>` +
         (flow ? `<path d="${d}" class="pl-flow" style="animation-duration:${Math.max(0.25, 6 / Math.min(60, Math.abs(q))).toFixed(2)}s"/>` : '') +
-        flange(A) + flange(Bp) + '</g>';
+        flange(A) + flange(Bp) + (+p.dn > 0 ? pipeLab(A, Bp, p, q) : '') + '</g>';
     }
     layPipes.innerHTML = ps;
     let us = '';
@@ -113,6 +114,11 @@
     }
     layPorts.innerHTML = po;
   };
+  function pipeLab(A, Bp, p, q) {
+    const pi = EL.water.pipeInfo(p, q / 60, PL.tempAt(plant(), p.a)), x = (A.x + Bp.x) / 2, y = (A.y + Bp.y) / 2 - 12;
+    const bad = p.loop && Math.abs(q) > 0.01 && pi.v < 0.9;
+    return `<text class="${bad ? 'pl-bad' : 'pl-s'}" x="${x}" y="${y}" text-anchor="middle">DN${p.dn}${Math.abs(q) > 0.01 ? ' ' + pi.v.toFixed(2) + ' m/s' : ''}</text>`;
+  }
   function flange(P) {
     const v = P.dir === 'u' || P.dir === 'd';
     const o = { l: [-14, 0], r: [14, 0], u: [0, -14], d: [0, 14] }[P.dir];
@@ -163,7 +169,7 @@
       }
       if (G.moved) { if (G.unit) changed(); return; }
       if (G.unit) {
-        if (G.act === 'toggle' || (G.unit.type === 'VALVE' && B().ed.mode === 'test')) toggleValve(G.unit);
+        if (G.act === 'toggle' || ((G.unit.type === 'VALVE' || G.unit.type === 'POU') && B().ed.mode === 'test')) toggleValve(G.unit);
         select(G.unit.id, null);
       } else if (G.pipe) select(null, G.pipe);
       else { select(null, null); if (PU.pending) { PU.pending = null; hint(); } }
@@ -191,6 +197,40 @@
   function changed() { PU.render(true); PU.inspector(); B().save(); }
   function select(id, pipe) { PU.sel = id; PU.selPipe = pipe; PU.render(true); PU.inspector(); if (id || pipe) { if (window.innerWidth <= 900 && !$('#side').classList.contains('open')) { /* keep canvas free on phones */ } } }
   PU.select = select;
+  const WG = {
+    steps: [
+      ['Break tank: city water falls in through an air gap (protects the city main) and gives the pumps a steady supply.', 'تانك الكسر: مية البلد بتنزل فيه من فتحة هوا (بتحمي خط البلد) وبيدي الطلمبات مية ثابتة.'],
+      ['Multimedia (sand) filter removes dirt and turbidity (SDI). Backwash at about 0.8 bar ΔP or every 48 h.', 'فلتر الرمل (مالتي ميديا) بيشيل الوساخة والعكارة (SDI). باك واش لما فرق الضغط يوصل 0.8 بار أو كل 48 ساعة.'],
+      ['Activated carbon (or SMBS dosing) removes chlorine. Chlorine destroys RO membranes and the damage cannot be undone: never bypass the ORP alarm.', 'الكربون النشط (أو حقن SMBS) بيشيل الكلور. الكلور بيبوّظ ممبرين الـRO ومالوش رجوع: ممنوع تعمل باي باس لإنذار الـORP.'],
+      ['Softener swaps Ca/Mg for Na so the RO and EDI do not scale. Check salt and hardness (< 1 mg/L) every shift.', 'السوفتنر بيبدّل الكالسيوم والماغنسيوم بصوديوم عشان الـRO والـEDI ما يعملوش قشور. افحص الملح والعسر (أقل من 1) كل وردية.'],
+      ['Antiscalant dosing protects the RO concentrate side. 5 µm and 1 µm cartridges are the last guard: change at 0.8 bar ΔP.', 'مانع الترسيب بيحمي ناحية الريجكت في الـRO. كارتريدج 5 و1 ميكرون آخر حماية: غيّره عند 0.8 بار.'],
+      ['RO pass 1 (high-pressure pump, about 11-13 bar) removes about 98 % of salts. The pump trips on low suction pressure.', 'الـRO الأولى (طلمبة ضغط عالي حوالي 11-13 بار) بتشيل حوالي 98٪ من الأملاح. الطلمبة بتفصل لو ضغط السحب وطي.'],
+      ['NaOH between the passes turns CO2 into bicarbonate so RO pass 2 can remove it. Pass 2 brings the water to about 1 µS/cm.', 'الصودا بين المرحلتين بتحول الـCO2 لبيكربونات فالـRO التانية تقدر تشيله. التانية بتنزل المية لحوالي 1 ميكروسيمنز.'],
+      ['EDI polishes to about 0.1 µS/cm with DC power and resin. It needs soft, chlorine-free water and trips on low flow.', 'الـEDI بيلمّع لحوالي 0.1 ميكروسيمنز بكهربا DC وريزن. محتاج مية سوفت من غير كلور وبيفصل لو الفلو قليل.'],
+      ['UV 254 nm kills bacteria; the divert valve sends water to drain above about 1.1 µS/cm, so bad water never enters the PW tank.', 'الـUV 254 بيقتل البكتيريا، ومحبس التحويل بيرمي المية على الصرف فوق حوالي 1.1، فالمية الوحشة عمرها ما تدخل تانك الـPW.'],
+      ['PW tank (316L, spray ball, hydrophobic 0.2 µm vent filter, heated on hot tanks). Generation starts at 65 % and stops at 90 %.', 'تانك الـPW (ستانلس 316L، سبراي بول، فلتر تهوية 0.2 ميكرون هيدروفوبيك، بسخان في التنكات السخنة). التوليد بيبدأ عند 65٪ ويقف عند 90٪.'],
+      ['PW loop never stops: at least 1 m/s at the return (Re > 10 000), dead legs ≤ 2 D, UV on, sanitise at 80 °C on schedule.', 'لوب الـPW عمره ما يقف: 1 م/ث على الأقل في الراجع (Re فوق 10000)، الرجل الميتة 2 قطر بالكتير، الـUV شغال، وتعقيم 80 درجة في ميعاده.'],
+      ['The still (MED) boils PW with plant steam (about 6 bar) and condenses WFI. It removes bacteria and endotoxin (3 log or more).', 'المقطّر (MED) بيغلي الـPW ببخار المصنع (حوالي 6 بار) ويكثف WFI. بيشيل البكتيريا والإندوتوكسين (3 لوج أو أكتر).'],
+      ['WFI is stored and circulated hot (80-85 °C, never below 70 °C). POU coolers cool it only at the point of use.', 'الـWFI بيتخزن ويلف سخن (80-85 درجة، عمره ما ينزل تحت 70). المبردات بتبرده عند نقطة الاستخدام بس.'],
+      ['Limits: conductivity by the USP Stage 1 table at the actual temperature, not compensated (1.1 at 20 °C, 1.3 at 25 °C); Ph. Eur. PW 4.3 at 20 °C. TOC ≤ 500 ppb. Bacteria are lab results against action levels: PW 100 CFU/mL, WFI 10 CFU/100 mL. WFI endotoxin < 0.25 EU/mL.', 'الحدود: الكونداكتيفيتي بجدول USP Stage 1 على الحرارة الفعلية من غير تعويض (1.1 على 20 درجة، 1.3 على 25)؛ والأوروبي للـPW ‏4.3 على 20 درجة. TOC ‏500 ppb أو أقل. البكتيريا نتايج معمل قدام حدود إجراء: PW ‏100 CFU/مل، WFI ‏10 CFU لكل 100 مل. إندوتوكسين الـWFI أقل من 0.25.'],
+      ['Pure steam (optional) is made from PW; its condensate must meet WFI quality. It feeds autoclaves and SIP.', 'البيور ستيم (اختياري) بيتعمل من الـPW، والمتكثف منه لازم يطابق الـWFI. بيغذي الأوتوكلاف والـSIP.'],
+    ],
+    elec: [
+      ['Raw feed pump 1.5 kW: VFD (constant pressure) or DOL.', 'طلمبة التغذية 1.5 ك.و: انفرتر (ضغط ثابت) أو DOL.'],
+      ['RO high-pressure pumps 3 kW and 2.2 kW: VFD with a 15 s ramp; trips: suction < 0.7 bar, discharge > 16 bar, ORP > 350 mV.', 'طلمبات الضغط العالي 3 و2.2 ك.و: انفرتر برامب 15 ثانية؛ فصل: سحب أقل من 0.7 بار، طرد فوق 16 بار، ORP فوق 350.'],
+      ['Dosing pumps 0.02-0.1 kW, 230 V, paced by the feed flow meter (pulse or 4-20 mA).', 'طلمبات الحقن 0.02-0.1 ك.و، 230 فولت، ماشية على عداد التغذية (بلس أو 4-20 ملي).'],
+      ['EDI DC power supply 0.5-1 kW: enabled only with product and reject flow above minimum.', 'باور سبلاي الـEDI ‏0.5-1 ك.و: بيشتغل بس لو فلو المنتج والريجكت فوق الحد الأدنى.'],
+      ['PW loop pump 2.2 kW VFD, WFI loop pump 1.5 kW VFD: stop on tank LL, alarm below 0.9 m/s return velocity.', 'طلمبة لوب الـPW ‏2.2 ك.و انفرتر، والـWFI ‏1.5 ك.و انفرتر: بيقفوا على LL للتانك، وإنذار تحت 0.9 م/ث في الراجع.'],
+      ['Sanitisation heater 36-54 kW (or a steam HX); vent filter heaters 50-100 W; UV lamps 150 W each.', 'سخان التعقيم 36-54 ك.و (أو مبادل بخار)؛ سخانات فلتر التهوية 50-100 وات؛ لمبات الـUV ‏150 وات.'],
+      ['Instruments: LT and TT on tanks, PT and ΔPT across filters, FT on feed, permeate and loop, conductivity on each RO pass and the loop return, TOC on the return, UV intensity.', 'الأجهزة: LT وTT على التنكات، PT وفرق ضغط على الفلاتر، FT على التغذية والمية النقية واللوب، كونداكتيفيتي على كل مرحلة RO وراجع اللوب، TOC على الراجع، وشدة الـUV.'],
+    ],
+  };
+  PU.waterGuide = function () {
+    const ol = (arr) => h('ol', null, arr.map((x) => h('li', { text: T(x) })));
+    ui.modal([h('h3', { text: T(['Pharma water: from city water to WFI', 'مية الدوا: من مية البلد لحد الـWFI']) }), h('div', { class: 'ln-guidebox' }, ol(WG.steps), h('h3', { text: T(['Motors, electrics and instruments', 'المواتير والكهربا والأجهزة']) }), h('ul', null, WG.elec.map((x) => h('li', { text: T(x) }))),
+      h('p', { class: 'mute sm', text: T(['Typical values for training, not validated design values. Bacteria growth and membrane damage run faster than real life so you can see them.', 'قيم نموذجية للتدريب، مش قيم تصميم معتمدة. نمو البكتيريا وتلف الممبرين أسرع من الحقيقة عشان تقدر تشوفهم.']) }),
+      h('div', { class: 'row wrap' }, h('button', { class: 'btn pri', onclick: () => { document.querySelector('.modal') && document.querySelector('.modal').remove(); EL.projects.open('water', 'plant'); }, text: T(['Open the ready PW / WFI plant', 'افتح محطة الـPW / WFI الجاهزة']) })))]);
+  };
   PU.delSel = function () {
     const pl = plant(); if (!pl) return;
     if (PU.sel) { B().ed.push(); PL.remove(pl, PU.sel); PU.sel = null; changed(); }
@@ -273,9 +313,27 @@
     motor: ['Motor (panel)', 'الموتور (اللوحة)'], head: ['Max head (m)', 'أقصى رفع (متر)'], qmax: ['Max flow (L/min)', 'أقصى تصرف (لتر/د)'], flip: ['Mirror', 'اقلبه'],
     open: ['Open', 'مفتوح'], kv: ['Size (L/min at 1 bar)', 'المقاس (لتر/د عند 1 بار)'], sol: ['Solenoid (panel)', 'السولينويد (اللوحة)'],
     kind: ['Type', 'النوع'], dirt: ['Dirt in the water (x)', 'الوساخة في المية (x)'], rej: ['Reject valve opening (%)', 'فتحة محبس الريجكت (%)'], us: ['Feed conductivity (µS/cm)', 'موصلية الدخول (ميكروسيمنز)'],
+    wq: ['Water quality', 'جودة المية'], on: ['Switched on', 'شغال'], rec: ['Recovery (%)', 'الاسترجاع (%)'], fv: ['Inlet float valve closes at (%, 0 = none)', 'عوامة الدخول بتقفل عند (%، 0 = مفيش)'], q0: ['Water in it at the start', 'المية اللي فيه في الأول'], jkt: ['Steam jacket holds (°C, 0 = off)', 'جاكيت البخار بيثبّت (درجة، 0 = مقفول)'],
+    dn: ['Size (DN, 0 = old free size)', 'المقاس (DN، 0 = المقاس القديم)'], vt: ['Valve type', 'نوع المحبس'], qbep: ['Duty flow (m³/h, 0 = simple pump)', 'تصرف التشغيل (م³/س، 0 = طلمبة بسيطة)'], hbep: ['Duty head (m)', 'رفع التشغيل (متر)'], eta: ['Pump efficiency (0-1)', 'كفاءة الطلمبة (0-1)'],
+    local: ['Run without the panel (local VFD)', 'تشتغل من غير اللوحة (انفرتر محلي)'], spd: ['VFD speed (%)', 'سرعة الانفرتر (%)'], lvt: ['Level control: tank', 'تحكم بالمستوى: التانك'], lon: ['Start at level (%)', 'تبدأ عند مستوى (%)'], loff: ['Stop at level (%)', 'تقف عند مستوى (%)'],
+    mrej: ['Salt rejection (%)', 'نسبة رفض الأملاح (%)'], area: ['Membrane area (x, number of elements)', 'مساحة الممبرين (x، عدد العناصر)'], cap: ['Resin capacity (m³ of city water)', 'سعة الريزن (م³ مية بلد)'], chem: ['Chemical', 'الكيماوي'],
+    int: ['Lamp intensity (%)', 'شدة اللمبة (%)'], nm: ['Wavelength (nm)', 'الطول الموجي (نانومتر)'], steam: ['Steam on', 'البخار شغال'], grade: ['Check against', 'قارنه بـ'], lim: ['Divert above (µS/cm compensated to 25 °C)', 'حوّل فوق (ميكروسيمنز معوّضة على 25 درجة)'], stk: ['Suction tank (stops below 10 %)', 'تانك السحب (تقف تحت 10٪)'], psl: ['Low suction trip (bar, 0 = off)', 'فصل ضغط سحب واطي (بار، 0 = مقفول)'],
     eff: ['Effectiveness (0-1)', 'الكفاءة (0-1)'], tx: ['Transmitter (panel)', 'الترانسميتر (اللوحة)'], range: ['Range (full scale)', 'المدى (أقصى قراءة)'], sw: ['Switch (panel)', 'السويتش (اللوحة)'], set: ['Set point', 'نقطة الضبط'],
   };
   const LT = PL.linkTypes;
+  const WT = () => EL.water;
+  const ENUM = {
+    kind: () => [['sand', T(['Sand / multimedia', 'رمل / مالتي ميديا'])], ['carbon', T(['Activated carbon (removes chlorine)', 'كربون نشط (بيشيل الكلور)'])], ['cart', T(['Cartridge 5 µm', 'كارتريدج 5 ميكرون'])], ['cart1', T(['Cartridge 1 µm', 'كارتريدج 1 ميكرون'])]],
+    chem: () => [['naoh', T(['NaOH (between RO passes)', 'صودا كاوية (بين مرحلتين الـRO)'])], ['smbs', T(['SMBS (removes chlorine)', 'SMBS (بيشيل الكلور)'])], ['anti', T(['Antiscalant (before RO)', 'مانع ترسيب (قبل الـRO)'])], ['naocl', T(['NaOCl (chlorine)', 'كلور NaOCl'])]],
+    grade: () => Object.keys(WT().GRADES).map((k) => [k, T(WT().GRADES[k])]),
+    wq: () => [['city', T(['City water', 'مية البلد'])], ['well', T(['Well water (hard)', 'مية بير (عسرة)'])], ['pw', T(['Purified water', 'مية منقاة'])], ['wfi', 'WFI']],
+    q0: () => ENUM.wq(),
+    vt: () => [['dia', T(['Diaphragm (PW / WFI)', 'دايافرام (PW / WFI)'])], ['ball', T(['Ball (pretreatment)', 'بلف (المعالجة الأولية)'])], ['bfly', T(['Butterfly', 'فراشة'])]],
+    dn: (u) => (u.type === 'POU' ? [] : [[0, T(['Old free size (L/min at 1 bar)', 'المقاس القديم (لتر/د عند 1 بار)'])]]).concat(WT().DN.map((d) => [d, 'DN' + d + '  Kv ' + (WT().KV[u.props.vt] || WT().KV.dia)[d]])),
+    nm: () => [[254, '254 nm: ' + T(['kills bacteria', 'بيقتل البكتيريا'])], [185, '185 nm: ' + T(['also lowers TOC', 'وكمان بيقلل الـTOC'])]],
+    stk: () => ENUM.lvt(),
+    lvt: () => [['', T(['(none)', '(مفيش)'])]].concat((plant() ? plant().units.filter((x) => x.type === 'TANK') : []).map((t) => [t.tag, t.tag + '  ' + t.props.vol + ' L'])),
+  };
   PU.inspector = function () {
     if (B().view !== 'plant') return;
     const root = $('#pane-part'); root.innerHTML = '';
@@ -286,12 +344,22 @@
     if (pipe) {
       root.appendChild(h('div', { class: 'card' }, h('h3', { text: T(['Pipe', 'ماسورة']) }), h('p', { class: 'ltr', text: PL.refLabel(pl, pipe.a) + '  →  ' + PL.refLabel(pl, pipe.b) }),
         h('div', { class: 'kv' }, h('span', { text: T(['Flow', 'التصرف']) }), h('b', { id: 'plPipeQ', text: Math.abs(PL.pipeQ(pl, pipe.id)).toFixed(1) + ' L/min' })),
+        h('label', { class: 'f', text: T(['Pipe size', 'مقاس الماسورة']) }),
+        h('select', { onchange: (e) => edit(() => { const d = +e.target.value; if (d) { pipe.dn = d; pipe.mat = pipe.mat || 'ss'; pipe.len = pipe.len || 5; } else { delete pipe.dn; delete pipe.mat; delete pipe.len; delete pipe.loop; } }) }, [h('option', { value: 0, text: T(['Free size (no friction model)', 'مقاس حر (من غير حساب احتكاك)']) })].concat(WT().DN.map((d) => h('option', { value: d, selected: d === +pipe.dn ? true : null, text: 'DN' + d + '  (ID ' + WT().ID[pipe.mat === 'pvc' ? 'pvc' : 'ss'][d] + ' mm)' })))),
+        +pipe.dn > 0 ? h('div', null,
+          h('label', { class: 'f', text: T(['Material', 'الخامة']) }),
+          h('select', { onchange: (e) => edit(() => { pipe.mat = e.target.value; }) }, [['ss', T(['316L stainless tube (PW / WFI)', 'ستانلس 316L (PW / WFI)'])], ['pvc', T(['PVC-U (pretreatment)', 'PVC-U (المعالجة الأولية)'])]].map(([a, b]) => h('option', { value: a, selected: a === pipe.mat ? true : null, text: b }))),
+          h('label', { class: 'f', text: T(['Length (m)', 'الطول (متر)']) }),
+          h('input', { type: 'number', value: pipe.len, min: 0.01, max: 2000, step: 'any', onchange: (e) => { const x = +e.target.value; if (x > 0 && x <= 2000) edit(() => { pipe.len = x; }); } }),
+          h('label', { class: 'f', text: T(['Part of a distribution loop (keep ≥ 1 m/s)', 'جزء من لوب توزيع (لازم ≥ 1 م/ث)']) }),
+          h('button', { class: 'btn ' + (pipe.loop ? 'on' : ''), onclick: () => edit(() => { pipe.loop = !pipe.loop; }), text: pipe.loop ? T(['Yes', 'أيوه']) : T(['No', 'لأ']) }),
+          h('div', { id: 'plPipeV', style: { marginTop: '8px' } })) : null,
         h('div', { class: 'row wrap', style: { marginTop: '8px' } }, h('button', { class: 'btn bad', onclick: () => PU.delSel(), text: T(['Delete pipe', 'احذف الماسورة']) }))));
       return;
     }
     if (!u) {
       const card = h('div', { class: 'card' }, h('h3', { text: T(['Process (plant)', 'العملية']) }),
-        h('p', { class: 'mute', text: T(['Build mode: drag units, tap a port then another port to lay a pipe. Test mode: tap valves to open or close them. Units run from the panel: a pump turns only when its linked motor turns.', 'وضع البناء: اسحب الوحدات، واضغط على طرف وبعدين طرف تاني عشان تمد ماسورة. وضع الاختبار: اضغط على المحابس تفتحها أو تقفلها. الوحدات بتشتغل من اللوحة: الطلمبة بتلف بس لما الموتور المربوط يلف.']) }),
+        h('p', { class: 'mute', text: T(['Build mode: drag units, tap a port then another port to lay a pipe. Test mode: tap valves to open or close them. A pump turns when its linked motor on the panel turns, or on its own local VFD.', 'وضع البناء: اسحب الوحدات، واضغط على طرف وبعدين طرف تاني عشان تمد ماسورة. وضع الاختبار: اضغط على المحابس تفتحها أو تقفلها. الطلمبة بتلف لما الموتور المربوط في اللوحة يلف، أو على انفرتر محلي خاص بيها.']) }),
         h('button', { class: 'btn pri', onclick: () => PU.addMenu(), text: '+ ' + T(['Add a unit', 'ضيف وحدة']) }));
       root.appendChild(card);
       root.appendChild(h('div', { class: 'card', id: 'plProblems' }));
@@ -302,7 +370,16 @@
     const tagIn = h('input', { type: 'text', value: u.tag, maxlength: 10, style: { maxWidth: '110px' }, onchange: (e) => { const v = e.target.value.replace(/[^\w\-.]/g, '').slice(0, 10); if (v) edit(() => { u.tag = v; }); } });
     const actions = [];
     if (u.type === 'VALVE') actions.push(h('button', { class: 'btn ' + (u.props.open ? 'bad' : 'ok'), onclick: () => toggleValve(u), text: u.props.open ? T(['Close valve', 'اقفل المحبس']) : T(['Open valve', 'افتح المحبس']) }));
-    if (u.type === 'FILTER') actions.push(h('button', { class: 'btn ok', onclick: () => edit(() => { u.state.clog = 0; ui.toast(u.tag + ': ' + T(u.props.kind === 'cart' ? ['new cartridge fitted', 'اتركب كارتريدج جديد'] : ['backwashed, clean again', 'اتعمله باك واش ونضف']), 'ok'); }), text: T(u.props.kind === 'cart' ? ['Change cartridge', 'غيّر الكارتريدج'] : ['Backwash', 'باك واش']) }));
+    if (u.type === 'FILTER') actions.push(h('button', { class: 'btn ok', onclick: () => edit(() => { u.state.clog = 0; ui.toast(u.tag + ': ' + T(/cart/.test(u.props.kind) ? ['new cartridge fitted', 'اتركب كارتريدج جديد'] : ['backwashed, clean again', 'اتعمله باك واش ونضف']), 'ok'); }), text: T(/cart/.test(u.props.kind) ? ['Change cartridge', 'غيّر الكارتريدج'] : ['Backwash', 'باك واش']) }));
+    if (u.type === 'POU') actions.push(h('button', { class: 'btn ' + (u.props.open ? 'bad' : 'ok'), onclick: () => toggleValve(u), text: u.props.open ? T(['Close', 'اقفل']) : T(['Open (draw water)', 'افتح (اسحب مية)']) }));
+    if (u.type === 'PUMP' && u.state.trip) actions.push(h('button', { class: 'btn warn', onclick: () => edit(() => { u.state.trip = 0; u.state.lpt = 0; }), text: T(['Reset trip', 'ريست الفصل']) }));
+    if (u.type === 'SOFT') actions.push(h('button', { class: 'btn ok', onclick: () => edit(() => { u.state.used = 0; u.state.left = 100; ui.toast(u.tag + ': ' + T(['regenerated with brine', 'اتعمله ريجينريشن بالملح']), 'ok'); }), text: T(['Regenerate', 'ريجينريشن']) }));
+    if (u.type === 'FILTER' && u.props.kind === 'carbon') actions.push(h('button', { class: 'btn', onclick: () => edit(() => { u.state.bv = 0; ui.toast(u.tag + ': ' + T(['new carbon', 'كربون جديد']), 'ok'); }), text: T(['Replace carbon', 'غيّر الكربون']) }));
+    if (u.type === 'RO') actions.push(h('button', { class: 'btn', onclick: () => edit(() => { u.state.scale = 0; ui.toast(u.tag + ': ' + T(['acid cleaning done: scale removed', 'اتعمل غسيل حمضي: القشور اتشالت']), 'ok'); }), text: T(['Acid clean (CIP)', 'غسيل حمضي (CIP)']) }), h('button', { class: 'btn', onclick: () => edit(() => { u.state.dmg = 0; u.state.cl2h = 0; u.state.scale = 0; ui.toast(u.tag + ': ' + T(['new membranes fitted', 'اتركب ممبرين جديد']), 'ok'); }), text: T(['Replace membranes', 'غيّر الممبرين']) }));
+    if (u.type === 'EDI') actions.push(h('button', { class: 'btn', onclick: () => edit(() => { u.state.scale = 0; }), text: T(['Clean the stack', 'نضّف الستاك']) }));
+    if (u.type === 'UV') actions.push(h('button', { class: 'btn', onclick: () => edit(() => { u.props.int = 100; u.props.on = true; }), text: T(['New lamp', 'لمبة جديدة']) }));
+    if (u.type === 'PUMP' && WT()) actions.push(h('select', { class: 'pl-preset', onchange: (e) => { const P = WT().PUMPS[e.target.value]; if (P) edit(() => { Object.assign(u.props, { qbep: P.q, hbep: P.h, eta: P.eta }); if (!u.props.motor) u.props.local = true; }); } }, [h('option', { value: '', text: T(['Pick a pump size…', 'اختار مقاس طلمبة…']) })].concat(Object.keys(WT().PUMPS).map((k) => h('option', { value: k, text: T(WT().PUMPS[k].n) })))));
+    if (u.type === 'TANK' && WT()) actions.push(h('select', { class: 'pl-preset', onchange: (e) => { const vol = +e.target.value; if (vol) edit(() => { const lv = u.state.v / Math.max(1, +u.props.vol); u.props.vol = vol; u.props.hgt = WT().tankDims(vol).H; u.state.v = lv * vol; }); } }, [h('option', { value: '', text: T(['Tank size…', 'مقاس التانك…']) })].concat(WT().TANKS.map((v) => h('option', { value: v, selected: v === +u.props.vol ? true : null, text: v + ' L  (Ø' + WT().tankDims(v).D.toFixed(2) + ' × ' + WT().tankDims(v).H + ' m)' })))));
     if (u.type === 'TANK') actions.push(h('button', { class: 'btn', onclick: () => edit(() => { u.state.v = (+u.props.vol * +u.props.lvl0) / 100; u.state.T = +u.props.t0; }), text: T(['Reset level', 'رجّع المستوى']) }), h('button', { class: 'btn', onclick: () => edit(() => { u.state.v = 0; }), text: T(['Empty it', 'فضّيه']) }));
     if (B().ed.mode === 'build') actions.push(h('button', { class: 'btn', onclick: () => edit(() => { u.props.flip = !u.props.flip; }), text: T(['Mirror', 'اقلبه']) }), h('button', { class: 'btn bad', onclick: () => PU.delSel(), text: T(['Delete', 'حذف']) }));
     root.appendChild(h('div', { class: 'card' }, h('div', { class: 'row' }, tagIn, h('div', { class: 'grow' }, h('b', { text: T(d.name) }))), h('p', { class: 'mute', text: T(d.info) }), h('div', { class: 'row wrap' }, actions)));
@@ -319,9 +396,9 @@
       const maker = { motor: () => AW.motor(), lt: () => AW.transmitter('level', 'LT ' + u.tag), tt: () => AW.transmitter('temp', 'TT ' + u.tag), htr: () => AW.simple('HTR'), sol: () => AW.solenoid(), tx: () => AW.transmitter(u.type === 'TT' ? 'temp' : 'press', u.tag) }[k];
       if (link) inp = h('select', { onchange: (e) => pick(e, maker) }, partOpts(link, v));
       else if (swLink) inp = h('select', { onchange: (e) => pick(e, () => AW.contact(u.type === 'PS' ? 'PRESS' : 'FLOW', u.tag, false)) }, partOpts(u.type === 'PS' ? LT.ps : LT.fs, v));
-      else if (k === 'kind') inp = h('select', { onchange: (e) => edit(() => { u.props.kind = e.target.value; }) }, [['sand', T(['Sand / multimedia', 'رمل / مالتي ميديا'])], ['cart', T(['Cartridge 5 µm', 'كارتريدج 5 ميكرون'])]].map(([a, b]) => h('option', { value: a, selected: a === v ? true : null, text: b })));
+      else if (ENUM[k] && !(k === 'dn' && u.type === 'POU' && false)) { const ops = ENUM[k](u); inp = h('select', { onchange: (e) => edit(() => { const x = e.target.value; u.props[k] = typeof v === 'number' ? +x : x; }) }, ops.map(([a, b]) => h('option', { value: a, selected: String(a) === String(v) ? true : null, text: b }))); }
       else if (typeof v === 'boolean') inp = h('button', { class: 'btn ' + (v ? 'on' : ''), onclick: () => edit(() => { u.props[k] = !u.props[k]; }), text: v ? T(['Yes', 'أيوه']) : T(['No', 'لأ']) });
-      else if (typeof v === 'number') inp = h('input', { type: 'number', value: v, step: 'any', onchange: (e) => { const x = +e.target.value; if (isFinite(x)) edit(() => { u.props[k] = Math.max(k === 'temp' || k === 't0' ? 0 : k === 'vol' || k === 'hgt' || k === 'range' ? 0.1 : 0, Math.min(k === 'eff' ? 0.95 : k === 'lvl0' || k === 'rej' ? 100 : 100000, x)); if (u.type === 'TANK' && (k === 'vol')) u.state.v = Math.min(u.state.v, x); }); } });
+      else if (typeof v === 'number') inp = h('input', { type: 'number', value: v, step: 'any', onchange: (e) => { const x = +e.target.value; if (isFinite(x)) edit(() => { u.props[k] = Math.max(k === 'temp' || k === 't0' ? 0 : k === 'vol' || k === 'hgt' || k === 'range' ? 0.1 : 0, Math.min(k === 'eff' ? 0.95 : ['lvl0', 'rej', 'spd', 'int', 'lon', 'loff', 'mrej', 'fv'].includes(k) ? 100 : 100000, x)); if (u.type === 'TANK' && (k === 'vol')) u.state.v = Math.min(u.state.v, x); }); } });
       else continue;
       card.appendChild(h('label', { class: 'f', text: T(PROPLAB[k] || [k, k]) })); card.appendChild(inp);
     }
@@ -370,9 +447,27 @@
       if (u.type === 'RO') { r(['Feed pressure', 'ضغط الدخول'], (st.pin || 0).toFixed(2) + ' bar'); r(['Permeate', 'المية النقية'], L(st.qp)); r(['Reject', 'الريجكت'], L(st.qr)); r(['Recovery', 'الاسترجاع'], Math.round(st.rec || 0) + ' %'); r(['Permeate quality', 'جودة المية'], st.us ? Math.round(st.us) + ' µS/cm' : '-'); r(['Feed temperature', 'حرارة الدخول'], (st.Tf || 20).toFixed(1) + ' °C'); }
       if (u.type === 'HX' && st.th) { r(['Hot side', 'الناحية السخنة'], st.th[0].toFixed(1) + ' → ' + st.th[1].toFixed(1) + ' °C, ' + L(st.qh)); r(['Cold side', 'الناحية الباردة'], st.tc[0].toFixed(1) + ' → ' + st.tc[1].toFixed(1) + ' °C, ' + L(st.qc)); }
       if (u.type === 'FM') r(['Total', 'الإجمالي'], Math.round(st.tot || 0) + ' L');
+      const Wt = WT();
+      if (u.type === 'TANK') { const e = Wt.tankETA(u); if (e) { r(e.fill ? ['Reaches 90 % in', 'يوصل 90٪ في'] : ['Falls to 10 % in', 'ينزل لـ 10٪ في'], Wt.fmtT(e.s)); r(e.fill ? ['Full fill 0-100 % at this flow', 'ملو كامل 0-100٪ بالتصرف ده'] : ['Full empty at this flow', 'تفريغ كامل بالتصرف ده'], Wt.fmtT(e.full)); } }
+      if (u.type === 'PUMP') { r(['Flow', 'التصرف'], (Math.abs(st.q || 0) * 3.6).toFixed(2) + ' m³/h'); r(['Shaft power', 'قدرة العمود'], (st.kw || 0).toFixed(2) + ' kW'); if (u.props.lvt) r(['Level control', 'تحكم المستوى'], st.lstop ? T(['stopped by level', 'واقفة بالمستوى']) : T(['running', 'شغالة'])); }
+      if (u.type === 'SOFT') { r(['Flow', 'التصرف'], L(st.q)); r(['Resin left', 'الريزن الباقي'], Math.round(st.left == null ? 100 : st.left) + ' %'); }
+      if (u.type === 'EDI') { r(['Product', 'المنتج'], L(st.qp)); r(['Reject', 'الريجكت'], L(st.qr)); r(['DC power', 'كهربا DC'], st.dc ? 'ON' : 'OFF'); }
+      if (u.type === 'STILL') { r(['WFI out', 'الـWFI الخارج'], L(st.qd)); r(['Blowdown', 'البلو داون'], L(st.qb)); }
+      if (u.type === 'DIV') r(['Position', 'الوضع'], st.div ? T(['to drain', 'للصرف']) : T(['to the tank', 'للتانك']));
+      if (u.type === 'RO' && st.cl2h) r(['Chlorine exposure', 'التعرض للكلور'], Math.round(st.cl2h) + ' ppm·h');
+      const wq = u.type === 'TANK' ? st.wq : (u.type === 'QA' || u.type === 'POU') ? st.wq : u.type === 'RO' ? st.wf : null;
+      if (wq) {
+        const Tq = u.type === 'TANK' ? st.T : u.type === 'QA' || u.type === 'POU' ? st.T : st.Tf;
+        r(['Conductivity (raw)', 'الكونداكتيفيتي (خام)'], Wt.fmt(Wt.condRaw(wq, Tq), 3) + ' µS/cm'); r(['Hardness', 'العسر'], Wt.fmt(wq[1], 2) + ' mg/L'); r(['Chlorine', 'الكلور'], Wt.fmt(wq[2], 3) + ' mg/L'); r(['TOC', 'TOC'], Wt.fmt(wq[3], 0) + ' ppb'); r(['Silica', 'السيليكا'], Wt.fmt(wq[4], 3) + ' ppm'); r(['Bacteria', 'البكتيريا'], Wt.fmt(wq[5], 3) + ' CFU/mL'); r(['Endotoxin', 'الإندوتوكسين'], Wt.fmt(wq[6], 4) + ' EU/mL'); r(['CO2', 'CO2'], Wt.fmt(wq[8], 2) + ' ppm');
+        if (u.type === 'QA' || u.type === 'POU') for (const x of Wt.spec(wq, Tq, u.props.grade)) rows.push(`<div class="kv ${x.ok ? 'okc' : 'badc'}"><span>${esc(T(x.k))}</span><b class="ltr">${esc(Wt.fmt(x.val, x.d) + ' ' + x.unit + (x.min ? ' ≥ ' : ' ≤ ') + x.lim + (x.ok ? '  ✓' : '  ✗'))}</b></div>`);
+      }
       const s = rows.join('');
       if (force || s !== lv._s) { lv._s = s; lv.innerHTML = `<h3>${esc(T(['Live values', 'القيم الحية']))}</h3>` + s; }
     }
     const pq = $('#plPipeQ'); if (pq && pl && PU.selPipe) pq.textContent = Math.abs(PL.pipeQ(pl, PU.selPipe)).toFixed(1) + ' L/min';
+    const pv = $('#plPipeV'); if (pv && pl && PU.selPipe) {
+      const pp = pl.pipes.find((x) => x.id === PU.selPipe), pi = pp && WT().pipeInfo(pp, PL.pipeQ(pl, pp.id) / 60, PL.tempAt(pl, pp.a));
+      if (pi) { const s = `<div class="kv"><span>${esc(T(['Velocity', 'السرعة']))}</span><b class="ltr">${pi.v.toFixed(2)} m/s</b></div><div class="kv"><span>Reynolds</span><b class="ltr">${Math.round(pi.Re)}</b></div><div class="kv"><span>${esc(T(['Pressure drop', 'فقد الضغط']))}</span><b class="ltr">${pi.dp.toFixed(3)} bar</b></div><div class="kv"><span>L / D</span><b class="ltr">${pi.LD.toFixed(1)}</b></div>`; if (s !== pv._s) { pv._s = s; pv.innerHTML = s; } }
+    }
   };
 })(typeof window !== 'undefined' ? window : globalThis);

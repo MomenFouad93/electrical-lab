@@ -17,6 +17,7 @@
   <nav class="tabs" id="tabs">
     <button class="tab on" data-v="bench" data-t="Bench|المعمل">Bench</button>
     <button class="tab" data-v="projects" data-t="Projects|المشاريع">Projects</button>
+    <button class="tab" data-v="prog" data-t="Programming|البرمجة">Programming</button>
     <button class="tab" data-v="loto" data-t="LOTO|اللوتو">LOTO</button>
     <button class="tab" data-v="pcb" data-t="PCB repair|إصلاح كروت">PCB repair</button>
     <button class="tab" data-v="inspect" data-t="Inspect|فحص">Inspect</button>
@@ -34,7 +35,7 @@
       </aside>
       <div class="stage">
         <div class="tb">
-          <div class="seg vseg" id="viewSeg"><button class="btn on" data-v="panel" data-t="Panel|اللوحة">Panel</button><button class="btn" data-v="plant" data-t="Plant|العملية">Plant</button><button class="btn" data-v="ladder" data-t="Ladder|اللادر">Ladder</button></div>
+          <div class="seg vseg" id="viewSeg"><button class="btn on" data-v="panel" data-t="Panel|اللوحة">Panel</button><button class="btn" data-v="plant" data-t="Plant|العملية">Plant</button><button class="btn" data-v="line" data-t="Line|الخط">Line</button></div>
           <span class="sep"></span>
           <div class="seg" id="modeSeg"><button class="btn on" data-m="build" data-t="Build|بناء">Build</button><button class="btn" data-m="test" data-t="Test|اختبار">Test</button></div>
           <button class="btn pwr on" id="btnPower"><span>Supply ON</span></button>
@@ -53,7 +54,7 @@
         </div>
         <div class="cvhost" id="benchHost"></div>
         <div class="cvhost" id="plantHost"></div>
-        <div class="cvhost" id="ladHost"></div>
+        <div class="cvhost" id="lineHost"></div>
         <div class="statusbar" id="toasts"></div>
       </div>
       <aside id="side">
@@ -80,6 +81,15 @@
 
   <!-- PROJECTS -->
   <section class="view" id="v-projects"><div class="scroll"><div class="wrapc wide" id="projRoot"></div></div></section>
+
+  <!-- PROGRAMMING (PLC ladder) -->
+  <section class="view" id="v-prog">
+    <div class="prog">
+      <aside id="gpalette"><div class="phead"><input type="search" id="gsearch" data-ph="Search instructions|دور على أمر"></div><div class="plist" id="gplist"></div></aside>
+      <div class="stage"><div class="cvhost" id="ladHost"></div><div class="statusbar" id="gtoasts"></div></div>
+      <aside id="gside"><div class="spane on" id="gpane"></div></aside>
+    </div>
+  </section>
 
   <!-- LOTO -->
   <section class="view" id="v-loto"><div class="scroll"><div class="wrapc" id="lotoRoot"></div></div></section>

@@ -216,6 +216,7 @@
       else if (e.type === 'burn') { ui.buzz(500); ui.toast(T(['Burnt: ', 'اتحرق: ']) + (e.tag || '') + (e.msg ? ' (' + e.msg + ')' : ''), 'bad', 7000); }
       else if (e.type === 'fault') ui.toast(T(['Drive fault on ', 'عطل على الانفرتر ']) + (e.tag || '') + ' (' + (e.msg || '') + ')', 'bad');
       else if (e.type === 'fuse') ui.toast(e.msg, 'bad', 7000);
+      else if (e.type === 'alarm') ui.toast(T(['Alarm: ', 'إنذار: ']) + (e.tag || '') + ' (' + (e.msg || '') + ')', 'warn');
     }
   }
   B.frame = function (now) {
@@ -253,7 +254,7 @@
     const pl = $('#plist'), search = $('#psearch');
     const rebuild = () => {
       if (B.view === 'plant' && ui.plant) return ui.plant.palette(pl, search.value);
-      if (B.view === 'ladder' && ui.ladder) return ui.ladder.palette(pl, search.value);
+      if (B.view === 'line' && ui.line) return ui.line.palette(pl, search.value);
       buildPalette(pl, ed, search.value, (tapped) => { if (tapped && window.innerWidth <= 900) B.sheet(null); });
     };
     B.rebuildPalette = rebuild;
@@ -266,7 +267,8 @@
     $('#btnPause').addEventListener('click', (e) => { B.paused = !B.paused; e.currentTarget.classList.toggle('on', B.paused); });
     $('#btnSpeed').addEventListener('click', (e) => { const s = [1, 5, 20, 60]; B.speed = s[(s.indexOf(B.speed) + 1) % s.length]; e.currentTarget.textContent = B.speed + 'x'; ui.toast(T(['Simulation speed ', 'سرعة المحاكاة ']) + B.speed + 'x', '', 1500); });
     $('#btnUndo').addEventListener('click', () => ed.undo()); $('#btnRedo').addEventListener('click', () => ed.redo());
-    $('#btnZin').addEventListener('click', () => ed.zoomAt(1.25)); $('#btnZout').addEventListener('click', () => ed.zoomAt(0.8)); $('#btnFit').addEventListener('click', () => ed.fit());
+    const vz = (f) => (B.view === 'plant' && ui.plant ? ui.plant.zoom(f) : B.view === 'line' && ui.line ? ui.line.zoom(f) : ed.zoomAt(f));
+    $('#btnZin').addEventListener('click', () => vz(1.25)); $('#btnZout').addEventListener('click', () => vz(0.8)); $('#btnFit').addEventListener('click', () => (B.view === 'plant' && ui.plant ? ui.plant.fit() : B.view === 'line' && ui.line ? ui.line.fit() : ed.fit()));
     $('#btnTpl').addEventListener('click', () => B.templatesDialog());
     $('#btnFile').addEventListener('click', () => B.fileDialog());
     $('#btnClear').addEventListener('click', () => B.clearAll());
@@ -281,11 +283,11 @@
     ui.onRefresh(() => inspector(B.ed));
     document.addEventListener('keydown', (e) => {
       if (!$('#v-bench').classList.contains('on') || document.querySelector('.modal')) return;
-      if (B.view === 'plant' && ui.plant) ui.plant.keydown(e); else if (B.view !== 'ladder') B.ed.keydown(e);
+      if (B.view === 'plant' && ui.plant) ui.plant.keydown(e); else if (B.view === 'line' && ui.line) ui.line.keydown(e); else B.ed.keydown(e);
     });
     // restore
     let restored = false;
-    try { const s = localStorage.getItem('ellab.bench'); if (s) { const c = EL.deserialize(s); if (c.parts.length) { ed.setCircuit(c); restored = true; } } } catch (e) {}
+    try { const s = localStorage.getItem('ellab.bench'); if (s) { const c = EL.deserialize(s); if (c.parts.length || (c.line && c.line.els.length) || (c.plant && c.plant.units && c.plant.units.length)) { ed.setCircuit(c); restored = true; } } } catch (e) {}
     if (!restored) B.loadTemplate('dol');
     inspector(ed);
   };

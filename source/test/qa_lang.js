@@ -21,13 +21,14 @@ const { ok, sleep } = Q;
     const e0 = errs.length;
     await p.click('#tabs .tab[data-v=projects]'); await sleep(400);
     const pj = await p.evaluate(() => ({ cards: document.querySelectorAll('#projRoot .pj-card').length, txt: document.querySelector('#projRoot').innerText }));
-    ok(pj.cards === 3, `[${code}] Projects tab renders 3 cards`);
+    ok(pj.cards === await p.evaluate(() => EL.projects.list.length), `[${code}] Projects tab renders all cards`);
     await Q.shot(p, 'lang_' + code + '_projects');
     await (await p.$$('#projRoot .pj-card >> nth=0 >> button'))[2].click(); await sleep(1000);
     const views = {};
-    for (const v of ['ladder', 'plant', 'panel']) {
-      await p.click(`#viewSeg .btn[data-v=${v}]`); await sleep(500);
-      const t = await p.evaluate((v) => { const host = { panel: '#benchHost', plant: '#plantHost', ladder: '#ladHost' }[v]; return { seg: document.querySelector(`#viewSeg .btn[data-v=${v}]`).textContent, pal: document.querySelector('#plist').innerText.slice(0, 2000), side: document.querySelector('#pane-part').innerText.slice(0, 2000), host: document.querySelector(host).innerText.slice(0, 3000), n: document.querySelectorAll(host + ' svg *').length }; }, v);
+    for (const v of ['ladder', 'plant', 'line', 'panel']) {
+      if (v === 'ladder') { await p.click('#tabs .tab[data-v=prog]'); await sleep(500); } else { await p.click('#tabs .tab[data-v=bench]'); await sleep(200); await p.click(`#viewSeg .btn[data-v=${v}]`); await sleep(500); }
+      if (v === 'line' && !(await p.evaluate(() => EL.bench.ed.c.line))) { await p.evaluate(() => { EL.bench.ed.c.line = EL.line.build(EL.projects.map.line.line); EL.ui.line.render(true); EL.ui.line.inspector(); }); await sleep(300); }
+      const t = await p.evaluate((v) => { const host = { panel: '#benchHost', plant: '#plantHost', ladder: '#ladHost', line: '#lineHost' }[v]; return { seg: v === 'ladder' ? document.querySelector('#tabs .tab[data-v=prog]').textContent : document.querySelector(`#viewSeg .btn[data-v=${v}]`).textContent, pal: document.querySelector(v === 'ladder' ? '#gplist' : '#plist').innerText.slice(0, 2000), side: document.querySelector(v === 'ladder' ? '#gpane' : '#pane-part').innerText.slice(0, 2000), host: document.querySelector(host).innerText.slice(0, 3000), n: document.querySelectorAll(host + ' svg *').length }; }, v);
       views[v] = t;
       ok(t.n > 10, `[${code}] ${v} view renders (${t.n} svg nodes), seg label "${t.seg}"`);
       if (v === 'plant') { await p.evaluate(() => { const u = EL.bench.ed.c.plant.units.find((x) => x.tag === 'T1'); EL.ui.plant.select(u.id, null); }); await sleep(300); views.plantSel = await p.evaluate(() => document.querySelector('#pane-part').innerText); await p.click('#plantHost .pl-tools .btn.pri'); await sleep(200); views.addMenu = await p.evaluate(() => document.querySelector('.modal').innerText); await Q.shot(p, 'lang_' + code + '_addmenu'); await Q.closeModals(p); }

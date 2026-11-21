@@ -1,7 +1,7 @@
 const EL = require('./load.js');
 let fail = 0; const ok = (c, m) => { if (!c) { fail++; console.log('FAIL', m); } else console.log('ok  ', m); };
 const P = (c, t) => c.parts.find((p) => p.tag === t), U = (c, t) => EL.plant.byTag(c.plant, t);
-for (const id of EL.projects.list) { const c = EL.projects.load(id); EL.runSeconds(c, 1, { mains: true }); ok(c.parts.length && c.plant.units.length, id + ' loads, problems: ' + EL.plant.problems(c).filter((x) => x[0] !== 'info').map((x) => x[1] + ':' + x[2][0]).join(' | ')); const plc = c.parts.find((p) => /PLC/.test(p.type)); if (plc) { const iss = EL.ladder.check(EL.ladder.progOf(plc), plc, c); ok(!iss.some((x) => x.lvl === 'bad'), id + ' ladder check: ' + iss.map((x) => x.lvl + ' N' + (x.ni + 1) + ' ' + x.msg[0]).join(' | ')); } }
+for (const id of EL.projects.list) { const c = EL.projects.load(id); EL.runSeconds(c, 1, { mains: true }); ok(EL.projects.map[id].line ? c.line && c.line.els.length > 5 : EL.projects.map[id].circuit ? c.parts.length && c.plant.units.length : c.plant.units.length > 20, id + ' loads, problems: ' + EL.plant.problems(c).filter((x) => x[0] !== 'info').map((x) => x[1] + ':' + x[2][0]).join(' | ')); const plc = c.parts.find((p) => /PLC/.test(p.type)); if (plc) { const iss = EL.ladder.check(EL.ladder.progOf(plc), plc, c); ok(!iss.some((x) => x.lvl === 'bad'), id + ' ladder check: ' + iss.map((x) => x.lvl + ' N' + (x.ni + 1) + ' ' + x.msg[0]).join(' | ')); } }
 // tank project
 {
   const c = EL.projects.load('tank');

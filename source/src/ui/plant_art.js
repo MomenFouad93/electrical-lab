@@ -66,6 +66,9 @@
     });
     if (st.heatW > 1 || pr.htr) s += `<path d="M${x0 + 20} ${y1 - 14} h30 v-6 h-30 v-6 h30" fill="none" stroke="${st.heatW > 1 ? '#ff6b3a' : '#7d8aa1'}" stroke-width="3"/>` + tx(x0 + 60, y1 - 10, (st.heatW > 1 ? Math.round(st.heatW) + ' W' : 'heater ' + pr.htr), 'pl-s', 'start');
     s += tx(90, y1 - 8, Math.round(st.v || 0) + ' / ' + Math.round(+pr.vol) + ' L   ' + T.toFixed(1) + ' °C', 'pl-s');
+    const eta = EL.water && EL.water.tankETA(u);
+    if (eta) s += tx(90, y1 + 30, (eta.fill ? 'to 90 % in ' : 'to 10 % in ') + EL.water.fmtT(eta.s), eta.fill ? 'pl-ok' : 'pl-warn');
+    if (+pr.jkt > 0) s += `<rect x="${x0 - 9}" y="${y0 + 40}" width="5" height="${H - 50}" fill="#c8402a" opacity=".7"/><rect x="${x1 + 4}" y="${y0 + 40}" width="5" height="${H - 50}" fill="#c8402a" opacity=".7"/>`;
     if (st.ovf > 0.001) s += `<path class="pl-spill" d="M${x1 + 2} ${y0} q14 10 10 60" stroke="#4cc3ff" stroke-width="5" fill="none"/>` + tx(90, y0 - 10, 'OVERFLOW', 'pl-bad');
     s += nozzle(40, 0, 'u', 22) + nozzle(140, 0, 'u', 22) + nozzle(180, 222, 'r', 16) + nozzle(0, 222, 'l', 16);
     s += tx(14, 12, u.tag, 'pl-tag', 'start');
@@ -81,11 +84,13 @@
     g += `<g class="${run ? 'pl-spin' : ''}" style="${run ? 'animation-duration:' + Math.max(0.15, 0.8 / s1).toFixed(2) + 's;' : ''}transform-origin:112px 62px">` + [0, 60, 120, 180, 240, 300].map((a) => `<circle cx="${112 + 10 * Math.cos((a * Math.PI) / 180)}" cy="${62 + 10 * Math.sin((a * Math.PI) / 180)}" r="3" fill="#a6f5b8"/>`).join('') + '</g>';
     let s = flip ? `<g transform="translate(${w},0) scale(-1,1)">${g}</g>` : g;
     const lx = flip ? w - 37 : 37;
-    s += tx(lx, 26, u.tag + (u.props.motor ? '  -' + u.props.motor : ''), 'pl-tag');
+    s += tx(lx, 26, u.tag + (u.props.motor ? '  -' + u.props.motor : u.props.local ? '  VFD ' + Math.round(+u.props.spd) + ' %' : ''), 'pl-tag');
     s += tx(85, 114, run ? lpm(st.q) + ' L/min  Δp ' + f1(st.dp || 0) + ' bar' : 'stopped', 'pl-s');
     if (st.cav) s += tx(85, 128, 'CAVITATION / DRY', 'pl-bad');
     else if (st.s < -0.05) s += tx(85, 128, 'REVERSE ROTATION', 'pl-bad');
-    else if (!u.props.motor) s += tx(85, 128, 'no motor linked', 'pl-warn');
+    else if (u.props.local && u.props.lvt && st.lstop) s += tx(85, 128, 'level control: stopped', 'pl-s');
+    else if (u.props.local && run) s += tx(85, 128, (+u.props.qbep > 0 ? (Math.abs(st.q || 0) * 3.6).toFixed(2) + ' m³/h  ' : '') + (st.kw || 0).toFixed(2) + ' kW', 'pl-s');
+    else if (!u.props.motor && !u.props.local) s += tx(85, 128, 'no motor linked', 'pl-warn');
     return s;
   };
   const valveBody = (open, col) => `<path d="M10 30 L40 44 L10 58 Z M70 30 L40 44 L70 58 Z" fill="${col}" stroke="#0b1422" stroke-width="1.5"/><circle cx="40" cy="44" r="6" fill="#d3dae4"/>`;
@@ -102,12 +107,13 @@
   };
   D.CHECK = (u) => inlinePipe(70, 22) + `<rect x="16" y="8" width="38" height="28" rx="5" fill="#465169" stroke="#9aa5b6"/><path d="M24 22 h18 M36 15 l8 7 l-8 7" stroke="#e7edf8" stroke-width="2.5" fill="none"/>` + tx(35, 52, u.tag, 'pl-tag');
   D.FILTER = (u) => {
-    const st = u.state, clog = Math.min(1, (st.clog || 0) / 2), cart = u.props.kind === 'cart';
+    const st = u.state, clog = Math.min(1, (st.clog || 0) / 2), cart = u.props.kind === 'cart' || u.props.kind === 'cart1', carbon = u.props.kind === 'carbon';
     let s = `<rect x="14" y="8" width="52" height="128" rx="22" fill="url(#plVessel)" stroke="#8792a5" stroke-width="2"/>`;
     s += cart ? `<rect x="30" y="24" width="20" height="98" rx="6" fill="rgb(${Math.round(230 - 100 * clog)},${Math.round(225 - 120 * clog)},${Math.round(210 - 150 * clog)})" stroke="#8792a5"/>` + [0, 1, 2, 3, 4, 5, 6].map((i) => `<line x1="30" y1="${32 + i * 13}" x2="50" y2="${32 + i * 13}" stroke="#9a8f7a"/>`).join('')
+      : carbon ? `<rect x="20" y="40" width="40" height="84" rx="10" fill="#1d1f24"/>` + [0, 1, 2, 3, 4, 5].map((i) => `<circle cx="${26 + (i % 3) * 14}" cy="${56 + Math.floor(i / 3) * 30}" r="3" fill="#3a3e47"/>`).join('')
       : `<rect x="20" y="60" width="40" height="64" rx="10" fill="url(#plSand)"/><rect x="20" y="60" width="40" height="${Math.round(30 * clog)}" fill="#5a4a2a" opacity=".75"/>`;
     s += nozzle(0, 26, 'l', 16) + nozzle(80, 130, 'r', 16);
-    s += tx(40, 150, u.tag + (cart ? ' 5 µm' : ' sand'), 'pl-tag') + tx(40, 163, 'Δp ' + f1(Math.max(0, st.dp || 0)) + ' bar', clog > 0.6 ? 'pl-warn' : 'pl-s');
+    s += tx(40, 150, u.tag + (u.props.kind === 'cart1' ? ' 1 µm' : cart ? ' 5 µm' : carbon ? ' carbon' : ' sand'), 'pl-tag') + tx(40, 163, 'Δp ' + f1(Math.max(0, st.dp || 0)) + ' bar', clog > 0.6 ? 'pl-warn' : 'pl-s');
     return s;
   };
   D.RO = (u) => {
@@ -149,6 +155,7 @@
     `<rect x="36" y="34" width="18" height="16" fill="#465169"/>` + tx(45, 66, u.tag + '  Σ ' + Math.round(u.state.tot || 0) + ' L', 'pl-s');
   D.JUNC = () => `<rect x="0" y="12" width="36" height="12" fill="url(#plMetalV)"/><rect x="12" y="0" width="12" height="36" fill="url(#plMetal)"/><circle cx="18" cy="18" r="9" fill="#9aa5b6" stroke="#5c6677"/>`;
 
+  PA.D = D; PA.H = { tx, f1, lpm, nozzle, lampDot, inlinePipe, valveBody };
   PA.draw = function (u) { const f = D[u.type]; try { return f ? f(u) : ''; } catch (e) { return ''; } };
 
   /* pipe route: orthogonal path out of each port */

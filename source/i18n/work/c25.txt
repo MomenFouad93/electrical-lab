@@ -1,0 +1,989 @@
+#4165
+Écart minimal pour le capteur (mm)
+Espaçamento mínimo para o sensor (mm)
+传感器最小间隙 (mm)
+Минимальный зазор для датчика (мм)
+Minimalna przerwa dla czujnika (mm)
+Minimális rés az érzékelőhöz (mm)
+Separación mínima para el sensor (mm)
+
+#4166
+Capacité du bac (étuis)
+Capacidade do coletor (cartuchos)
+料箱容量（纸盒）
+Вместимость бункера (пачки)
+Pojemność pojemnika (kartoniki)
+Gyűjtőtartály kapacitása (doboz)
+Capacidad del contenedor (estuches)
+
+#4167
+Étuis par caisse
+Cartuchos por caixa
+每箱纸盒数
+Пачек в коробе
+Kartoników na karton zbiorczy
+Doboz gyűjtőkartononként
+Estuches por caja
+
+#4168
+Manque d'étuis
+Precisa de cartuchos
+需要纸盒
+Нужны пачки
+Brak kartoników
+Dobozra vár
+Faltan estuches
+
+#4169
+Air d'éjection OK (confirmation fonctionnelle)
+Ar de rejeição OK (confirmação funciona)
+剔除气源正常（确认功能正常）
+Воздух отбраковки в норме (подтверждение работает)
+Powietrze odrzutu OK (potwierdzenie działa)
+Kidobó levegő rendben (visszaigazolás működik)
+Aire de rechazo OK (la confirmación funciona)
+
+#4170
+Arrêt après rejets consécutifs
+Parar após rejeições seguidas
+连续剔除后停机
+Стоп после отбраковок подряд
+Zatrzymaj po odrzutach z rzędu
+Leállás egymás utáni selejtek után
+Parar tras rechazos seguidos
+
+#4171
+Temps de changement de caisse (s)
+Tempo de troca de caixa (s)
+换箱时间 (s)
+Время смены короба (с)
+Czas zmiany kartonu zbiorczego (s)
+Gyűjtőkarton-csere ideje (s)
+Tiempo de cambio de caja (s)
+
+#4172
+Étui
+Cartucho
+纸盒
+Пачка
+Kartonik
+Doboz
+Estuche
+
+#4173
+L = entre les rabats d'extrémité, l, H = épaisseur. Choisissez un format ou saisissez les dimensions.
+C = entre as abas das pontas, L, A = espessura. Escolha uma embalagem ou digite as medidas.
+L = 两端插舌之间，W、H = 厚度。选择一个包装或输入尺寸。
+L = между торцевыми клапанами, W, H = толщина. Выберите упаковку или введите размеры.
+L = między klapkami końcowymi, W, H = grubość. Wybierz opakowanie lub wpisz wymiary.
+L = a végfülek között, W, H = vastagság. Válasszon csomagolást, vagy írja be a méreteket.
+L = entre las solapas de los extremos, W, H = espesor. Elija un envase o escriba las medidas.
+
+#4174
+Poids (g)
+Peso (g)
+重量 (g)
+Масса (г)
+Masa (g)
+Tömeg (g)
+Peso (g)
+
+#4175
+Le démarrer
+Ligar
+启动
+Запустить
+Uruchom
+Indítás
+Arrancar
+
+#4176
+L'arrêter (simuler un arrêt)
+Parar (simular uma parada)
+停止（模拟停机）
+Остановить (имитация останова)
+Zatrzymaj (symulacja postoju)
+Leállítás (leállás szimulálása)
+Pararlo (simular una parada)
+
+#4177
+Réglages
+Configurações
+设置
+Настройки
+Ustawienia
+Beállítások
+Ajustes
+
+#4178
+Moteur d'entraînement sur le tableau (facultatif)
+Motor de acionamento no painel (opcional)
+面板上的驱动电机（可选）
+Приводной двигатель на щите (необязательно)
+Silnik napędowy na szafie (opcjonalnie)
+Hajtómotor a szekrényen (opcionális)
+Motor de accionamiento en el tablero (opcional)
+
+#4179
+(aucun : tourne avec la ligne)
+(nenhum: funciona com a linha)
+（无：随产线运行）
+(нет: работает вместе с линией)
+(brak: pracuje razem z linią)
+(nincs: a sorral együtt fut)
+(ninguno: funciona con la línea)
+
+#4180
+Résultats de la ligne
+Resultados da linha
+产线结果
+Результаты линии
+Wyniki linii
+Sor eredményei
+Resultados de la línea
+
+#4181
+Démarrez la ligne pour voir les résultats.
+Ligue a linha para ver os resultados.
+启动产线以查看结果。
+Запустите линию, чтобы увидеть результаты.
+Uruchom linię, aby zobaczyć wyniki.
+Indítsa el a sort az eredmények megtekintéséhez.
+Arranque la línea para ver los resultados.
+
+#4182
+Étuis conformes
+Cartuchos bons
+合格纸盒
+Годные пачки
+Dobre kartoniki
+Jó dobozok
+Estuches buenos
+
+#4183
+Caisses remplies
+Caixas cheias
+已装满箱数
+Заполненные короба
+Napełnione kartony zbiorcze
+Megtelt gyűjtőkartonok
+Cajas llenas
+
+#4184
+Temps de transit (début à fin)
+Tempo de trânsito (início ao fim)
+传送时间（从起点到终点）
+Время прохождения (от начала до конца)
+Czas przejścia (od początku do końca)
+Áthaladási idő (elejétől végéig)
+Tiempo de tránsito (de inicio a fin)
+
+#4185
+Sur la ligne actuellement
+Na linha agora
+当前在线上
+Сейчас на линии
+Teraz na linii
+Most a soron
+En la línea ahora
+
+#4186
+Arrêts de l'encartonneuse (accumulation pleine)
+Paradas da cartuchadeira (buffer cheio)
+装盒机停机（缓存已满）
+Остановы картонажной машины (буфер заполнен)
+Postoje kartoniarki (bufor pełny)
+Dobozoló leállásai (puffer tele)
+Paradas de la estuchadora (buffer lleno)
+
+#4187
+Rejetés : 
+Rejeitados: 
+剔除：
+Отбраковано: 
+Odrzucone: 
+Selejt: 
+Rechazados: 
+
+#4188
+Contrôle de la ligne
+Verificação da linha
+产线检查
+Проверка линии
+Kontrola linii
+Sor ellenőrzése
+Revisión de la línea
+
+#4189
+Guide de l'eau
+Guia da água
+水系统指南
+Руководство по воде
+Przewodnik po wodzie
+Víz útmutató
+Guía del agua
+
+#4190
+Bâche de rupture : l'eau de ville tombe par une garde d'air (protège le réseau public) et assure aux pompes une alimentation stable.
+Tanque de quebra: a água da rede cai por uma folga de ar (protege a rede pública) e dá às bombas uma alimentação estável.
+断流水箱：市政水经空气隔断落入（保护市政管网），为水泵提供稳定的供水。
+Разрывной бак: городская вода падает через воздушный разрыв (защищает городскую сеть) и обеспечивает насосам стабильную подачу.
+Zbiornik przerwy: woda miejska wpada przez przerwę powietrzną (chroni sieć miejską) i daje pompom stabilne zasilanie.
+Megszakító tartály: a városi víz légrésen át esik be (védi a városi hálózatot), és egyenletes táplálást ad a szivattyúknak.
+Tanque de rotura: el agua de red cae a través de un espacio de aire (protege la red pública) y da a las bombas un suministro estable.
+
+#4191
+Le filtre multimédia (sable) élimine les impuretés et la turbidité (SDI). Contre-lavage à environ 0,8 bar de ΔP ou toutes les 48 h.
+O filtro multimídia (areia) remove sujeira e turbidez (SDI). Retrolavagem a cerca de 0,8 bar de ΔP ou a cada 48 h.
+多介质（砂）过滤器去除杂质和浊度 (SDI)。在 ΔP 约 0.8 bar 或每 48 h 反洗一次。
+Многослойный (песчаный) фильтр удаляет грязь и мутность (SDI). Обратная промывка примерно при ΔP 0,8 bar или каждые 48 ч.
+Filtr wielowarstwowy (piaskowy) usuwa zanieczyszczenia i mętność (SDI). Płukanie wsteczne przy ok. 0,8 bar ΔP lub co 48 h.
+A többrétegű (homok-) szűrő eltávolítja a szennyeződést és a zavarosságot (SDI). Visszamosás kb. 0,8 bar ΔP-nél vagy 48 óránként.
+El filtro multimedia (arena) elimina suciedad y turbidez (SDI). Retrolavado a unos 0,8 bar de ΔP o cada 48 h.
+
+#4192
+Le charbon actif (ou le dosage de SMBS) élimine le chlore. Le chlore détruit les membranes RO de façon irréversible : ne shuntez jamais l'alarme ORP.
+O carvão ativado (ou a dosagem de SMBS) remove o cloro. O cloro destrói as membranas de RO e o dano é irreversível: nunca faça bypass do alarme de ORP.
+活性炭（或 SMBS 加药）去除余氯。氯会破坏 RO 膜且损伤不可逆：切勿旁路 ORP 报警。
+Активированный уголь (или дозирование SMBS) удаляет хлор. Хлор разрушает мембраны RO, и это повреждение необратимо: никогда не шунтируйте сигнализацию ORP.
+Węgiel aktywny (lub dozowanie SMBS) usuwa chlor. Chlor niszczy membrany RO nieodwracalnie: nigdy nie mostkuj alarmu ORP.
+Az aktív szén (vagy SMBS adagolás) eltávolítja a klórt. A klór visszafordíthatatlanul tönkreteszi az RO membránokat: soha ne hidalja át az ORP riasztást.
+El carbón activado (o la dosificación de SMBS) elimina el cloro. El cloro destruye las membranas de RO y el daño es irreversible: nunca puentee la alarma de ORP.
+
+#4193
+L'adoucisseur échange Ca/Mg contre Na pour que la RO et l'EDI ne s'entartrent pas. Vérifiez le sel et la dureté (< 1 mg/L) à chaque poste.
+O abrandador troca Ca/Mg por Na para que a RO e a EDI não incrustem. Verifique o sal e a dureza (< 1 mg/L) a cada turno.
+软化器用 Na 置换 Ca/Mg，使 RO 和 EDI 不结垢。每班检查盐和硬度 (< 1 mg/L)。
+Умягчитель заменяет Ca/Mg на Na, чтобы RO и EDI не зарастали накипью. Проверяйте соль и жёсткость (< 1 мг/л) каждую смену.
+Zmiękczacz wymienia Ca/Mg na Na, aby RO i EDI nie zarastały kamieniem. Sprawdzaj sól i twardość (< 1 mg/L) na każdej zmianie.
+A vízlágyító a Ca/Mg-t Na-ra cseréli, hogy az RO és az EDI ne vízkövesedjen. Műszakonként ellenőrizze a sót és a keménységet (< 1 mg/L).
+El descalcificador cambia Ca/Mg por Na para que la RO y la EDI no se incrusten. Revise la sal y la dureza (< 1 mg/L) en cada turno.
+
+#4194
+Le dosage d'antitartre protège le côté concentrat de la RO. Les cartouches 5 µm et 1 µm sont la dernière protection : à changer à 0,8 bar de ΔP.
+A dosagem de antiincrustante protege o lado do concentrado da RO. Os cartuchos de 5 µm e 1 µm são a última barreira: troque a 0,8 bar de ΔP.
+阻垢剂加药保护 RO 浓水侧。5 µm 和 1 µm 滤芯是最后一道防线：ΔP 达 0.8 bar 时更换。
+Дозирование антискаланта защищает сторону концентрата RO. Картриджи 5 мкм и 1 мкм — последняя защита: менять при ΔP 0,8 bar.
+Dozowanie antyskalanta chroni stronę koncentratu RO. Wkłady 5 µm i 1 µm to ostatnia osłona: wymień przy 0,8 bar ΔP.
+Az antiszkaláns adagolás védi az RO koncentrátum oldalát. Az 5 µm-es és 1 µm-es patronok az utolsó védelem: cserélje 0,8 bar ΔP-nél.
+La dosificación de antiincrustante protege el lado del concentrado de la RO. Los cartuchos de 5 µm y 1 µm son la última barrera: cambie a 0,8 bar de ΔP.
+
+#4195
+RO 1re passe (pompe haute pression, environ 11-13 bar) élimine environ 98 % des sels. La pompe déclenche sur basse pression d'aspiration.
+RO passo 1 (bomba de alta pressão, cerca de 11-13 bar) remove cerca de 98 % dos sais. A bomba desarma por baixa pressão de sucção.
+RO 一级（高压泵，约 11-13 bar）去除约 98 % 的盐分。吸入压力低时水泵跳闸。
+RO, 1-я ступень (насос высокого давления, около 11-13 bar) удаляет около 98 % солей. Насос отключается по низкому давлению на всасывании.
+RO, 1. stopień (pompa wysokociśnieniowa, ok. 11-13 bar) usuwa ok. 98 % soli. Pompa wyłącza się przy niskim ciśnieniu ssania.
+Az RO 1. fokozat (nagynyomású szivattyú, kb. 11-13 bar) a sók kb. 98 %-át eltávolítja. A szivattyú alacsony szívónyomásnál lekapcsol.
+RO paso 1 (bomba de alta presión, unos 11-13 bar) elimina cerca del 98 % de las sales. La bomba dispara por baja presión de aspiración.
+
+#4196
+La NaOH entre les passes transforme le CO2 en bicarbonate pour que la RO 2e passe puisse l'éliminer. La 2e passe amène l'eau à environ 1 µS/cm.
+O NaOH entre os passos transforma o CO2 em bicarbonato para que a RO passo 2 possa removê-lo. O passo 2 leva a água a cerca de 1 µS/cm.
+两级之间加 NaOH 把 CO2 转化为碳酸氢盐，使 RO 二级能将其去除。二级把水提纯到约 1 µS/cm。
+NaOH между ступенями превращает CO2 в бикарбонат, чтобы RO 2-й ступени мог его удалить. 2-я ступень доводит воду примерно до 1 µS/cm.
+NaOH między stopniami zamienia CO2 w wodorowęglan, aby RO 2. stopnia mógł go usunąć. 2. stopień doprowadza wodę do ok. 1 µS/cm.
+A fokozatok közötti NaOH a CO2-t hidrogén-karbonáttá alakítja, így a 2. RO fokozat el tudja távolítani. A 2. fokozat kb. 1 µS/cm-re tisztítja a vizet.
+El NaOH entre pasos convierte el CO2 en bicarbonato para que la RO paso 2 pueda eliminarlo. El paso 2 deja el agua en unos 1 µS/cm.
+
+#4197
+L'EDI affine jusqu'à environ 0,1 µS/cm avec du courant continu et de la résine. Elle exige une eau adoucie et sans chlore et déclenche sur bas débit.
+A EDI faz o polimento até cerca de 0,1 µS/cm com corrente contínua e resina. Ela precisa de água abrandada e sem cloro e desarma por baixa vazão.
+EDI 利用直流电和树脂精制到约 0.1 µS/cm。它需要软化、无氯的进水，流量低时跳闸。
+EDI доочищает примерно до 0,1 µS/cm с помощью постоянного тока и смолы. Ей нужна умягчённая вода без хлора; отключается при низком расходе.
+EDI doczyszcza do ok. 0,1 µS/cm za pomocą prądu stałego i żywicy. Wymaga wody zmiękczonej i bez chloru, wyłącza się przy niskim przepływie.
+Az EDI egyenárammal és gyantával kb. 0,1 µS/cm-re finomtisztít. Lágy, klórmentes vizet igényel, és alacsony átfolyásnál lekapcsol.
+La EDI pule hasta unos 0,1 µS/cm con corriente continua y resina. Necesita agua blanda y sin cloro, y dispara por bajo caudal.
+
+#4198
+UV 254 nm tue les bactéries ; la vanne de dérivation envoie l'eau à l'égout au-dessus d'environ 1,1 µS/cm, donc l'eau non conforme n'entre jamais dans la cuve PW.
+UV 254 nm mata as bactérias; a válvula de desvio manda a água para o dreno acima de cerca de 1,1 µS/cm, assim água ruim nunca entra no tanque de PW.
+UV 254 nm 杀灭细菌；电导率高于约 1.1 µS/cm 时分流阀把水排到地漏，不合格水绝不会进入 PW 储罐。
+UV 254 нм убивает бактерии; отводной клапан сбрасывает воду в дренаж выше примерно 1,1 µS/cm, поэтому некондиционная вода никогда не попадает в бак PW.
+UV 254 nm zabija bakterie; zawór odcinający kieruje wodę do kanalizacji powyżej ok. 1,1 µS/cm, więc zła woda nigdy nie trafia do zbiornika PW.
+Az UV 254 nm elpusztítja a baktériumokat; kb. 1,1 µS/cm felett a terelőszelep a csatornába küldi a vizet, így rossz víz soha nem kerül a PW tartályba.
+UV 254 nm mata las bacterias; la válvula de desvío manda el agua al drenaje por encima de unos 1,1 µS/cm, así el agua no conforme nunca entra al tanque de PW.
+
+#4199
+Cuve PW (316L, boule de lavage, filtre d'évent hydrophobe 0,2 µm, chauffé sur les cuves chaudes). La production démarre à 65 % et s'arrête à 90 %.
+Tanque de PW (316L, spray ball, filtro de respiro hidrofóbico 0,2 µm, aquecido nos tanques quentes). A geração começa em 65 % e para em 90 %.
+PW 储罐（316L，喷淋球，疏水性 0.2 µm 呼吸过滤器，热罐上带加热）。制水在 65 % 启动，90 % 停止。
+Бак PW (316L, моющая головка, гидрофобный дыхательный фильтр 0,2 мкм, с обогревом на горячих баках). Производство начинается при 65 % и останавливается при 90 %.
+Zbiornik PW (316L, kula myjąca, hydrofobowy filtr odpowietrzający 0,2 µm, grzany na zbiornikach gorących). Produkcja startuje przy 65 % i zatrzymuje się przy 90 %.
+PW tartály (316L, mosófej, hidrofób 0,2 µm-es légzőszűrő, forró tartályoknál fűtött). A termelés 65 %-nál indul és 90 %-nál áll le.
+Tanque de PW (316L, bola de aspersión, filtro de venteo hidrofóbico 0,2 µm, calefactado en tanques calientes). La producción arranca al 65 % y para al 90 %.
+
+#4200
+La boucle PW ne s'arrête jamais : au moins 1 m/s au retour (Re > 10 000), bras morts ≤ 2 D, UV en marche, sanitisation à 80 °C selon le planning.
+O loop de PW nunca para: pelo menos 1 m/s no retorno (Re > 10 000), pernas mortas ≤ 2 D, UV ligado, sanitizar a 80 °C conforme o cronograma.
+PW 循环回路从不停止：回水处至少 1 m/s (Re > 10 000)，死角 ≤ 2 D，UV 开启，按计划 80 °C 消毒。
+Контур PW никогда не останавливается: не менее 1 м/с на возврате (Re > 10 000), тупики ≤ 2 D, UV включён, санитизация при 80 °C по графику.
+Pętla PW nigdy się nie zatrzymuje: co najmniej 1 m/s na powrocie (Re > 10 000), martwe odcinki ≤ 2 D, UV włączone, sanityzacja w 80 °C wg harmonogramu.
+A PW hurok soha nem áll le: a visszatérőn legalább 1 m/s (Re > 10 000), holt ágak ≤ 2 D, UV bekapcsolva, ütemterv szerinti szanitálás 80 °C-on.
+El lazo de PW nunca para: al menos 1 m/s en el retorno (Re > 10 000), tramos muertos ≤ 2 D, UV encendido, sanitizar a 80 °C según el programa.
+
+#4201
+Le distillateur (MED) fait bouillir la PW avec la vapeur industrielle (environ 6 bar) et condense la WFI. Il élimine bactéries et endotoxines (3 log ou plus).
+O destilador (MED) ferve a PW com vapor industrial (cerca de 6 bar) e condensa a WFI. Ele remove bactérias e endotoxinas (3 log ou mais).
+蒸馏水机 (MED) 用工业蒸汽（约 6 bar）加热 PW 并冷凝出 WFI。它去除细菌和内毒素（3 log 或以上）。
+Дистиллятор (MED) кипятит PW технологическим паром (около 6 bar) и конденсирует WFI. Он удаляет бактерии и эндотоксины (3 log и более).
+Destylator (MED) gotuje PW parą technologiczną (ok. 6 bar) i skrapla WFI. Usuwa bakterie i endotoksyny (3 log lub więcej).
+A desztilláló (MED) üzemi gőzzel (kb. 6 bar) forralja a PW-t és WFI-t kondenzál. Eltávolítja a baktériumokat és az endotoxint (3 log vagy több).
+El destilador (MED) hierve la PW con vapor de planta (unos 6 bar) y condensa la WFI. Elimina bacterias y endotoxinas (3 log o más).
+
+#4202
+La WFI est stockée et circule à chaud (80-85 °C, jamais sous 70 °C). Les refroidisseurs POU ne la refroidissent qu'au point d'utilisation.
+A WFI é armazenada e circula quente (80-85 °C, nunca abaixo de 70 °C). Os resfriadores de POU a resfriam só no ponto de uso.
+WFI 热储存、热循环（80-85 °C，绝不低于 70 °C）。POU 冷却器只在使用点冷却。
+WFI хранится и циркулирует горячей (80-85 °C, никогда ниже 70 °C). Охладители POU охлаждают её только в точке отбора.
+WFI jest magazynowana i krąży na gorąco (80-85 °C, nigdy poniżej 70 °C). Chłodnice POU schładzają ją tylko w punkcie poboru.
+A WFI-t forrón tárolják és keringetik (80-85 °C, soha nem 70 °C alatt). A POU hűtők csak a vételi ponton hűtik.
+La WFI se almacena y circula en caliente (80-85 °C, nunca por debajo de 70 °C). Los enfriadores de POU la enfrían solo en el punto de uso.
+
+#4203
+Limites : conductivité selon le tableau USP Stage 1 à la température réelle, non compensée (1,1 à 20 °C, 1,3 à 25 °C) ; Ph. Eur. PW 4,3 à 20 °C. TOC ≤ 500 ppb. Les bactéries sont des résultats de laboratoire comparés aux niveaux d'action : PW 100 CFU/mL, WFI 10 CFU/100 mL. Endotoxines WFI < 0,25 EU/mL.
+Limites: condutividade pela tabela USP Stage 1 na temperatura real, sem compensação (1,1 a 20 °C, 1,3 a 25 °C); Ph. Eur. PW 4,3 a 20 °C. TOC ≤ 500 ppb. Bactérias são resultados de laboratório comparados aos níveis de ação: PW 100 CFU/mL, WFI 10 CFU/100 mL. Endotoxina da WFI < 0,25 EU/mL.
+限值：电导率按 USP Stage 1 表在实际温度下判定，不做温度补偿（20 °C 时 1.1，25 °C 时 1.3）；Ph. Eur. PW 20 °C 时 4.3。TOC ≤ 500 ppb。细菌是实验室结果，与行动限比较：PW 100 CFU/mL，WFI 10 CFU/100 mL。WFI 内毒素 < 0.25 EU/mL。
+Пределы: электропроводность по таблице USP Stage 1 при фактической температуре, без компенсации (1,1 при 20 °C, 1,3 при 25 °C); Ph. Eur. PW 4,3 при 20 °C. TOC ≤ 500 ppb. Бактерии — это лабораторные результаты против уровней действия: PW 100 CFU/mL, WFI 10 CFU/100 mL. Эндотоксины WFI < 0,25 EU/mL.
+Limity: przewodność wg tabeli USP Stage 1 w rzeczywistej temperaturze, bez kompensacji (1,1 w 20 °C, 1,3 w 25 °C); Ph. Eur. PW 4,3 w 20 °C. TOC ≤ 500 ppb. Bakterie to wyniki laboratoryjne porównywane z poziomami działania: PW 100 CFU/mL, WFI 10 CFU/100 mL. Endotoksyny WFI < 0,25 EU/mL.
+Határértékek: vezetőképesség az USP Stage 1 táblázat szerint a tényleges hőmérsékleten, kompenzálás nélkül (1,1 20 °C-on, 1,3 25 °C-on); Ph. Eur. PW 4,3 20 °C-on. TOC ≤ 500 ppb. A baktériumok laboreredmények a beavatkozási szintekhez mérve: PW 100 CFU/mL, WFI 10 CFU/100 mL. WFI endotoxin < 0,25 EU/mL.
+Límites: conductividad según la tabla USP Stage 1 a la temperatura real, sin compensar (1,1 a 20 °C, 1,3 a 25 °C); Ph. Eur. PW 4,3 a 20 °C. TOC ≤ 500 ppb. Las bacterias son resultados de laboratorio frente a niveles de acción: PW 100 CFU/mL, WFI 10 CFU/100 mL. Endotoxinas de WFI < 0,25 EU/mL.
+
+#4204
+La vapeur pure (facultative) est produite à partir de PW ; son condensat doit avoir la qualité WFI. Elle alimente les autoclaves et le SIP.
+O vapor puro (opcional) é feito a partir da PW; seu condensado deve ter qualidade de WFI. Ele alimenta autoclaves e SIP.
+纯蒸汽（可选）由 PW 制取；其冷凝水必须达到 WFI 质量。供给灭菌柜和 SIP。
+Чистый пар (необязательно) получают из PW; его конденсат должен соответствовать качеству WFI. Он подаётся на автоклавы и SIP.
+Para czysta (opcjonalnie) jest wytwarzana z PW; jej kondensat musi mieć jakość WFI. Zasila autoklawy i SIP.
+A tiszta gőzt (opcionális) PW-ből állítják elő; kondenzátumának WFI minőségűnek kell lennie. Autoklávokat és SIP-et táplál.
+El vapor puro (opcional) se produce a partir de PW; su condensado debe tener calidad WFI. Alimenta autoclaves y SIP.
+
+#4205
+Pompe d'alimentation eau brute 1,5 kW : VFD (pression constante) ou DOL.
+Bomba de alimentação de água bruta 1,5 kW: VFD (pressão constante) ou DOL.
+原水供水泵 1.5 kW：VFD（恒压）或 DOL。
+Насос подачи исходной воды 1,5 кВт: VFD (постоянное давление) или DOL.
+Pompa wody surowej 1,5 kW: VFD (stałe ciśnienie) lub DOL.
+Nyersvíz tápszivattyú 1,5 kW: VFD (állandó nyomás) vagy DOL.
+Bomba de alimentación de agua bruta 1,5 kW: VFD (presión constante) o DOL.
+
+#4206
+Pompes haute pression RO 3 kW et 2,2 kW : VFD avec rampe de 15 s ; déclenchements : aspiration < 0,7 bar, refoulement > 16 bar, ORP > 350 mV.
+Bombas de alta pressão da RO 3 kW e 2,2 kW: VFD com rampa de 15 s; desarmes: sucção < 0,7 bar, descarga > 16 bar, ORP > 350 mV.
+RO 高压泵 3 kW 和 2.2 kW：VFD，15 s 斜坡；跳闸：吸入 < 0.7 bar，出口 > 16 bar，ORP > 350 mV。
+Насосы высокого давления RO 3 кВт и 2,2 кВт: VFD с разгоном 15 с; отключения: всасывание < 0,7 bar, нагнетание > 16 bar, ORP > 350 мВ.
+Pompy wysokociśnieniowe RO 3 kW i 2,2 kW: VFD z rampą 15 s; wyłączenia: ssanie < 0,7 bar, tłoczenie > 16 bar, ORP > 350 mV.
+RO nagynyomású szivattyúk 3 kW és 2,2 kW: VFD 15 s-os rámpával; leoldások: szívás < 0,7 bar, nyomóoldal > 16 bar, ORP > 350 mV.
+Bombas de alta presión de RO 3 kW y 2,2 kW: VFD con rampa de 15 s; disparos: aspiración < 0,7 bar, descarga > 16 bar, ORP > 350 mV.
+
+#4207
+Pompes doseuses 0,02-0,1 kW, 230 V, asservies au débitmètre d'alimentation (impulsion ou 4-20 mA).
+Bombas dosadoras 0,02-0,1 kW, 230 V, comandadas pelo medidor de vazão de alimentação (pulso ou 4-20 mA).
+加药泵 0.02-0.1 kW，230 V，按进水流量计比例控制（脉冲或 4-20 mA）。
+Дозирующие насосы 0,02-0,1 кВт, 230 В, управляются от расходомера подачи (импульс или 4-20 мА).
+Pompy dozujące 0,02-0,1 kW, 230 V, sterowane przepływomierzem zasilania (impuls lub 4-20 mA).
+Adagolószivattyúk 0,02-0,1 kW, 230 V, a tápvíz-áramlásmérő vezérli (impulzus vagy 4-20 mA).
+Bombas dosificadoras 0,02-0,1 kW, 230 V, comandadas por el caudalímetro de alimentación (pulso o 4-20 mA).
+
+#4208
+Alimentation continue EDI 0,5-1 kW : activée seulement si les débits de produit et de rejet sont au-dessus du minimum.
+Fonte CC da EDI 0,5-1 kW: habilitada só com vazão de produto e de rejeito acima do mínimo.
+EDI 直流电源 0.5-1 kW：只有产水和浓水流量都高于最小值时才使能。
+Источник постоянного тока EDI 0,5-1 кВт: включается только при расходах продукта и сброса выше минимума.
+Zasilacz DC EDI 0,5-1 kW: załączany tylko przy przepływie produktu i odrzutu powyżej minimum.
+EDI egyenáramú tápegység 0,5-1 kW: csak akkor engedélyezett, ha a termék- és a koncentrátumáramlás a minimum felett van.
+Fuente de CC de la EDI 0,5-1 kW: habilitada solo con caudal de producto y de rechazo por encima del mínimo.
+
+#4209
+Pompe de boucle PW 2,2 kW VFD, pompe de boucle WFI 1,5 kW VFD : arrêt sur LL de la cuve, alarme sous 0,9 m/s de vitesse au retour.
+Bomba do loop de PW 2,2 kW VFD, bomba do loop de WFI 1,5 kW VFD: param no LL do tanque, alarme abaixo de 0,9 m/s de velocidade no retorno.
+PW 回路泵 2.2 kW VFD，WFI 回路泵 1.5 kW VFD：储罐 LL 时停泵，回水流速低于 0.9 m/s 时报警。
+Насос контура PW 2,2 кВт VFD, насос контура WFI 1,5 кВт VFD: стоп по LL бака, тревога при скорости на возврате ниже 0,9 м/с.
+Pompa pętli PW 2,2 kW VFD, pompa pętli WFI 1,5 kW VFD: stop przy LL zbiornika, alarm poniżej 0,9 m/s prędkości na powrocie.
+PW hurokszivattyú 2,2 kW VFD, WFI hurokszivattyú 1,5 kW VFD: leállás a tartály LL szintjén, riasztás 0,9 m/s visszatérő sebesség alatt.
+Bomba del lazo de PW 2,2 kW VFD, bomba del lazo de WFI 1,5 kW VFD: paran en LL del tanque, alarma por debajo de 0,9 m/s de velocidad en el retorno.
+
+#4210
+Réchauffeur de sanitisation 36-54 kW (ou un échangeur vapeur) ; réchauffeurs de filtre d'évent 50-100 W ; lampes UV de 150 W chacune.
+Aquecedor de sanitização 36-54 kW (ou um trocador a vapor); aquecedores do filtro de respiro 50-100 W; lâmpadas UV de 150 W cada.
+消毒加热器 36-54 kW（或蒸汽换热器）；呼吸过滤器加热器 50-100 W；UV 灯每支 150 W。
+Нагреватель санитизации 36-54 кВт (или паровой теплообменник); обогрев дыхательных фильтров 50-100 Вт; лампы UV по 150 Вт.
+Grzałka sanityzacji 36-54 kW (lub wymiennik parowy); grzałki filtrów odpowietrzających 50-100 W; lampy UV po 150 W.
+Szanitáló fűtő 36-54 kW (vagy gőzös hőcserélő); légzőszűrő-fűtések 50-100 W; UV lámpák egyenként 150 W.
+Calentador de sanitización 36-54 kW (o un intercambiador de vapor); calentadores del filtro de venteo 50-100 W; lámparas UV de 150 W cada una.
+
+#4211
+Instruments : LT et TT sur les cuves, PT et ΔPT sur les filtres, FT sur l'alimentation, le perméat et la boucle, conductivité sur chaque passe RO et au retour de boucle, TOC au retour, intensité UV.
+Instrumentos: LT e TT nos tanques, PT e ΔPT nos filtros, FT na alimentação, no permeado e no loop, condutividade em cada passo da RO e no retorno do loop, TOC no retorno, intensidade UV.
+仪表：储罐上 LT 和 TT，过滤器上 PT 和 ΔPT，进水、产水和回路上 FT，每级 RO 和回路回水上电导率，回水上 TOC，UV 强度。
+Приборы: LT и TT на баках, PT и ΔPT на фильтрах, FT на подаче, пермеате и контуре, электропроводность на каждой ступени RO и на возврате контура, TOC на возврате, интенсивность UV.
+Aparatura: LT i TT na zbiornikach, PT i ΔPT na filtrach, FT na zasilaniu, permeacie i pętli, przewodność na każdym stopniu RO i na powrocie pętli, TOC na powrocie, natężenie UV.
+Műszerek: LT és TT a tartályokon, PT és ΔPT a szűrőkön, FT a tápvízen, a permeátumon és a hurkon, vezetőképesség minden RO fokozaton és a hurok visszatérőjén, TOC a visszatérőn, UV intenzitás.
+Instrumentos: LT y TT en los tanques, PT y ΔPT en los filtros, FT en la alimentación, el permeado y el lazo, conductividad en cada paso de RO y en el retorno del lazo, TOC en el retorno, intensidad UV.
+
+#4212
+Eau pharmaceutique : de l'eau de ville à la WFI
+Água farmacêutica: da água da rede à WFI
+制药用水：从市政水到 WFI
+Фармацевтическая вода: от городской воды до WFI
+Woda farmaceutyczna: od wody miejskiej do WFI
+Gyógyszeripari víz: a városi víztől a WFI-ig
+Agua farmacéutica: del agua de red a la WFI
+
+#4213
+Moteurs, électricité et instruments
+Motores, elétrica e instrumentos
+电机、电气和仪表
+Двигатели, электрика и приборы
+Silniki, elektryka i aparatura
+Motorok, villamosság és műszerek
+Motores, electricidad e instrumentos
+
+#4214
+Valeurs typiques pour la formation, pas des valeurs de conception validées. La croissance bactérienne et l'usure des membranes sont accélérées pour que vous puissiez les voir.
+Valores típicos para treinamento, não valores de projeto validados. O crescimento de bactérias e o dano às membranas correm mais rápido que na vida real para que você possa vê-los.
+培训用典型值，不是经验证的设计值。细菌生长和膜损伤比实际更快，便于观察。
+Типовые значения для обучения, не утверждённые проектные значения. Рост бактерий и повреждение мембран идут быстрее, чем в жизни, чтобы их было видно.
+Typowe wartości szkoleniowe, nie zwalidowane wartości projektowe. Wzrost bakterii i uszkodzenie membran przebiegają szybciej niż w rzeczywistości, aby było je widać.
+Tipikus oktatási értékek, nem validált tervezési értékek. A baktériumszaporodás és a membránkárosodás gyorsabban zajlik a valóságnál, hogy látható legyen.
+Valores típicos para formación, no valores de diseño validados. El crecimiento de bacterias y el daño a las membranas van más rápido que en la realidad para que pueda verlos.
+
+#4215
+Ouvrir l'installation PW / WFI prête
+Abrir a planta PW / WFI pronta
+打开现成的 PW / WFI 系统
+Открыть готовую установку PW / WFI
+Otwórz gotową instalację PW / WFI
+Kész PW / WFI rendszer megnyitása
+Abrir la planta PW / WFI lista
+
+#4216
+Qualité de l'eau
+Qualidade da água
+水质
+Качество воды
+Jakość wody
+Vízminőség
+Calidad del agua
+
+#4217
+Le robinet à flotteur d'entrée ferme à (%, 0 = aucun)
+Válvula de boia de entrada fecha em (%, 0 = nenhuma)
+进水浮球阀关闭于 (%，0 = 无)
+Поплавковый клапан на входе закрывается при (%, 0 = нет)
+Zawór pływakowy na wlocie zamyka przy (%, 0 = brak)
+Bemeneti úszószelep zár ennél (%, 0 = nincs)
+La válvula de flotador de entrada cierra a (%, 0 = ninguna)
+
+#4218
+Eau au démarrage
+Água nele no início
+初始水量
+Вода в нём на старте
+Woda w nim na starcie
+Víz benne induláskor
+Agua al inicio
+
+#4219
+Double enveloppe vapeur maintient (°C, 0 = arrêt)
+Camisa de vapor mantém (°C, 0 = desligada)
+蒸汽夹套保持 (°C，0 = 关)
+Паровая рубашка держит (°C, 0 = выкл.)
+Płaszcz parowy utrzymuje (°C, 0 = wył.)
+Gőzköpeny tartja (°C, 0 = ki)
+La camisa de vapor mantiene (°C, 0 = apagada)
+
+#4220
+Taille (DN, 0 = ancienne taille libre)
+Tamanho (DN, 0 = tamanho livre antigo)
+尺寸 (DN，0 = 旧的自由尺寸)
+Размер (DN, 0 = старый свободный размер)
+Rozmiar (DN, 0 = stary dowolny rozmiar)
+Méret (DN, 0 = régi szabad méret)
+Tamaño (DN, 0 = tamaño libre antiguo)
+
+#4221
+Type de vanne
+Tipo de válvula
+阀门类型
+Тип клапана
+Typ zaworu
+Szeleptípus
+Tipo de válvula
+
+#4222
+Débit nominal (m³/h, 0 = pompe simple)
+Vazão nominal (m³/h, 0 = bomba simples)
+额定流量 (m³/h，0 = 简单泵)
+Рабочий расход (м³/ч, 0 = простой насос)
+Przepływ nominalny (m³/h, 0 = prosta pompa)
+Munkaponti térfogatáram (m³/h, 0 = egyszerű szivattyú)
+Caudal nominal (m³/h, 0 = bomba simple)
+
+#4223
+Hauteur nominale (m)
+Altura manométrica nominal (m)
+额定扬程 (m)
+Рабочий напор (м)
+Wysokość podnoszenia nominalna (m)
+Munkaponti emelőmagasság (m)
+Altura nominal (m)
+
+#4224
+Rendement de la pompe (0-1)
+Eficiência da bomba (0-1)
+泵效率 (0-1)
+КПД насоса (0-1)
+Sprawność pompy (0-1)
+Szivattyú hatásfoka (0-1)
+Rendimiento de la bomba (0-1)
+
+#4225
+Fonctionner sans le tableau (VFD local)
+Funcionar sem o painel (VFD local)
+不经面板运行（本地 VFD）
+Работать без щита (местный VFD)
+Praca bez szafy (lokalny VFD)
+Futás a szekrény nélkül (helyi VFD)
+Funcionar sin el tablero (VFD local)
+
+#4226
+Vitesse VFD (%)
+Velocidade do VFD (%)
+VFD 转速 (%)
+Скорость VFD (%)
+Prędkość VFD (%)
+VFD fordulatszám (%)
+Velocidad del VFD (%)
+
+#4227
+Régulation de niveau : cuve
+Controle de nível: tanque
+液位控制：储罐
+Регулирование уровня: бак
+Regulacja poziomu: zbiornik
+Szintszabályozás: tartály
+Control de nivel: tanque
+
+#4228
+Démarrer au niveau (%)
+Ligar no nível (%)
+启动液位 (%)
+Пуск при уровне (%)
+Start przy poziomie (%)
+Indítás ennél a szintnél (%)
+Arrancar al nivel (%)
+
+#4229
+Arrêter au niveau (%)
+Parar no nível (%)
+停止液位 (%)
+Стоп при уровне (%)
+Stop przy poziomie (%)
+Leállás ennél a szintnél (%)
+Parar al nivel (%)
+
+#4230
+Rejet de sels (%)
+Rejeição de sais (%)
+脱盐率 (%)
+Задержание солей (%)
+Retencja soli (%)
+Sóvisszatartás (%)
+Rechazo de sales (%)
+
+#4231
+Surface membranaire (x, nombre d'éléments)
+Área de membrana (x, número de elementos)
+膜面积（x，膜元件数量）
+Площадь мембран (x, число элементов)
+Powierzchnia membran (x, liczba elementów)
+Membránfelület (x, elemek száma)
+Área de membrana (x, número de elementos)
+
+#4232
+Capacité de la résine (m³ d'eau de ville)
+Capacidade da resina (m³ de água da rede)
+树脂容量（m³ 市政水）
+Ёмкость смолы (м³ городской воды)
+Pojemność żywicy (m³ wody miejskiej)
+Gyanta kapacitása (m³ városi víz)
+Capacidad de la resina (m³ de agua de red)
+
+#4233
+Produit chimique
+Produto químico
+化学品
+Реагент
+Chemikalia
+Vegyszer
+Producto químico
+
+#4234
+Intensité de la lampe (%)
+Intensidade da lâmpada (%)
+灯管强度 (%)
+Интенсивность лампы (%)
+Natężenie lampy (%)
+Lámpa intenzitása (%)
+Intensidad de la lámpara (%)
+
+#4235
+Longueur d'onde (nm)
+Comprimento de onda (nm)
+波长 (nm)
+Длина волны (нм)
+Długość fali (nm)
+Hullámhossz (nm)
+Longitud de onda (nm)
+
+#4236
+Vapeur ouverte
+Vapor ligado
+蒸汽开启
+Пар включён
+Para włączona
+Gőz be
+Vapor activado
+
+#4237
+Comparer à
+Verificar contra
+对照
+Сравнить с
+Porównaj z
+Ellenőrzés ehhez képest
+Comparar con
+
+#4238
+Dériver au-dessus de (µS/cm compensé à 25 °C)
+Desviar acima de (µS/cm compensado a 25 °C)
+高于此值分流（µS/cm，补偿到 25 °C）
+Отвод выше (µS/cm с компенсацией к 25 °C)
+Odrzut powyżej (µS/cm kompensowane do 25 °C)
+Terelés e felett (µS/cm, 25 °C-ra kompenzálva)
+Desviar por encima de (µS/cm compensado a 25 °C)
+
+#4239
+Cuve d'aspiration (s'arrête sous 10 %)
+Tanque de sucção (para abaixo de 10 %)
+吸水罐（低于 10 % 停止）
+Бак всасывания (стоп ниже 10 %)
+Zbiornik ssawny (stop poniżej 10 %)
+Szívótartály (10 % alatt leáll)
+Tanque de aspiración (para por debajo del 10 %)
+
+#4240
+Déclenchement basse aspiration (bar, 0 = désactivé)
+Desarme por baixa sucção (bar, 0 = desligado)
+低吸入压力跳闸 (bar，0 = 关)
+Отключение по низкому всасыванию (bar, 0 = выкл.)
+Wyłączenie przy niskim ssaniu (bar, 0 = wył.)
+Alacsony szívónyomás leoldás (bar, 0 = ki)
+Disparo por baja aspiración (bar, 0 = desactivado)
+
+#4241
+Charbon actif (élimine le chlore)
+Carvão ativado (remove o cloro)
+活性炭（去除余氯）
+Активированный уголь (удаляет хлор)
+Węgiel aktywny (usuwa chlor)
+Aktív szén (eltávolítja a klórt)
+Carbón activado (elimina el cloro)
+
+#4242
+Cartouche 1 µm
+Cartucho 1 µm
+1 µm 滤芯
+Картридж 1 мкм
+Wkład 1 µm
+Patron 1 µm
+Cartucho 1 µm
+
+#4243
+NaOH (entre les passes RO)
+NaOH (entre os passos da RO)
+NaOH（RO 两级之间）
+NaOH (между ступенями RO)
+NaOH (między stopniami RO)
+NaOH (az RO fokozatok között)
+NaOH (entre pasos de RO)
+
+#4244
+SMBS (élimine le chlore)
+SMBS (remove o cloro)
+SMBS（去除余氯）
+SMBS (удаляет хлор)
+SMBS (usuwa chlor)
+SMBS (eltávolítja a klórt)
+SMBS (elimina el cloro)
+
+#4245
+Antitartre (avant RO)
+Antiincrustante (antes da RO)
+阻垢剂（RO 之前）
+Антискалант (перед RO)
+Antyskalant (przed RO)
+Antiszkaláns (RO előtt)
+Antiincrustante (antes de la RO)
+
+#4246
+NaOCl (chlore)
+NaOCl (cloro)
+NaOCl（氯）
+NaOCl (хлор)
+NaOCl (chlor)
+NaOCl (klór)
+NaOCl (cloro)
+
+#4247
+Eau de ville
+Água da rede
+市政水
+Городская вода
+Woda miejska
+Városi víz
+Agua de red
+
+#4248
+Eau de puits (dure)
+Água de poço (dura)
+井水（硬水）
+Скважинная вода (жёсткая)
+Woda studzienna (twarda)
+Kútvíz (kemény)
+Agua de pozo (dura)
+
+#4249
+Eau purifiée
+Água purificada
+纯化水
+Очищенная вода
+Woda oczyszczona
+Tisztított víz
+Agua purificada
+
+#4250
+Membrane (PW / WFI)
+Diafragma (PW / WFI)
+隔膜阀（PW / WFI）
+Мембранный (PW / WFI)
+Membranowy (PW / WFI)
+Membránszelep (PW / WFI)
+Diafragma (PW / WFI)
+
+#4251
+À boisseau sphérique (prétraitement)
+Esfera (pré-tratamento)
+球阀（预处理）
+Шаровой (предподготовка)
+Kulowy (uzdatnianie wstępne)
+Golyóscsap (előkezelés)
+Bola (pretratamiento)
+
+#4252
+Papillon
+Borboleta
+蝶阀
+Дисковый затвор
+Przepustnica
+Pillangószelep
+Mariposa
+
+#4253
+Ancienne taille libre (L/min à 1 bar)
+Tamanho livre antigo (L/min a 1 bar)
+旧的自由尺寸（1 bar 下 L/min）
+Старый свободный размер (L/min при 1 bar)
+Stary dowolny rozmiar (L/min przy 1 bar)
+Régi szabad méret (L/min 1 bar-on)
+Tamaño libre antiguo (L/min a 1 bar)
+
+#4254
+tue les bactéries
+mata as bactérias
+杀灭细菌
+убивает бактерии
+zabija bakterie
+elpusztítja a baktériumokat
+mata las bacterias
+
+#4255
+réduit aussi le TOC
+também reduz o TOC
+也降低 TOC
+также снижает TOC
+obniża też TOC
+a TOC-t is csökkenti
+también reduce el TOC
+
+#4256
+(aucun)
+(nenhum)
+（无）
+(нет)
+(brak)
+(nincs)
+(ninguno)
+
+#4257
+Diamètre de tuyauterie
+Diâmetro da tubulação
+管径
+Диаметр трубы
+Średnica rury
+Csőméret
+Diámetro de tubería
+
+#4258
+Taille libre (sans modèle de frottement)
+Tamanho livre (sem modelo de atrito)
+自由尺寸（无摩擦模型）
+Свободный размер (без модели трения)
+Dowolny rozmiar (bez modelu tarcia)
+Szabad méret (súrlódási modell nélkül)
+Tamaño libre (sin modelo de fricción)
+
+#4259
+Matériau
+Material
+材质
+Материал
+Materiał
+Anyag
+Material
+
+#4260
+Tube inox 316L (PW / WFI)
+Tubo inox 316L (PW / WFI)
+316L 不锈钢管 (PW / WFI)
+Труба из нержавеющей стали 316L (PW / WFI)
+Rura nierdzewna 316L (PW / WFI)
+316L rozsdamentes cső (PW / WFI)
+Tubo inoxidable 316L (PW / WFI)
+
+#4261
+PVC-U (prétraitement)
+PVC-U (pré-tratamento)
+PVC-U（预处理）
+PVC-U (предподготовка)
+PVC-U (uzdatnianie wstępne)
+PVC-U (előkezelés)
+PVC-U (pretratamiento)
+
+#4262
+Fait partie d'une boucle de distribution (garder ≥ 1 m/s)
+Parte de um loop de distribuição (manter ≥ 1 m/s)
+属于分配回路（保持 ≥ 1 m/s）
+Часть распределительного контура (держать ≥ 1 м/с)
+Część pętli dystrybucyjnej (utrzymuj ≥ 1 m/s)
+Elosztóhurok része (tartson ≥ 1 m/s-ot)
+Parte de un lazo de distribución (mantener ≥ 1 m/s)
+
+#4263
+Mode construction : faites glisser les unités, touchez un port puis un autre pour poser un tuyau. Mode test : touchez les vannes pour les ouvrir ou les fermer. Une pompe tourne quand son moteur lié sur le tableau tourne, ou avec son propre VFD local.
+Modo montagem: arraste as unidades, toque numa porta e depois em outra para colocar um tubo. Modo teste: toque nas válvulas para abri-las ou fechá-las. Uma bomba gira quando o motor ligado a ela no painel gira, ou com o seu próprio VFD local.
+搭建模式：拖动单元，先点一个接口再点另一个接口来铺设管道。测试模式：点阀门可打开或关闭。泵在面板上关联的电机转动时转动，或由其自身的本地 VFD 驱动。
+Режим сборки: перетаскивайте узлы, нажмите один порт, затем другой, чтобы проложить трубу. Режим теста: нажимайте клапаны, чтобы открыть или закрыть их. Насос вращается, когда вращается связанный с ним двигатель на щите, или от собственного местного VFD.
+Tryb budowy: przeciągaj elementy, dotknij portu, a potem drugiego, aby poprowadzić rurę. Tryb testu: dotykaj zaworów, aby je otworzyć lub zamknąć. Pompa obraca się, gdy obraca się powiązany z nią silnik na szafie, albo od własnego lokalnego VFD.
+Építő mód: húzza az egységeket, koppintson egy csatlakozóra, majd egy másikra a cső lefektetéséhez. Teszt mód: koppintson a szelepekre a nyitáshoz vagy záráshoz. A szivattyú akkor forog, ha a szekrényen hozzá kapcsolt motor forog, vagy a saját helyi VFD-jével.
+Modo montaje: arrastre las unidades, toque un puerto y luego otro para tender una tubería. Modo prueba: toque las válvulas para abrirlas o cerrarlas. Una bomba gira cuando gira su motor vinculado en el tablero, o con su propio VFD local.
+
+#4264
+Ouvrir (soutirer de l'eau)
+Abrir (tirar água)
+打开（取水）
+Открыть (отбор воды)
+Otwórz (pobór wody)
+Nyitás (vízvétel)
+Abrir (sacar agua)
+
+#4265
+Réarmer le déclenchement
+Rearmar desarme
+复位跳闸
+Сбросить отключение
+Kasuj wyłączenie
+Leoldás nyugtázása
+Rearmar disparo
+
+#4266
+régénéré à la saumure
+regenerado com salmoura
+已用盐水再生
+регенерирован рассолом
+zregenerowany solanką
+sóoldattal regenerálva
+regenerado con salmuera
+
+#4267
+Régénérer
+Regenerar
+再生
+Регенерировать
+Regeneruj
+Regenerálás
+Regenerar
+
+#4268
+charbon neuf
+carvão novo
+新活性炭
+новый уголь
+nowy węgiel
+új szén
+carbón nuevo
+
+#4269
+Remplacer le charbon
+Trocar o carvão
+更换活性炭
+Заменить уголь
+Wymień węgiel
+Szén cseréje
+Reemplazar el carbón
+
+#4270
+nettoyage acide terminé : tartre éliminé
+limpeza ácida concluída: incrustação removida
+酸洗完成：水垢已清除
+кислотная промывка завершена: накипь удалена
+mycie kwasowe zakończone: kamień usunięty
+savas tisztítás kész: vízkő eltávolítva
+limpieza ácida terminada: incrustación eliminada
+
+#4271
+Nettoyage acide (CIP)
+Limpeza ácida (CIP)
+酸洗 (CIP)
+Кислотная промывка (CIP)
+Mycie kwasowe (CIP)
+Savas tisztítás (CIP)
+Limpieza ácida (CIP)
+
+#4272
+membranes neuves installées
+membranas novas instaladas
+已安装新膜
+установлены новые мембраны
+zamontowano nowe membrany
+új membránok beszerelve
+membranas nuevas instaladas
+
+#4273
+Remplacer les membranes
+Trocar as membranas
+更换膜
+Заменить мембраны
+Wymień membrany
+Membránok cseréje
+Reemplazar las membranas
+
+#4274
+Nettoyer le module
+Limpar o stack
+清洗模块堆
+Очистить стек
+Wyczyść stos
+Köteg tisztítása
+Limpiar el stack

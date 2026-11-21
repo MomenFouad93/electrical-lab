@@ -354,10 +354,10 @@
     LU.issues = LD.check(LD.progOf(p), p, C());
     const bad = LU.issues.filter((x) => x.lvl === 'bad').length, warn = LU.issues.filter((x) => x.lvl === 'warn').length;
     ui.click();
-    ui.toast(T(['Downloaded to ', 'اتنزل على ']) + p.tag + (bad || warn ? T([': ', ': ']) + bad + T([' errors, ', ' أخطاء، ']) + warn + T([' warnings. See the Part panel.', ' تحذيرات. شوف لوحة الجهاز.']) : T([': no problems found. It runs now.', ': مفيش مشاكل. شغال دلوقتي.'])), bad ? 'bad' : warn ? 'warn' : 'ok', 6000);
+    ui.toast(T(['Downloaded to ', 'اتنزل على ']) + p.tag + (bad || warn ? T([': ', ': ']) + bad + T([' errors, ', ' أخطاء، ']) + warn + T([' warnings. See the side panel.', ' تحذيرات. شوف اللوحة الجانبية.']) : T([': no problems found. It runs now.', ': مفيش مشاكل. شغال دلوقتي.'])), bad ? 'bad' : warn ? 'warn' : 'ok', 6000);
     render(); LU.side(true);
   };
-  LU.check = function () { const p = plc(); if (!p || !LU.work) return; LU.issues = LD.check(LD.sanitize(LU.work), p, C()); LU.side(true); if (window.innerWidth <= 900) B().openPane('part'); ui.toast(LU.issues.length ? T(['Check: ', 'الفحص: ']) + LU.issues.length + T([' findings in the Part panel.', ' ملاحظة في لوحة الجهاز.']) : T(['Check: no problems found.', 'الفحص: مفيش مشاكل.']), LU.issues.length ? 'warn' : 'ok'); };
+  LU.check = function () { const p = plc(); if (!p || !LU.work) return; LU.issues = LD.check(LD.sanitize(LU.work), p, C()); LU.side(true); if (window.innerWidth <= 900) LU.watchModal(); ui.toast(LU.issues.length ? T(['Check: ', 'الفحص: ']) + LU.issues.length + T([' findings in the side panel.', ' ملاحظة في اللوحة الجانبية.']) : T(['Check: no problems found.', 'الفحص: مفيش مشاكل.']), LU.issues.length ? 'warn' : 'ok'); };
   LU.symbols = function () {
     syncWork(); if (!LU.work) return;
     const W = LU.work, rows = h('div', { class: 'ld-symtab' });
@@ -375,10 +375,10 @@
 
   /* ---------- side pane: watch table + check results ---------- */
   LU.side = function (force) {
-    if (B().view !== 'ladder') return;
-    const root = $('#pane-part'), p = plc();
+    if (ui.view() !== 'prog' && !LU._modal) return;
+    const root = LU._modal || $('#gpane'), p = plc();
     if (force || !root.querySelector('#ldWatch')) {
-      root.innerHTML = '';
+      root.innerHTML = ''; wsig = '';
       if (!p) { root.appendChild(h('div', { class: 'card' }, h('h3', { text: T(['No PLC', 'مفيش PLC']) }), h('p', { class: 'mute', text: T(['Add a PLC to the panel to write a ladder program.', 'ضيف PLC في اللوحة عشان تكتب برنامج لادر.']) }))); return; }
       root.appendChild(h('div', { class: 'card' }, h('h3', { text: p.tag + '  ' + T(EL.defs[p.type].name) }), h('div', { id: 'ldStat' })));
       if (LU.issues) {
@@ -393,7 +393,7 @@
   };
   let wsig = '';
   function watch() {
-    const p = plc(), box = $('#ldWatch'), st = $('#ldStat');
+    const p = plc(), box = (LU._modal || document).querySelector('#ldWatch'), st = (LU._modal || document).querySelector('#ldStat');
     if (!p || !box) return;
     const s = p.state;
     if (st) st.innerHTML = `<div class="kv"><span>${esc(T(['Supply 24 V', 'تغذية 24 فولت']))}</span><b>${s.sup ? 'OK ' + (s.v || 0).toFixed(1) + ' V' : esc(T(['NO POWER', 'مفيش كهرباء']))}</b></div><div class="kv"><span>${esc(T(['Mode', 'الوضع']))}</span><b>${p.props.mode === 'ladder' ? 'LAD' : 'TEXT'} · ${s.run ? 'RUN' : 'STOP'}</b></div><div class="kv"><span>${esc(T(['Errors in scan', 'أخطاء التنفيذ']))}</span><b>${s.err || 0}</b></div>`;
@@ -405,10 +405,35 @@
       let v = '';
       if (b && b.area !== 'K') { const on = M.bit(a); v = `<span class="pill ${on ? 'ok' : ''}">${on ? 1 : 0}</span>`; if (b.area === 'T') { const t = s.tm && s.tm[b.k]; v += ` <span class="mute sm">${t ? t.et.toFixed(1) : '0.0'} s</span>`; } if (b.area === 'C') { const c2 = s.ct && s.ct[b.k]; v += ` <span class="mute sm">${c2 ? c2.cv : 0}</span>`; } }
       else if (w) v = `<b>${M.word(a)}</b>`;
-      html += `<div class="ld-wrow${b && b.area === 'M' ? ' tog' : ''}" data-a="${esc(a)}"><span class="ltr">${esc(a)}</span><span class="mute">${esc(LD.symName(prog, a))}</span><span>${v}</span></div>`;
+      let io = '';
+      if (b && b.area === 'I') { const dev = ioDevice(p, b.i); if (dev) io = `<span class="ld-io"><button class="btn" data-io="${esc(dev.id)}" data-kind="${dev.kind}">${esc(dev.tag)} ${dev.kind === 'hold' ? '●' : '⇄'}</button></span>`; }
+      html += `<div class="ld-wrow${b && b.area === 'M' ? ' tog' : ''}" data-a="${esc(a)}"><span class="ltr">${esc(a)}</span><span class="mute">${esc(LD.symName(prog, a))}${io}</span><span>${v}</span></div>`;
     }
     if (html !== wsig) { wsig = html; box.innerHTML = html || `<p class="mute">${esc(T(['No addresses yet.', 'مفيش عناوين لسه.']))}</p>`; }
   }
+
+  /* operate the panel device wired to an input, from the watch table */
+  const HOLD = ['PB_NO', 'PB_NC', 'PB_DUAL', 'ESTOP'], TOG = ['SEL2', 'SEL3', 'FLOAT', 'LIM', 'PRESS', 'FLOW', 'TSW', 'PROX'];
+  function ioDevice(p, i) {
+    const c = C(), ref = p.id + '.I' + i;
+    for (const w of c.wires) {
+      if (w.cut) continue;
+      const o = w.a === ref ? w.b : w.b === ref ? w.a : null; if (!o) continue;
+      const d = c.parts.find((x) => x.id === o.split('.')[0]);
+      if (d && (HOLD.includes(d.type) || TOG.includes(d.type))) return { id: d.id, tag: d.tag, kind: HOLD.includes(d.type) && d.type !== 'ESTOP' ? 'hold' : 'tog' };
+    }
+    return null;
+  }
+  let held = null;
+  function ioDown(e) {
+    const b = e.target.closest && e.target.closest('[data-io]'); if (!b) return;
+    const d = C().parts.find((x) => x.id === b.dataset.io); if (!d) return;
+    e.preventDefault(); ui.click();
+    if (b.dataset.kind === 'hold') { d.state.act = true; held = d; } else d.state.act = !d.state.act;
+  }
+  function ioUp() { if (held) { held.state.act = false; held = null; } }
+  LU.paletteModal = function () { const box = h('div', { class: 'plist' }); LU.palette(box, ''); ui.modal([h('h3', { text: T(['Add an instruction', 'ضيف أمر']) }), box]); };
+  LU.watchModal = function () { const box = h('div'); const m = ui.modal([box]); LU._modal = box; LU.side(true); const obs = new MutationObserver(() => { if (!document.body.contains(m)) { LU._modal = null; obs.disconnect(); } }); obs.observe(document.body, { childList: true }); };
 
   /* ---------- view ---------- */
   LU.init = function () {
@@ -433,10 +458,15 @@
       if (again) editSel();
     });
     nets.addEventListener('dblclick', (e) => { if (e.target.closest('[data-k],[data-o]')) editSel(); });
-    $('#v-bench').addEventListener('pointerdown', (e) => { const r = e.target.closest && e.target.closest('.ld-wrow.tog'); if (!r) return; const p = plc(); if (!p) return; const M = LD.mem(p.state, nQ(p)); M.setBit(r.dataset.a, !M.bit(r.dataset.a)); ui.click(); watch(); });
-    ui.onRefresh(() => render());
+    document.addEventListener('pointerdown', ioDown);
+    document.addEventListener('pointerup', ioUp); document.addEventListener('pointercancel', ioUp);
+    $('#gsearch').addEventListener('input', () => LU.palette($('#gplist'), $('#gsearch').value));
+    document.addEventListener('pointerdown', (e) => { if (e.target.closest && e.target.closest('[data-io]')) return; const r = e.target.closest && e.target.closest('.ld-wrow.tog'); if (!r) return; const p = plc(); if (!p) return; const M = LD.mem(p.state, nQ(p)); M.setBit(r.dataset.a, !M.bit(r.dataset.a)); ui.click(); watch(); });
+    ui.onRefresh(() => { render(); LU.palette($('#gplist'), $('#gsearch').value); });
+    LU.palette($('#gplist'), '');
   };
-  LU.openFor = function (p) { LU.plcId = p.id; B().setView('ladder'); };
+  LU.openFor = function (p) { LU.plcId = p.id; LU.workFor = null; ui.show('prog'); };
+  LU.onShow = function () { render(); LU.palette($('#gplist'), $('#gsearch').value); };
   function render() {
     if (!host) return;
     syncWork();
@@ -457,7 +487,11 @@
       h('button', { class: 'btn sm', onclick: () => LU.addNet(), text: '+ ' + T(['Network', 'نتورك']) }),
       h('button', { class: 'btn sm', onclick: () => LU.symbols(), text: T(['Symbols', 'الأسماء']) }),
       h('button', { class: 'btn sm', onclick: () => LU.check(), text: T(['Check program', 'افحص البرنامج']) }),
-      h('button', { class: 'btn sm', onclick: () => { p.state.run = !p.state.run; ui.click(); render(); }, text: p.state.run ? 'RUN → STOP' : 'STOP → RUN' }));
+      h('button', { class: 'btn sm', onclick: () => { p.state.run = !p.state.run; ui.click(); render(); }, text: p.state.run ? 'RUN → STOP' : 'STOP → RUN' }),
+      h('button', { class: 'btn sm', title: 'Simulation speed', onclick: (e) => { const b = $('#btnSpeed'); if (b) { b.click(); e.target.textContent = '⏩ ' + b.textContent; } }, text: '⏩ ' + (($('#btnSpeed') || {}).textContent || '1x') }),
+      h('button', { class: 'btn sm', onclick: () => { ui.show('bench'); B().setView('panel'); }, text: T(['Go to the panel', 'روح للوحة']) }),
+      h('button', { class: 'btn sm pri ld-mob', onclick: () => LU.paletteModal(), text: '+ ' + T(['Instruction', 'أمر']) }),
+      h('button', { class: 'btn sm ld-mob', onclick: () => LU.watchModal(), text: T(['Watch', 'مراقبة']) }));
     if (p.props.mode !== 'ladder' && !String(p.props.lad || '') && !LU.dirty) {
       nets.appendChild(h('div', { class: 'pl-empty static' }, h('b', { text: T(['This PLC runs a text program', 'الـPLC ده شغال ببرنامج نصي']) }), h('p', { class: 'mute', text: T(['Start a ladder program. The text program stays saved and you can go back to it from the PLC properties.', 'ابدأ برنامج لادر. البرنامج النصي هيفضل محفوظ وتقدر ترجعله من خصائص الـPLC.']) }),
         h('button', { class: 'btn pri', onclick: () => { LU.work = { v: 1, sym: { 'I0.0': 'Start', 'I0.1': 'Stop (NC)' }, nets: [{ c: 'Start / stop latch', s: [{ t: 'PAR', br: [[{ t: 'NO', a: 'I0.0' }], [{ t: 'NO', a: 'Q0.0' }]] }, { t: 'NO', a: 'I0.1' }], o: [{ t: 'COIL', a: 'Q0.0' }] }] }; mark(); }, text: T(['Start a ladder program', 'ابدأ برنامج لادر']) })));
@@ -510,7 +544,7 @@
     });
   }
   LU.frame = function () {
-    if (B().view !== 'ladder' || !host) return;
+    if (ui.view() !== 'prog' || !host) return;
     const now = performance.now(); if (now - lastFrame < 180) return; lastFrame = now;
     const p = plc();
     if (!p || !LU.work) { if (!nets.children.length) render(); return; }
@@ -531,7 +565,7 @@
       for (const t of list) {
         const label = CNAME[t] ? T(CNAME[t]) : t + (OUTNAME[t] ? ' ' + T(OUTNAME[t]) : '');
         if (term && !label.toLowerCase().includes(term) && !t.toLowerCase().includes(term)) continue;
-        const it = h('div', { class: 'pit', onclick: () => { LU.insert(t); if (window.innerWidth <= 900) B().sheet(null); } });
+        const it = h('div', { class: 'pit', onclick: () => { LU.insert(t); const m = it.closest('.modal'); if (m) m.remove(); } });
         it.innerHTML = `<svg viewBox="0 0 100 60">${iconFor(t)}</svg>`;
         it.appendChild(h('span', { text: (CNAME[t] ? T(CNAME[t]) : t + (OUTNAME[t] ? ' ' + T(OUTNAME[t]) : '')) }));
         items.appendChild(it);

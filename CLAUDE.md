@@ -3,7 +3,7 @@
 Read this first. Continue from the current state; do not restart or re-scan the project from scratch.
 
 ## What it is
-An offline training web app for maintenance technicians: Bench (circuit simulator with meters), Projects (panel + process plant + PLC ladder), LOTO, PCB repair, Inspect, Guide. 9 languages. Owner: Momen (writes Egyptian Arabic, wants short answers; a team of reviewer agents + a QA pass before every delivery; never deliver links or buttons that do not work).
+An offline training web app for maintenance technicians: Bench (circuit simulator with meters; views Panel / Plant / Line), Projects (ready projects: panel + process plant + PLC ladder, pharma water PW/WFI, packaging line), Programming (PLC ladder editor, its own tab), LOTO, PCB repair, Inspect, Guide. 9 languages. Owner: Momen (writes Egyptian Arabic, wants short answers; a team of reviewer agents + a QA pass before every delivery; never deliver links or buttons that do not work).
 
 - Live (what users open and install): https://momenfouad93.github.io/electrical-lab/
   - Never rename the repo, the folder or the URL: installed phones keep this address.
@@ -18,9 +18,10 @@ node build.js                        # -> dist/electrical-lab.html (+ dist/build
 node tools/pwa.js                    # -> pwa/ : index.html with hash CSP, sw.js, manifest, icons, version.json
 node test/t_plant.js; node test/t_proj.js; for t in test/t_*.js; do node $t; done   # known old failures: t_inst.js (1 megger line), t_core.js (stale test: EL.models === EL.defs)
 node test/ui_scratch.js d|m          # builds a tank project from scratch through the UI
-for t in qa_projects qa_plant qa_ladder qa_bench qa_mobile qa_lang; do node test/$t.js; done   # QA click-through suites (qa_mobile: toolbar scroll + 1 off-screen-port check are known test notes)
+for t in qa_projects qa_plant qa_ladder qa_bench qa_mobile qa_lang; do node test/$t.js; done   # QA click-through suites (known test notes: qa_plant "P1 number#5 / UV1 number#0 no effect" = props that only act on a local VFD pump or with flow)
 node test/e2e_pwa_security.js        # serves pwa/ on :8099: CSP, offline, update bar, hostile files
 node test/ui_proj.js d|m             # screenshots to /tmp/claude-0/shots
+node test/t_water.js; node test/t_line.js; node test/ui_water.js d|m; node test/ui_line.js d|m; node test/ui_prog.js d|m
 MSG="..." NOTE="..." REPO=<path of this repo clone> ./tools/deploy.sh
 ```
 Playwright: `require('/opt/npm-tools/node_modules/playwright')` in the cloud sandbox.
@@ -28,11 +29,13 @@ i18n: strings are `[English, Arabic]` pairs; other languages come from `i18n/key
 
 ## Code map (source/src)
 - `core.js` circuit solver + `EL.tick` (also steps the plant). `parts_*.js` part models, `parts_h.js` 3-wire 0-10 V transmitter TXV.
+- `water.js` pharma water on top of plant.js: pipe DN/ID tables + Darcy friction (pipes get dn/mat/len/loop), valve Kv by DN and type, pump curves H0-kQ² (qbep/hbep presets), local VFD + level control for pumps (local, spd, lvt/lon/loff, stk, psl trip), water-quality vector (cond, hardness, Cl2, TOC, SiO2, bacteria, endotoxin, SDI, CO2, antiscalant) through every unit, units SOFT DOSE EDI UV STILL DIV QA POU, USP Stage 1 / Ph. Eur. PW tables, spec checks (bacteria = action level, WFI <70 °C = control limit), tank fill/empty ETA, loop velocity / Re / dead-leg checks. Training speed-ups: bacteria growth 24x, chlorine damage ~10000x.
+- `line.js` packaging line (Bench > Line view, `circuit.line`): 0.5 m grid, elements SRC CONV CURVE GAP CW SER TE REJ BUF TURN TWIST CP EXIT, carton orientations fa/fl/edge/end, `LN.checks` (guides, curve fit, stability, V-curve, pitch, checkweigher dwell, turner gap, reject after the last inspection), `LN.step` (buffers per element, reject confirmation via air, N rejects in a row stop, escaped bad carton stops the line, case change pause). UI `ui/line_ui.js`.
 - `plant.js` process simulator: units (SUPPLY, TANK, PUMP, VALVE, SOLV, CHECK, FILTER, RO, HX, PT, PS, FS, TT, PG, FM, JUNC, DRAIN), linear hydraulic net per tick, links to panel parts by tag (pump.motor, tank.lt / sw[] / htr / tt, PT.tx, PS.sw, FS.sw, TT.tx, SOLV.sol). Motors get `state.pl` (load) from linked pumps.
 - `ladder.js` LAD runtime for PLC24/PLC24R when `props.mode === 'ladder'`, program JSON in `props.lad`; `LD.check` static checks, `LD.why` rung diagnosis, sanitiser for files.
-- `projects.js` ready projects (tank star-delta PLC, booster VFD, RO + heat exchanger).
+- `projects.js` ready projects (tank star-delta PLC, booster VFD, RO + heat exchanger, packaging line (view 'line'), pharma water city→PW→WFI (plant only, local VFD pumps)). A project may have no `circuit` and/or a `line`.
 - `circuit.js` serialize / deserialize (validates and caps imported files; includes `plant`).
-- UI: `ui/projects_ui.js` (Projects tab, Panel/Plant/Ladder switch), `ui/plant_ui.js` + `ui/plant_art.js`, `ui/ladder_ui.js`, `ui/update.js` (SW register + update bar), rest as before.
+- UI: `ui/projects_ui.js` (Projects tab, Panel/Plant/Line switch), `ui/water_art.js` (drawings of the water units), `ui/line_ui.js`, Programming tab = `#v-prog` (ladder_ui renders into `#ladHost` there), `ui/plant_ui.js` + `ui/plant_art.js`, `ui/ladder_ui.js`, `ui/update.js` (SW register + update bar), rest as before.
 
 ## Security
 - `tools/pwa.js` injects a hash-based CSP (only the shipped inline script runs; network only to self and api.anthropic.com for the optional AI photo check). If you add an inline script or a new external host, the CSP must allow it, then rerun `test/e2e_pwa_security.js`.
@@ -46,3 +49,6 @@ i18n: strings are `[English, Arabic]` pairs; other languages come from `i18n/key
   R&D fixes: "Create it on the panel, wired" in every plant link (ui/autowire.js), PLC kit button in the Ladder view, side-by-side placement, phone fit, ladder rungs scale to phone width.
   QA fixes: < > kept in ladder/text programs on reload (circuit.js), selection bar above the phone dock, empty tank rendering, number limits, duplicate pipe toast, Ctrl+Z in Plant, ladder palette search.
   Not possible from the cloud session: repo branch protection (settings API blocked); secret scanning + push protection are on.
+- 2026-11-21 (2): Programming tab (ladder moved out of the bench). Line designer (Bench > Line) with a ready packaging line and 10 design rules. Pharma water: city water to PW and WFI ready project (break tank, MMF, carbon, softener, antiscalant, cartridges, RO x2 + NaOH, EDI, UV, divert valve, 2000 L PW tank + DN40 loop, still, 600 L hot WFI tank + DN25 loop), pipe/valve sizes, pump curves and presets, tank size presets with fill/empty times, quality analysers against USP / Ph. Eur., water guide (15 steps + motors and electrics).
+  Reviews applied: reject coverage after the last inspection, reject confirmation, escaped bad carton stops the line, per-buffer hold, case change pause, turner gap, stability on the narrow base; RO display from quality only, bacteria as action levels, WFI 70 °C as control limit, EDI CO2 removal, still level control + start-up divert, stopped local pumps close (no standby leak), low suction trip on the RO HP pump.
+  Not done yet (ideas): aggregation and random no-reads on the line, still feed pump, loop return pressure alarm, hot sanitisation sequence for the PW loop.

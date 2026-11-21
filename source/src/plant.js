@@ -154,10 +154,11 @@
   PL.build = function (spec) {
     const pl = PL.newPlant();
     for (const [tag, type, x, y, props] of spec.units) PL.add(pl, type, x, y, props, tag);
-    for (const [a, b] of spec.pipes) {
+    for (const [a, b, o] of spec.pipes) {
       const ra = PL.ref(pl, a), rb = PL.ref(pl, b);
       if (!ra || !rb) throw new Error('bad pipe ' + a + ' -> ' + b);
-      PL.connect(pl, ra, rb);
+      const w = PL.connect(pl, ra, rb);
+      if (w && o) Object.assign(w, o);
     }
     return pl;
   };
@@ -191,6 +192,7 @@
       if (!ids.has(p.a.split('.')[0]) || !ids.has(p.b.split('.')[0])) continue;
       const w = PL.connect(pl, SAFE(p.a, 24), SAFE(p.b, 24));
       if (w && p.id) { w.id = SAFE(p.id, 12); const n = +String(w.id).slice(1); if (n > (PL._lid || 0)) PL._lid = n; }
+      if (w && +p.dn > 0) { w.dn = [15, 20, 25, 32, 40, 50, 65, 80].includes(+p.dn) ? +p.dn : 25; w.mat = p.mat === 'pvc' ? 'pvc' : 'ss'; w.len = clamp(+p.len || 5, 0.01, 2000); w.loop = !!p.loop; }
     }
     return pl;
   };
@@ -251,7 +253,9 @@
         case 'TANK': {
           const h = (st.v / Math.max(1, +pr.vol)) * (+pr.hgt || 1);
           F(id + '#top', (+pr.hgt || 1) * 0.0981); F(id + '#bot', h * 0.0981); // top inlets sit at the tank height
-          B(p('inA'), id + '#top', G_BIG, { u, k: 'tin', one: true });
+          const lv = 100 * st.v / Math.max(1, +pr.vol);
+          if (+pr.fv > 0) st.fvc = lv >= +pr.fv ? 1 : lv < +pr.fv - 3 ? 0 : st.fvc || 0; else st.fvc = 0;
+          if (!st.fvc) B(p('inA'), id + '#top', G_BIG, { u, k: 'tin', one: true });
           B(p('inB'), id + '#top', G_BIG, { u, k: 'tin', one: true });
           const empty = st.v <= 0.05;
           B(id + '#bot', p('out1'), G_BIG, { u, k: 'tout', oneRev: empty });
@@ -259,14 +263,17 @@
           break;
         }
         case 'PUMP': {
-          const m = part(c, pr.motor), s = motorSpeed(m);
+          const loc = !pr.motor && EL.water ? EL.water.pumpSpeed(u, pl) : null;
+          const m = part(c, pr.motor), s = loc != null ? loc : motorSpeed(m);
           st.s = s;
+          if (loc != null && Math.abs(s) < 0.02) { B(p('in'), p('out'), 1e-6, { u, k: 'pump' }); break; } // stopped local pump: its inlet valve closes with it
+          if (+pr.qbep > 0 && +pr.hbep > 0 && EL.water) { const pb = EL.water.pumpBranch(u, s); B(p('in'), p('out'), Math.abs(s) < 0.02 ? pb.Gstop : pb.G, { u, k: 'pump', H: pb.H }); break; }
           const H = (+pr.head || 10) * 0.0981 * s * s * (s < 0 ? 0.35 : 1);
           const Gp = ((+pr.qmax || 100) / 60) / Math.max(0.2, (+pr.head || 10) * 0.0981);
           B(p('in'), p('out'), Gp, { u, k: 'pump', H });
           break;
         }
-        case 'VALVE': { const pos = st.pos == null ? (pr.open ? 1 : 0) : st.pos; if (pos > 0.01) B(p('a'), p('b'), (+pr.kv / 60) * pos * pos, { u, k: 'v' }); break; }
+        case 'VALVE': { const pos = st.pos == null ? (pr.open ? 1 : 0) : st.pos; if (pos > 0.01) B(p('a'), p('b'), +pr.dn > 0 && EL.water ? EL.water.valveG(u, pos) : (+pr.kv / 60) * pos * pos, { u, k: 'v' }); break; }
         case 'SOLV': { const s = part(c, pr.sol); const pos = s && s.state ? clamp(s.state.pos || 0, 0, 1) : 0; st.pos = pos; if (pos > 0.01) B(p('a'), p('b'), (+pr.kv / 60) * pos, { u, k: 'v' }); break; }
         case 'CHECK': B(p('a'), p('b'), +pr.kv / 60, { u, k: 'nrv', one: true }); break;
         case 'FILTER': { const base = pr.kind === 'cart' ? 2.0 : 3.0; B(p('in'), p('out'), base / (1 + 4 * (st.clog || 0)), { u, k: 'flt' }); break; }
@@ -274,15 +281,17 @@
           const tcf = Math.exp(2640 * (1 / 298 - 1 / (273 + (st.Tf == null ? 20 : st.Tf))));
           B(p('in'), p('rej'), 0.25 * clamp(+pr.rej, 1, 100) / 100, { u, k: 'rej' });
           const r = clamp((st.rec || 0) / 100, 0, 0.95); // the brine gets saltier with recovery, so the osmotic back-pressure rises
-          B(p('in'), p('perm'), 0.06 * tcf, { u, k: 'perm', H: -2.0 * (1 + 1 / (1 - r)) / 2, one: true });
+          B(p('in'), p('perm'), 0.06 * tcf * clamp(+pr.area || 1, 0.1, 20) * (1 - clamp(st.scale || 0, 0, 0.8)), { u, k: 'perm', H: -2.0 * (1 + 1 / (1 - r)) / 2, one: true });
           break;
         }
         case 'HX': B(p('hin'), p('hout'), 1.2, { u, k: 'hxh' }); B(p('cin'), p('cout'), 1.2, { u, k: 'hxc' }); break;
         case 'JUNC': for (const q of ['a', 'b', 'c', 'd']) B(id + '#j', p(q), G_BIG, { u, k: 'j' }); break;
-        default: B(p('a'), p('b'), G_BIG, { u, k: 'inl' }); // PT PS FS TT PG FM
+        default:
+          if (PL.X && PL.X[u.type]) PL.X[u.type].net(u, { B, F, p, c, pl });
+          else B(p('a'), p('b'), G_BIG, { u, k: 'inl' }); // PT PS FS TT PG FM
       }
     }
-    for (const pp of pl.pipes) B(pp.a, pp.b, G_PIPE, { pipe: pp, k: 'pipe' });
+    for (const pp of pl.pipes) B(pp.a, pp.b, PL.pipeG ? PL.pipeG(pp, pl) : G_PIPE, { pipe: pp, k: 'pipe' });
     return { nodes, br, fixed };
   }
 
@@ -356,7 +365,7 @@
         const q = x.q || 0;
         if (Math.abs(q) < 1e-7) continue;
         const from = q > 0 ? x.a : x.b, to = q > 0 ? x.b : x.a;
-        const t = outT.has(x) ? outT.get(x) : T[from];
+        const t = outT.has(x) ? outT.get(x) : x.Tout != null ? x.Tout : T[from];
         sumQ[to] += Math.abs(q); sumQT[to] += Math.abs(q) * t;
       }
       for (let i = 0; i < n; i++) {
@@ -408,6 +417,7 @@
             st.T += (st.heatW * dt) / (4186 * m);
           }
           st.T += -0.0004 * (st.T - 20) * dt;
+          if (+pr.jkt > 0 && st.v > 0.1 * vol && st.T < +pr.jkt) st.T = Math.min(+pr.jkt, st.T + 0.08 * dt); // steam jacket holds the set temperature
           st.T = clamp(st.T, 0, 99);
           st.lvl = 100 * st.v / vol;
           // instruments
@@ -426,12 +436,15 @@
           const x = q(u, 'pump')[0];
           st.q = x ? x.q : 0; st.cav = !!(x && x.cav) || (Math.abs(st.s || 0) > 0.3 && p('in') < -0.5);
           st.dp = p('out') - p('in');
+          if (+pr.psl > 0 && Math.abs(st.s || 0) > 0.3 && p('in') < +pr.psl) { st.lpt = (st.lpt || 0) + dt; if (st.lpt > 5 && !st.trip) { st.trip = 1; EL.emit('trip', { id: u.id, tag: u.tag }, 'low suction pressure'); } } else st.lpt = 0;
+          st.kw = Math.max(0, st.q) * Math.max(0, st.dp) * 100 / 1000 / clamp(+pr.eta || 0.55, 0.2, 0.9); // kW at the shaft
           const m = part(c, pr.motor);
           if (m && m.state) {
             const qmax = (+pr.qmax || 100) / 60 * Math.max(0.05, Math.abs(st.s || 0));
             m.state.pl = st.cav ? 0.2 : clamp(0.3 + 0.7 * Math.max(0, st.q) / qmax, 0.2, 1.15);
           }
-          if (st.cav && !st._cw) { st._cw = 1; EL.emit('trip', { id: u.id, tag: u.tag }, 'pump cavitating / running dry'); }
+          st.cavt = st.cav ? (st.cavt || 0) + dt : 0;
+          if (st.cavt > 2 && !st._cw) { st._cw = 1; EL.emit('alarm', { id: u.id, tag: u.tag }, 'pump cavitating / running dry'); }
           if (!st.cav) st._cw = 0;
           break;
         }
@@ -447,12 +460,12 @@
           st.qp = pm ? Math.max(0, pm.q) : 0; st.qr = rj ? Math.max(0, rj.q) : 0;
           st.pin = p('in'); st.Tf = T('in') == null ? 20 : T('in');
           st.rec = st.qp + st.qr > 1e-5 ? (100 * st.qp) / (st.qp + st.qr) : 0;
-          st.us = st.qp > 1e-4 ? (+pr.us || 600) * 0.02 * (1 + 0.6 * clamp(st.rec - 50, 0, 40) / 40) * (1 + 2.5 / Math.max(0.5, st.pin - 2)) / 1.4 : 0; // low pressure: salt passage stays, water flux drops
+          if (!(pl._W && pl._W[u.id + '.perm'])) st.us = st.qp > 1e-4 ? (+pr.us || 600) * 0.02 * (1 + 0.6 * clamp(st.rec - 50, 0, 40) / 40) * (1 + 2.5 / Math.max(0.5, st.pin - 2)) / 1.4 : 0; // low pressure: salt passage stays, water flux drops
           break;
         }
         case 'HX': { const h = q(u, 'hxh')[0], cc = q(u, 'hxc')[0]; st.qh = h ? h.q : 0; st.qc = cc ? cc.q : 0; break; }
         case 'JUNC': break;
-        default: {
+        default: if (PL.X && PL.X[u.type]) { PL.X[u.type].step(u, { net, p, T, dt, c, pl }); break; } {
           const x = q(u, 'inl')[0]; st.q = x ? x.q : 0; st.p = p('a'); st.T = T('a') == null ? 20 : T('a');
           if (u.type === 'PT') { const t = part(c, pr.tx); if (t) setProc(t, (100 * st.p) / Math.max(0.1, +pr.range)); }
           if (u.type === 'TT') { const t = part(c, pr.tx); if (t) { if (t.type === 'PT100') t.props.temp = Math.round(st.T); else setProc(t, (100 * st.T) / Math.max(1, +pr.range)); } }
@@ -462,6 +475,7 @@
         }
       }
     }
+    if (PL.quality) PL.quality(c, net, P, Tn, dt);
     pl._t = (pl._t || 0) + dt;
   };
 
@@ -481,8 +495,8 @@
       const st = u.state || {}, pr = u.props;
       const open = PL.portsOf(u).filter((q) => !connected.has(u.id + '.' + q.id)).map((q) => q.id);
       if (u.type === 'PUMP') {
-        if (!pr.motor) out.push(['warn', u.tag, E('Pump has no motor linked. Pick the motor tag in its properties.', 'الطلمبة مش مربوطة بموتور. اختار اسم الموتور من خصائصها.')]);
-        else if (!tag(pr.motor)) out.push(['bad', u.tag, E('Linked motor "' + pr.motor + '" is not on the panel.', 'الموتور المربوط "' + pr.motor + '" مش موجود في اللوحة.')]);
+        if (!pr.motor && !pr.local) out.push(['warn', u.tag, E('Pump has no motor linked. Pick the motor tag in its properties.', 'الطلمبة مش مربوطة بموتور. اختار اسم الموتور من خصائصها.')]);
+        else if (pr.motor && !tag(pr.motor)) out.push(['bad', u.tag, E('Linked motor "' + pr.motor + '" is not on the panel.', 'الموتور المربوط "' + pr.motor + '" مش موجود في اللوحة.')]);
         if (st.cav) out.push(['bad', u.tag, E('Suction starved (cavitation / dry running): not enough water reaches the pump. Check the suction tank level, the suction valves and the filters.', 'السحب مش واصله مية كفاية (كافيتيشن / تشغيل على الناشف). افحص مستوى تانك السحب ومحابس السحب والفلاتر.')]);
         if (Math.abs(st.s || 0) > 0.5 && Math.abs(st.q || 0) * 60 < 2 && !st.cav) out.push(['warn', u.tag, E('Running against a closed discharge (dead head): no flow. A pump left like this overheats.', 'شغالة على طرد مقفول (ديد هيد): مفيش تصرف. الطلمبة لو فضلت كده بتسخن.')]);
         if (Math.abs(st.s || 0) < 0.05 && (st.q || 0) < -0.05) out.push(['warn', u.tag, E('Water flows backwards through the stopped pump. Fit a check valve on its discharge.', 'المية راجعة عكس من الطلمبة الواقفة. ركّب محبس عدم رجوع على الطرد.')]);
@@ -494,14 +508,15 @@
         for (const s of pr.sw || []) if (s.t && !tag(s.t)) out.push(['warn', u.tag, E(s.n + ' is linked to "' + s.t + '", which is not on the panel.', s.n + ' مربوط بـ"' + s.t + '" ومش موجود في اللوحة.')]);
       }
       if (u.type === 'FILTER' && (st.dp || 0) > (pr.kind === 'cart' ? 0.6 : 0.8)) out.push(['warn', u.tag, E('Filter is getting blocked (high pressure drop). Backwash or change it.', 'الفلتر بيتسد (فرق ضغط عالي). اعمل باك واش أو غيّره.')]);
-      if (u.type === 'RO' && running) {
+      if (u.type === 'RO' && running && (st.qp || 0) + (st.qr || 0) > 0.001) {
         if ((st.pin || 0) < 2.5) out.push(['warn', u.tag, E('Feed pressure below about 2.5 bar: almost no permeate.', 'ضغط الدخول أقل من 2.5 بار تقريبا: مفيش مية نقية تقريبا.')]);
-        if ((st.rec || 0) > 80) out.push(['bad', u.tag, E('Recovery above 80 %: salts scale the membrane. Open the reject valve.', 'الاسترجاع فوق 80%: الأملاح بتترسب على الممبرين. افتح محبس الريجكت.')]);
+        if ((st.rec || 0) > (st.wf ? 90 : 80)) out.push(['bad', u.tag, E('Recovery too high: salts scale the membrane. Open the reject valve.', 'الاسترجاع عالي قوي: الأملاح بتترسب على الممبرين. افتح محبس الريجكت.')]);
         else if ((st.qr || 0) > 0.001 && (st.rec || 0) < 10) out.push(['warn', u.tag, E('Recovery below 10 %: most of the water goes to drain.', 'الاسترجاع أقل من 10%: معظم المية رايحة للصرف.')]);
         if ((st.Tf || 20) > 45) out.push(['bad', u.tag, E('Feed water above 45 °C: a polyamide membrane is damaged. Keep it near 25 °C.', 'مية الدخول فوق 45 درجة: الممبرين البولي أميد بيتلف. خليها حوالي 25 درجة.')]);
       }
-      if (open.length && u.type !== 'TANK' && u.type !== 'JUNC') out.push(['info', u.tag, E('Open port: ' + open.join(', '), 'طرف مفتوح: ' + open.join('، '))]);
+      if (open.length && u.type !== 'TANK' && u.type !== 'JUNC' && u.type !== 'POU') out.push(['info', u.tag, E('Open port: ' + open.join(', '), 'طرف مفتوح: ' + open.join('، '))]);
     }
+    if (EL.water) EL.water.problems(c, out);
     return out;
   };
 })(typeof window !== 'undefined' ? window : globalThis);

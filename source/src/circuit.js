@@ -59,7 +59,8 @@
   };
   EL.serialize = function (c) {
     const o = { v: 1, parts: c.parts.map((p) => ({ id: p.id, type: p.type, x: p.x, y: p.y, tag: p.tag, props: p.props, state: p.state, fault: p.fault, hid: p.hid })), wires: c.wires, notes: c.notes || '', name: c.name || '' };
-    if (c.plant && c.plant.units && (c.plant.units.length || c.plant.pipes.length)) o.plant = { units: c.plant.units.map((u) => ({ id: u.id, type: u.type, x: u.x, y: u.y, tag: u.tag, props: u.props, state: plainState(u.state) })), pipes: c.plant.pipes.map((p) => ({ id: p.id, a: p.a, b: p.b })) };
+    if (c.plant && c.plant.units && (c.plant.units.length || c.plant.pipes.length)) o.plant = { units: c.plant.units.map((u) => ({ id: u.id, type: u.type, x: u.x, y: u.y, tag: u.tag, props: u.props, state: plainState(u.state) })), pipes: c.plant.pipes.map((p) => Object.assign({ id: p.id, a: p.a, b: p.b }, +p.dn > 0 ? { dn: p.dn, mat: p.mat, len: p.len, loop: !!p.loop } : {})) };
+    if (c.line && EL.line && c.line.els && c.line.els.length) o.line = EL.line.plain(c.line);
     if (c.proj) o.proj = c.proj;
     return JSON.stringify(o);
   };
@@ -117,6 +118,7 @@
     c.notes = clean(o.notes, 4000);
     c.name = Array.isArray(o.name) ? o.name.slice(0, 2).map((x) => clean(x, 120)) : clean(o.name, 120);
     if (o.plant && EL.plant) c.plant = EL.plant.sanitize(o.plant);
+    if (o.line && EL.line) c.line = EL.line.sanitize(o.line);
     if (o.proj && typeof o.proj === 'object') c.proj = { id: clean(o.proj.id, 24) };
     return c;
   };

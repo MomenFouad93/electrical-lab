@@ -186,15 +186,97 @@
     },
   });
 
+  /* ---------- 4. Blister packaging line: cartoner to case packer ---------- */
+  add('line', {
+    view: 'line',
+    name: E('Packaging line: cartoner to case packer', 'خط تعبئة: من الكارتونر للكيس باكر'),
+    desc: E('Cartons leave the cartoner at 120 per minute, pass the checkweigher, serialization, tamper-evident labeling and the reject station, turn on a curve, wait in a buffer, get turned and packed 96 to a case.', 'العلب بتطلع من الكارتونر 120 في الدقيقة، وتعدي على الميزان والسيريالايزيشن والليبل والرفض، وتلف في كيرف، وتستنى في البافر، وتتلف وتتعبى 96 في الكرتونة.'),
+    tasks: [
+      E('Start the line and watch one carton from the cartoner to the case packer. Read the transit time.', 'شغّل الخط وتابع علبة واحدة من الكارتونر للكيس باكر. اقرا زمن الرحلة.'),
+      E('Slow C1 and CW1 to 15 m/min: two cartons sit on the weigh pan and good cartons get rejected.', 'هدّي C1 وCW1 لـ 15 متر/د: علبتين يقعدوا على كفة الميزان وعلب سليمة تترفض.'),
+      E('In Test mode tap the case packer to stop it: the buffer fills and the cartoner stops at the high level.', 'في وضع الاختبار اضغط على الكيس باكر عشان توقفه: البافر يتملى والكارتونر يقف عند المستوى العالي.'),
+      E('Make the C1 guide 121 mm: the carton jams. Fix it to carton width + 3 to 5 mm.', 'خلي جايد C1 121 مم: العلبة تزنق. صلّحه لعرض العلبة + 3 لـ 5 مم.'),
+      E('Change the carton to a 6x10 pack and read the line check.', 'غيّر العلبة لـ 6×10 واقرا فحص الخط.'),
+    ],
+    line: { carton: { L: 120, W: 60, H: 25, g: 40 }, els: [['SRC', { rate: 120, speed: 30 }], ['CONV', { len: 3, speed: 30 }], ['CW', { speed: 45 }], ['SER', { speed: 45 }], ['TE', { speed: 45 }], ['REJ', { speed: 45 }], ['CURVE', { left: true, speed: 45 }], ['BUF', { len: 6, speed: 50 }], ['GAP', { speed: 65 }], ['TURN', { speed: 65 }], ['CONV', { len: 2, speed: 65, chain: 82.5, guide: 65 }], ['CP', { per: 96, maxcpm: 140, need: 'fl' }]] },
+  });
+
+  /* ---------- 5. Pharma water: city water to PW and WFI ---------- */
+  const LOOP40 = { dn: 40, mat: 'ss', len: 20, loop: true }, LOOP25 = { dn: 25, mat: 'ss', len: 15, loop: true }, POUB = { dn: 15, mat: 'ss', len: 0.03 };
+  const PVC32 = { dn: 32, mat: 'pvc', len: 3 }, SS25 = { dn: 25, mat: 'ss', len: 3 };
+  add('water', {
+    view: 'plant',
+    name: E('Pharma water: city water to PW and WFI', 'مية الدوا: من مية البلد لـ PW و WFI'),
+    desc: E('Break tank, multimedia and carbon filters, softener, antiscalant, 5 and 1 µm cartridges, two RO passes with NaOH, EDI, UV and a divert valve fill a 2000 L PW tank. A DN40 loop feeds two points of use and a still that fills a 600 L hot WFI tank with its own loop. Each analyser checks the water against USP / Ph. Eur.', 'تانك كسر، فلتر رمل وكربون، سوفتنر، مانع ترسيب، كارتريدج 5 و1 ميكرون، مرحلتين RO بينهم صودا، EDI، UV ومحبس تحويل بيملوا تانك PW 2000 لتر. لوب DN40 بيغذي نقطتين استخدام ومقطّر بيملا تانك WFI سخن 600 لتر وله لوب. كل محلل بيقارن المية بحدود الـUSP والأوروبي.'),
+    tasks: [
+      E('Run at 20x and watch the conductivity fall from 450 µS/cm (city) to about 0.1 after the EDI. The PW tank reads more because air CO2 dissolves through the vent. Read the PW and WFI tank fill times.', 'شغّل على 20x وتابع الكونداكتيفيتي وهي بتنزل من 450 (مية البلد) لحوالي 0.1 بعد الـEDI. تانك الـPW بيقرا أكتر عشان الـCO2 اللي في الهوا بيدوب من فلتر التهوية. اقرا زمن ملو تانك الـPW والـWFI.'),
+      E('Set the carbon filter F2 to "Sand": chlorine reaches RO1. Watch the alarm and the permanent damage.', 'خلي فلتر الكربون F2 "رمل": الكلور يوصل لـ RO1. شوف الإنذار والتلف اللي مالوش رجوع.'),
+      E('Turn the NaOH dosing DP2 off: CO2 passes RO2 and the EDI product gets worse. Turn the EDI off: the divert valve sends water to drain.', 'اقفل حقن الصودا DP2: الـCO2 يعدّي من RO2 والـEDI يسوء. اقفل الـEDI: محبس التحويل يرمي المية على الصرف.'),
+      E('Change the PW loop pipes to DN65: the velocity falls below 1 m/s. Make the POU2 branch 0.5 m long: dead-leg alarm.', 'غيّر مواسير لوب الـPW لـ DN65: السرعة تنزل تحت 1 م/ث. خلي فرع POU2 طوله 0.5 م: إنذار رجل ميتة.'),
+      E('Open POU1 and POU2 together and watch the PW tank level and its empty time. Change T2 to 600 L and compare.', 'افتح POU1 وPOU2 مع بعض وراقب مستوى تانك الـPW وزمن تفريغه. غيّر T2 لـ 600 لتر وقارن.'),
+      E('Turn off the steam jacket of T3 (0 °C): the WFI cools below 70 °C and fails.', 'اقفل جاكيت البخار بتاع T3 (0 درجة): الـWFI يبرد تحت 70 درجة ويفشل.'),
+    ],
+    plant: {
+      units: [
+        ['S1', 'SUPPLY', 0, 200, { bar: 1.2, temp: 22, wq: 'city' }],
+        ['T1', 'TANK', 140, 60, { vol: 3000, hgt: 2.0, lvl0: 60, fv: 90, q0: 'city', sw: [] }],
+        ['P1', 'PUMP', 380, 216, { flip: true, local: true, qbep: 4, hbep: 45, eta: 0.55, lvt: 'T2', lon: 65, loff: 90, stk: 'T1' }],
+        ['F1', 'FILTER', 560, 100, { kind: 'sand', dirt: 0.1 }],
+        ['F2', 'FILTER', 690, 100, { kind: 'carbon', dirt: 0.1 }],
+        ['SF1', 'SOFT', 820, 100, {}],
+        ['DP1', 'DOSE', 960, 164, { chem: 'anti' }],
+        ['F3', 'FILTER', 1100, 100, { kind: 'cart', dirt: 0.04 }],
+        ['F4', 'FILTER', 1230, 100, { kind: 'cart1', dirt: 0.03 }],
+        ['P2', 'PUMP', 1370, 164, { flip: true, local: true, qbep: 3.5, hbep: 120, eta: 0.55, lvt: 'T2', lon: 65, loff: 90, psl: 0.7 }],
+        ['RO1', 'RO', 1500, 40, { rej: 9, area: 2, mrej: 98.5 }],
+        ['D1', 'DRAIN', 1800, 120, {}],
+        ['DP2', 'DOSE', 0, 560, { chem: 'naoh' }],
+        ['P3', 'PUMP', 130, 570, { flip: true, local: true, qbep: 2.6, hbep: 100, eta: 0.5, lvt: 'T2', lon: 65, loff: 90 }],
+        ['RO2', 'RO', 290, 440, { rej: 5, area: 5, mrej: 97 }],
+        ['EDI1', 'EDI', 590, 420, {}],
+        ['D2', 'DRAIN', 820, 520, {}],
+        ['UV1', 'UV', 800, 394, {}],
+        ['AIT1', 'QA', 960, 360, { grade: 'PW' }],
+        ['XV1', 'DIV', 1090, 390, { lim: 1.1 }],
+        ['D3', 'DRAIN', 1180, 560, {}],
+        ['T2', 'TANK', 1280, 280, { vol: 2000, hgt: 1.8, lvl0: 55, q0: 'pw', sw: [] }],
+        ['P4', 'PUMP', 1520, 436, { flip: true, local: true, qbep: 6, hbep: 45, eta: 0.55, lvt: 'T2', lon: 15, loff: 10, spd: 80 }],
+        ['UV2', 'UV', 1640, 280, {}],
+        ['J1', 'JUNC', 1810, 318, {}], ['J2', 'JUNC', 1930, 318, {}], ['J3', 'JUNC', 2050, 318, {}],
+        ['POU1', 'POU', 1783, 400, { grade: 'PW' }], ['POU2', 'POU', 1903, 400, { grade: 'PW' }],
+        ['AIT2', 'QA', 2130, 246, { grade: 'PW' }],
+        ['V1', 'VALVE', 2270, 292, { dn: 40, vt: 'dia' }],
+        ['WS1', 'STILL', 200, 1040, { steam: true, bar: 6, lvt: 'T3', lon: 65, loff: 90 }],
+        ['D4', 'DRAIN', 340, 1300, {}],
+        ['T3', 'TANK', 500, 980, { vol: 600, hgt: 1.2, lvl0: 50, q0: 'wfi', t0: 82, jkt: 82, sw: [] }],
+        ['P5', 'PUMP', 740, 1136, { flip: true, local: true, qbep: 3, hbep: 40, eta: 0.45, lvt: 'T3', lon: 15, loff: 10, spd: 80 }],
+        ['J4', 'JUNC', 880, 1060, {}], ['J5', 'JUNC', 1000, 1060, {}],
+        ['POU3', 'POU', 853, 1140, { grade: 'WFI' }], ['POU4', 'POU', 973, 1140, { grade: 'WFI' }],
+        ['AIT3', 'QA', 1080, 988, { grade: 'WFI' }],
+        ['V2', 'VALVE', 1220, 1034, { dn: 25, vt: 'dia' }],
+      ],
+      pipes: [
+        ['S1.out', 'T1.inA', { dn: 32, mat: 'pvc', len: 30 }], ['T1.out1', 'P1.in', { dn: 40, mat: 'pvc', len: 2 }], ['P1.out', 'F1.in', PVC32], ['F1.out', 'F2.in', PVC32], ['F2.out', 'SF1.in', PVC32], ['SF1.out', 'DP1.a', PVC32], ['DP1.b', 'F3.in', PVC32], ['F3.out', 'F4.in', PVC32], ['F4.out', 'P2.in', SS25],
+        ['P2.out', 'RO1.in', SS25], ['RO1.rej', 'D1.in', { dn: 20, mat: 'ss', len: 3 }], ['RO1.perm', 'DP2.a', { dn: 25, mat: 'ss', len: 12 }], ['DP2.b', 'P3.in', SS25], ['P3.out', 'RO2.in', SS25], ['RO2.rej', 'D2.in', { dn: 20, mat: 'ss', len: 3 }],
+        ['RO2.perm', 'EDI1.in', SS25], ['EDI1.rej', 'D2.in', { dn: 15, mat: 'ss', len: 3 }], ['EDI1.prod', 'UV1.a', SS25], ['UV1.b', 'AIT1.a', SS25], ['AIT1.b', 'XV1.in', SS25], ['XV1.drain', 'D3.in', SS25], ['XV1.out', 'T2.inA', SS25],
+        ['T2.out1', 'P4.in', { dn: 50, mat: 'ss', len: 2 }], ['P4.out', 'UV2.a', LOOP40], ['UV2.b', 'J1.a', LOOP40], ['J1.b', 'J2.a', LOOP40], ['J2.b', 'J3.a', LOOP40], ['J3.b', 'AIT2.a', LOOP40], ['AIT2.b', 'V1.a', LOOP40], ['V1.b', 'T2.inB', LOOP40],
+        ['J1.d', 'POU1.in', POUB], ['J2.d', 'POU2.in', POUB], ['J3.d', 'WS1.in', { dn: 20, mat: 'ss', len: 4 }], ['WS1.blow', 'D4.in', { dn: 15, mat: 'ss', len: 2 }], ['WS1.dist', 'T3.inA', { dn: 20, mat: 'ss', len: 4 }],
+        ['T3.out1', 'P5.in', { dn: 32, mat: 'ss', len: 2 }], ['P5.out', 'J4.a', LOOP25], ['J4.b', 'J5.a', LOOP25], ['J5.b', 'AIT3.a', LOOP25], ['AIT3.b', 'V2.a', LOOP25], ['V2.b', 'T3.inB', LOOP25],
+        ['J4.d', 'POU3.in', POUB], ['J5.d', 'POU4.in', POUB],
+      ],
+    },
+  });
+
   /* empty project */
   PJ.empty = function () { const c = EL.newCircuit(); c.plant = EL.plant.newPlant(); c.name = E('My project', 'مشروعي'); c.proj = { id: 'mine' }; return c; };
 
   PJ.load = function (id) {
     const P = PJ.map[id];
     if (!P) return null;
-    const c = EL.build(Object.assign({ name: P.name }, P.circuit));
-    for (const t of P.circuit.on || []) { const p = c.parts.find((x) => x.tag === t); if (p) p.state.on = true; }
-    c.plant = EL.plant.build(P.plant);
+    const c = P.circuit ? EL.build(Object.assign({ name: P.name }, P.circuit)) : Object.assign(EL.newCircuit(), { name: P.name });
+    for (const t of (P.circuit && P.circuit.on) || []) { const p = c.parts.find((x) => x.tag === t); if (p) p.state.on = true; }
+    c.plant = P.plant ? EL.plant.build(P.plant) : EL.plant.newPlant();
+    if (P.line && EL.line) c.line = EL.line.build(P.line);
     c.proj = { id };
     if (P.plc && P.ladder) {
       const plc = c.parts.find((x) => x.tag === P.plc);

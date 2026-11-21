@@ -14,16 +14,16 @@ const { ok, sleep } = Q;
   const done = async () => { await p.click('.modal .btn.pri >> text=Done'); await sleep(200); };
 
   await p.click('#tabs .tab[data-v=projects]'); await sleep(200);
-  await p.click('#projRoot .pj-card >> nth=0 >> button >> text=Open the ladder'); await sleep(1500);
+  await p.click('#projRoot .pj-card >> nth=0 >> button >> text=Open the program'); await sleep(1500);
   ok(await p.isVisible('#ladHost'), 'ladder host visible');
   const N0 = await netCount(); const X = N0; ok(N0 >= 6, 'tank ladder shows ' + N0 + ' networks');
   ok((await pill()) === 'ONLINE', 'pill shows ONLINE', await pill());
   await Q.shot(p, 'ld_tank_online');
   // palette content
-  const pal = await p.$$eval('#plist .pit span', (a) => a.map((x) => x.textContent));
+  const pal = await p.$$eval('#gplist .pit span', (a) => a.map((x) => x.textContent));
   ok(pal.length === 18, 'ladder palette has 18 instructions', pal.join(','));
   // side pane
-  ok(await p.evaluate(() => !!document.querySelector('#pane-part #ldWatch') && /KF1/.test(document.querySelector('#pane-part').textContent)), 'Part pane shows PLC + watch table');
+  ok(await p.evaluate(() => !!document.querySelector('#gpane #ldWatch') && /KF1/.test(document.querySelector('#gpane').textContent)), 'Part pane shows PLC + watch table');
   // Why is it OFF (pump not running at start, level 30% -> net 3 Q0.0 off because M0.0 off)
   await sleep(500);
   const why = await p.$$eval('#ladHost .ld-why', (a) => a.map((x) => x.textContent).filter(Boolean));
@@ -39,8 +39,8 @@ const { ok, sleep } = Q;
   console.log('     download toast:', await lastLog());
   // Check program
   await clickBar('Check program');
-  ok(/Check/.test(await lastLog()) && (await p.evaluate(() => /Program check/.test(document.querySelector('#pane-part').textContent))), 'Check program: toast + Program check card', await lastLog());
-  const iss = await p.$$('#pane-part .pl-prob');
+  ok(/Check/.test(await lastLog()) && (await p.evaluate(() => /Program check/.test(document.querySelector('#gpane').textContent))), 'Check program: toast + Program check card', await lastLog());
+  const iss = await p.$$('#gpane .pl-prob');
   if (iss.length) { await iss[0].click(); await sleep(300); ok(true, 'check finding is clickable (' + iss.length + ')'); }
   // RUN/STOP
   await clickBar('RUN → STOP');
@@ -137,7 +137,7 @@ const { ok, sleep } = Q;
     const t = insts[i];
     await p.evaluate((X) => { EL.ui.ladder.sel = { ni: X }; }, X);
     const before = await W();
-    await (await p.$$('#plist .pit'))[i].click(); await sleep(200);
+    await (await p.$$('#gplist .pit'))[i].click(); await sleep(200);
     if ((await Q.modalCount(p)) !== 1) { fails.push(t + ': no dialog'); await Q.closeModals(p); continue; }
     await done();
     if ((await Q.modalCount(p)) !== 0) { fails.push(t + ': Done refused: ' + (await p.$eval('.modal .ld-err', (e) => e.textContent).catch(() => '?'))); await Q.closeModals(p); continue; }
@@ -181,7 +181,7 @@ const { ok, sleep } = Q;
   await clickBar('Download'); await sleep(600);
   const q3a = await bit('Q0.3');
   // press S1 physically on the panel
-  await p.evaluate(() => EL.bench.setView('panel')); await sleep(400);
+  await p.evaluate(() => { EL.ui.show('bench'); EL.bench.setView('panel'); }); await sleep(400);
   const xy = await p.evaluate(() => { const ed = EL.bench.ed; const q = ed.c.parts.find((x) => x.tag === 'S1'); const d = EL.defs[q.type]; const r = ed.svg.getBoundingClientRect(); return { x: r.left + ed.view.x + (q.x + d.w / 2) * ed.view.k, y: r.top + ed.view.y + (q.y + d.h / 2) * ed.view.k }; });
   await p.mouse.move(xy.x, xy.y); await p.mouse.down(); await sleep(500);
   const q3b = await bit('Q0.3'); const i0 = await bit('I0.0');
@@ -193,7 +193,7 @@ const { ok, sleep } = Q;
   const km = await p.evaluate(() => ['KM1', 'KM2', 'KM3'].map((t) => EL.bench.ed.c.parts.find((x) => x.tag === t).state.closed));
   console.log('     KM1/KM2/KM3 after S1:', km);
   // watch table M bit toggle
-  await p.evaluate(() => EL.bench.setView('ladder')); await sleep(500);
+  await p.evaluate(() => EL.ui.show('prog')); await sleep(500);
   const rows = await p.$$eval('#ldWatch .ld-wrow', (a) => a.map((x) => x.dataset.a + (x.classList.contains('tog') ? '*' : '')));
   ok(rows.length > 5, 'watch table rows: ' + rows.join(' '));
   // stop the plant first via RUN->STOP? No: toggle M0.0 (Automatic) while running

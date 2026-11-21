@@ -63,7 +63,7 @@
 
   /* toasts */
   ui.toast = function (msg, kind, ms) {
-    const host = ui.$(ui.view && ui.view() === 'pcb' ? '#ptoasts' : '#toasts');
+    const host = ui.$(ui.view && ui.view() === 'pcb' ? '#ptoasts' : ui.view && ui.view() === 'prog' ? '#gtoasts' : '#toasts');
     if (!host) return;
     const t = h('div', { class: 'toast ' + (kind || ''), text: Array.isArray(msg) ? T(msg) : msg });
     host.appendChild(t);
@@ -109,7 +109,7 @@
   };
 
   ui.modal = function (content) {
-    const m = h('div', { class: 'modal', onclick: (e) => { if (e.target === m) m.remove(); } }, h('div', { class: 'box' }, content));
+    const m = h('div', { class: 'modal', onclick: (e) => { if (e.target === m) m.remove(); } }, h('div', { class: 'box' }, h('button', { class: 'mx', 'aria-label': 'close', title: ui.T(['Close', 'اقفل']), onclick: () => m.remove(), text: '✕' }), content));
     document.body.appendChild(m);
     return m;
   };

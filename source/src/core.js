@@ -398,6 +398,7 @@
       if (m && m.update) m.update(p, sim, dt, ctx, circuit);
     }
     if (circuit.plant && EL.plant && !ctx.noPlant) EL.plant.step(circuit, dt);
+    if (circuit.line && EL.line && !ctx.noPlant) EL.line.step(circuit, dt);
     circuit.sim = sim;
     return sim;
   };

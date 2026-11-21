@@ -1,0 +1,44 @@
+#4383
+Alarme : 
+Alarme: 
+报警：
+Тревога: 
+Alarm: 
+Riasztás: 
+Alarma: 
+
+#4384
+Passez en mode Construction pour modifier la disposition.
+Mude para o modo Montagem para alterar o layout.
+切换到搭建模式才能修改布局。
+Перейдите в режим сборки, чтобы изменить схему.
+Przełącz na tryb budowy, aby zmienić układ.
+Válts Építés módra az elrendezés módosításához.
+Cambie al modo Montaje para modificar la disposición.
+
+#4385
+Saisissez une dimension entre 1 et 999.
+Use um tamanho entre 1 e 999.
+请输入 1 到 999 之间的尺寸。
+Введите размер от 1 до 999.
+Podaj wymiar od 1 do 999.
+Adjon meg 1 és 999 közötti méretet.
+Use un tamaño entre 1 y 999.
+
+#4386
+En marche
+Ligado
+已开启
+Включено
+Włączone
+Bekapcsolva
+Encendido
+
+#4387
+Taux de récupération (%)
+Recuperação (%)
+回收率 (%)
+Степень извлечения (%)
+Odzysk (%)
+Kihozatal (%)
+Recuperación (%)

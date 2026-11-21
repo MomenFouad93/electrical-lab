@@ -23,14 +23,14 @@ const { chromium } = require('/opt/npm-tools/node_modules/playwright');
   // PLC kit from the ladder view
   await p.evaluate(() => EL.bench.setView('ladder')); await p.waitForTimeout(300);
   await p.click('text=Add a PLC with its 24 V supply'); await p.waitForTimeout(400);
-  ok(await p.evaluate(() => EL.bench.view === 'ladder' && EL.bench.ed.c.parts.some((x) => x.type === 'PLC24R')), 'PLC kit added, still in Ladder view');
+  ok(await p.evaluate(() => EL.ui.view() === 'prog' && EL.bench.ed.c.parts.some((x) => x.type === 'PLC24R')), 'PLC kit added, still in the Programming tab');
   // link pump motor + tank float + LT via "create on the panel"
-  await p.evaluate(() => EL.bench.setView('plant'));
+  await p.evaluate(() => { EL.ui.show('bench'); EL.bench.setView('plant'); }); await p.waitForTimeout(300);
   await p.evaluate((u) => EL.ui.plant.select(u, null), id.P1); await p.waitForTimeout(200);
-  await p.selectOption('#pane-part select >> nth=0', '__new'); await p.waitForTimeout(300);
+  await p.selectOption('#pane-part select:not(.pl-preset) >> nth=0', '__new'); await p.waitForTimeout(300);
   ok(await p.evaluate(() => { const u = EL.plant.byTag(EL.bench.ed.c.plant, 'P1'); return !!EL.bench.ed.c.parts.find((x) => x.tag === u.props.motor && x.type === 'MOT3'); }), 'pump linked to a new motor with its starter');
   await p.evaluate((u) => EL.ui.plant.select(u, null), id.T1); await p.waitForTimeout(200);
-  await p.selectOption('#pane-part select >> nth=0', '__new'); await p.waitForTimeout(300);
+  await p.selectOption('#pane-part select:not(.pl-preset) >> nth=0', '__new'); await p.waitForTimeout(300);
   await p.evaluate((u) => EL.ui.plant.select(u, null), id.T1); await p.waitForTimeout(200);
   await p.selectOption('#pane-part .pl-swrow select >> nth=0', '__new'); await p.waitForTimeout(300);
   const st = await p.evaluate(() => { const c = EL.bench.ed.c, t = EL.plant.byTag(c.plant, 'T1'), plc = c.parts.find((x) => x.type === 'PLC24R'); return { lt: t.props.lt, sw: t.props.sw[0].t, lad: JSON.parse(plc.props.lad).sym, wires: c.wires.length }; });

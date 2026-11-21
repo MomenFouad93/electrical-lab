@@ -13,14 +13,15 @@ const { ok, sleep } = Q;
   await p.click('#tabs .tab[data-v=projects]'); await sleep(200);
   await p.click('#projRoot .pj-hero .btn.pri'); await sleep(600);
   // palette shows process units
+  const EL_N = await p.evaluate(() => EL.plant.order.length);
   const pal = await p.$$eval('#plist .pit span', (a) => a.map((x) => x.textContent));
-  ok(pal.length === 17, 'plant palette lists 17 process units', pal.join(','));
+  ok(pal.length === EL_N, 'plant palette lists every process unit', pal.join(','));
   // + Add menu: every unit type
   const order = await p.evaluate(() => EL.plant.order);
   for (let i = 0; i < order.length; i++) {
     await p.click('#plantHost .pl-tools .btn.pri'); await sleep(150);
     const n = await p.$$eval('.modal .pl-mi', (a) => a.length);
-    if (i === 0) ok(n === 17, '+ Add menu shows 17 types', n);
+    if (i === 0) ok(n === EL_N, '+ Add menu shows every type', n);
     const before = (await st()).units;
     await (await p.$$('.modal .pl-mi'))[i].click(); await sleep(150);
     const s = await st();

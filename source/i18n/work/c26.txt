@@ -1,0 +1,971 @@
+#4275
+Nouvelle lampe
+Lâmpada nova
+新灯管
+Новая лампа
+Nowa lampa
+Új lámpa
+Lámpara nueva
+
+#4276
+Choisir une taille de pompe…
+Escolha um tamanho de bomba…
+选择水泵规格…
+Выберите типоразмер насоса…
+Wybierz wielkość pompy…
+Válasszon szivattyúméretet…
+Elija un tamaño de bomba…
+
+#4277
+Taille de cuve…
+Tamanho do tanque…
+储罐规格…
+Размер бака…
+Wielkość zbiornika…
+Tartályméret…
+Tamaño del tanque…
+
+#4278
+Atteint 90 % en
+Chega a 90 % em
+达到 90 % 用时
+Достигает 90 % за
+Osiąga 90 % w
+90 %-ot elér
+Llega al 90 % en
+
+#4279
+Descend à 10 % en
+Cai para 10 % em
+降到 10 % 用时
+Падает до 10 % за
+Spada do 10 % w
+10 %-ra csökken
+Baja al 10 % en
+
+#4280
+Remplissage complet 0-100 % à ce débit
+Enchimento completo 0-100 % nesta vazão
+以此流量从 0-100 % 完全充满
+Полное заполнение 0-100 % при этом расходе
+Pełne napełnienie 0-100 % przy tym przepływie
+Teljes feltöltés 0-100 % ennél az átfolyásnál
+Llenado completo 0-100 % con este caudal
+
+#4281
+Vidange complète à ce débit
+Esvaziamento completo nesta vazão
+以此流量完全排空
+Полное опорожнение при этом расходе
+Pełne opróżnienie przy tym przepływie
+Teljes ürítés ennél az átfolyásnál
+Vaciado completo con este caudal
+
+#4282
+Puissance à l'arbre
+Potência no eixo
+轴功率
+Мощность на валу
+Moc na wale
+Tengelyteljesítmény
+Potencia en el eje
+
+#4283
+Régulation de niveau
+Controle de nível
+液位控制
+Регулирование уровня
+Regulacja poziomu
+Szintszabályozás
+Control de nivel
+
+#4284
+arrêtée par le niveau
+parada pelo nível
+因液位停止
+остановлен по уровню
+zatrzymana przez poziom
+szint miatt leállt
+parada por nivel
+
+#4285
+Résine restante
+Resina restante
+剩余树脂
+Остаток смолы
+Pozostała żywica
+Maradék gyanta
+Resina restante
+
+#4286
+Produit
+Produto
+产水
+Продукт
+Produkt
+Termék
+Producto
+
+#4287
+Alimentation DC
+Alimentação DC
+DC 电源
+Питание DC
+Zasilanie DC
+DC tápellátás
+Alimentación DC
+
+#4288
+Sortie WFI
+Saída de WFI
+WFI 出水
+Выход WFI
+Wyjście WFI
+WFI kimenet
+Salida de WFI
+
+#4289
+Purge
+Purga
+排污
+Продувка
+Odsalanie
+Leiszapolás
+Purga
+
+#4290
+Position
+Posição
+位置
+Положение
+Pozycja
+Állás
+Posición
+
+#4291
+vers l'égout
+para o dreno
+去排水
+в дренаж
+do odpływu
+a lefolyóba
+al drenaje
+
+#4292
+vers la cuve
+para o tanque
+去储罐
+в бак
+do zbiornika
+a tartályba
+al tanque
+
+#4293
+Exposition au chlore
+Exposição ao cloro
+氯暴露量
+Воздействие хлора
+Narażenie na chlor
+Klórterhelés
+Exposición al cloro
+
+#4294
+Conductivité (brute)
+Condutividade (bruta)
+电导率（原水）
+Электропроводность (исходная)
+Przewodność (surowa)
+Vezetőképesség (nyers)
+Conductividad (bruta)
+
+#4295
+Dureté
+Dureza
+硬度
+Жёсткость
+Twardość
+Keménység
+Dureza
+
+#4296
+Chlore
+Cloro
+氯
+Хлор
+Chlor
+Klór
+Cloro
+
+#4297
+Silice
+Sílica
+二氧化硅
+Кремний
+Krzemionka
+Szilícium-dioxid
+Sílice
+
+#4298
+Bactéries
+Bactérias
+细菌
+Бактерии
+Bakterie
+Baktériumok
+Bacterias
+
+#4299
+Endotoxines
+Endotoxinas
+内毒素
+Эндотоксины
+Endotoksyny
+Endotoxin
+Endotoxinas
+
+#4300
+Vitesse
+Velocidade
+流速
+Скорость
+Prędkość
+Áramlási sebesség
+Velocidad
+
+#4301
+Ligne
+Linha
+线路
+Линия
+Linia
+Sor
+Línea
+
+#4302
+Ouvrir le programme
+Abrir o programa
+打开程序
+Открыть программу
+Otwórz program
+Program megnyitása
+Abrir el programa
+
+#4303
+Pompe d'alimentation eau brute (4 m³/h, 45 m, 1.5 kW)
+Bomba de alimentação de água bruta (4 m³/h, 45 m, 1.5 kW)
+原水供水泵（4 m³/h，45 m，1.5 kW）
+Насос подачи исходной воды (4 m³/h, 45 m, 1.5 kW)
+Pompa zasilająca wody surowej (4 m³/h, 45 m, 1.5 kW)
+Nyersvíz-tápszivattyú (4 m³/h, 45 m, 1.5 kW)
+Bomba de alimentación de agua bruta (4 m³/h, 45 m, 1.5 kW)
+
+#4304
+Pompe haute pression RO passe 1 (3.5 m³/h, 120 m, 3 kW)
+Bomba de alta pressão RO passo 1 (3.5 m³/h, 120 m, 3 kW)
+RO 一级高压泵（3.5 m³/h，120 m，3 kW）
+Насос высокого давления RO, 1-я ступень (3.5 m³/h, 120 m, 3 kW)
+Pompa wysokociśnieniowa RO, stopień 1 (3.5 m³/h, 120 m, 3 kW)
+RO 1. fokozat nagynyomású szivattyú (3.5 m³/h, 120 m, 3 kW)
+Bomba de alta presión RO paso 1 (3.5 m³/h, 120 m, 3 kW)
+
+#4305
+Pompe haute pression RO passe 2 (2.6 m³/h, 100 m, 2.2 kW)
+Bomba de alta pressão RO passo 2 (2.6 m³/h, 100 m, 2.2 kW)
+RO 二级高压泵（2.6 m³/h，100 m，2.2 kW）
+Насос высокого давления RO, 2-я ступень (2.6 m³/h, 100 m, 2.2 kW)
+Pompa wysokociśnieniowa RO, stopień 2 (2.6 m³/h, 100 m, 2.2 kW)
+RO 2. fokozat nagynyomású szivattyú (2.6 m³/h, 100 m, 2.2 kW)
+Bomba de alta presión RO paso 2 (2.6 m³/h, 100 m, 2.2 kW)
+
+#4306
+Pompe de boucle PW (6 m³/h, 45 m, 2.2 kW)
+Bomba do loop de PW (6 m³/h, 45 m, 2.2 kW)
+PW 循环泵（6 m³/h，45 m，2.2 kW）
+Насос контура PW (6 m³/h, 45 m, 2.2 kW)
+Pompa pętli PW (6 m³/h, 45 m, 2.2 kW)
+PW hurokszivattyú (6 m³/h, 45 m, 2.2 kW)
+Bomba del lazo de PW (6 m³/h, 45 m, 2.2 kW)
+
+#4307
+Pompe d'alimentation du distillateur (0.6 m³/h, 60 m, 1.1 kW)
+Bomba de alimentação do destilador (0.6 m³/h, 60 m, 1.1 kW)
+蒸馏机供水泵（0.6 m³/h，60 m，1.1 kW）
+Насос питания дистиллятора (0.6 m³/h, 60 m, 1.1 kW)
+Pompa zasilająca destylatora (0.6 m³/h, 60 m, 1.1 kW)
+Desztillálóberendezés tápszivattyúja (0.6 m³/h, 60 m, 1.1 kW)
+Bomba de alimentación del destilador (0.6 m³/h, 60 m, 1.1 kW)
+
+#4308
+Pompe de boucle WFI (3 m³/h, 40 m, 1.5 kW)
+Bomba do loop de WFI (3 m³/h, 40 m, 1.5 kW)
+WFI 循环泵（3 m³/h，40 m，1.5 kW）
+Насос контура WFI (3 m³/h, 40 m, 1.5 kW)
+Pompa pętli WFI (3 m³/h, 40 m, 1.5 kW)
+WFI hurokszivattyú (3 m³/h, 40 m, 1.5 kW)
+Bomba del lazo de WFI (3 m³/h, 40 m, 1.5 kW)
+
+#4309
+Eau purifiée (USP)
+Água purificada (USP)
+纯化水（USP）
+Очищенная вода (USP)
+Woda oczyszczona (USP)
+Tisztított víz (USP)
+Agua purificada (USP)
+
+#4310
+Eau purifiée (Ph. Eur.)
+Água purificada (Ph. Eur.)
+纯化水（Ph. Eur.）
+Очищенная вода (Ph. Eur.)
+Woda oczyszczona (Ph. Eur.)
+Tisztított víz (Ph. Eur.)
+Agua purificada (Ph. Eur.)
+
+#4311
+Eau pour préparations injectables (WFI)
+Água para injetáveis (WFI)
+注射用水（WFI）
+Вода для инъекций (WFI)
+Woda do wstrzykiwań (WFI)
+Injekcióhoz való víz (WFI)
+Agua para inyectables (WFI)
+
+#4312
+Conductivité (non compensée)
+Condutividade (não compensada)
+电导率（未补偿）
+Электропроводность (без компенсации)
+Przewodność (bez kompensacji)
+Vezetőképesség (kompenzálatlan)
+Conductividad (no compensada)
+
+#4313
+Bactéries (résultat labo, niveau d'action)
+Bactérias (resultado de laboratório, nível de ação)
+细菌（化验结果，纠偏限）
+Бактерии (результат лаборатории, уровень действия)
+Bakterie (wynik laboratoryjny, poziom działania)
+Baktériumok (laboreredmény, beavatkozási szint)
+Bacterias (resultado de laboratorio, nivel de acción)
+
+#4314
+Boucle chaude ≥ 70 °C (limite de contrôle)
+Loop quente ≥ 70 °C (limite de controle)
+热循环 ≥ 70 °C（控制限）
+Горячий контур ≥ 70 °C (контрольный предел)
+Gorąca pętla ≥ 70 °C (limit kontrolny)
+Forró hurok ≥ 70 °C (ellenőrzési határ)
+Lazo caliente ≥ 70 °C (límite de control)
+
+#4315
+Adoucisseur (résine)
+Abrandador (resina)
+软化器（树脂）
+Умягчитель (смола)
+Zmiękczacz (żywica)
+Vízlágyító (gyanta)
+Descalcificador (resina)
+
+#4316
+Échange le calcium et le magnésium contre du sodium pour que la RO et l'EDI ne s'entartrent pas. Sa résine s'épuise après un volume donné : la dureté passe alors. Régénérez-le à la saumure.
+Troca cálcio e magnésio por sódio para que o RO e o EDI não incrustem. A resina se esgota após um volume definido: então a dureza passa. Regenere com salmoura.
+用钠交换钙和镁，防止 RO 和 EDI 结垢。树脂在处理一定水量后耗尽：此时硬度穿透。用盐水再生。
+Заменяет кальций и магний на натрий, чтобы RO и EDI не зарастали накипью. Смола истощается после заданного объёма: тогда проскакивает жёсткость. Регенерируйте её рассолом.
+Wymienia wapń i magnez na sód, aby RO i EDI się nie osadzały. Żywica wyczerpuje się po określonej objętości: wtedy przebija twardość. Zregeneruj ją solanką.
+A kalciumot és a magnéziumot nátriumra cseréli, hogy az RO és az EDI ne vízkövesedjen. A gyanta adott térfogat után kimerül: ekkor átüt a keménység. Regenerálja sóoldattal.
+Intercambia calcio y magnesio por sodio para que el RO y la EDI no se incrusten. Su resina se agota tras un volumen dado: entonces pasa la dureza. Regenérelo con salmuera.
+
+#4317
+Pompe doseuse (produit chimique)
+Bomba dosadora (químico)
+加药泵（化学品）
+Дозирующий насос (реагент)
+Pompa dozująca (chemikalia)
+Adagolószivattyú (vegyszer)
+Bomba dosificadora (químico)
+
+#4318
+Injecte un produit chimique dans la ligne : NaOH entre les passes RO (CO2 en bicarbonate), SMBS pour éliminer le chlore, antitartre avant la RO, ou NaOCl pour chlorer.
+Injeta um químico na linha: NaOH entre os passos do RO (CO2 em bicarbonato), SMBS para eliminar o cloro, antiincrustante antes do RO, ou NaOCl para clorar.
+向管路注入化学品：RO 两级之间加 NaOH（CO2 转为碳酸氢盐），加 SMBS 去除余氯，RO 前加阻垢剂，或加 NaOCl 加氯。
+Вводит реагент в линию: NaOH между ступенями RO (CO2 в бикарбонат), SMBS для удаления хлора, антискалант перед RO или NaOCl для хлорирования.
+Wtryskuje chemikalia do linii: NaOH między stopniami RO (CO2 do wodorowęglanu), SMBS do usuwania chloru, antyskalant przed RO lub NaOCl do chlorowania.
+Vegyszert adagol a vezetékbe: NaOH-t az RO fokozatok közé (CO2-ből hidrogén-karbonát), SMBS-t a klór lekötésére, vízkőgátlót az RO elé vagy NaOCl-t klórozáshoz.
+Inyecta un químico en la línea: NaOH entre los pasos de RO (CO2 a bicarbonato), SMBS para eliminar el cloro, antiincrustante antes del RO, o NaOCl para clorar.
+
+#4319
+EDI (électrodésionisation)
+EDI (eletrodeionização)
+EDI（电去离子）
+EDI (электродеионизация)
+EDI (elektrodejonizacja)
+EDI (elektro-ioncserélés)
+EDI (electrodesionización)
+
+#4320
+Affine l'eau RO sous 0.1 µS/cm grâce à un champ DC et à la résine, sans produits chimiques. Exige une eau adoucie, sans chlore et pauvre en CO2. Le DC disjoncte si le débit produit est trop faible.
+Polimento da água do RO para menos de 0.1 µS/cm com campo DC e resina, sem químicos. Precisa de água abrandada, sem cloro e com pouco CO2. O DC desarma quando a vazão de produto é baixa demais.
+利用 DC 电场和树脂将 RO 产水精制到 0.1 µS/cm 以下，不用化学品。需要软化、无氯、CO2 含量低的进水。产水流量过低时 DC 跳闸。
+Доочищает воду после RO до менее 0.1 µS/cm полем DC и смолой, без химикатов. Нужна умягчённая вода без хлора и с малым содержанием CO2. DC отключается при слишком малом расходе продукта.
+Doczyszcza wodę z RO poniżej 0.1 µS/cm polem DC i żywicą, bez chemikaliów. Wymaga wody zmiękczonej, bez chloru i z małą ilością CO2. DC wyłącza się, gdy przepływ produktu jest za mały.
+Az RO-vizet DC térrel és gyantával 0.1 µS/cm alá finomítja, vegyszer nélkül. Lágy, klórmentes, kevés CO2-t tartalmazó víz kell neki. A DC lekapcsol, ha túl kicsi a termékáram.
+Pule el agua del RO por debajo de 0.1 µS/cm con un campo DC y resina, sin químicos. Necesita agua blanda, sin cloro y con poco CO2. La DC se dispara cuando el caudal de producto es demasiado bajo.
+
+#4321
+Stérilisateur UV
+Esterilizador UV
+UV 杀菌器
+Стерилизатор UV
+Sterylizator UV
+UV sterilizáló
+Esterilizador UV
+
+#4322
+254 nm tue les bactéries (environ 2.5 log à 100 % d'intensité). 185 nm dégrade aussi les matières organiques (TOC). Sous 70 % d'intensité, la lampe est en alarme et ne fonctionne plus.
+254 nm mata bactérias (cerca de 2.5 log a 100 % de intensidade). 185 nm também quebra orgânicos (TOC). Abaixo de 70 % de intensidade a lâmpada alarma e para de funcionar.
+254 nm 杀灭细菌（100 % 强度下约 2.5 log）。185 nm 还能分解有机物（TOC）。强度低于 70 % 时灯管报警并失效。
+254 nm убивает бактерии (около 2.5 log при 100 % интенсивности). 185 nm также разрушает органику (TOC). Ниже 70 % интенсивности лампа выдаёт аварию и перестаёт работать.
+254 nm zabija bakterie (około 2.5 log przy 100 % intensywności). 185 nm rozkłada też związki organiczne (TOC). Poniżej 70 % intensywności lampa alarmuje i przestaje działać.
+A 254 nm elpusztítja a baktériumokat (kb. 2.5 log 100 % intenzitásnál). A 185 nm a szerves anyagokat (TOC) is lebontja. 70 % intenzitás alatt a lámpa riaszt és nem működik.
+254 nm mata bacterias (unos 2.5 log al 100 % de intensidad). 185 nm también rompe orgánicos (TOC). Por debajo del 70 % de intensidad la lámpara da alarma y deja de funcionar.
+
+#4323
+Distillateur multi-effets (WFI)
+Destilador de múltiplo efeito (WFI)
+多效蒸馏水机（WFI）
+Многокорпусный дистиллятор (WFI)
+Destylator wielokolumnowy (WFI)
+Többlépcsős desztillálóberendezés (WFI)
+Destilador multiefecto (WFI)
+
+#4324
+Fait bouillir l'eau purifiée avec la vapeur d'usine et la condense en WFI à environ 85 °C. Élimine sels, bactéries et endotoxines (3 log ou plus). Environ 10 % part en purge.
+Ferve a água purificada com vapor da planta e a condensa como WFI a cerca de 85 °C. Remove sais, bactérias e endotoxinas (3 log ou mais). Cerca de 10 % sai como purga.
+用工厂蒸汽将纯化水煮沸，并在约 85 °C 冷凝为 WFI。去除盐分、细菌和内毒素（3 log 或以上）。约 10 % 作为排污排出。
+Кипятит очищенную воду заводским паром и конденсирует её как WFI при примерно 85 °C. Удаляет соли, бактерии и эндотоксины (3 log и более). Около 10 % уходит в продувку.
+Gotuje wodę oczyszczoną parą zakładową i skrapla ją jako WFI w około 85 °C. Usuwa sole, bakterie i endotoksyny (3 log lub więcej). Około 10 % odchodzi jako odsalanie.
+Üzemi gőzzel forralja a tisztított vizet, és kb. 85 °C-on WFI-ként kondenzálja. Eltávolítja a sókat, baktériumokat és endotoxinokat (3 log vagy több). Kb. 10 % leiszapolásként távozik.
+Hierve el agua purificada con vapor de planta y la condensa como WFI a unos 85 °C. Elimina sales, bacterias y endotoxinas (3 log o más). Alrededor del 10 % sale como purga.
+
+#4325
+Point d'utilisation / vanne d'échantillonnage
+Ponto de uso / válvula de amostragem
+用水点 / 取样阀
+Точка потребления / пробоотборный клапан
+Punkt poboru / zawór próbkowy
+Felhasználási pont / mintavevő szelep
+Punto de uso / válvula de muestreo
+
+#4326
+Là où la production prend l'eau. Ouvrez-la pour puiser. Elle affiche aussi la qualité de l'eau par rapport aux limites. Gardez la dérivation courte : un bras mort de plus de 2 diamètres de tuyau développe des bactéries.
+Onde a produção retira água. Abra para coletar. Também mostra a qualidade da água frente aos limites. Mantenha o ramal curto: um ponto morto maior que 2 diâmetros de tubo cria bactérias.
+生产取水的位置。打开即可取水。它还会对照限度显示水质。支管要短：超过 2 倍管径的死角会滋生细菌。
+Место, где производство берёт воду. Откройте, чтобы отобрать. Также показывает качество воды относительно пределов. Держите отвод коротким: тупиковая зона длиннее 2 диаметров трубы растит бактерии.
+Miejsce, w którym produkcja pobiera wodę. Otwórz, aby pobrać. Pokazuje też jakość wody względem limitów. Odgałęzienie musi być krótkie: martwa strefa dłuższa niż 2 średnice rury hoduje bakterie.
+Itt veszi a vizet a gyártás. Nyissa ki a vételezéshez. A vízminőséget is mutatja a határértékekhez képest. Tartsa röviden a leágazást: a 2 csőátmérőnél hosszabb holtág baktériumokat nevel.
+Donde producción toma el agua. Ábrala para extraer. También muestra la calidad del agua frente a los límites. Mantenga corto el ramal: una pierna muerta de más de 2 diámetros de tubería cría bacterias.
+
+#4327
+Analyseur de qualité (conductivité, TOC)
+Analisador de qualidade (condutividade, TOC)
+水质分析仪（电导率、TOC）
+Анализатор качества (электропроводность, TOC)
+Analizator jakości (przewodność, TOC)
+Minőségelemző (vezetőképesség, TOC)
+Analizador de calidad (conductividad, TOC)
+
+#4328
+Conductivité et TOC en ligne, avec résultats labo pour bactéries et endotoxines. Compare l'eau aux limites USP / Ph. Eur. pour PW ou WFI. La conductivité n'est pas compensée en température (tableau Stage 1).
+Condutividade e TOC online, com resultados de laboratório para bactérias e endotoxinas. Compara a água com os limites USP / Ph. Eur. para PW ou WFI. A condutividade não é compensada por temperatura (tabela Stage 1).
+在线电导率和 TOC，加上细菌和内毒素的化验结果。按 USP / Ph. Eur. 的 PW 或 WFI 限度检查水质。电导率未做温度补偿（Stage 1 表）。
+Онлайн электропроводность и TOC плюс лабораторные результаты по бактериям и эндотоксинам. Сравнивает воду с пределами USP / Ph. Eur. для PW или WFI. Электропроводность без температурной компенсации (таблица Stage 1).
+Przewodność i TOC online oraz wyniki laboratoryjne dla bakterii i endotoksyn. Porównuje wodę z limitami USP / Ph. Eur. dla PW lub WFI. Przewodność bez kompensacji temperaturowej (tabela Stage 1).
+Online vezetőképesség és TOC, laboreredményekkel a baktériumokra és endotoxinokra. A vizet az USP / Ph. Eur. PW vagy WFI határértékeihez méri. A vezetőképesség nem hőmérséklet-kompenzált (Stage 1 táblázat).
+Conductividad y TOC en línea, con resultados de laboratorio para bacterias y endotoxinas. Compara el agua con los límites USP / Ph. Eur. para PW o WFI. La conductividad no está compensada por temperatura (tabla Stage 1).
+
+#4329
+Vanne de dérivation à l'égout
+Válvula de desvio para o dreno
+排放切换阀
+Клапан сброса в дренаж
+Zawór zrzutu do odpływu
+Lefolyóba terelő szelep
+Válvula de desvío a drenaje
+
+#4330
+Envoie l'eau à l'égout tant que sa conductivité dépasse la limite, pour que l'eau non conforme n'atteigne jamais la cuve de stockage. Revient vers la cuve 2 minutes après le retour à la conformité.
+Manda a água para o dreno enquanto a condutividade estiver acima do limite, para que água ruim nunca chegue ao tanque de armazenamento. Volta para o tanque 2 minutos depois que a água fica boa de novo.
+电导率高于限度时将水排到地漏，不合格水永远不会进入储罐。水质恢复合格 2 分钟后切回储罐。
+Сбрасывает воду в дренаж, пока её электропроводность выше предела, чтобы плохая вода не попала в бак хранения. Возвращает в бак через 2 минуты после восстановления качества.
+Kieruje wodę do odpływu, dopóki jej przewodność przekracza limit, aby zła woda nie trafiła do zbiornika magazynowego. Wraca do zbiornika 2 minuty po powrocie do normy.
+A lefolyóba küldi a vizet, amíg a vezetőképessége a határ felett van, így rossz víz soha nem jut a tárolótartályba. 2 perccel azután tér vissza a tartályba, hogy a víz újra megfelelő.
+Envía el agua al drenaje mientras su conductividad supera el límite, para que el agua mala nunca llegue al tanque de almacenamiento. Vuelve al tanque 2 minutos después de que esté bien de nuevo.
+
+#4331
+Membrane endommagée par le chlore : le passage de sels augmente. Remplacez les membranes.
+Membrana danificada por cloro: a passagem de sais aumentou. Troque as membranas.
+膜被氯损坏：透盐率升高。更换膜元件。
+Мембрана повреждена хлором: проскок солей вырос. Замените мембраны.
+Membrana uszkodzona chlorem: wzrosło przenikanie soli. Wymień membrany.
+A membránt károsította a klór: nőtt a sóáteresztés. Cserélje a membránokat.
+Membrana dañada por cloro: el paso de sales ha subido. Cambie las membranas.
+
+#4332
+Dureté × facteur de concentration au-dessus de 20 mg/L sans antitartre : la membrane s'entartre. Réparez l'adoucisseur ou dosez de l'antitartre.
+Dureza × fator de concentração acima de 20 mg/L sem antiincrustante: a membrana incrusta. Conserte o abrandador ou dose antiincrustante.
+硬度 × 浓缩倍数超过 20 mg/L 且未加阻垢剂：膜结垢。修复软化器或投加阻垢剂。
+Жёсткость × коэффициент концентрирования выше 20 mg/L без антискаланта: мембрана зарастает накипью. Исправьте умягчитель или дозируйте антискалант.
+Twardość × współczynnik zatężenia powyżej 20 mg/L bez antyskalantu: membrana się osadza. Napraw zmiękczacz lub dozuj antyskalant.
+Keménység × koncentrációs tényező 20 mg/L felett vízkőgátló nélkül: a membrán vízkövesedik. Javítsa meg a lágyítót vagy adagoljon vízkőgátlót.
+Dureza × factor de concentración por encima de 20 mg/L sin antiincrustante: la membrana se incrusta. Repare el descalcificador o dosifique antiincrustante.
+
+#4333
+Résine épuisée : la dureté passe. Régénérez l'adoucisseur.
+Resina esgotada: a dureza passa. Regenere o abrandador.
+树脂耗尽：硬度穿透。再生软化器。
+Смола истощена: проскакивает жёсткость. Регенерируйте умягчитель.
+Żywica wyczerpana: twardość przebija. Zregeneruj zmiękczacz.
+A gyanta kimerült: átüt a keménység. Regenerálja a lágyítót.
+Resina agotada: pasa la dureza. Regenere el descalcificador.
+
+#4334
+Charbon épuisé : le chlore passe. Remplacez le charbon.
+Carvão esgotado: o cloro passa. Troque o carvão.
+活性炭耗尽：余氯穿透。更换活性炭。
+Уголь истощён: проскакивает хлор. Замените уголь.
+Węgiel wyczerpany: chlor przebija. Wymień węgiel.
+A szén kimerült: átüt a klór. Cserélje a szenet.
+Carbón agotado: pasa el cloro. Cambie el carbón.
+
+#4335
+L'alimentation DC a disjoncté sur débit produit faible. Rétablissez le débit, le DC revient tout seul.
+A alimentação DC desarmou por baixa vazão de produto. Restabeleça a vazão, o DC volta sozinho.
+产水流量低导致 DC 电源跳闸。恢复流量后 DC 会自动恢复。
+Питание DC отключилось из-за малого расхода продукта. Восстановите расход, DC включится само.
+Zasilanie DC wyłączyło się przy małym przepływie produktu. Przywróć przepływ, DC wróci samo.
+A DC tápellátás kis termékáram miatt lekapcsolt. Állítsa vissza az átfolyást, a DC magától visszajön.
+La alimentación DC se disparó por bajo caudal de producto. Restablezca el caudal, la DC vuelve sola.
+
+#4336
+Entartrage EDI : dureté au-dessus de 1 mg/L à l'alimentation. La conductivité du produit augmente.
+Incrustação no EDI: dureza acima de 1 mg/L na alimentação. A condutividade do produto está subindo.
+EDI 结垢：进水硬度高于 1 mg/L。产水电导率在上升。
+Накипь в EDI: жёсткость на входе выше 1 mg/L. Электропроводность продукта растёт.
+Osadzanie w EDI: twardość na zasilaniu powyżej 1 mg/L. Przewodność produktu rośnie.
+EDI vízkövesedés: a betáplálás keménysége 1 mg/L felett. A termék vezetőképessége nő.
+Incrustación en la EDI: dureza superior a 1 mg/L en la alimentación. La conductividad del producto sube.
+
+#4337
+Du chlore à l'alimentation de l'EDI endommage la résine et les membranes.
+Cloro na alimentação do EDI danifica a resina e as membranas.
+EDI 进水中的氯会损坏树脂和膜。
+Хлор на входе EDI повреждает смолу и мембраны.
+Chlor na zasilaniu EDI uszkadza żywicę i membrany.
+Az EDI betáplálásában lévő klór károsítja a gyantát és a membránokat.
+El cloro en la alimentación de la EDI daña la resina y las membranas.
+
+#4338
+L'alimentation de l'EDI est coupée : l'eau passe sans affinage.
+A alimentação do EDI está desligada: a água passa sem polimento.
+EDI 电源已关闭：水未经精制直接通过。
+Питание EDI выключено: вода проходит без доочистки.
+Zasilanie EDI wyłączone: woda przechodzi bez doczyszczania.
+Az EDI tápellátása ki van kapcsolva: a víz finomítás nélkül halad át.
+La alimentación de la EDI está apagada: el agua pasa sin pulir.
+
+#4339
+Lampe UV éteinte ou sous 70 % d'intensité : pas de désinfection. Changez la lampe.
+Lâmpada UV desligada ou abaixo de 70 % de intensidade: sem desinfecção. Troque a lâmpada.
+UV 灯关闭或强度低于 70 %：没有消毒效果。更换灯管。
+Лампа UV выключена или ниже 70 % интенсивности: нет дезинфекции. Замените лампу.
+Lampa UV wyłączona lub poniżej 70 % intensywności: brak dezynfekcji. Wymień lampę.
+Az UV lámpa ki van kapcsolva vagy 70 % intenzitás alatt van: nincs fertőtlenítés. Cserélje a lámpát.
+Lámpara UV apagada o por debajo del 70 % de intensidad: sin desinfección. Cambie la lámpara.
+
+#4340
+L'alimentation du distillateur contient plus de 1 ppm de silice ou du chlore : corrosion et entartrage. Alimentez-le en eau purifiée.
+A alimentação do destilador tem sílica acima de 1 ppm ou cloro: corrosão e incrustação. Alimente-o com água purificada.
+蒸馏机进水二氧化硅高于 1 ppm 或含氯：腐蚀和结垢。改用纯化水供水。
+В питании дистиллятора кремний выше 1 ppm или хлор: коррозия и накипь. Питайте его очищенной водой.
+Zasilanie destylatora ma krzemionkę powyżej 1 ppm lub chlor: korozja i osady. Zasilaj go wodą oczyszczoną.
+A desztillálóberendezés betáplálásában 1 ppm feletti szilícium-dioxid vagy klór van: korrózió és vízkő. Tisztított vizet tápláljon be.
+La alimentación del destilador tiene sílice por encima de 1 ppm o cloro: corrosión e incrustación. Aliméntelo con agua purificada.
+
+#4341
+WFI sous 70 °C : bloquez les points d'utilisation jusqu'à ce qu'elle soit de nouveau chaude.
+WFI abaixo de 70 °C: bloqueie os pontos de uso até ela esquentar de novo.
+WFI 低于 70 °C：封锁用水点，直到重新升温。
+WFI ниже 70 °C: заблокируйте точки потребления, пока она снова не нагреется.
+WFI poniżej 70 °C: zablokuj punkty poboru, aż znów będzie gorąca.
+WFI 70 °C alatt: tiltsa le a felhasználási pontokat, amíg újra fel nem melegszik.
+WFI por debajo de 70 °C: bloquee los puntos de uso hasta que vuelva a estar caliente.
+
+#4342
+La ligne s'arrête après {1} : rien n'est aligné à sa sortie (même case, même sens). Utilisez « Ajouter en fin de ligne ».
+A linha para depois de {1}: nada está alinhado na saída (mesma célula, mesma direção). Use "Adicionar no fim da linha".
+线路在 {1} 之后中断：出口处没有对齐的设备（同一格、同一方向）。使用“添加到线路末端”。
+Линия обрывается после {1}: на её выходе ничего не стоит (та же клетка, то же направление). Используйте «Добавить в конец линии».
+Linia kończy się po {1}: nic nie stoi na jej wyjściu (ta sama komórka, ten sam kierunek). Użyj „Dodaj na końcu linii”.
+A sor {1} után megszakad: a kimeneténél nincs semmi (ugyanaz a cella, ugyanaz az irány). Használja a „Hozzáadás a sor végéhez” funkciót.
+La línea se corta después de {1}: no hay nada alineado en su salida (misma celda, misma dirección). Use "Añadir al final de la línea".
+
+#4343
+Le retourneur a besoin d'un écart : pas {1} mm < diagonale étui {2} + 20 mm. Ajoutez une bande d'espacement ou accélérez en amont.
+O girador precisa de espaço: passo {1} mm < diagonal do cartucho {2} + 20 mm. Coloque uma esteira espaçadora ou acelere antes dele.
+转向器需要间距：节距 {1} mm < 纸盒对角线 {2} + 20 mm。在其前面加拉距皮带或提高速度。
+Поворотному устройству нужен зазор: шаг {1} mm < диагональ коробки {2} + 20 mm. Поставьте разделительную ленту или ускорьте поток перед ним.
+Obracarka potrzebuje odstępu: podziałka {1} mm < przekątna kartonika {2} + 20 mm. Dodaj taśmę rozdzielającą lub przyspiesz przed nią.
+A forgatónak hézag kell: osztás {1} mm < doboz átló {2} + 20 mm. Tegyen elé távolságtartó szalagot vagy gyorsítson előtte.
+El volteador necesita separación: paso {1} mm < diagonal del estuche {2} + 20 mm. Ponga una banda separadora o acelere antes.
+
+#4344
+Guides {1} mm trop étroits pour un étui de {2} mm de large : bourrage. Réglez {2}{3}-{2}{4} mm.
+Guias de {1} mm estreitas demais para um cartucho de {2} mm de largura: enrosco. Ajuste {2}{3}-{2}{4} mm.
+导轨 {1} mm 对于宽 {2} mm 的纸盒太窄：会卡料。设为 {2}{3}-{2}{4} mm。
+Направляющие {1} mm слишком узки для коробки шириной {2} mm: затор. Установите {2}{3}-{2}{4} mm.
+Prowadnice {1} mm za wąskie dla kartonika o szerokości {2} mm: zator. Ustaw {2}{3}-{2}{4} mm.
+A {1} mm-es vezetők túl szűkek a {2} mm széles dobozhoz: elakadás. Állítsa {2}{3}-{2}{4} mm-re.
+Guías de {1} mm demasiado estrechas para un estuche de {2} mm de ancho: atasco. Ajuste {2}{3}-{2}{4} mm.
+
+#4345
+Guides {1} mm trop larges pour {2} mm : l'étui se met de travers (impression, étiquettes, bourrages).
+Guias de {1} mm largas demais para {2} mm: o cartucho fica torto (impressão ruim, rótulos, enroscos).
+导轨 {1} mm 对 {2} mm 太宽：纸盒歪斜（打印不良、贴标问题、卡料）。
+Направляющие {1} mm слишком широки для {2} mm: коробка перекашивается (плохая печать, этикетки, заторы).
+Prowadnice {1} mm za szerokie dla {2} mm: kartonik się skręca (zły nadruk, etykiety, zatory).
+A {1} mm-es vezetők túl szélesek {2} mm-hez: a doboz elfordul (rossz nyomtatás, címkék, elakadás).
+Guías de {1} mm demasiado anchas para {2} mm: el estuche se tuerce (mala impresión, etiquetas, atascos).
+
+#4346
+Chaîne {1} mm étroite pour un étui de {2} mm de large.
+Corrente de {1} mm estreita para um cartucho de {2} mm de largura.
+链板 {1} mm 对于宽 {2} mm 的纸盒偏窄。
+Цепь {1} mm узка для коробки шириной {2} mm.
+Łańcuch {1} mm za wąski dla kartonika o szerokości {2} mm.
+A {1} mm-es lánc keskeny a {2} mm széles dobozhoz.
+Cadena de {1} mm estrecha para un estuche de {2} mm de ancho.
+
+#4347
+Courbe trop serrée pour cet étui (rayon intérieur {1} mm, étui {2} en longueur) : bourrage. Prenez un rayon plus grand ou tournez l'étui avant.
+Curva fechada demais para este cartucho (raio interno {1} mm, cartucho {2} no comprimento): vai enroscar. Use um raio maior ou gire o cartucho antes.
+弯道对该纸盒太急（内半径 {1} mm，纸盒沿流向 {2}）：会卡料。用更大半径或先转向纸盒。
+Поворот слишком крутой для этой коробки (внутренний радиус {1} mm, коробка {2} вдоль потока): затор. Увеличьте радиус или сначала поверните коробку.
+Łuk za ciasny dla tego kartonika (promień wewnętrzny {1} mm, kartonik {2} wzdłuż): zator. Użyj większego promienia lub najpierw obróć kartonik.
+Túl szűk ív ehhez a dobozhoz (belső sugár {1} mm, doboz {2} hosszában): elakad. Használjon nagyobb sugarat, vagy előbb fordítsa el a dobozt.
+Curva demasiado cerrada para este estuche (radio interior {1} mm, estuche {2} a lo largo): se atascará. Use un radio mayor o gire antes el estuche.
+
+#4348
+Un étui debout bascule ici (hauteur/base {1}).
+Um cartucho em pé tomba aqui (altura/base {1}).
+直立纸盒在此会倾倒（高度/底边 {1}）。
+Стоящая коробка здесь опрокидывается (высота/основание {1}).
+Stojący kartonik przewraca się tutaj (wysokość/podstawa {1}).
+Az álló doboz itt felborul (magasság/alap {1}).
+Un estuche de pie se vuelca aquí (altura/base {1}).
+
+#4349
+Étui debout à {1} m/min : restez ≤ 30 m/min.
+Cartucho em pé a {1} m/min: mantenha ≤ 30 m/min.
+直立纸盒速度 {1} m/min：保持 ≤ 30 m/min。
+Стоящая коробка на {1} m/min: держите ≤ 30 m/min.
+Stojący kartonik przy {1} m/min: utrzymuj ≤ 30 m/min.
+Álló doboz {1} m/min sebességgel: tartsa ≤ 30 m/min értéken.
+Estuche de pie a {1} m/min: manténgalo ≤ 30 m/min.
+
+#4350
+La vitesse saute ×{1} par rapport au convoyeur précédent (limite ×{2}) : les étuis peuvent basculer ou se chevaucher.
+A velocidade salta ×{1} em relação à esteira anterior (limite ×{2}): os cartuchos podem tombar ou encavalar.
+速度比前一段输送带跳升 ×{1}（限值 ×{2}）：纸盒可能倾倒或叠压。
+Скорость скачет в ×{1} относительно предыдущего конвейера (предел ×{2}): коробки могут опрокинуться или налезть друг на друга.
+Prędkość skacze ×{1} względem poprzedniego przenośnika (limit ×{2}): kartoniki mogą się przewracać lub zachodzić na siebie.
+A sebesség ×{1}-szeresére ugrik az előző szállítószalaghoz képest (határ ×{2}): a dobozok felborulhatnak vagy egymásra csúszhatnak.
+La velocidad salta ×{1} respecto al transportador anterior (límite ×{2}): los estuches pueden volcarse o montarse.
+
+#4351
+À {1} m/min, le pas est de {2} mm, moins que l'étui ({3} mm) + 10 : ce convoyeur ne peut pas transporter {4} étuis/min.
+A {1} m/min o passo é {2} mm, menor que o cartucho ({3} mm) + 10: esta esteira não consegue levar {4} cartuchos/min.
+在 {1} m/min 时节距为 {2} mm，小于纸盒（{3} mm）+ 10：该输送带无法输送 {4} 盒/min。
+При {1} m/min шаг {2} mm, меньше коробки ({3} mm) + 10: этот конвейер не может везти {4} коробок/min.
+Przy {1} m/min podziałka wynosi {2} mm, mniej niż kartonik ({3} mm) + 10: ten przenośnik nie przeniesie {4} kartoników/min.
+{1} m/min sebességnél az osztás {2} mm, kevesebb, mint a doboz ({3} mm) + 10: ez a szalag nem tud {4} doboz/min-et szállítani.
+A {1} m/min el paso es {2} mm, menos que el estuche ({3} mm) + 10: este transportador no puede llevar {4} estuches/min.
+
+#4352
+Plus lent que l'élément précédent ({1} < {2} m/min) : les étuis vont s'accumuler. Gardez la courbe en V : la vitesse augmente le long de la ligne.
+Mais lento que o elemento anterior ({1} < {2} m/min): os cartuchos vão acumular. Mantenha a curva em V: a velocidade aumenta ao longo da linha.
+比前一段慢（{1} < {2} m/min）：纸盒会堆积。保持 V 形曲线：速度沿线逐段提高。
+Медленнее предыдущего элемента ({1} < {2} m/min): коробки будут скапливаться. Соблюдайте V-кривую: скорость растёт вдоль линии.
+Wolniej niż poprzedni element ({1} < {2} m/min): kartoniki będą się spiętrzać. Zachowaj krzywą V: prędkość rośnie wzdłuż linii.
+Lassabb az előző elemnél ({1} < {2} m/min): a dobozok feltorlódnak. Tartsa a V-görbét: a sebesség a sor mentén nő.
+Más lento que el elemento anterior ({1} < {2} m/min): los estuches se acumularán. Mantenga la curva en V: la velocidad sube a lo largo de la línea.
+
+#4353
+{1} traite {2} étuis/min, l'encartonneuse en produit {3}. Les machines en aval doivent faire 110-130 % de la cadence de l'encartonneuse.
+{1} processa {2} cartuchos/min, a encartuchadeira produz {3}. As máquinas a jusante precisam de 110-130 % da cadência da encartuchadeira.
+{1} 处理能力 {2} 盒/min，装盒机产出 {3}。下游设备需达到装盒机速度的 110-130 %。
+{1} обрабатывает {2} коробок/min, картонажная машина выдаёт {3}. Машины ниже по потоку должны давать 110-130 % производительности картонажной машины.
+{1} obsługuje {2} kartoników/min, kartoniarka daje {3}. Maszyny za nią potrzebują 110-130 % wydajności kartoniarki.
+{1} {2} doboz/min-et kezel, a dobozoló {3}-at gyárt. A későbbi gépeknek a dobozoló teljesítményének 110-130 %-a kell.
+{1} procesa {2} estuches/min, la estuchadora produce {3}. Las máquinas aguas abajo necesitan el 110-130 % de la cadencia de la estuchadora.
+
+#4354
+Pas {1} mm < plateau de pesée {2} mm : deux étuis sur le plateau, faux rejets. Accélérez le convoyeur en amont.
+Passo {1} mm < prato de pesagem {2} mm: dois cartuchos no prato, falsos rejeitos. Acelere a esteira antes dela.
+节距 {1} mm < 称重台 {2} mm：称台上有两个纸盒，误剔除。提高其前面输送带的速度。
+Шаг {1} mm < весовая платформа {2} mm: две коробки на платформе, ложные отбраковки. Ускорьте конвейер перед ней.
+Podziałka {1} mm < szalka wagi {2} mm: dwa kartoniki na szalce, fałszywe odrzuty. Przyspiesz przenośnik przed nią.
+Osztás {1} mm < mérőtálca {2} mm: két doboz a tálcán, téves kidobás. Gyorsítsa az előtte lévő szalagot.
+Paso {1} mm < plato de pesaje {2} mm: dos estuches en el plato, rechazos falsos. Acelere el transportador anterior.
+
+#4355
+Seulement {1} ms sur le plateau (il faut ≥ 150 ms pour que la cellule de charge se stabilise) : plateau plus long ou vitesse plus basse.
+Apenas {1} ms no prato (precisa de ≥ 150 ms para a célula de carga estabilizar): use um prato maior ou velocidade menor.
+在称台上仅 {1} ms（称重传感器稳定需 ≥ 150 ms）：使用更长的称台或降低速度。
+Всего {1} ms на платформе (нужно ≥ 150 ms для успокоения тензодатчика): удлините платформу или снизьте скорость.
+Tylko {1} ms na szalce (potrzeba ≥ 150 ms na ustabilizowanie tensometru): użyj dłuższej szalki lub mniejszej prędkości.
+Csak {1} ms a tálcán (≥ 150 ms kell, hogy a mérőcella beálljon): hosszabb tálcát vagy kisebb sebességet használjon.
+Solo {1} ms en el plato (se necesitan ≥ 150 ms para que la celda de carga se estabilice): use un plato más largo o menos velocidad.
+
+#4356
+L'encaisseuse est réglée pour {1} mais les étuis arrivent {2}.
+A encaixotadora está ajustada para {1}, mas os cartuchos chegam {2}.
+装箱机设定为 {1}，但纸盒到达时为 {2}。
+Упаковщик в короба настроен на {1}, а коробки приходят {2}.
+Pakowarka zbiorcza jest ustawiona na {1}, a kartoniki przychodzą {2}.
+A gyűjtőcsomagoló {1} állásra van beállítva, de a dobozok {2} érkeznek.
+La encajadora está ajustada para {1} pero los estuches llegan {2}.
+
+#4357
+{1} n'est pas sur le trajet des étuis : rien ne l'atteint.
+{1} não está no caminho dos cartuchos: nada chega até ele.
+{1} 不在纸盒路径上：没有纸盒到达。
+{1} не на пути коробок: до него ничего не доходит.
+{1} nie leży na drodze kartoników: nic do niego nie dociera.
+{1} nincs a dobozok útján: semmi sem jut el hozzá.
+{1} no está en el recorrido de los estuches: no le llega nada.
+
+#4358
+Pas de station de rejet après {1} : un étui non conforme pourrait atteindre la caisse (GMP).
+Sem estação de rejeição após {1}: um cartucho ruim pode chegar à caixa (GMP).
+{1} 之后没有剔除站：不合格纸盒可能进入装箱（GMP）。
+Нет станции отбраковки после {1}: брак может попасть в короб (GMP).
+Brak stacji odrzutu za {1}: wadliwy kartonik może trafić do kartonu zbiorczego (GMP).
+Nincs kidobó állomás {1} után: hibás doboz kerülhet a gyűjtődobozba (GMP).
+No hay estación de rechazo después de {1}: un estuche malo podría llegar a la caja (GMP).
+
+#4359
+Étui coincé dans {1} : guides {2} mm, étui de {3} mm de large.
+Cartucho enroscado em {1}: guias {2} mm, cartucho com {3} mm de largura.
+纸盒卡在 {1}：导轨 {2} mm，纸盒宽 {3} mm。
+Коробка застряла в {1}: направляющие {2} mm, ширина коробки {3} mm.
+Kartonik zablokowany w {1}: prowadnice {2} mm, kartonik o szerokości {3} mm.
+Doboz elakadt itt: {1}: vezetők {2} mm, doboz szélessége {3} mm.
+Estuche atascado en {1}: guías {2} mm, estuche de {3} mm de ancho.
+
+#4360
+Étui bloqué dans la courbe {1} : rayon trop serré pour sa longueur dans le sens du flux.
+Cartucho preso na curva {1}: raio fechado demais para o comprimento dele no sentido do fluxo.
+纸盒卡在弯道 {1}：半径相对其沿流向长度太小。
+Коробка застряла в повороте {1}: радиус слишком мал для её длины вдоль потока.
+Kartonik utknął na łuku {1}: promień za ciasny dla jego długości wzdłuż przepływu.
+Doboz beragadt a(z) {1} ívben: a sugár túl szűk a folyásirányú hosszához.
+Estuche atascado en la curva {1}: radio demasiado cerrado para su longitud en el sentido del flujo.
+
+#4361
+Étui renversé dans {1} (debout sur sa tranche).
+Cartucho tombou em {1} (estava em pé na ponta).
+纸盒在 {1} 中倾倒（立着放置）。
+Коробка опрокинулась в {1} (стояла на торце).
+Kartonik przewrócił się w {1} (stał na krótszym boku).
+Doboz felborult itt: {1} (a végén állt).
+Estuche volcado en {1} (estaba de pie sobre su extremo).
+
+#4362
+Étuis jointifs au retourneur {1} : ils se coincent. Ajoutez une bande d'espacement en amont.
+Cartuchos encostados no girador {1}: eles travam. Coloque uma esteira espaçadora antes dele.
+转向器 {1} 处纸盒相互接触：会卡住。在其前面加拉距皮带。
+Коробки соприкасаются у поворотного устройства {1}: они заклиниваются. Поставьте перед ним разделительную ленту.
+Kartoniki stykają się przy obracarce {1}: klinują się. Dodaj przed nią taśmę rozdzielającą.
+A dobozok összeérnek a(z) {1} forgatónál: beékelődnek. Tegyen elé távolságtartó szalagot.
+Estuches en contacto en el volteador {1}: se acuñan. Ponga una banda separadora antes.
+
+#4363
+Étui debout coincé dans le retourneur {1}.
+Cartucho em pé enroscado no girador {1}.
+直立纸盒卡在转向器 {1}。
+Стоящая коробка застряла в поворотном устройстве {1}.
+Stojący kartonik zablokowany w obracarce {1}.
+Álló doboz elakadt a(z) {1} forgatóban.
+Estuche de pie atascado en el volteador {1}.
+
+#4364
+Rejet non confirmé à {1} (pas d'air) : l'étui non conforme est resté sur la ligne. Ligne arrêtée : retirez-le à la main et réparez l'air.
+Rejeição não confirmada em {1} (sem ar): o cartucho ruim ficou na linha. Linha parada: retire-o à mão e conserte o ar.
+{1} 处剔除未确认（无气）：不合格纸盒留在线上。线路已停：手动取出并修复气源。
+Отбраковка не подтверждена на {1} (нет воздуха): брак остался на линии. Линия остановлена: уберите его вручную и устраните неисправность воздуха.
+Odrzut niepotwierdzony w {1} (brak powietrza): wadliwy kartonik został na linii. Linia zatrzymana: usuń go ręcznie i napraw powietrze.
+A kidobás nincs visszaigazolva itt: {1} (nincs levegő): a hibás doboz a soron maradt. A sor leállt: vegye ki kézzel és javítsa a levegőt.
+Rechazo no confirmado en {1} (sin aire): el estuche malo quedó en la línea. Línea parada: retírelo a mano y repare el aire.
+
+#4365
+{1} rejets consécutifs à {2} : ligne arrêtée. Trouvez la cause avant de redémarrer.
+{1} rejeições seguidas em {2}: linha parada. Encontre a causa antes de religar.
+{2} 处连续剔除 {1} 次：线路已停。重启前先找出原因。
+{1} отбраковок подряд на {2}: линия остановлена. Найдите причину перед перезапуском.
+{1} odrzutów z rzędu w {2}: linia zatrzymana. Znajdź przyczynę przed ponownym uruchomieniem.
+{1} egymást követő kidobás itt: {2}: a sor leállt. Keresse meg az okot újraindítás előtt.
+{1} rechazos seguidos en {2}: línea parada. Encuentre la causa antes de rearrancar.
+
+#4366
+Mauvaise orientation à l'encaisseuse {1} ({2}, attendu {3}).
+Orientação errada na encaixotadora {1} ({2}, precisa {3}).
+装箱机 {1} 处方向错误（{2}，需要 {3}）。
+Неверная ориентация на упаковщике в короба {1} ({2}, нужно {3}).
+Zła orientacja na pakowarce zbiorczej {1} ({2}, wymagane {3}).
+Rossz tájolás a(z) {1} gyűjtőcsomagolónál ({2}, {3} kell).
+Orientación incorrecta en la encajadora {1} ({2}, necesita {3}).
+
+#4367
+Un étui non conforme a atteint {1} ({2}) : écart GMP. Ligne arrêtée : mettez la caisse en quarantaine.
+Um cartucho ruim chegou a {1} ({2}): desvio de GMP. Linha parada: coloque a caixa em quarentena.
+不合格纸盒到达 {1}（{2}）：违反 GMP。线路已停：隔离该箱。
+Бракованная коробка дошла до {1} ({2}): нарушение GMP. Линия остановлена: поместите короб в карантин.
+Wadliwy kartonik dotarł do {1} ({2}): naruszenie GMP. Linia zatrzymana: poddaj karton zbiorczy kwarantannie.
+Hibás doboz jutott ide: {1} ({2}): GMP-sértés. A sor leállt: tegye karanténba a gyűjtődobozt.
+Un estuche malo llegó a {1} ({2}): incumplimiento GMP. Línea parada: ponga la caja en cuarentena.
+
+#4368
+Le chlore atteint la membrane ({1} mg/L). Les dégâts sont irréversibles. Contrôlez le filtre à charbon ou le dosage de SMBS.
+O cloro está chegando à membrana ({1} mg/L). O dano não tem volta. Verifique o filtro de carvão ou a dosagem de SMBS.
+氯到达膜（{1} mg/L）。损伤不可逆。检查活性炭过滤器或 SMBS 投加。
+Хлор доходит до мембраны ({1} mg/L). Повреждение необратимо. Проверьте угольный фильтр или дозирование SMBS.
+Chlor dociera do membrany ({1} mg/L). Uszkodzenie jest nieodwracalne. Sprawdź filtr węglowy lub dozowanie SMBS.
+A klór eléri a membránt ({1} mg/L). A károsodás visszafordíthatatlan. Ellenőrizze a szénszűrőt vagy az SMBS-adagolást.
+El cloro llega a la membrana ({1} mg/L). El daño no tiene vuelta atrás. Revise el filtro de carbón o la dosificación de SMBS.
+
+#4369
+Déclenché sur basse pression d'aspiration (sous {1} bar pendant 5 s). Contrôlez la pompe d'alimentation, les filtres et la bâche de rupture, puis appuyez sur « Réarmer ».
+Desarmou por baixa pressão de sucção (abaixo de {1} bar por 5 s). Verifique a bomba de alimentação, os filtros e o tanque de quebra, depois pressione "Resetar desarme".
+因吸入压力低跳闸（低于 {1} bar 持续 5 s）。检查供水泵、过滤器和缓冲罐，然后按“复位跳闸”。
+Отключение по низкому давлению всасывания (ниже {1} bar в течение 5 s). Проверьте насос подачи, фильтры и разрывной бак, затем нажмите «Сброс отключения».
+Wyłączenie przy niskim ciśnieniu ssania (poniżej {1} bar przez 5 s). Sprawdź pompę zasilającą, filtry i zbiornik przerywający, potem naciśnij „Kasuj wyłączenie”.
+Alacsony szívónyomás miatt leoldott ({1} bar alatt 5 s-ig). Ellenőrizze a tápszivattyút, a szűrőket és a puffertartályt, majd nyomja meg a „Leoldás nyugtázása” gombot.
+Disparo por baja presión de aspiración (por debajo de {1} bar durante 5 s). Revise la bomba de alimentación, los filtros y el tanque de rotura, luego pulse "Rearmar disparo".
+
+#4370
+Arrêtée : cuve d'aspiration {1} sous 10 % (protection marche à sec).
+Parada: tanque de sucção {1} abaixo de 10 % (proteção contra funcionamento a seco).
+已停止：吸水罐 {1} 低于 10 %（防干转保护）。
+Остановлен: бак всасывания {1} ниже 10 % (защита от сухого хода).
+Zatrzymana: zbiornik ssawny {1} poniżej 10 % (ochrona przed pracą na sucho).
+Leállt: a(z) {1} szívótartály 10 % alatt (szárazonfutás-védelem).
+Parada: tanque de aspiración {1} por debajo del 10 % (protección contra marcha en seco).
+
+#4371
+Résine presque épuisée ({1} % restant).
+Resina quase esgotada ({1} % restante).
+树脂即将耗尽（剩余 {1} %）。
+Смола почти истощена (осталось {1} %).
+Żywica prawie wyczerpana (pozostało {1} %).
+A gyanta majdnem kimerült ({1} % maradt).
+Resina casi agotada (queda {1} %).
+
+#4372
+Dérivation à l'égout : conductivité {1} µS/cm au-dessus de {2}.
+Desviando para o dreno: condutividade {1} µS/cm acima de {2}.
+正在排放：电导率 {1} µS/cm 高于 {2}。
+Сброс в дренаж: электропроводность {1} µS/cm выше {2}.
+Zrzut do odpływu: przewodność {1} µS/cm powyżej {2}.
+Lefolyóba terelés: a vezetőképesség {1} µS/cm, {2} felett.
+Desviando a drenaje: conductividad {1} µS/cm por encima de {2}.
+
+#4373
+L'eau est de nouveau conforme : retour vers la cuve après 2 minutes dans les spécifications ({1} s).
+A água está boa de novo: volta para o tanque após 2 minutos dentro da especificação ({1} s).
+水质已恢复合格：在规格内保持 2 分钟后切回储罐（{1} s）。
+Вода снова в норме: возврат в бак после 2 минут в пределах спецификации ({1} s).
+Woda znów jest dobra: powrót do zbiornika po 2 minutach w specyfikacji ({1} s).
+A víz újra megfelelő: 2 perc specifikáción belüli üzem után vissza a tartályba ({1} s).
+El agua vuelve a estar bien: regreso al tanque tras 2 minutos dentro de especificación ({1} s).
+
+#4374
+Hors spécification pour {1} : {2}
+Fora de especificação para {1}: {2}
+{1} 超出规格：{2}
+Вне спецификации для {1}: {2}
+Poza specyfikacją dla {1}: {2}
+Specifikáción kívül ({1}): {2}
+Fuera de especificación para {1}: {2}
+
+#4375
+Niveau d'action dépassé : {1}. Investiguez et désinfectez.
+Nível de ação excedido: {1}. Investigue e sanitize.
+超过纠偏限：{1}。调查并消毒。
+Превышен уровень действия: {1}. Проведите расследование и санитизацию.
+Przekroczony poziom działania: {1}. Zbadaj przyczynę i zdezynfekuj.
+Beavatkozási szint túllépve: {1}. Vizsgálja ki és fertőtlenítse.
+Nivel de acción superado: {1}. Investigue y sanitice.
+
+#4376
+Bactéries en croissance dans la cuve ({1} CFU/mL). Désinfectez à 80 °C ou maintenez-la chaude.
+Bactérias crescendo no tanque ({1} CFU/mL). Sanitize a 80 °C ou mantenha quente.
+储罐内细菌在增长（{1} CFU/mL）。在 80 °C 消毒或保持热态。
+В баке растут бактерии ({1} CFU/mL). Санитизируйте при 80 °C или держите его горячим.
+Bakterie rosną w zbiorniku ({1} CFU/mL). Zdezynfekuj w 80 °C lub utrzymuj go gorącym.
+Baktériumok szaporodnak a tartályban ({1} CFU/mL). Fertőtlenítsen 80 °C-on, vagy tartsa forrón.
+Bacterias creciendo en el tanque ({1} CFU/mL). Sanitice a 80 °C o manténgalo caliente.
+
+#4377
+Vitesse de boucle {1} m/s (sous 0.6) : le biofilm se développe. Prenez un tuyau plus petit ou plus de débit.
+Velocidade do loop {1} m/s (abaixo de 0.6): o biofilme cresce. Use um tubo menor ou mais vazão.
+循环流速 {1} m/s（低于 0.6）：生物膜会滋生。改用更小管径或加大流量。
+Скорость в контуре {1} m/s (ниже 0.6): растёт биоплёнка. Уменьшите диаметр трубы или увеличьте расход.
+Prędkość w pętli {1} m/s (poniżej 0.6): rośnie biofilm. Użyj mniejszej rury lub większego przepływu.
+Hurok-áramlási sebesség {1} m/s (0.6 alatt): nő a biofilm. Használjon kisebb csövet vagy nagyobb átfolyást.
+Velocidad del lazo {1} m/s (por debajo de 0.6): crece biofilm. Use una tubería más pequeña o más caudal.
+
+#4378
+Vitesse de boucle {1} m/s : gardez au moins 1 m/s au retour.
+Velocidade do loop {1} m/s: mantenha pelo menos 1 m/s no retorno.
+循环流速 {1} m/s：回水处至少保持 1 m/s。
+Скорость в контуре {1} m/s: держите не менее 1 m/s на возврате.
+Prędkość w pętli {1} m/s: utrzymuj co najmniej 1 m/s na powrocie.
+Hurok-áramlási sebesség {1} m/s: a visszatérőben legalább 1 m/s legyen.
+Velocidad del lazo {1} m/s: mantenga al menos 1 m/s en el retorno.
+
+#4379
+Écoulement laminaire (Re {1}) : pas de récurage de la paroi du tuyau.
+Escoamento laminar (Re {1}): sem arraste na parede do tubo.
+层流（Re {1}）：对管壁没有冲刷作用。
+Ламинарный поток (Re {1}): стенка трубы не очищается.
+Przepływ laminarny (Re {1}): brak oczyszczania ścianki rury.
+Lamináris áramlás (Re {1}): nincs csőfal-öblítő hatás.
+Flujo laminar (Re {1}): no hay arrastre en la pared de la tubería.
+
+#4380
+Vitesse {1} m/s élevée : bruit, érosion et forte perte de charge. Prenez un tuyau plus grand.
+Velocidade {1} m/s alta: ruído, erosão e grande perda de carga. Use um tubo maior.
+流速 {1} m/s 偏高：噪音、冲蚀和较大压降。改用更大管径。
+Скорость {1} m/s высокая: шум, эрозия и большой перепад давления. Увеличьте диаметр трубы.
+Prędkość {1} m/s jest wysoka: hałas, erozja i duży spadek ciśnienia. Użyj większej rury.
+A(z) {1} m/s sebesség magas: zaj, erózió és nagy nyomásesés. Használjon nagyobb csövet.
+Velocidad {1} m/s alta: ruido, erosión y gran pérdida de carga. Use una tubería mayor.
+
+#4381
+Bras mort : {1} m = {2} D sans débit (limite 2 D). Les bactéries s'y développent : raccourcissez-le ou utilisez une vanne sans bras mort.
+Ponto morto: {1} m = {2} D sem fluxo (limite 2 D). Bactérias crescem aqui: encurte ou use uma válvula zero dead leg.
+死角：{1} m = {2} D 无流动（限值 2 D）。细菌在此滋生：缩短它或使用零死角阀。
+Тупиковая зона: {1} m = {2} D без потока (предел 2 D). Здесь растут бактерии: укоротите её или поставьте клапан без тупиковой зоны.
+Martwa strefa: {1} m = {2} D bez przepływu (limit 2 D). Rosną tu bakterie: skróć ją lub użyj zaworu bez martwej strefy.
+Holtág: {1} m = {2} D átfolyás nélkül (határ 2 D). Itt baktériumok szaporodnak: rövidítse le, vagy használjon holtág nélküli szelepet.
+Pierna muerta: {1} m = {2} D sin flujo (límite 2 D). Aquí crecen bacterias: acórtela o use una válvula sin pierna muerta.
+
+#4382
+Bras mort {1} D (limite 2 D).
+Ponto morto {1} D (limite 2 D).
+死角 {1} D（限值 2 D）。
+Тупиковая зона {1} D (предел 2 D).
+Martwa strefa {1} D (limit 2 D).
+Holtág {1} D (határ 2 D).
+Pierna muerta {1} D (límite 2 D).

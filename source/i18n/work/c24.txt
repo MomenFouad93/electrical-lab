@@ -1,0 +1,989 @@
+#4055
+Programmation
+Programação
+编程
+Программирование
+Programowanie
+Programozás
+Programación
+
+#4056
+Rechercher des instructions
+Buscar instruções
+搜索指令
+Поиск инструкций
+Szukaj instrukcji
+Utasítások keresése
+Buscar instrucciones
+
+#4057
+à plat, grand côté en travers
+deitada, lado longo transversal
+平放，长边横向
+плашмя, длинной стороной поперёк
+na płasko, dłuższy bok w poprzek
+fektetve, hosszú oldal keresztben
+plano, lado largo transversal
+
+#4058
+à plat, grand côté dans le sens du flux
+deitada, lado longo no sentido do fluxo
+平放，长边纵向
+плашмя, длинной стороной вдоль
+na płasko, dłuższy bok wzdłuż
+fektetve, hosszú oldal hosszában
+plano, lado largo longitudinal
+
+#4059
+debout sur son grand côté
+em pé sobre o lado longo
+长边着地竖立
+стоя на длинном ребре
+stojący na dłuższej krawędzi
+hosszú élén állva
+de pie sobre su lado largo
+
+#4060
+debout sur son rabat d'extrémité
+em pé sobre a aba lateral
+端盖着地竖立
+стоя на торцевом клапане
+stojący na klapie czołowej
+végfülén állva
+de pie sobre su solapa lateral
+
+#4061
+Sortie étuyeuse (début)
+Saída da encartuchadeira (início)
+装盒机出口（起点）
+Выход картонажной машины (начало)
+Wyjście kartoniarki (początek)
+Dobozológép kimenet (kezdet)
+Salida de la estuchadora (inicio)
+
+#4062
+Les étuis sortent ici à la cadence de l'étuyeuse. Les étuyeuses horizontales ferment les rabats d'extrémité par les côtés, donc les étuis sortent à plat, grand côté en travers du flux.
+As caixas saem aqui na cadência da encartuchadeira. Encartuchadeiras horizontais fecham as abas pelas laterais, então as caixas saem deitadas com o lado longo transversal ao fluxo.
+纸盒按装盒机速率从这里出来。卧式装盒机从两侧合上端盖，所以纸盒平放离开，长边横向于流向。
+Здесь пачки выходят с производительностью картонажной машины. Горизонтальные машины закрывают торцевые клапаны сбоку, поэтому пачки выходят плашмя, длинной стороной поперёк потока.
+Kartoniki wychodzą tu z wydajnością kartoniarki. Kartoniarki poziome zamykają klapy czołowe z boków, więc kartoniki wychodzą na płasko, dłuższym bokiem w poprzek przepływu.
+A dobozok itt a dobozológép ütemében jönnek ki. A vízszintes dobozológépek oldalról zárják a végfüleket, ezért a dobozok fektetve, hosszú oldalukkal az áramlásra keresztben távoznak.
+Los estuches salen aquí al ritmo de la estuchadora. Las estuchadoras horizontales cierran las solapas por los lados, así que los estuches salen planos con el lado largo transversal al flujo.
+
+#4063
+Convoyeur à chaîne à palettes plates
+Transportador de corrente de topo plano
+平顶链输送机
+Пластинчатый цепной конвейер
+Przenośnik łańcuchowy płytkowy
+Lapos felületű láncos szállítószalag
+Transportador de cadena de tablillas planas
+
+#4064
+Convoyeur à une voie. Largeur des guides = largeur de l'étui en travers du flux + 3 à 5 mm. Largeurs de chaîne 82.5, 114.3, 152.4, 190.5 mm.
+Transportador de uma pista. Largura das guias = largura da caixa transversal ao fluxo + 3 a 5 mm. Larguras de corrente 82.5, 114.3, 152.4, 190.5 mm.
+单通道输送机。导轨宽度 = 横向于流向的纸盒宽度 + 3 至 5 mm。链宽 82.5、114.3、152.4、190.5 mm。
+Однорядный конвейер. Ширина направляющих = ширина пачки поперёк потока + 3–5 мм. Ширина цепи 82.5, 114.3, 152.4, 190.5 мм.
+Przenośnik jednotorowy. Szerokość prowadnic = szerokość kartonika w poprzek przepływu + 3 do 5 mm. Szerokości łańcucha 82.5, 114.3, 152.4, 190.5 mm.
+Egysávos szállítószalag. Vezetőszélesség = a doboz áramlásra merőleges szélessége + 3–5 mm. Láncszélességek: 82.5, 114.3, 152.4, 190.5 mm.
+Transportador de un carril. Ancho de guías = ancho del estuche transversal al flujo + 3 a 5 mm. Anchos de cadena 82.5, 114.3, 152.4, 190.5 mm.
+
+#4065
+Courbe à 90°
+Curva de 90°
+90° 弯道
+Поворот 90°
+Łuk 90°
+90°-os ív
+Curva de 90°
+
+#4066
+Change la direction, pas l'orientation de l'étui. Les étuis longs dans le sens du flux peuvent ne pas passer une courbe serrée.
+Muda a direção, não a orientação da caixa. Caixas longas no sentido do fluxo podem não passar numa curva fechada.
+只改变方向，不改变纸盒朝向。长边纵向的长纸盒可能过不了小半径弯道。
+Меняет направление, а не ориентацию пачки. Длинные пачки вдоль потока могут не пройти крутой поворот.
+Zmienia kierunek, a nie orientację kartonika. Długie kartoniki ułożone wzdłuż mogą nie przejść ciasnego łuku.
+Az irányt változtatja, nem a doboz helyzetét. Az áramlás irányában hosszú dobozok nem biztos, hogy átférnek egy szűk íven.
+Cambia la dirección, no la orientación del estuche. Los estuches largos en el sentido del flujo pueden no pasar una curva cerrada.
+
+#4067
+Convoyeur d'accumulation (tampon)
+Transportador de acumulação (buffer)
+积放输送机（缓冲）
+Накопительный конвейер (буфер)
+Przenośnik akumulacyjny (bufor)
+Gyűjtőszalag (puffer)
+Transportador de acumulación (buffer)
+
+#4068
+Retient les étuis quand une machine en aval s'arrête. Quand il est plein jusqu'à la cellule de niveau haut, l'étuyeuse s'arrête ; elle redémarre sous la cellule de niveau bas.
+Segura as caixas quando uma máquina depois dele para. Quando enche até o sensor de nível alto, a encartuchadeira para; ela volta a partir abaixo do sensor de nível baixo.
+后续机器停机时暂存纸盒。积满到高位光电眼时装盒机停机；低于低位光电眼时重新启动。
+Накапливает пачки, когда следующая машина стоит. Когда он заполнен до датчика верхнего уровня, картонажная машина останавливается; она снова запускается ниже датчика нижнего уровня.
+Gromadzi kartoniki, gdy maszyna za nim stoi. Gdy zapełni się do czujnika wysokiego poziomu, kartoniarka staje; rusza ponownie poniżej czujnika niskiego poziomu.
+Megtartja a dobozokat, ha egy utána következő gép leáll. Ha a felső szintérzékelőig megtelik, a dobozológép leáll; az alsó szintérzékelő alatt újraindul.
+Retiene los estuches cuando se para una máquina posterior. Cuando se llena hasta la fotocélula de nivel alto, la estuchadora se para; vuelve a arrancar por debajo de la fotocélula de nivel bajo.
+
+#4069
+Bande d'espacement
+Esteira espaçadora
+拉距皮带
+Разделительная лента
+Taśma rozsuwająca
+Távolságnövelő szalag
+Banda espaciadora
+
+#4070
+Tourne plus vite que le convoyeur précédent, donc l'écart entre les étuis s'ouvre.
+Roda mais rápido que o transportador anterior, então o espaço entre as caixas aumenta.
+比前一段输送机运行更快，从而拉开纸盒间距。
+Работает быстрее предыдущего конвейера, поэтому зазор между пачками увеличивается.
+Pracuje szybciej niż przenośnik przed nią, więc odstęp między kartonikami rośnie.
+Gyorsabban fut az előtte lévő szalagnál, így nő a dobozok közti rés.
+Va más rápido que el transportador anterior, así que el hueco entre estuches se abre.
+
+#4071
+Trieuse pondérale
+Balança de checagem
+检重秤
+Контрольные весы
+Waga kontrolna
+Ellenőrző mérleg
+Controladora de peso
+
+#4072
+Pèse chaque étui et rejette les sous-poids ou sur-poids. Un seul étui doit être sur le plateau de pesée : le pas doit être au moins égal à la longueur du plateau + la longueur de l'étui.
+Pesa cada caixa e rejeita abaixo ou acima do peso. Só uma caixa pode estar no prato de pesagem: o passo deve ser pelo menos o comprimento do prato + o comprimento da caixa.
+称量每个纸盒，剔除欠重或超重。称台上只能有一个纸盒：间距至少为称台长度 + 纸盒长度。
+Взвешивает каждую пачку и отбраковывает недовес и перевес. На весовой платформе может быть только одна пачка: шаг должен быть не меньше длины платформы + длины пачки.
+Waży każdy kartonik i odrzuca niedowagę lub nadwagę. Na szalce może być tylko jeden kartonik: podziałka musi wynosić co najmniej długość szalki + długość kartonika.
+Minden dobozt megmér, és kidobja a súlyhiányosat vagy túlsúlyosat. A mérőlapon csak egy doboz lehet: az osztásnak legalább a mérőlap hossza + a doboz hossza kell legyen.
+Pesa cada estuche y rechaza los de peso bajo o alto. Solo puede haber un estuche en el plato de pesaje: el paso debe ser al menos la longitud del plato + la longitud del estuche.
+
+#4073
+Sérialisation : impression + caméra
+Serialização: impressão + câmera
+序列化：打印 + 相机
+Сериализация: печать + камера
+Serializacja: druk + kamera
+Szerializáció: nyomtatás + kamera
+Serialización: impresión + cámara
+
+#4074
+Imprime le GS1 DataMatrix (GTIN, numéro de série, lot, péremption) et le relit. Les étuis doivent être à plat, stables et espacés pour que le capteur voie chacun.
+Imprime o GS1 DataMatrix (GTIN, número de série, lote, validade) e faz a leitura. As caixas devem estar deitadas, estáveis e com espaço para o sensor ver cada uma.
+打印 GS1 DataMatrix（GTIN、序列号、批号、有效期）并回读。纸盒必须平放、稳定并留有间距，以便传感器识别每一个。
+Печатает GS1 DataMatrix (GTIN, серийный номер, серия, срок годности) и считывает его. Пачки должны лежать плашмя, устойчиво и с зазором, чтобы датчик видел каждую.
+Drukuje kod GS1 DataMatrix (GTIN, numer seryjny, partia, data ważności) i odczytuje go. Kartoniki muszą leżeć płasko, stabilnie i z odstępem, aby czujnik widział każdy.
+Kinyomtatja a GS1 DataMatrix kódot (GTIN, sorozatszám, gyártási tétel, lejárat) és visszaolvassa. A dobozoknak fektetve, stabilan és réssel kell haladniuk, hogy az érzékelő mindegyiket lássa.
+Imprime el GS1 DataMatrix (GTIN, número de serie, lote, caducidad) y lo vuelve a leer. Los estuches deben ir planos, estables y con hueco para que el sensor vea cada uno.
+
+#4075
+Étiqueteuse d'inviolabilité
+Rotuladora de lacre de inviolabilidade
+防拆封贴标机
+Этикетировщик контроля вскрытия
+Etykieciarka plomb gwarancyjnych
+Garanciazár-címkéző
+Etiquetadora de precinto de garantía
+
+#4076
+Pose des scellés sur les deux rabats d'extrémité par les côtés. L'étui doit être à plat, grand côté en travers, pour que les rabats soient face aux applicateurs.
+Aplica lacres nas duas abas pelas laterais. A caixa deve estar deitada com o lado longo transversal, para as abas ficarem de frente para os aplicadores.
+从两侧在两个端盖上贴封签。纸盒必须平放、长边横向，使端盖正对贴标头。
+Наклеивает пломбы на оба торцевых клапана сбоку. Пачка должна лежать плашмя, длинной стороной поперёк, чтобы клапаны были обращены к аппликаторам.
+Nakleja plomby na obie klapy czołowe z boków. Kartonik musi leżeć płasko, dłuższym bokiem w poprzek, aby klapy były zwrócone do aplikatorów.
+Oldalról zárócímkét ragaszt mindkét végfülre. A doboznak fektetve, hosszú oldalával keresztben kell lennie, hogy a fülek a felhordók felé nézzenek.
+Coloca precintos sobre las dos solapas por los lados. El estuche debe ir plano con el lado largo transversal, para que las solapas queden frente a los aplicadores.
+
+#4077
+Poste d'éjection + bac verrouillé
+Estação de rejeito + caixa trancada
+剔除站 + 上锁剔除箱
+Станция отбраковки + запертый бункер
+Stacja odrzutu + zamykany pojemnik
+Kidobóállomás + zárt gyűjtőláda
+Estación de rechazo + contenedor con llave
+
+#4078
+Éjecte par soufflage chaque étui signalé dans un bac verrouillé. Un capteur confirme chaque éjection ; si le bac est plein, la ligne s'arrête.
+Sopra cada caixa sinalizada para uma caixa trancada. Um sensor confirma cada rejeito; se a caixa estiver cheia, a linha para.
+用气吹将每个被标记的纸盒吹入上锁剔除箱。传感器确认每次剔除；剔除箱满时产线停机。
+Сдувает каждую помеченную пачку в запертый бункер. Датчик подтверждает каждую отбраковку; если бункер полон, линия останавливается.
+Wydmuchuje każdy oznaczony kartonik do zamykanego pojemnika. Czujnik potwierdza każdy odrzut; gdy pojemnik jest pełny, linia staje.
+Minden megjelölt dobozt lefúj egy zárt gyűjtőládába. Érzékelő igazol minden kidobást; ha a láda megtelt, a sor leáll.
+Expulsa por soplado cada estuche marcado a un contenedor con llave. Un sensor confirma cada rechazo; si el contenedor está lleno, la línea se para.
+
+#4079
+Tourneur à butée (90° dans le plan)
+Girador por batente (90° no plano)
+挡销转向器（平面内 90°）
+Поворотный упор (90° в плоскости)
+Obracacz zderzakowy (90° w płaszczyźnie)
+Ütközős forgató (90° síkban)
+Girador por tope (90° en el plano)
+
+#4080
+Un doigt accroche un coin et l'étui pivote : à plat en travers devient à plat dans le sens du flux, et inversement. Exige un étui à plat avec longueur/largeur ≥ 1.3.
+Um pino prende um canto e a caixa gira: deitada transversal vira deitada longitudinal e vice-versa. Precisa de caixa deitada com comprimento/largura ≥ 1.3.
+挡销卡住一角，纸盒绕其转动：平放横向变为平放纵向，反之亦然。需要平放纸盒，且长/宽 ≥ 1.3。
+Штифт цепляет один угол, и пачка поворачивается: плашмя поперёк становится плашмя вдоль и обратно. Нужна пачка плашмя с длиной/шириной ≥ 1.3.
+Kołek zaczepia jeden róg i kartonik obraca się: płasko w poprzek staje się płasko wzdłuż i odwrotnie. Wymaga płaskiego kartonika o długości/szerokości ≥ 1.3.
+Egy csap megfog egy sarkot, és a doboz elfordul: a keresztben fekvőből hosszában fekvő lesz, és fordítva. Fektetett doboz kell, hossz/szélesség ≥ 1.3.
+Un pin engancha una esquina y el estuche pivota: plano transversal pasa a plano longitudinal y al revés. Necesita un estuche plano con largo/ancho ≥ 1.3.
+
+#4081
+Bande vrillée (redresser / coucher)
+Esteira torcida (levantar / deitar)
+扭转皮带（立起 / 放倒）
+Скручивающая лента (поставить / положить)
+Taśma skrętna (stawianie / kładzenie)
+Csavart szalag (felállítás / lefektetés)
+Banda de giro (levantar / acostar)
+
+#4082
+Tourne l'étui de 90° autour de l'axe du flux : à plat dans le sens du flux, il se dresse sur son grand côté ; à plat en travers, il se dresse sur son extrémité (instable). Gardez une vitesse faible.
+Gira a caixa 90° em torno do eixo do fluxo: deitada longitudinal fica em pé sobre o lado longo; deitada transversal fica em pé sobre a extremidade (instável). Mantenha devagar.
+绕流向轴将纸盒旋转 90°：平放纵向的会长边着地立起，平放横向的会端面着地立起（不稳定）。保持低速。
+Поворачивает пачку на 90° вокруг оси потока: плашмя вдоль — встаёт на длинное ребро, плашмя поперёк — встаёт на торец (неустойчиво). Держите малую скорость.
+Obraca kartonik o 90° wokół osi przepływu: płasko wzdłuż staje na dłuższej krawędzi, płasko w poprzek staje na końcu (niestabilnie). Utrzymuj małą prędkość.
+90°-kal elforgatja a dobozt az áramlás tengelye körül: a hosszában fekvő a hosszú élére áll, a keresztben fekvő a végére áll (instabil). Tartsa lassan.
+Gira el estuche 90° sobre el eje del flujo: plano longitudinal queda de pie sobre su lado largo; plano transversal queda de pie sobre su extremo (inestable). Manténgala lenta.
+
+#4083
+Encaisseuse (fin)
+Encaixotadora (fim)
+装箱机（终点）
+Укладчик в короба (конец)
+Pakowarka zbiorcza (koniec)
+Gyűjtődobozoló (vég)
+Encajonadora (final)
+
+#4084
+Regroupe les étuis dans une caisse d'expédition et compte les caisses. Les étuis doivent arriver dans l'orientation pour laquelle elle est réglée.
+Agrupa as caixas numa caixa de embarque e conta as caixas de embarque. Precisa das caixas na orientação para a qual está ajustada.
+将纸盒集合装入运输箱并计数箱数。纸盒必须以其设定的朝向进入。
+Собирает пачки в транспортный короб и считает короба. Пачки должны приходить в той ориентации, на которую он настроен.
+Zbiera kartoniki w karton zbiorczy i liczy kartony. Kartoniki muszą przychodzić w orientacji, na którą jest ustawiona.
+A dobozokat gyűjtőkartonba rendezi és számolja a kartonokat. A dobozoknak abban a helyzetben kell érkezniük, amelyre be van állítva.
+Agrupa los estuches en una caja de embarque y cuenta las cajas. Necesita los estuches en la orientación para la que está ajustada.
+
+#4085
+Sortie de ligne
+Saída da linha
+产线出口
+Выход линии
+Wyjście linii
+Sor kimenete
+Salida de línea
+
+#4086
+Compte les étuis conformes qui sortent de la ligne.
+Conta as caixas boas que saem da linha.
+统计离开产线的合格纸盒。
+Считает годные пачки на выходе линии.
+Liczy dobre kartoniki opuszczające linię.
+Megszámolja a sorról távozó jó dobozokat.
+Cuenta los estuches buenos que salen de la línea.
+
+#4087
+Ajoutez une sortie étuyeuse pour commencer la ligne.
+Adicione uma saída da encartuchadeira para iniciar a linha.
+添加装盒机出口作为产线起点。
+Добавьте выход картонажной машины, чтобы начать линию.
+Dodaj wyjście kartoniarki, aby rozpocząć linię.
+Adjon hozzá dobozológép-kimenetet a sor kezdéséhez.
+Añada una salida de estuchadora para empezar la línea.
+
+#4088
+La ligne n'a pas de fin : terminez-la par une encaisseuse ou une sortie.
+A linha não tem fim: termine com uma encaixotadora ou uma saída.
+产线没有终点：请以装箱机或出口结束。
+У линии нет конца: завершите её укладчиком в короба или выходом.
+Linia nie ma końca: zakończ ją pakowarką zbiorczą lub wyjściem.
+A sornak nincs vége: zárja le gyűjtődobozolóval vagy kimenettel.
+La línea no tiene final: termínela con una encajonadora o una salida.
+
+#4089
+Le tourneur à butée exige longueur/largeur ≥ 1.3 ; cet étui est trop carré.
+O girador por batente precisa de comprimento/largura ≥ 1.3; esta caixa é quadrada demais.
+挡销转向器需要长/宽 ≥ 1.3；这个纸盒太接近正方形。
+Поворотному упору нужна длина/ширина ≥ 1.3; эта пачка слишком квадратная.
+Obracacz zderzakowy wymaga długości/szerokości ≥ 1.3; ten kartonik jest zbyt kwadratowy.
+Az ütközős forgatóhoz hossz/szélesség ≥ 1.3 kell; ez a doboz túl négyzetes.
+El girador por tope necesita largo/ancho ≥ 1.3; este estuche es demasiado cuadrado.
+
+#4090
+Un tourneur à butée ne peut tourner que des étuis à plat.
+Um girador por batente só gira caixas deitadas.
+挡销转向器只能转动平放的纸盒。
+Поворотный упор поворачивает только пачки, лежащие плашмя.
+Obracacz zderzakowy obraca tylko płasko leżące kartoniki.
+Az ütközős forgató csak fektetett dobozt tud forgatni.
+Un girador por tope solo puede girar estuches planos.
+
+#4091
+Une trieuse pondérale exige un étui à plat.
+A balança de checagem precisa de caixa deitada.
+检重秤需要平放的纸盒。
+Контрольным весам нужна пачка, лежащая плашмя.
+Waga kontrolna wymaga płasko leżącego kartonika.
+Az ellenőrző mérleghez fektetett doboz kell.
+La controladora de peso necesita un estuche plano.
+
+#4092
+La sérialisation imprime sur la face supérieure : l'étui doit être à plat.
+A serialização imprime no painel superior: a caixa deve estar deitada.
+序列化打印在顶面：纸盒必须平放。
+Сериализация печатает на верхней панели: пачка должна лежать плашмя.
+Serializacja drukuje na górnej ściance: kartonik musi leżeć płasko.
+A szerializáció a felső lapra nyomtat: a doboznak fektetve kell lennie.
+La serialización imprime en el panel superior: el estuche debe ir plano.
+
+#4093
+L'étiqueteuse exige les rabats d'extrémité sur les côtés (à plat, grand côté en travers).
+A rotuladora precisa das abas nas laterais (deitada, lado longo transversal).
+贴标机需要端盖朝向两侧（平放，长边横向）。
+Этикетировщику нужны торцевые клапаны по бокам (плашмя, длинной стороной поперёк).
+Etykieciarka wymaga klap czołowych po bokach (płasko, dłuższy bok w poprzek).
+A címkézőhöz a végfüleknek oldalt kell lenniük (fektetve, hosszú oldal keresztben).
+La etiquetadora necesita las solapas a los lados (plano, lado largo transversal).
+
+#4094
+Bac d'éjection plein : ligne arrêtée. Videz le bac.
+Caixa de rejeito cheia: linha parada. Esvazie a caixa.
+剔除箱已满：产线停机。请清空剔除箱。
+Бункер отбраковки полон: линия остановлена. Опорожните бункер.
+Pojemnik odrzutów pełny: linia zatrzymana. Opróżnij pojemnik.
+Kidobóláda tele: a sor leállt. Ürítse ki a ládát.
+Contenedor de rechazo lleno: línea parada. Vacíe el contenedor.
+
+#4095
+deux sur le plateau de pesée
+duas no prato de pesagem
+称台上有两个
+две на весовой платформе
+dwa na szalce
+kettő a mérőlapon
+dos en el plato de pesaje
+
+#4096
+poids incorrect
+peso incorreto
+重量不符
+неверный вес
+zła waga
+hibás tömeg
+peso incorrecto
+
+#4097
+code non imprimé / non lu
+código não impresso / não lido
+码未打印 / 未读取
+код не напечатан / не прочитан
+kod niewydrukowany / nieodczytany
+kód nincs nyomtatva / nem olvasható
+código no impreso / no leído
+
+#4098
+mauvaise note de code (étui de travers)
+grau de código ruim (caixa torta)
+码等级差（纸盒歪斜）
+плохой класс кода (пачка перекошена)
+zła klasa kodu (krzywy kartonik)
+rossz kódminőség (ferde doboz)
+mala calificación del código (estuche torcido)
+
+#4099
+étiquette sur la mauvaise face
+rótulo na face errada
+标签贴错面
+этикетка не на той стороне
+etykieta na złej ściance
+címke a rossz oldalon
+etiqueta en la cara equivocada
+
+#4100
+étuis non conformes arrivés en fin de ligne
+caixas ruins que chegaram ao fim
+到达终点的不合格纸盒
+бракованные пачки, дошедшие до конца
+złe kartoniki, które dotarły do końca
+a végére jutott hibás dobozok
+estuches malos que llegaron al final
+
+#4101
+Taux de conversion trop élevé : les sels entartrent la membrane. Ouvrez la vanne de concentrat.
+Recuperação alta demais: os sais incrustam a membrana. Abra a válvula de rejeito.
+回收率过高：盐类在膜上结垢。打开浓水阀。
+Слишком высокий выход пермеата: соли образуют отложения на мембране. Откройте клапан концентрата.
+Za wysoki odzysk: sole tworzą osad na membranie. Otwórz zawór koncentratu.
+Túl magas kihozatal: a sók vízkövesítik a membránt. Nyissa ki a koncentrátum szelepet.
+Recuperación demasiado alta: las sales incrustan la membrana. Abra la válvula de rechazo.
+
+#4102
+Ligne de conditionnement : de l'étuyeuse à l'encaisseuse
+Linha de embalagem: da encartuchadeira à encaixotadora
+包装线：从装盒机到装箱机
+Линия упаковки: от картонажной машины до укладчика в короба
+Linia pakująca: od kartoniarki do pakowarki zbiorczej
+Csomagolósor: dobozolótól a gyűjtődobozolóig
+Línea de envasado: de la estuchadora a la encajonadora
+
+#4103
+Les étuis sortent de l'étuyeuse à 120 par minute, passent la trieuse pondérale, la sérialisation, l'étiquetage d'inviolabilité et le poste d'éjection, tournent dans une courbe, attendent dans un tampon, sont tournés et mis en caisse par 96.
+As caixas saem da encartuchadeira a 120 por minuto, passam pela balança de checagem, serialização, rotulagem de inviolabilidade e estação de rejeito, viram numa curva, esperam num buffer, são giradas e embaladas 96 por caixa de embarque.
+纸盒以每分钟 120 个离开装盒机，经过检重秤、序列化、防拆封贴标和剔除站，在弯道转向，在缓冲段等待，然后转向并按每箱 96 个装箱。
+Пачки выходят из картонажной машины со скоростью 120 в минуту, проходят контрольные весы, сериализацию, наклейку контроля вскрытия и станцию отбраковки, поворачивают на повороте, ждут в буфере, разворачиваются и укладываются по 96 в короб.
+Kartoniki wychodzą z kartoniarki z prędkością 120 na minutę, przechodzą przez wagę kontrolną, serializację, etykietowanie plombami i stację odrzutu, skręcają na łuku, czekają w buforze, są obracane i pakowane po 96 do kartonu.
+A dobozok percenként 120 darabbal hagyják el a dobozológépet, áthaladnak az ellenőrző mérlegen, a szerializáción, a garanciazár-címkézésen és a kidobóállomáson, egy íven fordulnak, pufferben várnak, majd elforgatva 96-osával kartonba kerülnek.
+Los estuches salen de la estuchadora a 120 por minuto, pasan la controladora de peso, la serialización, el precintado de garantía y la estación de rechazo, giran en una curva, esperan en un buffer, se giran y se encajonan 96 por caja.
+
+#4104
+Démarrez la ligne et suivez un étui de l'étuyeuse à l'encaisseuse. Lisez le temps de transit.
+Inicie a linha e acompanhe uma caixa da encartuchadeira à encaixotadora. Leia o tempo de trânsito.
+启动产线，观察一个纸盒从装盒机到装箱机。读取传送时间。
+Запустите линию и проследите одну пачку от картонажной машины до укладчика. Посмотрите время прохождения.
+Uruchom linię i obserwuj jeden kartonik od kartoniarki do pakowarki zbiorczej. Odczytaj czas przejścia.
+Indítsa el a sort, és kövessen egy dobozt a dobozolótól a gyűjtődobozolóig. Olvassa le az átfutási időt.
+Arranque la línea y siga un estuche de la estuchadora a la encajonadora. Lea el tiempo de tránsito.
+
+#4105
+Ralentissez C1 et CW1 à 15 m/min : deux étuis se trouvent sur le plateau de pesée et des étuis conformes sont rejetés.
+Reduza C1 e CW1 para 15 m/min: duas caixas ficam no prato de pesagem e caixas boas são rejeitadas.
+将 C1 和 CW1 降到 15 m/min：称台上同时有两个纸盒，合格纸盒被剔除。
+Снизьте скорость C1 и CW1 до 15 м/мин: на платформе оказываются две пачки, и годные пачки отбраковываются.
+Zwolnij C1 i CW1 do 15 m/min: na szalce leżą dwa kartoniki i dobre kartoniki są odrzucane.
+Lassítsa C1-et és CW1-et 15 m/min-re: két doboz kerül a mérőlapra, és jó dobozok esnek ki.
+Reduzca C1 y CW1 a 15 m/min: quedan dos estuches en el plato de pesaje y se rechazan estuches buenos.
+
+#4106
+En mode Test, touchez l'encaisseuse pour l'arrêter : le tampon se remplit et l'étuyeuse s'arrête au niveau haut.
+No modo Teste, toque na encaixotadora para pará-la: o buffer enche e a encartuchadeira para no nível alto.
+在测试模式下点击装箱机使其停机：缓冲段积满，装盒机在高位停机。
+В режиме «Тест» нажмите на укладчик, чтобы остановить его: буфер заполняется, и картонажная машина останавливается на верхнем уровне.
+W trybie Test dotknij pakowarki, aby ją zatrzymać: bufor się zapełnia, a kartoniarka staje na wysokim poziomie.
+Teszt módban koppintson a gyűjtődobozolóra a leállításhoz: a puffer megtelik, és a dobozológép a felső szintnél leáll.
+En modo Prueba, toque la encajonadora para pararla: el buffer se llena y la estuchadora se para en el nivel alto.
+
+#4107
+Réglez le guide de C1 à 121 mm : l'étui se coince. Corrigez à largeur de l'étui + 3 à 5 mm.
+Ajuste a guia de C1 para 121 mm: a caixa encrava. Corrija para largura da caixa + 3 a 5 mm.
+将 C1 导轨设为 121 mm：纸盒卡住。改为纸盒宽度 + 3 至 5 mm。
+Установите направляющие C1 на 121 мм: пачка заклинивает. Исправьте на ширину пачки + 3–5 мм.
+Ustaw prowadnicę C1 na 121 mm: kartonik się zakleszcza. Popraw na szerokość kartonika + 3 do 5 mm.
+Állítsa a C1 vezetőt 121 mm-re: a doboz elakad. Javítsa doboz szélesség + 3–5 mm-re.
+Ponga la guía de C1 en 121 mm: el estuche se atasca. Corríjala a ancho del estuche + 3 a 5 mm.
+
+#4108
+Passez l'étui à un format 6x10 et lisez la vérification de ligne.
+Mude a caixa para um pack 6x10 e leia a verificação da linha.
+将纸盒改为 6x10 包装，查看产线检查结果。
+Смените пачку на формат 6x10 и посмотрите проверку линии.
+Zmień kartonik na opakowanie 6x10 i odczytaj sprawdzenie linii.
+Változtassa a dobozt 6x10-es kiszerelésre, és olvassa le a sorellenőrzést.
+Cambie el estuche a un formato 6x10 y lea la verificación de línea.
+
+#4109
+Eau pharmaceutique : de l'eau de ville à la PW et à la WFI
+Água farmacêutica: da água da rede a PW e WFI
+制药用水：从市政水到 PW 和 WFI
+Фармацевтическая вода: от городской воды до PW и WFI
+Woda farmaceutyczna: od wody miejskiej do PW i WFI
+Gyógyszeripari víz: városi vízből PW és WFI
+Agua farmacéutica: de agua de red a PW y WFI
+
+#4110
+Bac de rupture, filtres multimédia et à charbon, adoucisseur, antitartre, cartouches 5 et 1 µm, deux passes RO avec NaOH, EDI, UV et une vanne de dérivation remplissent une cuve PW de 2000 L. Une boucle DN40 alimente deux points d'utilisation et un distillateur qui remplit une cuve WFI chaude de 600 L avec sa propre boucle. Chaque analyseur contrôle l'eau selon USP / Ph. Eur.
+Tanque de quebra, filtros multimídia e de carvão, abrandador, antiincrustante, cartuchos de 5 e 1 µm, dois passos de RO com NaOH, EDI, UV e uma válvula de desvio enchem um tanque de PW de 2000 L. Um loop DN40 alimenta dois pontos de uso e um destilador que enche um tanque de WFI quente de 600 L com seu próprio loop. Cada analisador verifica a água conforme USP / Ph. Eur.
+断流水箱、多介质和活性炭过滤器、软化器、阻垢剂、5 和 1 µm 滤芯、带 NaOH 的两级 RO、EDI、UV 及分流阀为 2000 L PW 储罐供水。DN40 循环回路供应两个使用点和一台蒸馏机，蒸馏机为带独立回路的 600 L 热 WFI 储罐供水。每个分析仪按 USP / Ph. Eur. 检测水质。
+Разрывной бак, многослойный и угольный фильтры, умягчитель, антискалант, картриджи 5 и 1 µm, две ступени RO с NaOH, EDI, UV и клапан сброса заполняют бак PW на 2000 L. Контур DN40 питает две точки отбора и дистиллятор, который заполняет горячий бак WFI на 600 L со своим контуром. Каждый анализатор проверяет воду по USP / Ph. Eur.
+Zbiornik przerywający, filtry wielowarstwowe i węglowe, zmiękczacz, antyskalant, wkłady 5 i 1 µm, dwa stopnie RO z NaOH, EDI, UV i zawór zrzutowy napełniają zbiornik PW 2000 L. Pętla DN40 zasila dwa punkty poboru i destylator, który napełnia gorący zbiornik WFI 600 L z własną pętlą. Każdy analizator sprawdza wodę wg USP / Ph. Eur.
+Megszakító tartály, többrétegű és aktívszén szűrők, vízlágyító, vízkőgátló, 5 és 1 µm-es patronok, két RO fokozat NaOH-val, EDI, UV és egy elterelő szelep tölt fel egy 2000 L-es PW tartályt. Egy DN40 hurok két felhasználási pontot és egy desztillálót táplál, amely saját hurokkal rendelkező 600 L-es forró WFI tartályt tölt. Minden analizátor USP / Ph. Eur. szerint ellenőrzi a vizet.
+Tanque de rotura, filtros multimedia y de carbón, descalcificador, antiincrustante, cartuchos de 5 y 1 µm, dos pasos de RO con NaOH, EDI, UV y una válvula de desvío llenan un tanque de PW de 2000 L. Un lazo DN40 alimenta dos puntos de uso y un destilador que llena un tanque de WFI caliente de 600 L con su propio lazo. Cada analizador comprueba el agua según USP / Ph. Eur.
+
+#4111
+Lancez à 20x et regardez la conductivité passer de 450 µS/cm (eau de ville) à environ 0.1 après l'EDI. La cuve PW affiche plus car le CO2 de l'air se dissout par l'évent. Lisez les temps de remplissage des cuves PW et WFI.
+Rode a 20x e veja a condutividade cair de 450 µS/cm (rede) para cerca de 0.1 após o EDI. O tanque de PW mostra mais porque o CO2 do ar se dissolve pelo respiro. Leia os tempos de enchimento dos tanques de PW e WFI.
+以 20x 运行，观察电导率从 450 µS/cm（市政水）降到 EDI 后约 0.1。PW 储罐读数更高，因为空气中的 CO2 经呼吸口溶入。读取 PW 和 WFI 储罐的充满时间。
+Запустите на 20x и смотрите, как электропроводность падает с 450 µS/cm (городская вода) до примерно 0.1 после EDI. В баке PW показание выше, потому что CO2 из воздуха растворяется через воздушник. Посмотрите время заполнения баков PW и WFI.
+Uruchom na 20x i obserwuj, jak przewodność spada z 450 µS/cm (woda miejska) do około 0.1 za EDI. Zbiornik PW pokazuje więcej, bo CO2 z powietrza rozpuszcza się przez odpowietrznik. Odczytaj czasy napełniania zbiorników PW i WFI.
+Futtassa 20x sebességgel, és figyelje, ahogy a vezetőképesség 450 µS/cm-ről (városi víz) kb. 0.1-re esik az EDI után. A PW tartály többet mutat, mert a levegő CO2-ja a légzőn át beoldódik. Olvassa le a PW és WFI tartályok töltési idejét.
+Ejecute a 20x y vea cómo la conductividad baja de 450 µS/cm (red) a unos 0.1 tras el EDI. El tanque de PW marca más porque el CO2 del aire se disuelve por el venteo. Lea los tiempos de llenado de los tanques de PW y WFI.
+
+#4112
+Réglez le filtre à charbon F2 sur « Sable » : le chlore atteint RO1. Observez l'alarme et les dommages permanents.
+Ajuste o filtro de carvão F2 para "Areia": o cloro chega ao RO1. Veja o alarme e o dano permanente.
+将活性炭过滤器 F2 设为"砂"：氯到达 RO1。观察报警和永久损坏。
+Установите угольный фильтр F2 на «Песок»: хлор доходит до RO1. Наблюдайте тревогу и необратимое повреждение.
+Ustaw filtr węglowy F2 na „Piasek”: chlor dociera do RO1. Obserwuj alarm i trwałe uszkodzenie.
+Állítsa az F2 aktívszén szűrőt „Homok” típusra: a klór eléri az RO1-et. Figyelje a riasztást és a maradandó károsodást.
+Ponga el filtro de carbón F2 en "Arena": el cloro llega a RO1. Observe la alarma y el daño permanente.
+
+#4113
+Coupez le dosage NaOH DP2 : le CO2 traverse RO2 et le perméat de l'EDI se dégrade. Coupez l'EDI : la vanne de dérivation envoie l'eau à l'égout.
+Desligue a dosagem de NaOH DP2: o CO2 passa pelo RO2 e o produto do EDI piora. Desligue o EDI: a válvula de desvio manda a água para o dreno.
+关闭 NaOH 加药 DP2：CO2 穿过 RO2，EDI 产水变差。关闭 EDI：分流阀将水排往地漏。
+Отключите дозирование NaOH DP2: CO2 проходит через RO2, и продукт EDI ухудшается. Отключите EDI: клапан сброса направляет воду в дренаж.
+Wyłącz dozowanie NaOH DP2: CO2 przechodzi przez RO2 i produkt EDI się pogarsza. Wyłącz EDI: zawór zrzutowy kieruje wodę do kanalizacji.
+Kapcsolja ki a DP2 NaOH-adagolást: a CO2 átjut az RO2-n, és romlik az EDI termékvize. Kapcsolja ki az EDI-t: az elterelő szelep a lefolyóba küldi a vizet.
+Apague la dosificación de NaOH DP2: el CO2 atraviesa RO2 y el producto del EDI empeora. Apague el EDI: la válvula de desvío manda el agua a drenaje.
+
+#4114
+Passez les tuyaux de la boucle PW en DN65 : la vitesse descend sous 1 m/s. Mettez la branche POU2 à 0.5 m de long : alarme de bras mort.
+Mude os tubos do loop de PW para DN65: a velocidade cai abaixo de 1 m/s. Deixe o ramal POU2 com 0.5 m: alarme de perna morta.
+将 PW 回路管道改为 DN65：流速降到 1 m/s 以下。将 POU2 支管设为 0.5 m 长：死角报警。
+Замените трубы контура PW на DN65: скорость падает ниже 1 м/с. Сделайте отвод POU2 длиной 0.5 м: тревога «тупиковая зона».
+Zmień rury pętli PW na DN65: prędkość spada poniżej 1 m/s. Ustaw odgałęzienie POU2 na 0.5 m: alarm martwego odcinka.
+Cserélje a PW hurok csöveit DN65-re: a sebesség 1 m/s alá esik. Állítsa a POU2 leágazást 0.5 m hosszúra: holtág riasztás.
+Cambie las tuberías del lazo de PW a DN65: la velocidad baja de 1 m/s. Haga la derivación POU2 de 0.5 m: alarma de tramo muerto.
+
+#4115
+Ouvrez POU1 et POU2 ensemble et regardez le niveau de la cuve PW et son temps de vidange. Passez T2 à 600 L et comparez.
+Abra POU1 e POU2 juntos e veja o nível do tanque de PW e seu tempo para esvaziar. Mude T2 para 600 L e compare.
+同时打开 POU1 和 POU2，观察 PW 储罐液位及其排空时间。将 T2 改为 600 L 并比较。
+Откройте POU1 и POU2 одновременно и смотрите уровень бака PW и время его опорожнения. Измените T2 на 600 L и сравните.
+Otwórz razem POU1 i POU2 i obserwuj poziom zbiornika PW i czas jego opróżnienia. Zmień T2 na 600 L i porównaj.
+Nyissa meg együtt a POU1-et és a POU2-t, és figyelje a PW tartály szintjét és kiürülési idejét. Állítsa T2-t 600 L-re, és hasonlítsa össze.
+Abra POU1 y POU2 a la vez y observe el nivel del tanque de PW y su tiempo de vaciado. Cambie T2 a 600 L y compare.
+
+#4116
+Coupez la double enveloppe vapeur de T3 (0 °C) : la WFI refroidit sous 70 °C et devient non conforme.
+Desligue a camisa de vapor do T3 (0 °C): a WFI esfria abaixo de 70 °C e é reprovada.
+关闭 T3 的蒸汽夹套（0 °C）：WFI 冷却到 70 °C 以下，不合格。
+Отключите паровую рубашку T3 (0 °C): WFI остывает ниже 70 °C и не соответствует требованиям.
+Wyłącz płaszcz parowy T3 (0 °C): WFI stygnie poniżej 70 °C i nie spełnia wymagań.
+Kapcsolja ki a T3 gőzköpenyét (0 °C): a WFI 70 °C alá hűl, és nem felel meg.
+Apague la camisa de vapor de T3 (0 °C): el WFI se enfría por debajo de 70 °C y no cumple.
+
+#4117
+ avertissements. Voir le panneau latéral.
+ avisos. Veja o painel lateral.
+ 个警告。请查看侧面板。
+ предупреждений. См. боковую панель.
+ ostrzeżeń. Zobacz panel boczny.
+ figyelmeztetés. Lásd az oldalpanelt.
+ advertencias. Vea el panel lateral.
+
+#4118
+ constats dans le panneau latéral.
+ achados no painel lateral.
+ 项发现，见侧面板。
+ замечаний на боковой панели.
+ ustaleń w panelu bocznym.
+ megállapítás az oldalpanelen.
+ hallazgos en el panel lateral.
+
+#4119
+Ajouter une instruction
+Adicionar uma instrução
+添加指令
+Добавить инструкцию
+Dodaj instrukcję
+Utasítás hozzáadása
+Añadir una instrucción
+
+#4120
+Aller au tableau
+Ir para o painel
+转到配电柜
+Перейти к щиту
+Przejdź do szafy
+Ugrás a szekrényhez
+Ir al tablero
+
+#4121
+Surveiller
+Monitorar
+监视
+Наблюдение
+Obserwuj
+Figyelés
+Observar
+
+#4122
+Ajouter en fin de ligne
+Adicionar no fim da linha
+添加到产线末端
+Добавить в конец линии
+Dodaj na końcu linii
+Hozzáadás a sor végére
+Añadir al final de la línea
+
+#4123
+Bourrage éliminé, ligne en marche.
+Encravamento eliminado, linha rodando.
+卡料已清除，产线运行中。
+Затор устранён, линия работает.
+Zator usunięty, linia pracuje.
+Elakadás elhárítva, a sor fut.
+Atasco eliminado, línea en marcha.
+
+#4124
+Éliminer le bourrage
+Eliminar encravamento
+清除卡料
+Устранить затор
+Usuń zator
+Elakadás elhárítása
+Eliminar atasco
+
+#4125
+Vider la ligne
+Esvaziar a linha
+清空产线
+Освободить линию
+Opróżnij linię
+Sor ürítése
+Vaciar la línea
+
+#4126
+Pivoter
+Girar
+旋转
+Повернуть
+Obróć
+Forgatás
+Girar
+
+#4127
+Règles de conception
+Regras de projeto
+设计规则
+Правила проектирования
+Zasady projektowe
+Tervezési szabályok
+Reglas de diseño
+
+#4128
+Pas encore de ligne
+Nenhuma linha ainda
+尚无产线
+Линии пока нет
+Brak linii
+Még nincs sor
+Aún no hay línea
+
+#4129
+Commencez par la sortie étuyeuse, puis ajoutez des convoyeurs, la trieuse pondérale, la sérialisation, le poste d'éjection, les tourneurs et l'encaisseuse. Chaque nouvel élément est ajouté en fin de ligne, dans le même sens.
+Comece pela saída da encartuchadeira, depois adicione transportadores, a balança de checagem, a serialização, a estação de rejeito, os giradores e a encaixotadora. Cada novo elemento é adicionado no fim da linha, no mesmo sentido.
+先放装盒机出口，再添加输送机、检重秤、序列化、剔除站、转向器和装箱机。每个新元件都添加在产线末端，朝向相同。
+Начните с выхода картонажной машины, затем добавьте конвейеры, контрольные весы, сериализацию, станцию отбраковки, поворотные устройства и укладчик в короба. Каждый новый элемент добавляется в конец линии в том же направлении.
+Zacznij od wyjścia kartoniarki, potem dodaj przenośniki, wagę kontrolną, serializację, stację odrzutu, obracacze i pakowarkę zbiorczą. Każdy nowy element dodawany jest na końcu linii, w tym samym kierunku.
+Kezdje a dobozológép-kimenettel, majd adjon hozzá szalagokat, ellenőrző mérleget, szerializációt, kidobóállomást, forgatókat és gyűjtődobozolót. Minden új elem a sor végére kerül, azonos irányban.
+Empiece por la salida de la estuchadora y luego añada transportadores, la controladora de peso, la serialización, la estación de rechazo, los giradores y la encajonadora. Cada elemento nuevo se añade al final de la línea, en el mismo sentido.
+
+#4130
+Sortie étuyeuse
+Saída da encartuchadeira
+装盒机出口
+Выход картонажной машины
+Wyjście kartoniarki
+Dobozológép kimenet
+Salida de la estuchadora
+
+#4131
+Ouvrir la ligne d'exemple
+Abrir a linha de exemplo
+打开示例产线
+Открыть пример линии
+Otwórz przykładową linię
+Mintasor megnyitása
+Abrir la línea de ejemplo
+
+#4132
+Arrêter la ligne
+Parar linha
+停止产线
+Остановить линию
+Zatrzymaj linię
+Sor leállítása
+Parar línea
+
+#4133
+Démarrer la ligne
+Iniciar linha
+启动产线
+Запустить линию
+Uruchom linię
+Sor indítása
+Arrancar línea
+
+#4134
+L'étuyeuse donne la cadence. Tout ce qui suit doit être 10-30 % plus rapide (la courbe en V).
+A encartuchadeira define o ritmo. Tudo depois dela deve ser 10-30 % mais rápido (a curva em V).
+装盒机决定节拍。其后的所有设备必须快 10-30 %（V 形曲线）。
+Темп задаёт картонажная машина. Всё после неё должно быть на 10-30 % быстрее (V-кривая).
+Tempo nadaje kartoniarka. Wszystko za nią musi być o 10-30 % szybsze (krzywa V).
+A dobozológép adja az ütemet. Minden utána következőnek 10-30 %-kal gyorsabbnak kell lennie (V-görbe).
+La estuchadora marca el ritmo. Todo lo que va después debe ser un 10-30 % más rápido (la curva en V).
+
+#4135
+Guides = largeur de l'étui en travers du flux + 3 à 5 mm. Trop serré, ça coince ; trop lâche, ça vrille.
+Guias = largura da caixa transversal ao fluxo + 3 a 5 mm. Apertado demais encrava, folgado demais torce.
+导轨 = 横向于流向的纸盒宽度 + 3 至 5 mm。太紧会卡料，太松会歪斜。
+Направляющие = ширина пачки поперёк потока + 3–5 мм. Слишком узко — затор, слишком широко — перекос.
+Prowadnice = szerokość kartonika w poprzek przepływu + 3 do 5 mm. Za ciasno: zator, za luźno: skręcanie.
+Vezetők = a doboz áramlásra merőleges szélessége + 3–5 mm. Túl szűk: elakad, túl laza: elfordul.
+Guías = ancho del estuche transversal al flujo + 3 a 5 mm. Demasiado justas atascan, demasiado holgadas lo tuercen.
+
+#4136
+Vérifiez quel côté de l'étui est en travers du flux avant de choisir une largeur de chaîne.
+Verifique qual lado da caixa está transversal ao fluxo antes de escolher a largura da corrente.
+选择链宽前，先确认纸盒哪一边横向于流向。
+Прежде чем выбрать ширину цепи, проверьте, какая сторона пачки идёт поперёк потока.
+Zanim wybierzesz szerokość łańcucha, sprawdź, który bok kartonika jest w poprzek przepływu.
+Láncszélesség választása előtt ellenőrizze, a doboz melyik oldala van keresztben az áramlásra.
+Compruebe qué lado del estuche va transversal al flujo antes de elegir el ancho de cadena.
+
+#4137
+Pas = vitesse / cadence. Avant la trieuse pondérale, l'écart ne doit laisser qu'un seul étui sur le plateau de pesée.
+Passo = velocidade / cadência. Antes da balança de checagem, o espaço deve deixar só uma caixa no prato de pesagem.
+间距 = 速度 / 速率。检重秤之前的间隙必须保证称台上只有一个纸盒。
+Шаг = скорость / производительность. Перед контрольными весами зазор должен оставлять на платформе только одну пачку.
+Podziałka = prędkość / wydajność. Przed wagą kontrolną odstęp musi zostawiać na szalce tylko jeden kartonik.
+Osztás = sebesség / ütem. Az ellenőrző mérleg előtt a résnek csak egy dobozt szabad a mérőlapon hagynia.
+Paso = velocidad / ritmo. Antes de la controladora de peso, el hueco debe dejar solo un estuche en el plato de pesaje.
+
+#4138
+Augmentez la vitesse par paliers (pas plus de 1.5x d'un coup, 1.3x pour les étuis debout) pour ouvrir les écarts sans renverser ni chevaucher.
+Aumente a velocidade em etapas (no máximo 1.5x de uma vez, 1.3x para caixas em pé) para abrir espaços sem tombar nem sobrepor.
+分级提速（每次不超过 1.5x，立放纸盒 1.3x），以拉开间距而不倾倒或叠压。
+Повышайте скорость ступенями (не более 1.5x за раз, 1.3x для стоящих пачек), чтобы открыть зазоры без опрокидывания и нахлёста.
+Zwiększaj prędkość stopniowo (nie więcej niż 1.5x naraz, 1.3x dla stojących kartoników), aby otworzyć odstępy bez przewracania i zachodzenia na siebie.
+Lépcsőzetesen növelje a sebességet (egyszerre legfeljebb 1.5x, álló dobozoknál 1.3x), hogy borulás és egymásra csúszás nélkül nyíljanak a rések.
+Suba la velocidad por etapas (no más de 1.5x de una vez, 1.3x para estuches de pie) para abrir huecos sin volcarlos ni solaparlos.
+
+#4139
+Une courbe change la direction, pas l'orientation. Seuls les tourneurs et les bandes vrillées tournent l'étui.
+Uma curva muda a direção, não a orientação. Só giradores e esteiras torcidas giram a caixa.
+弯道改变方向，不改变朝向。只有转向器和扭转皮带能转动纸盒。
+Поворот конвейера меняет направление, а не ориентацию. Пачку поворачивают только поворотные устройства и скручивающие ленты.
+Łuk zmienia kierunek, nie orientację. Kartonik obracają tylko obracacze i taśmy skrętne.
+Az ív az irányt változtatja, nem a helyzetet. Csak a forgatók és a csavart szalagok fordítják el a dobozt.
+Una curva cambia la dirección, no la orientación. Solo los giradores y las bandas de giro giran el estuche.
+
+#4140
+Gardez les étuis à plat en travers pendant la sérialisation et l'étiquetage d'inviolabilité, puis tournez-les pour l'encaisseuse.
+Mantenha as caixas deitadas transversais na serialização e na rotulagem de inviolabilidade, depois gire-as para a encaixotadora.
+在序列化和防拆封贴标阶段保持纸盒平放横向，然后为装箱机转向。
+Держите пачки плашмя поперёк на сериализации и наклейке контроля вскрытия, затем поворачивайте их для укладчика.
+Utrzymuj kartoniki płasko w poprzek podczas serializacji i etykietowania plombami, potem obróć je dla pakowarki zbiorczej.
+Tartsa a dobozokat keresztben fektetve a szerializáción és a garanciazár-címkézésen át, majd fordítsa el őket a gyűjtődobozolóhoz.
+Mantenga los estuches planos transversales en la serialización y el precintado de garantía, y luego gírelos para la encajonadora.
+
+#4141
+Placez un tampon avant la machine aval la plus lente (l'encaisseuse marque une pause à chaque changement de caisse), dimensionné pour 30-60 s, avec des capteurs de niveau haut et bas. Après un tampon, rouvrez les écarts avec une bande d'espacement avant tout tourneur.
+Coloque um buffer antes da máquina mais lenta a jusante (a encaixotadora pausa a cada troca de caixa), dimensionado para 30-60 s, com sensores de nível alto e baixo. Depois de um buffer, abra os espaços de novo com uma esteira espaçadora antes de qualquer girador.
+在最慢的下游设备前设置缓冲段（装箱机每次换箱都会暂停），按 30-60 s 设计容量，并配高、低位传感器。缓冲段之后、任何转向器之前，先用拉距皮带重新拉开间距。
+Поставьте буфер перед самой медленной машиной ниже по потоку (укладчик останавливается при каждой смене короба) с запасом на 30-60 с и датчиками верхнего и нижнего уровня. После буфера снова откройте зазоры разделительной лентой перед любым поворотным устройством.
+Umieść bufor przed najwolniejszą maszyną dalej na linii (pakowarka zbiorcza zatrzymuje się przy każdej zmianie kartonu), na 30-60 s, z czujnikami wysokiego i niskiego poziomu. Za buforem ponownie otwórz odstępy taśmą rozsuwającą przed każdym obracaczem.
+Tegyen puffert a leglassabb későbbi gép elé (a gyűjtődobozoló minden kartoncserénél megáll), 30-60 s-ra méretezve, felső és alsó szintérzékelővel. Puffer után bármely forgató előtt nyissa újra a réseket távolságnövelő szalaggal.
+Ponga un buffer antes de la máquina posterior más lenta (la encajonadora se detiene en cada cambio de caja), dimensionado para 30-60 s, con sensores de nivel alto y bajo. Tras un buffer, vuelva a abrir los huecos con una banda espaciadora antes de cualquier girador.
+
+#4142
+Chaque éjection doit être confirmée par un capteur. Si elle n'est pas confirmée, la ligne s'arrête. Un étui non conforme ne doit jamais atteindre une caisse.
+Todo rejeito deve ser confirmado por um sensor. Se não for confirmado, a linha para. Uma caixa ruim nunca deve chegar a uma caixa de embarque.
+每次剔除都必须由传感器确认。未确认则产线停机。不合格纸盒绝不能进入装箱。
+Каждая отбраковка должна подтверждаться датчиком. Если подтверждения нет, линия останавливается. Бракованная пачка никогда не должна попасть в короб.
+Każdy odrzut musi być potwierdzony czujnikiem. Jeśli nie jest potwierdzony, linia staje. Zły kartonik nigdy nie może trafić do kartonu zbiorczego.
+Minden kidobást érzékelőnek kell igazolnia. Ha nincs igazolva, a sor leáll. Hibás doboz soha nem kerülhet gyűjtőkartonba.
+Cada rechazo debe confirmarlo un sensor. Si no se confirma, la línea se para. Un estuche malo nunca debe llegar a una caja.
+
+#4143
+Production = l'élément le plus lent x OEE. Trouvez d'abord le goulot d'étranglement, puis corrigez les arrêts, les pertes de vitesse et les rejets.
+Produção = o elemento mais lento x OEE. Encontre primeiro o gargalo, depois corrija paradas, perdas de velocidade e rejeitos.
+产出 = 最慢元件 x OEE。先找出瓶颈，再解决停机、速度损失和剔除。
+Выпуск = самый медленный элемент x OEE. Сначала найдите узкое место, затем устраняйте остановки, потери скорости и брак.
+Wydajność = najwolniejszy element x OEE. Najpierw znajdź wąskie gardło, potem usuń postoje, straty prędkości i odrzuty.
+Kibocsátás = a leglassabb elem x OEE. Először keresse meg a szűk keresztmetszetet, majd javítsa a leállásokat, sebességveszteségeket és selejtet.
+Producción = el elemento más lento x OEE. Encuentre primero el cuello de botella y luego corrija paradas, pérdidas de velocidad y rechazos.
+
+#4144
+Règles de conception de ligne
+Regras de projeto da linha
+产线设计规则
+Правила проектирования линии
+Zasady projektowania linii
+Sortervezési szabályok
+Reglas de diseño de línea
+
+#4145
+arrêtée
+parada
+已停止
+остановлена
+zatrzymana
+leállt
+parada
+
+#4146
+en marche
+rodando
+运行中
+работает
+pracuje
+fut
+en marcha
+
+#4147
+La ligne a déjà une sortie étuyeuse.
+A linha já tem uma saída da encartuchadeira.
+产线已有装盒机出口。
+На линии уже есть выход картонажной машины.
+Linia ma już wyjście kartoniarki.
+A soron már van dobozológép-kimenet.
+La línea ya tiene una salida de estuchadora.
+
+#4148
+Touchez « Pivoter » ou faites-le glisser pour changer la disposition.
+Toque em "Girar" ou arraste para mudar o layout.
+点击"旋转"或拖动它来更改布局。
+Нажмите «Повернуть» или перетащите, чтобы изменить расположение.
+Dotknij „Obróć” lub przeciągnij, aby zmienić układ.
+Koppintson a „Forgatás” gombra, vagy húzza az elrendezés módosításához.
+Toque "Girar" o arrástrelo para cambiar la disposición.
+
+#4149
+Éléments de ligne (ajoutés en fin)
+Elementos da linha (adicionados no fim)
+产线元件（添加到末端）
+Элементы линии (добавляются в конец)
+Elementy linii (dodawane na końcu)
+Sorelemek (a végére kerülnek)
+Elementos de línea (se añaden al final)
+
+#4150
+Cadence (étuis/min)
+Cadência (caixas/min)
+速率（盒/min）
+Производительность (пачек/мин)
+Wydajność (kartoników/min)
+Ütem (doboz/perc)
+Ritmo (estuches/min)
+
+#4151
+L'étui sort
+A caixa sai
+纸盒出口姿态
+Пачка выходит
+Kartonik wychodzi
+A doboz kilépési helyzete
+El estuche sale
+
+#4152
+Vitesse (m/min)
+Velocidade (m/min)
+速度（m/min）
+Скорость (м/мин)
+Prędkość (m/min)
+Sebesség (m/min)
+Velocidad (m/min)
+
+#4153
+Longueur (cases de 0.5 m)
+Comprimento (células de 0.5 m)
+长度（每格 0.5 m）
+Длина (клетки по 0.5 м)
+Długość (pola po 0.5 m)
+Hossz (0.5 m-es cellák)
+Longitud (celdas de 0.5 m)
+
+#4154
+Bande (pas chaîne)
+Esteira (não corrente)
+皮带（非链条）
+Лента (не цепь)
+Taśma (nie łańcuch)
+Szalag (nem lánc)
+Banda (no cadena)
+
+#4155
+Largeur de chaîne (mm)
+Largura da corrente (mm)
+链宽（mm）
+Ширина цепи (мм)
+Szerokość łańcucha (mm)
+Láncszélesség (mm)
+Ancho de cadena (mm)
+
+#4156
+Largeur des guides (mm)
+Largura das guias (mm)
+导轨宽度（mm）
+Ширина направляющих (мм)
+Szerokość prowadnic (mm)
+Vezetőszélesség (mm)
+Ancho de guías (mm)
+
+#4157
+Tourne à gauche
+Vira à esquerda
+向左转
+Поворот налево
+Skręca w lewo
+Balra fordul
+Gira a la izquierda
+
+#4158
+Rayon intérieur (mm)
+Raio interno (mm)
+内半径（mm）
+Внутренний радиус (мм)
+Promień wewnętrzny (mm)
+Belső sugár (mm)
+Radio interior (mm)
+
+#4159
+Cellule niveau haut (%)
+Sensor de nível alto (%)
+高位光电眼（%）
+Датчик верхнего уровня (%)
+Czujnik wysokiego poziomu (%)
+Felső szintérzékelő (%)
+Fotocélula de nivel alto (%)
+
+#4160
+Cellule niveau bas (%)
+Sensor de nível baixo (%)
+低位光电眼（%）
+Датчик нижнего уровня (%)
+Czujnik niskiego poziomu (%)
+Alsó szintérzékelő (%)
+Fotocélula de nivel bajo (%)
+
+#4161
+Longueur du plateau de pesée (mm)
+Comprimento do prato de pesagem (mm)
+称台长度（mm）
+Длина весовой платформы (мм)
+Długość szalki (mm)
+Mérőlap hossza (mm)
+Longitud del plato de pesaje (mm)
+
+#4162
+Poids nominal (g)
+Peso nominal (g)
+标称重量（g）
+Номинальный вес (г)
+Masa nominalna (g)
+Névleges tömeg (g)
+Peso nominal (g)
+
+#4163
+Tolérance ± (g)
+Tolerância ± (g)
+公差 ±（g）
+Допуск ± (г)
+Tolerancja ± (g)
+Tűrés ± (g)
+Tolerancia ± (g)
+
+#4164
+Cadence max (étuis/min)
+Cadência máx. (caixas/min)
+最大速率（盒/min）
+Макс. производительность (пачек/мин)
+Maks. wydajność (kartoników/min)
+Max. ütem (doboz/perc)
+Ritmo máx. (estuches/min)

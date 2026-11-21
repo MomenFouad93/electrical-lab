@@ -3,7 +3,7 @@
   const EL = g.EL, ui = EL.ui, $ = ui.$;
   let view = 'bench';
   ui.view = () => view;
-  ui.activeEd = () => (view === 'bench' ? EL.bench.ed : view === 'pcb' && EL.pcb ? EL.pcb.ed : null);
+  ui.activeEd = () => (view === 'bench' || view === 'prog' ? EL.bench.ed : view === 'pcb' && EL.pcb ? EL.pcb.ed : null);
   ui.show = function (v) {
     const prev = view; view = v;
     for (const t of ui.$$('#tabs .tab')) t.classList.toggle('on', t.dataset.v === v);
@@ -19,10 +19,11 @@
     if (v === 'inspect' && EL.inspect) EL.inspect.onShow();
     if (v === 'guide' && EL.guide) EL.guide.onShow();
     if (v === 'projects' && EL.projects && EL.projects.onShow) EL.projects.onShow();
+    if (v === 'prog' && ui.ladder) ui.ladder.onShow();
     try { localStorage.setItem('ellab.view', v); } catch (e) {}
   };
   function loop(t) {
-    try { if (view === 'bench' || view === 'pcb') EL.bench.frame(t); } catch (e) { console.error(e); if (!loop.err) { loop.err = 1; ui.toast('Error: ' + e.message, 'bad', 9000); } }
+    try { if (view === 'bench' || view === 'pcb' || view === 'prog') EL.bench.frame(t); if (view === 'prog' && ui.ladder) ui.ladder.frame(); } catch (e) { console.error(e); if (!loop.err) { loop.err = 1; ui.toast('Error: ' + e.message, 'bad', 9000); } }
     requestAnimationFrame(loop);
   }
   g.addEventListener('DOMContentLoaded', () => {
@@ -35,6 +36,7 @@
     for (const t of ui.$$('#tabs .tab')) t.addEventListener('click', () => ui.show(t.dataset.v));
     EL.bench.init();
     if (ui.plant) ui.plant.init();
+    if (ui.line) ui.line.init();
     if (ui.ladder) ui.ladder.init();
     if (EL.projects && EL.projects.init) EL.projects.init();
     if (ui.inst) { ui.inst.init(); ui.inst.mount($('#pane-meters')); }

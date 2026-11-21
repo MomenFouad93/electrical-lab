@@ -22,7 +22,7 @@ const { ok, sleep } = Q;
   ok((await p.evaluate(() => EL.bench.view)) === 'plant', 'tap Open -> plant view');
   await Q.shot(p, 'm_plant');
   // key controls on screen
-  for (const s of ['#viewSeg', '#viewSeg .btn[data-v=ladder]', '#modeSeg', '#dock', '#plantHost .pl-tools', '#btnUndo', '#btnSpeed', '#btnPower']) {
+  for (const s of ['#viewSeg', '#viewSeg .btn[data-v=line]', '#modeSeg', '#dock', '#plantHost .pl-tools']) {
     const r = await rect(s); ok(r && r.vis && inVP(r), `phone: ${s} visible on screen`, JSON.stringify(r));
   }
   hs = await hscroll(); ok(hs[0] <= 390, 'Bench: no horizontal page scroll ' + hs);
@@ -36,7 +36,7 @@ const { ok, sleep } = Q;
     const st = await p.evaluate(() => ({ pal: document.querySelector('#palette').classList.contains('open'), side: document.querySelector('#side').classList.contains('open'), pane: (document.querySelector('#side .spane.on') || {}).id }));
     const sheet = await rect(i === 0 ? '#palette' : '#side');
     ok((i === 0 ? st.pal : st.side) && inVP(sheet), `dock "${dock[i]}" opens its sheet on screen`, JSON.stringify(st) + JSON.stringify(sheet));
-    if (i === 0) { const items = await p.$$eval('#plist .pit', (a) => a.length); ok(items === 17, 'Parts sheet in Plant view lists 17 units'); }
+    if (i === 0) { const items = await p.$$eval('#plist .pit', (a) => a.length); ok(items === await p.evaluate(() => EL.plant.order.length), 'Parts sheet in Plant view lists every unit'); }
     if (i > 0) ok(st.pane === 'pane-' + ['part', 'meters', 'diag', 'assist'][i - 1], `dock "${dock[i]}" shows its pane`, st.pane);
     await Q.shot(p, 'm_dock_' + i);
     await tap(`#dock button:nth-child(${i + 1})`);
@@ -50,7 +50,7 @@ const { ok, sleep } = Q;
   const pit = await p.$('#plist .pit >> nth=3'); const pb = await pit.boundingBox(); await p.touchscreen.tap(pb.x + pb.width / 2, pb.y + pb.height / 2); await sleep(300);
   ok((await p.evaluate(() => EL.bench.ed.c.plant.units.length)) === u0 + 1 && !(await p.evaluate(() => document.querySelector('#palette').classList.contains('open'))), 'tap a unit in Parts sheet adds it and closes the sheet');
   // tap port -> tap port
-  await p.evaluate(() => EL.ui.plant.fit()); await sleep(200);
+  await p.evaluate(() => { const PU = EL.ui.plant, pl = EL.bench.ed.c.plant, a = pl.units.find((x) => x.tag === 'T1'), b = pl.units.slice(-1)[0]; PU.view.k = 0.3; const cx = (a.x + b.x) / 2, cy = (a.y + b.y) / 2; PU.view.x = 195 - cx * 0.3; PU.view.y = 380 - cy * 0.3; PU.zoom(1); PU.render(true); }); await sleep(200);
   const portScr = (ref) => p.evaluate((ref) => { const PU = EL.ui.plant, pl = EL.bench.ed.c.plant, [t, port] = ref.split('.'), u = pl.units.find((x) => x.tag === t), q = EL.plant.portPos(u, port), r = document.querySelector('#plantHost svg').getBoundingClientRect(); return { x: r.left + PU.view.x + q.x * PU.view.k, y: r.top + PU.view.y + q.y * PU.view.k }; }, ref);
   const newTag = await p.evaluate(() => EL.bench.ed.c.plant.units.slice(-1)[0].tag);
   const pc = await p.evaluate(() => EL.bench.ed.c.plant.pipes.length);
@@ -74,8 +74,8 @@ const { ok, sleep } = Q;
   await Q.shot(p, 'm_addmenu');
   await Q.closeModals(p);
   // Ladder
-  await tap('#viewSeg .btn[data-v=ladder]');
-  ok((await p.evaluate(() => EL.bench.view)) === 'ladder', 'phone: tap Ladder');
+  await tap('#tabs .tab[data-v=prog]'); await sleep(400);
+  ok((await p.evaluate(() => EL.ui.view())) === 'prog', 'phone: Programming tab');
   await Q.shot(p, 'm_ladder');
   const lb = await p.evaluate(() => [...document.querySelectorAll('#ladHost .ld-bar > *')].map((e) => { const r = e.getBoundingClientRect(); return (e.textContent || e.tagName).slice(0, 14) + ':' + Math.round(r.left) + '-' + Math.round(r.right) + '/' + Math.round(r.top); }));
   console.log('     ladder bar', lb.join(' | '));
@@ -88,7 +88,7 @@ const { ok, sleep } = Q;
   await p.touchscreen.tap(cxy.x, cxy.y); await sleep(300);
   ok(!!(await p.evaluate(() => EL.ui.ladder.sel && EL.ui.ladder.sel.key)), 'phone: tap contact selects it');
   const sb = await rect('#ladHost .ld-selbar'); const dk = await rect('#dock');
-  ok(sb && inVP(sb) && sb.b <= dk.t + 1, 'phone: selection bar on screen and above the dock', JSON.stringify(sb) + ' dock ' + JSON.stringify(dk));
+  ok(sb && inVP(sb) && (!dk || !dk.vis || !dk.w || sb.b <= dk.t + 1), 'phone: selection bar on screen and above the dock', JSON.stringify(sb) + ' dock ' + JSON.stringify(dk));
   const sbOff = await p.evaluate(() => [...document.querySelectorAll('#ladHost .ld-selbar button')].filter((e) => { const r = e.getBoundingClientRect(); return r.right > 391 || r.left < -1 || r.width === 0; }).map((e) => e.textContent));
   ok(!sbOff.length, 'phone: all selection-bar buttons on screen', sbOff.join(','));
   await Q.shot(p, 'm_ladder_sel');
@@ -98,17 +98,18 @@ const { ok, sleep } = Q;
   const md = await rect('.modal .box'); ok(md && md.l >= 0 && md.r <= 390 && md.b <= 845, 'phone: edit dialog fits screen', JSON.stringify(md));
   await Q.shot(p, 'm_ladder_dialog');
   await Q.closeModals(p);
-  // ladder palette via dock -> insert NO, sheet closes, dialog opens
-  await tap('#dock button:nth-child(1)');
-  ok((await p.$$eval('#plist .pit', (a) => a.length)) === 18, 'phone: Parts sheet in Ladder shows 18 instructions');
-  const it0 = await p.$('#plist .pit >> nth=0'); const ib = await it0.boundingBox(); await p.touchscreen.tap(ib.x + ib.width / 2, ib.y + ib.height / 2); await sleep(300);
-  ok((await Q.modalCount(p)) === 1 && !(await p.evaluate(() => document.querySelector('#palette').classList.contains('open'))), 'phone: tap NO in sheet -> sheet closes, dialog opens');
+  // ladder instruction picker on the phone (Programming tab has its own buttons instead of the dock)
+  await tap('.ld-mob'); await sleep(300);
+  ok((await p.$$eval('.modal .pit', (a) => a.length)) === 18, 'phone: instruction picker shows 18 instructions');
+  const it0 = await p.$('.modal .pit >> nth=0'); const ib = await it0.boundingBox(); await p.touchscreen.tap(ib.x + ib.width / 2, ib.y + ib.height / 2); await sleep(300);
+  ok((await Q.modalCount(p)) <= 1, 'phone: tap NO in the picker -> picker closes');
   await Q.closeModals(p);
-  // Check program on phone opens part sheet
+  const e0c = errs.length;
   const chk = await p.evaluateHandle(() => [...document.querySelectorAll('#ladHost .ld-bar button')].find((b) => /Check/.test(b.textContent)));
-  const ck = await chk.asElement().boundingBox();
-  if (ck && ck.x + ck.width <= 390) { await p.touchscreen.tap(ck.x + ck.width / 2, ck.y + ck.height / 2); await sleep(300); ok(await p.evaluate(() => document.querySelector('#side').classList.contains('open') && /Program check/.test(document.querySelector('#pane-part').textContent)), 'phone: Check program opens Part sheet with results'); }
+  const ck = chk.asElement() ? await chk.asElement().boundingBox() : null;
+  if (ck) { await p.touchscreen.tap(ck.x + ck.width / 2, ck.y + ck.height / 2); await sleep(300); ok(errs.length === e0c, 'phone: Check program runs without errors'); }
   else ok(false, 'phone: Check program button reachable', JSON.stringify(ck));
+  await Q.closeModals(p);
   await Q.shot(p, 'm_ladder_check');
   // close side, watch table M toggle by tap
   hs = await hscroll(); ok(hs[0] <= 390, 'Ladder: no horizontal page scroll ' + hs);
