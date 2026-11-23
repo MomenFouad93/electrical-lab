@@ -1,0 +1,197 @@
+#4515
+Vérifiez que chaque cuve est sous 60 °C avant d'ouvrir une vidange (brûlures, conduites de vidange en PVC)
+Verifique se todos os tanques estão abaixo de 60 °C antes de abrir um dreno (queimaduras, linhas de dreno em PVC)
+打开排放前确认每个储罐都低于 60 °C（烫伤风险，排放管为 PVC）
+Перед открытием слива убедитесь, что каждый бак ниже 60 °C (ожоги, сливные линии из PVC)
+Przed otwarciem spustu sprawdź, czy każdy zbiornik ma poniżej 60 °C (oparzenia, rury spustowe z PVC)
+Ürítő nyitása előtt ellenőrizze, hogy minden tartály 60 °C alatt van (forrázás, PVC ürítővezetékek)
+Compruebe que cada tanque esté por debajo de 60 °C antes de abrir un drenaje (quemaduras, líneas de drenaje de PVC)
+
+#4516
+Retour en production : pompes et vanne de concentrat en position normale, produit dérivé jusqu'à ce qu'il soit conforme pendant 2 min
+Volta à produção: bombas e válvula de rejeito de volta ao normal, produto desviado até ficar dentro da especificação por 2 min
+恢复生产：泵和浓水阀恢复正常，产水分流，直到连续 2 min 合格
+Возврат к производству: насосы и клапан концентрата в обычном режиме, продукт отводится, пока он не будет в норме 2 min
+Powrót do produkcji: pompy i zawór koncentratu wracają do normy, produkt odrzucany, aż będzie w specyfikacji przez 2 min
+Vissza a termelésre: szivattyúk és koncentrátumszelep normál állásban, a termék elterelve, amíg 2 min-ig specifikáción belül nem marad
+Vuelta a producción: bombas y válvula de rechazo a la normalidad, producto desviado hasta que esté en especificación durante 2 min
+
+#4517
+Production relancée (elle redémarre selon le niveau de la cuve), UV en marche, points d'utilisation libérés
+Produção religada (reinicia pelo nível do tanque), UV ligado, pontos de uso liberados
+恢复生产（按储罐液位自动重启），UV 开启，各使用点放行
+Производство снова включено (перезапускается по уровню бака), UV включён, точки отбора разрешены
+Produkcja ponownie włączona (startuje wg poziomu zbiornika), UV włączone, punkty poboru zwolnione
+Termelés újra be (a tartályszint szerint indul újra), UV be, vételi pontok felszabadítva
+Producción de nuevo en marcha (rearranca por el nivel del tanque), UV encendida, puntos de uso liberados
+
+#4518
+Démarre la station comme après une vidange complète : chaque cuve à 0 % (les tubes RO restent pleins). Regardez se remplir la cuve d'eau brute, la bâche de rupture et la cuve PW, la RO démarrer avec sa première eau renvoyée, la boucle démarrer au niveau minimum, et le chronomètre jusqu'à ce que la cuve PW soit pleine. Avant de libérer les points d'utilisation : sanitisation à chaud de la cuve et de la boucle, puis prélèvements (conductivité, TOC, micro).
+Parte a estação como após uma drenagem completa: todos os tanques a 0 % (os vasos do RO continuam cheios). Observe o tanque de água bruta, o tanque de quebra e o tanque de PW encherem, o RO partir com a primeira água devolvida, o loop partir no nível mínimo e o cronômetro até o tanque de PW ficar cheio. Antes de liberar os pontos de uso: sanitização a quente do tanque e do loop, depois amostragem (condutividade, TOC, micro).
+按完全排空后的状态启动水站：每个储罐 0 %（RO 膜壳保持充满）。观察原水箱、中间水箱和 PW 储罐注水，RO 启动并将初始产水回流，回路在最低液位启动，以及计时直到 PW 储罐注满。放行使用点之前：对储罐和回路进行热消毒，然后取样（电导率、TOC、微生物）。
+Запускает станцию как после полного слива: каждый бак на 0 % (корпуса RO остаются полными). Следите, как наполняются бак исходной воды, разрывной бак и бак PW, как запускается RO с возвратом первой воды, как запускается контур на минимальном уровне, и за таймером до заполнения бака PW. Перед разрешением точек отбора: горячая санитизация бака и контура, затем отбор проб (электропроводность, TOC, микробиология).
+Uruchamia stację jak po pełnym spuście: każdy zbiornik na 0 % (obudowy RO zostają pełne). Obserwuj napełnianie zbiornika wody surowej, zbiornika przerywającego i zbiornika PW, start RO z zawracaniem pierwszej wody, start pętli przy minimalnym poziomie i licznik czasu do napełnienia zbiornika PW. Przed zwolnieniem punktów poboru: sanityzacja na gorąco zbiornika i pętli, potem próbki (przewodność, TOC, mikrobiologia).
+Úgy indítja az állomást, mint egy teljes leürítés után: minden tartály 0 %-on (az RO házak tele maradnak). Figyelje a nyersvíz tartály, a megszakító tartály és a PW tartály feltöltését, az RO indulását az első víz visszavezetésével, a kör indulását a minimális szinten, és az időmérőt, amíg a PW tartály megtelik. A vételi pontok felszabadítása előtt: a tartály és a kör forró szanitálása, majd mintavétel (vezetőképesség, TOC, mikrobiológia).
+Arranca la estación como tras un vaciado completo: cada tanque al 0 % (los tubos de RO siguen llenos). Observe el llenado del tanque de agua bruta, del tanque de rotura y del tanque de PW, el arranque de la RO con su primera agua devuelta, el arranque del lazo al nivel mínimo y el cronómetro hasta que el tanque de PW esté lleno. Antes de liberar los puntos de uso: sanitización en caliente del tanque y del lazo, luego muestreo (conductividad, TOC, micro).
+
+#4519
+Arrête tout, ferme l'arrivée d'eau de ville et ouvre la vidange de fond de chaque cuve. L'estimation utilise Torricelli à travers la conduite de vidange (perte d'entrée et friction de la conduite, perte de la vanne non comptée), donc le temps réel est un peu plus long. Les tubes RO, les filtres et l'adoucisseur restent pleins : les membranes ne doivent jamais sécher. La station reste vide et arrêtée : lancez "Démarrage à vide" pour la remplir.
+Para tudo, fecha a entrada de água da rede e abre o dreno de fundo de cada tanque. A estimativa usa Torricelli pela linha de dreno (perda de entrada e atrito da tubulação, perda da válvula não contada), então o tempo real é um pouco maior. Os vasos do RO, os filtros e o abrandador continuam cheios: as membranas nunca podem secar. A estação fica vazia e parada: execute "Partida a partir de vazio" para reabastecer.
+停止所有设备，关闭市政水进水，打开每个储罐的底部排放。估算采用排放管的 Torricelli 公式（计入入口损失和管道摩擦，不计阀门损失），因此实际时间略长。RO 膜壳、过滤器和软化器保持充满：膜绝不能干。水站保持排空并停止：运行"从空开始启动"重新注水。
+Останавливает всё, закрывает ввод водопроводной воды и открывает донный слив каждого бака. Оценка по Torricelli через сливную трубу (потери на входе и трение в трубе, потери на клапане не учтены), поэтому реальное время немного больше. Корпуса RO, фильтры и умягчитель остаются полными: мембраны никогда не должны высыхать. Станция остаётся пустой и остановленной: запустите "Пуск с пустой станции" для заполнения.
+Zatrzymuje wszystko, zamyka wlot wody miejskiej i otwiera spust denny każdego zbiornika. Szacunek wg Torricellego przez rurę spustową (strata wlotowa i tarcie w rurze, bez straty na zaworze), więc rzeczywisty czas jest trochę dłuższy. Obudowy RO, filtry i zmiękczacz zostają pełne: membrany nigdy nie mogą wyschnąć. Stacja zostaje pusta i zatrzymana: uruchom "Rozruch od pustej stacji", aby ją napełnić.
+Mindent leállít, elzárja a városi víz bemenetet, és kinyitja minden tartály fenékürítőjét. A becslés a Torricelli-képletet használja az ürítőcsőre (belépési veszteség és csősúrlódás, a szelep vesztesége nélkül), így a valós idő kicsit hosszabb. Az RO házak, a szűrők és a lágyító tele maradnak: a membránok soha nem száradhatnak ki. Az állomás üres és leállt marad: az újratöltéshez futtassa az "Indítás üres állapotból" ciklust.
+Para todo, cierra la entrada de agua de red y abre el drenaje de fondo de cada tanque. La estimación usa Torricelli por la tubería de drenaje (pérdida de entrada y fricción de la tubería, sin contar la pérdida de la válvula), así que el tiempo real es algo mayor. Los tubos de RO, los filtros y el descalcificador siguen llenos: las membranas nunca deben secarse. La estación queda vacía y parada: ejecute "Arranque desde vacío" para llenarla.
+
+#4520
+Lave la surface des membranes avec un fort débit à basse pression, produit dérivé vers la bâche de rupture. À faire après un arrêt et avant un long arrêt.
+Lava a superfície das membranas com vazão alta e pressão baixa, produto desviado para o tanque de quebra. Feito após uma parada e antes de uma parada longa.
+以大流量、低压力冲洗膜表面，产水分流到中间水箱。在停机后和长时间停机前进行。
+Промывает поверхность мембран большим расходом при низком давлении, продукт отводится в разрывной бак. Выполняется после остановки и перед длительным простоем.
+Płucze powierzchnię membran dużym przepływem przy niskim ciśnieniu, produkt kierowany do zbiornika przerywającego. Wykonywane po postoju i przed długim przestojem.
+Nagy áramlással, alacsony nyomáson mossa a membránfelületet, a termék a megszakító tartályba elterelve. Leállás után és hosszú állás előtt végzendő.
+Lava la superficie de las membranas con caudal alto a baja presión, producto desviado al tanque de rotura. Se hace tras una parada y antes de una parada larga.
+
+#4521
+Production en marche, produit dérivé vers la bâche de rupture {1}
+Produção ligada, produto desviado para o tanque de quebra {1}
+生产运行，产水分流到中间水箱 {1}
+Производство включено, продукт отводится в разрывной бак {1}
+Produkcja włączona, produkt kierowany do zbiornika przerywającego {1}
+Termelés be, a termék elterelve a {1} megszakító tartályba
+Producción en marcha, producto desviado al tanque de rotura {1}
+
+#4522
+Rinçage rapide 5 min : {1} et {2} réduites à 35 %, vanne de concentrat {3} grande ouverte. Un fort débit tangentiel à basse pression balaie les deux passes.
+Enxágue rápido 5 min: {1} e {2} reduzidas a 35 %, válvula de rejeito {3} toda aberta. Alta vazão tangencial a baixa pressão varre os dois passes.
+快速冲洗 5 min：{1} 和 {2} 降到 35 %，浓水阀 {3} 全开。低压大错流冲刷两级。
+Быстрая промывка 5 min: {1} и {2} снижены до 35 %, клапан концентрата {3} полностью открыт. Большой тангенциальный поток при низком давлении промывает обе ступени.
+Szybkie płukanie 5 min: {1} i {2} zmniejszone do 35 %, zawór koncentratu {3} szeroko otwarty. Duży przepływ styczny przy niskim ciśnieniu omywa oba stopnie.
+Gyorsöblítés 5 min: {1} és {2} 35 %-ra csökkentve, {3} koncentrátumszelep teljesen nyitva. A nagy keresztáramlás alacsony nyomáson mindkét lépcsőt átöblíti.
+Lavado rápido 5 min: {1} y {2} bajadas al 35 %, válvula de rechazo {3} totalmente abierta. Un alto flujo tangencial a baja presión barre ambos pasos.
+
+#4523
+Début : {1} vers l'égout se ferme, recirculation {2} s'ouvre, {3} ralenties (30 % / 45 %) et vanne de concentrat {4} grande ouverte (fort débit tangentiel, environ 2-3 bar sur membranes chaudes), NaOH et dégazeur arrêtés (le SMBS reste en marche), vapeur ouverte sur {5}
+Início: {1} para o dreno fecha, recirculação {2} abre, {3} desaceleradas (30 % / 45 %) e válvula de rejeito {4} toda aberta (alta vazão tangencial, cerca de 2-3 bar com membranas quentes), NaOH e desgaseificador desligados (o SMBS continua ligado), vapor aberto em {5}
+开始：去排放的 {1} 关闭，回流 {2} 打开，{3} 降速（30 % / 45 %），浓水阀 {4} 全开（大错流，热膜上约 2-3 bar），NaOH 和脱气器关闭（SMBS 保持运行），{5} 通蒸汽
+Начало: {1} в слив закрывается, рециркуляция {2} открывается, {3} замедлены (30 % / 45 %), клапан концентрата {4} полностью открыт (большой тангенциальный поток, около 2-3 bar на горячих мембранах), NaOH и дегазатор выключены (SMBS остаётся включённым), пар подан на {5}
+Start: {1} do kanalizacji zamyka się, recyrkulacja {2} otwiera się, {3} zwolnione (30 % / 45 %), zawór koncentratu {4} szeroko otwarty (duży przepływ styczny, około 2-3 bar na gorących membranach), NaOH i odgazowywacz wyłączone (SMBS pracuje dalej), para włączona na {5}
+Kezdés: a lefolyó felé menő {1} zár, a {2} recirkuláció nyit, {3} lelassítva (30 % / 45 %), {4} koncentrátumszelep teljesen nyitva (nagy keresztáramlás, kb. 2-3 bar forró membránokon), NaOH és gáztalanító ki (az SMBS bekapcsolva marad), gőz be ide: {5}
+Inicio: {1} al desagüe se cierra, recirculación {2} se abre, {3} ralentizadas (30 % / 45 %) y válvula de rechazo {4} totalmente abierta (alto flujo tangencial, unos 2-3 bar con membranas calientes), NaOH y desgasificador apagados (el SMBS sigue en marcha), vapor abierto en {5}
+
+#4524
+Maintenez {1} min à {2} °C ou plus (bâche de rupture)
+Mantenha {1} min a {2} °C ou mais (tanque de quebra)
+在 {2} °C 或以上保持 {1} min（中间水箱）
+Выдержите {1} min при {2} °C или выше (разрывной бак)
+Utrzymuj {1} min w {2} °C lub więcej (zbiornik przerywający)
+Tartsa {1} min-ig legalább {2} °C-on (megszakító tartály)
+Mantenga {1} min a {2} °C o más (tanque de rotura)
+
+#4525
+Refroidissez {1} sous 40 °C, pompes toujours ralenties, NaOH et dégazeur remis en marche ({2} kW eau glacée, et de l'eau adoucie neuve remplace le concentrat envoyé à l'égout)
+Resfrie {1} abaixo de 40 °C, bombas ainda lentas, NaOH e desgaseificador religados ({2} kW de água gelada, e água abrandada nova repõe o rejeito enviado ao dreno)
+将 {1} 冷却到 40 °C 以下，泵仍低速，NaOH 和脱气器重新开启（{2} kW 冷冻水，新鲜软化水补充排往排水口的浓水）
+Охладите {1} ниже 40 °C, насосы ещё замедлены, NaOH и дегазатор снова включены ({2} kW охлаждённой воды, свежая умягчённая вода восполняет концентрат, сброшенный в слив)
+Schłodź {1} poniżej 40 °C, pompy nadal zwolnione, NaOH i odgazowywacz ponownie włączone ({2} kW wody lodowej, a świeża woda zmiękczona zastępuje koncentrat odprowadzony do kanalizacji)
+Hűtse le: {1} 40 °C alá, a szivattyúk még lassúak, NaOH és gáztalanító újra be ({2} kW hűtött víz, és friss lágyított víz pótolja a lefolyóba engedett koncentrátumot)
+Enfríe {1} por debajo de 40 °C, bombas aún lentas, NaOH y desgasificador de nuevo en marcha ({2} kW de agua helada, y agua descalcificada nueva repone el rechazo enviado al desagüe)
+
+#4526
+Début : la production s'arrête, points d'utilisation fermés et étiquetés "CHAUD, ne pas utiliser", UV arrêté, pompe de boucle en marche, vapeur ouverte sur {1}
+Início: a produção para, pontos de uso fechados e etiquetados "QUENTE, não usar", UV desligado, bomba do loop ligada, vapor aberto em {1}
+开始：生产停止，各使用点关闭并挂上"高温，禁止使用"标牌，UV 关闭，回路泵运行，{1} 通蒸汽
+Начало: производство останавливается, точки отбора закрыты и помечены "ГОРЯЧО, не использовать", UV выключен, насос контура включён, пар подан на {1}
+Start: produkcja staje, punkty poboru zamknięte i oznaczone "GORĄCE, nie używać", UV wyłączone, pompa pętli włączona, para włączona na {1}
+Kezdés: a termelés leáll, a vételi pontok zárva és "FORRÓ, ne használja" címkével jelölve, UV ki, körszivattyú be, gőz be ide: {1}
+Inicio: la producción se para, puntos de uso cerrados y etiquetados "CALIENTE, no usar", UV apagada, bomba del lazo en marcha, vapor abierto en {1}
+
+#4527
+Maintenez {1} min à {2} °C ou plus, en ouvrant chaque point d'utilisation 30 s pour sanitiser aussi sa sortie : bactéries tuées (une sanitisation à chaud régulière empêche le biofilm de se former ; elle n'élimine pas un ancien biofilm)
+Mantenha {1} min a {2} °C ou mais, abrindo cada ponto de uso por 30 s para sanitizar também sua saída: bactérias mortas (a sanitização a quente regular impede a formação de biofilme; ela não remove um biofilme antigo)
+在 {2} °C 或以上保持 {1} min，每个使用点打开 30 s 使其出口也得到消毒：细菌被杀灭（定期热消毒可防止生物膜形成；但不能去除已有的生物膜）
+Выдержите {1} min при {2} °C или выше, открывая каждую точку отбора на 30 s, чтобы санитизировать и её выход: бактерии уничтожены (регулярная горячая санитизация не даёт образоваться биоплёнке; старую биоплёнку она не удаляет)
+Utrzymuj {1} min w {2} °C lub więcej, otwierając każdy punkt poboru na 30 s, aby zdezynfekować też jego wylot: bakterie zabite (regularna sanityzacja na gorąco zapobiega tworzeniu biofilmu; nie usuwa starego biofilmu)
+Tartsa {1} min-ig legalább {2} °C-on, minden vételi pontot 30 s-ra kinyitva, hogy a kifolyója is szanitálva legyen: a baktériumok elpusztulnak (a rendszeres forró szanitálás megakadályozza a biofilm képződését; a régi biofilmet nem távolítja el)
+Mantenga {1} min a {2} °C o más, abriendo cada punto de uso 30 s para sanitizar también su salida: bacterias eliminadas (la sanitización en caliente regular impide que se forme biofilm; no elimina un biofilm antiguo)
+
+#4528
+Refroidissez {1} et la boucle sous 30 °C ({2} kW eau glacée). Réchauffeur du filtre d'évent en marche et évent ouvert : refroidir une cuve pleine de vapeur crée un vide.
+Resfrie {1} e o loop abaixo de 30 °C ({2} kW de água gelada). Aquecedor do filtro de respiro ligado e respiro aberto: resfriar um tanque cheio de vapor cria vácuo.
+将 {1} 和回路冷却到 30 °C 以下（{2} kW 冷冻水）。呼吸过滤器加热器开启且呼吸口打开：冷却充满蒸汽的储罐会产生真空。
+Охладите {1} и контур ниже 30 °C ({2} kW охлаждённой воды). Обогрев дыхательного фильтра включён и дыхательный клапан открыт: охлаждение бака, заполненного паром, создаёт вакуум.
+Schłodź {1} i pętlę poniżej 30 °C ({2} kW wody lodowej). Grzałka filtra odpowietrzającego włączona i odpowietrzenie otwarte: chłodzenie zbiornika pełnego pary wytwarza podciśnienie.
+Hűtse le: {1} és a kör 30 °C alá ({2} kW hűtött víz). Légzőszűrő-fűtés be és légzés nyitva: a gőzzel teli tartály hűtése vákuumot hoz létre.
+Enfríe {1} y el lazo por debajo de 30 °C ({2} kW de agua helada). Calentador del filtro de venteo encendido y venteo abierto: enfriar un tanque lleno de vapor crea vacío.
+
+#4529
+Station vide : chaque cuve à 0 % (les tubes RO restent pleins), vidanges et points d'utilisation fermés, arrivée de ville {1} ouverte
+Estação vazia: todos os tanques a 0 % (os vasos do RO continuam cheios), drenos e pontos de uso fechados, entrada da rede {1} aberta
+水站已排空：每个储罐 0 %（RO 膜壳保持充满），排放和各使用点关闭，市政水进水 {1} 打开
+Станция пуста: каждый бак на 0 % (корпуса RO остаются полными), сливы и точки отбора закрыты, ввод водопроводной воды {1} открыт
+Stacja pusta: każdy zbiornik na 0 % (obudowy RO zostają pełne), spusty i punkty poboru zamknięte, wlot wody miejskiej {1} otwarty
+Állomás üres: minden tartály 0 %-on (az RO házak tele maradnak), ürítők és vételi pontok zárva, {1} városi bemenet nyitva
+Estación vacía: cada tanque al 0 % (los tubos de RO siguen llenos), drenajes y puntos de uso cerrados, entrada de red {1} abierta
+
+#4530
+Remplissez la cuve PW {1} jusqu'à {2} % (niveau minimum de la pompe de boucle)
+Encha o tanque de PW {1} até {2} % (nível mínimo da bomba do loop)
+将 PW 储罐 {1} 注至 {2} %（回路泵最低液位）
+Наполните бак PW {1} до {2} % (минимальный уровень для насоса контура)
+Napełnij zbiornik PW {1} do {2} % (minimalny poziom pompy pętli)
+Töltse a {1} PW tartályt {2} %-ig (a körszivattyú minimális szintje)
+Llene el tanque de PW {1} hasta el {2} % (nivel mínimo de la bomba del lazo)
+
+#4531
+Remplissez la cuve PW {1} jusqu'à 90 % avec la boucle en marche (la production s'arrête sur niveau)
+Encha o tanque de PW {1} até 90 % com o loop rodando (a produção para pelo nível)
+在回路运行时将 PW 储罐 {1} 注至 90 %（生产按液位停止）
+Наполните бак PW {1} до 90 % при работающем контуре (производство останавливается по уровню)
+Napełnij zbiornik PW {1} do 90 % przy pracującej pętli (produkcja zatrzymuje się wg poziomu)
+Töltse a {1} PW tartályt 90 %-ig járó körrel (a termelés szint szerint leáll)
+Llene el tanque de PW {1} hasta el 90 % con el lazo en marcha (la producción para por nivel)
+
+#4532
+Ouvrez la vidange {1} de {2} et les points d'utilisation (ils laissent entrer l'air pour que la boucle se vide ; vidanges de points bas non dessinées)
+Abra o dreno {1} de {2} e os pontos de uso (deixam entrar ar para o loop escoar; drenos de pontos baixos não desenhados)
+打开 {2} 的排放 {1} 和各使用点（让空气进入以便回路排空；低点排放未画出）
+Откройте слив {1} на {2} и точки отбора (они впускают воздух, чтобы контур опорожнился; сливы в нижних точках не нарисованы)
+Otwórz spust {1} na {2} oraz punkty poboru (wpuszczają powietrze, aby pętla się opróżniła; spusty w punktach niskich nie są narysowane)
+Nyissa ki a(z) {2} {1} ürítőjét és a vételi pontokat (levegőt engednek be, hogy a kör leürüljön; a mélyponti ürítők nincsenek megrajzolva)
+Abra el drenaje {1} de {2} y los puntos de uso (dejan entrar aire para que el lazo se vacíe; drenajes de puntos bajos no dibujados)
+
+#4533
+Régénérez l'adoucisseur {1} (aspiration de saumure, rinçage lent, rinçage rapide : environ 60 min), puis contrôlez la dureté en sortie avant la RO
+Regenere o abrandador {1} (aspiração de salmoura, enxágue lento, enxágue rápido: cerca de 60 min), depois verifique a dureza na saída antes do RO
+再生软化器 {1}（吸盐、慢冲洗、快冲洗：约 60 min），然后在 RO 前检查出水硬度
+Регенерируйте умягчитель {1} (забор рассола, медленная промывка, быстрая промывка: около 60 min), затем проверьте жёсткость на выходе перед RO
+Zregeneruj zmiękczacz {1} (pobór solanki, płukanie wolne, płukanie szybkie: około 60 min), potem sprawdź twardość na wylocie przed RO
+Regenerálja a(z) {1} lágyítót (sólé szívás, lassú öblítés, gyors öblítés: kb. 60 min), majd ellenőrizze a kilépő keménységet az RO előtt
+Regenere el descalcificador {1} (aspiración de salmuera, enjuague lento, enjuague rápido: unos 60 min), luego compruebe la dureza a la salida antes de la RO
+
+#4534
+Changez la cartouche {1}, purgez l'air du carter et rincez la cartouche neuve à l'égout (10 min)
+Troque o cartucho {1}, retire o ar da carcaça e enxágue o cartucho novo para o dreno (10 min)
+更换滤芯 {1}，排出滤壳内空气，并将新滤芯冲洗排放（10 min）
+Замените картридж {1}, выпустите воздух из корпуса и промойте новый картридж в слив (10 min)
+Wymień wkład {1}, odpowietrz obudowę i przepłucz nowy wkład do kanalizacji (10 min)
+Cserélje a(z) {1} betétet, légtelenítse a házat, és öblítse a lefolyóba az új betétet (10 min)
+Cambie el cartucho {1}, purgue el aire de la carcasa y enjuague el cartucho nuevo al desagüe (10 min)
+
+#4535
+Cycle démarré
+Ciclo iniciado
+循环已启动
+Цикл запущен
+Cykl uruchomiony
+Ciklus elindítva
+Ciclo iniciado
+
+#4536
+Cycle terminé
+Ciclo concluído
+循环完成
+Цикл завершён
+Cykl zakończony
+Ciklus befejezve
+Ciclo completado

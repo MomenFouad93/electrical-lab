@@ -22,6 +22,7 @@
     svg.appendChild(world);
     host.appendChild(svg);
     chrome();
+    if (ui.cycles) ui.cycles.init(host);
     ui.onRefresh(() => { if (tools) tools.remove(); const old = $('#plEmpty'); if (old) old.remove(); chrome(); PU.render(true); });
     bindPointer();
   };
@@ -32,7 +33,8 @@
       h('button', { class: 'btn sm', onclick: () => PU.zoom(1.2), text: '+', 'aria-label': 'zoom in' }), h('button', { class: 'btn sm', onclick: () => PU.zoom(1 / 1.2), text: '−', 'aria-label': 'zoom out' }),
       h('button', { class: 'btn sm', onclick: () => PU.fit(), text: T(['Fit', 'ملّي']) }),
       h('button', { class: 'btn sm bad pl-del', onclick: () => PU.delSel(), text: T(['Delete', 'حذف']) }),
-      h('button', { class: 'btn sm', onclick: () => PU.waterGuide(), text: T(['Water guide', 'دليل المية']) }));
+      h('button', { class: 'btn sm', onclick: () => PU.waterGuide(), text: T(['Water guide', 'دليل المية']) }),
+      ui.cycles ? ui.cycles.toolButton() : null);
     host.appendChild(tools);
     host.appendChild(h('div', { class: 'pl-empty', id: 'plEmpty' },
       h('b', { text: T(['No process yet', 'مفيش عملية لسه']) }),
@@ -57,9 +59,11 @@
     let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9;
     for (const u of pl.units) { const d = PL.defs[u.type]; x0 = Math.min(x0, u.x - 20); y0 = Math.min(y0, u.y - 40); x1 = Math.max(x1, u.x + d.w + 110); y1 = Math.max(y1, u.y + d.h + 50); }
     const phone = r.width < 700;
-    let k = Math.max(0.1, Math.min(1.4, Math.min(r.width / (x1 - x0), (r.height - 40) / (y1 - y0)) * 0.95));
+    const cy = $('#plCyc'), side = !phone && cy && cy.style.display !== 'none' && !cy.classList.contains('min') ? cy.offsetWidth + 16 : 0; // leave room for the cycles panel
+    const rtl = getComputedStyle(host).direction === 'rtl', W0 = r.width - side;
+    let k = Math.max(0.1, Math.min(1.4, Math.min(W0 / (x1 - x0), (r.height - 40) / (y1 - y0)) * 0.95));
     if (phone && k < 0.07) { const t = pl.units.find((u) => u.type === 'TANK') || pl.units[0]; PU.view.k = 0.55; PU.focus(t, true); return; }
-    PU.view = { k, x: (r.width - (x1 - x0) * k) / 2 - x0 * k, y: 40 + (r.height - 40 - (y1 - y0) * k) / 2 - y0 * k };
+    PU.view = { k, x: (rtl ? 0 : side) + (W0 - (x1 - x0) * k) / 2 - x0 * k, y: 40 + (r.height - 40 - (y1 - y0) * k) / 2 - y0 * k };
     applyView();
   };
   PU.focus = function (u, force) {
@@ -113,6 +117,7 @@
       }
     }
     layPorts.innerHTML = po;
+    if (force && ui.cycles) ui.cycles.update(true);
   };
   function pipeLab(A, Bp, p, q) {
     const pi = EL.water.pipeInfo(p, q / 60, PL.tempAt(plant(), p.a)), x = (A.x + Bp.x) / 2, y = (A.y + Bp.y) / 2 - 12;
@@ -425,6 +430,7 @@
   };
   let liveSig = '';
   PU.updateLive = function (force) {
+    if (ui.cycles) ui.cycles.update();
     if (B().view !== 'plant') return;
     const pl = plant();
     const pb = $('#plProblems');

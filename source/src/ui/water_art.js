@@ -87,7 +87,9 @@
   };
   D.CTRL = (u) => {
     const pr = u.props, st = u.state, h = Math.round((st.held || 0) / 60), H = Math.max(1, +pr.hold || 30);
-    const mode = pr.sanit ? (h > 0 ? 'SANITISING ' + h + '/' + H + ' min' : 'HEATING to 80 °C ' + (st.T != null ? f1(st.T) : '')) : st.done && (st.doneT || 0) < 1800 ? 'SANIT DONE: cooling ' + (st.T != null ? '' : '') : pr.prod ? 'PRODUCTION' : 'STOPPED';
+    const lh = Math.round((st.lheld || 0) / 60), LH = Math.max(1, +pr.lhold || 60);
+    let mode = pr.sanit ? (h > 0 ? 'SANITISING ' + h + '/' + H + ' min' : 'HEATING to 80 °C ' + (st.T != null ? f1(st.T) : '')) : pr.lsan ? (lh > 0 ? 'LOOP SANIT ' + lh + '/' + LH + ' min' : 'LOOP HEATING ' + (st.lT != null ? f1(st.lT) + ' °C' : '')) : st.done && (st.doneT || 0) < 1800 ? 'SANIT DONE: cooling' : st.ldone && (st.ldoneT || 0) < 1800 ? 'LOOP SANIT DONE: cooling' : pr.prod ? 'PRODUCTION' : 'STOPPED';
+    if (st.cyN) { const s = Math.round(st.cyT || 0); mode = 'CYCLE step ' + ((st.cyI || 0) + 1) + '  ' + Math.floor(s / 3600) + ':' + String(Math.floor((s % 3600) / 60)).padStart(2, '0') + ':' + String(s % 60).padStart(2, '0'); }
     const btn = (act, x, label, on, col) => `<g data-act="${act}" style="cursor:pointer"><rect x="${x}" y="88" width="88" height="56" rx="8" fill="${on ? col : '#2b3550'}" stroke="#c9d1dc" stroke-width="2"/><text x="${x + 44}" y="112" text-anchor="middle" class="pl-tag">${label}</text><text x="${x + 44}" y="132" text-anchor="middle" class="${on ? 'pl-ok' : 'pl-s'}">${on ? 'ON' : 'OFF'}</text></g>`;
     let s = `<rect x="0" y="0" width="300" height="170" rx="10" fill="#1d2436" stroke="#47BFD9" stroke-width="2"/><rect x="12" y="26" width="276" height="48" rx="4" fill="#c8d5b0"/>`;
     s += tx(150, 18, u.tag + '  station control', 'pl-tag') + tx(150, 56, mode, 'pl-lcd');

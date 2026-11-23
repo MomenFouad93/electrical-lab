@@ -10,7 +10,7 @@
   const PL = (EL.plant = {});
   const E = (en, ar) => [en, ar];
   const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
-  const G_PIPE = 40, G_BIG = 80, G_FIX = 1e6;
+  const G_PIPE = 40, G_BIG = 80, G_OUT = 400, G_FIX = 1e6;
 
   /* ---------------- unit definitions ---------------- */
   // ports: [id, x, y, dir]; dir is where the pipe leaves: l r u d
@@ -249,7 +249,7 @@
       for (const q of PL.portsOf(u)) N(p(q.id));
       switch (u.type) {
         case 'SUPPLY': F(id + '#s', +pr.bar || 0); B(id + '#s', p('out'), 8, { u, k: 'src' }); break; // a real line or sump cannot give unlimited flow
-        case 'DRAIN': F(id + '#d', 0); B(p('in'), id + '#d', G_BIG, { u, k: 'drain', one: true }); break;
+        case 'DRAIN': F(id + '#d', 0); B(p('in'), id + '#d', G_OUT, { u, k: 'drain', one: true }); break;
         case 'TANK': {
           const h = (st.v / Math.max(1, +pr.vol)) * (+pr.hgt || 1);
           F(id + '#top', (+pr.hgt || 1) * 0.0981); F(id + '#bot', h * 0.0981); // top inlets sit at the tank height
@@ -258,8 +258,8 @@
           if (!st.fvc) B(p('inA'), id + '#top', G_BIG, { u, k: 'tin', one: true });
           B(p('inB'), id + '#top', G_BIG, { u, k: 'tin', one: true });
           const empty = st.v <= 0.05;
-          B(id + '#bot', p('out1'), G_BIG, { u, k: 'tout', oneRev: empty });
-          B(id + '#bot', p('out2'), G_BIG, { u, k: 'tout', oneRev: empty });
+          B(id + '#bot', p('out1'), G_OUT, { u, k: 'tout', oneRev: empty }); // a tank nozzle loses little: gravity drains have only ~0.1 bar to work with
+          B(id + '#bot', p('out2'), G_OUT, { u, k: 'tout', oneRev: empty });
           break;
         }
         case 'PUMP': {
@@ -280,7 +280,8 @@
         case 'RO': {
           const tcf = Math.exp(2640 * (1 / 298 - 1 / (273 + (st.Tf == null ? 20 : st.Tf))));
           B(p('in'), p('rej'), 0.25 * clamp(+pr.rej, 1, 100) / 100, { u, k: 'rej' });
-          const r = clamp((st.rec || 0) / 100, 0, 0.95); // the brine gets saltier with recovery, so the osmotic back-pressure rises
+          st._rs = st._rs == null ? st.rec || 0 : 0.7 * st._rs + 0.3 * (st.rec || 0); // smoothed, so a membrane near its osmotic limit does not flip on and off each step
+          const r = clamp(st._rs / 100, 0, 0.95); // the brine gets saltier with recovery, so the osmotic back-pressure rises
           B(p('in'), p('perm'), 0.06 * tcf * clamp(+pr.area || 1, 0.1, 20) * (1 - clamp(st.scale || 0, 0, 0.8)), { u, k: 'perm', H: -2.0 * (1 + 1 / (1 - r)) / 2, one: true });
           break;
         }
@@ -416,7 +417,7 @@
             else if (ht) ht.state.dry = 0;
             st.T += (st.heatW * dt) / (4186 * m);
           }
-          st.T += -(pr.ins ? 0.00004 : 0.0004) * (st.T - 20) * dt; // insulated tanks lose heat 10x slower
+          st.T += -(pr.ins ? 0.00004 : 0.0004) * Math.cbrt(300 / vol) * (st.T - 20) * dt; // insulated tanks lose heat 10x slower; bigger tanks have less wall per litre
           if (+pr.jkt > 0 && st.v > 0.1 * vol && st.T < +pr.jkt) st.T = Math.min(+pr.jkt, st.T + 0.08 * dt); // steam jacket holds the set temperature
           st.T = clamp(st.T, 0, 99);
           st.lvl = 100 * st.v / vol;
@@ -511,7 +512,7 @@
       if (u.type === 'RO' && running && (st.qp || 0) + (st.qr || 0) > 0.001) {
         if ((st.pin || 0) < 2.5) out.push(['warn', u.tag, E('Feed pressure below about 2.5 bar: almost no permeate.', 'ضغط الدخول أقل من 2.5 بار تقريبا: مفيش مية نقية تقريبا.')]);
         if ((st.rec || 0) > (st.wf ? 90 : 80) && !(EL.water && EL.water.sanit && EL.water.sanit(pl))) out.push(['bad', u.tag, E('Recovery too high: salts scale the membrane. Open the reject valve.', 'الاسترجاع عالي قوي: الأملاح بتترسب على الممبرين. افتح محبس الريجكت.')]);
-        else if ((st.qr || 0) > 0.001 && (st.rec || 0) < 10) out.push(['warn', u.tag, E('Recovery below 10 %: most of the water goes to drain.', 'الاسترجاع أقل من 10%: معظم المية رايحة للصرف.')]);
+        else if ((st.qr || 0) > 0.001 && (st.rec || 0) < 10 && !(EL.water && EL.water.cycFlag && EL.water.cycFlag(pl, 'FF'))) out.push(['warn', u.tag, E('Recovery below 10 %: most of the water goes to drain.', 'الاسترجاع أقل من 10%: معظم المية رايحة للصرف.')]);
         if (pr.hot && (st.Tf || 20) > 88) out.push(['bad', u.tag, E('Feed water above 88 °C: even a hot-water sanitisable membrane is damaged.', 'مية الدخول فوق 88 درجة: حتى الممبرين اللي بيستحمل التعقيم السخن بيتلف.')]);
         else if (!pr.hot && (st.Tf || 20) > 45) out.push(['bad', u.tag, E('Feed water above 45 °C: a polyamide membrane is damaged. Keep it near 25 °C.', 'مية الدخول فوق 45 درجة: الممبرين البولي أميد بيتلف. خليها حوالي 25 درجة.')]);
       }

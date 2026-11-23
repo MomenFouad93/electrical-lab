@@ -198,13 +198,14 @@
   /* ---------- simulation loop ---------- */
   let last = 0, acc = 0, liveT = 0, saveT = 0;
   B.active = () => (ui.activeEd ? ui.activeEd() : B.ed);
-  function step(ed) {
+  function step(ed, dt) {
     const c = ed.c;
+    dt = dt || EL.TICK;
     EL.instClean(c);
     EL.ctx.mains = ed.mains;
     EL.ctx.extra = EL.instElements(c);
-    const sim = EL.tick(c, EL.TICK, EL.ctx);
-    EL.instUpdate(c, sim, EL.TICK);
+    const sim = EL.tick(c, dt, EL.ctx);
+    EL.instUpdate(c, sim, dt);
     return sim;
   }
   B.step = step;
@@ -216,7 +217,7 @@
       else if (e.type === 'burn') { ui.buzz(500); ui.toast(T(['Burnt: ', 'اتحرق: ']) + (e.tag || '') + (e.msg ? ' (' + e.msg + ')' : ''), 'bad', 7000); }
       else if (e.type === 'fault') ui.toast(T(['Drive fault on ', 'عطل على الانفرتر ']) + (e.tag || '') + ' (' + (e.msg || '') + ')', 'bad');
       else if (e.type === 'fuse') ui.toast(e.msg, 'bad', 7000);
-      else if (e.type === 'alarm') ui.toast(T(['Alarm: ', 'إنذار: ']) + (e.tag || '') + ' (' + (e.msg || '') + ')', 'warn');
+      else if (e.type === 'alarm') ui.toast(T(['Alarm: ', 'إنذار: ']) + (e.tag || '') + ' (' + (e.msg && e.msg.k ? T(e.msg.k) + ': ' + T(e.msg.n) : e.msg || '') + ')', 'warn');
     }
   }
   B.frame = function (now) {
@@ -227,7 +228,8 @@
     if (!B.paused) {
       acc += dt * B.speed;
       const t0 = performance.now(); let n = 0;
-      while (acc >= EL.TICK && n < 40) { sim = step(ed); acc -= EL.TICK; n++; if (performance.now() - t0 > 14) { acc = 0; break; } }
+      const DT = B.speed >= 300 && !ed.c.parts.length ? 1 : EL.TICK; // 300x: process-only projects step 1 s at a time
+      while (acc >= DT && n < 40) { sim = step(ed, DT); acc -= DT; n++; if (performance.now() - t0 > 14) { acc = 0; break; } }
       if (n === 0 && !sim) sim = step(ed);
     }
     handleEvents(ed);
@@ -265,7 +267,7 @@
     function syncPower() { const b = $('#btnPower'); b.classList.toggle('on', ed.mains); b.classList.toggle('off', !ed.mains); b.querySelector('span').textContent = ed.mains ? T(['Supply ON', 'الكهرباء شغالة']) : T(['Supply OFF', 'الكهرباء مفصولة']); }
     ui.onRefresh(syncPower); syncPower();
     $('#btnPause').addEventListener('click', (e) => { B.paused = !B.paused; e.currentTarget.classList.toggle('on', B.paused); });
-    $('#btnSpeed').addEventListener('click', (e) => { const s = [1, 5, 20, 60]; B.speed = s[(s.indexOf(B.speed) + 1) % s.length]; e.currentTarget.textContent = B.speed + 'x'; ui.toast(T(['Simulation speed ', 'سرعة المحاكاة ']) + B.speed + 'x', '', 1500); });
+    $('#btnSpeed').addEventListener('click', (e) => { const s = B.ed.c.parts.length ? [1, 5, 20, 60] : [1, 5, 20, 60, 300]; B.speed = s[(s.indexOf(B.speed) + 1) % s.length]; e.currentTarget.textContent = B.speed + 'x'; ui.toast(T(['Simulation speed ', 'سرعة المحاكاة ']) + B.speed + 'x', '', 1500); });
     $('#btnUndo').addEventListener('click', () => ed.undo()); $('#btnRedo').addEventListener('click', () => ed.redo());
     const vz = (f) => (B.view === 'plant' && ui.plant ? ui.plant.zoom(f) : B.view === 'line' && ui.line ? ui.line.zoom(f) : ed.zoomAt(f));
     $('#btnZin').addEventListener('click', () => vz(1.25)); $('#btnZout').addEventListener('click', () => vz(0.8)); $('#btnFit').addEventListener('click', () => (B.view === 'plant' && ui.plant ? ui.plant.fit() : B.view === 'line' && ui.line ? ui.line.fit() : ed.fit()));

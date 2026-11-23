@@ -70,7 +70,7 @@ main{flex:1;min-height:0;position:relative}
 .tb .sep{width:1px;align-self:stretch;background:var(--edge);margin:0 2px}
 .cvhost{position:relative;flex:1;min-height:0;background:#0a111e}
 svg.cv{position:absolute;inset:0;width:100%;height:100%;touch-action:none;user-select:none;-webkit-user-select:none}
-.statusbar{position:absolute;left:8px;right:8px;bottom:8px;pointer-events:none;display:flex;flex-direction:column;gap:4px;align-items:flex-start}
+.statusbar{position:absolute;left:8px;right:8px;bottom:8px;z-index:6;pointer-events:none;display:flex;flex-direction:column;gap:4px;align-items:flex-start}
 .toast{background:rgba(20,31,51,.94);border:1px solid var(--edge2);border-inline-start:4px solid var(--cyan);padding:6px 10px;border-radius:8px;max-width:min(520px,92%);box-shadow:0 4px 14px rgba(0,0,0,.4);animation:tin .2s}
 .toast.bad{border-inline-start-color:var(--red)}.toast.warn{border-inline-start-color:var(--gold)}.toast.ok{border-inline-start-color:var(--green)}
 @keyframes tin{from{transform:translateY(8px);opacity:0}to{transform:none;opacity:1}}
@@ -609,3 +609,35 @@ table.t td.n{font-family:var(--mono);text-align:end;white-space:nowrap}
 .pr-wrap.compact .pr-drow .pr-k{flex:0 0 auto;width:62px;padding:4px 2px;touch-action:pan-x}
 .pr-wrap.compact .pr-drow .pr-k small{font-size:9.5px;line-height:1.1;display:block;width:100%;max-width:58px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;overflow-wrap:normal}
 .pr-wrap.compact .pr-side .pr-kit,.pr-wrap.compact .pr-side .pr-hand{display:none}.pr-wrap.compact .pr-side h4:first-of-type{display:none}
+/* cycles panel beside the plant */
+.pl-cyc{position:absolute;top:52px;inset-inline-start:8px;width:330px;max-height:calc(100% - 64px);display:flex;flex-direction:column;background:rgba(16,26,45,.96);border:1px solid var(--edge2);border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.35);z-index:4;overflow:hidden}
+.pl-cyc.min{max-height:none}
+.pl-cyc-hd{display:flex;align-items:center;gap:8px;width:100%;padding:9px 12px;background:var(--panel2);border:0;border-bottom:1px solid var(--edge);color:var(--ink);font:inherit;text-align:start;cursor:pointer;min-height:44px}
+.pl-cyc-hd .mute{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pl-cyc-clock{flex:1;font-variant-numeric:tabular-nums;color:var(--gold);font-weight:700}
+.pl-cyc-chev{color:var(--mute)}
+.pl-cyc-hd:focus-visible,.pl-cyc-item:focus-visible{outline:2px solid var(--cyan);outline-offset:-2px}
+.pl-cyc-bd{padding:10px 12px;overflow:auto;display:flex;flex-direction:column;gap:6px}
+.pl-cyc.min .pl-cyc-bd{display:none}
+.pl-cyc-grp{margin-top:6px;font-size:12px;font-weight:700;color:var(--cyan)}
+.pl-cyc-item{display:flex;justify-content:space-between;align-items:center;gap:8px;width:100%;padding:9px 10px;min-height:44px;background:var(--bg2);border:1px solid var(--edge);border-radius:8px;color:var(--ink);font:inherit;text-align:start;cursor:pointer}
+.pl-cyc-item:hover{border-color:var(--cyan)}
+.pl-cyc-item .mute{white-space:nowrap}
+.pl-cyc-title{font-weight:700;font-size:15px}
+.pl-cyc-big{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
+.pl-cyc-big>.ltr{font-size:28px;font-weight:700;font-variant-numeric:tabular-nums;color:var(--gold)}
+.pl-cyc-prog{height:6px;border-radius:3px;background:var(--edge);overflow:hidden}
+.pl-cyc-prog span{display:block;height:100%;width:0;background:var(--green);transition:width .3s}
+.pl-cyc-steps{margin:0;padding-inline-start:20px;display:flex;flex-direction:column;gap:4px}
+.pl-cyc-steps li{display:flex;flex-direction:column;gap:1px;padding:5px 6px;border-radius:6px;line-height:1.35;font-size:13px}
+.pl-cyc-steps li.done{color:var(--mute)}
+.pl-cyc-steps li.done::marker{color:var(--green)}
+.pl-cyc-steps li.now{background:rgba(253,195,0,.1);border-inline-start:3px solid var(--gold)}
+.pl-cyc-spd{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-top:4px}
+.btn.xs{padding:3px 8px;min-height:30px;font-size:12px}
+@media (prefers-reduced-motion:reduce){.pl-cyc-prog span{transition:none}}
+@media (max-width:900px){.pl-cyc{max-height:calc(100% - 64px - 56px)}}
+@media (max-width:700px){
+  .pl-cyc{position:fixed;top:auto;bottom:56px;inset-inline:0;width:auto;max-height:42vh;border-radius:12px 12px 0 0}
+  .pl-cyc-big>.ltr{font-size:24px}
+}

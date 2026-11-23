@@ -126,7 +126,7 @@
   U.TEMP = {
     pre: 'E', name: E('Feed heater / cooler (chilled water and steam)', 'مسخّن / مبرّد الدخول (مية متلجة وبخار)'), w: 120, h: 130,
     info: E('Holds the RO feed at its set temperature with chilled water, so the membranes give a steady flow. During hot sanitisation, low-pressure steam heats the loop to 80 °C.', 'بيثبّت حرارة دخول الـRO على الضبط بالمية المتلجة، عشان الممبرين يدّي فلو ثابت. وقت التعقيم السخن، البخار بيسخّن اللوب لـ80 درجة.'),
-    ports: [['a', 0, 96, 'l'], ['b', 120, 96, 'r']], props: { set: 20, san: 80, kwh: 0, kwc: 0 },
+    ports: [['a', 0, 96, 'l'], ['b', 120, 96, 'r']], props: { set: 20, san: 80, kwh: 0, kwc: 0, mode: '' },
   };
   U.DEG = {
     pre: 'MD', name: E('Membrane degasser (removes CO2)', 'ممبرين إزالة الغازات (بيشيل الـCO2)'), w: 70, h: 170,
@@ -136,7 +136,7 @@
   U.CTRL = {
     pre: 'HMI', name: E('Station control panel (HMI)', 'لوحة تشغيل المحطة (HMI)'), w: 300, h: 170,
     info: E('Start and stop the whole station from here: production (pretreatment and RO), hot sanitisation at 80 °C, and the distribution loop. Pumps in a group follow these buttons and their own level control.', 'شغّل ووقّف المحطة كلها من هنا: الإنتاج (المعالجة الأولية والـRO)، التعقيم السخن على 80 درجة، ولوب التوزيع. الطلمبات اللي في مجموعة بتمشي ورا الزراير دي وورا تحكم المستوى بتاعها.'),
-    ports: [], props: { prod: true, sanit: false, dist: true, hold: 30, stank: '', dclose: '', dopen: '' },
+    ports: [], props: { prod: true, sanit: false, dist: true, hold: 30, stank: '', dclose: '', dopen: '', lsan: false, lhold: 60, ptank: '', drains: '', inlet: '', ffv: '', hp1: '', hp2: '', qin: 3000, qsoft: 1400, qpw: 1000 },
     init(u) { u.state = { held: 0 }; },
   };
   for (const k of ['SOFT', 'DOSE', 'EDI', 'UV', 'STILL', 'DIV', 'QA', 'POU', 'TEMP', 'DEG', 'CTRL']) if (!PL.order.includes(k)) PL.order.splice(PL.order.indexOf('HX'), 0, k);
@@ -180,9 +180,15 @@
   };
   W.ctrl = (pl) => pl.units.find((x) => x.type === 'CTRL') || null;
   W.sanit = (pl) => { const c = W.ctrl(pl); return !!(c && c.props.sanit); };
+  W.lsanit = (pl) => { const c = W.ctrl(pl); return !!(c && c.props.lsan); }; // hot sanitisation of the storage tank and loop
+  W.divHold = (pl) => { const c = W.ctrl(pl); return !!(c && c.state && c.state.cyDiv); }; // a cycle (RO flush) keeps the product away from the storage tank
+  W.cycFlag = (pl, k) => { const c = W.ctrl(pl); return !!(c && c.state && c.state['cy' + k]); };
   X.TEMP = {
     net(u, o) {
-      const pr = u.props, st = u.state, tgt = W.sanit(o.pl) ? +pr.san || 80 : +pr.set || 20, Tin = st.Tin == null ? tgt : st.Tin, q = Math.abs(st.q || 0);
+      const pr = u.props, st = u.state, lp = pr.mode === 'loop', san = lp ? W.lsanit(o.pl) : W.sanit(o.pl);
+      let tgt = san ? +pr.san || 80 : +pr.set || 20;
+      const Tin = st.Tin == null ? tgt : st.Tin, q = Math.abs(st.q || 0);
+      if (lp && !san) tgt = Math.min(Tin, tgt); // the loop exchanger only cools between sanitisations
       let dT = tgt - Tin; // the steam and chilled-water duty limit how fast it can change the temperature
       if (q > 1e-4) { const q1 = q * 1.15; if (+pr.kwh > 0) dT = Math.min(dT, +pr.kwh / (4.186 * q1)); if (+pr.kwc > 0) dT = Math.max(dT, -+pr.kwc / (4.186 * q1)); }
       o.B(o.p('a'), o.p('b'), 40, { u, k: 'temp', Tout: Tin + dT });
@@ -191,7 +197,7 @@
   X.DEG = { net: (u, o) => o.B(o.p('a'), o.p('b'), 40, { u, k: 'deg' }) };
   X.CTRL = { net() {} };
   const q1 = (net, u, k) => net.br.find((x) => x.u === u && x.k === k);
-  X.TEMP.step = (u, s) => { const x = q1(s.net, u, 'temp'), st = u.state; st.q = x ? x.q : 0; st.Tin = s.T('a') == null ? 20 : s.T('a'); st.Tout = x ? x.Tout : null; st.heat = W.sanit(s.pl); st.kw = x ? 4.186 * Math.abs(x.q) * ((x.Tout || 0) - st.Tin) : 0; };
+  X.TEMP.step = (u, s) => { const x = q1(s.net, u, 'temp'), st = u.state; st.q = x ? x.q : 0; st.Tin = s.T('a') == null ? 20 : s.T('a'); st.Tout = x ? x.Tout : null; st.heat = u.props.mode === 'loop' ? W.lsanit(s.pl) : W.sanit(s.pl); st.kw = x ? 4.186 * Math.abs(x.q) * ((x.Tout || 0) - st.Tin) : 0; };
   X.DEG.step = (u, s) => { const x = q1(s.net, u, 'deg'); u.state.q = x ? x.q : 0; };
   /* station control: the hot sanitisation sequence (heat, hold, cool down) */
   X.CTRL.step = (u, s) => {
@@ -211,8 +217,20 @@
       if (T >= W.sanT(pl) - 3) st.held = (st.held || 0) + s.dt;
       if (st.held >= Math.max(1, +pr.hold || 30) * 60) { pr.sanit = false; st.was = 0; st.done = 1; st.doneT = 0; shut(false); EL.emit('alarm', { id: u.id, tag: u.tag }, 'Hot sanitisation complete: cooling down'); }
     }
+    // hot sanitisation of the storage tank and its loop: production stops, the loop exchanger heats with steam
+    if (pr.lsan && !st.lwas) { st.lwas = 1; st.lheld = 0; st.ldone = 0; EL.emit('alarm', { id: u.id, tag: u.tag }, 'Loop hot sanitisation started: heating to ' + W.lsanT(pl) + ' °C'); }
+    if (!pr.lsan && st.lwas) st.lwas = 0;
+    if (st.ldone) st.ldoneT = (st.ldoneT || 0) + s.dt;
+    if (pr.lsan) {
+      const t = pr.ptank ? PL.byTag(pl, pr.ptank) : null, T = t ? (t.state.T == null ? 20 : t.state.T) : 20;
+      st.lT = T;
+      if (T >= W.lsanT(pl) - 5) st.lheld = (st.lheld || 0) + s.dt;
+      if (st.lheld >= Math.max(1, +pr.lhold || 60) * 60) { pr.lsan = false; st.lwas = 0; st.ldone = 1; st.ldoneT = 0; EL.emit('alarm', { id: u.id, tag: u.tag }, 'Loop hot sanitisation complete: cooling down'); }
+    }
+    if (W.cycStep) W.cycStep(u, s);
   };
-  W.sanT = (pl) => { const t = pl.units.find((x) => x.type === 'TEMP'); return t ? +t.props.san || 80 : 80; };
+  W.lsanT = (pl) => { const t = pl.units.find((x) => x.type === 'TEMP' && x.props.mode === 'loop'); return t ? +t.props.san || 80 : 80; };
+  W.sanT = (pl) => { const t = pl.units.find((x) => x.type === 'TEMP' && x.props.mode !== 'loop'); return t ? +t.props.san || 80 : 80; };
   /* buttons on the HMI drawing */
   W.ctrlAct = function (u, act) {
     const pr = u.props;
@@ -294,7 +312,7 @@
         const src = fixed.has(from) ? fixed.get(from) : Wn[from];
         if (!src) continue;
         const w = src.slice();
-        if (x.k && TF[x.k]) TF[x.k](w, x);
+        if (x.k && TF[x.k] && x.q > 0) TF[x.k](w, x); // treatment only acts on forward flow (a reject line running backwards does not concentrate)
         const q = Math.abs(x.q);
         if (!acc[to]) acc[to] = new Float64Array(10);
         for (let j = 0; j < 10; j++) acc[to][j] += q * w[j];
@@ -353,7 +371,10 @@
         const w = wIn('in'), T = PL.tempAt(pl, u.id + '.in'), cond = w ? W.condRaw(w, 25) : 99;
         st.cond = w ? cond : null;
         st.hot = (+pr.tmax > 0 && T > +pr.tmax) || (+pr.tmax > 0 && W.sanit(pl)); // hot water or a sanitisation running: never to the storage tank
-        if (cond > +pr.lim || !w || st.hot) { st.div = 1; st.ok = 0; } else if (Math.abs(st.q || 0) > 1e-4) { st.ok = (st.ok || 0) + DT; if (st.ok >= 120) st.div = 0; }
+        st.hold = W.divHold(pl) ? 1 : 0; // an RO flush: product back to the break tank
+        const flowing = Math.abs(st.q || 0) > 1e-4;
+        st.idle = flowing ? 0 : (st.idle || 0) + DT; // production stopped: the next start rinses to the break tank again
+        if (cond > +pr.lim || !w || st.hot || st.hold || st.idle > 10) { st.div = 1; st.ok = 0; } else if (flowing) { st.ok = (st.ok || 0) + DT; if (st.ok >= 120) st.div = 0; }
         void T;
       }
       if (u.type === 'QA' || u.type === 'POU') { const w = wIn(u.type === 'QA' ? 'a' : 'in'); st.wq = w ? w.slice() : null; }
@@ -366,8 +387,8 @@
     if (!pr.local) return null;
     if (st.trip) return 0;
     let s = clamp(+pr.spd || 0, 0, 100) / 100;
-    const ctl = pr.grp ? W.ctrl(pl) : null, san = !!(ctl && ctl.props.sanit);
-    if (ctl) { const on = pr.grp === 'dist' ? ctl.props.dist : ctl.props.prod || san; if (!on) { st.lstop = 0; return 0; } }
+    const ctl = pr.grp ? W.ctrl(pl) : null, san = !!(ctl && ctl.props.sanit), lsan = !!(ctl && ctl.props.lsan);
+    if (ctl) { const on = pr.grp === 'dist' ? ctl.props.dist || lsan : (ctl.props.prod || san) && !lsan; if (!on) { st.lstop = 0; return 0; } }
     if (pr.stk) { const t = PL.byTag(pl, pr.stk); if (t && t.type === 'TANK') { const lv = 100 * (t.state.v || 0) / Math.max(1, +t.props.vol); if (lv < 10) st.sstop = 1; else if (lv > 20) st.sstop = 0; if (st.sstop) return 0; } }
     if (pr.lvt) {
       const t = PL.byTag(pl, pr.lvt);
@@ -415,7 +436,8 @@
       if (u.type === 'UV' && (!pr.on || +pr.int < 70)) out.push(['warn', u.tag, E('UV lamp off or below 70 % intensity: no disinfection. Change the lamp.', 'لمبة الـUV مطفية أو تحت 70٪: مفيش تعقيم. غيّر اللمبة.')]);
       if (u.type === 'STILL' && pr.steam && st.bad) out.push(['bad', u.tag, E('Still feed has silica above 1 ppm or chlorine: corrosion and scaling. Feed it purified water.', 'دخول المقطّر فيه سيليكا فوق 1 جزء في المليون أو كلور: تآكل وقشور. غذّيه بمية منقاة.')]);
       if (u.type === 'DIV' && st.div && Math.abs(st.q || 0) > 1e-4) {
-        if (st.hot) out.push(['info', u.tag, E('Hot water or sanitisation running: recirculating, not sent to the PW tank.', 'مية سخنة أو تعقيم شغال: بتلف تاني، مش رايحة لتانك الـPW.')]);
+        if (st.hold && !st.hot) out.push(['info', u.tag, E('RO flush running: the product goes back to the break tank.', 'شطف الـRO شغال: المية الخارجة بترجع لتانك الكسر.')]);
+        else if (st.hot) out.push(['info', u.tag, E('Hot water or sanitisation running: recirculating, not sent to the PW tank.', 'مية سخنة أو تعقيم شغال: بتلف تاني، مش رايحة لتانك الـPW.')]);
         else if (st.cond == null || st.cond > +pr.lim) out.push(['warn', u.tag, E('Diverting to drain: conductivity ' + W.fmt(st.cond, 2) + ' µS/cm is above ' + pr.lim + '.', 'بيحوّل على الصرف: الكونداكتيفيتي ' + W.fmt(st.cond, 2) + ' ميكروسيمنز فوق ' + pr.lim + '.')]);
         else out.push(['info', u.tag, E('Water is good again: back to the tank after 2 minutes in spec (' + Math.round(st.ok || 0) + ' s).', 'المية رجعت كويسة: هترجع للتانك بعد دقيقتين جوه المواصفات (' + Math.round(st.ok || 0) + ' ث).')]);
       }

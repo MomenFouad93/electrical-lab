@@ -1,0 +1,521 @@
+#4439
+Arrêtez la production et la boucle, attendez l'arrêt des pompes
+Pare a produção e o loop, aguarde as bombas pararem
+停止生产和回路，等待泵停止
+Остановите производство и контур, дождитесь остановки насосов
+Zatrzymaj produkcję i pętlę, poczekaj na zatrzymanie pomp
+Állítsa le a termelést és a kört, várja meg, amíg a szivattyúk leállnak
+Pare la producción y el lazo, espere a que se paren las bombas
+
+#4440
+Arrêtez la production (la boucle continue depuis la cuve PW)
+Pare a produção (o loop continua rodando a partir do tanque de PW)
+停止生产（回路继续从 PW 储罐运行）
+Остановите производство (контур продолжает работать от бака PW)
+Zatrzymaj produkcję (pętla dalej pracuje ze zbiornika PW)
+Állítsa le a termelést (a kör tovább megy a PW tartályból)
+Pare la producción (el lazo sigue funcionando desde el tanque de PW)
+
+#4441
+Retour à la pression normale : produit dérivé jusqu'à ce qu'il soit conforme pendant 2 min
+Volta à pressão normal: produto desviado até ficar dentro da especificação por 2 min
+恢复正常压力：产水分流，直到连续 2 min 合格
+Возврат к нормальному давлению: продукт отводится, пока он не будет в норме 2 min
+Powrót do normalnego ciśnienia: produkt odrzucany, aż będzie w specyfikacji przez 2 min
+Vissza a normál nyomásra: a termék elterelve, amíg 2 min-ig specifikáción belül nem marad
+Vuelta a la presión normal: producto desviado hasta que esté en especificación durante 2 min
+
+#4442
+Pompe de boucle en marche, production en automatique
+Bomba do loop ligada, produção em automático
+回路泵运行，生产处于自动
+Насос контура включён, производство в автоматическом режиме
+Pompa pętli włączona, produkcja w trybie automatycznym
+Körszivattyú bekapcsolva, termelés automatikus módban
+Bomba del lazo en marcha, producción en automático
+
+#4445
+Démarrage à vide (remplissage complet)
+Partida a partir de vazio (encher até cheio)
+从空开始启动（注满）
+Пуск с пустой станции (заполнение до полного)
+Rozruch od pustej stacji (napełnienie do pełna)
+Indítás üres állapotból (teljes feltöltés)
+Arranque desde vacío (llenar hasta lleno)
+
+#4447
+Démarrez la boucle de distribution et vérifiez le débit de boucle
+Ligue o loop de distribuição e verifique a vazão do loop
+启动分配回路并检查回路流量
+Запустите распределительный контур и проверьте расход в контуре
+Uruchom pętlę dystrybucyjną i sprawdź przepływ w pętli
+Indítsa el az elosztó kört, és ellenőrizze a kör áramlását
+Arranque el lazo de distribución y compruebe el caudal del lazo
+
+#4448
+Vidange de toute la station
+Drenagem de toda a estação
+排空整个水站
+Слив всей станции
+Spust całej stacji
+A teljes állomás leürítése
+Vaciado de toda la estación
+
+#4450
+Fermez les vidanges : la station est vide et arrêtée
+Feche os drenos: a estação está vazia e parada
+关闭排放：水站已排空并停止
+Закройте сливы: станция пуста и остановлена
+Zamknij spusty: stacja jest pusta i zatrzymana
+Zárja el az ürítőket: az állomás üres és leállt
+Cierre los drenajes: la estación está vacía y parada
+
+#4451
+Vidange de la cuve PW et de la boucle seulement
+Drenagem só do tanque de PW e do loop
+仅排空 PW 储罐和回路
+Слив только бака PW и контура
+Spust tylko zbiornika PW i pętli
+Csak a PW tartály és a kör leürítése
+Vaciado solo del tanque de PW y del lazo
+
+#4452
+La production et la boucle s'arrêtent, la vidange de la cuve PW et les points d'utilisation s'ouvrent. Le côté RO garde son eau.
+A produção e o loop param, o dreno do tanque de PW e os pontos de uso abrem. O lado do RO mantém sua água.
+生产和回路停止，PW 储罐排放和各使用点打开。RO 侧保留存水。
+Производство и контур останавливаются, слив бака PW и точки отбора открываются. Сторона RO остаётся с водой.
+Produkcja i pętla stają, spust zbiornika PW i punkty poboru się otwierają. Strona RO zachowuje wodę.
+A termelés és a kör leáll, a PW tartály ürítője és a vételi pontok kinyílnak. Az RO oldal megtartja a vizét.
+La producción y el lazo se paran, el drenaje del tanque de PW y los puntos de uso se abren. El lado de RO conserva su agua.
+
+#4453
+Fermez la vidange et les points d'utilisation
+Feche o dreno e os pontos de uso
+关闭排放和各使用点
+Закройте слив и точки отбора
+Zamknij spust i punkty poboru
+Zárja el az ürítőt és a vételi pontokat
+Cierre el drenaje y los puntos de uso
+
+#4454
+Rinçage de la boucle PW (points d'utilisation)
+Enxágue do loop de PW (pontos de uso)
+冲洗 PW 回路（使用点）
+Промывка контура PW (точки отбора)
+Płukanie pętli PW (punkty poboru)
+A PW kör öblítése (vételi pontok)
+Purga del lazo de PW (puntos de uso)
+
+#4455
+Ouvre chaque point d'utilisation à tour de rôle pendant 3 minutes, boucle en marche. La production remplit la cuve toute seule.
+Abre cada ponto de uso por vez durante 3 minutos com o loop rodando. A produção reabastece o tanque sozinha.
+回路运行时依次打开每个使用点 3 分钟。生产自动补充储罐。
+Поочерёдно открывает каждую точку отбора на 3 минуты при работающем контуре. Производство само пополняет бак.
+Otwiera kolejno każdy punkt poboru na 3 minuty przy pracującej pętli. Produkcja sama uzupełnia zbiornik.
+Sorban minden vételi pontot 3 percre kinyit, járó körrel. A termelés magától újratölti a tartályt.
+Abre cada punto de uso por turno durante 3 minutos con el lazo en marcha. La producción rellena el tanque sola.
+
+#4456
+Terminé : points d'utilisation fermés
+Concluído: pontos de uso fechados
+完成：使用点已关闭
+Готово: точки отбора закрыты
+Gotowe: punkty poboru zamknięte
+Kész: vételi pontok elzárva
+Hecho: puntos de uso cerrados
+
+#4457
+Rinçage rapide RO (basse pression)
+Enxágue rápido do RO (baixa pressão)
+RO 快速冲洗（低压）
+Быстрая промывка RO (низкое давление)
+Szybkie płukanie RO (niskie ciśnienie)
+RO gyorsöblítés (alacsony nyomás)
+Lavado rápido de RO (baja presión)
+
+#4459
+Lavage de toute la station
+Lavagem de toda a estação
+全站清洗
+Промывка всей станции
+Mycie całej stacji
+A teljes állomás mosása
+Lavado de toda la estación
+
+#4460
+Contre-lavage du filtre à sable, régénération de l'adoucisseur, cartouche neuve, rinçage rapide RO, puis rinçage de chaque point d'utilisation. Les durées du prétraitement sont des valeurs typiques (les circuits d'eau de contre-lavage et de saumure ne sont pas dessinés).
+Retrolavagem do filtro de areia, regeneração do abrandador, cartucho novo, enxágue rápido do RO, depois enxágue de cada ponto de uso. Os tempos do pré-tratamento são valores típicos (os caminhos da água de retrolavagem e da salmoura não estão desenhados).
+砂滤器反洗、软化器再生、更换新滤芯、RO 快速冲洗，然后冲洗每个使用点。预处理时间为典型值（反洗水和盐水管路未画出）。
+Обратная промывка песчаного фильтра, регенерация умягчителя, новый картридж, быстрая промывка RO, затем промывка каждой точки отбора. Время предочистки — типовые значения (линии воды обратной промывки и рассола не нарисованы).
+Płukanie wsteczne filtra piaskowego, regeneracja zmiękczacza, nowy wkład, szybkie płukanie RO, potem płukanie każdego punktu poboru. Czasy uzdatniania wstępnego to wartości typowe (drogi wody z płukania wstecznego i solanki nie są narysowane).
+Homokszűrő visszaöblítése, lágyító regenerálása, új betét, RO gyorsöblítés, majd minden vételi pont öblítése. Az előkezelési idők tipikus értékek (a visszaöblítő víz és a sólé útja nincs megrajzolva).
+Contralavado del filtro de arena, regeneración del descalcificador, cartucho nuevo, lavado rápido de RO y luego purga de cada punto de uso. Los tiempos del pretratamiento son valores típicos (los circuitos de agua de contralavado y de salmuera no están dibujados).
+
+#4461
+Terminé : retour en production normale
+Concluído: volta à produção normal
+完成：恢复正常生产
+Готово: возврат к нормальному производству
+Gotowe: powrót do normalnej produkcji
+Kész: vissza a normál termelésre
+Hecho: vuelta a la producción normal
+
+#4462
+Sanitisation à chaud de la RO (passe 1 + 2)
+Sanitização a quente do RO (passe 1 + 2)
+RO 热消毒（第 1 + 2 级）
+Горячая санитизация RO (ступень 1 + 2)
+Sanityzacja na gorąco RO (stopień 1 + 2)
+Az RO forró szanitálása (1 + 2. lépcső)
+Sanitización en caliente de la RO (paso 1 + 2)
+
+#4463
+L'eau chaude recircule dans les deux passes RO et revient à la bâche de rupture, jamais vers la cuve PW. Les estimations de chauffe et de refroidissement sont des bilans d'énergie : m × 4.186 × ΔT / kW.
+A água quente recircula pelos dois passes do RO e volta ao tanque de quebra, nunca ao tanque de PW. As estimativas de aquecimento e resfriamento são balanços de energia: m × 4.186 × ΔT / kW.
+热水在两级 RO 中循环并返回中间水箱，绝不进入 PW 储罐。升温和降温估算基于能量平衡：m × 4.186 × ΔT / kW。
+Горячая вода циркулирует через обе ступени RO и возвращается в разрывной бак, никогда не в бак PW. Оценки нагрева и охлаждения — это энергобалансы: m × 4.186 × ΔT / kW.
+Gorąca woda krąży przez oba stopnie RO i wraca do zbiornika przerywającego, nigdy do zbiornika PW. Szacunki nagrzewania i chłodzenia to bilanse energii: m × 4.186 × ΔT / kW.
+A forró víz mindkét RO lépcsőn át kering, és visszamegy a megszakító tartályba, soha nem a PW tartályba. A felfűtési és lehűtési becslések energiamérlegek: m × 4.186 × ΔT / kW.
+El agua caliente recircula por los dos pasos de RO y vuelve al tanque de rotura, nunca al tanque de PW. Las estimaciones de calentamiento y enfriamiento son balances de energía: m × 4.186 × ΔT / kW.
+
+#4464
+Sanitisation à chaud de la cuve PW et de la boucle
+Sanitização a quente do tanque de PW e do loop
+PW 储罐和回路热消毒
+Горячая санитизация бака PW и контура
+Sanityzacja na gorąco zbiornika PW i pętli
+A PW tartály és a kör forró szanitálása
+Sanitización en caliente del tanque de PW y del lazo
+
+#4465
+La production s'arrête et l'échangeur de boucle chauffe la cuve PW et la boucle à la vapeur, maintient, puis refroidit à l'eau glacée. Les points d'utilisation restent fermés.
+A produção para e o trocador do loop aquece o tanque de PW e o loop com vapor, mantém, depois resfria com água gelada. Os pontos de uso ficam fechados.
+生产停止，回路换热器用蒸汽加热 PW 储罐和回路，保温，然后用冷冻水冷却。使用点保持关闭。
+Производство останавливается, теплообменник контура нагревает бак PW и контур паром, выдерживает, затем охлаждает ледяной водой. Точки отбора остаются закрытыми.
+Produkcja staje, a wymiennik pętli grzeje zbiornik PW i pętlę parą, utrzymuje, potem chłodzi wodą lodową. Punkty poboru pozostają zamknięte.
+A termelés leáll, a kör hőcserélője gőzzel felfűti a PW tartályt és a kört, tartja, majd hűtött vízzel lehűti. A vételi pontok zárva maradnak.
+La producción se para y el intercambiador del lazo calienta el tanque de PW y el lazo con vapor, mantiene y luego enfría con agua helada. Los puntos de uso quedan cerrados.
+
+#4466
+Sanitisation à chaud de toute la station (RO, puis cuve et boucle)
+Sanitização a quente de toda a estação (RO, depois tanque e loop)
+全站热消毒（先 RO，再储罐和回路）
+Горячая санитизация всей станции (RO, затем бак и контур)
+Sanityzacja na gorąco całej stacji (RO, potem zbiornik i pętla)
+A teljes állomás forró szanitálása (RO, majd tartály és kör)
+Sanitización en caliente de toda la estación (RO, luego tanque y lazo)
+
+#4467
+D'abord la sanitisation RO, puis la cuve PW et la boucle. Le cycle le plus long : utilisez 300x.
+Primeiro a sanitização do RO, depois o tanque de PW e o loop. O ciclo mais longo: use 300x.
+先进行 RO 消毒，再进行 PW 储罐和回路消毒。这是最长的循环：使用 300x。
+Сначала санитизация RO, затем бак PW и контур. Самый долгий цикл: используйте 300x.
+Najpierw sanityzacja RO, potem zbiornik PW i pętla. Najdłuższy cykl: użyj 300x.
+Először az RO szanitálása, majd a PW tartály és a kör. A leghosszabb ciklus: használja a 300x sebességet.
+Primero la sanitización de RO, luego el tanque de PW y el lazo. El ciclo más largo: use 300x.
+
+#4468
+Démarrage et remplissage
+Partida e enchimento
+启动与注水
+Пуск и заполнение
+Rozruch i napełnianie
+Indítás és feltöltés
+Arranque y llenado
+
+#4469
+Lavage et rinçage
+Lavagem e enxágue
+清洗与冲洗
+Мойка и промывка
+Mycie i płukanie
+Mosás és öblítés
+Lavado y purga
+
+#4470
+Sanitisation
+Sanitização
+消毒
+Санитизация
+Sanityzacja
+Szanitálás
+Sanitización
+
+#4471
+Ouvrez "Cycles" à gauche : démarrage à vide, vidange complète, lavages et sanitisations, chacun avec ses étapes, un chronomètre en direct et une estimation à comparer. Utilisez 300x pour les longs. Supposés pour les cycles : les vannes de vidange des cuves, l'arrivée de ville XV-RW et l'échangeur de boucle E-PW (90 kW vapeur, 60 kW eau glacée).
+Abra "Ciclos" à esquerda: partida a partir de vazio, drenagem completa, lavagens e sanitizações, cada um com suas etapas, um cronômetro ao vivo e uma estimativa para comparar. Use 300x para os longos. Assumidos para os ciclos: as válvulas de dreno dos tanques, a entrada da rede XV-RW e o trocador do loop E-PW (90 kW vapor, 60 kW água gelada).
+打开左侧的“循环”：从空启动、完全排空、清洗和消毒，每个都有步骤、实时计时和可对比的估算。长循环使用 300x。循环假定配置：储罐排放阀、市政进水阀 XV-RW 和回路换热器 E-PW（90 kW 蒸汽，60 kW 冷冻水）。
+Откройте «Циклы» слева: пуск с пустой станции, полный слив, промывки и санитизации, у каждого свои шаги, живой таймер и оценка для сравнения. Для долгих используйте 300x. Для циклов предполагаются: сливные клапаны баков, ввод городской воды XV-RW и теплообменник контура E-PW (90 kW пар, 60 kW ледяная вода).
+Otwórz „Cykle” po lewej: rozruch od pustej stacji, pełny spust, mycia i sanityzacje, każdy ze swoimi krokami, licznikiem czasu na żywo i szacunkiem do porównania. Do długich użyj 300x. Założone dla cykli: zawory spustowe zbiorników, dopływ miejski XV-RW i wymiennik pętli E-PW (90 kW para, 60 kW woda lodowa).
+Nyissa meg bal oldalt a „Ciklusok” részt: indítás üres állapotból, teljes leürítés, mosások és szanitálások, mindegyik a lépéseivel, élő időmérővel és összehasonlító becsléssel. A hosszúakhoz használja a 300x sebességet. A ciklusokhoz feltételezve: a tartályok ürítőszelepei, az XV-RW városi betáplálás és az E-PW kör hőcserélő (90 kW gőz, 60 kW hűtött víz).
+Abra "Ciclos" a la izquierda: arranque desde vacío, vaciado completo, lavados y sanitizaciones, cada uno con sus pasos, un cronómetro en vivo y una estimación para comparar. Use 300x para los largos. Supuestos para los ciclos: las válvulas de drenaje de los tanques, la entrada de red XV-RW y el intercambiador del lazo E-PW (90 kW vapor, 60 kW agua helada).
+
+#4472
+Cycles
+Ciclos
+循环
+Циклы
+Cykle
+Ciklusok
+Ciclos
+
+#4473
+démarrage, vidange, lavage, sanitisation
+partida, drenagem, lavagem, sanitização
+启动、排空、清洗、消毒
+пуск, слив, промывка, санитизация
+rozruch, spust, mycie, sanityzacja
+indítás, ürítés, mosás, szanitálás
+arranque, vaciado, lavado, sanitización
+
+#4474
+Choisissez un cycle pour voir ses étapes et le temps estimé, puis appuyez sur Démarrer. Les chronomètres tournent en temps simulé : utilisez 300x pour les longs.
+Escolha um ciclo para ver suas etapas e o tempo estimado, depois toque em Iniciar. Os cronômetros usam o tempo simulado: use 300x para os longos.
+选择一个循环查看其步骤和估计时间，然后按“开始”。计时器按模拟时间运行：长循环使用 300x。
+Выберите цикл, чтобы увидеть шаги и оценку времени, затем нажмите «Старт». Таймеры идут по времени симуляции: для долгих используйте 300x.
+Wybierz cykl, aby zobaczyć jego kroki i szacowany czas, potem naciśnij Start. Liczniki działają w czasie symulacji: do długich użyj 300x.
+Válasszon egy ciklust a lépései és a becsült idő megtekintéséhez, majd nyomja meg az Indítás gombot. Az időmérők szimulált időben futnak: a hosszúakhoz használja a 300x sebességet.
+Elija un ciclo para ver sus pasos y el tiempo estimado, luego pulse Iniciar. Los cronómetros usan tiempo simulado: use 300x para los largos.
+
+#4475
+Total estimé
+Total estimado
+估计总时间
+Расчётное общее время
+Szacowany łączny czas
+Becsült összesen
+Total estimado
+
+#4476
+Retour
+Voltar
+返回
+Назад
+Wstecz
+Vissza
+Volver
+
+#4477
+Ce cycle ne peut pas démarrer maintenant.
+Este ciclo não pode iniciar agora.
+此循环现在无法启动。
+Этот цикл сейчас не может запуститься.
+Ten cykl nie może teraz wystartować.
+Ez a ciklus most nem indulhat.
+Este ciclo no puede arrancar ahora.
+
+#4478
+estimation
+estimativa
+估算
+оценка
+szacunek
+becslés
+estimación
+
+#4479
+Cette étape dure beaucoup plus longtemps que son estimation. Vérifiez la liste de contrôle du procédé et les alarmes.
+Esta etapa está demorando muito mais que a estimativa. Verifique a lista de verificação do processo e os alarmes.
+此步骤耗时远超估算。请检查工艺检查清单和报警。
+Этот шаг идёт намного дольше оценки. Проверьте контрольный список процесса и аварийные сигналы.
+Ten krok trwa znacznie dłużej niż szacunek. Sprawdź listę kontrolną procesu i alarmy.
+Ez a lépés jóval tovább tart a becsültnél. Ellenőrizze a folyamat ellenőrzőlistáját és a riasztásokat.
+Este paso está tardando mucho más que su estimación. Revise la lista de comprobación del proceso y las alarmas.
+
+#4480
+Passer l'étape
+Pular etapa
+跳过步骤
+Пропустить шаг
+Pomiń krok
+Lépés kihagyása
+Saltar paso
+
+#4481
+Cycle arrêté
+Ciclo parado
+循环已停止
+Цикл остановлен
+Cykl zatrzymany
+Ciklus leállítva
+Ciclo parado
+
+#4482
+Arrêter le cycle
+Parar ciclo
+停止循环
+Остановить цикл
+Zatrzymaj cykl
+Ciklus leállítása
+Parar ciclo
+
+#4483
+Arrêté avant la fin.
+Parado antes do fim.
+在结束前停止。
+Остановлен до конца.
+Zatrzymany przed końcem.
+A vége előtt leállítva.
+Parado antes del final.
+
+#4484
+Terminé.
+Concluído.
+已完成。
+Завершён.
+Zakończony.
+Befejezve.
+Completado.
+
+#4485
+Durée totale
+Tempo total
+总时间
+Общее время
+Czas łączny
+Teljes idő
+Tiempo total
+
+#4486
+Vapeur (chauffage)
+Vapor (aquecimento)
+蒸汽（加热）
+Пар (нагрев)
+Para (grzanie)
+Gőz (fűtés)
+Vapor (calentamiento)
+
+#4487
+Eau glacée (refroidissement)
+Água gelada (resfriamento)
+冷冻水（冷却）
+Ледяная вода (охлаждение)
+Woda lodowa (chłodzenie)
+Hűtött víz (hűtés)
+Agua helada (enfriamiento)
+
+#4488
+Eau à l'égout
+Água para o dreno
+排放水量
+Вода в слив
+Woda do spustu
+Víz a lefolyóba
+Agua al drenaje
+
+#4489
+Eau des points d'utilisation
+Água dos pontos de uso
+使用点出水
+Вода из точек отбора
+Woda z punktów poboru
+Víz a vételi pontokból
+Agua de los puntos de uso
+
+#4490
+Les estimations sont des calculs à la main (Torricelli, m·4.186·ΔT/kW, volume/débit). Le simulateur compte aussi la friction des tuyauteries, les pertes thermiques et la régulation, donc le vrai chronomètre diffère un peu : cette différence mérite d'être discutée.
+As estimativas são cálculos à mão (Torricelli, m·4.186·ΔT/kW, volume/vazão). O simulador também conta o atrito da tubulação, as perdas de calor e os controles, então o cronômetro real difere um pouco: vale a pena discutir essa diferença.
+估算为手工计算（Torricelli、m·4.186·ΔT/kW、体积/流量）。模拟器还计入管道摩擦、热损失和控制，因此实际计时略有不同：这个差异值得讨论。
+Оценки — это ручные расчёты (Torricelli, m·4.186·ΔT/kW, объём/расход). Симулятор также учитывает трение в трубах, теплопотери и регулирование, поэтому реальный таймер немного отличается: эту разницу стоит обсудить.
+Szacunki to obliczenia ręczne (Torricelli, m·4.186·ΔT/kW, objętość/przepływ). Symulator uwzględnia też tarcie w rurach, straty ciepła i sterowanie, więc rzeczywisty czas trochę się różni: tę różnicę warto omówić.
+A becslések kézi számítások (Torricelli, m·4.186·ΔT/kW, térfogat/áramlás). A szimulátor a csősúrlódást, a hőveszteséget és a szabályozást is számolja, így a valós időmérő kicsit eltér: ezt a különbséget érdemes megbeszélni.
+Las estimaciones son cálculos a mano (Torricelli, m·4.186·ΔT/kW, volumen/caudal). El simulador también cuenta la fricción de las tuberías, las pérdidas de calor y el control, así que el cronómetro real difiere un poco: vale la pena comentar esa diferencia.
+
+#4491
+Fermer le rapport
+Fechar relatório
+关闭报告
+Закрыть отчёт
+Zamknij raport
+Jelentés bezárása
+Cerrar informe
+
+#4492
+Rinçage RO en cours : le produit retourne à la bâche de rupture.
+Enxágue do RO em andamento: o produto volta ao tanque de quebra.
+RO 冲洗进行中：产水返回中间水箱。
+Идёт промывка RO: продукт возвращается в разрывной бак.
+Trwa płukanie RO: produkt wraca do zbiornika przerywającego.
+RO öblítés folyamatban: a termék visszamegy a megszakító tartályba.
+Lavado de RO en marcha: el producto vuelve al tanque de rotura.
+
+#4495
+Rincez {1} pendant 3 min (ouvrir vers l'égout, puis fermer)
+Enxágue {1} por 3 min (abrir para o dreno, depois fechar)
+冲洗 {1} 3 min（打开排放，然后关闭）
+Промойте {1} 3 min (открыть в слив, затем закрыть)
+Przepłucz {1} przez 3 min (otwórz do spustu, potem zamknij)
+{1} öblítése 3 min-ig (nyitás a lefolyóba, majd zárás)
+Purgue {1} durante 3 min (abrir a drenaje y luego cerrar)
+
+#4497
+Chauffez {1} et la boucle RO à {2} °C ({3} kW vapeur)
+Aqueça {1} e o loop do RO a {2} °C ({3} kW de vapor)
+将 {1} 和 RO 回路加热到 {2} °C（{3} kW 蒸汽）
+Нагрейте {1} и контур RO до {2} °C ({3} kW пар)
+Podgrzej {1} i pętlę RO do {2} °C ({3} kW pary)
+Fűtse fel: {1} és az RO kör {2} °C-ra ({3} kW gőz)
+Caliente {1} y el lazo de RO a {2} °C ({3} kW de vapor)
+
+#4501
+Chauffez {1} et la boucle à {2} °C (sortie {3} {4} °C, {5} kW vapeur)
+Aqueça {1} e o loop a {2} °C (saída de {3} {4} °C, {5} kW de vapor)
+将 {1} 和回路加热到 {2} °C（{3} 出口 {4} °C，{5} kW 蒸汽）
+Нагрейте {1} и контур до {2} °C (выход {3} {4} °C, {5} kW пар)
+Podgrzej {1} i pętlę do {2} °C (wylot {3} {4} °C, {5} kW pary)
+Fűtse fel: {1} és a kör {2} °C-ra ({3} kilépő {4} °C, {5} kW gőz)
+Caliente {1} y el lazo a {2} °C (salida de {3} {4} °C, {5} kW de vapor)
+
+#4505
+Production ON : remplissez la cuve d'eau brute {1} depuis l'eau de ville jusqu'à 20 % (la pompe d'alimentation démarre à ce niveau)
+Produção ON: encha o tanque de água bruta {1} com água da rede até 20 % (a bomba de alimentação parte nesse ponto)
+生产 ON：用市政水将原水箱 {1} 注至 20 %（给水泵在此启动）
+Производство ON: наполните бак сырой воды {1} городской водой до 20 % (на этом уровне запускается питательный насос)
+Produkcja ON: napełnij zbiornik wody surowej {1} wodą miejską do 20 % (przy tym poziomie rusza pompa zasilająca)
+Termelés ON: töltse a {1} nyersvíz tartályt városi vízzel 20 %-ig (ott indul a tápszivattyú)
+Producción ON: llene el tanque de agua bruta {1} con agua de red hasta el 20 % (la bomba de alimentación arranca ahí)
+
+#4506
+Prétraitement en marche (filtre, adoucisseur, cartouche) : remplissez la bâche de rupture {1} jusqu'à 20 %
+Pré-tratamento em operação (filtro, abrandador, cartucho): encha o tanque de quebra {1} até 20 %
+预处理运行（过滤器、软化器、滤芯）：将中间水箱 {1} 注至 20 %
+Предочистка работает (фильтр, умягчитель, картридж): наполните разрывной бак {1} до 20 %
+Uzdatnianie wstępne pracuje (filtr, zmiękczacz, wkład): napełnij zbiornik przerywający {1} do 20 %
+Előkezelés üzemel (szűrő, lágyító, betét): töltse a {1} megszakító tartályt 20 %-ig
+Pretratamiento en marcha (filtro, descalcificador, cartucho): llene el tanque de rotura {1} hasta el 20 %
+
+#4507
+Démarrage RO passe 1 et 2 : la première eau retourne vers {1} jusqu'à ce qu'elle soit conforme pendant 2 min
+RO passe 1 e 2 partem: a primeira água volta para {1} até ficar dentro da especificação por 2 min
+RO 第 1 和 2 级启动：初始水返回 {1}，直到连续 2 min 合格
+Пуск RO ступени 1 и 2: первая вода возвращается в {1}, пока не будет в норме 2 min
+Start RO stopień 1 i 2: pierwsza woda wraca do {1}, aż będzie w specyfikacji przez 2 min
+Az RO 1. és 2. lépcső indul: az első víz visszamegy ide: {1}, amíg 2 min-ig specifikáción belül nem marad
+Arrancan los pasos 1 y 2 de RO: la primera agua vuelve a {1} hasta que esté en especificación durante 2 min
+
+#4509
+Fermez l'arrivée d'eau de ville {1}
+Feche a entrada de água da rede {1}
+关闭市政进水 {1}
+Закройте ввод городской воды {1}
+Zamknij dopływ wody miejskiej {1}
+Zárja el a {1} városi víz betáplálást
+Cierre la entrada de agua de red {1}
+
+#4510
+Ouvrez les vidanges de fond : {1}
+Abra os drenos de fundo: {1}
+打开底部排放：{1}
+Откройте донные сливы: {1}
+Otwórz spusty denne: {1}
+Nyissa ki a fenékürítőket: {1}
+Abra los drenajes de fondo: {1}
+
+#4512
+Contre-lavez le filtre à sable {1} (contre-lavage 10 min, rinçage 5 min)
+Faça a retrolavagem do filtro de areia {1} (retrolavagem 10 min, enxágue 5 min)
+反洗砂滤器 {1}（反洗 10 min，漂洗 5 min）
+Обратная промывка песчаного фильтра {1} (обратная промывка 10 min, отмывка 5 min)
+Wykonaj płukanie wsteczne filtra piaskowego {1} (płukanie wsteczne 10 min, płukanie 5 min)
+Visszaöblítés: {1} homokszűrő (visszaöblítés 10 min, öblítés 5 min)
+Contralave el filtro de arena {1} (contralavado 10 min, enjuague 5 min)
