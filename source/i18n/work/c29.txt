@@ -1,0 +1,71 @@
+#4431
+Nouvelle station d'eau Stilmas (PW)
+Nova estação de água Stilmas (PW)
+新 Stilmas 水站 (PW)
+Новая водоподготовительная станция Stilmas (PW)
+Nowa stacja wody Stilmas (PW)
+Új Stilmas vízállomás (PW)
+Nueva estación de agua Stilmas (PW)
+
+#4432
+Station d'eau purifiée RO double passe : eau adoucie via une cartouche 5 µm vers la bâche de rupture TK50A de 300 L, dosage SMBS et NaOH, réchauffeur/refroidisseur E50, RO passe 1 BRO 28 (3 tubes), dégazeur à membrane MD50, RO passe 2 PHRO 24 (2 tubes), vannes de dérivation XV50-27A/B et 1000 L/h de PW vers une cuve de 3 m³ avec boucle UV. Démarrez, arrêtez et faites la sanitisation à chaud depuis le tableau CB2.
+Estação de água purificada RO de dois passes: água abrandada por um cartucho de 5 µm para o tanque de quebra TK50A de 300 L, dosagem de SMBS e NaOH, aquecedor/resfriador E50, RO passe 1 BRO 28 (3 vasos), desgaseificador de membrana MD50, RO passe 2 PHRO 24 (2 vasos), válvulas de desvio XV50-27A/B e 1000 L/h de PW para um tanque de 3 m³ com loop UV. Ligue, desligue e faça a sanitização a quente pelo painel CB2.
+两级 RO 纯化水站：软化水经 5 µm 滤芯进入 300 L 中间水箱 TK50A，SMBS 和 NaOH 加药，E50 加热/冷却器，一级 RO BRO 28（3 个膜壳），膜脱气器 MD50，二级 RO PHRO 24（2 个膜壳），分流阀 XV50-27A/B，1000 L/h 的 PW 进入带 UV 回路的 3 m³ 储罐。在 CB2 柜上启动、停止和热消毒。
+Двухступенчатая станция очищенной воды RO: умягчённая вода через картридж 5 µm в разрывной бак TK50A на 300 L, дозирование SMBS и NaOH, нагреватель/охладитель E50, RO ступень 1 BRO 28 (3 корпуса), мембранный дегазатор MD50, RO ступень 2 PHRO 24 (2 корпуса), отводные клапаны XV50-27A/B и 1000 L/h PW в бак 3 m³ с контуром UV. Пуск, остановка и горячая санитизация с панели CB2.
+Dwustopniowa stacja wody oczyszczonej RO: woda zmiękczona przez wkład 5 µm do zbiornika przerywającego TK50A 300 L, dozowanie SMBS i NaOH, podgrzewacz/chłodnica E50, RO stopień 1 BRO 28 (3 obudowy), odgazowywacz membranowy MD50, RO stopień 2 PHRO 24 (2 obudowy), zawory odrzutu XV50-27A/B i 1000 L/h PW do zbiornika 3 m³ z pętlą UV. Uruchamiaj, zatrzymuj i sanityzuj na gorąco z szafy CB2.
+Kétlépcsős RO tisztított víz állomás: lágyított víz 5 µm-es betéten át a 300 L-es TK50A megszakító tartályba, SMBS és NaOH adagolás, E50 fűtő/hűtő, RO 1. lépcső BRO 28 (3 ház), MD50 membrános gáztalanító, RO 2. lépcső PHRO 24 (2 ház), XV50-27A/B elterelő szelepek és 1000 L/h PW egy 3 m³-es, UV körös tartályba. Indítás, leállítás és forró szanitálás a CB2 szekrényről.
+Estación de agua purificada RO de doble paso: agua descalcificada por un cartucho de 5 µm al tanque de rotura TK50A de 300 L, dosificación de SMBS y NaOH, calentador/enfriador E50, RO paso 1 BRO 28 (3 carcasas), desgasificador de membrana MD50, RO paso 2 PHRO 24 (2 carcasas), válvulas de desvío XV50-27A/B y 1000 L/h de PW a un tanque de 3 m³ con lazo UV. Arranque, pare y sanitice en caliente desde el panel CB2.
+
+#4433
+Lancez en 20x. Lisez la production PW sur FT50-14B (environ 1000 L/h, 17 L/min) et le temps de remplissage de la cuve PW TK-PW de 3 m³. Mettez Production sur OFF sur CB2 et regardez la station s'arrêter.
+Rode em 20x. Leia a produção de PW no FT50-14B (cerca de 1000 L/h, 17 L/min) e o tempo de enchimento do tanque de PW TK-PW de 3 m³. Coloque Produção em OFF no CB2 e veja a estação parar.
+以 20x 运行。在 FT50-14B 上读取 PW 产量（约 1000 L/h，17 L/min）以及 3 m³ PW 储罐 TK-PW 的注满时间。在 CB2 上将生产置为 OFF，观察水站停机。
+Запустите на 20x. Считайте выработку PW на FT50-14B (около 1000 L/h, 17 L/min) и время наполнения бака PW TK-PW на 3 m³. Переведите «Производство» в OFF на CB2 и посмотрите, как станция остановится.
+Uruchom w 20x. Odczytaj produkcję PW na FT50-14B (ok. 1000 L/h, 17 L/min) i czas napełniania zbiornika PW TK-PW 3 m³. Ustaw Produkcję na OFF na CB2 i zobacz, jak stacja się zatrzymuje.
+Futtassa 20x sebességgel. Olvassa le a PW termelést az FT50-14B-n (kb. 1000 L/h, 17 L/min) és a 3 m³-es TK-PW PW tartály töltési idejét. Kapcsolja a Termelést OFF állásba a CB2-n, és figyelje, ahogy az állomás leáll.
+Ejecute a 20x. Lea la producción de PW en FT50-14B (unos 1000 L/h, 17 L/min) y el tiempo de llenado del tanque de PW TK-PW de 3 m³. Ponga Producción en OFF en CB2 y vea cómo se para la estación.
+
+#4434
+Ouvrez POU1, POU2 et POU3 et lisez le temps de vidange de la cuve PW. La production démarre seule quand la cuve descend sous 65 %.
+Abra POU1, POU2 e POU3 e leia o tempo de esvaziamento do tanque de PW. A produção parte sozinha quando o tanque cai abaixo de 65 %.
+打开 POU1、POU2 和 POU3，读取 PW 储罐的排空时间。储罐低于 65 % 时生产自动启动。
+Откройте POU1, POU2 и POU3 и считайте время опорожнения бака PW. Производство запускается само, когда уровень в баке падает ниже 65 %.
+Otwórz POU1, POU2 i POU3 i odczytaj czas opróżniania zbiornika PW. Produkcja startuje sama, gdy zbiornik spadnie poniżej 65 %.
+Nyissa ki a POU1, POU2 és POU3 pontot, és olvassa le a PW tartály ürülési idejét. A termelés magától indul, ha a tartály 65 % alá esik.
+Abra POU1, POU2 y POU3 y lea el tiempo de vaciado del tanque de PW. La producción arranca sola cuando el tanque baja de 65 %.
+
+#4435
+Coupez le dosage SMBS PD67-25 : le chlore atteint BRO-28. Il n'y a pas de filtre à charbon dans cette conception, donc le SMBS et le redoxmètre protègent les membranes.
+Desligue a dosagem de SMBS PD67-25: o cloro chega ao BRO-28. Não há filtro de carvão neste projeto, então o SMBS e o medidor redox protegem as membranas.
+关闭 SMBS 加药 PD67-25：氯到达 BRO-28。本设计没有活性炭过滤器，所以由 SMBS 和氧化还原表保护膜。
+Отключите дозирование SMBS PD67-25: хлор доходит до BRO-28. В этой схеме нет угольного фильтра, поэтому мембраны защищают SMBS и редокс-метр.
+Wyłącz dozowanie SMBS PD67-25: chlor dociera do BRO-28. W tym projekcie nie ma filtra węglowego, więc membrany chronią SMBS i miernik redoks.
+Kapcsolja ki a PD67-25 SMBS adagolást: a klór eléri a BRO-28-at. Ebben a kialakításban nincs szénszűrő, így az SMBS és a redoxmérő védi a membránokat.
+Apague la dosificación de SMBS PD67-25: el cloro llega a BRO-28. No hay filtro de carbón en este diseño, así que el SMBS y el medidor redox protegen las membranas.
+
+#4436
+Coupez le dégazeur MD50 ou le dosage NaOH PD67-10 : le CO2 passe et la conductivité PW monte. Regardez XV50-27A/B renvoyer l'eau vers la bâche de rupture par XV50-59.
+Desligue o desgaseificador MD50 ou a dosagem de NaOH PD67-10: o CO2 passa e a condutividade da PW sobe. Veja as XV50-27A/B mandarem a água de volta ao tanque de quebra pela XV50-59.
+关闭脱气器 MD50 或 NaOH 加药 PD67-10：CO2 通过，PW 电导率上升。观察 XV50-27A/B 经 XV50-59 将水送回中间水箱。
+Отключите дегазатор MD50 или дозирование NaOH PD67-10: CO2 проходит, и проводимость PW растёт. Посмотрите, как XV50-27A/B возвращают воду в разрывной бак через XV50-59.
+Wyłącz odgazowywacz MD50 lub dozowanie NaOH PD67-10: CO2 przechodzi i przewodność PW rośnie. Zobacz, jak XV50-27A/B zawracają wodę do zbiornika przerywającego przez XV50-59.
+Kapcsolja ki az MD50 gáztalanítót vagy a PD67-10 NaOH adagolást: a CO2 átjut, és a PW vezetőképessége nő. Figyelje, ahogy az XV50-27A/B az XV50-59-en át visszaküldi a vizet a megszakító tartályba.
+Apague el desgasificador MD50 o la dosificación de NaOH PD67-10: el CO2 pasa y la conductividad del PW sube. Vea cómo XV50-27A/B devuelven el agua al tanque de rotura por XV50-59.
+
+#4437
+Appuyez sur "Hot sanit" sur CB2 : XV50-12A vers l'égout se ferme, XV50-13A s'ouvre et E50 chauffe la boucle RO à 80 °C avec 18 kW de vapeur. L'eau chaude retourne à TK50A, jamais à la cuve PW. Lisez le temps de chauffe, le maintien de 30 min et le refroidissement.
+Pressione "Hot sanit" no CB2: a XV50-12A para o dreno fecha, a XV50-13A abre e o E50 aquece o loop do RO a 80 °C com 18 kW de vapor. A água quente volta ao TK50A, nunca ao tanque de PW. Leia o tempo de aquecimento, a retenção de 30 min e o resfriamento.
+在 CB2 上按 "Hot sanit"：通往排水的 XV50-12A 关闭，XV50-13A 打开，E50 用 18 kW 蒸汽将 RO 回路加热到 80 °C。热水回到 TK50A，绝不进入 PW 储罐。读取升温时间、30 min 保持和降温。
+Нажмите "Hot sanit" на CB2: XV50-12A в дренаж закрывается, XV50-13A открывается, и E50 греет контур RO до 80 °C паром 18 kW. Горячая вода возвращается в TK50A, никогда в бак PW. Считайте время нагрева, выдержку 30 min и охлаждение.
+Naciśnij "Hot sanit" na CB2: XV50-12A do odpływu zamyka się, XV50-13A otwiera się, a E50 grzeje pętlę RO do 80 °C parą 18 kW. Gorąca woda wraca do TK50A, nigdy do zbiornika PW. Odczytaj czas nagrzewania, przetrzymanie 30 min i schładzanie.
+Nyomja meg a "Hot sanit" gombot a CB2-n: a lefolyóba vezető XV50-12A zár, az XV50-13A nyit, és az E50 18 kW gőzzel 80 °C-ra fűti az RO kört. A forró víz a TK50A-ba tér vissza, soha nem a PW tartályba. Olvassa le a felfűtési időt, a 30 min tartást és a lehűlést.
+Pulse "Hot sanit" en CB2: XV50-12A a drenaje se cierra, XV50-13A se abre y E50 calienta el lazo de RO a 80 °C con 18 kW de vapor. El agua caliente vuelve a TK50A, nunca al tanque de PW. Lea el tiempo de calentamiento, la retención de 30 min y el enfriamiento.
+
+#4438
+Valeurs supposées : la cuve d'eau brute TK-Z1 de 1 m³ et sa pompe, le filtre STF-SA-20, l'adoucisseur STS-A-80D, la pompe de boucle PW (une paire service / secours sur site, une seule montrée), l'UV, la boucle DN25 avec 3 points d'utilisation, et les limites de dérivation 1.1 µS/cm et 40 °C.
+Valores assumidos: o tanque de água bruta TK-Z1 de 1 m³ e sua bomba, o filtro STF-SA-20, o abrandador STS-A-80D, a bomba do loop de PW (um par operação / reserva no local, uma mostrada), o UV, o loop DN25 com 3 pontos de uso e os limites de desvio 1.1 µS/cm e 40 °C.
+假定值：1 m³ 原水箱 TK-Z1 及其泵、过滤器 STF-SA-20、软化器 STS-A-80D、PW 回路泵（现场为一用一备，此处显示一台）、UV、带 3 个用水点的 DN25 回路，以及分流限值 1.1 µS/cm 和 40 °C。
+Принятые значения: бак исходной воды TK-Z1 на 1 m³ и его насос, фильтр STF-SA-20, умягчитель STS-A-80D, насос контура PW (на объекте пара рабочий / резервный, показан один), UV, контур DN25 с 3 точками отбора и пределы отвода 1.1 µS/cm и 40 °C.
+Wartości przyjęte: zbiornik wody surowej TK-Z1 1 m³ i jego pompa, filtr STF-SA-20, zmiękczacz STS-A-80D, pompa pętli PW (na miejscu para robocza / rezerwowa, pokazana jedna), UV, pętla DN25 z 3 punktami poboru oraz limity odrzutu 1.1 µS/cm i 40 °C.
+Feltételezett értékek: az 1 m³-es TK-Z1 nyersvíz tartály és szivattyúja, az STF-SA-20 szűrő, az STS-A-80D lágyító, a PW kör szivattyúja (a helyszínen üzemi / tartalék pár, egy látható), az UV, a DN25 kör 3 vételi ponttal, valamint az 1.1 µS/cm és 40 °C elterelési határ.
+Valores supuestos: el tanque de agua bruta TK-Z1 de 1 m³ y su bomba, el filtro STF-SA-20, el descalcificador STS-A-80D, la bomba del lazo de PW (un par servicio / reserva en planta, se muestra una), el UV, el lazo DN25 con 3 puntos de uso y los límites de desvío 1.1 µS/cm y 40 °C.
