@@ -117,11 +117,16 @@
     return s;
   };
   D.RO = (u) => {
-    const st = u.state;
-    let s = `<rect x="10" y="22" width="200" height="36" rx="18" fill="#e8eef6" stroke="#8792a5" stroke-width="2"/><rect x="18" y="26" width="184" height="28" rx="14" fill="#cfd9e6"/>` + [0, 1, 2, 3, 4, 5, 6, 7, 8].map((i) => `<line x1="${34 + i * 19}" y1="27" x2="${30 + i * 19}" y2="53" stroke="#9fb0c6"/>`).join('');
-    s += `<rect x="4" y="18" width="10" height="44" rx="3" fill="#465169"/><rect x="206" y="18" width="10" height="44" rx="3" fill="#465169"/>`;
+    const st = u.state, n = Math.max(1, Math.min(6, Math.round(+u.props.ves || 1))), pass = Math.round(+u.props.pass || 0);
+    let s = '';
+    if (n === 1) s += `<rect x="10" y="22" width="200" height="36" rx="18" fill="#e8eef6" stroke="#8792a5" stroke-width="2"/><rect x="18" y="26" width="184" height="28" rx="14" fill="#cfd9e6"/>` + [0, 1, 2, 3, 4, 5, 6, 7, 8].map((i) => `<line x1="${34 + i * 19}" y1="27" x2="${30 + i * 19}" y2="53" stroke="#9fb0c6"/>`).join('');
+    else { // one tube per pressure vessel, fed from a common feed header, permeate and reject headers on the right
+      const hh = 48 / n;
+      for (let i = 0; i < n; i++) { const y = 16 + i * hh, th = Math.max(6, hh - 3); s += `<rect x="18" y="${y.toFixed(1)}" width="184" height="${th.toFixed(1)}" rx="${(th / 2).toFixed(1)}" fill="#dfe7f1" stroke="#8792a5" stroke-width="1.5"/>` + [0, 1, 2, 3, 4, 5, 6].map((k) => `<line x1="${44 + k * 22}" y1="${(y + 2).toFixed(1)}" x2="${40 + k * 22}" y2="${(y + th - 2).toFixed(1)}" stroke="#9fb0c6"/>`).join('') + tx(110, y + th / 2 + 3.5, 'PV' + (i + 1), 'pl-s'); }
+    }
+    s += `<rect x="4" y="14" width="10" height="52" rx="3" fill="#465169"/><rect x="206" y="14" width="10" height="52" rx="3" fill="#465169"/>`;
     s += nozzle(0, 40, 'l', 8) + nozzle(220, 18, 'r', 10) + nozzle(220, 62, 'r', 10);
-    s += tx(110, 14, u.tag + '  RO membrane', 'pl-tag');
+    s += tx(110, -4, u.tag + (pass ? '  RO pass ' + pass : '  RO membrane') + (n > 1 ? ' · ' + n + ' vessels' : ''), 'pl-tag');
     s += tx(110, 76, 'feed ' + f1(st.pin || 0) + ' bar  ' + f1(st.Tf == null ? 20 : st.Tf) + ' °C', 'pl-s');
     s += tx(110, 89, 'permeate ' + lpm(st.qp) + '  reject ' + lpm(st.qr) + ' L/min', 'pl-s');
     s += tx(110, 102, 'recovery ' + Math.round(st.rec || 0) + ' %  ' + (st.us ? (st.us < 10 ? st.us.toFixed(2) : Math.round(st.us)) + ' µS/cm' : ''), 'pl-s');

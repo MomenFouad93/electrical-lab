@@ -146,7 +146,7 @@
   Object.assign(U.VALVE.props, { dn: 0, vt: 'dia' });
   Object.assign(U.PUMP.props, { qbep: 0, hbep: 0, eta: 0.55, local: false, spd: 100, lvt: '', lon: 65, loff: 90, stk: '', psl: 0, grp: '', sanrun: false });
   Object.assign(U.DIV.props, { tmax: 0 });
-  Object.assign(U.RO.props, { mrej: 98.5, area: 1, hot: false });
+  Object.assign(U.RO.props, { mrej: 98.5, area: 1, hot: false, ves: 1, pass: 0 }); // ves / pass: drawing only (pressure vessels in series-parallel, RO pass number)
 
   /* ---------- per-unit network and step ---------- */
   const X = (PL.X = {});

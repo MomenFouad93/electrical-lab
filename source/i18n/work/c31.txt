@@ -249,3 +249,21 @@ Ocultar o painel lateral
 Ukryj panel boczny
 Oldalsáv elrejtése
 Ocultar el panel lateral
+
+#4543
+Tubes de pression (dessin)
+Vasos de pressão (desenho)
+压力容器数量（图示）
+Корпуса мембран (на схеме)
+Obudowy ciśnieniowe (rysunek)
+Nyomástartó csövek (rajz)
+Tubos de presión (dibujo)
+
+#4544
+Passe RO (1 ou 2, 0 = non affiché)
+Passo RO (1 ou 2, 0 = não mostrado)
+RO 级数（1 或 2，0 = 不显示）
+Ступень RO (1 или 2, 0 = не показывать)
+Stopień RO (1 lub 2, 0 = nie pokazuj)
+RO fokozat (1 vagy 2, 0 = nem látszik)
+Paso RO (1 o 2, 0 = no se muestra)
