@@ -35,6 +35,7 @@
     ui.applyStatic();
     for (const t of ui.$$('#tabs .tab')) t.addEventListener('click', () => ui.show(t.dataset.v));
     EL.bench.init();
+    if (ui.panels) ui.panels.init();
     if (ui.plant) ui.plant.init();
     if (ui.line) ui.line.init();
     if (ui.ladder) ui.ladder.init();

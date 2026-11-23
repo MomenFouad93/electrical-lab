@@ -15,7 +15,7 @@
 
   CU.init = function (hostEl) {
     host = hostEl;
-    CU.min = (g.innerWidth || 1000) <= 700; // phones: start as a slim bar so the plant stays visible
+    CU.min = (g.innerWidth || 1000) <= 700 || (g.innerHeight || 800) <= 500; // phones: start as a slim bar so the plant stays visible
     box = h('div', { class: 'pl-cyc', id: 'plCyc', role: 'region', 'aria-label': 'Cycles' });
     hd = h('button', { class: 'pl-cyc-hd', type: 'button', onclick: () => { CU.min = !CU.min; sig = ''; CU.update(true); } });
     bd = h('div', { class: 'pl-cyc-bd' });
@@ -82,22 +82,26 @@
     const same = m0 === lastMode; lastMode = m0;
     requestAnimationFrame(() => { // new view: back to the top; a running cycle keeps its current step in view
       const now = bd.querySelector('li.now');
-      if (now) bd.scrollTop = Math.max(0, now.offsetTop - bd.offsetTop - 120); else bd.scrollTop = same ? keep : 0;
+      const tp = bd.querySelector('.pl-cyc-run');
+      if (now) bd.scrollTop = Math.max(0, now.offsetTop - bd.offsetTop - (tp ? tp.offsetHeight : 0) - 12); else bd.scrollTop = same ? keep : 0;
     });
     const Wt = W(), st = u.state, run = Wt.cycRunning(u);
     hd.innerHTML = '';
-    hd.append(h('b', { text: T(['Cycles', 'الدورات']) }), run ? L('', 'pl-cyc-clock ltr', 'T') : h('span', { class: 'mute sm', text: T(['start-up, drain, wash, sanitise', 'تشغيل، تصفية، غسيل، تعقيم']) }), h('span', { class: 'pl-cyc-chev', 'aria-hidden': 'true', text: CU.min ? '▴' : '▾' }));
+    const nSteps = run ? stepsOf(u, run.id).length : 0;
+    hd.append(h('b', { text: T(['Cycles', 'الدورات']) }), run ? h('span', { class: 'pl-cyc-clock' }, L('', 'ltr', 'T'), h('span', { class: 'pl-cyc-stepn', text: T(['step', 'خطوة']) + ' ' + ((st.cyI || 0) + 1) + '/' + nSteps })) : h('span', { class: 'mute sm', text: T(['start-up, drain, wash, sanitise', 'تشغيل، تصفية، غسيل، تعقيم']) }), h('span', { class: 'pl-cyc-chev', 'aria-hidden': 'true', text: CU.min ? '▴' : '▾' }));
     hd.setAttribute('aria-expanded', CU.min ? 'false' : 'true');
     box.classList.toggle('min', CU.min);
     if (CU.min) return;
     if (run) return buildRun(u, run);
     if (st.cyDone) return buildReport(u);
     if (CU.sel) { const cy = Wt.CYC.find((k) => k.id === CU.sel); if (cy && Wt.cycAvail(C(), u, cy)) return buildDetail(u, cy); CU.sel = null; }
-    bd.appendChild(h('p', { class: 'mute sm', text: T(['Pick a cycle to see its steps and the estimated time, then press Start. Timers run on simulated time: use 300x for the long ones.', 'اختار دورة تشوف خطواتها والوقت المتوقع، وبعدين دوس ابدأ. التايمرات بزمن المحاكاة: استخدم 300x للدورات الطويلة.']) }));
-    for (const gk of Object.keys(Wt.CYGRP)) {
+    const groups = Object.keys(Wt.CYGRP).filter((gk) => Wt.CYC.some((k) => k.grp === gk && Wt.cycAvail(C(), u, k)));
+    if (!groups.includes(CU.grp)) CU.grp = groups[0];
+    const tabs = h('div', { class: 'pl-cyc-tabs', role: 'tablist' });
+    for (const gk of groups) tabs.appendChild(h('button', { class: 'pl-cyc-tab' + (gk === CU.grp ? ' on' : ''), role: 'tab', 'aria-selected': gk === CU.grp ? 'true' : 'false', type: 'button', onclick: () => { CU.grp = gk; sig = ''; CU.update(true); }, text: T(Wt.CYGRP[gk]) }));
+    bd.appendChild(tabs);
+    for (const gk of [CU.grp]) {
       const cs = Wt.CYC.filter((k) => k.grp === gk && Wt.cycAvail(C(), u, k));
-      if (!cs.length) continue;
-      bd.appendChild(h('div', { class: 'pl-cyc-grp', text: T(Wt.CYGRP[gk]) }));
       for (const cy of cs) bd.appendChild(h('button', { class: 'pl-cyc-item', type: 'button', onclick: () => { CU.sel = cy.id; sig = ''; CU.update(true); } }, h('span', { text: T(cy.name) }), L('', 'mute sm ltr', 'e:' + cy.id)));
     }
     bd.appendChild(speedRow());
@@ -113,6 +117,7 @@
       h('button', { class: 'btn pri', onclick: () => start(u, cy), text: '▶ ' + T(['Start', 'ابدأ']) }),
       h('button', { class: 'btn', onclick: () => { CU.sel = null; sig = ''; CU.update(true); }, text: T(['Back', 'رجوع']) })));
     bd.appendChild(speedRow());
+    bd.appendChild(h('p', { class: 'mute sm', text: T(['Timers run on simulated time: use 300x for the long ones.', 'التايمرات بزمن المحاكاة: استخدم 300x للدورات الطويلة.']) }));
   }
   function start(u, cy) {
     const B = EL.bench;
@@ -124,10 +129,18 @@
   }
 
   function buildRun(u, cy) {
-    const st = u.state, steps = stepsOf(u, cy.id);
-    bd.append(h('div', { class: 'pl-cyc-title', text: T(cy.name) }),
+    const st = u.state, steps = stepsOf(u, cy.id), cur = steps[st.cyI || 0];
+    // the running dashboard stays on top while the step list scrolls under it
+    const top = h('div', { class: 'pl-cyc-run' },
+      h('div', { class: 'pl-cyc-title', text: T(cy.name) }),
       h('div', { class: 'pl-cyc-big' }, L('', 'ltr', 'T'), h('span', { class: 'mute sm' }, T(['estimate', 'المتوقع']) + ' ', L('', 'ltr', 'tot'))),
-      h('div', { class: 'pl-cyc-prog' }, L('', '', 'bar')));
+      h('div', { class: 'pl-cyc-prog' }, L('', '', 'bar')),
+      cur ? h('div', { class: 'pl-cyc-cur' }, h('b', { text: T(['Step', 'الخطوة']) + ' ' + ((st.cyI || 0) + 1) + '/' + steps.length }), h('span', { class: 'ltr' }, L('', '', 'Ts'), ' / ≈ ' + dur(st['ce' + (st.cyI || 0)]))) : null,
+      h('div', { class: 'row wrap' },
+        h('button', { class: 'btn sm', onclick: () => { W().cycSkip(u); ui.click(); }, text: '⏭ ' + T(['Skip step', 'تخطّى الخطوة']) }),
+        h('button', { class: 'btn sm bad', onclick: () => { W().cycStop(C(), u); sig = ''; CU.update(true); EL.bench.save(); }, text: '■ ' + T(['Stop cycle', 'وقّف الدورة']) })),
+      speedRow());
+    bd.appendChild(top);
     if (st.cyLate) bd.appendChild(h('p', { class: 'pl-prob warn', text: T(['This step is taking much longer than its estimate. Check the process check list and the alarms.', 'الخطوة دي واخدة وقت أطول بكتير من المتوقع. شوف فحص العملية والإنذارات.']) }));
     const ol = h('ol', { class: 'pl-cyc-steps' });
     steps.forEach((s, i) => {
@@ -138,10 +151,6 @@
       ol.appendChild(h('li', { class: cls, 'aria-current': i === st.cyI ? 'step' : null }, h('span', { text: T(s.n) }), right));
     });
     bd.appendChild(ol);
-    bd.appendChild(h('div', { class: 'row wrap' },
-      h('button', { class: 'btn', onclick: () => { W().cycSkip(u); ui.click(); }, text: '⏭ ' + T(['Skip step', 'تخطّى الخطوة']) }),
-      h('button', { class: 'btn bad', onclick: () => { W().cycStop(C(), u); sig = ''; CU.update(true); EL.bench.save(); }, text: '■ ' + T(['Stop cycle', 'وقّف الدورة']) })));
-    bd.appendChild(speedRow());
   }
 
   function buildReport(u) {

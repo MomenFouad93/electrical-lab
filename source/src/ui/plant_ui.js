@@ -58,11 +58,17 @@
     if (!pl || !pl.units.length || !r.width) { PU.view = { x: 40, y: 40, k: 0.8 }; applyView(); return; }
     let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9;
     for (const u of pl.units) { const d = PL.defs[u.type]; x0 = Math.min(x0, u.x - 20); y0 = Math.min(y0, u.y - 40); x1 = Math.max(x1, u.x + d.w + 110); y1 = Math.max(y1, u.y + d.h + 50); }
-    const phone = r.width < 700;
+    const phone = (g.innerWidth || 1000) <= 700 || (g.innerHeight || 800) <= 500; // the device, not the canvas: a laptop with both columns shown is not a phone
     const cy = $('#plCyc'), side = !phone && cy && cy.style.display !== 'none' && !cy.classList.contains('min') ? cy.offsetWidth + 16 : 0; // leave room for the cycles panel
     const rtl = getComputedStyle(host).direction === 'rtl', W0 = r.width - side;
     let k = Math.max(0.1, Math.min(1.4, Math.min(W0 / (x1 - x0), (r.height - 40) / (y1 - y0)) * 0.95));
-    if (phone && k < 0.07) { const t = pl.units.find((u) => u.type === 'TANK') || pl.units[0]; PU.view.k = 0.55; PU.focus(t, true); return; }
+    if (phone) {
+      // phones: fill the height above the cycles sheet so the drawing stays readable, then pan sideways
+      let bottom = r.height;
+      if (cy && cy.style.display !== 'none') bottom = Math.min(bottom, cy.getBoundingClientRect().top - r.top);
+      const avail = Math.max(120, bottom - 56), kh = Math.min(0.45, (avail - 10) / (y1 - y0));
+      if (kh > k) { PU.view = { k: kh, x: (rtl ? r.width - 10 - x1 * kh : 10 - x0 * kh), y: 52 + (avail - (y1 - y0) * kh) / 2 - y0 * kh }; applyView(); return; }
+    }
     PU.view = { k, x: (rtl ? 0 : side) + (W0 - (x1 - x0) * k) / 2 - x0 * k, y: 40 + (r.height - 40 - (y1 - y0) * k) / 2 - y0 * k };
     applyView();
   };

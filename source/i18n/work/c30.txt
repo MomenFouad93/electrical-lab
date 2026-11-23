@@ -268,15 +268,6 @@ rozruch, spust, mycie, sanityzacja
 indítás, ürítés, mosás, szanitálás
 arranque, vaciado, lavado, sanitización
 
-#4474
-Choisissez un cycle pour voir ses étapes et le temps estimé, puis appuyez sur Démarrer. Les chronomètres tournent en temps simulé : utilisez 300x pour les longs.
-Escolha um ciclo para ver suas etapas e o tempo estimado, depois toque em Iniciar. Os cronômetros usam o tempo simulado: use 300x para os longos.
-选择一个循环查看其步骤和估计时间，然后按“开始”。计时器按模拟时间运行：长循环使用 300x。
-Выберите цикл, чтобы увидеть шаги и оценку времени, затем нажмите «Старт». Таймеры идут по времени симуляции: для долгих используйте 300x.
-Wybierz cykl, aby zobaczyć jego kroki i szacowany czas, potem naciśnij Start. Liczniki działają w czasie symulacji: do długich użyj 300x.
-Válasszon egy ciklust a lépései és a becsült idő megtekintéséhez, majd nyomja meg az Indítás gombot. Az időmérők szimulált időben futnak: a hosszúakhoz használja a 300x sebességet.
-Elija un ciclo para ver sus pasos y el tiempo estimado, luego pulse Iniciar. Los cronómetros usan tiempo simulado: use 300x para los largos.
-
 #4475
 Total estimé
 Total estimado

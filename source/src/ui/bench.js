@@ -161,7 +161,7 @@
     for (const s of ui.$$('#side .spane')) s.classList.toggle('on', s.id === 'pane-' + name);
     if (name === 'meters' && ui.inst) ui.inst.render();
   };
-  B.openPane = (name) => { B.pane(name); if (window.innerWidth <= 900) { $('#side').classList.add('open'); $('#palette').classList.remove('open'); } };
+  B.openPane = (name) => { B.pane(name); if (window.innerWidth > 900 && ui.panels) ui.panels.show('r'); if (window.innerWidth <= 900) { $('#side').classList.add('open'); $('#palette').classList.remove('open'); } };
 
   B.templatesDialog = function () {
     const list = h('div', { class: 'msgs' });

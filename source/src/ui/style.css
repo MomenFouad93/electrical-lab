@@ -641,3 +641,26 @@ table.t td.n{font-family:var(--mono);text-align:end;white-space:nowrap}
   .pl-cyc{position:fixed;top:auto;bottom:56px;inset-inline:0;width:auto;max-height:42vh;border-radius:12px 12px 0 0}
   .pl-cyc-big>.ltr{font-size:24px}
 }
+/* fold the bench side columns away on a laptop */
+.pnl-btn{display:none}
+@media (min-width:901px){
+  .pnl-btn{display:inline-flex;align-items:center;justify-content:center;min-width:36px;padding:4px 8px;color:var(--mute)}
+  .pnl-btn.on{color:var(--cyan);border-color:rgba(71,191,217,.55)}
+  .bench.hideL{grid-template-columns:1fr 350px}
+  .bench.hideR{grid-template-columns:240px 1fr}
+  .bench.hideL.hideR{grid-template-columns:1fr}
+  .bench.hideL>#palette,.bench.hideR>#side{display:none}
+}
+/* cycles panel: group tabs, running dashboard on top */
+.pl-cyc-tabs{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:2px}
+.pl-cyc-tab{flex:1 1 auto;min-height:36px;padding:6px 10px;border-radius:8px;border:1px solid var(--edge);background:var(--bg2);color:var(--mute);font:inherit;font-size:13px;font-weight:700;cursor:pointer;white-space:nowrap}
+.pl-cyc-tab.on{background:var(--cyan);border-color:var(--cyan);color:#0c1423}
+.pl-cyc-tab:focus-visible{outline:2px solid var(--gold);outline-offset:1px}
+.pl-cyc-run{position:sticky;top:-10px;z-index:2;margin:-10px -12px 4px;padding:10px 12px 8px;background:#101a2d;isolation:isolate;border-bottom:1px solid var(--edge);display:flex;flex-direction:column;gap:6px}
+.pl-cyc-cur{display:flex;justify-content:space-between;gap:8px;font-size:13px;color:var(--gold);font-variant-numeric:tabular-nums}
+.pl-cyc-clock{display:flex;align-items:baseline;gap:8px}
+.pl-cyc-clock .ltr{font-size:18px}
+.pl-cyc-stepn{font-size:12px;font-weight:600;color:var(--mute)}
+@media (min-width:901px) and (max-width:1500px){#v-bench .tb{gap:3px;padding:5px 6px}#v-bench .tb .btn{padding:4px 7px;min-height:32px;font-size:12.5px}#v-bench .tb .sep{margin:0 1px}#v-bench .tb #simclock{min-width:0!important}}
+[dir=rtl] .pnl-btn svg{transform:scaleX(-1)}
+@media (max-height:500px){.pl-cyc{max-height:calc(100% - 60px)}.pl-cyc-run{position:static;margin:0 0 4px;padding:0 0 8px}}

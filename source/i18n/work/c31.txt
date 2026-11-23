@@ -195,3 +195,57 @@ Ciclo concluído
 Cykl zakończony
 Ciklus befejezve
 Ciclo completado
+
+#4537
+étape
+etapa
+步骤
+шаг
+krok
+lépés
+paso
+
+#4538
+Les minuteries suivent le temps simulé : utilisez 300x pour les cycles longs.
+Os temporizadores usam o tempo simulado: use 300x para os ciclos longos.
+计时器按模拟时间运行：长循环请用 300x。
+Таймеры идут по времени симуляции: для длинных циклов используйте 300x.
+Liczniki czasu działają w czasie symulacji: przy długich cyklach użyj 300x.
+Az időzítők szimulált időben futnak: a hosszú ciklusokhoz használd a 300x-ot.
+Los temporizadores usan el tiempo simulado: use 300x para los ciclos largos.
+
+#4539
+Afficher la liste des pièces
+Mostrar a lista de peças
+显示零件列表
+Показать список деталей
+Pokaż listę części
+Alkatrészlista megjelenítése
+Mostrar la lista de piezas
+
+#4540
+Masquer la liste des pièces
+Ocultar a lista de peças
+隐藏零件列表
+Скрыть список деталей
+Ukryj listę części
+Alkatrészlista elrejtése
+Ocultar la lista de piezas
+
+#4541
+Afficher le panneau latéral (pièce, appareils de mesure, diagnostic)
+Mostrar o painel lateral (peça, medidores, diagnóstico)
+显示侧边栏（元件、仪表、诊断）
+Показать боковую панель (деталь, приборы, диагностика)
+Pokaż panel boczny (część, mierniki, diagnostyka)
+Oldalsáv megjelenítése (alkatrész, mérőműszerek, diagnosztika)
+Mostrar el panel lateral (pieza, medidores, diagnóstico)
+
+#4542
+Masquer le panneau latéral
+Ocultar o painel lateral
+隐藏侧边栏
+Скрыть боковую панель
+Ukryj panel boczny
+Oldalsáv elrejtése
+Ocultar el panel lateral

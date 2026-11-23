@@ -15,14 +15,15 @@ const { chromium } = require('/opt/npm-tools/node_modules/playwright');
   const S = (n) => p.screenshot({ path: `/tmp/claude-0/shots/cy_${mode}_${n}.png` });
   ok(await p.isVisible('#plCyc'), 'cycles panel visible on the Stilmas plant');
   if (mode === 'm') { ok(!(await p.isVisible('.pl-cyc-item')), 'phone: panel starts as a slim bar'); await p.click('.pl-cyc-hd'); await p.waitForTimeout(300); }
-  const items = await p.$$eval('.pl-cyc-item', (a) => a.map((x) => x.textContent));
-  ok(items.length === 9, '9 cycles listed: ' + items.length);
+  const tabs = await p.$$eval('.pl-cyc-tab', (a) => a.length);
+  let items = 0; for (let i = 0; i < tabs; i++) { await p.click('.pl-cyc-tab >> nth=' + i); await p.waitForTimeout(150); items += await p.$$eval('.pl-cyc-item', (a) => a.length); }
+  ok(tabs === 4 && items === 9, '4 group tabs, 9 cycles listed: ' + tabs + ' / ' + items);
   await S(1);
   // collapse and expand
   await p.click('.pl-cyc-hd'); await p.waitForTimeout(200); ok(!(await p.isVisible('.pl-cyc-item')), 'header collapses the panel');
   await p.click('.pl-cyc-hd'); await p.waitForTimeout(200); ok(await p.isVisible('.pl-cyc-item'), 'header expands it again');
   // drain details
-  await p.click('.pl-cyc-item >> nth=1'); await p.waitForTimeout(300);
+  await p.click('.pl-cyc-tab >> nth=1'); await p.waitForTimeout(200); await p.click('.pl-cyc-item >> nth=0'); await p.waitForTimeout(300);
   const st = await p.$$eval('.pl-cyc-steps li', (a) => a.length); ok(st === 5, 'drain shows 5 steps: ' + st);
   await S(2);
   await p.click('.pl-cyc-bd .btn.pri'); await p.waitForTimeout(300);
@@ -38,12 +39,23 @@ const { chromium } = require('/opt/npm-tools/node_modules/playwright');
   await S(4);
   await p.click('.pl-cyc-bd .btn.pri'); await p.waitForTimeout(300); // close report
   // fill from empty, then stop it half way
-  await p.click('.pl-cyc-item >> nth=0'); await p.waitForTimeout(200); await p.click('.pl-cyc-bd .btn.pri'); await p.waitForTimeout(6000);
+  await p.click('.pl-cyc-tab >> nth=0'); await p.waitForTimeout(200); await p.click('.pl-cyc-item >> nth=0'); await p.waitForTimeout(200); await p.click('.pl-cyc-bd .btn.pri'); await p.waitForTimeout(6000);
   const f = await p.evaluate(() => { const u = EL.water.ctrl(EL.bench.ed.c.plant); return { n: u.state.cyN, i: u.state.cyI }; });
   ok(f.n === 1 && f.i >= 1, 'fill from empty running: ' + JSON.stringify(f));
   await S(5);
   await p.click('.pl-cyc-bd .btn.bad'); await p.waitForTimeout(400);
   ok(/Stopped|اتوقفت/.test(await p.textContent('.pl-cyc-bd')), 'stopping shows the report');
+  // side columns fold away on a laptop and come back
+  if (mode === 'd') {
+    const w0 = await p.evaluate(() => document.querySelector('#plantHost').getBoundingClientRect().width);
+    await p.click('.pnl-btn >> nth=0'); await p.click('.pnl-btn >> nth=1'); await p.waitForTimeout(400);
+    const w1 = await p.evaluate(() => document.querySelector('#plantHost').getBoundingClientRect().width);
+    ok(w1 > w0 + 500 && !(await p.isVisible('#palette')) && !(await p.isVisible('#side')), 'both side columns hidden: plant ' + Math.round(w0) + ' -> ' + Math.round(w1) + ' px');
+    await p.reload(); await p.waitForTimeout(1200);
+    ok(!(await p.isVisible('#palette')) && !(await p.isVisible('#side')), 'hidden columns remembered after reload');
+    await p.click('#btnDiag'); await p.waitForTimeout(400); ok(await p.isVisible('#side'), 'Diagnosis brings the side panel back');
+    await p.click('.pnl-btn >> nth=0'); await p.waitForTimeout(300); ok(await p.isVisible('#palette'), 'parts list shown again');
+  } else ok(!(await p.isVisible('.pnl-btn')), 'phone: no fold buttons (sheets instead)');
   // Arabic
   await p.evaluate(() => { const c = document.querySelector('.pl-cyc-bd .btn.pri'); if (c) c.click(); EL.ui.setLang ? EL.ui.setLang('ar') : null; });
   await p.waitForTimeout(500);
