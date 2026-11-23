@@ -7,6 +7,6 @@ const BUILD = process.env.BUILD || new Date().toISOString().slice(0, 16).replace
 let html = R('src/ui/shell.html');
 html = html.replace('/*CSS*/', () => R('src/ui/style.css')).replace('/*JS*/', () => ('window.EL = window.EL || {}; window.EL.BUILD = ' + JSON.stringify(BUILD) + ';\n' + js).replace(/<\/script/gi, '<\\/script'));
 fs.mkdirSync(path.join(__dirname, 'dist'), { recursive: true });
-if (process.env.PRIVATE) { fs.writeFileSync(path.join(__dirname, 'dist/electrical-lab-private.html'), html); console.log('PRIVATE build (Stilmas project inside): dist/electrical-lab-private.html'); }
+if (process.env.PRIVATE) { fs.writeFileSync(path.join(__dirname, 'dist/electrical-lab-private.html'), html); console.log('PRIVATE build (private project inside): dist/electrical-lab-private.html'); }
 else { fs.writeFileSync(path.join(__dirname, 'dist/electrical-lab.html'), html); fs.writeFileSync(path.join(__dirname, 'dist/build.txt'), BUILD); }
 console.log('built', BUILD, (html.length / 1024).toFixed(0) + ' KB');
