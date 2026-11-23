@@ -58,7 +58,7 @@
     for (const u of pl.units) { const d = PL.defs[u.type]; x0 = Math.min(x0, u.x - 20); y0 = Math.min(y0, u.y - 40); x1 = Math.max(x1, u.x + d.w + 110); y1 = Math.max(y1, u.y + d.h + 50); }
     const phone = r.width < 700;
     let k = Math.max(0.1, Math.min(1.4, Math.min(r.width / (x1 - x0), (r.height - 40) / (y1 - y0)) * 0.95));
-    if (phone && k < 0.12) { const t = pl.units.find((u) => u.type === 'TANK') || pl.units[0]; PU.view.k = 0.55; PU.focus(t, true); return; }
+    if (phone && k < 0.07) { const t = pl.units.find((u) => u.type === 'TANK') || pl.units[0]; PU.view.k = 0.55; PU.focus(t, true); return; }
     PU.view = { k, x: (r.width - (x1 - x0) * k) / 2 - x0 * k, y: 40 + (r.height - 40 - (y1 - y0) * k) / 2 - y0 * k };
     applyView();
   };
@@ -150,7 +150,7 @@
       if (pinch && ptrs.size === 2) { const [a, b] = [...ptrs.values()]; const d = Math.hypot(a.x - b.x, a.y - b.y); PU.zoom((pinch.k * d) / pinch.d / PU.view.k, (a.x + b.x) / 2, (a.y + b.y) / 2); return; }
       if (!g0) return;
       const dx = e.clientX - g0.x, dy = e.clientY - g0.y;
-      if (!g0.moved && Math.hypot(dx, dy) > 7) { g0.moved = true; if (g0.unit && B().ed.mode === 'build') B().ed.push(); }
+      if (!g0.moved && Math.hypot(dx, dy) > (e.pointerType === 'touch' ? 12 : 7)) { g0.moved = true; if (g0.unit && B().ed.mode === 'build') B().ed.push(); }
       if (!g0.moved) return;
       if (g0.port) { const w = toWorld(e.clientX, e.clientY), a = portXY(g0.port); layOver.innerHTML = `<line x1="${a.x}" y1="${a.y}" x2="${w.x}" y2="${w.y}" class="pl-rubber"/>`; return; }
       if (g0.unit && B().ed.mode === 'build') { g0.unit.x = Math.round((g0.ux + dx / PU.view.k) / 10) * 10; g0.unit.y = Math.round((g0.uy + dy / PU.view.k) / 10) * 10; PU.render(true); return; }
@@ -169,7 +169,8 @@
       }
       if (G.moved) { if (G.unit) changed(); return; }
       if (G.unit) {
-        if (G.act === 'toggle' || ((G.unit.type === 'VALVE' || G.unit.type === 'POU') && B().ed.mode === 'test')) toggleValve(G.unit);
+        if (G.unit.type === 'CTRL' && G.act && WT()) { B().ed.push(); const m = WT().ctrlAct(G.unit, G.act); if (m) { ui.click(); ui.toast(G.unit.tag + ': ' + T(m), '', 1800); } changed(); }
+        else if (G.act === 'toggle' || ((G.unit.type === 'VALVE' || G.unit.type === 'POU') && B().ed.mode === 'test')) toggleValve(G.unit);
         select(G.unit.id, null);
       } else if (G.pipe) select(null, G.pipe);
       else { select(null, null); if (PU.pending) { PU.pending = null; hint(); } }
@@ -318,6 +319,10 @@
     local: ['Run without the panel (local VFD)', 'تشتغل من غير اللوحة (انفرتر محلي)'], spd: ['VFD speed (%)', 'سرعة الانفرتر (%)'], lvt: ['Level control: tank', 'تحكم بالمستوى: التانك'], lon: ['Start at level (%)', 'تبدأ عند مستوى (%)'], loff: ['Stop at level (%)', 'تقف عند مستوى (%)'],
     mrej: ['Salt rejection (%)', 'نسبة رفض الأملاح (%)'], area: ['Membrane area (x, number of elements)', 'مساحة الممبرين (x، عدد العناصر)'], cap: ['Resin capacity (m³ of city water)', 'سعة الريزن (م³ مية بلد)'], chem: ['Chemical', 'الكيماوي'],
     int: ['Lamp intensity (%)', 'شدة اللمبة (%)'], nm: ['Wavelength (nm)', 'الطول الموجي (نانومتر)'], steam: ['Steam on', 'البخار شغال'], grade: ['Check against', 'قارنه بـ'], lim: ['Divert above (µS/cm compensated to 25 °C)', 'حوّل فوق (ميكروسيمنز معوّضة على 25 درجة)'], stk: ['Suction tank (stops below 10 %)', 'تانك السحب (تقف تحت 10٪)'], psl: ['Low suction trip (bar, 0 = off)', 'فصل ضغط سحب واطي (بار، 0 = مقفول)'],
+    san: ['Hot sanitisation temperature (°C)', 'حرارة التعقيم السخن (درجة)'], hold: ['Hold at temperature (min)', 'مدة التثبيت على الحرارة (دقيقة)'], stank: ['Tank checked for the temperature', 'التانك اللي بتتقاس حرارته'],
+    prod: ['Production on', 'الإنتاج شغال'], sanit: ['Hot sanitisation running', 'التعقيم السخن شغال'], dist: ['Distribution loop on', 'لوب التوزيع شغال'], grp: ['Station group (HMI)', 'مجموعة المحطة (HMI)'], sanrun: ['Keeps running during hot sanitisation', 'تفضل شغالة وقت التعقيم السخن'],
+    kwh: ['Steam heating duty (kW, 0 = no limit)', 'قدرة التسخين بالبخار (ك.و، 0 = من غير حد)'], kwc: ['Chilled-water cooling duty (kW, 0 = no limit)', 'قدرة التبريد بالمية المتلجة (ك.و، 0 = من غير حد)'], dclose: ['Valves closed during hot sanitisation', 'محابس بتتقفل وقت التعقيم السخن'], dopen: ['Valves opened during hot sanitisation', 'محابس بتتفتح وقت التعقيم السخن'],
+    tmax: ['Divert above temperature (°C, 0 = off)', 'حوّل فوق حرارة (درجة، 0 = مقفول)'], hot: ['Hot-water sanitisable membrane (to 85 °C)', 'ممبرين بيستحمل التعقيم بالمية السخنة (لحد 85 درجة)'], ins: ['Insulated (keeps its heat)', 'معزول (بيحافظ على حرارته)'],
     eff: ['Effectiveness (0-1)', 'الكفاءة (0-1)'], tx: ['Transmitter (panel)', 'الترانسميتر (اللوحة)'], range: ['Range (full scale)', 'المدى (أقصى قراءة)'], sw: ['Switch (panel)', 'السويتش (اللوحة)'], set: ['Set point', 'نقطة الضبط'],
   };
   const LT = PL.linkTypes;
@@ -332,6 +337,8 @@
     dn: (u) => (u.type === 'POU' ? [] : [[0, T(['Old free size (L/min at 1 bar)', 'المقاس القديم (لتر/د عند 1 بار)'])]]).concat(WT().DN.map((d) => [d, 'DN' + d + '  Kv ' + (WT().KV[u.props.vt] || WT().KV.dia)[d]])),
     nm: () => [[254, '254 nm: ' + T(['kills bacteria', 'بيقتل البكتيريا'])], [185, '185 nm: ' + T(['also lowers TOC', 'وكمان بيقلل الـTOC'])]],
     stk: () => ENUM.lvt(),
+    stank: () => ENUM.lvt(),
+    grp: () => [['', T(['(none: own controls)', '(مفيش: تحكمها لوحدها)'])], ['prod', T(['Production', 'الإنتاج'])], ['dist', T(['Distribution loop', 'لوب التوزيع'])]],
     lvt: () => [['', T(['(none)', '(مفيش)'])]].concat((plant() ? plant().units.filter((x) => x.type === 'TANK') : []).map((t) => [t.tag, t.tag + '  ' + t.props.vol + ' L'])),
   };
   PU.inspector = function () {
@@ -398,7 +405,7 @@
       else if (swLink) inp = h('select', { onchange: (e) => pick(e, () => AW.contact(u.type === 'PS' ? 'PRESS' : 'FLOW', u.tag, false)) }, partOpts(u.type === 'PS' ? LT.ps : LT.fs, v));
       else if (ENUM[k] && !(k === 'dn' && u.type === 'POU' && false)) { const ops = ENUM[k](u); inp = h('select', { onchange: (e) => edit(() => { const x = e.target.value; u.props[k] = typeof v === 'number' ? +x : x; }) }, ops.map(([a, b]) => h('option', { value: a, selected: String(a) === String(v) ? true : null, text: b }))); }
       else if (typeof v === 'boolean') inp = h('button', { class: 'btn ' + (v ? 'on' : ''), onclick: () => edit(() => { u.props[k] = !u.props[k]; }), text: v ? T(['Yes', 'أيوه']) : T(['No', 'لأ']) });
-      else if (typeof v === 'number') inp = h('input', { type: 'number', value: v, step: 'any', onchange: (e) => { const x = +e.target.value; if (isFinite(x)) edit(() => { u.props[k] = Math.max(k === 'temp' || k === 't0' ? 0 : k === 'vol' || k === 'hgt' || k === 'range' ? 0.1 : 0, Math.min(k === 'eff' ? 0.95 : ['lvl0', 'rej', 'spd', 'int', 'lon', 'loff', 'mrej', 'fv'].includes(k) ? 100 : 100000, x)); if (u.type === 'TANK' && (k === 'vol')) u.state.v = Math.min(u.state.v, x); }); } });
+      else if (typeof v === 'number') inp = h('input', { type: 'number', value: v, step: 'any', onchange: (e) => { const x = +e.target.value; if (isFinite(x)) edit(() => { u.props[k] = Math.max(k === 'temp' || k === 't0' ? 0 : k === 'vol' || k === 'hgt' || k === 'range' ? 0.1 : 0, Math.min(k === 'eff' ? 0.95 : ['lvl0', 'rej', 'spd', 'int', 'lon', 'loff', 'mrej', 'fv', 'san', 'tmax'].includes(k) ? 100 : 100000, x)); if (u.type === 'TANK' && (k === 'vol')) u.state.v = Math.min(u.state.v, x); }); } });
       else continue;
       card.appendChild(h('label', { class: 'f', text: T(PROPLAB[k] || [k, k]) })); card.appendChild(inp);
     }

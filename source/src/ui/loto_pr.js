@@ -4,6 +4,8 @@
   if (!L || !A || !LB) return;
   const PR = (EL.lotoPractice = { job: 'free', show: true, tool: null, sel: null, iv: null, demo: 0 });
   const $ = (el, id) => el.querySelector('#' + id);
+  PR.isPortrait = () => typeof window !== 'undefined' && (window.innerWidth <= 820 || window.innerHeight <= 500 || (window.innerHeight > window.innerWidth && window.innerWidth < 1000)); // phones in either orientation
+  if (typeof window !== 'undefined') window.addEventListener('resize', () => { const b = document.querySelector('.pr-board'); if (b && b.isConnected && PR.isPortrait() !== PR.portrait && EL.loto && EL.loto.render) EL.loto.render(); });
   const pair = (a, b) => [a, b];
 
   /* ---------- point names and roles ---------- */
@@ -313,12 +315,13 @@
     const lamp = (id, on, col) => set(id, 'fill', on ? col : { lmpL1: '#1f3b27', lmpL2: '#1f3b27', lmpL3: '#1f3b27', lmpN: '#1f3b27', lmpRun: '#1f3b27', lmpPS: '#1f3b27', lmpCyl: '#3a2f12', lmpEst: '#3a1512' }[id]);
     /* plugs */
     const place = (key, hx, sx, sy, col) => {
-      const on = c[key], px = on ? sx : hx, py = on ? sy : 330, pg = $(svg, key);
+      const H = A.HOME, hy = H[key][1], top = H.top;
+      const on = c[key], px = on ? sx : hx, py = on ? sy : hy, pg = $(svg, key);
       pg.setAttribute('transform', `translate(${px} ${py}) scale(${on ? 1.12 : 1})`);
-      const dpath = on ? `M${hx} 184 C ${hx} 150, ${sx + 140} 150, ${sx + 40} ${sy - 30} S ${sx} ${sy - 10} ${sx} ${sy}` : `M${hx} 184 V${py - 12}`;
+      const dpath = on ? (A.portrait ? `M${hx} ${top} C ${hx} ${top + 90}, ${sx} -90, ${sx} 22` : `M${hx} ${top} C ${hx} ${top - 34}, ${sx + 140} ${top - 34}, ${sx + 40} ${sy - 30} S ${sx} ${sy - 10} ${sx} ${sy}`) : `M${hx} ${top} V${py - 12}`; // phones: the cable goes behind the board, not over it
       set('cab' + key.slice(-1), 'd', dpath); set('cab' + key.slice(-1) + 'i', 'd', dpath);
     };
-    place('plugB', 960, 420, 262); place('plugR', 1040, 560, 262);
+    place('plugB', A.HOME.plugB[0], 420, 262); place('plugR', A.HOME.plugR[0], 560, 262);
     lamp('lmpL1', d.red, '#39e46f'); lamp('lmpL2', d.red, '#39e46f'); lamp('lmpL3', d.red, '#39e46f'); lamp('lmpN', d.blue, '#39e46f');
     lamp('lmpRun', d.motor, '#39e46f'); lamp('lmpPS', S.compRun, '#39e46f'); lamp('lmpCyl', S.solC, '#ffb02e'); lamp('lmpEst', S.estop, '#ff3b30');
     set('q1k', 'transform', `rotate(${c.q1 ? 90 : 0} 204 390)`);
@@ -370,18 +373,18 @@
   PR.render = function (root, rerender) {
     if (PR.iv) { clearInterval(PR.iv); PR.iv = null; }
     root.classList.add('wide');
-    const wrap = h('div', { class: 'pr-wrap' });
+    const wrap = h('div', { class: 'pr-wrap' + (PR.isPortrait() ? ' compact' : '') });
     const boardCol = h('div', { class: 'pr-boardcol' });
     const cap = h('div', { class: 'pr-cap' });
     const box = h('div', { class: 'pr-board' });
-    box.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${A.W} ${A.H}" class="prsvg">${A.svg()}</svg>`;
-    const svg = box.firstChild; let zv = null;
-    const focus = (x, y, k) => { if (zv) { if (k === 1) zv.reset(); else zv.focus(x, y, k); } };
-    const chips = h('div', { class: 'pr-focus' });
-    for (const [nmv, x, y, k] of [[['All', 'الكل'], 550, 750, 1], [['Electrical', 'كهرباء'], 450, 680, 1.4], [['Air', 'هوا'], 450, 880, 1.4], [['Water', 'مياه'], 450, 1250, 1.4]]) chips.appendChild(h('button', { class: 'btn sm', onclick: () => focus(x, y, k), text: T(nmv) }));
-    chips.appendChild(h('button', { class: 'btn sm', onclick: () => zv && zv.zoom(1.4), text: '+' })); chips.appendChild(h('button', { class: 'btn sm', onclick: () => zv && zv.zoom(1 / 1.4), text: '−' }));
-    boardCol.appendChild(chips); boardCol.appendChild(cap); boardCol.appendChild(box);
-
+    const portrait = PR.isPortrait();
+    A.layout(portrait); PR.portrait = portrait;
+    const VB = A.VB;
+    box.classList.toggle('portrait', portrait);
+    box.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${VB.x} ${VB.y} ${VB.w} ${VB.h}" class="prsvg" style="aspect-ratio:${VB.w}/${VB.h}">${A.svg()}</svg>`;
+    const svg = box.firstChild;
+    const dock = h('div', { class: 'pr-dock' });
+    boardCol.appendChild(cap); boardCol.appendChild(box); boardCol.appendChild(dock);
     const task = h('div', { class: 'pr-task' }), side = h('div', { class: 'pr-side' });
     const draw = () => {
       paintBoard(svg);
@@ -392,7 +395,7 @@
         const id = PR.sel, sw = stateW(id), p = { g1: S.Pdown, g2: S.Prec, g3: S.Pw, g4: S.Pw }[id];
         cap.appendChild(h('div', { class: 'pr-info' }, h('b', { text: nm(id) + (sw ? ': ' + T(sw) : p != null ? ': \u200E' + p.toFixed(1) + ' bar' : '') + (LKP[id] && lockedAt(id) ? ' (' + T(W.locked) + ')' : '') }), h('span', { text: ' ' + T(CATD[CAT[id]]) })));
       } else cap.appendChild(h('div', { class: 'pr-info mute', text: T(['Tap a part to operate it. Pick a tool from the kit, then tap a part to fit it.', 'دوس على أي جزء عشان تشغّله. اختار أداة من العدة وبعدين دوس على الجزء عشان تركّبها.']) }));
-      renderTask(); renderSide();
+      renderTask(); renderSide(); renderDock();
     };
     const rr = () => draw();
     const pickTool = (id) => { PR.tool = PR.tool === id ? null : id; rr(); };
@@ -418,6 +421,37 @@
           r.trap ? h('p', { class: 'mute', text: T(['The cylinder moved on trapped air during your session.', 'السلندر اتحرك بالهوا المحبوس أثناء التجربة.']) }) : null));
       }
     };
+    const iconOf = (k, sz) => (k === 'key' ? `<svg viewBox="0 0 64 64" width="${sz}" height="${sz}">${A.keyIcon(0, 0, 64)}</svg>` : L.icon(L.dev(k).icon, sz));
+    const nameOf = (k) => (k === 'key' ? T(['Key', 'مفتاح']) : T(L.dev(k).name).split(' (')[0]);
+    /* a kit button: tap to hold it (then tap a part), or drag it onto a part */
+    const toolBtn = (k, sz) => {
+      const b = h('button', { class: 'pr-k' + (PR.tool === k ? ' on' : ''), title: k === 'key' ? '' : T(L.dev(k).name), 'data-k': k }, h('span', { html: iconOf(k, sz) }), h('small', { text: nameOf(k) }));
+      let st = null, ghost = null, noClick = 0;
+      const stop = () => { if (ghost) { ghost.remove(); ghost = null; } st = null; };
+      b.addEventListener('pointerdown', (e) => { st = { x: e.clientX, y: e.clientY, id: e.pointerId, drag: false }; });
+      b.addEventListener('pointermove', (e) => {
+        if (!st || st.id !== e.pointerId) return;
+        const dx = e.clientX - st.x, dy = e.clientY - st.y;
+        if (!st.drag && Math.hypot(dx, dy) > 10 && (Math.abs(dy) > Math.abs(dx) || e.pointerType !== 'touch')) {
+          st.drag = true; try { b.setPointerCapture(e.pointerId); } catch (x) { /* ignore */ }
+          ghost = h('div', { class: 'pr-ghost', html: iconOf(k, 46) }); document.body.appendChild(ghost);
+        }
+        if (st.drag && ghost) { ghost.style.left = (e.clientX - 28) + 'px'; ghost.style.top = (e.clientY - 78) + 'px'; e.preventDefault(); }
+      });
+      b.addEventListener('pointerup', (e) => { if (st && st.drag) { noClick = Date.now(); const x = e.clientX, y = e.clientY; stop(); PR.dropAt(k, x, y); } else stop(); });
+      b.addEventListener('pointercancel', stop);
+      b.addEventListener('click', () => { if (Date.now() - noClick < 600) return; pickTool(k); });
+      return b;
+    };
+    const renderDock = () => {
+      dock.innerHTML = '';
+      if (!PR.portrait) return;
+      const hand = PR.tool === 'key' ? T(['Key', 'مفتاح']) : PR.tool ? nameOf(PR.tool) : T(['Tap a part to switch it. Tools: tap, or drag onto a part.', 'دوس على الجزء يشتغل أو يقف. العدة: دوس أو اسحب للجزء.']);
+      dock.appendChild(h('div', { class: 'pr-dhand' + (PR.tool ? ' on' : '') }, h('span', { text: (PR.tool ? T(['In hand', 'في إيدك']) + ': ' : '') + hand }), PR.tool ? h('button', { class: 'btn sm', onclick: () => { PR.tool = null; rr(); }, text: T(['Put down', 'سيبها']) }) : null));
+      const row = h('div', { class: 'pr-drow' });
+      for (const k of A.KIT) row.appendChild(toolBtn(k, 30));
+      dock.appendChild(row);
+    };
     let statBox = null;
     const updateStat = () => {
       if (!statBox) return; const d = dv(); statBox.innerHTML = '';
@@ -430,20 +464,44 @@
       side.appendChild(h('div', { class: 'pr-hand' }, h('b', { text: T(['In hand', 'في إيدك']) + ': ' }), h('span', { text: hand })));
       if (PR.tool === 'tester') side.appendChild(h('div', { class: 'row', style: { gap: '6px', margin: '6px 0', flexWrap: 'wrap' } }, h('button', { class: 'btn sm', onclick: () => { prove(); rr(); }, text: T(['Prove tester', 'اثبت التستر']) }), h('span', { class: 'mute', text: T(['Tap a yellow test point on the board.', 'دوس على نقطة قياس صفرا في البورد.']) })));
       const kit = h('div', { class: 'pr-kit' });
-      for (const k of A.KIT) kit.appendChild(h('button', { class: 'pr-k' + (PR.tool === k ? ' on' : ''), title: k === 'key' ? '' : T(L.dev(k).name), onclick: () => pickTool(k) },
-        h('span', { html: k === 'key' ? `<svg viewBox="0 0 64 64" width="34" height="34">${A.keyIcon(0, 0, 64)}</svg>` : L.icon(L.dev(k).icon, 34) }),
-        h('small', { text: k === 'key' ? T(['Key', 'مفتاح']) : T(L.dev(k).name).split(' (')[0] })));
+      for (const k of A.KIT) kit.appendChild(toolBtn(k, 34));
       side.appendChild(h('h4', { text: T(['Kit', 'العدة']) })); side.appendChild(kit);
       side.appendChild(h('h4', { text: T(['Log', 'السجل']) }));
       side.appendChild(h('div', { class: 'pr-log' }, ...S.log.slice(0, 7).map((x) => h('div', { class: 'l ' + x.kind, text: x.msg }))));
     };
-    zv = LB.zoomify(svg, { x: 0, y: 0, w: A.W, h: A.H }, { maxZoom: 6, onTap: (e, p, el) => {
+    /* taps: forgiving (nearest part within about 24 px), the board itself never pans or zooms; the page scrolls and zooms */
+    const toSvg = (cx, cy) => { const m = svg.getScreenCTM(); if (!m) return null; const p = svg.createSVGPoint(); p.x = cx; p.y = cy; return p.matrixTransform(m.inverse()); };
+    const nearest = (cx, cy, el) => {
+      const pt = el && el.closest && el.closest('[data-pt]'); if (pt && svg.contains(pt)) return pt.dataset.pt;
+      const q = toSvg(cx, cy); if (!q) return null;
+      const r = svg.getBoundingClientRect(), k = VB.w / Math.max(1, r.width), tol = 24 * k;
+      const ids = Object.keys(A.PT).filter((id) => !/^tp/.test(id) || PR.tool === 'tester');
+      let best = null, bd = 1e9;
+      for (const id of ids) { const p = A.PT[id], d = Math.hypot(p.x - q.x, p.y - q.y) - p.r; if (d < bd) { bd = d; best = id; } }
+      return bd <= tol ? best : null;
+    };
+    const tapAt = (cx, cy, el) => {
       const tl = el && el.closest && el.closest('[data-tool]'); if (tl) { pickTool(tl.dataset.tool); return; }
-      const pt = el && el.closest && el.closest('[data-pt]'); if (!pt) { PR.sel = null; rr(); return; }
-      const id = pt.dataset.pt; PR.sel = id;
-      if (PR.tool) useTool(id); else if (A.PT[id]) operate(id);
+      const id = nearest(cx, cy, el); if (!id) { PR.sel = null; rr(); return; }
+      PR.sel = id;
+      if (PR.tool) useTool(id); else operate(id);
+      ui.click && ui.click();
       rr();
-    } });
+    };
+    let down = null;
+    svg.addEventListener('pointerdown', (e) => { down = { x: e.clientX, y: e.clientY, t: Date.now(), id: e.pointerId }; });
+    svg.addEventListener('pointerup', (e) => {
+      if (!down || down.id !== e.pointerId) return; const d = down; down = null;
+      if (Math.hypot(e.clientX - d.x, e.clientY - d.y) > 16 || Date.now() - d.t > 900) return;
+      tapAt(e.clientX, e.clientY, document.elementFromPoint(e.clientX, e.clientY));
+    });
+    svg.addEventListener('pointercancel', () => { down = null; });
+    /* drag a lock, tag or device from the kit and drop it on a part */
+    PR.dropAt = (tool, cx, cy) => {
+      const el = document.elementFromPoint(cx, cy); if (!el || !svg.contains(el)) return false;
+      const id = nearest(cx, cy, el); if (!id) { ui.toast(['Drop it on a switch, valve or plug.', 'سيبها على سويتش أو محبس أو فيشة.'], 'warn', 1600); return false; }
+      const prev = PR.tool; PR.tool = tool; PR.sel = id; useTool(id); PR.tool = prev === tool ? tool : prev; ui.click && ui.click(); rr(); return true;
+    };
     wrap.appendChild(task); wrap.appendChild(boardCol); wrap.appendChild(side);
     root.appendChild(wrap);
     draw();

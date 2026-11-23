@@ -30,6 +30,18 @@
     pb1: { x: 140, y: 262, s: 44 }, pb2: { x: 268, y: 262, s: 44 }, pb3: { x: 400, y: 379, s: 40 }, pb4: { x: 480, y: 379, s: 40 }, pb5: { x: 560, y: 379, s: 44 }, pb6: { x: 640, y: 379, s: 40 },
   };
 
+  /* layout: landscape keeps the wall column on the right; portrait (phones) moves the wall items
+     into a band above the board so the board fills the screen width */
+  A.layout = function (portrait) {
+    A.portrait = !!portrait;
+    const dx = portrait ? -510 : 0, dy = portrait ? -406 : 0;
+    A.HOME = { plugB: [960 + dx, 330 + dy], plugR: [1040 + dx, 330 + dy], top: 184 + dy };
+    P.plugB.x = A.HOME.plugB[0]; P.plugB.y = A.HOME.plugB[1]; P.plugR.x = A.HOME.plugR[0]; P.plugR.y = A.HOME.plugR[1];
+    A.LK.plugB.x = P.plugB.x; A.LK.plugB.y = P.plugB.y; A.LK.plugR.x = P.plugR.x; A.LK.plugR.y = P.plugR.y;
+    A.VB = portrait ? { x: 10, y: -340, w: 880, h: 1830 } : { x: 0, y: 0, w: 1100, h: 1500 };
+    A.SUP = portrait ? `translate(${dx} ${dy})` : ''; A.PPE = portrait ? 'translate(-870 -880)' : ''; A.LEG = portrait ? 'translate(-260 -1100)' : '';
+  };
+
   /* ---------- small parts ---------- */
   const gauge = (id, cx, cy, r, mx) => {
     let t = '';
@@ -57,6 +69,7 @@
     pins.map(([x, y]) => `<circle cx="${x}" cy="${y}" r="4.2" fill="#d4af37" stroke="#111"/>`).join('') + `<rect x="-4" y="-27" width="8" height="8" rx="2" fill="#d4af37"/></g></g>`;
 
   A.svg = function () {
+    if (!A.HOME) A.layout(false);
     let s = '';
     s += `<defs>
       <pattern id="haz" width="44" height="44" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="44" height="44" fill="#f2c200"/><rect width="22" height="44" fill="#141414"/></pattern>
@@ -69,6 +82,7 @@
       <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
     </defs>`;
     /* wall */
+    if (A.portrait) s += `<rect x="0" y="-360" width="1100" height="380" fill="url(#wall)"/>`;
     s += `<rect x="0" y="0" width="1100" height="1500" fill="url(#wall)"/><g opacity=".18" stroke="#fff">${Array.from({ length: 20 }, (_, i) => `<line x1="880" y1="${i * 78}" x2="1100" y2="${i * 78}"/>`).join('')}</g>`;
     /* board frame and plate */
     s += `<g filter="url(#shd)"><rect x="20" y="20" width="860" height="1460" rx="14" fill="url(#haz)" stroke="#111" stroke-width="4"/></g><rect x="46" y="46" width="808" height="1408" rx="6" fill="url(#yel)" stroke="#111" stroke-width="3"/>`;
@@ -169,13 +183,16 @@
       s += `<g class="kit" data-tool="${k}"><rect x="${x - 4}" y="1372" width="56" height="70" rx="6" fill="transparent"/><path d="M${x + 24} 1372 v10" stroke="#555" stroke-width="3"/>${k === 'key' ? A.keyIcon(x, 1382, 48) : ic(L.dev(k).icon, x, 1382, 48)}</g>`;
     });
 
-    /* ===== WALL: supply box, plugs, PPE ===== */
+    /* ===== WALL: supply box, plugs, PPE (moved above the board in portrait) ===== */
+    const H = A.HOME;
+    s += `<g transform="${A.SUP}">`;
     s += `<rect x="930" y="96" width="140" height="84" rx="8" fill="#e9ecf1" stroke="#555" stroke-width="3" filter="url(#shd)"/><text x="1000" y="128" font-size="15" font-weight="800" text-anchor="middle" fill="#222">SUPPLY</text><text x="1000" y="150" font-size="12" text-anchor="middle" fill="#555">wall outlet box</text><path d="M946 160 h108" stroke="#c62828" stroke-width="4"/><circle cx="950" cy="180" r="4" fill="#444"/><circle cx="1050" cy="180" r="4" fill="#444"/>`;
     s += `<path d="M960 270 q0 -14 0 -22" stroke="#444" stroke-width="3"/><path d="M1040 270 q0 -14 0 -22" stroke="#444" stroke-width="3"/><path d="M946 262 h28 M1026 262 h28" stroke="#555" stroke-width="5" stroke-linecap="round"/>`;
-    s += `<path id="cabB" d="M960 184 V300" fill="none" stroke="#111" stroke-width="12" stroke-linecap="round"/><path id="cabBi" d="M960 184 V300" fill="none" stroke="#2a6fe0" stroke-width="7" stroke-linecap="round"/>`;
-    s += `<path id="cabR" d="M1040 184 V300" fill="none" stroke="#111" stroke-width="12" stroke-linecap="round"/><path id="cabRi" d="M1040 184 V300" fill="none" stroke="#e03a2e" stroke-width="7" stroke-linecap="round"/>`;
+    s += `<g id="plugLabs" font-size="12" font-weight="800" text-anchor="middle" fill="#222"><text x="960" y="392">1-PH 230 V</text><text x="1040" y="392">3-PH 400 V</text></g></g>`;
+    s += `<g pointer-events="none"><path id="cabB" d="M${H.plugB[0]} ${H.top} V${H.plugB[1] - 30}" fill="none" stroke="#111" stroke-width="12" stroke-linecap="round"/><path id="cabBi" d="M${H.plugB[0]} ${H.top} V${H.plugB[1] - 30}" fill="none" stroke="#2a6fe0" stroke-width="7" stroke-linecap="round"/>`;
+    s += `<path id="cabR" d="M${H.plugR[0]} ${H.top} V${H.plugR[1] - 30}" fill="none" stroke="#111" stroke-width="12" stroke-linecap="round"/><path id="cabRi" d="M${H.plugR[0]} ${H.top} V${H.plugR[1] - 30}" fill="none" stroke="#e03a2e" stroke-width="7" stroke-linecap="round"/></g>`;
     s += plug('plugB', '#2a6fe0', '#143e86', [[-12, 7], [12, 7], [0, -10]]) + plug('plugR', '#e03a2e', '#7d1a12', [[-14, 10], [14, 10], [-8, -10], [8, -10]]);
-    s += `<g id="plugLabs" font-size="12" font-weight="800" text-anchor="middle" fill="#222"><text x="960" y="392">1-PH 230 V</text><text x="1040" y="392">3-PH 400 V</text></g>`;
+    s += `<g transform="${A.PPE}">`;
     /* PPE poster */
     s += `<g filter="url(#shd)"><rect x="910" y="560" width="170" height="210" rx="10" fill="#1d5fc6" stroke="#fff" stroke-width="4"/></g><text x="995" y="592" font-size="18" font-weight="900" text-anchor="middle" fill="#fff">WEAR PPE</text>`;
     s += `<g fill="#fff" stroke="none"><path d="M940 650 a22 22 0 0 1 44 0 v6 h-44z"/><rect x="934" y="654" width="56" height="7" rx="3"/>` +
@@ -183,7 +200,10 @@
       `<path d="M944 700 h12 v10 h6 v-10 h6 v12 h6 v-12 h8 v26 a10 10 0 0 1 -10 10 h-18 a10 10 0 0 1 -10 -10z"/>` +
       `<path d="M1020 704 h18 v24 h22 a8 8 0 0 1 0 16 h-40 z"/></g>`;
     s += `<g font-size="11" fill="#fff" text-anchor="middle" font-weight="700"><text x="962" y="680">Helmet</text><text x="1034" y="672">Glasses</text><text x="962" y="758">Gloves</text><text x="1038" y="758">Boots</text></g>`;
+    s += `</g>`;
+    s += `<g transform="${A.LEG}">`;
     s += `<g filter="url(#shd)"><rect x="910" y="800" width="170" height="108" rx="8" fill="#fff" stroke="#c62828" stroke-width="4"/><rect x="910" y="800" width="170" height="30" rx="6" fill="#c62828"/></g><text x="995" y="822" font-size="16" font-weight="900" text-anchor="middle" fill="#fff">LOTO</text><g font-size="13" font-weight="800" fill="#222"><text x="924" y="852">1 Stop</text><text x="924" y="870">2 Isolate</text><text x="924" y="888">3 Lock + tag</text><text x="1008" y="852">4 Release</text><text x="1008" y="870">5 Test</text><text x="1008" y="888">6 Try</text></g>`;
+    s += `</g>`;
 
     /* ===== overlays: test points, lock layers, selection ring ===== */
     s += `<g id="tpn" font-size="14" font-weight="800" fill="#111" pointer-events="none"></g>`;

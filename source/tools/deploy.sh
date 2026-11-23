@@ -10,7 +10,7 @@ NOTE="$NOTE" node tools/pwa.js
 cp -r pwa/. "$REPO"/
 cp dist/electrical-lab.html "$REPO"/electrical-lab.html
 rm -rf "$REPO/source" && mkdir -p "$REPO/source"
-tar --exclude=./dist --exclude=./pwa --exclude=./.git --exclude=./node_modules --exclude='./test/*.png' -cf - . | tar -xf - -C "$REPO/source"
+tar --exclude=./private --exclude=./dist --exclude=./pwa --exclude=./.git --exclude=./node_modules --exclude='./test/*.png' -cf - . | tar -xf - -C "$REPO/source"
 cd "$REPO"
 git add -A
 git -c user.name="Momen Fouad" -c user.email="MomenFouad93@users.noreply.github.com" commit -q -F - <<MSG

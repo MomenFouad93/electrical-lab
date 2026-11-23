@@ -416,7 +416,7 @@
             else if (ht) ht.state.dry = 0;
             st.T += (st.heatW * dt) / (4186 * m);
           }
-          st.T += -0.0004 * (st.T - 20) * dt;
+          st.T += -(pr.ins ? 0.00004 : 0.0004) * (st.T - 20) * dt; // insulated tanks lose heat 10x slower
           if (+pr.jkt > 0 && st.v > 0.1 * vol && st.T < +pr.jkt) st.T = Math.min(+pr.jkt, st.T + 0.08 * dt); // steam jacket holds the set temperature
           st.T = clamp(st.T, 0, 99);
           st.lvl = 100 * st.v / vol;
@@ -510,9 +510,10 @@
       if (u.type === 'FILTER' && (st.dp || 0) > (pr.kind === 'cart' ? 0.6 : 0.8)) out.push(['warn', u.tag, E('Filter is getting blocked (high pressure drop). Backwash or change it.', 'الفلتر بيتسد (فرق ضغط عالي). اعمل باك واش أو غيّره.')]);
       if (u.type === 'RO' && running && (st.qp || 0) + (st.qr || 0) > 0.001) {
         if ((st.pin || 0) < 2.5) out.push(['warn', u.tag, E('Feed pressure below about 2.5 bar: almost no permeate.', 'ضغط الدخول أقل من 2.5 بار تقريبا: مفيش مية نقية تقريبا.')]);
-        if ((st.rec || 0) > (st.wf ? 90 : 80)) out.push(['bad', u.tag, E('Recovery too high: salts scale the membrane. Open the reject valve.', 'الاسترجاع عالي قوي: الأملاح بتترسب على الممبرين. افتح محبس الريجكت.')]);
+        if ((st.rec || 0) > (st.wf ? 90 : 80) && !(EL.water && EL.water.sanit && EL.water.sanit(pl))) out.push(['bad', u.tag, E('Recovery too high: salts scale the membrane. Open the reject valve.', 'الاسترجاع عالي قوي: الأملاح بتترسب على الممبرين. افتح محبس الريجكت.')]);
         else if ((st.qr || 0) > 0.001 && (st.rec || 0) < 10) out.push(['warn', u.tag, E('Recovery below 10 %: most of the water goes to drain.', 'الاسترجاع أقل من 10%: معظم المية رايحة للصرف.')]);
-        if ((st.Tf || 20) > 45) out.push(['bad', u.tag, E('Feed water above 45 °C: a polyamide membrane is damaged. Keep it near 25 °C.', 'مية الدخول فوق 45 درجة: الممبرين البولي أميد بيتلف. خليها حوالي 25 درجة.')]);
+        if (pr.hot && (st.Tf || 20) > 88) out.push(['bad', u.tag, E('Feed water above 88 °C: even a hot-water sanitisable membrane is damaged.', 'مية الدخول فوق 88 درجة: حتى الممبرين اللي بيستحمل التعقيم السخن بيتلف.')]);
+        else if (!pr.hot && (st.Tf || 20) > 45) out.push(['bad', u.tag, E('Feed water above 45 °C: a polyamide membrane is damaged. Keep it near 25 °C.', 'مية الدخول فوق 45 درجة: الممبرين البولي أميد بيتلف. خليها حوالي 25 درجة.')]);
       }
       if (open.length && u.type !== 'TANK' && u.type !== 'JUNC' && u.type !== 'POU') out.push(['info', u.tag, E('Open port: ' + open.join(', '), 'طرف مفتوح: ' + open.join('، '))]);
     }

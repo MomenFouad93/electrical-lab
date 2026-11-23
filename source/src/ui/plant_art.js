@@ -124,7 +124,7 @@
     s += tx(110, 14, u.tag + '  RO membrane', 'pl-tag');
     s += tx(110, 76, 'feed ' + f1(st.pin || 0) + ' bar  ' + f1(st.Tf == null ? 20 : st.Tf) + ' °C', 'pl-s');
     s += tx(110, 89, 'permeate ' + lpm(st.qp) + '  reject ' + lpm(st.qr) + ' L/min', 'pl-s');
-    s += tx(110, 102, 'recovery ' + Math.round(st.rec || 0) + ' %  ' + (st.us ? Math.round(st.us) + ' µS/cm' : ''), 'pl-s');
+    s += tx(110, 102, 'recovery ' + Math.round(st.rec || 0) + ' %  ' + (st.us ? (st.us < 10 ? st.us.toFixed(2) : Math.round(st.us)) + ' µS/cm' : ''), 'pl-s');
     s += tx(214, 10, 'perm', 'pl-s', 'end') + tx(214, 82, 'rej', 'pl-s', 'end');
     return s;
   };

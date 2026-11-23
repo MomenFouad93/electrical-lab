@@ -49,7 +49,7 @@
     let s = `<rect x="0" y="53" width="110" height="14" fill="url(#plMetalV)"/><rect x="48" y="60" width="14" height="40" fill="url(#plMetal)"/>`;
     s += `<g transform="translate(15,16)">${valveBody(!div, div ? '#d5463a' : '#2fb25a')}</g>`;
     s += `<rect x="40" y="6" width="30" height="24" rx="4" fill="#2b3550" stroke="#9aa5b6"/>` + lampDot(55, 18, div, '#ff6b5a');
-    s += tx(55, -2, u.tag + ' divert', 'pl-tag') + tx(55, 118, div ? 'TO DRAIN' : 'to tank', div ? 'pl-bad' : 'pl-ok') + tx(55, 131, st.cond != null ? W.fmt(st.cond, 2) + ' / ' + u.props.lim + ' µS/cm @25°C' : '', 'pl-s');
+    s += tx(55, -2, u.tag + ' divert', 'pl-tag') + tx(55, 118, div ? (st.hot ? 'HOT: DIVERTED' : 'DIVERTED') : 'to tank', div ? 'pl-bad' : 'pl-ok') + tx(55, 131, st.cond != null ? W.fmt(st.cond, 2) + ' / ' + u.props.lim + ' µS/cm @25°C' : '', 'pl-s');
     return s;
   };
   const qaBox = (u, w, T, x, y) => {
@@ -70,5 +70,28 @@
     s += `<path d="M45 58 V74" stroke="#9aa5b6" stroke-width="6"/>` + (open ? `<path d="M45 76 q-4 12 0 22" stroke="#4cc3ff" stroke-width="4" fill="none" class="pl-spill"/>` : '');
     s += tx(45, 90, u.tag + (open ? ' OPEN' : ''), open ? 'pl-ok' : 'pl-tag') + tx(45, 103, open ? lpm(st.q) + ' L/min' : 'closed', 'pl-s');
     return s + (st.wq ? qaBox(u, st.wq, st.T, 45, 118) : '');
+  };
+  D.TEMP = (u) => {
+    const st = u.state, hot = !!st.heat;
+    let s = inlinePipe(120, 96) + `<rect x="22" y="10" width="76" height="76" rx="6" fill="url(#plMetal)" stroke="#5c6677" stroke-width="2"/>`;
+    for (let i = 0; i < 6; i++) s += `<rect x="${30 + i * 11}" y="16" width="6" height="64" fill="${hot ? '#ff9a7a' : '#7fc6ff'}" opacity=".75"/>`;
+    s += tx(60, 4, u.tag + (hot ? ' steam' : ' chilled'), 'pl-tag');
+    return s + tx(60, 122, st.Tout != null && Math.abs(st.q || 0) > 1e-4 ? f1(st.Tin) + ' → ' + f1(st.Tout) + ' °C  ' + Math.round(Math.abs(st.kw || 0)) + ' kW' : 'set ' + (hot ? u.props.san : u.props.set) + ' °C', hot ? 'pl-warn' : 'pl-s');
+  };
+  D.DEG = (u) => {
+    const on = !!u.props.on;
+    let s = `<rect x="14" y="10" width="42" height="150" rx="10" fill="url(#plMetalV)" stroke="#5c6677" stroke-width="2"/>`;
+    for (let i = 0; i < 5; i++) s += `<path d="M${22 + i * 6} 22 V148" stroke="#e8eef7" stroke-width="2" opacity=".7"/>`;
+    s += nozzle(0, 150, 'l', 14) + nozzle(70, 20, 'r', 14);
+    return s + tx(35, 2, u.tag, 'pl-tag') + tx(35, 182, on ? 'CO2 out' : 'air OFF', on ? 'pl-ok' : 'pl-warn');
+  };
+  D.CTRL = (u) => {
+    const pr = u.props, st = u.state, h = Math.round((st.held || 0) / 60), H = Math.max(1, +pr.hold || 30);
+    const mode = pr.sanit ? (h > 0 ? 'SANITISING ' + h + '/' + H + ' min' : 'HEATING to 80 °C ' + (st.T != null ? f1(st.T) : '')) : st.done && (st.doneT || 0) < 1800 ? 'SANIT DONE: cooling ' + (st.T != null ? '' : '') : pr.prod ? 'PRODUCTION' : 'STOPPED';
+    const btn = (act, x, label, on, col) => `<g data-act="${act}" style="cursor:pointer"><rect x="${x}" y="88" width="88" height="56" rx="8" fill="${on ? col : '#2b3550'}" stroke="#c9d1dc" stroke-width="2"/><text x="${x + 44}" y="112" text-anchor="middle" class="pl-tag">${label}</text><text x="${x + 44}" y="132" text-anchor="middle" class="${on ? 'pl-ok' : 'pl-s'}">${on ? 'ON' : 'OFF'}</text></g>`;
+    let s = `<rect x="0" y="0" width="300" height="170" rx="10" fill="#1d2436" stroke="#47BFD9" stroke-width="2"/><rect x="12" y="26" width="276" height="48" rx="4" fill="#c8d5b0"/>`;
+    s += tx(150, 18, u.tag + '  station control', 'pl-tag') + tx(150, 56, mode, 'pl-lcd');
+    s += btn('prod', 12, 'Production', !!pr.prod, '#1f7a3a') + btn('sanit', 106, 'Hot sanit', !!pr.sanit, '#b5452a') + btn('dist', 200, 'Loop', !!pr.dist, '#1f5fa8');
+    return s + tx(150, 162, 'tap a button', 'pl-s');
   };
 })(typeof window !== 'undefined' ? window : globalThis);

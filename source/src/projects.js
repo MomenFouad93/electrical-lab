@@ -4,6 +4,7 @@
   const E = (en, ar) => [en, ar];
   const PJ = (EL.projects = { map: {}, list: [] });
   const add = (id, o) => { PJ.map[id] = o; PJ.list.push(id); };
+  PJ.add = add; // private project files (not in the public build) add themselves here
   const NO = (a) => ({ t: 'NO', a }), NC = (a) => ({ t: 'NC', a }), CMP = (a, op, b) => ({ t: 'CMP', op, a, b }), PAR = (...br) => ({ t: 'PAR', br });
   const COIL = (a) => ({ t: 'COIL', a });
 

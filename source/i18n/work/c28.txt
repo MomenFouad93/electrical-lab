@@ -1,0 +1,314 @@
+#4388
+Touchez un élément pour le commuter. Outils : touchez, ou glissez sur un élément.
+Toque numa peça para acioná-la. Ferramentas: toque ou arraste sobre uma peça.
+点击部件即可切换。工具：点击，或拖到部件上。
+Нажмите на элемент, чтобы переключить его. Инструменты: нажмите или перетащите на элемент.
+Dotknij elementu, aby go przełączyć. Narzędzia: dotknij lub przeciągnij na element.
+Koppintson egy elemre a kapcsoláshoz. Eszközök: koppintás, vagy húzza egy elemre.
+Toque una pieza para conmutarla. Herramientas: toque o arrastre sobre una pieza.
+
+#4389
+Poser
+Soltar
+放下
+Положить
+Odłóż
+Lerakás
+Soltar
+
+#4390
+Déposez-le sur un interrupteur, une vanne ou une prise.
+Solte sobre um interruptor, válvula ou tomada.
+把它放到开关、阀门或插头上。
+Положите его на выключатель, клапан или вилку.
+Upuść go na wyłącznik, zawór lub wtyczkę.
+Ejtse egy kapcsolóra, szelepre vagy dugóra.
+Suéltelo sobre un interruptor, válvula o enchufe.
+
+#4391
+Eau d'alimentation au-dessus de 88 °C : même une membrane sanitisable à l'eau chaude est endommagée.
+Água de alimentação acima de 88 °C: até uma membrana sanitizável com água quente é danificada.
+进水高于 88 °C：即使是可热水消毒的膜也会损坏。
+Питающая вода выше 88 °C: повреждается даже мембрана, допускающая санитацию горячей водой.
+Woda zasilająca powyżej 88 °C: nawet membrana do sanityzacji gorącą wodą ulega uszkodzeniu.
+88 °C feletti tápvíz: még a forróvizes szanitálásra alkalmas membrán is károsodik.
+Agua de alimentación por encima de 88 °C: incluso una membrana sanitizable con agua caliente se daña.
+
+#4400
+Température de sanitisation à chaud (°C)
+Temperatura da sanitização a quente (°C)
+热消毒温度 (°C)
+Температура горячей санитации (°C)
+Temperatura sanityzacji na gorąco (°C)
+Forró szanitálás hőmérséklete (°C)
+Temperatura de sanitización en caliente (°C)
+
+#4401
+Maintien en température (min)
+Tempo na temperatura (min)
+保温时间 (min)
+Выдержка при температуре (min)
+Utrzymanie temperatury (min)
+Tartás hőmérsékleten (min)
+Mantenimiento a temperatura (min)
+
+#4402
+Cuve contrôlée pour la température
+Tanque verificado para a temperatura
+用于检查温度的储罐
+Бак, по которому контролируется температура
+Zbiornik sprawdzany pod kątem temperatury
+A hőmérséklethez figyelt tartály
+Tanque donde se comprueba la temperatura
+
+#4403
+Production en marche
+Produção ligada
+生产开启
+Производство включено
+Produkcja włączona
+Termelés be
+Producción encendida
+
+#4404
+Sanitisation à chaud en cours
+Sanitização a quente em andamento
+热消毒进行中
+Идёт горячая санитация
+Trwa sanityzacja na gorąco
+Forró szanitálás folyamatban
+Sanitización en caliente en curso
+
+#4405
+Boucle de distribution en marche
+Loop de distribuição ligado
+分配回路开启
+Контур распределения включён
+Pętla dystrybucji włączona
+Elosztó kör be
+Lazo de distribución encendido
+
+#4406
+Groupe de station (HMI)
+Grupo da estação (HMI)
+站组 (HMI)
+Группа станции (HMI)
+Grupa stacji (HMI)
+Állomáscsoport (HMI)
+Grupo de estación (HMI)
+
+#4407
+Continue de tourner pendant la sanitisation à chaud
+Continua funcionando durante a sanitização a quente
+热消毒期间保持运行
+Продолжает работать во время горячей санитации
+Pracuje dalej podczas sanityzacji na gorąco
+Forró szanitálás alatt is működik
+Sigue funcionando durante la sanitización en caliente
+
+#4408
+Puissance de chauffe vapeur (kW, 0 = sans limite)
+Potência de aquecimento a vapor (kW, 0 = sem limite)
+蒸汽加热功率 (kW, 0 = 无限制)
+Мощность парового нагрева (kW, 0 = без ограничения)
+Moc grzania parą (kW, 0 = bez limitu)
+Gőzfűtési teljesítmény (kW, 0 = nincs korlát)
+Potencia de calentamiento con vapor (kW, 0 = sin límite)
+
+#4409
+Puissance de refroidissement eau glacée (kW, 0 = sans limite)
+Potência de resfriamento com água gelada (kW, 0 = sem limite)
+冷冻水冷却功率 (kW, 0 = 无限制)
+Мощность охлаждения ледяной водой (kW, 0 = без ограничения)
+Moc chłodzenia wodą lodową (kW, 0 = bez limitu)
+Hűtővizes hűtési teljesítmény (kW, 0 = nincs korlát)
+Potencia de enfriamiento con agua helada (kW, 0 = sin límite)
+
+#4410
+Vannes fermées pendant la sanitisation à chaud
+Válvulas fechadas durante a sanitização a quente
+热消毒期间关闭的阀门
+Клапаны, закрытые во время горячей санитации
+Zawory zamknięte podczas sanityzacji na gorąco
+Forró szanitálás alatt zárt szelepek
+Válvulas cerradas durante la sanitización en caliente
+
+#4411
+Vannes ouvertes pendant la sanitisation à chaud
+Válvulas abertas durante a sanitização a quente
+热消毒期间打开的阀门
+Клапаны, открытые во время горячей санитации
+Zawory otwarte podczas sanityzacji na gorąco
+Forró szanitálás alatt nyitott szelepek
+Válvulas abiertas durante la sanitización en caliente
+
+#4412
+Dériver au-dessus de la température (°C, 0 = désactivé)
+Desviar acima da temperatura (°C, 0 = desligado)
+高于该温度时分流 (°C, 0 = 关闭)
+Сброс выше температуры (°C, 0 = выкл.)
+Odrzut powyżej temperatury (°C, 0 = wył.)
+Elterelés e hőmérséklet felett (°C, 0 = ki)
+Desviar por encima de la temperatura (°C, 0 = apagado)
+
+#4413
+Membrane sanitisable à l'eau chaude (jusqu'à 85 °C)
+Membrana sanitizável com água quente (até 85 °C)
+可热水消毒的膜 (最高 85 °C)
+Мембрана для санитации горячей водой (до 85 °C)
+Membrana do sanityzacji gorącą wodą (do 85 °C)
+Forróvizes szanitálásra alkalmas membrán (85 °C-ig)
+Membrana sanitizable con agua caliente (hasta 85 °C)
+
+#4414
+Isolé (garde sa chaleur)
+Isolado (mantém o calor)
+保温 (保持热量)
+Теплоизолирован (сохраняет тепло)
+Izolowany (trzyma ciepło)
+Szigetelt (megtartja a hőt)
+Aislado (conserva el calor)
+
+#4415
+(aucun : commandes propres)
+(nenhum: controles próprios)
+(无：自身控制)
+(нет: собственное управление)
+(brak: własne sterowanie)
+(nincs: saját vezérlés)
+(ninguno: controles propios)
+
+#4416
+Production
+Produção
+生产
+Производство
+Produkcja
+Termelés
+Producción
+
+#4417
+Boucle de distribution
+Loop de distribuição
+分配回路
+Контур распределения
+Pętla dystrybucji
+Elosztó kör
+Lazo de distribución
+
+#4418
+Réchauffeur / refroidisseur d'alimentation (eau glacée et vapeur)
+Aquecedor / resfriador da alimentação (água gelada e vapor)
+进水加热器 / 冷却器 (冷冻水和蒸汽)
+Подогреватель / охладитель питания (ледяная вода и пар)
+Podgrzewacz / chłodnica zasilania (woda lodowa i para)
+Tápvíz fűtő / hűtő (hűtővíz és gőz)
+Calentador / enfriador de alimentación (agua helada y vapor)
+
+#4419
+Maintient l'alimentation RO à sa température de consigne avec de l'eau glacée, pour que les membranes donnent un débit stable. Pendant la sanitisation à chaud, de la vapeur basse pression chauffe la boucle à 80 °C.
+Mantém a alimentação do RO na temperatura definida com água gelada, para que as membranas deem uma vazão estável. Durante a sanitização a quente, vapor de baixa pressão aquece o loop a 80 °C.
+用冷冻水把 RO 进水保持在设定温度，使膜产水流量稳定。热消毒时，低压蒸汽把回路加热到 80 °C。
+Держит питание RO при заданной температуре с помощью ледяной воды, чтобы мембраны давали стабильный расход. Во время горячей санитации пар низкого давления нагревает контур до 80 °C.
+Utrzymuje zasilanie RO w zadanej temperaturze wodą lodową, aby membrany dawały stały przepływ. Podczas sanityzacji na gorąco para niskociśnieniowa grzeje pętlę do 80 °C.
+Hűtővízzel tartja az RO tápvizet a beállított hőmérsékleten, hogy a membránok egyenletes áramot adjanak. Forró szanitáláskor kisnyomású gőz fűti a kört 80 °C-ra.
+Mantiene la alimentación del RO a su temperatura de consigna con agua helada, para que las membranas den un caudal estable. Durante la sanitización en caliente, vapor de baja presión calienta el lazo a 80 °C.
+
+#4420
+Dégazeur à membrane (élimine le CO2)
+Desgaseificador de membrana (remove CO2)
+膜脱气器 (去除 CO2)
+Мембранный дегазатор (удаляет CO2)
+Odgazowywacz membranowy (usuwa CO2)
+Membrános gáztalanító (eltávolítja a CO2-t)
+Desgasificador de membrana (elimina el CO2)
+
+#4421
+Des fibres creuses avec de l'air propre de l'autre côté extraient le CO2 dissous du perméat RO, donc la deuxième passe donne une conductivité plus basse. Nécessite l'air de stripage en marche.
+Fibras ocas com ar limpo do outro lado retiram o CO2 dissolvido do permeado do RO, então o segundo passo dá condutividade menor. Precisa do ar de arraste ligado.
+中空纤维另一侧通洁净空气，把 RO 产水中溶解的 CO2 抽出，使二级产水电导率更低。需要打开吹扫空气。
+Полые волокна с чистым воздухом с другой стороны вытягивают растворённый CO2 из пермеата RO, поэтому вторая ступень даёт меньшую электропроводность. Нужен включённый отдувочный воздух.
+Włókna kapilarne z czystym powietrzem po drugiej stronie wyciągają rozpuszczony CO2 z permeatu RO, więc drugi stopień daje niższą przewodność. Wymaga włączonego powietrza odpędowego.
+Az üreges szálak, a túloldalukon tiszta levegővel, kivonják az oldott CO2-t az RO permeátumból, így a második fokozat kisebb vezetőképességet ad. Bekapcsolt öblítőlevegő kell hozzá.
+Fibras huecas con aire limpio al otro lado sacan el CO2 disuelto del permeado del RO, así que el segundo paso da menor conductividad. Necesita el aire de arrastre encendido.
+
+#4422
+Pupitre de commande de la station (HMI)
+Painel de controle da estação (HMI)
+站控制面板 (HMI)
+Панель управления станцией (HMI)
+Panel sterowania stacji (HMI)
+Állomás vezérlőpanel (HMI)
+Panel de control de la estación (HMI)
+
+#4423
+Démarrez et arrêtez toute la station d'ici : production (prétraitement et RO), sanitisation à chaud à 80 °C et boucle de distribution. Les pompes d'un groupe suivent ces boutons et leur propre régulation de niveau.
+Ligue e desligue a estação inteira daqui: produção (pré-tratamento e RO), sanitização a quente a 80 °C e o loop de distribuição. As bombas de um grupo seguem estes botões e o próprio controle de nível.
+在这里启停整个站：生产（预处理和 RO）、80 °C 热消毒和分配回路。组内的泵跟随这些按钮以及各自的液位控制。
+Отсюда запускается и останавливается вся станция: производство (предподготовка и RO), горячая санитация при 80 °C и контур распределения. Насосы группы следуют этим кнопкам и своему регулированию уровня.
+Stąd uruchamiasz i zatrzymujesz całą stację: produkcję (uzdatnianie wstępne i RO), sanityzację na gorąco w 80 °C i pętlę dystrybucji. Pompy w grupie słuchają tych przycisków i własnej regulacji poziomu.
+Innen indítható és állítható le az egész állomás: termelés (előkezelés és RO), forró szanitálás 80 °C-on és az elosztó kör. A csoportba tartozó szivattyúk ezeket a gombokat és a saját szintszabályozásukat követik.
+Arranque y pare toda la estación desde aquí: producción (pretratamiento y RO), sanitización en caliente a 80 °C y el lazo de distribución. Las bombas de un grupo siguen estos botones y su propio control de nivel.
+
+#4424
+Production ON
+Produção ON
+生产 ON
+Производство ON
+Produkcja ON
+Termelés ON
+Producción ON
+
+#4425
+Production OFF
+Produção OFF
+生产 OFF
+Производство OFF
+Produkcja OFF
+Termelés OFF
+Producción OFF
+
+#4426
+Boucle de distribution ON
+Loop de distribuição ON
+分配回路 ON
+Контур распределения ON
+Pętla dystrybucji ON
+Elosztó kör ON
+Lazo de distribución ON
+
+#4427
+Boucle de distribution OFF
+Loop de distribuição OFF
+分配回路 OFF
+Контур распределения OFF
+Pętla dystrybucji OFF
+Elosztó kör OFF
+Lazo de distribución OFF
+
+#4428
+Sanitisation à chaud démarrée
+Sanitização a quente iniciada
+热消毒已启动
+Горячая санитация запущена
+Sanityzacja na gorąco rozpoczęta
+Forró szanitálás elindult
+Sanitización en caliente iniciada
+
+#4429
+Sanitisation à chaud arrêtée
+Sanitização a quente parada
+热消毒已停止
+Горячая санитация остановлена
+Sanityzacja na gorąco zatrzymana
+Forró szanitálás leállt
+Sanitización en caliente detenida
+
+#4430
+Eau chaude ou sanitisation en cours : recirculation, pas d'envoi vers la cuve PW.
+Água quente ou sanitização em andamento: recirculando, não vai para o tanque de PW.
+热水或消毒进行中：正在循环，不送入 PW 储罐。
+Горячая вода или идёт санитация: рециркуляция, в бак PW не подаётся.
+Gorąca woda lub trwa sanityzacja: recyrkulacja, nie trafia do zbiornika PW.
+Forró víz vagy szanitálás folyamatban: recirkuláció, nem megy a PW tartályba.
+Agua caliente o sanitización en curso: recirculando, no se envía al tanque de PW.

@@ -10,9 +10,10 @@ const { chromium } = require('/opt/npm-tools/node_modules/playwright');
   await p.waitForTimeout(4000);
   await tap('.prsvg [data-pt="pb1"]');
   console.log(await p.evaluate(() => document.querySelector('.pr-stat').innerText.replace(/\n/g, ' | ')));
-  // zoom to electrical, tool and lock
-  await p.evaluate(() => document.querySelectorAll('.pr-focus .btn')[1].click()); await p.waitForTimeout(300);
-  await tap('.pr-kit .pr-k:nth-child(1)'); await p.waitForTimeout(100);
+  // phone: board fills the width, tool from the dock
+  console.log('board width', await p.evaluate(() => Math.round(document.querySelector('.prsvg').getBoundingClientRect().width)));
+  await tap('.pr-dock .pr-k:nth-child(1)'); await p.waitForTimeout(100);
+  console.log('tool in hand', await p.evaluate(() => EL.lotoPractice.tool));
   await p.screenshot({ path: '/tmp/claude-0/shots/pr_m_zoom.png' });
   console.log(errs.length ? errs.join('\n') : 'no errors'); await b.close();
 })();
