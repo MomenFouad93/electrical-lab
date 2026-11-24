@@ -31,7 +31,7 @@
     bench = $('#v-bench .bench'); const tb = $('#v-bench .tb');
     if (!bench || !tb) return;
     const w = g.innerWidth || 1400;
-    st = load() || { l: w < 1400, r: w < 1100 }; // small laptops start with the parts list folded away
+    st = load() || { l: false, r: w < 1000 }; // the parts list is the bench: shown by default
     bl = h('button', { class: 'btn pnl-btn', type: 'button', html: icon(false), onclick: () => P.toggle('l') });
     br = h('button', { class: 'btn pnl-btn', type: 'button', html: icon(true), onclick: () => P.toggle('r') });
     tb.insertBefore(bl, tb.firstChild); tb.appendChild(br);

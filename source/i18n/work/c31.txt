@@ -267,3 +267,57 @@ RO 级数（1 或 2，0 = 不显示）
 Stopień RO (1 lub 2, 0 = nie pokazuj)
 RO fokozat (1 vagy 2, 0 = nem látszik)
 Paso RO (1 o 2, 0 = no se muestra)
+
+#4545
+Retour à mon banc (ce projet reste dans Projets > Continuer)
+Voltar à minha bancada (este projeto fica em Projetos > Continuar)
+返回我的工作台（此项目保留在 项目 > 继续）
+Вернуться на свой стенд (проект останется в Проекты > Продолжить)
+Wróć do mojego stanowiska (projekt zostaje w Projekty > Kontynuuj)
+Vissza a saját padomhoz (a projekt a Projektek > Folytatás alatt marad)
+Volver a mi banco (este proyecto queda en Proyectos > Continuar)
+
+#4546
+Mon banc
+Minha bancada
+我的工作台
+Мой стенд
+Moje stanowisko
+Saját pad
+Mi banco
+
+#4547
+De retour sur votre banc. Le projet attend dans Projets > Continuer.
+De volta à sua bancada. O projeto espera em Projetos > Continuar.
+已回到你的工作台。项目保留在 项目 > 继续。
+Вы снова на своём стенде. Проект ждёт в Проекты > Продолжить.
+Wróciłeś na swoje stanowisko. Projekt czeka w Projekty > Kontynuuj.
+Visszatértél a saját padodhoz. A projekt a Projektek > Folytatás alatt vár.
+De vuelta en tu banco. El proyecto espera en Proyectos > Continuar.
+
+#4548
+Repris : 
+Retomado: 
+已继续：
+Продолжено: 
+Wznowiono: 
+Folytatva: 
+Retomado: 
+
+#4549
+Reprendre là où vous vous êtes arrêté : 
+Continue de onde parou: 
+从上次停下的地方继续：
+Продолжить с места остановки: 
+Kontynuuj od miejsca, w którym skończyłeś: 
+Folytasd, ahol abbahagytad: 
+Continúa donde lo dejaste: 
+
+#4550
+Continuer
+Continuar
+继续
+Продолжить
+Kontynuuj
+Folytatás
+Continuar

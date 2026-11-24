@@ -4,6 +4,21 @@
   const PJ = EL.projects, PA = EL.plantArt;
   const B = () => EL.bench;
   const KEY = 'ellab.projects', MAXP = 30;
+  /* The bench keeps the trainee's own electrical work. A ready project opened from the Projects tab is a visit:
+     the own work waits in ellab.benchHome, the last ready project in ellab.projLast, and the app always starts on the own bench. */
+  const HOME = 'ellab.benchHome', LAST = 'ellab.projLast';
+  const lsg = (k) => { try { return localStorage.getItem(k); } catch (e) { return null; } };
+  const lss = (k, v) => { try { if (v == null) localStorage.removeItem(k); else localStorage.setItem(k, v); } catch (e) {} };
+  const isReady = (c) => !!(c && c.proj && PJ.map[c.proj.id]);
+  const hasWork = (c) => !!(c && (c.parts.length || (c.plant && c.plant.units && c.plant.units.length) || (c.line && c.line.els && c.line.els.length)));
+  function stash(cur) { if (isReady(cur)) lss(LAST, EL.serialize(cur)); else if (hasWork(cur)) lss(HOME, EL.serialize(cur)); }
+  function homeCircuit() { try { const s = lsg(HOME); if (s) { const c = EL.deserialize(s); if (hasWork(c)) return c; } } catch (e) {} return EL.loadTemplate('dol'); }
+  function homeBtn() {
+    const b = $('#btnHome'); if (!b) return;
+    const on = isReady(B().ed.c);
+    b.style.display = on ? '' : 'none';
+    if (on) b.title = b.ariaLabel = T(['Back to my own bench (this project stays in Projects > Continue)', 'ارجع للمعمل بتاعي (المشروع ده بيفضل في المشاريع > كمّل)']);
+  }
 
   /* ---------- bench view switch ---------- */
   const VIEWS = [['panel', ['Panel', 'اللوحة']], ['plant', ['Plant', 'العملية']], ['line', ['Line', 'الخط']]];
@@ -44,7 +59,13 @@
     });
     let v0 = 'panel';
     try { v0 = localStorage.getItem('ellab.bview') || 'panel'; } catch (e) {}
-    setView(v0);
+    if (isReady(b.ed.c)) { stash(b.ed.c); b.ed.setCircuit(homeCircuit()); b.save(); v0 = 'panel'; b._fitPanel = true; } // the app opens on the own bench, not on the last project
+    else if (b.ed.c.parts.length) v0 = 'panel';
+    const seg2 = $('#viewSeg');
+    if (seg2 && !$('#btnHome')) seg2.after(h('button', { class: 'btn', id: 'btnHome', type: 'button', style: { display: 'none' }, onclick: () => { PJ.home(); ui.click(); } }, '⌂', h('span', { class: 'hm-l', text: ' ' + T(['My bench', 'المعمل بتاعي']) })));
+    b.ed.hooks.push(() => homeBtn());
+    ui.onRefresh(() => { const x = $('#btnHome .hm-l'); if (x) x.textContent = ' ' + T(['My bench', 'المعمل بتاعي']); homeBtn(); });
+    setView(v0); homeBtn();
   }
 
   /* ---------- my projects (this browser) ---------- */
@@ -54,7 +75,8 @@
   function openCircuit(c, msg) {
     const b = B();
     const cur = b.ed.c;
-    if ((cur.parts.length || (cur.plant && cur.plant.units && cur.plant.units.length) || (cur.line && cur.line.els && cur.line.els.length)) && !confirm(T(['Replace what is on the bench now? (Save it as a project first if you need it.)', 'تستبدل اللي على المعمل دلوقتي؟ (احفظه كمشروع الأول لو محتاجه.)']))) return false;
+    if (isReady(c) || isReady(cur)) stash(cur); // a ready project never costs the own bench work: it is kept aside
+    else if (hasWork(cur) && !confirm(T(['Replace what is on the bench now? (Save it as a project first if you need it.)', 'تستبدل اللي على المعمل دلوقتي؟ (احفظه كمشروع الأول لو محتاجه.)']))) return false;
     EL.inst.probes = { red: null, black: null, clamp: null, ncv: null };
     b.ed.setCircuit(c);
     b.save();
@@ -63,6 +85,22 @@
     if (msg) ui.toast(msg, 'ok', 6000);
     return true;
   }
+  /* back to the trainee's own bench (electrical panel) */
+  PJ.home = function (quiet) {
+    const b = B(), cur = b.ed.c;
+    if (isReady(cur)) stash(cur);
+    EL.inst.probes = { red: null, black: null, clamp: null, ncv: null };
+    b.ed.setCircuit(homeCircuit());
+    b.save();
+    b._fitPanel = true; setView('panel'); homeBtn();
+    if (!quiet) ui.toast(['Back on your own bench. The project waits in Projects > Continue.', 'رجعت للمعمل بتاعك. المشروع مستنيك في المشاريع > كمّل.'], 'ok', 4000);
+  };
+  PJ.resume = function () {
+    let c = null; try { c = EL.deserialize(lsg(LAST)); } catch (e) {}
+    if (!isReady(c)) { lss(LAST, null); render(); return; }
+    if (!openCircuit(c, T(['Continued: ', 'كمّلت: ']) + T(PJ.map[c.proj.id].name))) return;
+    setView.fitted = false; setView(c.plant && c.plant.units.length ? 'plant' : c.line && c.line.els && c.line.els.length ? 'line' : 'panel');
+  };
   PJ.open = function (id, view) {
     const c = PJ.load(id); if (!c) return;
     const P = PJ.map[id];
@@ -98,7 +136,11 @@
       h('p', { text: T(['Build a whole system and run it: wire the panel, lay out the process with tanks, pumps, valves and pipes, and program the PLC in ladder. Then measure it, break it and find the fault.', 'ابني سيستم كامل وشغّله: وصّل اللوحة، وارسم العملية بالتانكات والطلمبات والمحابس والمواسير، وبرمج الـPLC لادر. وبعدين قيس وبوّظ ودوّر على العطل.']) }),
       h('div', { class: 'row wrap' },
         h('button', { class: 'btn pri', onclick: () => PJ.openEmpty(), text: '+ ' + T(['Start an empty project', 'ابدأ مشروع فاضي']) }),
-        h('button', { class: 'btn', onclick: () => { ui.show('bench'); setView('plant'); }, text: T(['Go to the bench', 'روح للمعمل']) }))));
+        h('button', { class: 'btn', onclick: () => { if (isReady(B().ed.c)) PJ.home(true); ui.show('bench'); }, text: T(['Go to the bench', 'روح للمعمل']) }))));
+    { let last = null; try { const s = lsg(LAST); if (s) last = EL.deserialize(s); } catch (e) {}
+      const cur = B().ed.c, open = isReady(cur) ? cur : null, P = open ? PJ.map[open.proj.id] : last && isReady(last) ? PJ.map[last.proj.id] : null;
+      if (P) root.appendChild(h('div', { class: 'card pj-cont' }, h('b', { text: T(['Continue where you stopped: ', 'كمّل من مكان ما وقفت: ']) + T(P.name) }),
+        h('div', { class: 'row wrap' }, h('button', { class: 'btn pri', onclick: () => { if (open) { ui.show('bench'); } else PJ.resume(); }, text: '▶ ' + T(['Continue', 'كمّل']) })))); }
     root.appendChild(h('h3', { class: 'pj-sec', text: T(['Ready projects', 'مشاريع جاهزة']) }));
     const grid = h('div', { class: 'pj-grid' });
     for (const id of PJ.list) {
