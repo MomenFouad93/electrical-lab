@@ -188,6 +188,114 @@
   });
 
   /* ---------- 4. Blister packaging line: cartoner to case packer ---------- */
+  /* ---------- Chemical filling line: IBC -> tank -> hopper -> bottle filler and capper, S7-1200 CPU ---------- */
+  add('filling', {
+    view: 'all',
+    name: E('Chemical filling line with S7-1200', 'خط تعبئة كيماويات بـS7-1200'),
+    desc: E('A complete small plant: an IBC feeds a 1000 L tank through a solenoid valve, a transfer pump keeps the filler hopper between its level switches, and a conveyor stops each bottle under the filler and the capper. Everything is run by an S7-1200 CPU 1214C (ladder program, SCL export for TIA Portal), with 3-wire PNP sensors, 24 V DC contactors and overloads, Auto selector and lamps. The two-channel E-stop works on a safety relay that drops the main contactor KM0, not through the PLC. Open it in Whole plant to see the site cables live.', 'مصنع صغير كامل: IBC بيغذي تانك 1000 لتر من خلال سولينويد، وطلمبة نقل بتخلي هوبر الفيلر بين سويتشات المستوى، وسير بيوقف كل زجاجة تحت الفيلر وتحت الكابينج. كله شغال بـS7-1200 CPU 1214C (برنامج لادر، وتصدير SCL للـTIA Portal)، بحساسات PNP تلات أسلاك، وكونتاكتورات 24 فولت DC وأوفرلود، وسلكتور أوتو، ولمبات. زرار الطوارئ بقناتين شغال على ريلاي أمان بيفصل الكونتاكتور الرئيسي KM0، مش عن طريق الـPLC. افتحه على "المصنع كله" عشان تشوف كابلات الموقع وهي شغالة.'),
+    tasks: [
+      E('Test mode: switch on QS1, Q1, Q2 and F1, press S3 (safety reset: KM0 pulls in). Turn S0 to Auto and press S1 (Start). Watch the order: the pump fills the hopper, the conveyor brings a bottle to BG1, it stops, YV2 fills for 4 s, the bottle moves to BG2, YV3 pushes the capping cylinder down, then the line goes on.', 'وضع الاختبار: شغّل QS1 وQ1 وQ2 وF1، واضغط S3 (ريسيت الأمان: KM0 يلقط). لف S0 على أوتو واضغط S1 (تشغيل). راقب الترتيب: الطلمبة بتملا الهوبر، السير بيجيب زجاجة لحد BG1 ويقف، YV2 يملا 4 ثواني، الزجاجة تروح لـBG2، YV3 ينزّل سلندر الغطا، وبعدين الخط يكمّل.'),
+      E('Whole plant view: every site cable lights when its signal is on. Follow BG1 from the conveyor to input I1.0 on the PLC and the I/O strip.', 'شاشة المصنع كله: كل كابل موقع بينوّر لما إشارته تشتغل. تابع BG1 من السير لحد المدخل I1.0 على الـPLC وشريط المداخل والمخارج.'),
+      E('Programming tab: press "S7-1200 code" and read how each rung becomes SCL. Press "TIA Portal" to download the source and the tag table.', 'تاب البرمجة: دوس "S7-1200 code" واقرا كل سطر لادر اتحول SCL إزاي. دوس "TIA Portal" ونزّل السورس وجدول التاجات.'),
+      E('Fill time: shorten T1 from 4 s to 3 s in the ladder and download: the bottles leave under-filled and count BAD. Find the shortest T1 that still gives OK, and watch SPILL (overflow) when T1 is too long. Real fillers stop on level or weight, not on time: why?', 'زمن التعبئة: قصّر T1 من 4 ثواني لـ3 في اللادر ونزّل البرنامج: الزجاجات هتطلع ناقصة وتتعد BAD. لاقي أقصر T1 لسه بيدي OK، وراقب SPILL (الطفح) لما T1 يطول. الفيلرات الحقيقية بتقف على المستوى أو الوزن مش على الوقت: ليه؟'),
+      E('Dry-run protection: let the IBC empty (or close the inlet). When LSL1 drops, the pump must stop and H3 lights. Why is LSL1 wired so that a broken wire also stops the pump? LSH1 and LSH2 are set to NC for the same reason: a broken wire reads "high" and stops the filling.', 'حماية التشغيل على الناشف: سيب الـIBC يفضى (أو اقفل الدخول). لما LSL1 يقع، الطلمبة لازم تقف وH3 تنوّر. ليه LSL1 متوصل بحيث إن السلك المقطوع كمان يوقف الطلمبة؟ وLSH1 وLSH2 مظبوطين NC لنفس السبب: السلك المقطوع بيتقري "عالي" ويوقف الملو.'),
+      E('E-stop: push SB0 while the line runs. The safety relay KS1 drops KM0 and both motors stop at once, even if the PLC still drives KM1 or KM2 (stop category 0, IEC 60204-1). KS1 23-24 opens input I0.3: the PLC latches the fault and H2 lights. Twist SB0 free and press S3 (safety reset, through the KM0 NC contact): KM0 pulls in again, but nothing runs until you press S1.', 'الطوارئ: اضغط SB0 والخط شغال. ريلاي الأمان KS1 بيفصل KM0 والموتورين بيقفوا مرة واحدة، حتى لو الـPLC لسه بيشغّل KM1 أو KM2 (إيقاف فئة 0، IEC 60204-1). كونتاكت KS1 23-24 بيفتح المدخل I0.3: الـPLC بيمسك العطل وH2 تنوّر. لف SB0 عشان يفك واضغط S3 (ريسيت الأمان، من خلال كونتاكت KM0 المقفول): KM0 بيرجع يلقط، بس مفيش حاجة هتشتغل غير لما تضغط S1.'),
+      E('Fault finding: give YV2 the fault "Coil open" (Part > Fault simulation). The bottles pass empty and are counted BAD. Find it with the I/O strip (Q0.3 is on), the meter on the coil and the ladder.', 'تدوير على عطل: ادّي YV2 عطل "الكويل مقطوع" (الجهاز > محاكاة عطل). الزجاجات هتعدي فاضية وتتعد BAD. لاقيه بشريط المداخل والمخارج (Q0.3 شغال)، والأفوميتر على الملف، واللادر.'),
+      E('Open Documents (Whole plant): the BOM, PLC I/O list, site cable list and wire list come from the drawing. Check two lines of each against the panel. The terminal plan is empty: this panel has no terminal strip. Where would you add X1 between the field cables and the PLC?', 'افتح المستندات (المصنع كله): الـBOM وقايمة المداخل والمخارج وقايمة كابلات الموقع وقايمة الأسلاك متعملة من الرسمة. راجع سطرين من كل واحدة على اللوحة. خطة الترمينالات فاضية: اللوحة دي مفيهاش ترمينال. كنت هتحط X1 فين بين كابلات الموقع والـPLC؟'),
+    ],
+    circuit: {
+      parts: [
+        ['G1', 'SRC3', 40, 0], ['QS1', 'ISOL3', 50, 110, { rating: 32 }], ['KM0', 'CONT3', 210, 30, { coil: '24VDC' }],
+        ['Q1', 'MCB3', 40, 270, { rating: 6, curve: 'C' }], ['Q2', 'MCB3', 310, 270, { rating: 4, curve: 'C' }], ['F1', 'MCB1', 450, 270, { rating: 6 }],
+        ['KM1', 'CONT3', 20, 420, { coil: '24VDC' }], ['KM2', 'CONT3', 290, 420, { coil: '24VDC' }],
+        ['F2', 'OL', 30, 680, { set: 3.2 }], ['F3', 'OL', 300, 680, { set: 1.8 }],
+        ['M1', 'MOT3', 30, 880, { kw: 1.5, conn: 'delta', load: 0.6 }], ['M2', 'MOT3', 300, 880, { kw: 0.75, conn: 'delta', load: 1 }],
+        ['G2', 'PSU', 560, 270],
+        ['KF1', 'S7CPU', 620, 520],
+        ['S1', 'PB_NO', 660, 400], ['S2', 'PB_NC', 710, 400], ['S0', 'SEL2', 760, 400], ['SB0', 'ESTOP2', 810, 400], ['KS1', 'SAFE', 1140, 470, { reset: 'manual' }], ['S3', 'PB_NO', 1320, 470],
+        ['LSL1', 'PROX', 860, 230], ['LSH1', 'PROX', 960, 230, { logic: 'NC' }], ['LSH2', 'PROX', 1060, 230, { logic: 'NC' }], ['LSL2', 'PROX', 1160, 230],
+        ['BG1', 'PHOTO', 1260, 230], ['BG2', 'PHOTO', 1360, 230], ['BG3', 'PROX', 1460, 230], ['BG4', 'PROX', 1560, 230],
+        ['YV1', 'SOL', 680, 780], ['YV2', 'SOL', 770, 780], ['YV3', 'SOL', 860, 780],
+        ['H1', 'LAMP', 960, 790, { volt: '24VDC', color: 'green' }], ['H2', 'LAMP', 1010, 790, { volt: '24VDC', color: 'red' }], ['H3', 'LAMP', 1060, 790, { volt: '24VDC', color: 'amber' }],
+      ],
+      wires: [
+        ['G1.L1', 'QS1.1'], ['G1.L2', 'QS1.3'], ['G1.L3', 'QS1.5'],
+        // KM0 = safety contactor: the safety relay KS1 drops it on an E-stop, both motor branches lose power (stop category 0)
+        ['QS1.2', 'KM0.1'], ['QS1.4', 'KM0.3'], ['QS1.6', 'KM0.5'],
+        ['KM0.2', 'Q1.1'], ['KM0.4', 'Q1.3'], ['KM0.6', 'Q1.5'], ['KM0.2', 'Q2.1'], ['KM0.4', 'Q2.3'], ['KM0.6', 'Q2.5'],
+        ['Q1.2', 'KM1.1'], ['Q1.4', 'KM1.3'], ['Q1.6', 'KM1.5'], ['KM1.2', 'F2.1'], ['KM1.4', 'F2.3'], ['KM1.6', 'F2.5'],
+        ['F2.2', 'M1.U1'], ['F2.4', 'M1.V1'], ['F2.6', 'M1.W1'], ['G1.PE', 'M1.PE'],
+        ['Q2.2', 'KM2.1'], ['Q2.4', 'KM2.3'], ['Q2.6', 'KM2.5'], ['KM2.2', 'F3.1'], ['KM2.4', 'F3.3'], ['KM2.6', 'F3.5'],
+        ['F3.2', 'M2.U1'], ['F3.4', 'M2.V1'], ['F3.6', 'M2.W1'], ['G1.PE', 'M2.PE'],
+        // control supply taken before KM0: the PSU, the PLC and the safety relay stay on during an E-stop
+        ['QS1.2', 'F1.1'], ['F1.2', 'G2.L'], ['G1.N', 'G2.N'], ['G1.PE', 'G2.PE'],
+        ['G2.pos', 'KF1.LP'], ['G2.neg', 'KF1.M'],
+        ['G2.pos', 'S1.3'], ['S1.4', 'KF1.I0'], ['G2.pos', 'S2.1'], ['S2.2', 'KF1.I1'], ['G2.pos', 'S0.3'], ['S0.4', 'KF1.I2'],
+        // two-channel E-stop on the safety relay; KS1 13-14 holds KM0, KS1 23-24 tells the PLC (I0.3)
+        ['G2.pos', 'KS1.A1'], ['KS1.A2', 'G2.neg'],
+        ['KS1.S11', 'SB0.11'], ['SB0.12', 'KS1.S12'], ['KS1.S21', 'SB0.21'], ['SB0.22', 'KS1.S22'],
+        ['G2.pos', 'KS1.13'], ['KS1.14', 'KM0.A1'], ['KM0.A2', 'G2.neg'],
+        ['G2.pos', 'KS1.23'], ['KS1.24', 'KF1.I3'],
+        // manual reset S3 through the KM0 NC auxiliary contact: KS1 only restarts when KM0 has really dropped (no welded contacts)
+        ['KS1.S33', 'KM0.31'], ['KM0.32', 'S3.3'], ['S3.4', 'KS1.S34'],
+        ['G2.pos', 'LSL1.BN'], ['LSL1.BU', 'G2.neg'], ['LSL1.BK', 'KF1.I4'],
+        ['G2.pos', 'LSH1.BN'], ['LSH1.BU', 'G2.neg'], ['LSH1.BK', 'KF1.I5'],
+        ['G2.pos', 'LSH2.BN'], ['LSH2.BU', 'G2.neg'], ['LSH2.BK', 'KF1.I6'],
+        ['G2.pos', 'LSL2.BN'], ['LSL2.BU', 'G2.neg'], ['LSL2.BK', 'KF1.I7'],
+        ['G2.pos', 'BG1.BN'], ['BG1.BU', 'G2.neg'], ['BG1.BK', 'KF1.I8'],
+        ['G2.pos', 'BG2.BN'], ['BG2.BU', 'G2.neg'], ['BG2.BK', 'KF1.I9'],
+        ['G2.pos', 'BG3.BN'], ['BG3.BU', 'G2.neg'], ['BG3.BK', 'KF1.I10'],
+        ['G2.pos', 'BG4.BN'], ['BG4.BU', 'G2.neg'], ['BG4.BK', 'KF1.I13'],
+        ['G2.pos', 'F2.97'], ['F2.98', 'KF1.I11'], ['G2.pos', 'F3.97'], ['F3.98', 'KF1.I12'],
+        ['KF1.Q0', 'F2.95'], ['F2.96', 'KM1.A1'], ['KM1.A2', 'G2.neg'],
+        ['KF1.Q1', 'F3.95'], ['F3.96', 'KM2.A1'], ['KM2.A2', 'G2.neg'],
+        ['KF1.Q2', 'YV1.pos'], ['YV1.neg', 'G2.neg'], ['KF1.Q3', 'YV2.pos'], ['YV2.neg', 'G2.neg'], ['KF1.Q4', 'YV3.pos'], ['YV3.neg', 'G2.neg'],
+        ['KF1.Q5', 'H1.X1'], ['H1.X2', 'G2.neg'], ['KF1.Q6', 'H2.X1'], ['H2.X2', 'G2.neg'], ['KF1.Q7', 'H3.X1'], ['H3.X2', 'G2.neg'],
+      ],
+      on: [],
+    },
+    plant: {
+      units: [
+        ['CHM', 'SUPPLY', 0, 40, { style: 'ibc', bar: 0.6, stock: 1000, temp: 22 }],
+        ['YV1', 'SOLV', 170, 20, { sol: 'YV1', kv: 40 }],
+        ['T1', 'TANK', 320, 60, { style: 'cone', vol: 1000, hgt: 1.5, lvl0: 35, sw: [{ n: 'LSH1', l: 85, t: 'LSH1', k: 'pnp' }, { n: 'LSL1', l: 15, t: 'LSL1', k: 'pnp' }] }],
+        ['P1', 'PUMP', 560, 260, { motor: 'M1', head: 14, qmax: 60, flip: true }],
+        ['T2', 'TANK', 800, -60, { style: 'cone', vol: 150, hgt: 1.5, lvl0: 76, sw: [{ n: 'LSH2', l: 80, t: 'LSH2', k: 'pnp' }, { n: 'LSL2', l: 74, t: 'LSL2', k: 'pnp' }] }],
+        ['YV2', 'SOLV', 1020, 170, { sol: 'YV2', kv: 75 }],
+        ['CV1', 'BOTTLE', 760, 330, { motor: 'M2', s1: 'BG1', s2: 'BG2', cyl: 'YV3', rdn: 'BG3', rup: 'BG4', bvol: 0.5, rate: 12, speed: 6 }],
+      ],
+      pipes: [['CHM.out', 'YV1.a'], ['YV1.b', 'T1.inA'], ['T1.out1', 'P1.in'], ['P1.out', 'T2.inA'], ['T2.out1', 'YV2.a'], ['YV2.b', 'CV1.fill']],
+    },
+    plc: 'KF1',
+    ladder: {
+      sym: { 'I0.0': 'Start S1', 'I0.1': 'Stop S2 (NC)', 'I0.2': 'Auto S0', 'I0.3': 'Safety OK KS1', 'I0.4': 'Tank not low LSL1', 'I0.5': 'Tank not high LSH1 (NC)', 'I0.6': 'Hopper below LSH2 (NC)', 'I0.7': 'Hopper not low LSL2',
+        'I1.0': 'Bottle at filler BG1', 'I1.1': 'Bottle at capper BG2', 'I1.2': 'Cylinder down BG3', 'I1.3': 'Pump overload F2', 'I1.4': 'Conveyor overload F3', 'I1.5': 'Cylinder up BG4',
+        'Q0.0': 'Pump KM1', 'Q0.1': 'Conveyor KM2', 'Q0.2': 'Inlet valve YV1', 'Q0.3': 'Fill valve YV2', 'Q0.4': 'Capper YV3', 'Q0.5': 'Running H1', 'Q0.6': 'Fault H2', 'Q0.7': 'Tank low H3',
+        'M0.0': 'Line running', 'M0.1': 'Fault latched', 'M0.4': 'Bottle filled', 'M0.5': 'Bottle capped', 'M0.6': 'Counter reset', 'T1': 'Fill time', 'T2': 'Cap hold', 'T3': 'Level switch check', 'T4': 'Cylinder watchdog', 'C1': 'Bottles capped' },
+      nets: [
+        { c: 'Safety relay open (E-stop), an overload or a watchdog latches a fault', s: [PAR([NC('I0.3')], [NO('I1.3')], [NO('I1.4')], [NO('T3')], [NO('T4')])], o: [{ t: 'SET', a: 'M0.1' }] },
+        { c: 'Start (rising edge) resets the fault once the cause is gone', s: [{ t: 'P', a: 'I0.0' }, NO('I0.3'), NC('I1.3'), NC('I1.4'), NC('T3')], o: [{ t: 'RST', a: 'M0.1' }] },
+        { c: 'Line running: Start (rising edge) latches; Stop, safety relay, Manual or a fault drop it', s: [PAR([{ t: 'P', a: 'I0.0' }], [NO('M0.0')]), NO('I0.1'), NO('I0.3'), NO('I0.2'), NC('M0.1')], o: [COIL('M0.0')] },
+        { c: 'Level switch check: a vessel cannot be high and low at once (dead sensor, broken wire) for 2 s', s: [PAR([NC('I0.5'), NC('I0.4')], [NC('I0.6'), NC('I0.7')])], o: [{ t: 'TON', a: 'T3', pt: 2 }] },
+        { c: 'Inlet valve: refill the tank from the IBC below LSL1 until LSH1 (NC: a broken wire closes the valve)', s: [NO('M0.0'), NO('I0.5'), PAR([NC('I0.4')], [NO('Q0.2')])], o: [COIL('Q0.2')] },
+        { c: 'Transfer pump: keep the hopper between LSL2 and LSH2 (NC), never with the tank low (dry run)', s: [NO('M0.0'), NO('I0.4'), NO('I0.6'), PAR([NC('I0.7')], [NO('Q0.0')])], o: [COIL('Q0.0')] },
+        { c: 'Fill: a bottle under the filler, not filled yet; start only with the hopper above LSL2, then finish the dose', s: [NO('M0.0'), NO('I1.0'), NC('M0.4'), PAR([NO('I0.7')], [NO('Q0.3')])], o: [COIL('Q0.3'), { t: 'TON', a: 'T1', pt: 4 }] },
+        { c: 'Fill time over: this bottle is filled', s: [NO('T1')], o: [{ t: 'SET', a: 'M0.4' }] },
+        { c: 'The filled bottle has left the filler: ready for the next', s: [NC('I1.0')], o: [{ t: 'RST', a: 'M0.4' }] },
+        { c: 'Cap: a bottle under the capper, not capped yet: push the cylinder down', s: [NO('M0.0'), NO('I1.1'), NC('M0.5')], o: [COIL('Q0.4')] },
+        { c: 'Cylinder down for 0.8 s: the cap is pressed', s: [NO('Q0.4'), NO('I1.2')], o: [{ t: 'TON', a: 'T2', pt: 0.8 }] },
+        { c: 'Counter reset: hold Stop and press Start', s: [NC('I0.1'), NO('I0.0')], o: [COIL('M0.6')] },
+        { c: 'Capped: release the cylinder and count the bottle', s: [NO('T2')], o: [{ t: 'SET', a: 'M0.5' }, { t: 'CTU', a: 'C1', pv: 9999, r: 'M0.6' }] },
+        { c: 'The capped bottle has left: ready for the next', s: [NC('I1.1')], o: [{ t: 'RST', a: 'M0.5' }] },
+        { c: 'Cylinder watchdog: not down 2 s after YV3 on, or not back up 2 s after YV3 off (air, valve, sensor)', s: [NO('M0.0'), PAR([NO('Q0.4'), NC('I1.2')], [NC('Q0.4'), NC('I1.5')])], o: [{ t: 'TON', a: 'T4', pt: 2 }] },
+        { c: 'Conveyor: run only with the cylinder up (BG4), and not while a bottle waits for filling or capping', s: [NO('M0.0'), NC('Q0.4'), NO('I1.5'), PAR([NC('I1.0')], [NO('M0.4')]), PAR([NC('I1.1')], [NO('M0.5')])], o: [COIL('Q0.1')] },
+        { c: 'Running lamp', s: [NO('M0.0')], o: [COIL('Q0.5')] },
+        { c: 'Fault lamp', s: [NO('M0.1')], o: [COIL('Q0.6')] },
+        { c: 'Tank low lamp', s: [NC('I0.4')], o: [COIL('Q0.7')] },
+      ],
+    },
+  });
+
   add('line', {
     view: 'line',
     name: E('Packaging line: cartoner to case packer', 'خط تعبئة: من الكارتونر للكيس باكر'),
@@ -351,6 +459,8 @@
   });
 
   /* empty project */
+  /* the newest integrated project first */
+  if (PJ.list.includes('filling')) { PJ.list.splice(PJ.list.indexOf('filling'), 1); PJ.list.unshift('filling'); }
   PJ.empty = function () { const c = EL.newCircuit(); c.plant = EL.plant.newPlant(); c.name = E('My project', 'مشروعي'); c.proj = { id: 'mine' }; return c; };
 
   PJ.load = function (id) {

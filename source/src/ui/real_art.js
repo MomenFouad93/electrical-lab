@@ -171,7 +171,11 @@
     for (const [l, x] of [['U', 30], ['V', 75], ['W', 120]]) s += screw(x, 15, 6) + t(x, 29, l + (six ? '1' : ''), 7, '#20252e');
     if (!six) s += `<path d="M36 19 L69 19 M81 19 L114 19" stroke="#c8743a" stroke-width="2.4" opacity="${p.props.conn === 'delta' ? 0 : 0}"/>`;
     s += `<circle cx="142" cy="70" r="4" fill="#5fb04a"/>`;
-    s += `<rect x="40" y="70" width="48" height="24" rx="2" fill="#dfe3e8" stroke="#6b717b"/>` + t(64, 80, (p.props.kw || '') + ' kW  ' + (p.props.conn === 'star' ? 'Y' : p.props.conn === 'delta' ? 'Δ' : 'Y/Δ'), 7, '#20252e') + t(64, 90, '1450 rpm  400V', 6.5, '#3a4150');
+    // rating plate (riveted aluminium plate with the nameplate data); lines are squeezed to the plate width
+    const np = EL.motorPlate ? EL.motorPlate(p) : null, cn = p.props.conn === 'star' ? 'Y' : p.props.conn === 'delta' ? 'Δ' : 'Y/Δ';
+    const ft = (y, str, size, col, wt) => `<text x="64" y="${y}" text-anchor="middle" textLength="${Math.min(66, str.length * size * 0.56).toFixed(1)}" lengthAdjust="spacingAndGlyphs" style="font:${wt || 700} ${size}px system-ui,Segoe UI,Arial;fill:${col}">${str}</text>`;
+    s += `<rect x="28" y="58" width="72" height="40" rx="2.5" fill="#e3e7ec" stroke="#6b717b"/><rect x="28" y="58" width="72" height="8" rx="2.5" fill="#173c7a"/>` + [[31, 61], [97, 61], [31, 95], [97, 95]].map(([x, y]) => `<circle cx="${x}" cy="${y}" r="1.1" fill="#8a919b"/>`).join('');
+    if (np) s += ft(64.6, '3~ MOTOR ' + np.ie + ' · ' + np.frame + ' · ' + np.ip, 5.2, '#ffffff', 800) + ft(72.6, np.kw + ' kW · ' + np.rpm + ' rpm · ' + cn, 6, '#20252e', 800) + ft(79.6, np.uD + 'Δ/' + np.uY + 'Y V · ' + np.hz + ' Hz', 5.2, '#20252e') + ft(86.4, 'In ' + np.iD.toFixed(np.iD < 10 ? 2 : 1) + ' Δ / ' + np.iY.toFixed(np.iY < 10 ? 2 : 1) + ' Y A', 5.2, '#20252e') + ft(93.2, 'cosφ ' + np.cos.toFixed(2) + ' · η ' + np.eta + '% · ' + np.ins + ' · ' + np.duty, 4.8, '#3a4150', 600);
     // shaft / coupling / load at the right end (within the 150 px footprint)
     s += `<rect x="122" y="76" width="10" height="10" fill="url(#rgChrome)"/>`;
     const spin = `class="${dur ? (st.dir < 0 ? 'spinr' : 'spin') : ''}" style="${dur ? 'animation-duration:' + dur.toFixed(2) + 's;' : ''}transform-box:fill-box;transform-origin:center"`;
@@ -179,8 +183,8 @@
     else if (load <= 0.7) s += `<circle cx="140" cy="81" r="13" fill="url(#rgBlue)" stroke="#173c7a"/><rect x="134" y="52" width="12" height="16" fill="#2a5db0" stroke="#173c7a"/><rect x="131" y="48" width="18" height="5" fill="#1d4688"/><g ${spin}><path d="M140 72 v18 M131 81 h18" stroke="#9fc3ff" stroke-width="2"/></g>`;
     else s += `<rect x="130" y="66" width="18" height="30" rx="3" fill="#7d838c" stroke="#4b515a"/><g ${spin}><circle cx="139" cy="81" r="6" fill="none" stroke="#2f3540" stroke-width="2" stroke-dasharray="3 2"/></g>`;
     if (six) for (const [l, x] of [['W2', 30], ['U2', 75], ['V2', 120]]) s += `<line x1="${x}" y1="126" x2="${x}" y2="140" stroke="#8a9099" stroke-width="2"/>` + t(x, 138, l, 6.5, '#e8ecf2');
-    s += T(75, 106, run ? Math.round(st.w * 1450) + ' rpm ' + (st.dir < 0 ? 'REV' : 'FWD') : '', 'psub', 'middle', 'style="font-size:9px;fill:#fff"');
-    if (p.fault === 'seized') s += t(64, 64, 'JAMMED', 8, '#f2c21b', 800);
+    s += T(75, 106, run ? Math.round(st.w * 0.966 * 6000 / (np ? np.poles : 4)) + ' rpm ' + (st.dir < 0 ? 'REV' : 'FWD') : '', 'psub', 'middle', 'style="font-size:9px;fill:#fff"');
+    if (p.fault === 'seized') s += t(64, 57, 'JAMMED', 8, '#f2c21b', 800);
     return s;
   };
 

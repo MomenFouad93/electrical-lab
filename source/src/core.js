@@ -370,6 +370,110 @@
     return { vdc: r.vdc, vac: EL.cabs(r.vac), idc: r.idc, iac: EL.cabs(r.iac), f: isl ? isl.f : 0, vacC: r.vac, iacC: r.iac };
   };
 
+  /* ---------- wire currents ----------
+     The solver joins wired terminals into one node, so a wire has no current of its own. Here the current that
+     the elements push into each net is split over the wires of that net: tree parts by peeling leaves (exact),
+     loops by a small conductance network (wire conductance ~ mm²). Panel wires only (PCB traces have w.kind). */
+  EL.wireCurrents = function (circuit, sim) {
+    const out = new Map();
+    const wires = circuit.wires.filter((w) => !w.cut && !w.kind && sim.partById.has(w.a.split('.')[0]) && sim.partById.has(w.b.split('.')[0]));
+    if (!wires.length) return out;
+    const uf = sim.uf, WS = EL.WIRE;
+    const idx = new Map(), nodes = [];
+    const nid = (ref) => { let i = idx.get(ref); if (i == null) { i = nodes.length; idx.set(ref, i); nodes.push({ ref, net: uf.find(ref), e: [], dc: 0, re: 0, im: 0 }); } return i; };
+    const edges = [];
+    const edge = (a, b, g, w) => { if (a === b) return; const ia = nid(a), ib = nid(b); const k = edges.length; edges.push({ a: ia, b: ib, g, w, alive: true, dc: 0, re: 0, im: 0 }); nodes[ia].e.push(k); nodes[ib].e.push(k); };
+    // only nets that hold a wire need the split
+    const nets = new Set(); for (const w of wires) nets.add(uf.find(w.a));
+    const inNet = (ref) => nets.has(uf.find(ref));
+    for (const w of wires) edge(w.a, w.b, WS && WS.ok(w.mm2) ? +w.mm2 : 1.5, w);
+    const lab = new Map();
+    for (const p of circuit.parts) {
+      const d = EL.defs[p.type]; if (!d) continue;
+      if (d.ties) for (const t of d.ties(p)) for (let i = 1; i < t.length; i++) { const a = EL.P(p, t[0]), b = EL.P(p, t[i]); if (inNet(a)) edge(a, b, 1e4); }
+      for (const pin of EL.pinsOf(p)) { const ref = EL.P(p, pin.id); if (((pin.earth && !d.floatPE) || (d.earth && d.earth(p, pin))) && inNet(ref)) edge(ref, 'EARTH', 1e-3); }
+      if (d.netlabel) { const nm = String(p.props.name || '').trim().toUpperCase(), ref = EL.P(p, 'n'); if (nm && inNet(ref)) { if (lab.has(nm)) edge(lab.get(nm), ref, 1); else lab.set(nm, ref); } }
+    }
+    for (const e of sim.elems) {
+      const r = e.r_; if (!r) continue;
+      for (const [ref, s] of [[e.na, -1], [e.nb, 1]]) { // current leaves the net into the element at na, comes back at nb
+        if (!ref || ref[0] === '#') continue;
+        const i = idx.get(ref); if (i == null) continue;
+        const n = nodes[i]; n.dc += s * r.idc; n.re += s * r.iac[0]; n.im += s * r.iac[1];
+      }
+    }
+    // peel leaves
+    const deg = nodes.map((n) => n.e.length), q = [];
+    for (let i = 0; i < nodes.length; i++) if (deg[i] === 1) q.push(i);
+    while (q.length) {
+      const i = q.pop(); if (deg[i] !== 1) continue;
+      const n = nodes[i], k = n.e.find((x) => edges[x].alive); if (k == null) { deg[i] = 0; continue; }
+      const E = edges[k], s = E.a === i ? 1 : -1, j = E.a === i ? E.b : E.a, m = nodes[j];
+      E.dc = s * n.dc; E.re = s * n.re; E.im = s * n.im; E.alive = false;
+      m.dc += n.dc; m.re += n.re; m.im += n.im; n.dc = n.re = n.im = 0;
+      deg[i] = 0; deg[j]--; if (deg[j] === 1) q.push(j);
+    }
+    // what is left holds loops: nodal solve per net (ground the first node of each)
+    const core = new Map();
+    for (let i = 0; i < nodes.length; i++) if (deg[i] > 1) { const nt = nodes[i].net; if (!core.has(nt)) core.set(nt, []); core.get(nt).push(i); }
+    for (const list of core.values()) {
+      const N = list.length - 1; if (N < 1 || N > 160) continue;
+      const pos = new Map(list.map((v, k) => [v, k - 1]));
+      const A = Array.from({ length: N }, () => new Float64Array(N + 3));
+      for (const v of list) {
+        const r = pos.get(v); if (r < 0) continue;
+        A[r][N] = nodes[v].dc; A[r][N + 1] = nodes[v].re; A[r][N + 2] = nodes[v].im;
+      }
+      for (const v of list) for (const k of nodes[v].e) {
+        const E = edges[k]; if (!E.alive || E.a !== v) continue;
+        const ra = pos.get(E.a), rb = pos.get(E.b);
+        if (ra >= 0) A[ra][ra] += E.g; if (rb >= 0) A[rb][rb] += E.g;
+        if (ra >= 0 && rb >= 0) { A[ra][rb] -= E.g; A[rb][ra] -= E.g; }
+      }
+      for (let c0 = 0; c0 < N; c0++) {
+        let pr = c0; for (let r = c0 + 1; r < N; r++) if (Math.abs(A[r][c0]) > Math.abs(A[pr][c0])) pr = r;
+        if (Math.abs(A[pr][c0]) < 1e-15) continue;
+        if (pr !== c0) { const t = A[pr]; A[pr] = A[c0]; A[c0] = t; }
+        for (let r = c0 + 1; r < N; r++) { const f = A[r][c0] / A[c0][c0]; if (!f) continue; for (let cc = c0; cc < N + 3; cc++) A[r][cc] -= f * A[c0][cc]; }
+      }
+      const V = [new Float64Array(N), new Float64Array(N), new Float64Array(N)];
+      for (let r = N - 1; r >= 0; r--) for (let z = 0; z < 3; z++) { let s = A[r][N + z]; for (let cc = r + 1; cc < N; cc++) s -= A[r][cc] * V[z][cc]; V[z][r] = Math.abs(A[r][r]) < 1e-15 ? 0 : s / A[r][r]; }
+      const vOf = (v, z) => { const r = pos.get(v); return r < 0 ? 0 : V[z][r]; };
+      for (const v of list) for (const k of nodes[v].e) {
+        const E = edges[k]; if (!E.alive || E.a !== v) continue;
+        E.dc = E.g * (vOf(E.a, 0) - vOf(E.b, 0)); E.re = E.g * (vOf(E.a, 1) - vOf(E.b, 1)); E.im = E.g * (vOf(E.a, 2) - vOf(E.b, 2));
+      }
+    }
+    for (const E of edges) if (E.w) out.set(E.w.id, Math.sqrt(E.dc * E.dc + E.re * E.re + E.im * E.im));
+    return out;
+  };
+  /* wire heating: rise ~ (I/Iz)², first order with time constant tau. 70 °C at Iz (PVC limit), the insulation chars at 230 °C:
+     it never gets there below about 2.2 x Iz, at 2.5 x Iz it burns after a while, a short circuit not cleared burns it fast. */
+  EL.wireHeat = function (circuit, sim, dt, cleared) {
+    const WS = EL.WIRE; if (!WS) return;
+    const th = circuit.wth || (circuit.wth = {}), cur = sim.wireI || new Map();
+    const span = (WS.tMax - WS.tAmb), tr = (x) => (EL.tr ? EL.tr(x) : x[0]);
+    for (const w of circuit.wires) {
+      if (w.kind) continue;
+      let s = th[w.id];
+      const I = w.cut ? 0 : cur.get(w.id) || 0;
+      if (!s) { if (!I) continue; s = th[w.id] = { th: 0, I: 0 }; }
+      const mm2 = WS.mm2(circuit, w, sim.partById), iz = WS.iz[mm2], x = I / iz;
+      // a magnetic trip or a fuse clears a short within a few ms and limits the energy (let-through I²t about 15 000 A²s)
+      if (cleared && x > 5) s.th += Math.min(I * I * 0.01, 15000) / (iz * iz * WS.tau(mm2));
+      else s.th += (x * x - s.th) * (1 - Math.exp(-dt / WS.tau(mm2)));
+      if (s.th < 1e-4 && !I) { delete th[w.id]; continue; }
+      s.I = I; s.iz = iz;
+      const T = WS.tAmb + span * s.th, lab = () => WS.label2(circuit, w) + ' ' + mm2 + ' mm²';
+      if (T >= WS.tBurn && !w.cut) {
+        w.cut = true; w.burnt = true; s.I = 0;
+        EL.emit('burn', { id: w.id, tag: lab() }, tr(['wire insulation burnt at ' + I.toFixed(1) + ' A, Iz ' + iz + ' A. Replace the wire with a bigger size or fix the protection', 'عزل السلك اتحرق عند ' + I.toFixed(1) + ' أمبير، وتحمّله ' + iz + ' أمبير. غيّر السلك بمقاس أكبر أو صلّح الحماية']));
+      } else if (T > WS.tSc && !s.w2) { s.w2 = true; EL.emit('alarm', { id: w.id, tag: lab() }, { k: ['Wire above 160 °C', 'السلك فوق 160 درجة'], n: ['insulation is being damaged (' + I.toFixed(1) + ' A on Iz ' + iz + ' A)', 'العزل بيتلف (' + I.toFixed(1) + ' أمبير على تحمّل ' + iz + ' أمبير)'] }); }
+      else if (T > WS.tMax + 2 && !s.w1) { s.w1 = true; EL.emit('alarm', { id: w.id, tag: lab() }, { k: ['Wire overloaded', 'السلك عليه حمل زيادة'], n: [I.toFixed(1) + ' A on a wire for ' + iz + ' A: it is heating up', I.toFixed(1) + ' أمبير على سلك تحمّله ' + iz + ' أمبير: بيسخن'] }); }
+      if (T < WS.tMax - 10) s.w1 = false; if (T < WS.tSc - 20) s.w2 = false;
+    }
+  };
+
   /* ---------- tick ---------- */
   EL.events = [];
   EL.emit = function (type, part, msg) { EL.events.push({ type, part: part && part.id, tag: part && part.tag, msg }); };
@@ -393,9 +497,15 @@
         sim.shorts.push(isl);
       }
     }
+    const ev0 = EL.events.length;
     for (const p of circuit.parts) {
       const m = EL.models[p.type];
       if (m && m.update) m.update(p, sim, dt, ctx, circuit);
+    }
+    if (EL.WIRE && circuit.wires.length && !ctx.noWires) {
+      sim.wireI = EL.wireCurrents(circuit, sim);
+      let cleared = false; for (let i = ev0; i < EL.events.length; i++) { const t = EL.events[i].type; if (t === 'trip' || t === 'blow' || t === 'fault') cleared = true; }
+      EL.wireHeat(circuit, sim, dt, cleared);
     }
     if (circuit.plant && EL.plant && !ctx.noPlant) EL.plant.step(circuit, dt);
     if (circuit.line && EL.line && !ctx.noPlant) EL.line.step(circuit, dt);

@@ -39,13 +39,14 @@
   const DEFAULT_PROG = 'Q0 = (I0 or Q0) and I1   // I0 = START (NO button), I1 = STOP (NC contact wired to the input)\nQ1 = TON(Q0, 3)           // Q1 comes on 3 s after Q0';
 
   /* ================= PLC ================= */
-  function plc(kind) {
-    const rel = kind === 'R', nQ = rel ? 4 : 6, nI = 8, w = 270, h = 150;
-    const pins = [pin('LP', 'L+', 24, 0, 'u', { role: 'pos' }), pin('M', 'M', 52, 0, 'u', { role: 'neg' })];
-    if (rel) for (let i = 0; i < nQ; i++) pins.push(pin('Q' + i, 'Q' + i, 96 + 40 * i, 0, 'u'), pin('C' + i, 'C' + i, 96 + 40 * i + 20, 0, 'u'));
+  function plc(kind, o) {
+    o = o || {}; // options (S7CPU): nI, nQ, nAO, w, h, pins
+    const rel = kind === 'R', nQ = o.nQ || (rel ? 4 : 6), nI = o.nI || 8, nAO = o.nAO != null ? o.nAO : rel ? 0 : 1, w = o.w || 270, h = o.h || 150;
+    const pins = o.pins ? o.pins.slice() : [pin('LP', 'L+', 24, 0, 'u', { role: 'pos' }), pin('M', 'M', 52, 0, 'u', { role: 'neg' })];
+    if (o.pins) { /* pins given by the caller */ } else if (rel) for (let i = 0; i < nQ; i++) pins.push(pin('Q' + i, 'Q' + i, 96 + 40 * i, 0, 'u'), pin('C' + i, 'C' + i, 96 + 40 * i + 20, 0, 'u'));
     else { for (let i = 0; i < nQ; i++) pins.push(pin('Q' + i, 'Q' + i, 96 + 24 * i, 0, 'u')); pins.push(pin('AO0', 'AO0', 96 + 24 * nQ + 8, 0, 'u')); }
-    for (let i = 0; i < nI; i++) pins.push(pin('I' + i, 'I' + i, 20 + 24 * i, h, 'd'));
-    pins.push(pin('AI0', 'AI0', 218, h, 'd'), pin('AI1', 'AI1', 244, h, 'd'));
+    if (!o.pins) { for (let i = 0; i < nI; i++) pins.push(pin('I' + i, 'I' + i, 20 + 24 * i, h, 'd'));
+      pins.push(pin('AI0', 'AI0', 218, h, 'd'), pin('AI1', 'AI1', 244, h, 'd')); }
     return {
       cat: 'auto', prefix: 'PLC', name: rel ? ['PLC 24 V DC, relay outputs', 'PLC 24 فولت DC بخرج ريلاي'] : ['PLC 24 V DC, transistor outputs', 'PLC 24 فولت DC بخرج ترانزستور'], w, h,
       info: rel
@@ -67,7 +68,7 @@
           if (rel) { if (on || st.weld[i]) out.push(Z(P(p, 'Q' + i), P(p, 'C' + i), RC, 0, { tag: 'q' + i })); }
           else out.push(on ? Z(P(p, 'LP'), P(p, 'Q' + i), 0.4, 0, { tag: 'q' + i }) : Z(P(p, 'Q' + i), P(p, 'M'), 1e6, 0, { tag: 'q' + i, noAC: true }));
         }
-        if (!rel) {
+        if (!rel && nAO) {
           if (st.sup && st.ao[0] > 0.01) out.push(VS(P(p, 'M'), INT(p, 'ao'), { vdc: st.ao[0], tag: 'ao' }), Z(INT(p, 'ao'), P(p, 'AO0'), 500, 0, { tag: 'aoz' }));
           else out.push(Z(P(p, 'AO0'), P(p, 'M'), 1e6, 0, { tag: 'aoz', noAC: true }));
         }
@@ -128,6 +129,59 @@
   }
   D.PLC24 = plc('T');
   D.PLC24R = plc('R');
+
+  /* ---- compact CPU in the S7-1200 style: CPU 1214C DC/DC/DC, 14 DI, 10 DQ (transistor, sourcing), 2 AI 0-10 V, no AO ----
+     pin ids I0..I13 = I0.0..I0.7, I1.0..I1.5 ; Q0..Q9 = Q0.0..Q0.7, Q1.0, Q1.1 ; the ladder maps byte 1 to index 8 + bit */
+  (function () {
+    const nI = 14, nQ = 10, w = 480, h = 180, X0 = 84, DX = 24;
+    const adr = (k, i) => k + (i >> 3) + '.' + (i & 7);
+    const pins = [pin('LP', 'L+', 20, 0, 'u', { role: 'pos' }), pin('M', 'M', 44, 0, 'u', { role: 'neg' })];
+    for (let i = 0; i < nI; i++) pins.push(pin('I' + i, adr('I', i), X0 + DX * i, 0, 'u'));
+    pins.push(pin('AI0', 'AI0', 432, 0, 'u'), pin('AI1', 'AI1', 456, 0, 'u'));
+    for (let i = 0; i < nQ; i++) pins.push(pin('Q' + i, adr('Q', i), X0 + DX * i, h, 'd'));
+    const d = plc('T', { nI, nQ, nAO: 0, w, h, pins });
+    d.prefix = 'PLC';
+    d.name = ['PLC S7-1200 style CPU 1214C DC/DC/DC', 'PLC نوع S7-1200 (CPU 1214C DC/DC/DC)'];
+    d.info = ['Compact CPU like the S7-1200 CPU 1214C DC/DC/DC: 14 digital inputs 24 V DC (I0.0-I0.7, I1.0-I1.5, sinking: wire a switch from +24 V to the input), 10 sourcing transistor outputs (Q0.0-Q0.7, Q1.0, Q1.1, 24 V, 0.5 A each), 2 analog inputs 0-10 V (IW64, IW66), no analog output. Program it in the Programming tab (ladder) and export the code for the real CPU. Click RUN/STOP on the front to switch mode.', 'CPU صغير زي S7-1200 CPU 1214C DC/DC/DC: 14 مدخل ديجيتال 24 فولت DC (I0.0-I0.7 و I1.0-I1.5، وصّل المفتاح من +24 للمدخل)، و10 مخارج ترانزستور (Q0.0-Q0.7 و Q1.0 و Q1.1، 24 فولت و0.5 أمبير لكل واحد)، ومدخلين أنالوج 0-10 فولت (IW64 و IW66)، ومفيش خرج أنالوج. برمجه من تاب البرمجة (لادر) وطلّع الكود للـCPU الحقيقي. اضغط RUN/STOP على الواجهة لتغيير الوضع.'];
+    d.diag = Object.assign({}, d.diag, { cpu: '1214C', feed: ['LP', 'M'], volt: () => 24, ac: () => false, active: (p) => !!p.state.sup });
+    d.props = d.props.map((x) => (x.k === 'mode' ? Object.assign({}, x, { def: 'ladder' }) : x));
+    d.press = function (p, ev) {
+      if (ev.type !== 'down') return;
+      if (ev.lx != null && ev.ly != null && ev.lx > 10 && ev.lx < 92 && ev.ly > 46 && ev.ly < 126) { p.state.run = !p.state.run; EL.emit('click', p); return { msg: p.state.run ? ['CPU in RUN.', 'الـCPU في وضع RUN.'] : ['CPU in STOP. Outputs are off.', 'الـCPU في STOP. كل المخارج مفصولة.'] }; }
+    };
+    const led = (x, y, on, c) => `<rect x="${x - 4}" y="${y - 3}" width="8" height="6" rx="1" fill="${on ? c : '#2a2e33'}" stroke="#16181b" stroke-width=".8"/>`;
+    const term = (x, y) => `<rect x="${x - 9}" y="${y}" width="18" height="16" rx="2" fill="#2b2f34" stroke="#121417"/><circle cx="${x}" cy="${y + 8}" r="4" fill="#9aa2ab" stroke="#4b5158"/><line x1="${x - 2.5}" y1="${y + 8}" x2="${x + 2.5}" y2="${y + 8}" stroke="#3a3f45" stroke-width="1.4"/>`;
+    d.draw = function (p) {
+      const st = p.state, run = st.sup && st.run, txt = (x, y, s, sz, c, a) => `<text x="${x}" y="${y}" font-size="${sz}" fill="${c}" text-anchor="${a || 'middle'}" font-family="Arial, sans-serif">${s}</text>`;
+      let r = `<rect x="0" y="0" width="${w}" height="${h}" rx="5" fill="#3d4247" stroke="#1d2024" stroke-width="1.5"/>`;
+      // terminal covers (top: supply, DI, AI ; bottom: DQ)
+      r += `<rect x="4" y="2" width="${w - 8}" height="34" rx="3" fill="#2f3338"/><rect x="4" y="${h - 36}" width="${X0 + DX * nQ - 2}" height="34" rx="3" fill="#2f3338"/>`;
+      for (const q of pins) r += q.y === 0 ? wl(q.x, 0, q.x, 4) + term(q.x, 4) : wl(q.x, h, q.x, h - 4) + term(q.x, h - 20); // the editor prints the pin labels
+      // front: status LEDs, I/O LEDs, label, Ethernet port
+      r += `<rect x="10" y="46" width="82" height="80" rx="3" fill="#33373c" stroke="#25282c"/>`;
+      r += led(22, 58, run, '#3ddc6a') + txt(30, 61, 'RUN', 7, '#c9ced4', 'start');
+      r += led(22, 74, st.sup && !st.run, '#f0b429') + txt(30, 77, 'STOP', 7, '#c9ced4', 'start');
+      r += led(22, 90, st.sup && !!st.err, '#ff4d3d') + txt(30, 93, 'ERROR', 7, '#c9ced4', 'start');
+      r += led(22, 106, false, '#f0b429') + txt(30, 109, 'MAINT', 7, '#c9ced4', 'start');
+      r += txt(51, 121, 'RUN / STOP', 6, '#8f979f');
+      r += `<rect x="104" y="46" width="${w - 116}" height="22" rx="2" fill="#33373c"/>`;
+      for (let i = 0; i < nI; i++) { const x = 116 + 16 * i; r += led(x, 54, st.sup && st.i[i], '#3ddc6a') + txt(x, 65, (i >> 3) + '.' + (i & 7), 5.5, '#aeb5bc'); }
+      r += txt(116 + 16 * nI + 4, 57, 'DI', 6.5, '#aeb5bc', 'start');
+      r += `<rect x="104" y="${h - 66}" width="${16 * nQ + 30}" height="22" rx="2" fill="#33373c"/>`;
+      for (let i = 0; i < nQ; i++) { const x = 116 + 16 * i, on = run && st.q[i] && !st.ovl[i]; r += led(x, h - 58, on, '#3ddc6a') + txt(x, h - 47, (i >> 3) + '.' + (i & 7), 5.5, '#aeb5bc'); }
+      r += txt(116 + 16 * nQ + 2, h - 55, 'DQ', 6.5, '#aeb5bc', 'start');
+      r += txt(110, 90, 'CPU 1214C', 14, '#eef1f4', 'start') + txt(110, 104, 'DC/DC/DC', 9, '#c9ced4', 'start');
+      r += txt(250, 90, p.props.mode === 'ladder' ? 'LAD' : 'TEXT', 8, '#8f979f', 'start') + txt(250, 104, (st.ai[0] || 0).toFixed(1) + ' V  ' + (st.ai[1] || 0).toFixed(1) + ' V', 8, '#8f979f', 'start') + txt(250, 76, 'AI0  AI1', 7, '#8f979f', 'start');
+      r += `<rect x="${w - 70}" y="${h - 68}" width="52" height="42" rx="3" fill="#1d2024" stroke="#0e1012"/><rect x="${w - 60}" y="${h - 60}" width="32" height="24" rx="1" fill="#0b0c0e" stroke="#5c636b"/><rect x="${w - 50}" y="${h - 38}" width="12" height="4" fill="#0b0c0e" stroke="#5c636b"/>`;
+      r += led(w - 62, h - 64, run, '#3ddc6a') + led(w - 26, h - 64, run, '#f0b429') + txt(w - 44, h - 18, 'X1 P1', 6.5, '#aeb5bc');
+      if (!st.sup) r += txt(w / 2 + 60, 125, 'NO POWER', 9, '#ff8a7a');
+      if (st.err) r += txt(w / 2 + 60, 125, 'PROGRAM ERROR', 9, '#ff8a7a');
+      for (let i = 0; i < nQ; i++) if (st.ovl[i] > 0) { r += txt(w / 2 + 60, 137, adr('Q', i) + ' SHORT', 9, '#ff8a7a'); break; }
+      if (st.burnt) r += smoke(60, 60);
+      return r;
+    };
+    D.S7CPU = d;
+  })();
 
   /* ================= MCU board, 5 V logic ================= */
   D.MCU = {

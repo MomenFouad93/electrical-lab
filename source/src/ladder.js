@@ -18,14 +18,15 @@
   /* ---------- addresses ---------- */
   const BIT = /^(I|Q|M)(\d{1,2})\.([0-7])$/, TIM = /^T(\d{1,2})$/, CNT = /^C(\d{1,2})$/, MW = /^MW(\d{1,2})$/;
   LD.norm = (a) => String(a == null ? '' : a).trim().toUpperCase().replace(/\s+/g, '');
-  LD.bitInfo = function (a, nQ) {
+  /* nI / nQ = inputs / outputs of the CPU (8 / 6 by default). Byte 1 (I1.x, Q1.x) exists only on CPUs with more than 8: index 8 + bit. */
+  LD.bitInfo = function (a, nQ, nI) {
     a = LD.norm(a);
     if (a === 'TRUE' || a === 'FALSE') return { area: 'K', v: a === 'TRUE' };
     let m = BIT.exec(a);
     if (m) {
-      const byte = +m[2], bit = +m[3];
-      if (m[1] === 'I') return byte === 0 ? { area: 'I', i: bit } : null;
-      if (m[1] === 'Q') return byte === 0 && bit < (nQ || 6) ? { area: 'Q', i: bit } : null;
+      const byte = +m[2], bit = +m[3], k = byte * 8 + bit;
+      if (m[1] === 'I') return byte <= 1 && k < (nI || 8) ? { area: 'I', i: k } : null;
+      if (m[1] === 'Q') return byte <= 1 && k < (nQ || 6) ? { area: 'Q', i: k } : null;
       return byte < 16 ? { area: 'M', i: byte * 8 + bit } : null;
     }
     if ((m = TIM.exec(a)) && +m[1] < 32) return { area: 'T', k: 'T' + +m[1] };
@@ -46,6 +47,11 @@
   };
 
   /* ---------- sanitising (files, pasted text, editor) ---------- */
+  LD.ioAddr = (k, i) => k + (i >> 3) + '.' + (i & 7); // ('Q', 9) -> 'Q1.1'
+  LD.ioOf = (p) => { const d = (EL.defs[p.type] && EL.defs[p.type].diag) || {}; return { nI: d.nI || 8, nQ: d.nQ || 6, rel: !!d.rel }; };
+  // terminal name in messages: the pin id (I3) on the small PLCs, the address (I1.2) on CPUs with byte 1
+  const TN = (k, i) => (i > 7 ? LD.ioAddr(k, i) : k + i);
+  LD.ioRange = (k, n) => k + '0.0-' + LD.ioAddr(k, n - 1);
   const S = (v, n) => String(v == null ? '' : v).replace(/[<>`"&]/g, '').slice(0, n);
   const num = (v, d, lo, hi) => { const x = +v; return isFinite(x) ? Math.max(lo, Math.min(hi, x)) : d; };
   function cleanItems(arr, depth) {
@@ -94,7 +100,7 @@
   LD.toText = (prog) => JSON.stringify(prog);
 
   /* ---------- memory access ---------- */
-  function mem(st, nQ) {
+  function mem(st, nQ, nI) {
     st.mb = st.mb || new Array(128).fill(0);
     st.mw = st.mw || {};
     st.tm = st.tm || {};
@@ -102,7 +108,7 @@
     st.ed = st.ed || {};
     return {
       bit(a) {
-        const b = LD.bitInfo(a, nQ);
+        const b = LD.bitInfo(a, nQ, nI);
         if (!b) return 0;
         if (b.area === 'K') return b.v ? 1 : 0;
         if (b.area === 'I') return st.i[b.i] ? 1 : 0;
@@ -113,7 +119,7 @@
         return 0;
       },
       setBit(a, v) {
-        const b = LD.bitInfo(a, nQ);
+        const b = LD.bitInfo(a, nQ, nI);
         if (!b) return;
         if (b.area === 'Q') st.q[b.i] = v ? 1 : 0;
         else if (b.area === 'M') st.mb[b.i] = v ? 1 : 0;
@@ -148,7 +154,7 @@
   const TRACE = new WeakMap(); // part -> [ {items:{path:{pin,pout,st,val}}, outs:[...], rung} ]
   LD.trace = (p) => TRACE.get(p) || [];
   LD.run = function (p, st, dt, circuit, nQ) {
-    const prog = LD.progOf(p), M = mem(st, nQ), tr = [];
+    const nI = LD.ioOf(p).nI, prog = LD.progOf(p), M = mem(st, nQ || LD.ioOf(p).nQ, nI), tr = [];
     let errs = prog.bad ? 1 : 0;
     prog.nets.forEach((n, ni) => {
       const t = { items: {}, outs: [], rung: false };
@@ -249,13 +255,13 @@
 
   /* ---------- why is a rung FALSE ---------- */
   LD.why = function (p, ni, c) {
-    const prog = LD.progOf(p), n = prog.nets[ni], t = LD.trace(p)[ni], st = p.state, nQ = (EL.defs[p.type].diag || {}).nQ || 6;
+    const prog = LD.progOf(p), n = prog.nets[ni], t = LD.trace(p)[ni], st = p.state, nQ = LD.ioOf(p).nQ, nI = LD.ioOf(p).nI;
     if (!n || !t) return [];
     if (t.rung) {
-      const qs = n.o.filter((o) => o.t === 'COIL' && /^Q/.test(LD.norm(o.a))).map((o) => LD.bitInfo(o.a, nQ)).filter(Boolean);
+      const qs = n.o.filter((o) => o.t === 'COIL' && /^Q/.test(LD.norm(o.a))).map((o) => LD.bitInfo(o.a, nQ, nI)).filter(Boolean);
       if (qs.length) {
         const b0 = qs[0], rel = (EL.defs[p.type].diag || {}).rel, to = LD.wiredTo(c, p, 'Q' + b0.i).join(', ') || '-';
-        return [{ ok: true, msg: E('Power flows through the whole rung: output Q0.' + b0.i + ' is ON. If the device on it does not work, measure at ' + p.tag + ':Q' + b0.i + (rel ? ' (the contact needs supply on C' + b0.i + ')' : '') + ', then the wire to ' + to + ', the coil, and its return to N / 0 V.', 'الباور معدي في السطر كله: المخرج Q0.' + b0.i + ' شغال. لو الجهاز اللي عليه مش شغال، قيس عند ' + p.tag + ':Q' + b0.i + (rel ? ' (الكونتاكت محتاج تغذية على C' + b0.i + ')' : '') + '، وبعدين السلك لـ' + to + '، والكويل، والرجوع لـN / 0 فولت.') }];
+        return [{ ok: true, msg: E('Power flows through the whole rung: output ' + LD.ioAddr('Q', b0.i) + ' is ON. If the device on it does not work, measure at ' + p.tag + ':' + TN('Q', b0.i) + (rel ? ' (the contact needs supply on C' + b0.i + ')' : '') + ', then the wire to ' + to + ', the coil, and its return to N / 0 V.', 'الباور معدي في السطر كله: المخرج ' + LD.ioAddr('Q', b0.i) + ' شغال. لو الجهاز اللي عليه مش شغال، قيس عند ' + p.tag + ':' + TN('Q', b0.i) + (rel ? ' (الكونتاكت محتاج تغذية على C' + b0.i + ')' : '') + '، وبعدين السلك لـ' + to + '، والكويل، والرجوع لـN / 0 فولت.') }];
       }
       return [{ ok: true, msg: E('Power flows through the whole rung. The outputs are ON.', 'الباور معدي في السطر كله. المخارج شغالة.') }];
     }
@@ -273,7 +279,7 @@
     function explain(it, r) {
       if (it.t === 'CMP') { const kb = LD.wordInfo(it.b) && LD.wordInfo(it.b).area === 'K', bb = kb ? '' : ', ' + lab(prog, it.b) + ' = ' + r.val[1], tr = wordTrail(it.a); return { msg: E(lab(prog, it.a) + ' = ' + r.val[0] + bb + ': "' + r.val[0] + ' ' + it.op + ' ' + r.val[1] + '" is false, so the compare blocks.' + tr[0], lab(prog, it.a) + ' = ' + r.val[0] + bb + ': "' + r.val[0] + ' ' + it.op + ' ' + r.val[1] + '" مش صح، فالمقارنة قافلة.' + tr[1]) }; }
       if (false) return { msg: E(lab(prog, it.a) + ' = ' + r.val[0] + ', ' + it.b + ' = ' + r.val[1] + ': "' + r.val[0] + ' ' + it.op + ' ' + r.val[1] + '" is false, so the compare blocks.', lab(prog, it.a) + ' = ' + r.val[0] + ' و' + it.b + ' = ' + r.val[1] + ': "' + r.val[0] + ' ' + it.op + ' ' + r.val[1] + '" مش صح، فالمقارنة قافلة.') };
-      const a = LD.norm(it.a), b = LD.bitInfo(a, nQ), v = r.val ? 1 : 0;
+      const a = LD.norm(it.a), b = LD.bitInfo(a, nQ, nI), v = r.val ? 1 : 0;
       let base;
       if (it.t === 'NO') base = E(lab(prog, a) + ' = 0, so the NO contact is open.', lab(prog, a) + ' = 0، فالكونتاكت NO مفتوح.');
       else if (it.t === 'NC') base = E(lab(prog, a) + ' = 1, so the NC contact is open.', lab(prog, a) + ' = 1، فالكونتاكت NC مفتوح.');
@@ -284,8 +290,8 @@
     function source(a, b, v, kind) {
       if (b.area === 'I') {
         const w = LD.wiredTo(c, p, 'I' + b.i), vin = st.i[b.i] ? '24 V' : '0 V';
-        if (!w.length) return E('Nothing is wired to terminal I' + b.i + ' of ' + p.tag + '.', 'مفيش حاجة متوصلة على طرف I' + b.i + ' في ' + p.tag + '.');
-        return E('The input sees ' + vin + ' from ' + w.join(', ') + '. Either that device really is in this state, or it or its wire to ' + p.tag + ':I' + b.i + ' is faulty: check with the meter.', 'المدخل شايف ' + vin + ' من ' + w.join('، ') + '. يا إما الجهاز ده فعلا في الحالة دي، يا إما هو أو سلكه لـ' + p.tag + ':I' + b.i + ' فيه عطل: افحص بالميتر.');
+        if (!w.length) return E('Nothing is wired to terminal ' + TN('I', b.i) + ' of ' + p.tag + '.', 'مفيش حاجة متوصلة على طرف ' + TN('I', b.i) + ' في ' + p.tag + '.');
+        return E('The input sees ' + vin + ' from ' + w.join(', ') + '. Either that device really is in this state, or it or its wire to ' + p.tag + ':' + TN('I', b.i) + ' is faulty: check with the meter.', 'المدخل شايف ' + vin + ' من ' + w.join('، ') + '. يا إما الجهاز ده فعلا في الحالة دي، يا إما هو أو سلكه لـ' + p.tag + ':' + TN('I', b.i) + ' فيه عطل: افحص بالميتر.');
       }
       if (b.area === 'T') {
         const T = st.tm && st.tm[b.k], ws = writers(prog, a);
@@ -321,11 +327,11 @@
 
   /* ---------- static program check ---------- */
   LD.check = function (prog, p, c) {
-    const out = [], nQ = (EL.defs[p.type].diag || {}).nQ || 6, rel = (EL.defs[p.type].diag || {}).rel;
+    const out = [], io = LD.ioOf(p), nQ = io.nQ, nI = io.nI, rel = io.rel, rI = LD.ioRange('I', nI), rQ = LD.ioRange('Q', nQ);
     const add = (lvl, ni, msg) => out.push({ lvl, ni, msg });
     const reads = new Map(), coils = new Map();
     const noteRead = (a, ni) => { a = LD.norm(a); if (!reads.has(a)) reads.set(a, ni); };
-    const checkBit = (a, ni, what) => { if (!LD.bitInfo(a, nQ)) add('bad', ni, E(what + ' "' + (a || '?') + '" is not a valid bit address (I0.0-I0.7, Q0.0-Q0.' + (nQ - 1) + ', M0.0-M15.7, T0-T31, C0-C15).', what + ' "' + (a || '?') + '" مش عنوان بت صحيح (I0.0-I0.7، Q0.0-Q0.' + (nQ - 1) + '، M0.0-M15.7، T0-T31، C0-C15).')); };
+    const checkBit = (a, ni, what) => { if (!LD.bitInfo(a, nQ, nI)) add('bad', ni, E(what + ' "' + (a || '?') + '" is not a valid bit address (' + rI + ', ' + rQ + ', M0.0-M15.7, T0-T31, C0-C15).', what + ' "' + (a || '?') + '" مش عنوان بت صحيح (' + rI + '، ' + rQ + '، M0.0-M15.7، T0-T31، C0-C15).')); };
     const checkWord = (a, ni, what) => { if (!LD.wordInfo(a)) add('bad', ni, E(what + ' "' + (a || '?') + '" is not a number or word address (MW0-MW62, IW64, IW66, QW80, T1, C1).', what + ' "' + (a || '?') + '" مش رقم ولا عنوان وورد (MW0-MW62، IW64، IW66، QW80، T1، C1).')); };
     const walk = (items, ni) => items.forEach((it) => {
       if (it.t === 'PAR') { it.br.forEach((b) => walk(b, ni)); return; }
@@ -337,8 +343,8 @@
       if (!n.o.length) add('warn', ni, E('Network ' + (ni + 1) + ' has no output, so it does nothing.', 'نتورك ' + (ni + 1) + ' مفيهوش خرج، فمش بيعمل حاجة.'));
       n.o.forEach((o) => {
         if (['COIL', 'SET', 'RST'].includes(o.t)) {
-          const b = LD.bitInfo(o.a, nQ);
-          if (!b || !['Q', 'M'].includes(b.area)) add('bad', ni, E('Coil "' + (o.a || '?') + '" must be an output Q0.0-Q0.' + (nQ - 1) + ' or a memory bit M.', 'الكويل "' + (o.a || '?') + '" لازم يكون مخرج Q0.0-Q0.' + (nQ - 1) + ' أو بت ميموري M.'));
+          const b = LD.bitInfo(o.a, nQ, nI);
+          if (!b || !['Q', 'M'].includes(b.area)) add('bad', ni, E('Coil "' + (o.a || '?') + '" must be an output ' + rQ + ' or a memory bit M.', 'الكويل "' + (o.a || '?') + '" لازم يكون مخرج ' + rQ + ' أو بت ميموري M.'));
           else if (o.t === 'COIL') { const k = LD.norm(o.a); if (!coils.has(k)) coils.set(k, []); coils.get(k).push(ni); }
         } else if (['TON', 'TOF', 'TP'].includes(o.t)) {
           const b = LD.bitInfo(o.a); if (!b || b.area !== 'T') add('bad', ni, E('Timer name must be T0-T31.', 'اسم التايمر لازم يكون T0-T31.'));
@@ -359,17 +365,17 @@
     });
     for (const [a, nets] of coils) if (nets.length > 1) add('warn', nets[1], E('Double coil: ' + a + ' is written in networks ' + nets.map((x) => x + 1).join(' and ') + '. Only the last one counts.', 'كويل مكرر: ' + a + ' مكتوب في نتورك ' + nets.map((x) => x + 1).join(' و') + '. الأخير بس هو اللي بيتنفذ.'));
     for (const [a, ni] of reads) {
-      const b = LD.bitInfo(a, nQ), w = LD.wordInfo(a);
+      const b = LD.bitInfo(a, nQ, nI), w = LD.wordInfo(a);
       if (b && ['Q', 'M', 'T', 'C'].includes(b.area) && !writers(prog, a).length) add('warn', ni, E(a + ' is read but nothing in the program sets it, so it stays 0.', a + ' بيتقري لكن مفيش حاجة في البرنامج بتشغله، فهيفضل 0.'));
       if (!b && w && w.area === 'MW' && !writers(prog, a).length) add('warn', ni, E(a + ' is read but never written, so it stays 0.', a + ' بيتقري ومحدش بيكتب فيه، فهيفضل 0.'));
-      if (b && b.area === 'I' && c && !LD.wiredTo(c, p, 'I' + b.i).length) add('warn', ni, E(a + ' is used, but nothing is wired to terminal I' + b.i + ' of ' + p.tag + '.', a + ' مستخدم، لكن مفيش حاجة متوصلة على طرف I' + b.i + ' في ' + p.tag + '.'));
+      if (b && b.area === 'I' && c && !LD.wiredTo(c, p, 'I' + b.i).length) add('warn', ni, E(a + ' is used, but nothing is wired to terminal ' + TN('I', b.i) + ' of ' + p.tag + '.', a + ' مستخدم، لكن مفيش حاجة متوصلة على طرف ' + TN('I', b.i) + ' في ' + p.tag + '.'));
       if (w && w.area === 'IW' && c && !LD.wiredTo(c, p, 'AI' + w.i).length) add('warn', ni, E(a + ' reads analog input AI' + w.i + ', but nothing is wired to it.', a + ' بيقرا المدخل الأنالوج AI' + w.i + ' ومفيش حاجة متوصلة عليه.'));
     }
     if (c) for (const [a] of coils) {
-      const b = LD.bitInfo(a, nQ);
+      const b = LD.bitInfo(a, nQ, nI);
       if (b && b.area === 'Q') {
         const wired = LD.wiredTo(c, p, 'Q' + b.i).length && (!rel || LD.wiredTo(c, p, 'C' + b.i).length);
-        if (!wired) add('warn', coils.get(a)[0], E('Output ' + a + ' is used, but terminal ' + (rel ? 'Q' + b.i + ' / C' + b.i : 'Q' + b.i) + ' of ' + p.tag + ' is not wired, so it switches nothing.', 'المخرج ' + a + ' مستخدم، لكن طرف ' + (rel ? 'Q' + b.i + ' / C' + b.i : 'Q' + b.i) + ' في ' + p.tag + ' مش متوصل، فمش هيشغل حاجة.'));
+        if (!wired) add('warn', coils.get(a)[0], E('Output ' + a + ' is used, but terminal ' + (rel ? 'Q' + b.i + ' / C' + b.i : TN('Q', b.i)) + ' of ' + p.tag + ' is not wired, so it switches nothing.', 'المخرج ' + a + ' مستخدم، لكن طرف ' + (rel ? 'Q' + b.i + ' / C' + b.i : TN('Q', b.i)) + ' في ' + p.tag + ' مش متوصل، فمش هيشغل حاجة.'));
       }
     }
     return out;

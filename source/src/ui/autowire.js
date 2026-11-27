@@ -15,10 +15,10 @@
     return { x, y: 20 };
   }
   function source(c, at) { return c.parts.find((p) => p.type === 'SRC3') || EL.addPart(c, 'SRC3', at.x, at.y); }
-  const plcOf = (c) => c.parts.find((p) => p.type === 'PLC24R' || p.type === 'PLC24');
-  function freeIn(c, plc) { for (let i = 0; i < 8; i++) if (!wired(c, plc, 'I' + i)) return i; return -1; }
+  const plcOf = (c) => c.parts.find((p) => (EL.defs[p.type].diag || {}).kind === 'plc');
+  function freeIn(c, plc) { const n = (EL.defs[plc.type].diag || {}).nI || 8; for (let i = 0; i < n; i++) if (!wired(c, plc, 'I' + i)) return i; return -1; }
   function freeAI(c, plc) { for (let i = 0; i < 2; i++) if (!wired(c, plc, 'AI' + i)) return i; return -1; }
-  function freeQ(c, plc) { const rel = plc.type === 'PLC24R', n = rel ? 4 : 6; for (let i = 0; i < n; i++) if (!wired(c, plc, 'Q' + i)) return i; return -1; }
+  function freeQ(c, plc) { const n = (EL.defs[plc.type].diag || {}).nQ || 6; for (let i = 0; i < n; i++) if (!wired(c, plc, 'Q' + i)) return i; return -1; }
   function setSym(plc, addr, name) {
     if (!plc || !name) return;
     let o = null; try { o = plc.props.lad ? JSON.parse(plc.props.lad) : null; } catch (e) { o = null; }
@@ -54,7 +54,7 @@
     W(c, ref(plc, 'LP'), ref(s, '11'));
     if (i < 0) { done(T(['Created ', 'اتعمل ']) + s.tag + T([', but the PLC has no free input. Wire it yourself.', '، بس الـPLC مفيهوش مدخل فاضي. وصّله بنفسك.'])); return s.tag; }
     W(c, ref(s, high ? '12' : '14'), ref(plc, 'I' + i));
-    setSym(plc, 'I0.' + i, (name || s.tag) + (high ? ' OK (NC)' : ''));
+    setSym(plc, 'I' + (i >> 3) + '.' + (i & 7), (name || s.tag) + (high ? ' OK (NC)' : ''));
     done(T(['Created ', 'اتعمل ']) + s.tag + T([', wired to ', '، متوصل على ']) + plc.tag + ':I' + i + ' = I0.' + i + (high ? T([' through its NC contact (fail-safe: 1 = healthy, 0 = high level or broken wire).', ' من الكونتاكت NC (أمان: 1 = سليم، 0 = مستوى عالي أو سلك مقطوع).']) : T([' through its NO contact (1 = operated).', ' من الكونتاكت NO (1 = متفعّل).'])));
     return s.tag;
   };

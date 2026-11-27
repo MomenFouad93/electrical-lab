@@ -18,6 +18,33 @@
     const svg = host.querySelector('svg'), vp = svg.querySelector('.vp');
     const L = { photo: vp.querySelector('.photo'), grid: vp.querySelector('.grid'), back: vp.querySelector('.back'), parts: vp.querySelector('.parts'), wires: vp.querySelector('.wires'), probes: vp.querySelector('.probes'), pins: vp.querySelector('.pins'), over: vp.querySelector('.over'), marks: vp.querySelector('.marks') };
     const hintEl = host.querySelector('.hint'), hintSp = hintEl.querySelector('span');
+    /* wire size for new wires (panel bench only): bottom-left chip, like a wire spool picker */
+    ed.newMm2 = null;
+    if (!pcb && opts.kind === 'bench' && EL.WIRE) {
+      try { const v = +localStorage.getItem('ellab.wireMm2'); if (EL.WIRE.ok(v)) ed.newMm2 = v; } catch (e) {}
+      const chip = document.createElement('label'); chip.className = 'wsz';
+      const sw = document.createElement('i'), lab = document.createElement('span'), sel = document.createElement('select');
+      sw.className = 'wsz-sw'; sw.setAttribute('aria-hidden', 'true');
+      chip.append(sw, lab, sel); host.appendChild(chip);
+      const paint = () => {
+        const WS = EL.WIRE, v = ed.newMm2;
+        lab.textContent = EL.tr(['Wire', 'مقطع السلك']);
+        chip.title = EL.tr(['Size of the next wires you draw. Select a wire to change its own size. ', 'مقاس الأسلاك اللي هترسمها بعد كده. اختار سلك عشان تغيّر مقاسه هو. ']) + EL.tr(WS.std);
+        sel.innerHTML = '';
+        const o0 = document.createElement('option'); o0.value = ''; o0.textContent = EL.tr(['Auto (1.5 power / 0.75 control)', 'تلقائي (1.5 باور / 0.75 كنترول)']); sel.appendChild(o0);
+        for (const mm of WS.sizes) { const o = document.createElement('option'); o.value = String(mm); o.textContent = '\u200E' + mm + ' mm² (' + WS.iz[mm] + ' A)\u200E' + (mm < 1.5 ? ' ' + EL.tr(['control', 'كنترول']) : ''); sel.appendChild(o); }
+        sel.value = v ? String(v) : '';
+        sw.style.height = (v ? WS.width[v] : 2.6) * 1.6 + 'px';
+      };
+      sel.addEventListener('change', () => {
+        const v = +sel.value; ed.newMm2 = EL.WIRE.ok(v) ? v : null;
+        try { if (ed.newMm2) localStorage.setItem('ellab.wireMm2', String(ed.newMm2)); else localStorage.removeItem('ellab.wireMm2'); } catch (e) {}
+        paint(); sel.blur();
+      });
+      chip.addEventListener('pointerdown', (e) => e.stopPropagation());
+      paint(); if (ui.onRefresh) ui.onRefresh(paint);
+      ed.wireChip = { el: chip, paint };
+    }
     const cache = { art: new Map(), nodes: new Map(), pins: new Map(), wires: new Map() };
     ed.svg = svg; ed.host = host;
 
@@ -95,6 +122,7 @@
 
     /* ---------- roles for wire colors ---------- */
     let roleMap = new Map();
+    ed.roleOf = (wid) => roleMap.get(wid) || null;
     function computeRoles() {
       const c = ed.c, uf = new EL.UF(), role = new Map();
       for (const w of c.wires) { uf.add(w.a); uf.add(w.b); uf.union(w.a, w.b); }
@@ -303,12 +331,21 @@
       if (pcb) col = w.kind === 'jumper' ? '#58b8ff' : '#d9a441';
       else { const rr = roleMap.get(w.id); col = (w.color) || (!pcb && EL.real && EL.real.scheme() === 'ryb' && /^L[123]$/.test(rr || '') ? EL.real.phCol(rr) : ROLE_COL[rr]) || '#cfd8ee'; }
       n.p.style.stroke = col;
+      if (!pcb) { if (EL.WIRE && EL.WIRE.ok(w.mm2)) n.p.style.setProperty('--ww', EL.WIRE.width[w.mm2]); else n.p.style.removeProperty('--ww'); }
       if (pcb) n.p.style.strokeWidth = w.kind === 'jumper' ? 3 : 7;
       if (pcb && w.kind === 'jumper') n.p.style.strokeDasharray = '';
+      wireLook(w, n);
+    }
+    /* cut / burnt marks on the current path (no re-route) */
+    function wireLook(w, n) {
+      const pts = n.pts; n.cutS = !!w.cut; if (!pts) return;
       let m = '';
-      if (w.cut) { const q = pts[Math.floor(pts.length / 2)], q2 = pts[Math.floor((pts.length - 1) / 2)], mx = (q.x + q2.x) / 2, my = (q.y + q2.y) / 2; m = `<path class="cutmark" d="M${mx - 7} ${my - 7} L${mx + 7} ${my + 7} M${mx + 7} ${my - 7} L${mx - 7} ${my + 7}"/>`; }
+      const q = pts[Math.floor(pts.length / 2)], q2 = pts[Math.floor((pts.length - 1) / 2)], mx = (q.x + q2.x) / 2, my = (q.y + q2.y) / 2;
+      if (w.cut) m = `<path class="cutmark" d="M${mx - 7} ${my - 7} L${mx + 7} ${my + 7} M${mx + 7} ${my - 7} L${mx - 7} ${my + 7}"/>`;
+      if (w.burnt && !pcb) m = `<g class="burnmark" transform="translate(${mx.toFixed(1)},${my.toFixed(1)})"><circle r="10" fill="#2b1a12" stroke="#F55B41" stroke-width="2"/><path d="M0 -6 C4 -2 5 2 0 6 C-5 2 -4 -2 0 -6Z" fill="#F55B41"/></g>`;
+      if (!pcb) n.g.classList.toggle('burnt', !!w.burnt);
       n.mark.innerHTML = (w.cut && (!w.hidden || ed.showHidden)) ? m : '';
-      n.p.style.opacity = w.cut && (!w.hidden || ed.showHidden) ? '.25' : '1';
+      n.p.style.opacity = w.burnt && !pcb ? '1' : w.cut && (!w.hidden || ed.showHidden) ? '.25' : '1';
     }
     function geomAll() { occ = { h: new Map(), v: new Map() }; obsCache = obsRects(); try { for (const w of ed.c.wires) geomWire(w); } finally { occ = null; obsCache = null; } }
     function refreshPins() {
@@ -344,13 +381,16 @@
       if (sim && pcb) { const pw = ed.c.parts.find((q) => q.type === 'PCB_PWR'); if (pw) try { refV = sim.vdcAt(pw.id + '.neg'); } catch (e) {} }
       if (sim) for (const w of ed.c.wires) {
         const n = cache.wires.get(w.id); if (!n) continue;
+        if (!pcb && n.cutS !== !!w.cut) { wireLook(w, n); if (w.burnt && ed.selWire === w.id && opts.onSelect) opts.onSelect(ed); }
         let en = false, cur = false;
         try {
           const vac = EL.cabs(sim.vacAt(w.a)), vdc = pcb ? Math.abs(sim.vdcAt(w.a) - refV) : Math.abs(sim.vdcAt(w.a));
           en = pcb ? vdc > 1.5 : vac > 20 || vdc > 5;
           const i = sim.iPin(w.a); cur = !w.cut && (EL.cabs(i.ac) > 0.03 || Math.abs(i.dc) > 0.003) && en;
         } catch (e) {}
-        const cls = (en ? ' en' : '') + (cur ? ' cur' : '');
+        let hot = '';
+        if (!pcb && ed.c.wth && ed.c.wth[w.id] && !w.cut) { const T = EL.WIRE.temp(ed.c, w); hot = T >= EL.WIRE.tHot ? ' hot2' : T > EL.WIRE.tMax ? ' hot1' : ''; }
+        const cls = (en ? ' en' : '') + (cur ? ' cur' : '') + hot;
         if (n.cls !== cls) { n.cls = cls; n.p.setAttribute('class', 'wire' + cls + (ed.selWire === w.id ? ' sel' : '')); }
       }
       drawProbes();
@@ -426,6 +466,7 @@
     ed.connect = function (a, b, o) {
       if (!a || !b || a === b) return null;
       ed.push();
+      if (!pcb && ed.newMm2 && !(o && o.mm2)) o = Object.assign({ mm2: ed.newMm2 }, o || {});
       const w = EL.addWire(ed.c, a, b, o);
       if (!w) { ed.undoS.pop(); ui.toast(['Those two terminals are already wired.', 'الطرفين متوصلين بالفعل.'], 'warn'); return null; }
       computeRoles(); mkWire(w); geomAll(); ed.changed();
@@ -437,6 +478,14 @@
       fastRoute = true;
       n.g.setAttribute('transform', `translate(${p.x},${p.y})`); n.pg.setAttribute('transform', `translate(${p.x},${p.y})`);
       geomAll();
+    };
+    ed.setWireMm2 = function (wid, mm2) {
+      const w = ed.c.wires.find((x) => x.id === wid); if (!w) return;
+      ed.push(); if (EL.WIRE.ok(mm2)) w.mm2 = +mm2; else delete w.mm2; geomWire(w); refreshPins(); ed.changed();
+    };
+    ed.replaceWire = function (wid) {
+      const w = ed.c.wires.find((x) => x.id === wid); if (!w) return;
+      ed.push(); EL.WIRE.replace(w, ed.c); geomWire(w); refreshPins(); ed.changed();
     };
     ed.toggleCut = function (wid) {
       const w = ed.c.wires.find((x) => x.id === wid); if (!w) return;
@@ -539,7 +588,14 @@
       if (ptrs.size > 2) return;
       const mkEl = e.target.closest && e.target.closest('.mk');
       if (mkEl) { if (opts.onMark) opts.onMark(ed.markList[+mkEl.dataset.i], +mkEl.dataset.i); gest = null; return; }
-      const t = targetOf(e), w = ed.toWorld(e.clientX, e.clientY);
+      let t = targetOf(e); const w = ed.toWorld(e.clientX, e.clientY);
+      // Test mode, zoomed out (phones, Whole plant): a tap on a terminal of a switch / button operates the device;
+      // with no meter tool a terminal tap always goes to the device
+      if (t.k === 'pin' && ed.mode === 'test' && !pcb) {
+        const pid = t.ref.split('.')[0], pp = ed.c.parts.find((x) => x.id === pid), dd = pp && EL.defs[pp.type];
+        const noMeter = !(EL.inst && EL.instNeeds && EL.instNeeds[EL.inst.sel]);
+        if (dd && dd.press && (ed.view.k < 0.9 || noMeter)) { const pe = L.parts.querySelector('.part[data-id="' + pid + '"]'); t = { k: 'part', id: pid, el: pe || e.target }; }
+      }
       gest = { k: 'none', t, sx: e.clientX, sy: e.clientY, moved: false, w0: w, v0: { x: ed.view.x, y: ed.view.y } };
       if (t.k === 'pin') {
         if (ed.mode === 'test') { placeProbe(t.ref); gest.k = 'done'; return; }
@@ -677,6 +733,7 @@
         }
         return;
       }
+      if (g1.k === 'pan' && !g1.moved && g1.t && g1.t.k === 'wire' && ed.mode === 'test' && !pcb) { ed.select(null, g1.t.id); return; }
       if (g1.k === 'pan' && !g1.moved) { if (ed.pending) { ed.pending = null; showHint(); } ed.select(null); refreshPins(); return; }
       if (g1.k === 'partdrag') { if (g1.moved && g1.p && snapRail(g1.p)) ed.moveGeom(g1.p); fastRoute = false; geomAll(); if (g1.moved) ed.changed(); }
       if (g1.k === 'bend' || g1.k === 'via') drawSelHandle();

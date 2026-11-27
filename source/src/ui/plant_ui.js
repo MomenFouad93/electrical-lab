@@ -103,9 +103,10 @@
       const q = PL.pipeQ(pl, p.id), d = q < 0 ? PA.route(Bp, A) : PA.route(A, Bp), flow = Math.abs(q) > 0.3;
       const T0 = PL.tempAt(pl, p.a), hot = T0 > 38;
       ps += `<g data-pipe="${p.id}">` + `<path d="${d}" class="pl-hit"/>` +
-        `<path d="${d}" fill="none" stroke="${PU.selPipe === p.id ? '#47BFD9' : '#8b96a8'}" stroke-width="13" stroke-linejoin="round"/>` +
-        `<path d="${d}" fill="none" stroke="#c9d1dc" stroke-width="3" stroke-linejoin="round" opacity=".35" transform="translate(0,-3)"/>` +
-        `<path d="${d}" fill="none" stroke="${flow ? (hot ? '#ff7a55' : '#3aa2e6') : '#2a3446'}" stroke-width="6" stroke-linejoin="round"/>` +
+        `<path d="${d}" fill="none" stroke="#3d4656" stroke-width="18" stroke-linejoin="round"/>` +
+        `<path d="${d}" fill="none" stroke="${PU.selPipe === p.id ? '#47BFD9' : '#a3adbb'}" stroke-width="15" stroke-linejoin="round"/>` +
+        `<path d="${d}" fill="none" stroke="#e3e8ee" stroke-width="3" stroke-linejoin="round" opacity=".45" transform="translate(0,-4)"/>` +
+        `<path d="${d}" fill="none" stroke="${flow ? (hot ? '#ff7a55' : '#3aa2e6') : '#2a3446'}" stroke-width="8" stroke-linejoin="round"/>` +
         (flow ? `<path d="${d}" class="pl-flow" style="animation-duration:${Math.max(0.25, 6 / Math.min(60, Math.abs(q))).toFixed(2)}s"/>` : '') +
         flange(A) + flange(Bp) + (+p.dn > 0 ? pipeLab(A, Bp, p, q) : '') + '</g>';
     }
@@ -131,13 +132,20 @@
     return `<text class="${bad ? 'pl-bad' : 'pl-s'}" x="${x}" y="${y}" text-anchor="middle">DN${p.dn}${Math.abs(q) > 0.01 ? ' ' + pi.v.toFixed(2) + ' m/s' : ''}</text>`;
   }
   function flange(P) {
+    // flange pair with bolts where the pipe meets the unit nozzle
     const v = P.dir === 'u' || P.dir === 'd';
-    const o = { l: [-14, 0], r: [14, 0], u: [0, -14], d: [0, 14] }[P.dir];
-    const x = P.x + o[0], y = P.y + o[1];
-    return v ? `<rect x="${x - 11}" y="${y - 2.5}" width="22" height="5" rx="1" fill="#aab4c3" stroke="#3d4656"/>` : `<rect x="${x - 2.5}" y="${y - 11}" width="5" height="22" rx="1" fill="#aab4c3" stroke="#3d4656"/>`;
+    const o = { l: [-1, 0], r: [1, 0], u: [0, -1], d: [0, 1] }[P.dir];
+    let s = '';
+    for (const k of [3.5, 9]) {
+      const x = P.x + o[0] * k, y = P.y + o[1] * k;
+      s += v ? `<rect x="${x - 14}" y="${y - 2.6}" width="28" height="5.2" rx="1" fill="#b9c2ce" stroke="#3d4656"/>` : `<rect x="${x - 2.6}" y="${y - 14}" width="5.2" height="28" rx="1" fill="#b9c2ce" stroke="#3d4656"/>`;
+    }
+    const x = P.x + o[0] * 6.25, y = P.y + o[1] * 6.25;
+    for (const d of [-11, 11]) s += `<circle cx="${v ? x + d : x}" cy="${v ? y : y + d}" r="1.7" fill="#3d4656"/>`;
+    return s;
   }
   function selBox(u) { const d = PL.defs[u.type]; return `<rect x="-8" y="-24" width="${d.w + 16}" height="${d.h + 40}" rx="8" fill="rgba(71,191,217,.08)" stroke="#47BFD9" stroke-dasharray="6 4"/>`; }
-  PU.frame = function () { if (B().view === 'plant') PU.render(); };
+  PU.frame = function () { if (B().view === 'plant' || B().view === 'all') PU.render(); };
 
   /* ---------- pointer ---------- */
   function bindPointer() {
@@ -181,6 +189,7 @@
       if (G.moved) { if (G.unit) changed(); return; }
       if (G.unit) {
         if (G.unit.type === 'CTRL' && G.act && WT()) { B().ed.push(); const m = WT().ctrlAct(G.unit, G.act); if (m) { ui.click(); ui.toast(G.unit.tag + ': ' + T(m), '', 1800); } changed(); }
+        else if (G.unit.type === 'BOTTLE' && G.act === 'reset') { B().ed.push(); PL.bottleReset(G.unit); ui.click(); ui.toast(G.unit.tag + ': ' + T(['jam reset', 'الزرجنة اتعملها ريست']), 'ok', 1800); changed(); }
         else if (G.act === 'toggle' || ((G.unit.type === 'VALVE' || G.unit.type === 'POU') && B().ed.mode === 'test')) toggleValve(G.unit);
         select(G.unit.id, null);
       } else if (G.pipe) select(null, G.pipe);
@@ -335,6 +344,10 @@
     kwh: ['Steam heating duty (kW, 0 = no limit)', 'قدرة التسخين بالبخار (ك.و، 0 = من غير حد)'], kwc: ['Chilled-water cooling duty (kW, 0 = no limit)', 'قدرة التبريد بالمية المتلجة (ك.و، 0 = من غير حد)'], dclose: ['Valves closed during hot sanitisation', 'محابس بتتقفل وقت التعقيم السخن'], dopen: ['Valves opened during hot sanitisation', 'محابس بتتفتح وقت التعقيم السخن'],
     ves: ['Pressure vessels (drawing)', 'عدد الفيسلز (في الرسمة)'], pass: ['RO pass (1 or 2, 0 = not shown)', 'مرحلة الـRO (1 أو 2، 0 = مش ظاهرة)'],
     tmax: ['Divert above temperature (°C, 0 = off)', 'حوّل فوق حرارة (درجة، 0 = مقفول)'], hot: ['Hot-water sanitisable membrane (to 85 °C)', 'ممبرين بيستحمل التعقيم بالمية السخنة (لحد 85 درجة)'], ins: ['Insulated (keeps its heat)', 'معزول (بيحافظ على حرارته)'],
+    style: ['Drawing style', 'شكل الرسمة'], stock: ['Liquid in it (L, 0 = endless)', 'الكمية اللي فيه (لتر، 0 = مالهاش آخر)'],
+    s1: ['S1: bottle under the filler (panel sensor)', 'S1: زجاجة تحت التعبئة (سنسور في اللوحة)'], s2: ['S2: bottle under the capper (panel sensor)', 'S2: زجاجة تحت الكابس (سنسور في اللوحة)'],
+    cyl: ['Capping cylinder: 5/2 valve coil (panel)', 'سلندر الغطا: كويل فالف 5/2 (اللوحة)'], rup: ['Cylinder up reed switch (panel, optional)', 'ريد سويتش السلندر فوق (اللوحة، اختياري)'], rdn: ['Cylinder down reed switch (panel, optional)', 'ريد سويتش السلندر تحت (اللوحة، اختياري)'],
+    bvol: ['Bottle volume (L)', 'حجم الزجاجة (لتر)'], rate: ['Bottles fed per minute', 'زجاجات داخلة في الدقيقة'], speed: ['Belt speed at full motor speed (m/min)', 'سرعة السير على أقصى سرعة موتور (م/د)'],
     eff: ['Effectiveness (0-1)', 'الكفاءة (0-1)'], tx: ['Transmitter (panel)', 'الترانسميتر (اللوحة)'], range: ['Range (full scale)', 'المدى (أقصى قراءة)'], sw: ['Switch (panel)', 'السويتش (اللوحة)'], set: ['Set point', 'نقطة الضبط'],
   };
   const LT = PL.linkTypes;
@@ -351,8 +364,25 @@
     stk: () => ENUM.lvt(),
     stank: () => ENUM.lvt(),
     grp: () => [['', T(['(none: own controls)', '(مفيش: تحكمها لوحدها)'])], ['prod', T(['Production', 'الإنتاج'])], ['dist', T(['Distribution loop', 'لوب التوزيع'])]],
+    style: (u) => (u.type === 'SUPPLY' ? [['main', T(['Mains / sump', 'خط عمومي / بيارة'])], ['ibc', T(['IBC tote 1000 L on a stand', 'تانك IBC ‏1000 لتر على حامل'])]]
+      : [['open', T(['Open tank', 'تانك مفتوح'])], ['cone', T(['Stainless, cone bottom, on legs', 'ستانلس بقاع مخروطي على رجول'])], ['ibc', T(['IBC tote 1000 L', 'تانك IBC ‏1000 لتر'])], ['vessel', T(['Closed pressure vessel on legs', 'وعاء ضغط مقفول على رجول'])]]),
     lvt: () => [['', T(['(none)', '(مفيش)'])]].concat((plant() ? plant().units.filter((x) => x.type === 'TANK') : []).map((t) => [t.tag, t.tag + '  ' + t.props.vol + ' L'])),
   };
+  /* a 3-wire sensor (PROX / PHOTO) on the panel, fed from the PLC 24 V and wired to a free input */
+  function mkSensor(type, name, props) {
+    const c = C(), ed = B().ed; ed.push();
+    let x = 40; for (const p of c.parts) { const d = EL.defs[p.type]; x = Math.max(x, p.x + (d.w || 100) + 80); }
+    const s = EL.addPart(c, type, x, 620, props || {}), plc = c.parts.find((p) => p.type === 'PLC24R' || p.type === 'PLC24');
+    let msg = T(['Created ', 'اتعمل ']) + s.tag + T([' (3-wire PNP). Wire BN to +24 V, BU to 0 V and BK to a PLC input.', ' (‏3 سلك PNP). وصّل BN على +24 وBU على 0 وBK على مدخل PLC.']);
+    if (plc) {
+      const used = (pin) => c.wires.some((w) => w.a === plc.id + '.' + pin || w.b === plc.id + '.' + pin);
+      let i = 0; while (i < 8 && used('I' + i)) i++;
+      EL.addWire(c, plc.id + '.LP', s.id + '.BN'); EL.addWire(c, s.id + '.BU', plc.id + '.M');
+      if (i < 8) { EL.addWire(c, s.id + '.BK', plc.id + '.I' + i); msg = T(['Created ', 'اتعمل ']) + s.tag + T([', fed from ', '، متغذي من ']) + plc.tag + T([' and wired to ', ' ومتوصل على ']) + plc.tag + ':I' + i + ' = I0.' + i + ' (' + (name || s.tag) + ').'; }
+    }
+    ed.render(); ed.changed(); B().save(); ui.toast(msg, 'ok', 6000);
+    return s.tag;
+  }
   PU.inspector = function () {
     if (B().view !== 'plant') return;
     const root = $('#pane-part'); root.innerHTML = '';
@@ -399,6 +429,8 @@
     if (u.type === 'UV') actions.push(h('button', { class: 'btn', onclick: () => edit(() => { u.props.int = 100; u.props.on = true; }), text: T(['New lamp', 'لمبة جديدة']) }));
     if (u.type === 'PUMP' && WT()) actions.push(h('select', { class: 'pl-preset', onchange: (e) => { const P = WT().PUMPS[e.target.value]; if (P) edit(() => { Object.assign(u.props, { qbep: P.q, hbep: P.h, eta: P.eta }); if (!u.props.motor) u.props.local = true; }); } }, [h('option', { value: '', text: T(['Pick a pump size…', 'اختار مقاس طلمبة…']) })].concat(Object.keys(WT().PUMPS).map((k) => h('option', { value: k, text: T(WT().PUMPS[k].n) })))));
     if (u.type === 'TANK' && WT()) actions.push(h('select', { class: 'pl-preset', onchange: (e) => { const vol = +e.target.value; if (vol) edit(() => { const lv = u.state.v / Math.max(1, +u.props.vol); u.props.vol = vol; u.props.hgt = WT().tankDims(vol).H; u.state.v = lv * vol; }); } }, [h('option', { value: '', text: T(['Tank size…', 'مقاس التانك…']) })].concat(WT().TANKS.map((v) => h('option', { value: v, selected: v === +u.props.vol ? true : null, text: v + ' L  (Ø' + WT().tankDims(v).D.toFixed(2) + ' × ' + WT().tankDims(v).H + ' m)' })))));
+    if (u.type === 'BOTTLE') actions.push(h('button', { class: 'btn ' + (u.state.jam ? 'warn' : ''), onclick: () => edit(() => { PL.bottleReset(u); ui.toast(u.tag + ': ' + T(['jam reset', 'الزرجنة اتعملها ريست']), 'ok'); }), text: T(['Reset jam', 'ريست الزرجنة']) }), h('button', { class: 'btn', onclick: () => edit(() => PL.bottleReset(u, true)), text: T(['Clear belt and counters', 'فضّي السير والعدادات']) }));
+    if (u.type === 'SUPPLY' && +u.props.stock > 0) actions.push(h('button', { class: 'btn ok', onclick: () => edit(() => { u.state.left = +u.props.stock; ui.toast(u.tag + ': ' + T(['refilled', 'اتملا تاني']), 'ok'); }), text: T(['Refill', 'املاه تاني']) }));
     if (u.type === 'TANK') actions.push(h('button', { class: 'btn', onclick: () => edit(() => { u.state.v = (+u.props.vol * +u.props.lvl0) / 100; u.state.T = +u.props.t0; }), text: T(['Reset level', 'رجّع المستوى']) }), h('button', { class: 'btn', onclick: () => edit(() => { u.state.v = 0; }), text: T(['Empty it', 'فضّيه']) }));
     if (B().ed.mode === 'build') actions.push(h('button', { class: 'btn', onclick: () => edit(() => { u.props.flip = !u.props.flip; }), text: T(['Mirror', 'اقلبه']) }), h('button', { class: 'btn bad', onclick: () => PU.delSel(), text: T(['Delete', 'حذف']) }));
     root.appendChild(h('div', { class: 'card' }, h('div', { class: 'row' }, tagIn, h('div', { class: 'grow' }, h('b', { text: T(d.name) }))), h('p', { class: 'mute', text: T(d.info) }), h('div', { class: 'row wrap' }, actions)));
@@ -408,27 +440,30 @@
       if (k === 'flip' || (k === 'sw' && u.type === 'TANK')) continue;
       const v = u.props[k];
       let inp;
-      const link = { lt: LT.tx, tt: LT.temp, htr: LT.htr, motor: LT.motor, sol: LT.sol, tx: u.type === 'TT' ? LT.temp : LT.tx }[k] || null;
+      const bl = u.type === 'BOTTLE' ? { s1: LT.sense, s2: LT.sense, rup: LT.sense, rdn: LT.sense, cyl: LT.sol } : {};
+      const link = bl[k] || { lt: LT.tx, tt: LT.temp, htr: LT.htr, motor: LT.motor, sol: LT.sol, tx: u.type === 'TT' ? LT.temp : LT.tx }[k] || null;
       const swLink = (u.type === 'PS' || u.type === 'FS') && k === 'sw';
       const pick = (e, make) => { const val = e.target.value; if (val === '__new') { const tag = make(); if (tag) { u.props[k] = tag; changed(); } } else edit(() => { u.props[k] = val; }); };
       const AW = ui.autowire;
-      const maker = { motor: () => AW.motor(), lt: () => AW.transmitter('level', 'LT ' + u.tag), tt: () => AW.transmitter('temp', 'TT ' + u.tag), htr: () => AW.simple('HTR'), sol: () => AW.solenoid(), tx: () => AW.transmitter(u.type === 'TT' ? 'temp' : 'press', u.tag) }[k];
+      const maker = u.type === 'BOTTLE' && k !== 'motor' ? (k === 'cyl' ? () => AW.solenoid() : () => mkSensor(k === 's1' || k === 's2' ? 'PHOTO' : 'PROX', u.tag + ' ' + k.toUpperCase())) : { motor: () => AW.motor(), lt: () => AW.transmitter('level', 'LT ' + u.tag), tt: () => AW.transmitter('temp', 'TT ' + u.tag), htr: () => AW.simple('HTR'), sol: () => AW.solenoid(), tx: () => AW.transmitter(u.type === 'TT' ? 'temp' : 'press', u.tag) }[k];
       if (link) inp = h('select', { onchange: (e) => pick(e, maker) }, partOpts(link, v));
       else if (swLink) inp = h('select', { onchange: (e) => pick(e, () => AW.contact(u.type === 'PS' ? 'PRESS' : 'FLOW', u.tag, false)) }, partOpts(u.type === 'PS' ? LT.ps : LT.fs, v));
       else if (ENUM[k] && !(k === 'dn' && u.type === 'POU' && false)) { const ops = ENUM[k](u); inp = h('select', { onchange: (e) => edit(() => { const x = e.target.value; u.props[k] = typeof v === 'number' ? +x : x; }) }, ops.map(([a, b]) => h('option', { value: a, selected: String(a) === String(v) ? true : null, text: b }))); }
       else if (typeof v === 'boolean') inp = h('button', { class: 'btn ' + (v ? 'on' : ''), onclick: () => edit(() => { u.props[k] = !u.props[k]; }), text: v ? T(['Yes', 'أيوه']) : T(['No', 'لأ']) });
-      else if (typeof v === 'number') inp = h('input', { type: 'number', value: v, step: 'any', onchange: (e) => { let x = +e.target.value; if (k === 'ves') x = Math.round(Math.max(1, Math.min(6, x))); if (k === 'pass') x = Math.round(Math.max(0, Math.min(2, x))); if (isFinite(x)) edit(() => { u.props[k] = Math.max(k === 'temp' || k === 't0' ? 0 : k === 'vol' || k === 'hgt' || k === 'range' ? 0.1 : 0, Math.min(k === 'eff' ? 0.95 : ['lvl0', 'rej', 'spd', 'int', 'lon', 'loff', 'mrej', 'fv', 'san', 'tmax'].includes(k) ? 100 : 100000, x)); if (u.type === 'TANK' && (k === 'vol')) u.state.v = Math.min(u.state.v, x); }); } });
+      else if (typeof v === 'number') inp = h('input', { type: 'number', value: v, step: 'any', onchange: (e) => { let x = +e.target.value; if (k === 'ves') x = Math.round(Math.max(1, Math.min(6, x))); if (k === 'pass') x = Math.round(Math.max(0, Math.min(2, x))); if (isFinite(x)) edit(() => { u.props[k] = Math.max(k === 'temp' || k === 't0' ? 0 : k === 'vol' || k === 'hgt' || k === 'range' ? 0.1 : 0, Math.min(k === 'eff' ? 0.95 : ['lvl0', 'rej', 'spd', 'int', 'lon', 'loff', 'mrej', 'fv', 'san', 'tmax'].includes(k) ? 100 : 100000, x)); if (u.type === 'TANK' && (k === 'vol')) u.state.v = Math.min(u.state.v, x); if (u.type === 'SUPPLY' && k === 'stock') u.state.left = u.props.stock; if (k === 'bvol') u.props.bvol = Math.max(0.01, u.props.bvol); }); } });
       else continue;
       card.appendChild(h('label', { class: 'f', text: T(PROPLAB[k] || [k, k]) })); card.appendChild(inp);
     }
     root.appendChild(card);
     if (u.type === 'TANK') {
-      const sc = h('div', { class: 'card' }, h('h3', { text: T(['Level switches (floats)', 'سويتشات المستوى (فلوتات)']) }), h('p', { class: 'mute sm', text: T(['A float operates when the water is above its level. Link it to a float switch on the panel so the panel and the PLC see it.', 'الفلوت بيشتغل لما المية تبقى فوق مستواه. اربطه بفلوت سويتش في اللوحة عشان اللوحة والـPLC يشوفوه.']) }));
+      const sc = h('div', { class: 'card' }, h('h3', { text: T(['Level switches', 'سويتشات المستوى']) }), h('p', { class: 'mute sm', text: T(['A switch operates when the liquid is above its level. Float: a contact (FLOAT on the panel). PNP: a 3-wire capacitive sensor on the tank wall (BN +24 V, BK output, BU 0 V), linked to a 3-wire sensor on the panel.', 'السويتش بيشتغل لما السايل يبقى فوق مستواه. فلوت: كونتاكت (FLOAT في اللوحة). PNP: سنسور كاباسيتيف 3 سلك على جدار التانك (BN ‏+24، BK الخرج، BU صفر)، مربوط بسنسور 3 سلك في اللوحة.']) }));
       u.props.sw.forEach((s, i) => {
-        sc.appendChild(h('div', { class: 'pl-swrow' },
-          h('input', { type: 'text', value: s.n, maxlength: 10, onchange: (e) => edit(() => { s.n = e.target.value.replace(/[^\w\-.]/g, '').slice(0, 10); }) }),
-          h('input', { type: 'number', value: s.l, min: 0, max: 100, onchange: (e) => edit(() => { s.l = Math.max(0, Math.min(100, +e.target.value || 0)); }) }),
-          h('select', { onchange: (e) => { const val = e.target.value; if (val === '__new') { s.t = ui.autowire.contact('FLOAT', s.n, (+s.l || 0) >= 50); changed(); } else edit(() => { s.t = val; }); } }, partOpts(LT.float, s.t))));
+        const pnp = s.k === 'pnp';
+        sc.appendChild(h('div', { class: 'pl-swrow k4' },
+          h('input', { type: 'text', value: s.n, maxlength: 10, 'aria-label': T(['Name', 'الاسم']), onchange: (e) => edit(() => { s.n = e.target.value.replace(/[^\w\-.]/g, '').slice(0, 10); }) }),
+          h('input', { type: 'number', value: s.l, min: 0, max: 100, 'aria-label': T(['Level (%)', 'المستوى (%)']), onchange: (e) => edit(() => { s.l = Math.max(0, Math.min(100, +e.target.value || 0)); }) }),
+          h('select', { 'aria-label': T(['Kind', 'النوع']), onchange: (e) => edit(() => { if (e.target.value === 'pnp') s.k = 'pnp'; else delete s.k; }) }, [['float', T(['Float', 'فلوت'])], ['pnp', 'PNP']].map(([a, b]) => h('option', { value: a, selected: (pnp ? 'pnp' : 'float') === a ? true : null, text: b }))),
+          h('select', { 'aria-label': T(['Panel part', 'الجهاز في اللوحة']), onchange: (e) => { const val = e.target.value; if (val === '__new') { s.t = pnp ? mkSensor('PROX', u.tag + ' ' + s.n, { logic: (+s.l || 0) >= 50 ? 'NC' : 'NO' }) : ui.autowire.contact('FLOAT', s.n, (+s.l || 0) >= 50); changed(); } else edit(() => { s.t = val; }); } }, partOpts(pnp ? LT.pnp : LT.float, s.t))));
       });
       root.appendChild(sc);
     }
@@ -467,6 +502,8 @@
       if (u.type === 'RO') { r(['Feed pressure', 'ضغط الدخول'], (st.pin || 0).toFixed(2) + ' bar'); r(['Permeate', 'المية النقية'], L(st.qp)); r(['Reject', 'الريجكت'], L(st.qr)); r(['Recovery', 'الاسترجاع'], Math.round(st.rec || 0) + ' %'); r(['Permeate quality', 'جودة المية'], st.us ? Math.round(st.us) + ' µS/cm' : '-'); r(['Feed temperature', 'حرارة الدخول'], (st.Tf || 20).toFixed(1) + ' °C'); }
       if (u.type === 'HX' && st.th) { r(['Hot side', 'الناحية السخنة'], st.th[0].toFixed(1) + ' → ' + st.th[1].toFixed(1) + ' °C, ' + L(st.qh)); r(['Cold side', 'الناحية الباردة'], st.tc[0].toFixed(1) + ' → ' + st.tc[1].toFixed(1) + ' °C, ' + L(st.qc)); }
       if (u.type === 'FM') r(['Total', 'الإجمالي'], Math.round(st.tot || 0) + ' L');
+      if (u.type === 'SUPPLY' && +u.props.stock > 0) r(['Left in it', 'الباقي فيه'], Math.round(st.left == null ? +u.props.stock : st.left) + ' / ' + Math.round(+u.props.stock) + ' L');
+      if (u.type === 'BOTTLE') { r(['Belt', 'السير'], st.jam ? 'JAM' : (Math.abs(st.v || 0) * 60).toFixed(1) + ' m/min'); r(['Bottles on the belt', 'الزجاجات على السير'], String(st.n || 0)); r(['Filling flow', 'تصرف التعبئة'], L(st.fq)); r(['Cylinder', 'السلندر'], Math.round((st.ext || 0) * 100) + ' %'); r(['S1 / S2', 'S1 / S2'], (st.s1 ? 1 : 0) + ' / ' + (st.s2 ? 1 : 0)); r(['Good / bad', 'سليم / بايظ'], (st.ok || 0) + ' / ' + (st.bad || 0)); r(['Spilled', 'اللي وقع'], (st.spill || 0).toFixed(2) + ' L'); }
       const Wt = WT();
       if (u.type === 'TANK') { const e = Wt.tankETA(u); if (e) { r(e.fill ? ['Reaches 90 % in', 'يوصل 90٪ في'] : ['Falls to 10 % in', 'ينزل لـ 10٪ في'], Wt.fmtT(e.s)); r(e.fill ? ['Full fill 0-100 % at this flow', 'ملو كامل 0-100٪ بالتصرف ده'] : ['Full empty at this flow', 'تفريغ كامل بالتصرف ده'], Wt.fmtT(e.full)); } }
       if (u.type === 'PUMP') { r(['Flow', 'التصرف'], (Math.abs(st.q || 0) * 3.6).toFixed(2) + ' m³/h'); r(['Shaft power', 'قدرة العمود'], (st.kw || 0).toFixed(2) + ' kW'); if (u.props.lvt) r(['Level control', 'تحكم المستوى'], st.lstop ? T(['stopped by level', 'واقفة بالمستوى']) : T(['running', 'شغالة'])); }

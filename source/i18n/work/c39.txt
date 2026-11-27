@@ -1,0 +1,647 @@
+#6799
+Section du fil
+Bitola do fio
+导线截面
+Сечение провода
+Przekrój przewodu
+Vezeték-keresztmetszet
+Sección del cable
+
+#6802
+L'isolant a brûlé et le fil est coupé. Remplacez-le, de préférence par une section supérieure, et corrigez la cause de la surcharge.
+O isolamento queimou e o fio está aberto. Substitua-o, de preferência por uma bitola maior, e corrija a causa da sobrecarga.
+绝缘已烧毁，导线断路。请更换导线，最好换更大截面的，并排除造成过载的原因。
+Изоляция сгорела, провод в обрыве. Замените его, лучше на большее сечение, и устраните причину перегрузки.
+Izolacja się spaliła, a przewód jest przerwany. Wymień go, najlepiej na większy przekrój, i usuń przyczynę przeciążenia.
+A szigetelés leégett, a vezeték szakadt. Cserélje ki, lehetőleg nagyobb keresztmetszetűre, és szüntesse meg a túlterhelés okát.
+El aislamiento se quemó y el cable está abierto. Sustitúyalo, mejor por una sección mayor, y corrija la causa de la sobrecarga.
+
+#6805
+Remplacer le fil
+Substituir o fio
+更换导线
+Заменить провод
+Wymień przewód
+Vezeték cseréje
+Sustituir el cable
+
+#6808
+au-dessus de Iz
+acima de Iz
+超过 Iz
+выше Iz
+powyżej Iz
+Iz felett
+por encima de Iz
+
+#6811
+Passez en mode Test pour voir le courant.
+Mude para Teste para ver a corrente.
+切换到“测试”即可查看电流。
+Переключитесь в режим «Тест», чтобы увидеть ток.
+Przełącz na Test, aby zobaczyć prąd.
+Váltson Teszt módra az áram megtekintéséhez.
+Cambie a Prueba para ver la corriente.
+
+#6814
+Couplé en Y sur 400 V : les enroulements ne reçoivent que 230 V (1/3 du couple). Le Δ est le couplage de marche.
+Ligado em Y em 400 V: os enrolamentos recebem só 230 V (1/3 do torque). Δ é a ligação de funcionamento.
+在 400 V 上接成 Y：绕组只得到 230 V（1/3 转矩）。Δ 才是运行接法。
+Соединение Y при 400 В: обмотки получают только 230 В (1/3 момента). Δ — рабочая схема соединения.
+Połączenie w Y przy 400 V: uzwojenia dostają tylko 230 V (1/3 momentu). Δ to połączenie robocze.
+Y-kapcsolás 400 V-on: a tekercsek csak 230 V-ot kapnak (1/3 nyomaték). A Δ az üzemi kapcsolás.
+Conectado en Y a 400 V: los devanados reciben solo 230 V (1/3 del par). Δ es la conexión de marcha.
+
+#6817
+Réglez le relais thermique ou le disjoncteur moteur sur In (autorisé de 0,9 à 1,15 x). Le rendement est le minimum IE3 ; cosφ et la vitesse sont des valeurs catalogue typiques.
+Ajuste o relé de sobrecarga ou o disjuntor-motor para In (permitido de 0,9 a 1,15 x). A eficiência é o mínimo IE3; cosφ e a velocidade são valores típicos de catálogo.
+将热过载继电器或电动机保护断路器整定为 In（允许 0.9 至 1.15 倍）。效率为 IE3 最低值，cosφ 和转速为典型样本值。
+Установите тепловое реле или автомат защиты двигателя на In (допускается от 0,9 до 1,15 x). КПД — минимум для IE3, cosφ и частота вращения — типичные каталожные значения.
+Ustaw przekaźnik termiczny lub wyłącznik silnikowy na In (dopuszczalne od 0,9 do 1,15 x). Sprawność to minimum IE3, cosφ i prędkość to typowe wartości katalogowe.
+Állítsa a hőkioldót vagy a motorvédő kapcsolót In értékre (megengedett 0,9–1,15 x). A hatásfok az IE3 minimuma, a cosφ és a fordulatszám jellemző katalógusértékek.
+Ajuste el relé térmico o el guardamotor a In (permitido de 0,9 a 1,15 x). El rendimiento es el mínimo IE3; cosφ y la velocidad son valores típicos de catálogo.
+
+#6820
+Moteur asynchrone à cage d'écureuil (IE3). Enroulement 400 V Δ / 690 V Y (par défaut) : en triangle il donne la pleine puissance sur 400 V, en étoile sur 400 V il ne donne que 1/3 du couple (c'est ce qu'utilise un démarreur étoile-triangle au démarrage). Enroulement 230 V Δ / 400 V Y (courant pour les petits moteurs) : sur un réseau 400 V, couplez-le en ÉTOILE ; le triangle sur 400 V surcharge les enroulements. La plaque signalétique dans le panneau Composant donne In, cosφ, le rendement et la vitesse. Inversez deux phases pour changer le sens de rotation.
+Motor de indução de gaiola de esquilo (IE3). Enrolamento 400 V Δ / 690 V Y (padrão): em triângulo dá potência total em 400 V, em estrela em 400 V dá só 1/3 do torque (é o que uma partida estrela-triângulo usa no arranque). Enrolamento 230 V Δ / 400 V Y (comum em motores pequenos): numa rede de 400 V ligue-o em ESTRELA; triângulo em 400 V sobrecarrega os enrolamentos. A placa de identificação no painel Componente indica In, cosφ, eficiência e velocidade. Troque duas fases para inverter o sentido de rotação.
+鼠笼式异步电动机（IE3）。绕组 400 V Δ / 690 V Y（默认）：在 400 V 上接成三角形输出全功率，在 400 V 上接成星形只有 1/3 转矩（星三角启动器启动时正是利用这一点）。绕组 230 V Δ / 400 V Y（小电机常见）：接 400 V 电源时请接成星形；在 400 V 上接成三角形会使绕组过载。“元件”面板中的铭牌给出 In、cosφ、效率和转速。对调任意两相即可反转。
+Асинхронный двигатель с короткозамкнутым ротором (IE3). Обмотка 400 В Δ / 690 В Y (по умолчанию): треугольник даёт полную мощность при 400 В, звезда при 400 В даёт только 1/3 момента (именно это использует пускатель «звезда-треугольник» при пуске). Обмотка 230 В Δ / 400 В Y (обычно у малых двигателей): при сети 400 В соединяйте её в ЗВЕЗДУ; треугольник при 400 В перегружает обмотки. Шильдик на панели «Компонент» показывает In, cosφ, КПД и частоту вращения. Для реверса поменяйте местами две фазы.
+Silnik indukcyjny klatkowy (IE3). Uzwojenie 400 V Δ / 690 V Y (domyślne): trójkąt daje pełną moc przy 400 V, gwiazda przy 400 V daje tylko 1/3 momentu (to właśnie wykorzystuje rozrusznik gwiazda-trójkąt przy rozruchu). Uzwojenie 230 V Δ / 400 V Y (typowe dla małych silników): przy zasilaniu 400 V połącz je w GWIAZDĘ; trójkąt przy 400 V przeciąża uzwojenia. Tabliczka znamionowa w panelu Element podaje In, cosφ, sprawność i prędkość. Zamień dwie fazy, aby zmienić kierunek obrotów.
+Kalickás aszinkron motor (IE3). 400 V Δ / 690 V Y tekercselés (alapértelmezett): a delta 400 V-on teljes teljesítményt ad, a csillag 400 V-on csak 1/3 nyomatékot (ezt használja a csillag-delta indító induláskor). 230 V Δ / 400 V Y tekercselés (kis motoroknál szokásos): 400 V-os hálózaton CSILLAGBA kösse; a delta 400 V-on túlterheli a tekercseket. Az Alkatrész panel adattáblája megadja az In, cosφ, hatásfok és fordulatszám értékét. A forgásirány megfordításához cseréljen fel két fázist.
+Motor de inducción de jaula de ardilla (IE3). Devanado 400 V Δ / 690 V Y (por defecto): en triángulo da la potencia completa a 400 V; en estrella a 400 V da solo 1/3 del par (es lo que usa un arrancador estrella-triángulo en el arranque). Devanado 230 V Δ / 400 V Y (habitual en motores pequeños): con alimentación de 400 V conéctelo en ESTRELLA; en triángulo a 400 V sobrecarga los devanados. La placa de características en el panel Componente indica In, cosφ, rendimiento y velocidad. Intercambie dos fases para invertir el giro.
+
+#6823
+Moteur asynchrone monophasé 230 V (à condensateur permanent). Il absorbe environ 6 fois son courant nominal pendant les premiers instants. Un moteur bloqué chauffe et grille. La plaque signalétique dans le panneau Composant donne In, cosφ et le rendement.
+Motor de indução monofásico de 230 V (com capacitor permanente). Consome cerca de 6 vezes a corrente de funcionamento nos primeiros instantes. Um motor travado superaquece e queima. A placa de identificação no painel Componente indica In, cosφ e eficiência.
+230 V 单相异步电动机（电容运转式）。启动最初片刻电流约为运行电流的 6 倍。堵转的电机会过热烧毁。“元件”面板中的铭牌给出 In、cosφ 和效率。
+Однофазный асинхронный двигатель 230 В (с рабочим конденсатором). В первые мгновения потребляет примерно в 6 раз больше рабочего тока. Заторможенный двигатель перегревается и сгорает. Шильдик на панели «Компонент» показывает In, cosφ и КПД.
+Jednofazowy silnik indukcyjny 230 V (z kondensatorem pracy). W pierwszych chwilach pobiera około 6 razy więcej niż prąd pracy. Zablokowany silnik przegrzewa się i spala. Tabliczka znamionowa w panelu Element podaje In, cosφ i sprawność.
+230 V-os egyfázisú aszinkron motor (üzemi kondenzátoros). Az első pillanatokban kb. 6-szoros üzemi áramot vesz fel. A megakadt motor túlmelegszik és leég. Az Alkatrész panel adattáblája megadja az In, cosφ és hatásfok értékét.
+Motor de inducción monofásico de 230 V (con condensador permanente). Consume unas 6 veces su corriente de marcha en los primeros instantes. Un motor bloqueado se sobrecalienta y se quema. La placa de características en el panel Componente indica In, cosφ y rendimiento.
+
+#6826
+CPU en RUN.
+CPU em RUN.
+CPU 处于 RUN。
+CPU в режиме RUN.
+CPU w trybie RUN.
+CPU RUN módban.
+CPU en RUN.
+
+#6829
+calibre supérieur à l'Iz du fil
+corrente nominal acima do Iz do fio
+额定值高于导线 Iz
+номинал выше Iz провода
+wartość znamionowa powyżej Iz przewodu
+a névleges érték nagyobb a vezeték Iz értékénél
+calibre superior al Iz del cable
+
+#6832
+Couplez la boîte à bornes en ÉTOILE (Y) pour un réseau 400 V.
+Ligue a caixa de terminais em ESTRELA (Y) para uma rede de 400 V.
+400 V 电源时，将接线盒接成星形（Y）。
+Соедините клеммную коробку в ЗВЕЗДУ (Y) для сети 400 В.
+Połącz tabliczkę zaciskową w GWIAZDĘ (Y) dla zasilania 400 V.
+400 V-os hálózathoz kösse a kapocsdobozt CSILLAGBA (Y).
+Conecte la caja de bornes en ESTRELLA (Y) para una alimentación de 400 V.
+
+#6835
+réglé trop bas par rapport à la plaque signalétique
+ajustado abaixo do valor da placa
+整定值低于铭牌值
+уставка ниже значения на шильдике
+nastawa za niska względem tabliczki znamionowej
+túl alacsonyra állítva az adattáblához képest
+ajustado demasiado bajo para la placa de características
+
+#6838
+Utilisez un fil de plus forte section ou réduisez la charge.
+Use um fio de bitola maior ou reduza a carga.
+使用更大截面的导线或减小负载。
+Используйте провод большего сечения или уменьшите нагрузку.
+Użyj przewodu o większym przekroju lub zmniejsz obciążenie.
+Használjon nagyobb keresztmetszetű vezetéket, vagy csökkentse a terhelést.
+Use un cable de mayor sección o reduzca la carga.
+
+#6841
+Fil au-dessus de 160 °C
+Fio acima de 160 °C
+导线超过 160 °C
+Провод выше 160 °C
+Przewód powyżej 160 °C
+Vezeték 160 °C felett
+Cable por encima de 160 °C
+
+#6844
+Les bouteilles vides arrivent par la gauche et avancent sur la bande (motoréducteur dans l'armoire). S1 détecte une bouteille sous la buse de remplissage, S2 une bouteille sous la boucheuse. L'eau qui arrive à la buse remplit la bouteille placée dessous, ou se répand au sol. Le vérin de bouchage (bobine de distributeur 5/2 dans l'armoire) enfonce un bouchon. Faire avancer la bande pendant que le vérin est en bas bloque la ligne. Les bouteilles remplies à au moins 95 % et bouchées comptent comme bonnes.
+As garrafas vazias entram pela esquerda e seguem na esteira (motorredutor no painel). S1 detecta uma garrafa sob o bico de enchimento, S2 uma garrafa sob a tampadora. A água que chega ao bico enche a garrafa embaixo dele, ou derrama no chão. O cilindro de tampamento (bobina da válvula 5/2 no painel) pressiona uma tampa. Mover a esteira com o cilindro abaixado trava a linha. Garrafas com pelo menos 95 % cheias e tampadas contam como boas.
+空瓶从左侧进入，随输送带前进（减速电机在电柜中）。S1 检测灌装嘴下方的瓶子，S2 检测压盖机下方的瓶子。到达灌装嘴的水会灌入下方的瓶子，否则洒到地上。压盖气缸（电柜中的 5/2 阀线圈）将瓶盖压上。气缸压下时移动输送带会造成卡瓶。灌装至少 95 % 并已压盖的瓶子计为合格品。
+Пустые бутылки поступают слева и едут по ленте (мотор-редуктор в шкафу). S1 видит бутылку под наливным соплом, S2 — бутылку под укупорщиком. Вода, дошедшая до сопла, наполняет бутылку под ним или проливается на пол. Укупорочный цилиндр (катушка распределителя 5/2 в шкафу) напрессовывает крышку. Движение ленты при опущенном цилиндре вызывает затор линии. Бутылки, заполненные не менее чем на 95 % и закрытые крышкой, считаются годными.
+Puste butelki wchodzą z lewej i jadą na taśmie (motoreduktor w szafie). S1 wykrywa butelkę pod dyszą napełniającą, S2 butelkę pod zakręcarką. Woda, która dotrze do dyszy, napełnia butelkę pod nią albo rozlewa się na podłogę. Siłownik zamykający (cewka zaworu 5/2 w szafie) wciska nakrętkę. Ruch taśmy przy opuszczonym siłowniku blokuje linię. Butelki napełnione co najmniej w 95 % i zamknięte liczą się jako dobre.
+Az üres palackok balról érkeznek és a szalagon haladnak (hajtóműves motor a szekrényben). S1 a töltőfej alatti palackot érzékeli, S2 a kupakoló alattit. A töltőfejhez érő víz megtölti az alatta lévő palackot, vagy a padlóra ömlik. A kupakoló henger (5/2-es szelep tekercse a szekrényben) rányomja a kupakot. Ha a szalag mozog, miközben a henger lent van, a sor elakad. A legalább 95 %-ig töltött és lezárt palackok számítanak jónak.
+Las botellas vacías entran por la izquierda y avanzan en la cinta (motorreductor en el cuadro). S1 detecta una botella bajo la boquilla de llenado, S2 una botella bajo la taponadora. El agua que llega a la boquilla llena la botella que hay debajo, o se derrama en el suelo. El cilindro de taponado (bobina de la válvula 5/2 en el cuadro) presiona un tapón. Mover la cinta con el cilindro abajo atasca la línea. Las botellas llenas al menos al 95 % y tapadas cuentan como buenas.
+
+#6847
+Convoyeur bloqué : la bande a avancé pendant que le vérin de bouchage était en bas sur une bouteille. Remontez le vérin, puis appuyez sur Réinitialiser bourrage.
+Esteira travada: a correia andou enquanto o cilindro de tampamento estava abaixado sobre uma garrafa. Suba o cilindro e pressione Resetar travamento.
+输送带卡瓶：压盖气缸压在瓶子上时输送带移动了。先升起气缸，再按“复位卡瓶”。
+Затор конвейера: лента двинулась, когда укупорочный цилиндр был опущен на бутылку. Поднимите цилиндр, затем нажмите «Сброс затора».
+Zator przenośnika: taśma ruszyła, gdy siłownik zamykający był opuszczony na butelkę. Podnieś siłownik, a następnie naciśnij Kasuj zator.
+Szalagelakadás: a szalag elmozdult, miközben a kupakoló henger lent volt egy palackon. Emelje fel a hengert, majd nyomja meg az Elakadás törlése gombot.
+Transportador atascado: la cinta se movió mientras el cilindro de taponado estaba abajo sobre una botella. Suba el cilindro y pulse Rearmar atasco.
+
+#6850
+QW80 (sortie analogique) : la CPU 1214C n'a pas de sortie analogique intégrée. Ajoutez une Signal Board avec 1 sortie analogique et vérifiez son adresse dans la configuration des appareils.
+QW80 (saída analógica): a CPU 1214C não tem saída analógica integrada. Adicione uma signal board com 1 saída analógica e verifique o endereço dela na configuração do dispositivo.
+QW80（模拟量输出）：CPU 1214C 没有集成模拟量输出。请添加一块带 1 路模拟量输出的信号板，并在设备组态中检查其地址。
+QW80 (аналоговый выход): у CPU 1214C нет встроенного аналогового выхода. Добавьте сигнальную плату с 1 аналоговым выходом и проверьте её адрес в конфигурации устройства.
+QW80 (wyjście analogowe): CPU 1214C nie ma wbudowanego wyjścia analogowego. Dodaj płytkę sygnałową z 1 wyjściem analogowym i sprawdź jej adres w konfiguracji urządzenia.
+QW80 (analóg kimenet): a CPU 1214C-nek nincs beépített analóg kimenete. Adjon hozzá egy 1 analóg kimenetes jelkártyát (signal board), és ellenőrizze a címét az eszközkonfigurációban.
+QW80 (salida analógica): la CPU 1214C no tiene salida analógica integrada. Añada una signal board con 1 salida analógica y compruebe su dirección en la configuración de dispositivos.
+
+#6853
+Une petite usine complète : un IBC alimente une cuve de 1000 L par une électrovanne, une pompe de transfert maintient la trémie de la remplisseuse entre ses détecteurs de niveau, et un convoyeur arrête chaque bouteille sous la remplisseuse et sous la boucheuse. Le tout est piloté par un S7-1200 CPU 1214C (programme en ladder, export SCL pour TIA Portal), avec des capteurs PNP 3 fils, des contacteurs et relais thermiques 24 V DC, un sélecteur Auto et des voyants. L'arrêt d'urgence à deux canaux agit sur un relais de sécurité qui fait retomber le contacteur principal KM0, sans passer par l'automate. Ouvrez-le dans Installation complète pour voir les câbles de terrain en direct.
+Uma pequena planta completa: um IBC alimenta um tanque de 1000 L por uma válvula solenoide, uma bomba de transferência mantém a tremonha da enchedora entre suas chaves de nível, e uma esteira para cada garrafa sob a enchedora e sob a tampadora. Tudo é comandado por um S7-1200 CPU 1214C (programa em ladder, exportação SCL para o TIA Portal), com sensores PNP de 3 fios, contatores e relés de sobrecarga 24 V DC, seletor Auto e sinaleiros. A parada de emergência de dois canais atua num relé de segurança que desliga o contator principal KM0, sem passar pelo CLP. Abra-a em Planta inteira para ver os cabos de campo ao vivo.
+一个完整的小型工厂：IBC 吨桶通过电磁阀向 1000 L 储罐供液，转运泵使灌装机料斗液位保持在两个液位开关之间，输送带让每个瓶子依次停在灌装机和压盖机下方。全部由 S7-1200 CPU 1214C 控制（梯形图程序，可导出 SCL 到 TIA Portal），配有 3 线制 PNP 传感器、24 V DC 接触器和热过载继电器、自动选择开关和指示灯。双通道急停作用于安全继电器，由它断开主接触器 KM0，而不经过 PLC。在“整个工厂”中打开它，可实时查看现场电缆。
+Полная небольшая установка: IBC подаёт жидкость в бак 1000 л через электромагнитный клапан, перекачивающий насос держит уровень в бункере наполнителя между его датчиками уровня, а конвейер останавливает каждую бутылку под наполнителем и под укупорщиком. Всем управляет S7-1200 CPU 1214C (программа на LAD, экспорт SCL для TIA Portal), с 3-проводными PNP-датчиками, контакторами и тепловыми реле 24 В DC, переключателем Auto и сигнальными лампами. Двухканальный аварийный останов действует через реле безопасности, которое отпускает главный контактор KM0, а не через ПЛК. Откройте её в режиме «Вся установка», чтобы видеть полевые кабели вживую.
+Kompletny mały zakład: IBC zasila zbiornik 1000 L przez zawór elektromagnetyczny, pompa przetłaczająca utrzymuje poziom w zasobniku napełniarki między jego czujnikami poziomu, a przenośnik zatrzymuje każdą butelkę pod napełniarką i pod zakręcarką. Całością steruje S7-1200 CPU 1214C (program w drabince, eksport SCL do TIA Portal), z 3-przewodowymi czujnikami PNP, stycznikami i przekaźnikami termicznymi 24 V DC, przełącznikiem Auto i lampkami. Dwukanałowy wyłącznik awaryjny działa przez przekaźnik bezpieczeństwa, który wyłącza stycznik główny KM0, a nie przez PLC. Otwórz go w widoku Cały zakład, aby zobaczyć kable obiektowe na żywo.
+Egy teljes kis üzem: egy IBC mágnesszelepen át táplál egy 1000 L-es tartályt, egy átemelő szivattyú a töltőgép garatját a szintkapcsolói között tartja, egy szállítószalag pedig minden palackot megállít a töltő és a kupakoló alatt. Mindezt egy S7-1200 CPU 1214C vezérli (létradiagram program, SCL export a TIA Portalhoz), 3 vezetékes PNP érzékelőkkel, 24 V DC kontaktorokkal és hőkioldókkal, Auto választókapcsolóval és jelzőlámpákkal. A kétcsatornás vészleállító egy biztonsági relén keresztül működik, amely elejti a KM0 főkontaktort, nem a PLC-n keresztül. Nyissa meg a Teljes üzem nézetben, hogy élőben lássa a helyszíni kábeleket.
+Una pequeña planta completa: un IBC alimenta un tanque de 1000 L a través de una electroválvula, una bomba de trasiego mantiene la tolva de la llenadora entre sus interruptores de nivel y un transportador detiene cada botella bajo la llenadora y la taponadora. Todo lo controla un S7-1200 CPU 1214C (programa en ladder, exportación SCL para TIA Portal), con sensores PNP de 3 hilos, contactores y relés térmicos de 24 V DC, selector Auto y pilotos. La parada de emergencia de dos canales actúa sobre un relé de seguridad que desconecta el contactor principal KM0, no a través del PLC. Ábrala en Planta completa para ver los cables de campo en vivo.
+
+#6856
+Onglet Programmation : appuyez sur « Code S7-1200 » et lisez comment chaque réseau devient du SCL. Appuyez sur « TIA Portal » pour télécharger la source et la table des variables.
+Aba Programação: pressione "Código S7-1200" e veja como cada linha vira SCL. Pressione "TIA Portal" para baixar o código-fonte e a tabela de tags.
+“编程”选项卡：按“S7-1200 代码”，查看每个梯级如何转换为 SCL。按“TIA Portal”下载源文件和变量表。
+Вкладка «Программирование»: нажмите «Код S7-1200» и посмотрите, как каждая цепь превращается в SCL. Нажмите «TIA Portal», чтобы скачать исходник и таблицу тегов.
+Karta Programowanie: naciśnij „Kod S7-1200” i zobacz, jak każdy szczebel staje się kodem SCL. Naciśnij „TIA Portal”, aby pobrać źródło i tablicę zmiennych.
+Programozás fül: nyomja meg az „S7-1200 kód” gombot, és nézze meg, hogyan lesz minden létrafokból SCL. A „TIA Portal” gombbal letöltheti a forrást és a változótáblát.
+Pestaña Programación: pulse "Código S7-1200" y vea cómo cada línea se convierte en SCL. Pulse "TIA Portal" para descargar la fuente y la tabla de variables.
+
+#6859
+Arrêt d'urgence : enfoncez SB0 pendant que la ligne tourne. Le relais de sécurité KS1 fait retomber KM0 et les deux moteurs s'arrêtent aussitôt, même si l'automate commande encore KM1 ou KM2 (catégorie d'arrêt 0, IEC 60204-1). Le contact KS1 23-24 ouvre l'entrée I0.3 : l'automate mémorise le défaut et H2 s'allume. Déverrouillez SB0 en le tournant et appuyez sur S3 (réarmement de sécurité, via le contact NF de KM0) : KM0 se réenclenche, mais rien ne démarre tant que vous n'appuyez pas sur S1.
+Emergência: pressione SB0 com a linha em funcionamento. O relé de segurança KS1 desliga KM0 e os dois motores param na hora, mesmo que o CLP ainda acione KM1 ou KM2 (categoria de parada 0, IEC 60204-1). O contato KS1 23-24 abre a entrada I0.3: o CLP retém a falha e H2 acende. Gire SB0 para destravá-lo e pressione S3 (rearme de segurança, pelo contato NF de KM0): KM0 liga de novo, mas nada funciona até você pressionar S1.
+急停：线体运行时按下 SB0。安全继电器 KS1 使 KM0 释放，两台电机立即停止，即使 PLC 仍在驱动 KM1 或 KM2（停止类别 0，IEC 60204-1）。KS1 23-24 断开输入 I0.3：PLC 锁存故障，H2 点亮。旋转 SB0 解锁并按 S3（安全复位，经 KM0 常闭触点）：KM0 重新吸合，但在按下 S1 之前不会运行。
+Аварийный останов: нажмите SB0 во время работы линии. Реле безопасности KS1 отпускает KM0, и оба двигателя сразу останавливаются, даже если ПЛК всё ещё включает KM1 или KM2 (категория останова 0, IEC 60204-1). Контакт KS1 23-24 размыкает вход I0.3: ПЛК фиксирует неисправность, загорается H2. Поверните SB0, чтобы разблокировать, и нажмите S3 (сброс безопасности, через НЗ-контакт KM0): KM0 снова включается, но ничего не запустится, пока вы не нажмёте S1.
+Wyłącznik awaryjny: wciśnij SB0, gdy linia pracuje. Przekaźnik bezpieczeństwa KS1 wyłącza KM0 i oba silniki od razu stają, nawet jeśli PLC nadal steruje KM1 lub KM2 (kategoria zatrzymania 0, IEC 60204-1). Styk KS1 23-24 otwiera wejście I0.3: PLC zatrzaskuje błąd i zapala się H2. Odblokuj SB0 obrotem i naciśnij S3 (reset bezpieczeństwa, przez styk NC KM0): KM0 znów się załącza, ale nic nie ruszy, dopóki nie naciśniesz S1.
+Vészleállítás: nyomja meg az SB0-t, miközben a sor működik. A KS1 biztonsági relé elejti a KM0-t, és mindkét motor azonnal leáll, még akkor is, ha a PLC továbbra is vezérli a KM1-et vagy KM2-t (0. leállítási kategória, IEC 60204-1). A KS1 23-24 érintkező megszakítja az I0.3 bemenetet: a PLC tárolja a hibát, és H2 kigyullad. Csavarja ki az SB0-t, és nyomja meg az S3-at (biztonsági nyugtázás, a KM0 NC érintkezőjén keresztül): a KM0 újra behúz, de semmi sem indul, amíg meg nem nyomja az S1-et.
+Parada de emergencia: pulse SB0 con la línea en marcha. El relé de seguridad KS1 desconecta KM0 y ambos motores se paran al instante, aunque el PLC siga accionando KM1 o KM2 (categoría de parada 0, IEC 60204-1). El contacto KS1 23-24 abre la entrada I0.3: el PLC memoriza el fallo y se enciende H2. Gire SB0 para desenclavarlo y pulse S3 (rearme de seguridad, a través del contacto NC de KM0): KM0 vuelve a conectar, pero nada arranca hasta que pulse S1.
+
+#6862
+marron
+marrom
+棕色
+коричневый
+brązowy
+barna
+marrón
+
+#6865
+bleu
+azul
+蓝色
+синий
+niebieski
+kék
+azul
+
+#6868
+bleu (0 V)
+azul (0 V)
+蓝色（0 V）
+синий (0 В)
+niebieski (0 V)
+kék (0 V)
+azul (0 V)
+
+#6871
+Bobine de distributeur
+Bobina da válvula
+阀线圈
+Катушка клапана
+Cewka zaworu
+Szeleptekercs
+Bobina de válvula
+
+#6874
+Capteur à la boucheuse
+Sensor na tampadora
+压盖机处传感器
+Датчик у укупорщика
+Czujnik przy zakręcarce
+Érzékelő a kupakolónál
+Sensor en la taponadora
+
+#6877
+Transmetteur de niveau
+Transmissor de nível
+液位变送器
+Преобразователь уровня
+Przetwornik poziomu
+Szinttávadó
+Transmisor de nivel
+
+#6880
+Nomenclature
+Lista de materiais
+物料清单
+Спецификация
+Zestawienie materiałów
+Anyagjegyzék
+Lista de materiales
+
+#6883
+Liste des E/S automate
+Lista de E/S do CLP
+PLC 输入/输出清单
+Перечень входов/выходов ПЛК
+Lista we/wy PLC
+PLC I/O lista
+Lista de E/S del PLC
+
+#6886
+Mnémonique
+Símbolo
+符号
+Символ
+Symbol
+Szimbólum
+Símbolo
+
+#6889
+Liste des câbles de terrain
+Lista de cabos de campo
+现场电缆清单
+Кабельный журнал объекта
+Lista kabli obiektowych
+Helyszíni kábellista
+Lista de cables de campo
+
+#6892
+Appareil de l'armoire
+Dispositivo do painel
+电柜设备
+Устройство в шкафу
+Urządzenie w szafie
+Szekrénybeli készülék
+Dispositivo del cuadro
+
+#6895
+De
+De
+起点
+Откуда
+Skąd
+Honnan
+Desde
+
+#6898
+Raccordé à
+Ligado a
+连接到
+Подключено к
+Podłączone do
+Csatlakozik ide
+Conectado a
+
+#6901
+Imprimer
+Imprimir
+打印
+Печать
+Drukuj
+Nyomtatás
+Imprimir
+
+#6904
+Générés à partir du schéma, ils lui correspondent donc toujours. Utilisez-les comme les vrais documents d'armoire : vérifiez, annotez et archivez.
+Gerados a partir do desenho, por isso sempre batem com ele. Use-os como os documentos reais do painel: confira, marque e arquive.
+由图纸生成，因此始终与图纸一致。像使用真实电柜文件一样使用它们：核对、标注并归档。
+Создаются по чертежу, поэтому всегда ему соответствуют. Пользуйтесь ими как настоящей документацией шкафа: проверяйте, размечайте и подшивайте.
+Tworzone z rysunku, więc zawsze są z nim zgodne. Używaj ich jak prawdziwej dokumentacji szafy: sprawdzaj, nanoś uwagi i archiwizuj.
+A rajzból készülnek, így mindig egyeznek vele. Használja őket úgy, mint a valódi szekrénydokumentációt: ellenőrizze, jelölje meg és iktassa.
+Se generan a partir del esquema, así que siempre coinciden con él. Úselos como los documentos reales del cuadro: revise, marque y archive.
+
+#6907
+Documents
+Documentos
+文档
+Документы
+Dokumenty
+Dokumentumok
+Documentos
+
+#6910
+E/S automate
+E/S do CLP
+PLC 输入/输出
+Входы/выходы ПЛК
+We/wy PLC
+PLC I/O
+E/S del PLC
+
+#6913
+Court
+Curto
+简短
+Кратко
+Krótko
+Rövid
+Corto
+
+#6916
+Style de dessin
+Estilo do desenho
+图形样式
+Стиль изображения
+Styl rysunku
+Rajzstílus
+Estilo de dibujo
+
+#6919
+S2 : bouteille sous la boucheuse (capteur dans l'armoire)
+S2: garrafa sob a tampadora (sensor do painel)
+S2：压盖机下方有瓶（电柜传感器）
+S2: бутылка под укупорщиком (датчик в шкафу)
+S2: butelka pod zakręcarką (czujnik w szafie)
+S2: palack a kupakoló alatt (szekrénybeli érzékelő)
+S2: botella bajo la taponadora (sensor del cuadro)
+
+#6922
+Contact reed vérin en bas (armoire, optionnel)
+Sensor reed de cilindro abaixado (painel, opcional)
+气缸下位磁性开关（电柜，可选）
+Геркон «цилиндр внизу» (шкаф, необязательно)
+Kontaktron siłownika w dolnym położeniu (szafa, opcjonalnie)
+Henger alsó helyzet reed-kapcsoló (szekrény, opcionális)
+Sensor reed de cilindro abajo (cuadro, opcional)
+
+#6925
+Vitesse de la bande à pleine vitesse moteur (m/min)
+Velocidade da esteira com o motor na velocidade máxima (m/min)
+电机全速时的输送带速度（m/min）
+Скорость ленты при полной скорости двигателя (м/мин)
+Prędkość taśmy przy pełnej prędkości silnika (m/min)
+Szalagsebesség teljes motorfordulatnál (m/min)
+Velocidad de la cinta a plena velocidad del motor (m/min)
+
+#6928
+Cuve ouverte
+Tanque aberto
+敞口罐
+Открытый бак
+Zbiornik otwarty
+Nyitott tartály
+Tanque abierto
+
+#6931
+Réservoir sous pression fermé sur pieds
+Vaso de pressão fechado com pés
+带支腿的封闭压力容器
+Закрытый сосуд под давлением на опорах
+Zamknięty zbiornik ciśnieniowy na nogach
+Zárt nyomástartó edény lábakon
+Recipiente a presión cerrado sobre patas
+
+#6934
+ et câblé sur 
+ e ligado a 
+ 并接线到 
+ и подключён к 
+ i podłączony do 
+ és bekötve ide: 
+ y cableado a 
+
+#6937
+rempli à nouveau
+reabastecido
+已重新加满
+снова заполнен
+ponownie napełniony
+újratöltve
+rellenado
+
+#6940
+Un détecteur commute quand le liquide est au-dessus de son niveau. Flotteur : un contact (FLOAT dans l'armoire). PNP : un capteur capacitif 3 fils sur la paroi de la cuve (BN +24 V, BK sortie, BU 0 V), relié à un capteur 3 fils dans l'armoire.
+Uma chave atua quando o líquido está acima do seu nível. Boia: um contato (FLOAT no painel). PNP: um sensor capacitivo de 3 fios na parede do tanque (BN +24 V, BK saída, BU 0 V), ligado a um sensor de 3 fios no painel.
+液体高于开关所在位置时开关动作。浮球：一个触点（电柜中的 FLOAT）。PNP：罐壁上的 3 线制电容式传感器（BN +24 V，BK 输出，BU 0 V），与电柜中的 3 线制传感器关联。
+Датчик срабатывает, когда жидкость выше его уровня. Поплавок: контакт (FLOAT в шкафу). PNP: 3-проводный ёмкостный датчик на стенке бака (BN +24 В, BK выход, BU 0 В), связанный с 3-проводным датчиком в шкафу.
+Czujnik zadziała, gdy ciecz jest powyżej jego poziomu. Pływak: styk (FLOAT w szafie). PNP: 3-przewodowy czujnik pojemnościowy na ścianie zbiornika (BN +24 V, BK wyjście, BU 0 V), połączony z 3-przewodowym czujnikiem w szafie.
+A kapcsoló működik, ha a folyadék a szintje felett van. Úszó: egy érintkező (FLOAT a szekrényben). PNP: 3 vezetékes kapacitív érzékelő a tartály falán (BN +24 V, BK kimenet, BU 0 V), egy 3 vezetékes szekrénybeli érzékelőhöz kapcsolva.
+Un interruptor actúa cuando el líquido está por encima de su nivel. Flotador: un contacto (FLOAT en el cuadro). PNP: un sensor capacitivo de 3 hilos en la pared del tanque (BN +24 V, BK salida, BU 0 V), vinculado a un sensor de 3 hilos en el cuadro.
+
+#6943
+Composant de l'armoire
+Componente do painel
+电柜元件
+Компонент шкафа
+Element szafy
+Szekrényalkatrész
+Componente del cuadro
+
+#6946
+Bouteilles sur la bande
+Garrafas na esteira
+输送带上的瓶子
+Бутылки на ленте
+Butelki na taśmie
+Palackok a szalagon
+Botellas en la cinta
+
+#6949
+Renversé
+Derramado
+洒出
+Пролито
+Rozlane
+Kiömlött
+Derramado
+
+#6952
+Exporter le ladder de 
+Exportar o ladder de 
+导出梯形图 
+Экспорт LAD-программы 
+Eksport drabinki 
+Létradiagram exportálása: 
+Exportar el ladder de 
+
+#6955
+Notes de conversion
+Notas de conversão
+转换说明
+Примечания к преобразованию
+Uwagi do konwersji
+Átalakítási megjegyzések
+Notas de conversión
+
+#6958
+Ajoutez le code : dans l'arborescence du projet, sous la CPU, ouvrez Sources externes > Ajouter un nouveau fichier externe > choisissez le fichier .scl.
+Adicione o código: na árvore do projeto, sob a CPU, abra External source files > Add new external file > escolha o arquivo .scl.
+添加代码：在项目树中 CPU 下打开“外部源文件”>“添加新的外部文件”> 选择 .scl 文件。
+Добавьте код: в дереве проекта под CPU откройте «Внешние исходные файлы» > «Добавить новый внешний файл» > выберите файл .scl.
+Dodaj kod: w drzewie projektu pod CPU otwórz External source files > Add new external file > wybierz plik .scl.
+Adja hozzá a kódot: a projektfában a CPU alatt nyissa meg: External source files > Add new external file > válassza ki a .scl fájlt.
+Añada el código: en el árbol del proyecto, bajo la CPU, abra Archivos fuente externos > Agregar nuevo archivo externo > elija el archivo .scl.
+
+#6961
+Chargez dans l'appareil (interface PG/PC, adresse IP de la CPU), passez la CPU en RUN, puis passez en ligne et visualisez FB_Main. Testez avec la machine dans un état sûr.
+Faça o Download to device (interface PG/PC, endereço IP da CPU), coloque a CPU em RUN, depois fique online e monitore o FB_Main. Teste com a máquina em estado seguro.
+下载到设备（PG/PC 接口、CPU 的 IP 地址），将 CPU 切换到 RUN，然后转至在线并监视 FB_Main。在机器处于安全状态下进行测试。
+Загрузите в устройство (интерфейс PG/PC, IP-адрес CPU), переведите CPU в RUN, затем перейдите в онлайн и наблюдайте FB_Main. Проверяйте, когда машина в безопасном состоянии.
+Wykonaj Download to device (interfejs PG/PC, adres IP CPU), przełącz CPU w RUN, potem przejdź online i monitoruj FB_Main. Testuj z maszyną w stanie bezpiecznym.
+Töltse le az eszközre (Download to device; PG/PC interfész, a CPU IP-címe), kapcsolja a CPU-t RUN módba, majd lépjen online és figyelje az FB_Main blokkot. A gép biztonságos állapotában teszteljen.
+Cargue en el dispositivo (interfaz PG/PC, dirección IP de la CPU), ponga la CPU en RUN, luego establezca la conexión online y observe FB_Main. Pruebe con la máquina en un estado seguro.
+
+#6964
+Télécharger les variables .csv
+Baixar tags .csv
+下载变量 .csv
+Скачать теги .csv
+Pobierz zmienne .csv
+Változók letöltése .csv
+Descargar variables .csv
+
+#6967
+ réseaux, 
+ redes, 
+ 个网络， 
+ сегментов, 
+ sieci, 
+ hálózat, 
+ segmentos, 
+
+#6970
+Copier
+Copiar
+复制
+Копировать
+Kopiuj
+Másolás
+Copiar
+
+#6973
+Ce schéma n'a pas encore de partie process : ajoutez des unités dans la vue Process, reliez-les par repère, puis revenez.
+Este desenho ainda não tem parte de processo: adicione unidades na vista Planta, vincule-as pela tag e depois volte.
+此图纸还没有工艺部分：请在工艺视图中添加单元，按位号关联，然后再回来。
+В этом чертеже ещё нет технологической части: добавьте узлы в виде «Установка», свяжите их по позиционному обозначению и вернитесь.
+Ten rysunek nie ma jeszcze części procesowej: dodaj jednostki w widoku Instalacja, powiąż je przez tag, a potem wróć.
+Ennek a rajznak még nincs technológiai része: adjon hozzá egységeket a Technológia nézetben, kapcsolja össze őket címke alapján, majd térjen vissza.
+Este esquema aún no tiene parte de proceso: añada unidades en la vista Planta, vincúlelas por tag y vuelva.
+
+#6976
+{1} protège le fil {2} de {3} mm², qui ne supporte que Iz {4} A{5}. In ne doit pas dépasser Iz.
+{1} protege o fio {2} de {3} mm², que suporta só Iz {4} A{5}. In não pode ser maior que Iz.
+{1} 保护导线 {2}（{3} mm²），其载流量 Iz 仅为 {4} A{5}。In 不得大于 Iz。
+{1} защищает провод {2} сечением {3} мм², допустимый ток которого всего Iz {4} А{5}. In не должен превышать Iz.
+{1} chroni przewód {2} o przekroju {3} mm², który przenosi tylko Iz {4} A{5}. In nie może być większy niż Iz.
+{1} védi a(z) {2} vezetéket ({3} mm²), amelynek terhelhetősége csak Iz {4} A{5}. Az In nem lehet nagyobb Iz-nél.
+{1} protege el cable {2} de {3} mm², que solo admite Iz {4} A{5}. In no debe superar Iz.
+
+#6979
+Le fil {1} fait {2} mm² (Iz {3} A) mais {4} y absorbe {5} A à pleine charge (In plaque {6} A).
+O fio {1} é de {2} mm² (Iz {3} A), mas {4} puxa {5} A por ele em plena carga (In da placa {6} A).
+导线 {1} 为 {2} mm²（Iz {3} A），但 {4} 满载时在其中电流为 {5} A（铭牌 In {6} A）。
+Провод {1} сечением {2} мм² (Iz {3} А), но {4} потребляет через него {5} А при полной нагрузке (In по шильдику {6} А).
+Przewód {1} ma {2} mm² (Iz {3} A), ale {4} pobiera przez niego {5} A przy pełnym obciążeniu (In z tabliczki {6} A).
+A(z) {1} vezeték {2} mm² (Iz {3} A), de {4} teljes terhelésen {5} A-t vesz fel rajta (adattábla szerinti In {6} A).
+El cable {1} es de {2} mm² (Iz {3} A), pero {4} consume {5} A por él a plena carga (In de placa {6} A).
+
+#6982
+Réglez-le sur le courant de la plaque : {1} A (autorisé de 0,9 à 1,15 x).
+Ajuste para a corrente da placa: {1} A (permitido de 0,9 a 1,15 x).
+将其整定为铭牌电流：{1} A（允许 0.9 至 1.15 倍）。
+Установите ток по шильдику: {1} А (допускается от 0,9 до 1,15 x).
+Ustaw prąd z tabliczki znamionowej: {1} A (dopuszczalne od 0,9 do 1,15 x).
+Állítsa az adattábla szerinti áramra: {1} A (megengedett 0,9–1,15 x).
+Ajústelo a la corriente de placa: {1} A (permitido de 0,9 a 1,15 x).
+
+#6985
+Le fil {1} est grillé (coupé). Remplacez-le : sélectionnez-le et appuyez sur Remplacer le fil.
+O fio {1} está queimado (aberto). Substitua-o: selecione-o e pressione Substituir o fio.
+导线 {1} 已烧断（断路）。请更换：选中它并按“更换导线”。
+Провод {1} сгорел (обрыв). Замените его: выделите и нажмите «Заменить провод».
+Przewód {1} jest spalony (przerwa). Wymień go: zaznacz go i naciśnij Wymień przewód.
+A(z) {1} vezeték leégett (szakadt). Cserélje ki: jelölje ki, és nyomja meg a Vezeték cseréje gombot.
+El cable {1} está quemado (abierto). Sustitúyalo: selecciónelo y pulse Sustituir el cable.
+
+#6988
+isolant du fil brûlé à {1} A, Iz {2} A. Remplacez le fil par une section supérieure ou corrigez la protection
+isolamento do fio queimado a {1} A, Iz {2} A. Substitua o fio por uma bitola maior ou corrija a proteção
+导线绝缘在 {1} A 时烧毁，Iz {2} A。请更换更大截面的导线或修正保护
+изоляция провода сгорела при {1} А, Iz {2} А. Замените провод на большее сечение или исправьте защиту
+izolacja przewodu spalona przy {1} A, Iz {2} A. Wymień przewód na większy przekrój lub popraw zabezpieczenie
+a vezeték szigetelése leégett {1} A-nél, Iz {2} A. Cserélje nagyobb keresztmetszetű vezetékre, vagy javítsa a védelmet
+aislamiento del cable quemado a {1} A, Iz {2} A. Sustituya el cable por una sección mayor o corrija la protección
+
+#6991
+Le courant traverse tout le réseau : la sortie {1} est à ON. Si l'appareil raccordé ne fonctionne pas, mesurez sur {2}:{3}{4}, puis le fil vers {5}, la bobine et son retour vers N / 0 V.
+A energia passa por toda a linha: a saída {1} está ON. Se o dispositivo ligado a ela não funcionar, meça em {2}:{3}{4}, depois o fio até {5}, a bobina e o retorno dela para N / 0 V.
+能流通过整个梯级：输出 {1} 为 ON。如果其上的设备不工作，请在 {2}:{3}{4} 处测量，然后检查到 {5} 的导线、线圈及其回到 N / 0 V 的回路。
+Ток проходит через всю цепь: выход {1} включён (ON). Если подключённое к нему устройство не работает, измерьте на {2}:{3}{4}, затем провод до {5}, катушку и её возврат на N / 0 В.
+Prąd płynie przez cały szczebel: wyjście {1} jest ON. Jeśli podłączone urządzenie nie działa, zmierz na {2}:{3}{4}, potem przewód do {5}, cewkę i jej powrót do N / 0 V.
+Az áram végigfolyik a teljes létrafokon: a(z) {1} kimenet ON. Ha a rákötött készülék nem működik, mérjen a(z) {2}:{3}{4} ponton, majd a(z) {5} felé menő vezetéket, a tekercset és a visszavezetését az N / 0 V felé.
+La corriente recorre toda la línea: la salida {1} está en ON. Si el dispositivo conectado no funciona, mida en {2}:{3}{4}, luego el cable hasta {5}, la bobina y su retorno a N / 0 V.
+
+#6994
+{1} « {2} » n'est pas une adresse de bit valide ({3}, {4}, M0.0-M15.7, T0-T31, C0-C15).
+{1} "{2}" não é um endereço de bit válido ({3}, {4}, M0.0-M15.7, T0-T31, C0-C15).
+{1}“{2}”不是有效的位地址（{3}、{4}、M0.0-M15.7、T0-T31、C0-C15）。
+{1} «{2}» — недопустимый битовый адрес ({3}, {4}, M0.0-M15.7, T0-T31, C0-C15).
+{1} „{2}” nie jest prawidłowym adresem bitowym ({3}, {4}, M0.0-M15.7, T0-T31, C0-C15).
+{1} „{2}” nem érvényes bitcím ({3}, {4}, M0.0-M15.7, T0-T31, C0-C15).
+{1} "{2}" no es una dirección de bit válida ({3}, {4}, M0.0-M15.7, T0-T31, C0-C15).
+
+#6997
+{1} est utilisé comme {2} et comme {3} : le code ne le déclare qu'une fois, comme {2}. Utilisez un autre numéro pour la deuxième boîte.
+{1} é usado como {2} e como {3}: o código o declara uma vez como {2}. Use outro número para o segundo bloco.
+{1} 同时被用作 {2} 和 {3}：代码只将其声明一次，为 {2}。请为第二个功能框使用另一个编号。
+{1} используется как {2} и как {3}: код объявляет его один раз как {2}. Используйте другой номер для второго блока.
+{1} jest użyty jako {2} i jako {3}: kod deklaruje go raz jako {2}. Użyj innego numeru dla drugiego bloku.
+A(z) {1} {2} és {3} típusként is szerepel: a kód egyszer, {2} típusként deklarálja. Használjon másik számot a második dobozhoz.
+{1} se usa como {2} y como {3}: el código lo declara una sola vez como {2}. Use otro número para el segundo bloque.
+
+#7000
+Réseau {1}{2} : l'élément « {3} » n'a pas de traduction SCL : il a été écrit FALSE (TODO dans le code).
+Rede {1}{2}: o elemento "{3}" não tem tradução em SCL: foi escrito como FALSE (TODO no código).
+网络 {1}{2}：元素“{3}”没有 SCL 对应：已写为 FALSE（代码中有 TODO）。
+Сегмент {1}{2}: элемент «{3}» не имеет перевода в SCL: он записан как FALSE (TODO в коде).
+Sieć {1}{2}: element „{3}” nie ma odpowiednika w SCL: zapisano go jako FALSE (TODO w kodzie).
+Hálózat {1}{2}: a(z) „{3}” elemnek nincs SCL-megfelelője: FALSE értékként lett beírva (TODO a kódban).
+Segmento {1}{2}: el elemento "{3}" no tiene traducción a SCL: se escribió como FALSE (TODO en el código).
+
+#7003
+Réseau {1}{2} : le nom de compteur « {3} » doit être C0-C15 (TODO dans le code).
+Rede {1}{2}: o nome do contador "{3}" deve ser C0-C15 (TODO no código).
+网络 {1}{2}：计数器名称“{3}”必须为 C0-C15（代码中有 TODO）。
+Сегмент {1}{2}: имя счётчика «{3}» должно быть C0-C15 (TODO в коде).
+Sieć {1}{2}: nazwa licznika „{3}” musi być C0-C15 (TODO w kodzie).
+Hálózat {1}{2}: a(z) „{3}” számlálónév csak C0-C15 lehet (TODO a kódban).
+Segmento {1}{2}: el nombre del contador "{3}" debe ser C0-C15 (TODO en el código).
+
+#7006
+Réseau {1}{2} : la sortie MOVE « {3} » doit être MW ou QW80 (TODO dans le code).
+Rede {1}{2}: a saída do MOVE "{3}" deve ser MW ou QW80 (TODO no código).
+网络 {1}{2}：MOVE 输出“{3}”必须为 MW 或 QW80（代码中有 TODO）。
+Сегмент {1}{2}: выход MOVE «{3}» должен быть MW или QW80 (TODO в коде).
+Sieć {1}{2}: wyjście MOVE „{3}” musi być MW lub QW80 (TODO w kodzie).
+Hálózat {1}{2}: a(z) „{3}” MOVE kimenet csak MW vagy QW80 lehet (TODO a kódban).
+Segmento {1}{2}: la salida de MOVE "{3}" debe ser MW o QW80 (TODO en el código).
+
+#7009
+{1} dépasse les 14 DI / 10 DO de la CPU 1214C : ajoutez un module d'E/S.
+{1} está além das 14 DI / 10 DO da CPU 1214C: adicione um módulo de E/S.
+{1} 超出了 CPU 1214C 的 14 DI / 10 DO：请添加 I/O 模块。
+{1} выходит за пределы 14 DI / 10 DO у CPU 1214C: добавьте модуль ввода-вывода.
+{1} wykracza poza 14 DI / 10 DO CPU 1214C: dodaj moduł we/wy.
+{1} túllépi a CPU 1214C 14 DI / 10 DO csatornáját: adjon hozzá egy I/O modult.
+{1} supera las 14 DI / 10 DO de la CPU 1214C: añada un módulo de E/S.
+
+#7012
+Dans TIA Portal (V16 ou plus récent), ajoutez la CPU : Ajouter un appareil > Contrôleurs > SIMATIC S7-1200 > CPU > {1} (choisissez la référence et le firmware de votre matériel).
+No TIA Portal (V16 ou mais recente), adicione a CPU: Add new device > Controllers > SIMATIC S7-1200 > CPU > {1} (escolha o código de pedido e o firmware do seu hardware).
+在 TIA Portal（V16 或更新版本）中添加 CPU：添加新设备 > 控制器 > SIMATIC S7-1200 > CPU > {1}（选择与你的硬件一致的订货号和固件版本）。
+В TIA Portal (V16 или новее) добавьте CPU: Добавить новое устройство > Контроллеры > SIMATIC S7-1200 > CPU > {1} (выберите заказной номер и прошивку вашего оборудования).
+W TIA Portal (V16 lub nowszym) dodaj CPU: Add new device > Controllers > SIMATIC S7-1200 > CPU > {1} (wybierz numer zamówieniowy i firmware swojego sprzętu).
+A TIA Portalban (V16 vagy újabb) adja hozzá a CPU-t: Add new device > Controllers > SIMATIC S7-1200 > CPU > {1} (válassza ki a hardvere rendelési számát és firmware-ét).
+En TIA Portal (V16 o posterior) añada la CPU: Agregar dispositivo > Controladores > SIMATIC S7-1200 > CPU > {1} (elija la referencia y el firmware de su hardware).

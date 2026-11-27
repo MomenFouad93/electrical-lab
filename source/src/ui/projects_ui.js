@@ -21,7 +21,7 @@
   }
 
   /* ---------- bench view switch ---------- */
-  const VIEWS = [['panel', ['Panel', 'اللوحة']], ['plant', ['Plant', 'العملية']], ['line', ['Line', 'الخط']]];
+  const VIEWS = [['panel', ['Panel', 'اللوحة']], ['plant', ['Plant', 'العملية']], ['all', ['Whole plant', 'المصنع كله']], ['line', ['Line', 'الخط']]];
   function setView(v) {
     if (v === 'ladder') { ui.show('prog'); return; }
     if (!VIEWS.some((x) => x[0] === v)) v = 'panel';
@@ -30,7 +30,9 @@
     $('#v-bench').dataset.view = v;
     for (const x of ui.$$('#viewSeg .btn')) x.classList.toggle('on', x.dataset.v === v);
     if (b.rebuildPalette) b.rebuildPalette();
+    if (ui.floor) { if (v === 'all') ui.floor.enter(); else ui.floor.leave(); }
     if (v === 'panel') { requestAnimationFrame(() => { if (b._fitPanel) { b._fitPanel = false; b.ed.fit(); } else b.ed.applyView(); }); b.inspector(b.ed); if (b.ed.hint) b.ed.hint(''); }
+    if (v === 'all') { b.inspector(b.ed); if (!b.ed.c.plant || !b.ed.c.plant.units.length) ui.toast(['This drawing has no process part yet: add units in the Plant view, link them by tag, then come back.', 'الرسمة دي لسه مفيهاش عملية: ضيف وحدات في شاشة العملية واربطها بالتاج، وارجع هنا.'], 'info', 6000); }
     if (v === 'plant') { ui.plant.render(true); if (prev !== 'plant' && !setView.fitted) { setView.fitted = true; requestAnimationFrame(() => ui.plant.fit()); } ui.plant.inspector(); }
     if (v !== 'plant' && ui.plant.pending) { ui.plant.pending = null; }
     if (v === 'line') { ui.line.render(true); if (prev !== 'line' && !setView.lfit) { setView.lfit = true; requestAnimationFrame(() => ui.line.fit()); } ui.line.inspector(); }
@@ -48,7 +50,7 @@
     let liveT = 0;
     b.frame = function (now) {
       frame0(now);
-      if (b.view === 'plant') { ui.plant.frame(); if (now - liveT > 300) { liveT = now; ui.plant.updateLive(); } }
+      if (b.view === 'plant' || b.view === 'all') { ui.plant.frame(); if (now - liveT > 300) { liveT = now; ui.plant.updateLive(); } if (b.view === 'all' && ui.floor) ui.floor.frame(); }
       else if (b.view === 'line') ui.line.frame();
     };
     const setMode0 = b.setMode;

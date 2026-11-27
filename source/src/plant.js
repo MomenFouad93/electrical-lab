@@ -20,7 +20,7 @@
     pre: 'S', name: E('Water source / mains', 'مصدر مية / خط عمومي'), w: 100, h: 80,
     info: E('Fixed-pressure water source: a sump, a well or the city line. Set its pressure and temperature.', 'مصدر مية بضغط ثابت: بيارة أو بير أو خط المدينة. اظبط الضغط والحرارة.'),
     ports: [['out', 100, 40, 'r']],
-    props: { bar: 0.3, temp: 20 },
+    props: { bar: 0.3, temp: 20, style: 'main', stock: 0 }, // style: drawing only (main, ibc); stock: litres in it, 0 = endless
   };
   U.DRAIN = {
     pre: 'D', name: E('Drain', 'صرف'), w: 80, h: 70,
@@ -31,7 +31,7 @@
     pre: 'T', name: E('Tank with level instruments', 'تانك بأجهزة مستوى'), w: 180, h: 240,
     info: E('Open tank. Top inlets are at the tank height, so a pump must lift the water up there. Bottom outlets are at the water head pressure. Link a level transmitter, up to 4 float switches, a heater and a temperature sensor to parts on the panel.', 'تانك مفتوح. المداخل من فوق على ارتفاع التانك، فالطلمبة لازم ترفع المية لحد هناك. والمخارج من تحت عليها ضغط عمود المية. اربط ترانسميتر مستوى ولحد 4 فلوتات وسخان وحساس حرارة بأجهزة في اللوحة.'),
     ports: [['inA', 40, 0, 'u'], ['inB', 140, 0, 'u'], ['out1', 180, 222, 'r'], ['out2', 0, 222, 'l']],
-    props: { vol: 300, hgt: 1.5, lvl0: 40, t0: 20, lt: '', tt: '', htr: '' },
+    props: { vol: 300, hgt: 1.5, lvl0: 40, t0: 20, lt: '', tt: '', htr: '', style: 'open' }, // style: drawing only (open, cone, ibc, vessel)
     init(u) { if (!Array.isArray(u.props.sw)) u.props.sw = sw4(); u.state = { v: u.props.vol * u.props.lvl0 / 100, T: u.props.t0, ovf: 0 }; },
   };
   U.PUMP = {
@@ -113,7 +113,18 @@
     info: E('Joins up to 4 pipes at one point.', 'بيوصل لحد 4 مواسير في نقطة واحدة.'),
     ports: [['a', 0, 18, 'l'], ['b', 36, 18, 'r'], ['c', 18, 0, 'u'], ['d', 18, 36, 'd']], props: {},
   };
-  PL.order = ['SUPPLY', 'TANK', 'PUMP', 'VALVE', 'SOLV', 'CHECK', 'FILTER', 'RO', 'HX', 'PG', 'FM', 'PT', 'PS', 'FS', 'TT', 'JUNC', 'DRAIN'];
+  /* bottle filling and capping conveyor (side view). Lengths in metres along the belt; the drawing maps 0..BT.L to x 30..490. */
+  const BT = (PL.bottleGeo = { L: 2.4, px0: 30, px1: 490, fpx: 180, cpx: 340, pitch: 0.13, sTol: 0.035, sOff: 0.026, fTol: 0.03, jTol: 0.05 });
+  BT.x = (px) => ((px - BT.px0) / (BT.px1 - BT.px0)) * BT.L; BT.px = (x) => BT.px0 + (x / BT.L) * (BT.px1 - BT.px0);
+  BT.xf = BT.x(BT.fpx); BT.xc = BT.x(BT.cpx);
+  U.BOTTLE = {
+    pre: 'CV', name: E('Bottle filling and capping conveyor', 'سير تعبئة وغلق زجاجات'), w: 520, h: 220,
+    info: E('Empty bottles come in at the left and ride the belt (gear motor on the panel). S1 sees a bottle under the filling nozzle, S2 a bottle under the capper. Water that reaches the nozzle fills the bottle under it, or spills on the floor. The capping cylinder (5/2 valve coil on the panel) presses a cap on. Moving the belt while the cylinder is down jams the line. Bottles at least 95 % full and capped count as good.', 'الزجاجات الفاضية بتدخل من الشمال وتمشي على السير (موتور الجير في اللوحة). S1 بيشوف الزجاجة اللي تحت بزبوز التعبئة، وS2 الزجاجة اللي تحت الكابس. المية اللي توصل للبزبوز بتملا الزجاجة اللي تحته، أو تقع على الأرض. سلندر الغطا (كويل فالف 5/2 في اللوحة) بيكبس الغطا. لو السير اتحرك والسلندر نازل الخط بيزرجن. الزجاجة المليانة 95٪ على الأقل ومقفولة بتتحسب سليمة.'),
+    ports: [['fill', BT.fpx, 0, 'u']],
+    props: { motor: '', s1: '', s2: '', cyl: '', rup: '', rdn: '', bvol: 0.5, rate: 20, speed: 12 },
+    init(u) { u.state = { b: [], ok: 0, bad: 0, spill: 0, jam: 0, ext: 0, v: 0, feed: 1 }; },
+  };
+  PL.order = ['SUPPLY', 'TANK', 'PUMP', 'VALVE', 'SOLV', 'CHECK', 'FILTER', 'RO', 'HX', 'PG', 'FM', 'PT', 'PS', 'FS', 'TT', 'JUNC', 'DRAIN', 'BOTTLE'];
 
   /* ---------------- model helpers ---------------- */
   PL.newPlant = () => ({ units: [], pipes: [] });
@@ -181,7 +192,10 @@
       if (d.init) d.init(u);
       const pr = q.props || {};
       for (const k of Object.keys(u.props)) if (pr[k] != null && typeof pr[k] === typeof u.props[k]) u.props[k] = typeof u.props[k] === 'string' ? SAFE(pr[k], 16) : typeof u.props[k] === 'number' ? (isFinite(pr[k]) ? pr[k] : u.props[k]) : pr[k];
-      if (u.type === 'TANK' && Array.isArray(pr.sw)) u.props.sw = pr.sw.slice(0, 4).map((s) => ({ n: SAFE(s && s.n, 10), l: clamp(+(s && s.l) || 0, 0, 100), t: SAFE(s && s.t, 12) }));
+      if (u.type === 'TANK' && Array.isArray(pr.sw)) u.props.sw = pr.sw.slice(0, 4).map((s) => Object.assign({ n: SAFE(s && s.n, 10), l: clamp(+(s && s.l) || 0, 0, 100), t: SAFE(s && s.t, 12) }, s && s.k === 'pnp' ? { k: 'pnp' } : {}));
+      if (u.type === 'SUPPLY' && !['main', 'ibc'].includes(u.props.style)) u.props.style = 'main';
+      if (u.type === 'SUPPLY') u.props.stock = clamp(+u.props.stock || 0, 0, 1e6);
+      if (u.type === 'TANK' && !['open', 'cone', 'ibc', 'vessel'].includes(u.props.style)) u.props.style = 'open';
       if (q.state && typeof q.state === 'object') for (const k of Object.keys(q.state)) if (typeof q.state[k] === 'number' && isFinite(q.state[k])) u.state[k] = q.state[k];
       const n = +String(u.id).slice(1); if (n > (PL._uid || 0)) PL._uid = n;
       pl.units.push(u);
@@ -201,9 +215,14 @@
   const part = (c, tag) => (tag ? c.parts.find((p) => p.tag === tag) : null);
   PL.linkTypes = {
     motor: ['MOT3', 'MOT1', 'MOTDC'], sol: ['SOL'], htr: ['HTR'],
-    float: ['FLOAT', 'LIM', 'PRESS', 'FLOW'], tx: ['TX', 'TXV'], temp: ['PT100', 'TX', 'TXV'], ps: ['PRESS', 'LIM', 'FLOAT', 'FLOW'], fs: ['FLOW', 'LIM', 'FLOAT', 'PRESS'],
+    float: ['FLOAT', 'LIM', 'PRESS', 'FLOW'], pnp: ['PROX', 'PHOTO'], sense: ['PROX', 'PHOTO', 'LIM', 'FLOAT'], tx: ['TX', 'TXV'], temp: ['PT100', 'TX', 'TXV'], ps: ['PRESS', 'LIM', 'FLOAT', 'FLOW'], fs: ['FLOW', 'LIM', 'FLOAT', 'PRESS'],
   };
   function setAct(p, on) { if (p && p.state) p.state.act = !!on; }
+  // 3-wire sensors (PROX, PHOTO) see a target; contact devices (FLOAT, LIM...) are operated
+  const isTgt = (p) => p && p.state && (p.type === 'PROX' || p.type === 'PHOTO' || 'target' in p.state);
+  function setSense(p, on) { if (!p || !p.state) return; if (isTgt(p)) p.state.target = !!on; else p.state.act = !!on; }
+  const sensed = (p) => (isTgt(p) ? !!p.state.target : !!(p && p.state && p.state.act));
+  PL.setSense = setSense;
   function setProc(p, pc) { if (!p) return; if (p.type === 'PT100') return; p.props.proc = Math.round(clamp(pc, 0, 100) * 10) / 10; }
   function motorSpeed(p) {
     if (!p || !p.state) return 0;
@@ -248,7 +267,7 @@
       const id = u.id, p = (port) => id + '.' + port, st = u.state || (u.state = {}), pr = u.props;
       for (const q of PL.portsOf(u)) N(p(q.id));
       switch (u.type) {
-        case 'SUPPLY': F(id + '#s', +pr.bar || 0); B(id + '#s', p('out'), 8, { u, k: 'src' }); break; // a real line or sump cannot give unlimited flow
+        case 'SUPPLY': { F(id + '#s', +pr.bar || 0); const dry = +pr.stock > 0 && (st.left == null ? +pr.stock : st.left) <= 0.001; B(id + '#s', p('out'), 8, { u, k: 'src', oneRev: dry }); break; } // an empty IBC gives nothing // a real line or sump cannot give unlimited flow
         case 'DRAIN': F(id + '#d', 0); B(p('in'), id + '#d', G_OUT, { u, k: 'drain', one: true }); break;
         case 'TANK': {
           const h = (st.v / Math.max(1, +pr.vol)) * (+pr.hgt || 1);
@@ -287,6 +306,7 @@
         }
         case 'HX': B(p('hin'), p('hout'), 1.2, { u, k: 'hxh' }); B(p('cin'), p('cout'), 1.2, { u, k: 'hxc' }); break;
         case 'JUNC': for (const q of ['a', 'b', 'c', 'd']) B(id + '#j', p(q), G_BIG, { u, k: 'j' }); break;
+        case 'BOTTLE': F(id + '#n', 0); B(p('fill'), id + '#n', 30, { u, k: 'fill', one: true }); break; // nozzle open to air: like a drain
         default:
           if (PL.X && PL.X[u.type]) PL.X[u.type].net(u, { B, F, p, c, pl });
           else B(p('a'), p('b'), G_BIG, { u, k: 'inl' }); // PT PS FS TT PG FM
@@ -379,6 +399,57 @@
     return out;
   }
 
+  /* ---------------- bottle conveyor ---------------- */
+  function bottleStep(u, c, fx, dt) {
+    const st = u.state, pr = u.props;
+    if (!Array.isArray(st.b)) st.b = [];
+    const bvol = clamp(+pr.bvol || 0.5, 0.01, 50), m = part(c, pr.motor);
+    // gear motor with a brake: the belt moves only while the motor is powered
+    const amps = m && m.state ? +m.state.amps || 0 : 0, powered = !!m && amps > 0.05;
+    let w = powered ? motorSpeed(m) : 0;
+    if (m && m.state && !powered) m.state.w = (m.state.w || 0) * 0.3;
+    if (Math.abs(w) < 0.03) w = 0;
+    const cy = part(c, pr.cyl), tgt = cy && cy.state && (cy.state.pos || 0) > 0.5 ? 1 : 0;
+    st.cyle = tgt;
+    st.ext = clamp((st.ext || 0) + clamp(tgt - (st.ext || 0), -dt / 0.6, dt / 0.6), 0, 1);
+    let v = st.jam ? 0 : (clamp(+pr.speed || 12, 0.1, 120) / 60) * w; // m/s
+    const B = st.b, down = st.ext > 0.3;
+    if (v) {
+      const nx = B.map((b) => b.x);
+      if (v > 0) for (let i = 0; i < B.length; i++) nx[i] = Math.min(B[i].x + v * dt, i ? nx[i - 1] - BT.pitch : 1e9);
+      else for (let i = B.length - 1; i >= 0; i--) nx[i] = Math.max(B[i].x + v * dt, i < B.length - 1 ? nx[i + 1] + BT.pitch : 0);
+      if (down && B.some((b, i) => Math.abs(nx[i] - BT.xc) < BT.jTol || Math.abs(b.x - BT.xc) < BT.jTol)) {
+        v = 0;
+        if (!st.jam) { st.jam = 1; EL.emit('alarm', { id: u.id, tag: u.tag }, 'conveyor jammed: belt moved while the capping cylinder was down'); }
+      } else B.forEach((b, i) => { b.x = nx[i]; });
+    }
+    st.v = v;
+    if (m && m.state && powered) m.state.pl = st.jam ? 1.15 : 0.45;
+    // infeed: one bottle every 60/rate s when there is room
+    st.feed = Math.min(1, (st.feed || 0) + (dt * clamp(+pr.rate || 20, 0, 200)) / 60);
+    if (st.feed >= 1 && B.length < 40 && (!B.length || B[B.length - 1].x >= BT.pitch)) { B.push({ x: 0, f: 0, cap: 0 }); st.feed = 0; }
+    // filling nozzle
+    const q = fx ? Math.max(0, fx.q) : 0; st.fq = q;
+    const under = (x0, tol) => B.find((b) => Math.abs(b.x - x0) < tol);
+    if (q > 0) {
+      const b = under(BT.xf, BT.fTol);
+      if (b) { b.f += q * dt; if (b.f > bvol) { st.spill = (st.spill || 0) + b.f - bvol; b.f = bvol; st.ovf = 1; } else st.ovf = 0; }
+      else { st.spill = (st.spill || 0) + q * dt; st.ovf = 1; }
+    } else st.ovf = 0;
+    // capping head
+    if (st.ext > 0.95) { const b = under(BT.xc, BT.fTol); if (b) b.cap = 1; }
+    // outfeed
+    while (B.length && B[0].x >= BT.L) { const b = B.shift(); if (b.cap && b.f >= 0.95 * bvol) st.ok = (st.ok || 0) + 1; else st.bad = (st.bad || 0) + 1; }
+    // sensors
+    // photo eyes see the bottle body (its diameter), mounted a little downstream so a bottle stopped at the first edge sits under the head
+    st.s1 = under(BT.xf + BT.sOff, BT.sTol) ? 1 : 0; st.s2 = under(BT.xc + BT.sOff, BT.sTol) ? 1 : 0;
+    st.ru = st.ext < 0.05 ? 1 : 0; st.rd = st.ext > 0.95 ? 1 : 0;
+    setSense(part(c, pr.s1), st.s1); setSense(part(c, pr.s2), st.s2);
+    setSense(part(c, pr.rup), st.ru); setSense(part(c, pr.rdn), st.rd);
+    st.run = v ? 1 : 0; st.n = B.length;
+  }
+  PL.bottleReset = function (u, all) { const st = u.state; st.jam = 0; if (all) { st.ok = 0; st.bad = 0; st.spill = 0; st.b = []; st.feed = 1; } };
+
   /* ---------------- step ---------------- */
   PL.step = function (c, dt) {
     const pl = c.plant;
@@ -395,7 +466,7 @@
     for (const u of pl.units) {
       const st = u.state, pr = u.props, p = (port) => P[u.id + '.' + port] || 0, T = (port) => Tn[u.id + '.' + port];
       switch (u.type) {
-        case 'SUPPLY': { const x = q(u, 'src')[0]; st.q = x ? x.q : 0; break; }
+        case 'SUPPLY': { const x = q(u, 'src')[0]; st.q = x ? x.q : 0; if (+pr.stock > 0) st.left = clamp((st.left == null ? +pr.stock : st.left) - st.q * dt, 0, +pr.stock); else delete st.left; break; }
         case 'DRAIN': { const x = q(u, 'drain')[0]; st.q = x ? x.q : 0; st.tot = (st.tot || 0) + st.q * dt; break; }
         case 'TANK': {
           let qin = 0, vin = 0, hin = 0;
@@ -425,9 +496,9 @@
           const tx = part(c, pr.lt); if (tx) setProc(tx, st.lvl);
           const tt = part(c, pr.tt); if (tt) { if (tt.type === 'PT100') tt.props.temp = Math.round(st.T); else setProc(tt, st.T); }
           st.sw = (pr.sw || []).map((s) => {
-            const pp = part(c, s.t), was = pp && pp.state ? !!pp.state.act : !!(st._sw && st._sw[s.n]);
+            const pp = part(c, s.t), was = pp && pp.state ? sensed(pp) : !!(st._sw && st._sw[s.n]);
             const on = st.lvl > (+s.l || 0) + (was ? -0.8 : 0.8);
-            if (pp) setAct(pp, on);
+            if (pp) setSense(pp, on); // float: contact operated; pnp: 3-wire capacitive sensor sees the liquid
             (st._sw || (st._sw = {}))[s.n] = on;
             return on;
           });
@@ -450,7 +521,8 @@
           break;
         }
         case 'VALVE': { const tgt = pr.open ? 1 : 0; st.pos = st.pos == null ? tgt : st.pos + clamp(tgt - st.pos, -dt * 2, dt * 2); const x = q(u, 'v')[0]; st.q = x ? x.q : 0; break; }
-        case 'SOLV': case 'CHECK': { const x = q(u, u.type === 'CHECK' ? 'nrv' : 'v')[0]; st.q = x ? x.q : 0; break; }
+        case 'SOLV': { const s = part(c, pr.sol); st.en = s && s.state && (Math.abs(s.state.v || 0) > 3 || (s.state.i || 0) > 0.012) ? 1 : 0; } // eslint-disable-line no-fallthrough
+        case 'CHECK': { const x = q(u, u.type === 'CHECK' ? 'nrv' : 'v')[0]; st.q = x ? x.q : 0; break; }
         case 'FILTER': {
           const x = q(u, 'flt')[0]; st.q = x ? x.q : 0; st.dp = p('in') - p('out');
           st.clog = Math.min(3, (st.clog || 0) + Math.abs(st.q) * dt * 0.00012 * (+pr.dirt || 1) * (pr.kind === 'cart' ? 2 : 1));
@@ -466,6 +538,7 @@
         }
         case 'HX': { const h = q(u, 'hxh')[0], cc = q(u, 'hxc')[0]; st.qh = h ? h.q : 0; st.qc = cc ? cc.q : 0; break; }
         case 'JUNC': break;
+        case 'BOTTLE': bottleStep(u, c, q(u, 'fill')[0], dt); break;
         default: if (PL.X && PL.X[u.type]) { PL.X[u.type].step(u, { net, p, T, dt, c, pl }); break; } {
           const x = q(u, 'inl')[0]; st.q = x ? x.q : 0; st.p = p('a'); st.T = T('a') == null ? 20 : T('a');
           if (u.type === 'PT') { const t = part(c, pr.tx); if (t) setProc(t, (100 * st.p) / Math.max(0.1, +pr.range)); }
@@ -507,6 +580,14 @@
         if (st.ovf > 0.001) out.push(['bad', u.tag, E('Tank is overflowing.', 'التانك بيفيض.')]);
         if (pr.lt && !tag(pr.lt)) out.push(['warn', u.tag, E('Level transmitter link "' + pr.lt + '" not found on the panel.', 'ربط ترانسميتر المستوى "' + pr.lt + '" مش موجود في اللوحة.')]);
         for (const s of pr.sw || []) if (s.t && !tag(s.t)) out.push(['warn', u.tag, E(s.n + ' is linked to "' + s.t + '", which is not on the panel.', s.n + ' مربوط بـ"' + s.t + '" ومش موجود في اللوحة.')]);
+      }
+      if (u.type === 'SUPPLY' && +pr.stock > 0 && (st.left == null ? +pr.stock : st.left) <= 0.001) out.push(['warn', u.tag, E('Source is empty. Refill it (or set its stock to 0 = endless).', 'المصدر فضي. املاه تاني (أو خلي الكمية 0 = مالهاش آخر).')]);
+      if (u.type === 'BOTTLE') {
+        if (!pr.motor) out.push(['warn', u.tag, E('Conveyor has no motor linked. Pick the motor tag in its properties.', 'السير مش مربوط بموتور. اختار اسم الموتور من خصائصه.')]);
+        else if (!tag(pr.motor)) out.push(['warn', u.tag, E('Linked motor "' + pr.motor + '" is not on the panel.', 'الموتور المربوط "' + pr.motor + '" مش موجود في اللوحة.')]);
+        for (const k of ['s1', 's2', 'cyl', 'rup', 'rdn']) if (pr[k] && !tag(pr[k])) out.push(['warn', u.tag, E(k.toUpperCase() + ' is linked to "' + pr[k] + '", which is not on the panel.', k.toUpperCase() + ' مربوط بـ"' + pr[k] + '" ومش موجود في اللوحة.')]);
+        if (st.jam) out.push(['bad', u.tag, E('Conveyor jammed: the belt moved while the capping cylinder was down on a bottle. Raise the cylinder, then press Reset jam.', 'السير زرجن: السير اتحرك والسلندر نازل على زجاجة. طلّع السلندر وبعدين اضغط ريست الزرجنة.')]);
+        if (st.ovf) out.push(['bad', u.tag, E('Liquid is spilling at the filler: no bottle under the nozzle, or the bottle is full.', 'السايل بيقع عند التعبئة: مفيش زجاجة تحت البزبوز أو الزجاجة اتملت.')]);
       }
       if (u.type === 'FILTER' && (st.dp || 0) > (pr.kind === 'cart' ? 0.6 : 0.8)) out.push(['warn', u.tag, E('Filter is getting blocked (high pressure drop). Backwash or change it.', 'الفلتر بيتسد (فرق ضغط عالي). اعمل باك واش أو غيّره.')]);
       if (u.type === 'RO' && running && (st.qp || 0) + (st.qr || 0) > 0.001) {

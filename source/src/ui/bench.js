@@ -68,6 +68,7 @@
     const p = ed.part();
     if (!p) {
       const w = ed.selWire && ed.c.wires.find((x) => x.id === ed.selWire);
+      if (w && ed.kind !== 'pcb' && EL.WIRE) { wireCard(ed, w, root); return; }
       if (w) {
         root.appendChild(h('div', { class: 'card' }, h('h3', { text: T(['Wire', 'سلك']) }), h('p', { class: 'ltr', text: EL.refLabel(ed.c, w.a) + '  to  ' + EL.refLabel(ed.c, w.b) }),
           h('p', { class: 'mute', text: T(['Drag the yellow dot to move the wire path. Delete removes the wire.', 'اسحب النقطة الصفرا عشان تغير مسار السلك. زرار الحذف بيشيله.']) }),
@@ -85,12 +86,13 @@
       h('p', { class: 'mute', text: T(d.info || ['', '']) }),
       h('div', { class: 'row wrap' },
         ed.mode === 'build' ? [h('button', { class: 'btn', onclick: () => { ed.dup(); }, text: T(['Duplicate', 'نسخ']) }), h('button', { class: 'btn bad', onclick: () => ed.delSel(), text: T(['Delete', 'حذف']) })] : null)));
+    if (/^(MOT3|MOT1)$/.test(p.type) && EL.motorPlate && ed.kind !== 'pcb') root.appendChild(plateCard(p));
     if (d.props && d.props.length) {
       const card = h('div', { class: 'card' }, h('h3', { text: T(['Properties', 'الخصائص']) }));
       for (const pr of d.props) {
         if (pr.t === 'hidden' || (pr.when && !pr.when(p))) continue;
         let inp;
-        if (pr.t === 'sel') inp = h('select', { onchange: (e) => { ed.push(); const v = pr.opts.find((o) => String(o[0]) === e.target.value)[0]; p.props[pr.k] = v; ed.touch(); if (pr.k === 'mode') inspector(ed); } }, pr.opts.map((o) => h('option', { value: o[0], selected: String(o[0]) === String(p.props[pr.k]) ? true : null, text: o[1] })));
+        if (pr.t === 'sel') inp = h('select', { onchange: (e) => { ed.push(); const v = pr.opts.find((o) => String(o[0]) === e.target.value)[0]; p.props[pr.k] = v; ed.touch(); if (pr.k === 'mode' || /^(MOT3|MOT1)$/.test(p.type)) inspector(ed); } }, pr.opts.map((o) => h('option', { value: o[0], selected: String(o[0]) === String(p.props[pr.k]) ? true : null, text: o[1] })));
         else if (pr.t === 'num') inp = h('input', { type: 'number', min: pr.min, max: pr.max, step: pr.step || 1, value: p.props[pr.k], onchange: (e) => { ed.push(); p.props[pr.k] = Math.max(pr.min, Math.min(pr.max, +e.target.value || pr.def)); ed.touch(); } });
         else if (pr.t === 'text') inp = h('textarea', { rows: pr.rows || 4, maxlength: pr.max || 160, spellcheck: false, class: 'code', value: p.props[pr.k], onchange: (e) => { ed.push(); p.props[pr.k] = e.target.value; ed.touch(); } });
         else if (pr.t === 'text1') inp = h('input', { type: 'text', maxlength: pr.max || 14, value: p.props[pr.k], onchange: (e) => { ed.push(); p.props[pr.k] = e.target.value.trim() || pr.def; ed.touch(); } });
@@ -98,7 +100,7 @@
         else inp = h('span', { text: String(p.props[pr.k]) });
         card.appendChild(h('label', { class: 'f', text: T(pr.label) })); card.appendChild(inp);
       }
-      if ((p.type === 'PLC24' || p.type === 'PLC24R') && EL.ui.ladder) card.appendChild(h('div', { class: 'row wrap', style: { marginTop: '8px' } }, h('button', { class: 'btn pri', onclick: () => EL.ui.ladder.openFor(p), text: T(['Open ladder editor', 'افتح محرر اللادر']) })));
+      if ((EL.defs[p.type].diag || {}).kind === 'plc' && EL.ui.ladder) card.appendChild(h('div', { class: 'row wrap', style: { marginTop: '8px' } }, h('button', { class: 'btn pri', onclick: () => EL.ui.ladder.openFor(p), text: T(['Open ladder editor', 'افتح محرر اللادر']) })));
       root.appendChild(card);
     }
     if (d.faults && d.faults.length > 1) {
@@ -117,10 +119,55 @@
     B.updateLive(true);
   }
   B.inspector = inspector;
+  /* panel wire: size, Iz, live current and temperature, replace after a burn */
+  function wireCard(ed, w, root) {
+    const WS = EL.WIRE, mm = WS.mm2(ed.c, w), auto = !WS.ok(w.mm2), kind = WS.kindOf(ed.c, w);
+    const sel = h('select', { 'aria-label': T(['Wire size', 'مقاس السلك']), onchange: (e) => { ed.setWireMm2(w.id, e.target.value ? +e.target.value : null); inspector(ed); } },
+      [h('option', { value: '', selected: auto ? true : null, text: T(['Auto', 'تلقائي']) + ': \u200E' + mm + ' mm²\u200E ' + T(kind === 'C' ? ['control', 'كنترول'] : ['power', 'باور']) })].concat(WS.sizes.map((x) => h('option', { value: String(x), selected: !auto && +w.mm2 === x ? true : null, text: '\u200E' + x + ' mm²  (Iz ' + WS.iz[x] + ' A)\u200E' }))));
+    root.appendChild(h('div', { class: 'card wcard' }, h('h3', { text: T(['Wire', 'سلك']) }),
+      h('p', { class: 'ltr', text: EL.refLabel(ed.c, w.a) + '  to  ' + EL.refLabel(ed.c, w.b) }),
+      w.burnt ? h('div', { class: 'wburnt', text: '🔥 ' + T(['The insulation burnt and the wire is open. Replace it, best with a bigger size, and fix what overloaded it.', 'العزل اتحرق والسلك مفتوح. غيّره، والأحسن بمقاس أكبر، وصلّح سبب الحمل الزيادة.']) }) : null,
+      h('label', { class: 'f', text: T(['Wire size (cross-section)', 'مقاس السلك (المقطع)']) }), h('div', { class: 'wrow' }, sel, h('b', { class: 'ltr', text: 'Iz ' + WS.iz[mm] + ' A' })),
+      h('div', { id: 'wlive' }),
+      h('p', { class: 'mute', text: T(WS.std) }),
+      h('p', { class: 'mute', text: T(['Drag the yellow dot to move the wire path. Delete removes the wire. In Test the wire heats when its current is above Iz: orange above 70 °C, red above 120 °C; at about 2.5 x Iz for a while the insulation burns (shown about 2 x faster than a real cable).', 'اسحب النقطة الصفرا عشان تغيّر مسار السلك. زرار الحذف بيشيله. في الاختبار السلك بيسخن لما تياره يزيد عن Iz: برتقاني فوق 70 درجة، أحمر فوق 120؛ وعند حوالي 2.5 ضعف Iz فترة العزل بيتحرق (أسرع من الكابل الحقيقي بحوالي مرتين).']) }),
+      h('div', { class: 'row wrap' }, w.burnt ? h('button', { class: 'btn pri', onclick: () => { ed.replaceWire(w.id); inspector(ed); }, text: T(['Replace wire', 'غيّر السلك']) }) : null,
+        h('button', { class: 'btn bad', onclick: () => ed.delSel(), text: T(['Delete wire', 'احذف السلك']) }))));
+    B.updateLive(true);
+  }
+  function wireLive(ed, w) {
+    const WS = EL.WIRE, s = ed.c.wth && ed.c.wth[w.id], I = w.cut ? 0 : (ed.c.sim && ed.c.sim.wireI && ed.c.sim.wireI.get(w.id)) || 0, iz = WS.izOf(ed.c, w), Tc = WS.temp(ed.c, w);
+    const pc = Math.min(100, (100 * I) / iz), cls = Tc >= WS.tHot || I > 2.2 * iz ? 'w2' : Tc > WS.tMax || I > iz ? 'w1' : '';
+    const st = w.burnt ? T(['burnt', 'محروق']) : Tc >= WS.tSc ? T(['insulation damaged', 'العزل بيتلف']) : Tc > WS.tMax ? T(['overloaded, heating', 'حمل زيادة وبيسخن']) : I > iz ? T(['above Iz', 'فوق Iz']) : T(['OK', 'سليم']);
+    return `<div class="wbar"><i class="${cls}" style="width:${pc.toFixed(0)}%"></i></div>` +
+      `<div class="kv"><span>${T(['Current', 'التيار'])}</span><b class="ltr">${I < 0.005 ? '0' : I.toFixed(2)} A / Iz ${iz} A (${Math.round((100 * I) / iz)} %)</b></div>` +
+      `<div class="kv"><span>${T(['Temperature', 'الحرارة'])}</span><b class="ltr">${Math.round(Tc)} °C</b></div><div class="kv"><span>${T(['State', 'الحالة'])}</span><b>${st}</b></div>` + (s || I ? '' : `<p class="mute">${T(['Switch to Test to see the current.', 'اختار اختبار عشان تشوف التيار.'])}</p>`);
+  }
+  /* motor rating plate (IEC 60034-1 style) */
+  function plateCard(p) {
+    const np = EL.motorPlate(p), f = (x) => String(x), a = (x) => (+x).toFixed(x < 10 ? 2 : 1), Y = p.props.conn === 'star', six = p.props.conn === '6wire';
+    const row = (cells) => h('div', { class: 'np-r' }, cells.map(([k, v]) => h('span', {}, h('em', { text: k + ' ' }), v)));
+    let rows;
+    if (np.ph === 3) rows = [row([['P:', f(np.kw) + ' kW'], ['U:', np.uD + 'V Δ / ' + np.uY + 'V Y'], ['', np.hz + ' Hz']]), row([['In:', a(np.iD) + ' A (Δ) / ' + a(np.iY) + ' A (Y)'], ['cosφ:', np.cos.toFixed(2)]]), row([['n:', np.rpm + ' rpm'], ['', np.poles + 'P'], ['η:', np.eta + ' %']]), row([['Isol.Cl:', np.ins], ['', np.duty + ' Cont.'], ['', np.ip]])];
+    else rows = [row([['P:', f(np.kw) + ' kW'], ['U:', '230 V 1~'], ['', np.hz + ' Hz']]), row([['In:', a(np.inom) + ' A'], ['cosφ:', np.cos.toFixed(2)]]), row([['n:', np.rpm + ' rpm'], ['', np.poles + 'P'], ['η:', np.eta + ' %']]), row([['Isol.Cl:', np.ins], ['', np.duty + ' Cont.'], ['', np.ip]])];
+    const conn = np.ph === 3 ? (np.volt === '230D' ? (Y ? ['Connected in Y on 400 V: correct, line current ' + a(np.iY) + ' A.', 'متوصل ستار على 400: صح، تيار الخط ' + a(np.iY) + ' أمبير.'] : six ? ['Star-delta: run in Δ needs a 400 V Δ winding. This 230/400 V winding must stay in Y on 400 V.', 'ستار-دلتا محتاج ملفات 400 دلتا. الملفات 230/400 دي لازم تفضل ستار على 400.'] : ['Linked in Δ on 400 V: wrong for a 230 V Δ winding, it will overheat. Use Y.', 'متوصل دلتا على 400: غلط لملفات 230 دلتا، هيسخن. خليه ستار.']) : (Y ? ['Linked in Y on 400 V: windings get only 230 V (1/3 torque). Δ is the running connection.', 'متوصل ستار على 400: الملفات واخدة 230 بس (ثلث العزم). الدلتا هو توصيل التشغيل.'] : ['Δ on 400 V: rated connection, line current ' + a(np.iD) + ' A.', 'دلتا على 400: التوصيل المقنن، تيار الخط ' + a(np.iD) + ' أمبير.'])) : ['Set the overload relay to In.', 'اضبط الأوفرلود على In.'];
+    return h('div', { class: 'card' }, h('h3', { text: T(['Nameplate', 'لوحة بيانات الموتور']) }),
+      h('div', { class: 'nplate', role: 'img', 'aria-label': T(['Motor nameplate', 'لوحة بيانات الموتور']) },
+        h('div', { class: 'np-h' }, h('b', { text: (np.ph === 3 ? '3~' : '1~') + ' MOTOR ' + np.ie }), h('span', { text: 'IEC ' + np.frame + ' · ' + np.ip })), rows,
+        h('div', { class: 'np-f' }, h('span', { text: 'IEC 60034-1' }), h('span', { text: np.ie ? 'IEC 60034-30-1 ' + np.ie : 'capacitor run' }))),
+      h('p', { class: 'mute np-note', text: T(conn) }),
+      h('p', { class: 'mute', text: T(['Set the overload relay or motor breaker to In (allowed 0.9 to 1.15 x). Efficiency is the IE3 minimum, cosφ and speed are typical catalogue values.', 'اضبط الأوفرلود أو بريكر الموتور على In (المسموح من 0.9 لـ 1.15 ضعف). الكفاءة هي أقل قيمة لـ IE3، و cosφ والسرعة قيم كتالوج معتادة.']) }));
+  }
   const STATEMAP = [['w', ['Speed (rpm)', 'السرعة (لفة/د)'], (v) => Math.round(Math.abs(v) * 60 / (2 * Math.PI))], ['amps', ['Current (A)', 'التيار (أمبير)'], (v) => (+v).toFixed(2)], ['iout', ['Output current (A)', 'تيار الخرج (أمبير)'], (v) => (+v).toFixed(2)], ['f', ['Frequency (Hz)', 'التردد (هرتز)'], (v) => (+v).toFixed(1)], ['bus', ['DC bus (V)', 'الـDC bus (فولت)'], (v) => Math.round(v)], ['heat', ['Thermal load (%)', 'الحمل الحراري (%)'], (v) => Math.round(v * 100)], ['closed', ['Contacts closed', 'الكونتاكت مقفول'], (v) => (v ? 'YES' : 'no')], ['on', ['On', 'شغال'], (v) => (v ? 'YES' : 'no')], ['tripped', ['Tripped', 'فاصل'], (v) => (v ? 'YES' : 'no')], ['act', ['Operated', 'متفعّل'], (v) => (v ? 'YES' : 'no')]];
   let liveSig = '';
+  let wliveSig = '';
   B.updateLive = function (force) {
     const ed = B.active(), p = ed && ed.part(), live = $(ed && ed.kind === 'pcb' ? '#plive' : '#live');
+    if (!p && ed && ed.kind !== 'pcb' && ed.selWire && EL.WIRE) {
+      const w = ed.c.wires.find((x) => x.id === ed.selWire), el = $('#wlive');
+      if (w && el) { const s2 = wireLive(ed, w); if (s2 !== wliveSig || force) { el.innerHTML = s2; wliveSig = s2; } }
+      return;
+    }
     if (!p || !live) return;
     const sim = ed.c.sim; let s = '';
     const rows = [];
@@ -296,7 +343,7 @@
     $('#btnSpeed').addEventListener('click', (e) => { const s = B.ed.c.parts.length ? [1, 5, 20, 60] : [1, 5, 20, 60, 300]; B.speed = s[(s.indexOf(B.speed) + 1) % s.length]; e.currentTarget.textContent = B.speed + 'x'; ui.toast(T(['Simulation speed ', 'سرعة المحاكاة ']) + B.speed + 'x', '', 1500); });
     $('#btnUndo').addEventListener('click', () => ed.undo()); $('#btnRedo').addEventListener('click', () => ed.redo());
     const vz = (f) => (B.view === 'plant' && ui.plant ? ui.plant.zoom(f) : B.view === 'line' && ui.line ? ui.line.zoom(f) : ed.zoomAt(f));
-    $('#btnZin').addEventListener('click', () => vz(1.25)); $('#btnZout').addEventListener('click', () => vz(0.8)); $('#btnFit').addEventListener('click', () => (B.view === 'plant' && ui.plant ? ui.plant.fit() : B.view === 'line' && ui.line ? ui.line.fit() : ed.fit()));
+    $('#btnZin').addEventListener('click', () => vz(1.25)); $('#btnZout').addEventListener('click', () => vz(0.8)); $('#btnFit').addEventListener('click', () => (B.view === 'all' && ui.plant ? (ui.plant.fit(), ed.fit()) : B.view === 'plant' && ui.plant ? ui.plant.fit() : B.view === 'line' && ui.line ? ui.line.fit() : ed.fit()));
     $('#btnTpl').addEventListener('click', () => B.templatesDialog());
     $('#btnFile').addEventListener('click', () => B.fileDialog());
     $('#btnClear').addEventListener('click', () => B.clearAll());

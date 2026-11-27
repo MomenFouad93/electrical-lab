@@ -323,21 +323,21 @@
   /* ================= EXTRA LOADS ================= */
   D.MOT1 = {
     cat: 'load', prefix: 'M', name: ['Single-phase motor 230 V', 'موتور فاز واحد 230 فولت'], w: 120, h: 130,
-    info: ['230 V single-phase induction motor. Draws about 6 times its running current for the first moments. A stalled motor overheats and burns.', 'موتور حثي فاز واحد 230 فولت. بيسحب حوالي 6 أضعاف تياره في أول لحظات. الموتور المحبوس بيسخن ويتحرق.'],
+    info: ['230 V single-phase induction motor (capacitor run). Draws about 6 times its running current for the first moments. A stalled motor overheats and burns. The nameplate in the Part panel gives In, cosφ and efficiency.', 'موتور حثي فاز واحد 230 فولت (بمكثف تشغيل). بيسحب حوالي 6 أضعاف تياره في أول لحظات. الموتور المحبوس بيسخن ويتحرق. لوحة البيانات في خانة الجهاز فيها In و cosφ والكفاءة.'],
     pins: [pin('L', 'L', 25, 0, 'u', { role: 'L1' }), pin('N', 'N', 60, 0, 'u', { role: 'N' }), pin('PE', 'PE', 95, 0, 'u', { role: 'PE' })],
     props: [{ k: 'kw', label: ['Power (kW)', 'القدرة (kW)'], t: 'sel', opts: [[0.18, '0.18'], [0.37, '0.37'], [0.75, '0.75'], [1.5, '1.5'], [2.2, '2.2']], def: 0.37 }, { k: 'ins', label: ['Insulation (MΩ)', 'العزل (ميجا أوم)'], t: 'num', min: 0.01, max: 10000, step: 1, def: 500 }],
     faults: [F0, ['stalled', ['Shaft seized (stalled)', 'العمود محبوس']], ['open_winding', ['Winding open', 'الملف مقطوع']], ['leak', ['Winding leaks to frame', 'الملف بيسرّب للبدن']]],
     diag: { kind: 'load', feed: ['L', 'N'], volt: () => 230, active: (p) => (p.state.w || 0) > 0.1, motor: true },
     init(p) { p.state = { w: 0, amps: 0, heat: 0 }; },
     elements(p, ctx) {
-      const out = [], I = +p.props.kw * 7.9, Zn = 230 / I, w = p.fault === 'stalled' ? 0 : p.state.w || 0, k = 1 + (5 * Math.max(0, 1 - w - 0.03)) / 0.97;
+      const out = [], I = EL.motorPlate(p).inom, Zn = 230 / I, w = p.fault === 'stalled' ? 0 : p.state.w || 0, k = 1 + (5 * Math.max(0, 1 - w - 0.03)) / 0.97;
       if (p.fault !== 'open_winding' && !p.state.burnt) out.push(Z(P(p, 'L'), P(p, 'N'), (0.8 * Zn) / k, (0.6 * Zn) / k / (2 * Math.PI * 50), { tag: 'w' }));
       if (p.fault === 'leak') out.push(Z(P(p, 'L'), P(p, 'PE'), 4600, 0, { tag: 'lk' }));
       if (ctx.dead) out.push(Z(P(p, 'L'), P(p, 'PE'), (p.fault === 'leak' ? 0.2 : +p.props.ins) * 1e6, 0, { tag: 'ins', noAC: true }));
       return out;
     },
     update(p, sim, dt) {
-      const st = p.state, e = sim.e(p.id, 'w'), v = e ? EL.cabs(e.r_.vac) : 0, I = +p.props.kw * 7.9;
+      const st = p.state, e = sim.e(p.id, 'w'), v = e ? EL.cabs(e.r_.vac) : 0, I = EL.motorPlate(p).inom;
       st.volts = v; st.amps = e ? EL.cabs(e.r_.iac) : 0;
       const tq = v > 20 ? (v / 230) * (v / 230) : 0;
       if (p.fault === 'stalled') st.w = 0; else { st.w += (dt * (tq * (1.4 - 0.6 * st.w) - (typeof st.pl === 'number' ? st.pl * 1.1 : 0.7) * (0.1 + 0.9 * st.w * st.w))) / 1.5; st.w = Math.max(0, Math.min(0.97, st.w)); }

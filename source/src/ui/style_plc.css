@@ -1,0 +1,38 @@
+/* PLC export dialog (src/ui/plc_export.js) */
+.modal .box.scl-box{max-width:980px;width:100%}
+.scl-dlg h3{margin:0 0 8px}
+.scl-dlg h4{margin:12px 0 6px}
+.scl-cpu{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:8px}
+.scl-cpu .pill{font-size:12px;direction:ltr;unicode-bidi:isolate}
+.scl-tabs{margin:2px 0 8px}
+.scl-tabs .btn.on{background:var(--blue);color:#fff}
+.scl-opt{display:flex;gap:8px;align-items:center;font-size:13px;margin:0 0 8px;cursor:pointer}
+.scl-opt input{width:18px;height:18px;flex:none}
+.scl-btns{gap:6px;align-items:center;margin:4px 0 8px}
+.scl-code{font-family:var(--mono);font-size:12.5px;line-height:1.45;background:#0a1120;border:1px solid var(--edge2);border-radius:8px;max-height:56vh;overflow:auto;padding:6px 0;text-align:left;direction:ltr}
+.scl-l{display:flex;white-space:pre;min-width:max-content}
+.scl-l .n{flex:none;width:3.6em;padding-right:10px;text-align:right;color:var(--dim);user-select:none;-webkit-user-select:none;border-right:1px solid var(--edge);margin-right:10px}
+.scl-l .t{color:#d9e3f2;padding-right:12px}
+.scl-l.c .t{color:#7fb27a}
+.scl-l.todo .t{color:#ffb4a6;background:rgba(229,72,59,.14)}
+.scl-steps{margin:4px 0 8px;padding-inline-start:22px;line-height:1.55}
+.scl-steps li{margin:4px 0}
+.scl-note{font-size:12.5px;color:var(--gold);border:1px solid rgba(253,195,0,.35);border-radius:8px;padding:8px 10px;background:rgba(253,195,0,.06)}
+.scl-tags{display:grid;grid-template-columns:minmax(120px,auto) auto auto 1fr;gap:3px 12px;font-size:12.5px;text-align:left;direction:ltr;background:var(--bg2);border:1px solid var(--edge);border-radius:8px;padding:8px;max-height:34vh;overflow:auto}
+.scl-tags b{color:var(--mute);font-size:11.5px}
+.scl-tags span{overflow-wrap:anywhere;font-family:var(--mono)}
+.scl-tags span.mute{font-family:var(--font)}
+.scl-warn{margin-top:10px}
+.scl-w{font-size:12.5px;padding:5px 8px;border-radius:6px;margin:4px 0;background:var(--bg2);border-inline-start:3px solid var(--edge2)}
+.scl-w.warn{border-inline-start-color:var(--gold)}
+.scl-w.todo{border-inline-start-color:var(--red)}
+.scl-w.info{border-inline-start-color:var(--cyan)}
+@media (max-width:600px){
+  .scl-modal{padding:6px}
+  .modal .box.scl-box{max-height:94vh;padding:10px}
+  .scl-code{font-size:11.5px;max-height:50vh}
+  .scl-l .n{width:2.8em;padding-right:6px;margin-right:6px}
+  .scl-tags{grid-template-columns:auto auto;font-size:12px}
+  .scl-tags b:nth-of-type(3),.scl-tags b:nth-of-type(4){display:none}
+  .scl-tags span:nth-child(4n+3),.scl-tags span:nth-child(4n+4){display:none}
+}

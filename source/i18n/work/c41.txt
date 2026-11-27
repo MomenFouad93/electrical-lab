@@ -1,0 +1,638 @@
+#6801
+puissance
+potência
+动力
+силовая цепь
+obwód siłowy
+erősáram
+potencia
+
+#6804
+Faites glisser le point jaune pour déplacer le tracé du fil. Supprimer enlève le fil. En Test, le fil chauffe quand son courant dépasse Iz : orange au-dessus de 70 °C, rouge au-dessus de 120 °C ; à environ 2,5 x Iz pendant un moment, l'isolant brûle (affiché environ 2 x plus vite qu'un vrai câble).
+Arraste o ponto amarelo para mover o trajeto do fio. Excluir remove o fio. No Teste, o fio aquece quando a corrente passa de Iz: laranja acima de 70 °C, vermelho acima de 120 °C; com cerca de 2,5 x Iz por algum tempo, a isolação queima (mostrado cerca de 2 x mais rápido que um cabo real).
+拖动黄色圆点可移动导线路径。删除键可删除导线。在测试中，当电流超过 Iz 时导线发热：超过 70 °C 显示橙色，超过 120 °C 显示红色；在约 2.5 x Iz 下持续一段时间，绝缘会烧毁（显示速度约为真实电缆的 2 倍）。
+Перетащите жёлтую точку, чтобы изменить трассу провода. «Удалить» убирает провод. В режиме «Тест» провод нагревается, когда ток выше Iz: оранжевый выше 70 °C, красный выше 120 °C; при токе около 2,5 x Iz в течение некоторого времени изоляция сгорает (показано примерно в 2 x быстрее, чем у реального кабеля).
+Przeciągnij żółty punkt, aby zmienić trasę przewodu. Usuń kasuje przewód. W trybie Test przewód nagrzewa się, gdy prąd przekracza Iz: pomarańczowy powyżej 70 °C, czerwony powyżej 120 °C; przy ok. 2,5 x Iz przez pewien czas izolacja się pali (pokazane ok. 2 x szybciej niż w prawdziwym kablu).
+Húzd a sárga pontot a vezeték nyomvonalának áthelyezéséhez. A Törlés eltávolítja a vezetéket. Tesztben a vezeték melegszik, ha az árama Iz fölött van: narancs 70 °C fölött, piros 120 °C fölött; kb. 2,5 x Iz mellett egy idő után a szigetelés leég (kb. 2 x gyorsabban mutatva, mint egy valódi kábelnél).
+Arrastre el punto amarillo para mover el recorrido del cable. Eliminar quita el cable. En Prueba, el cable se calienta cuando su corriente supera Iz: naranja por encima de 70 °C, rojo por encima de 120 °C; con unas 2,5 x Iz durante un rato, el aislamiento se quema (se muestra unas 2 x más rápido que un cable real).
+
+#6807
+en surcharge, chauffe
+em sobrecarga, aquecendo
+过载，正在发热
+перегрузка, нагревается
+przeciążony, nagrzewa się
+túlterhelt, melegszik
+sobrecargado, calentándose
+
+#6810
+État
+Estado
+状态
+Состояние
+Stan
+Állapot
+Estado
+
+#6813
+Couplé en Δ sur 400 V : incorrect pour un enroulement 230 V Δ, il va surchauffer. Utilisez Y.
+Ligado em Δ em 400 V: errado para um enrolamento 230 V Δ, vai superaquecer. Use Y.
+在 400 V 上接成 Δ：对于 230 V Δ 绕组是错误的，会过热。请改用 Y。
+Соединено в Δ на 400 V: неверно для обмотки 230 V Δ, она перегреется. Используйте Y.
+Połączony w Δ na 400 V: błędnie dla uzwojenia 230 V Δ, przegrzeje się. Użyj Y.
+Δ kapcsolás 400 V-on: hibás egy 230 V Δ tekercseléshez, túl fog melegedni. Használj Y-t.
+Conectado en Δ a 400 V: incorrecto para un devanado de 230 V Δ, se sobrecalentará. Use Y.
+
+#6816
+Plaque signalétique du moteur
+Placa de identificação do motor
+电机铭牌
+Шильдик двигателя
+Tabliczka znamionowa silnika
+Motor adattábla
+Placa de características del motor
+
+#6819
+Auto (1,5 puissance / 0,75 commande)
+Auto (1,5 potência / 0,75 comando)
+自动（1.5 动力 / 0.75 控制）
+Авто (1,5 силовая / 0,75 управление)
+Auto (1,5 siłowe / 0,75 sterowanie)
+Automatikus (1,5 erősáram / 0,75 vezérlés)
+Auto (1,5 potencia / 0,75 mando)
+
+#6822
+Tension d'enroulement
+Tensão do enrolamento
+绕组电压
+Напряжение обмотки
+Napięcie uzwojenia
+Tekercsfeszültség
+Tensión del devanado
+
+#6825
+CPU compacte comme la S7-1200 CPU 1214C DC/DC/DC : 14 entrées TOR 24 V DC (I0.0-I0.7, I1.0-I1.5, type sink : câblez un interrupteur du +24 V vers l'entrée), 10 sorties transistor type source (Q0.0-Q0.7, Q1.0, Q1.1, 24 V, 0,5 A chacune), 2 entrées analogiques 0-10 V (IW64, IW66), pas de sortie analogique. Programmez-la dans l'onglet Programmation (ladder) et exportez le code pour la vraie CPU. Cliquez sur RUN/STOP en façade pour changer de mode.
+CPU compacta como a S7-1200 CPU 1214C DC/DC/DC: 14 entradas digitais 24 V DC (I0.0-I0.7, I1.0-I1.5, tipo sink: ligue uma chave do +24 V até a entrada), 10 saídas a transistor tipo source (Q0.0-Q0.7, Q1.0, Q1.1, 24 V, 0,5 A cada), 2 entradas analógicas 0-10 V (IW64, IW66), sem saída analógica. Programe-a na aba Programação (ladder) e exporte o código para a CPU real. Clique em RUN/STOP na frente para trocar o modo.
+类似 S7-1200 CPU 1214C DC/DC/DC 的紧凑型 CPU：14 个 24 V DC 数字量输入（I0.0-I0.7、I1.0-I1.5，漏型：开关从 +24 V 接到输入端），10 个源型晶体管输出（Q0.0-Q0.7、Q1.0、Q1.1，24 V，每路 0.5 A），2 个 0-10 V 模拟量输入（IW64、IW66），无模拟量输出。在“编程”选项卡（梯形图）中编程，并导出代码用于真实 CPU。点击正面的 RUN/STOP 切换模式。
+Компактный CPU, как S7-1200 CPU 1214C DC/DC/DC: 14 дискретных входов 24 V DC (I0.0-I0.7, I1.0-I1.5, тип sink: подключите выключатель от +24 V к входу), 10 транзисторных выходов типа source (Q0.0-Q0.7, Q1.0, Q1.1, 24 V, 0,5 A каждый), 2 аналоговых входа 0-10 V (IW64, IW66), аналогового выхода нет. Программируйте его на вкладке «Программирование» (ladder) и экспортируйте код для реального CPU. Нажмите RUN/STOP на передней панели, чтобы сменить режим.
+Kompaktowa jednostka CPU, jak S7-1200 CPU 1214C DC/DC/DC: 14 wejść cyfrowych 24 V DC (I0.0-I0.7, I1.0-I1.5, typu sink: podłącz łącznik od +24 V do wejścia), 10 wyjść tranzystorowych typu source (Q0.0-Q0.7, Q1.0, Q1.1, 24 V, 0,5 A każde), 2 wejścia analogowe 0-10 V (IW64, IW66), brak wyjścia analogowego. Zaprogramuj ją w zakładce Programowanie (ladder) i wyeksportuj kod do prawdziwego CPU. Kliknij RUN/STOP na panelu przednim, aby zmienić tryb.
+Kompakt CPU, mint az S7-1200 CPU 1214C DC/DC/DC: 14 digitális bemenet 24 V DC (I0.0-I0.7, I1.0-I1.5, sink típus: a kapcsolót a +24 V-ról kösd a bemenetre), 10 source típusú tranzisztoros kimenet (Q0.0-Q0.7, Q1.0, Q1.1, 24 V, egyenként 0,5 A), 2 analóg bemenet 0-10 V (IW64, IW66), analóg kimenet nincs. Programozd a Programozás fülön (létradiagram), és exportáld a kódot a valódi CPU-hoz. Kattints az előlapon a RUN/STOP-ra az üzemmód váltásához.
+CPU compacta como la S7-1200 CPU 1214C DC/DC/DC: 14 entradas digitales 24 V DC (I0.0-I0.7, I1.0-I1.5, tipo sink: cablee un interruptor desde +24 V hasta la entrada), 10 salidas de transistor tipo source (Q0.0-Q0.7, Q1.0, Q1.1, 24 V, 0,5 A cada una), 2 entradas analógicas 0-10 V (IW64, IW66), sin salida analógica. Prográmela en la pestaña Programación (ladder) y exporte el código para la CPU real. Haga clic en RUN/STOP en el frontal para cambiar de modo.
+
+#6828
+Une surcharge entre Iz et In chauffe le fil au-dessus de 70 °C et la protection ne déclenche pas.
+Uma sobrecarga entre Iz e In aquece o fio acima de 70 °C e a proteção não desarma.
+介于 Iz 和 In 之间的过载会使导线温度超过 70 °C，而保护装置不会跳闸。
+Перегрузка между Iz и In нагревает провод выше 70 °C, а защита не срабатывает.
+Przeciążenie między Iz a In nagrzewa przewód powyżej 70 °C, a zabezpieczenie nie zadziała.
+Az Iz és In közötti túlterhelés 70 °C fölé melegíti a vezetéket, és a védelem nem old ki.
+Una sobrecarga entre Iz e In calienta el cable por encima de 70 °C y la protección no dispara.
+
+#6831
+fil moteur trop petit
+fio do motor muito fino
+电机导线截面过小
+провод двигателя слишком тонкий
+przewód silnika za mały
+a motorvezeték túl vékony
+cable del motor demasiado fino
+
+#6834
+ (courant de phase = In / √3, il circule dans une branche d'enroulement)
+ (corrente de fase = In / √3, ela passa por um ramo do enrolamento)
+ (相电流 = In / √3，它位于一个绕组支路中)
+ (фазный ток = In / √3, он протекает в одной ветви обмотки)
+ (prąd fazowy = In / √3, płynie w jednej gałęzi uzwojenia)
+ (fázisáram = In / √3, egy tekercságban folyik)
+ (corriente de fase = In / √3, circula por una rama del devanado)
+
+#6837
+fil brûlé
+fio queimado
+导线烧毁
+сгоревший провод
+spalony przewód
+leégett vezeték
+cable quemado
+
+#6840
+Courant admissible Iz : fil cuivre, isolant PVC, sous conduit, IEC 60364-5-52 tableau B.52.2 méthode B2, 2 conducteurs chargés, 30 °C (arrondi à l'inférieur). 0,5 à 1 mm² sont des sections de commande, absentes de ce tableau : valeurs prudentes. Un circuit triphasé (3 conducteurs chargés) admet environ 5-10 % de moins (1,5 mm² : 15,5 A).
+Capacidade de condução de corrente Iz: fio de cobre, isolação PVC, em eletroduto, IEC 60364-5-52 tabela B.52.2 método B2, 2 condutores carregados, 30 °C (arredondado para baixo). 0,5 a 1 mm² são bitolas de comando, fora dessa tabela: valores conservadores. Um circuito trifásico (3 condutores carregados) conduz cerca de 5-10 % menos (1,5 mm²: 15,5 A).
+载流量 Iz：铜导线，PVC 绝缘，穿管敷设，IEC 60364-5-52 表 B.52.2 方法 B2，2 根载流导体，30 °C（向下取整）。0.5 至 1 mm² 为控制线截面，不在该表中：采用保守值。三相电路（3 根载流导体）载流量约低 5-10 %（1.5 mm²：15.5 A）。
+Допустимый длительный ток Iz: медный провод, изоляция PVC, в трубе, IEC 60364-5-52 таблица B.52.2 способ B2, 2 нагруженных проводника, 30 °C (с округлением вниз). Сечения от 0,5 до 1 mm² — для цепей управления, в этой таблице их нет: консервативные значения. Трёхфазная цепь (3 нагруженных проводника) допускает примерно на 5-10 % меньше (1,5 mm²: 15,5 A).
+Obciążalność prądowa długotrwała Iz: przewód miedziany, izolacja PVC, w rurce, IEC 60364-5-52 tabela B.52.2 sposób B2, 2 obciążone żyły, 30 °C (zaokrąglone w dół). Przekroje 0,5 do 1 mm² to przekroje sterownicze, nie ma ich w tej tabeli: wartości ostrożne. Obwód trójfazowy (3 obciążone żyły) przenosi ok. 5-10 % mniej (1,5 mm²: 15,5 A).
+Áramterhelhetőség Iz: rézvezeték, PVC szigetelés, védőcsőben, IEC 60364-5-52 B.52.2 táblázat B2 módszer, 2 terhelt vezető, 30 °C (lefelé kerekítve). A 0,5–1 mm² vezérlési keresztmetszetek, nincsenek a táblázatban: óvatos értékek. Háromfázisú áramkör (3 terhelt vezető) kb. 5-10 %-kal kevesebbet bír (1,5 mm²: 15,5 A).
+Intensidad admisible Iz: cable de cobre, aislamiento PVC, bajo tubo, IEC 60364-5-52 tabla B.52.2 método B2, 2 conductores cargados, 30 °C (redondeado hacia abajo). De 0,5 a 1 mm² son secciones de mando, no están en esa tabla: valores conservadores. Un circuito trifásico (3 conductores cargados) admite aproximadamente un 5-10 % menos (1,5 mm²: 15,5 A).
+
+#6843
+Convoyeur de remplissage et de bouchage de flacons
+Transportador de envase e tampamento de frascos
+瓶子灌装和旋盖输送线
+Конвейер розлива и укупорки бутылок
+Przenośnik napełniania i zakręcania butelek
+Palacktöltő és -kupakoló szállítószalag
+Transportador de llenado y taponado de botellas
+
+#6846
+Le convoyeur n'a aucun moteur lié. Choisissez le repère du moteur dans ses propriétés.
+O transportador não tem motor vinculado. Escolha a tag do motor nas propriedades dele.
+输送机未关联电机。请在其属性中选择电机位号。
+К конвейеру не привязан двигатель. Выберите тег двигателя в его свойствах.
+Przenośnik nie ma przypisanego silnika. Wybierz tag silnika w jego właściwościach.
+A szállítószalaghoz nincs motor kapcsolva. Válaszd ki a motor azonosítóját a tulajdonságaiban.
+El transportador no tiene motor vinculado. Elija el tag del motor en sus propiedades.
+
+#6849
+Le texte du programme ladder n'a pas pu être lu (JSON invalide) : rien n'a été converti.
+Não foi possível ler o texto do programa ladder (JSON corrompido): nada foi convertido.
+无法读取梯形图程序文本（JSON 损坏）：未转换任何内容。
+Не удалось прочитать текст программы ladder (повреждённый JSON): ничего не преобразовано.
+Nie udało się odczytać tekstu programu ladder (uszkodzony JSON): nic nie zostało przekonwertowane.
+A létraprogram szövege nem olvasható (hibás JSON): semmi sem lett átalakítva.
+No se pudo leer el texto del programa ladder (JSON dañado): no se convirtió nada.
+
+#6852
+Ligne de remplissage de produits chimiques avec S7-1200
+Linha de envase de produtos químicos com S7-1200
+采用 S7-1200 的化学品灌装线
+Линия розлива химикатов на S7-1200
+Linia napełniania chemikaliów z S7-1200
+Vegyszertöltő sor S7-1200-zal
+Línea de llenado de productos químicos con S7-1200
+
+#6855
+Vue de toute l'usine : chaque câble terrain s'allume quand son signal est actif. Suivez BG1 depuis le convoyeur jusqu'à l'entrée I1.0 de l'automate et au bandeau E/S.
+Vista da planta inteira: cada cabo de campo acende quando seu sinal está ligado. Siga o BG1 do transportador até a entrada I1.0 do CLP e a faixa de E/S.
+全厂视图：每根现场电缆在其信号接通时点亮。沿着 BG1 从输送机追踪到 PLC 的输入 I1.0 以及 I/O 条。
+Вид всей установки: каждый полевой кабель светится, когда его сигнал включён. Проследите BG1 от конвейера до входа I1.0 на PLC и до полосы I/O.
+Widok całego zakładu: każdy kabel obiektowy świeci, gdy jego sygnał jest aktywny. Prześledź BG1 od przenośnika do wejścia I1.0 na sterowniku PLC i paska I/O.
+Teljes üzem nézet: minden helyszíni kábel világít, amikor a jele aktív. Kövesd BG1-et a szállítószalagtól a PLC I1.0 bemenetéig és az I/O sávig.
+Vista de toda la planta: cada cable de campo se ilumina cuando su señal está activa. Siga BG1 desde el transportador hasta la entrada I1.0 del PLC y la franja de E/S.
+
+#6858
+Protection contre la marche à sec : laissez l'IBC se vider (ou fermez l'arrivée). Quand LSL1 retombe, la pompe doit s'arrêter et H3 s'allume. Pourquoi LSL1 est-il câblé de sorte qu'un fil coupé arrête aussi la pompe ? LSH1 et LSH2 sont réglés en NC pour la même raison : un fil coupé se lit « haut » et arrête le remplissage.
+Proteção contra funcionamento a seco: deixe o IBC esvaziar (ou feche a entrada). Quando o LSL1 cair, a bomba deve parar e a H3 acende. Por que o LSL1 é ligado de forma que um fio rompido também pare a bomba? O LSH1 e o LSH2 estão como NC pelo mesmo motivo: um fio rompido é lido como "alto" e para o envase.
+防干转保护：让 IBC 排空（或关闭进料口）。当 LSL1 断开时，泵必须停止且 H3 亮起。为什么 LSL1 的接线方式使断线也会让泵停止？LSH1 和 LSH2 设为 NC 也是同样的原因：断线会被读为“高”并停止灌装。
+Защита от сухого хода: дайте IBC опустеть (или закройте подачу). Когда LSL1 отпадает, насос должен остановиться и загорается H3. Почему LSL1 подключён так, что обрыв провода тоже останавливает насос? LSH1 и LSH2 настроены как NC по той же причине: обрыв провода читается как «высокий» и останавливает розлив.
+Zabezpieczenie przed pracą na sucho: pozwól, aby IBC się opróżnił (albo zamknij dopływ). Gdy LSL1 odpadnie, pompa musi się zatrzymać, a H3 się zaświeca. Dlaczego LSL1 jest podłączony tak, że zerwany przewód też zatrzymuje pompę? LSH1 i LSH2 są ustawione jako NC z tego samego powodu: zerwany przewód jest odczytywany jako „wysoki” i zatrzymuje napełnianie.
+Szárazfutás elleni védelem: hagyd kiürülni az IBC-t (vagy zárd el a betáplálást). Amikor LSL1 elenged, a szivattyúnak le kell állnia, és H3 kigyullad. Miért úgy van bekötve LSL1, hogy egy szakadt vezeték is leállítsa a szivattyút? LSH1 és LSH2 ugyanezért NC-re van állítva: a szakadt vezeték „magas” jelnek számít, és leállítja a töltést.
+Protección contra marcha en seco: deje que el IBC se vacíe (o cierre la entrada). Cuando LSL1 cae, la bomba debe pararse y H3 se enciende. ¿Por qué LSL1 está cableado de modo que un cable cortado también pare la bomba? LSH1 y LSH2 están en NC por la misma razón: un cable cortado se lee como "alto" y detiene el llenado.
+
+#6861
+Ouvrez Documents (Toute l'usine) : la nomenclature (BOM), la liste des E/S de l'automate, la liste des câbles terrain et la liste des fils viennent du schéma. Vérifiez deux lignes de chacune sur l'armoire. Le plan de bornier est vide : cette armoire n'a pas de bornier. Où ajouteriez-vous X1 entre les câbles terrain et l'automate ?
+Abra Documentos (Planta inteira): a BOM, a lista de E/S do CLP, a lista de cabos de campo e a lista de fios vêm do desenho. Confira duas linhas de cada uma no painel. O plano de bornes está vazio: este painel não tem régua de bornes. Onde você colocaria o X1 entre os cabos de campo e o CLP?
+打开“文档”（全厂）：BOM、PLC I/O 清单、现场电缆清单和接线清单都来自图纸。将每份清单中的两行与电柜核对。端子排图为空：这个电柜没有端子排。你会在现场电缆和 PLC 之间的什么位置加 X1？
+Откройте «Документы» (Вся установка): BOM, список I/O PLC, кабельный журнал и список проводов формируются из схемы. Сверьте по две строки каждого со шкафом. План клемм пуст: в этом шкафу нет клеммника. Где бы вы добавили X1 между полевыми кабелями и PLC?
+Otwórz Dokumenty (Cały zakład): BOM, lista I/O sterownika PLC, lista kabli obiektowych i lista przewodów pochodzą z rysunku. Sprawdź po dwie pozycje z każdej na szafie. Plan listew zaciskowych jest pusty: ta szafa nie ma listwy zaciskowej. Gdzie dodałbyś X1 między kablami obiektowymi a PLC?
+Nyisd meg a Dokumentumokat (Teljes üzem): a BOM, a PLC I/O lista, a helyszíni kábellista és a vezetéklista a rajzból készül. Ellenőrizz mindegyikből két sort a szekrényen. A sorkapocsterv üres: ebben a szekrényben nincs sorkapocs. Hová tennéd az X1-et a helyszíni kábelek és a PLC közé?
+Abra Documentos (Toda la planta): la BOM, la lista de E/S del PLC, la lista de cables de campo y la lista de cables vienen del plano. Compruebe dos líneas de cada una en el cuadro. El plano de bornas está vacío: este cuadro no tiene regleta de bornas. ¿Dónde añadiría X1 entre los cables de campo y el PLC?
+
+#6864
+gris
+cinza
+灰色
+серый
+szary
+szürke
+gris
+
+#6867
+rouge (+24 V)
+vermelho (+24 V)
+红色 (+24 V)
+красный (+24 V)
+czerwony (+24 V)
+piros (+24 V)
+rojo (+24 V)
+
+#6870
+Puissance du moteur
+Potência do motor
+电机功率
+Мощность двигателя
+Moc silnika
+Motorteljesítmény
+Potencia del motor
+
+#6873
+Capteur à la remplisseuse
+Sensor na enchedora
+灌装机处的传感器
+Датчик у дозатора
+Czujnik przy nalewaku
+Érzékelő a töltőnél
+Sensor en la llenadora
+
+#6876
+Capteur vérin en bas
+Sensor de cilindro embaixo
+气缸下限位传感器
+Датчик нижнего положения цилиндра
+Czujnik siłownika w dole
+Henger alsó helyzet érzékelő
+Sensor de cilindro abajo
+
+#6879
+Contacteur de niveau
+Chave de nível
+液位开关
+Датчик-реле уровня
+Łącznik poziomu
+Szintkapcsoló
+Interruptor de nivel
+
+#6882
+Données
+Dados
+数据
+Данные
+Dane
+Adatok
+Datos
+
+#6885
+Adresse
+Endereço
+地址
+Адрес
+Adres
+Cím
+Dirección
+
+#6888
+Via bornier
+Via borne
+经端子
+Через клемму
+Przez zacisk
+Sorkapcson át
+Vía borna
+
+#6891
+Équipement process
+Equipamento de processo
+工艺设备
+Технологическое оборудование
+Urządzenie procesowe
+Technológiai berendezés
+Equipo de proceso
+
+#6894
+Liste des fils (de / vers)
+Lista de fios (de / para)
+接线清单（从 / 到）
+Список проводов (откуда / куда)
+Lista przewodów (skąd / dokąd)
+Vezetéklista (honnan / hová)
+Lista de cables (desde / hasta)
+
+#6897
+Plan de bornier
+Plano de bornes
+端子排图
+План клемм
+Plan listew zaciskowych
+Sorkapocsterv
+Plano de bornas
+
+#6900
+lignes
+linhas
+行
+строк
+wierszy
+sor
+filas
+
+#6903
+Documents du projet
+Documentos do projeto
+项目文档
+Документы проекта
+Dokumenty projektu
+Projektdokumentumok
+Documentos del proyecto
+
+#6906
+Faites glisser pour partager l'écran entre le process et l'armoire
+Arraste para dividir a tela entre o processo e o painel
+拖动以在工艺和电柜之间分配屏幕
+Перетащите, чтобы разделить экран между процессом и шкафом
+Przeciągnij, aby podzielić ekran między proces a szafę
+Húzd a képernyő felosztásához a folyamat és a szekrény között
+Arrastre para repartir la pantalla entre el proceso y el cuadro
+
+#6909
+Câbles terrain : masqués
+Cabos de campo: ocultos
+现场电缆：隐藏
+Полевые кабели: скрыты
+Kable obiektowe: ukryte
+Helyszíni kábelek: rejtve
+Cables de campo: ocultos
+
+#6912
+Sortie
+Saída
+输出
+Выход
+Wyjście
+Kimenet
+Salida
+
+#6915
+bourrage réarmé
+travamento resetado
+卡瓶已复位
+застревание сброшено
+zacięcie skasowane
+elakadás nyugtázva
+atasco rearmado
+
+#6918
+S1 : flacon sous la remplisseuse (capteur dans l'armoire)
+S1: frasco sob a enchedora (sensor no painel)
+S1：瓶子位于灌装机下方（电柜传感器）
+S1: бутылка под дозатором (датчик в шкафу)
+S1: butelka pod nalewakiem (czujnik w szafie)
+S1: palack a töltő alatt (érzékelő a szekrényben)
+S1: botella bajo la llenadora (sensor en el cuadro)
+
+#6921
+Contact reed vérin en haut (armoire, optionnel)
+Reed switch de cilindro em cima (painel, opcional)
+气缸上限位干簧开关（电柜，可选）
+Геркон верхнего положения цилиндра (шкаф, опционально)
+Kontaktron siłownika w górze (szafa, opcjonalnie)
+Henger felső helyzet reed-kapcsoló (szekrény, opcionális)
+Interruptor reed de cilindro arriba (cuadro, opcional)
+
+#6924
+Flacons alimentés par minute
+Frascos alimentados por minuto
+每分钟进瓶数
+Бутылок в минуту на входе
+Butelek podawanych na minutę
+Percenként beadott palackok
+Botellas alimentadas por minuto
+
+#6927
+Cuve IBC 1000 L sur support
+Contêiner IBC 1000 L sobre suporte
+支架上的 IBC 吨桶 1000 L
+Еврокуб IBC 1000 L на подставке
+Zbiornik IBC 1000 L na stojaku
+IBC tartály 1000 L állványon
+Contenedor IBC 1000 L sobre soporte
+
+#6930
+Cuve IBC 1000 L
+Contêiner IBC 1000 L
+IBC 吨桶 1000 L
+Еврокуб IBC 1000 L
+Zbiornik IBC 1000 L
+IBC tartály 1000 L
+Contenedor IBC 1000 L
+
+#6933
+, alimenté depuis
+, alimentado por
+，供电来自
+, питание от
+, zasilany z
+, táplálva innen:
+, alimentado desde
+
+#6936
+Vider le convoyeur et les compteurs
+Limpar a esteira e os contadores
+清空输送带和计数器
+Очистить ленту и счётчики
+Opróżnij taśmę i wyzeruj liczniki
+Szalag és számlálók ürítése
+Vaciar la cinta y los contadores
+
+#6939
+Contacteurs de niveau
+Chaves de nível
+液位开关
+Датчики-реле уровня
+Łączniki poziomu
+Szintkapcsolók
+Interruptores de nivel
+
+#6942
+Flotteur
+Boia
+浮球
+Поплавок
+Pływak
+Úszó
+Flotador
+
+#6945
+Bande
+Esteira
+输送带
+Лента
+Taśma
+Szalag
+Cinta
+
+#6948
+Bon / mauvais
+Bom / ruim
+合格 / 不合格
+Годный / брак
+Dobry / zły
+Jó / rossz
+Bueno / malo
+
+#6951
+La copie est bloquée ici : utilisez Télécharger .scl.
+A cópia está bloqueada aqui: use Baixar .scl.
+此处禁止复制：请使用“下载 .scl”。
+Копирование здесь заблокировано: используйте «Скачать .scl».
+Kopiowanie jest tu zablokowane: użyj Pobierz .scl.
+A másolás itt le van tiltva: használd a Letöltés .scl gombot.
+La copia está bloqueada aquí: use Descargar .scl.
+
+#6954
+Utiliser les noms de variables dans le code (importez d'abord la table des variables)
+Usar nomes de tags no código (importe a tabela de tags primeiro)
+在代码中使用变量名（请先导入变量表）
+Использовать имена тегов в коде (сначала импортируйте таблицу тегов)
+Używaj nazw tagów w kodzie (najpierw zaimportuj tablicę tagów)
+Tagnevek használata a kódban (előbb importáld a tagtáblát)
+Usar nombres de tags en el código (importe primero la tabla de tags)
+
+#6957
+Importez d'abord les variables : PLC tags > Show all tags > Import (bouton dans la table des variables) > choisissez le fichier .xlsx.
+Importe os tags primeiro: PLC tags > Show all tags > Import (botão na tabela de tags) > escolha o arquivo .xlsx.
+先导入变量：PLC tags > Show all tags > Import（变量表中的按钮）> 选择 .xlsx 文件。
+Сначала импортируйте теги: PLC tags > Show all tags > Import (кнопка в таблице тегов) > выберите файл .xlsx.
+Najpierw zaimportuj tagi: PLC tags > Show all tags > Import (przycisk w tablicy tagów) > wybierz plik .xlsx.
+Először importáld a tageket: PLC tags > Show all tags > Import (gomb a tagtáblában) > válaszd ki az .xlsx fájlt.
+Importe primero los tags: PLC tags > Show all tags > Import (botón en la tabla de tags) > elija el archivo .xlsx.
+
+#6960
+Compiler : clic droit sur la CPU > Compile > Software (rebuild all). Corrigez chaque message, puis vérifiez que les adresses E/S dans la device view correspondent à la table des variables.
+Compilar: clique com o botão direito na CPU > Compile > Software (rebuild all). Corrija qualquer mensagem e depois confira se os endereços de E/S na device view batem com a tabela de tags.
+编译：右键单击 CPU > Compile > Software (rebuild all)。修正所有消息，然后检查 device view 中的 I/O 地址是否与变量表一致。
+Компиляция: правый щелчок по CPU > Compile > Software (rebuild all). Исправьте все сообщения, затем проверьте, что адреса I/O в device view совпадают с таблицей тегов.
+Kompilacja: kliknij prawym przyciskiem CPU > Compile > Software (rebuild all). Popraw każdy komunikat, a potem sprawdź, czy adresy I/O w device view zgadzają się z tablicą tagów.
+Fordítás: jobb klikk a CPU-n > Compile > Software (rebuild all). Javíts ki minden üzenetet, majd ellenőrizd, hogy a device view I/O címei egyeznek-e a tagtáblával.
+Compilar: clic derecho en la CPU > Compile > Software (rebuild all). Corrija cualquier mensaje y luego compruebe que las direcciones de E/S en la device view coinciden con la tabla de tags.
+
+#6963
+Télécharger les variables .xlsx
+Baixar tags .xlsx
+下载变量 .xlsx
+Скачать теги .xlsx
+Pobierz tagi .xlsx
+Tagek letöltése .xlsx
+Descargar tags .xlsx
+
+#6966
+Variables API
+Tags do CLP
+PLC 变量
+Теги PLC
+Tagi PLC
+PLC tagek
+Tags del PLC
+
+#6969
+Au-delà de la CPU :
+Além da CPU:
+超出 CPU 能力:
+Больше, чем у CPU:
+Ponad możliwości CPU:
+A CPU képességein túl:
+Más allá de la CPU:
+
+#6972
+Toute l'usine
+Planta inteira
+全厂
+Вся установка
+Cały zakład
+Teljes üzem
+Toda la planta
+
+#6975
+Δ sur 400 V : couplage nominal, courant de ligne {1} A.
+Δ em 400 V: ligação nominal, corrente de linha {1} A.
+400 V 下接成 Δ：额定接法，线电流 {1} A。
+Δ на 400 V: номинальное соединение, линейный ток {1} A.
+Δ na 400 V: połączenie znamionowe, prąd przewodowy {1} A.
+Δ 400 V-on: névleges kapcsolás, vonali áram {1} A.
+Δ a 400 V: conexión nominal, corriente de línea {1} A.
+
+#6978
+fil trop petit pour {1}
+fio muito fino para {1}
+导线截面对 {1} 而言过小
+провод слишком тонкий для {1}
+przewód za mały dla {1}
+a vezeték túl vékony ehhez: {1}
+cable demasiado fino para {1}
+
+#6981
+{1} est réglé sur {2} A, en dessous de {3} A pour {4}{5}. Il déclenchera en marche normale.
+{1} está ajustado em {2} A, abaixo de {3} A para {4}{5}. Vai desarmar em funcionamento normal.
+{1} 设定为 {2} A，低于 {4}{5} 所需的 {3} A。正常运行时会跳闸。
+{1} установлен на {2} A, ниже {3} A для {4}{5}. Он сработает при нормальной работе.
+{1} jest ustawiony na {2} A, poniżej {3} A dla {4}{5}. Zadziała podczas normalnej pracy.
+{1} {2} A-re van állítva, ami kevesebb, mint {3} A ehhez: {4}{5}. Normál üzemben ki fog oldani.
+{1} está ajustado a {2} A, por debajo de {3} A para {4}{5}. Disparará en funcionamiento normal.
+
+#6984
+Réglez-le sur le courant de la plaque signalétique : {1} A.
+Ajuste para a corrente da placa de identificação: {1} A.
+将其设为铭牌电流：{1} A。
+Установите его на ток с шильдика: {1} A.
+Ustaw go na prąd z tabliczki znamionowej: {1} A.
+Állítsd az adattábla szerinti áramra: {1} A.
+Ajústelo a la corriente de la placa de características: {1} A.
+
+#6987
+{1} est commandé par le programme automate à partir des signaux process (niveaux, flacons, positions). Mes tests automatiques ne peuvent pas les créer : faites tourner la ligne en mode Test et observez-la.
+{1} é acionado pelo programa do CLP a partir dos sinais do processo (níveis, frascos, posições). Meus testes automáticos não conseguem criá-los: rode a linha no modo Teste e observe.
+{1} 由 PLC 程序根据工艺信号（液位、瓶子、位置）控制。我的自动测试无法产生这些信号：请在测试模式下运行该线并观察。
+{1} переключается программой PLC по сигналам процесса (уровни, бутылки, положения). Мои автоматические тесты не могут их создать: запустите линию в режиме «Тест» и наблюдайте.
+{1} jest przełączany przez program PLC na podstawie sygnałów procesowych (poziomy, butelki, pozycje). Moje automatyczne testy nie mogą ich wytworzyć: uruchom linię w trybie Test i obserwuj ją.
+{1} kapcsolását a PLC-program végzi a folyamatjelek alapján (szintek, palackok, pozíciók). Az automatikus tesztjeim ezeket nem tudják előállítani: futtasd a sort Teszt módban, és figyeld.
+{1} lo conmuta el programa del PLC a partir de las señales del proceso (niveles, botellas, posiciones). Mis pruebas automáticas no pueden crearlas: haga funcionar la línea en modo Prueba y obsérvela.
+
+#6990
+{1} A sur un fil prévu pour {2} A : il chauffe
+{1} A num fio para {2} A: está aquecendo
+{1} A 流过额定 {2} A 的导线：正在发热
+{1} A в проводе, рассчитанном на {2} A: он нагревается
+{1} A na przewodzie na {2} A: nagrzewa się
+{1} A egy {2} A-es vezetéken: melegszik
+{1} A en un cable para {2} A: se está calentando
+
+#6993
+L'entrée voit {1} depuis {2}. Soit cet appareil est vraiment dans cet état, soit lui ou son fil vers {3}:{4} est défectueux : vérifiez avec le multimètre.
+A entrada vê {1} vindo de {2}. Ou esse dispositivo está realmente nesse estado, ou ele ou seu fio até {3}:{4} está com defeito: verifique com o multímetro.
+输入端从 {2} 检测到 {1}。要么该设备确实处于此状态，要么它本身或它到 {3}:{4} 的导线有故障：请用万用表检查。
+Вход видит {1} от {2}. Либо это устройство действительно в этом состоянии, либо оно или его провод к {3}:{4} неисправны: проверьте мультиметром.
+Wejście widzi {1} z {2}. Albo to urządzenie naprawdę jest w tym stanie, albo ono lub jego przewód do {3}:{4} jest uszkodzony: sprawdź miernikiem.
+A bemenet {1} állapotot lát innen: {2}. Vagy az eszköz tényleg ebben az állapotban van, vagy az eszköz, illetve a vezetéke a {3}:{4} felé hibás: ellenőrizd a műszerrel.
+La entrada ve {1} desde {2}. O ese dispositivo está realmente en ese estado, o él o su cable hasta {3}:{4} está averiado: compruébelo con el multímetro.
+
+#6996
+{1} est utilisé, mais rien n'est câblé sur la borne {2} de {3}.
+{1} é usado, mas nada está ligado ao borne {2} de {3}.
+{1} 已被使用，但 {3} 的端子 {2} 上没有接线。
+{1} используется, но к клемме {2} у {3} ничего не подключено.
+{1} jest używany, ale do zacisku {2} w {3} nic nie jest podłączone.
+{1} használatban van, de a(z) {3} {2} kapcsára nincs semmi bekötve.
+{1} se usa, pero no hay nada cableado al borne {2} de {3}.
+
+#6999
+Réseau {1}{2} : "{3}" n'est ni un nombre ni une adresse de mot : il a été écrit 0 (TODO dans le code).
+Network {1}{2}: "{3}" não é um número nem um endereço de word: foi escrito como 0 (TODO no código).
+程序段 {1}{2}："{3}" 既不是数字也不是字地址：已写为 0（代码中的 TODO）。
+Сегмент {1}{2}: "{3}" не является числом или адресом слова: записано 0 (TODO в коде).
+Sieć {1}{2}: "{3}" nie jest liczbą ani adresem słowa: zapisano jako 0 (TODO w kodzie).
+{1}{2}. hálózat: a(z) "{3}" nem szám és nem szócím: 0-ként lett beírva (TODO a kódban).
+Segmento {1}{2}: "{3}" no es un número ni una dirección de palabra: se escribió como 0 (TODO en el código).
+
+#7002
+Réseau {1}{2} : le nom de temporisation "{3}" doit être T0-T31 (TODO dans le code).
+Network {1}{2}: o nome do temporizador "{3}" deve ser T0-T31 (TODO no código).
+程序段 {1}{2}：定时器名称 "{3}" 必须为 T0-T31（代码中的 TODO）。
+Сегмент {1}{2}: имя таймера "{3}" должно быть T0-T31 (TODO в коде).
+Sieć {1}{2}: nazwa timera "{3}" musi być T0-T31 (TODO w kodzie).
+{1}{2}. hálózat: a(z) "{3}" időzítőnévnek T0-T31 között kell lennie (TODO a kódban).
+Segmento {1}{2}: el nombre del temporizador "{3}" debe ser T0-T31 (TODO en el código).
+
+#7005
+Réseau {1}{2} : la sortie SCALE "{3}" doit être MW ou QW80 (TODO dans le code).
+Network {1}{2}: a saída SCALE "{3}" deve ser MW ou QW80 (TODO no código).
+程序段 {1}{2}：SCALE 输出 "{3}" 必须为 MW 或 QW80（代码中的 TODO）。
+Сегмент {1}{2}: выход SCALE "{3}" должен быть MW или QW80 (TODO в коде).
+Sieć {1}{2}: wyjście SCALE "{3}" musi być MW lub QW80 (TODO w kodzie).
+{1}{2}. hálózat: a(z) "{3}" SCALE kimenetnek MW vagy QW80 kell legyen (TODO a kódban).
+Segmento {1}{2}: la salida SCALE "{3}" debe ser MW o QW80 (TODO en el código).
+
+#7008
+Réseau {1}{2} : la sortie "{3}" n'a pas de traduction SCL (TODO dans le code).
+Network {1}{2}: a saída "{3}" não tem tradução SCL (TODO no código).
+程序段 {1}{2}：输出 "{3}" 没有对应的 SCL 转换（代码中的 TODO）。
+Сегмент {1}{2}: для выхода "{3}" нет перевода в SCL (TODO в коде).
+Sieć {1}{2}: wyjście "{3}" nie ma odpowiednika w SCL (TODO w kodzie).
+{1}{2}. hálózat: a(z) "{3}" kimenetnek nincs SCL-fordítása (TODO a kódban).
+Segmento {1}{2}: la salida "{3}" no tiene traducción a SCL (TODO en el código).
+
+#7011
+{1} est lu mais aucun bloc ne le pilote, il reste donc à 0 (déclaré comme {2}).
+{1} é lido, mas nenhum bloco o aciona, então fica em 0 (declarado como {2}).
+{1} 被读取，但没有任何功能框驱动它，因此保持为 0（声明为 {2}）。
+{1} читается, но ни один блок его не формирует, поэтому он остаётся 0 (объявлен как {2}).
+{1} jest odczytywany, ale żaden blok go nie steruje, więc pozostaje 0 (zadeklarowany jako {2}).
+{1} olvasva van, de egy blokk sem vezérli, ezért 0 marad (deklarálva: {2}).
+{1} se lee pero ningún bloque lo activa, así que se queda en 0 (declarado como {2}).

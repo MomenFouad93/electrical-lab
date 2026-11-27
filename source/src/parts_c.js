@@ -6,12 +6,38 @@
   const T = EL.T, body = EL.body, pin = EL.mkpin;
   const KW_I = EL.KW_I;
 
+  /* ---------------- motor nameplate (IEC 60034-1 rating plate) ----------------
+     Efficiency = IE3 minimum of IEC 60034-30-1 at 50 Hz, power factor and slip = typical catalogue values,
+     frame = IEC 60072 standard frame for the power and pole number. In = P / (√3 · U · η · cosφ). */
+  const PL = {
+    kw: [0.18, 0.37, 0.75, 1.5, 2.2, 3, 4, 5.5, 7.5, 11],
+    eta: { 2: [65.9, 73.8, 80.7, 84.2, 85.9, 87.1, 88.1, 89.2, 90.1, 91.2], 4: [69.9, 77.3, 82.5, 85.3, 86.7, 87.7, 88.6, 89.6, 90.4, 91.4], 6: [63.9, 73.5, 78.9, 82.5, 84.3, 85.6, 86.8, 88.0, 89.1, 90.3] },
+    cos: { 2: [0.78, 0.80, 0.82, 0.85, 0.86, 0.87, 0.88, 0.88, 0.88, 0.89], 4: [0.66, 0.70, 0.76, 0.79, 0.81, 0.82, 0.82, 0.83, 0.84, 0.85], 6: [0.62, 0.66, 0.70, 0.74, 0.75, 0.76, 0.77, 0.78, 0.79, 0.80] },
+    slip: [7.5, 6.5, 6, 4.5, 4, 3.7, 3.3, 3, 2.7, 2.3],
+    frame: { 2: ['63M', '71M', '80M', '90S', '90L', '100L', '112M', '132S', '132S', '160M'], 4: ['63M', '71M', '80M', '90L', '100L', '100L', '112M', '132S', '132M', '160M'], 6: ['71M', '80M', '90S', '100L', '112M', '132S', '132M', '132M', '160M', '160L'] },
+  };
+  const r2 = (x) => Math.round(x * 100) / 100, near = (kw) => { let b = 0; PL.kw.forEach((k, i) => { if (Math.abs(k - kw) < Math.abs(PL.kw[b] - kw)) b = i; }); return b; };
+  EL.motorPlate = function (p) {
+    const kw = +p.props.kw || 1.5, i = near(kw);
+    if (p.type === 'MOT1') {
+      const eta = [60, 66, 72, 76, 78][[0.18, 0.37, 0.75, 1.5, 2.2].indexOf(kw)] || 70, cos = [0.85, 0.9, 0.92, 0.95, 0.96][[0.18, 0.37, 0.75, 1.5, 2.2].indexOf(kw)] || 0.9;
+      return { ph: 1, kw, poles: 4, rpm: Math.round(1500 * (1 - 1.3 * PL.slip[i] / 100) / 5) * 5, eta, cos, inom: r2((kw * 1000) / (230 * (eta / 100) * cos)), volt: '230', frame: PL.frame[4][i], ip: 'IP55', ins: 'F', duty: 'S1', ie: '', hz: 50 };
+    }
+    const poles = [2, 4, 6].indexOf(+p.props.poles) >= 0 ? +p.props.poles : 4, eta = PL.eta[poles][i], cos = PL.cos[poles][i];
+    const ns = 6000 / poles, slip = PL.slip[i] * (poles === 6 ? 1.25 : 1);
+    const i400 = (kw * 1000) / (Math.sqrt(3) * 400 * (eta / 100) * cos);
+    const low = p.props.volt === '230D'; // 230 V Δ / 400 V Y winding, else 400 V Δ / 690 V Y
+    return { ph: 3, kw, poles, rpm: Math.round(ns * (1 - slip / 100) / 5) * 5, eta, cos, i400: r2(i400), inom: r2(i400), volt: low ? '230D' : '400D',
+      uD: low ? 230 : 400, uY: low ? 400 : 690, iD: r2(low ? i400 * Math.sqrt(3) : i400), iY: r2(low ? i400 : i400 / Math.sqrt(3)), frame: PL.frame[poles][i], ip: 'IP55', ins: 'F', duty: 'S1', ie: 'IE3', hz: 50 };
+  };
+  EL.motorPlate.table = PL;
+
   /* ---------------- 3-phase motor ---------------- */
   function Tm(s) { const a = Math.min(1, Math.abs(s)); const t = 5 / (a / 0.1 + 0.1 / Math.max(a, 1e-6)) + 1.6 * a ** 4; return s < 0 ? -t : t; }
   EL.Tm = Tm;
   D.MOT3 = {
     cat: 'load', prefix: 'M', name: ['3-phase motor', 'موتور 3 فاز'], w: 150, h: 140,
-    info: ['Squirrel-cage induction motor, 400 V delta rated. Delta connection gives full power on 400 V. Star on 400 V gives only 1/3 torque (that is what a star-delta starter uses at start). Choose the terminal box connection or use 6 wires for star-delta. Swap two phases to reverse.', 'موتور قفص سنجابي 400 فولت دلتا. التوصيل دلتا بيدي القدرة الكاملة على 400 فولت. ستار على 400 بيدي ثلث العزم بس (وده اللي بيستخدمه ستار-دلتا وقت التشغيل). اختار التوصيل في علبة الموتور أو 6 أسلاك للستار-دلتا. بدّل فازتين للعكس.'],
+    info: ['Squirrel-cage induction motor (IE3). Winding 400 V Δ / 690 V Y (default): delta gives full power on 400 V, star on 400 V gives only 1/3 torque (that is what a star-delta starter uses at start). Winding 230 V Δ / 400 V Y (usual for small motors): on a 400 V supply connect it in STAR; delta on 400 V overloads the windings. The nameplate in the Part panel gives In, cosφ, efficiency and speed. Swap two phases to reverse.', 'موتور قفص سنجابي (IE3). الملفات 400 فولت دلتا / 690 ستار (الافتراضي): الدلتا بتدي القدرة الكاملة على 400 فولت، والستار على 400 بيدي ثلث العزم بس (وده اللي بيستخدمه ستار-دلتا وقت التشغيل). الملفات 230 دلتا / 400 ستار (المعتاد في الموتورات الصغيرة): على مصدر 400 وصّله ستار؛ الدلتا على 400 بتحمّل الملفات زيادة. لوحة البيانات في خانة الجهاز فيها In و cosφ والكفاءة والسرعة. بدّل فازتين للعكس.'],
     pins(p) {
       const a = [pin('U1', 'U1', 30, 0, 'u'), pin('V1', 'V1', 75, 0, 'u'), pin('W1', 'W1', 120, 0, 'u'), pin('PE', 'PE', 150, 70, 'r', { earth: true })];
       if (p.props.conn === '6wire') a.push(pin('W2', 'W2', 30, 140, 'd'), pin('U2', 'U2', 75, 140, 'd'), pin('V2', 'V2', 120, 140, 'd'));
@@ -19,6 +45,8 @@
     },
     props: [
       { k: 'kw', label: ['Power (kW)', 'القدرة (kW)'], t: 'sel', opts: [[0.37, '0.37'], [0.75, '0.75'], [1.5, '1.5'], [2.2, '2.2'], [3, '3'], [4, '4'], [5.5, '5.5'], [7.5, '7.5'], [11, '11']], def: 1.5 },
+      { k: 'poles', label: ['Poles (speed)', 'عدد الأقطاب (السرعة)'], t: 'sel', opts: [[2, '2P (3000 rpm)'], [4, '4P (1500 rpm)'], [6, '6P (1000 rpm)']], def: 4 },
+      { k: 'volt', label: ['Winding voltage', 'جهد الملفات'], t: 'sel', opts: [['400D', '400 V Δ / 690 V Y'], ['230D', '230 V Δ / 400 V Y']], def: '400D' },
       { k: 'conn', label: ['Terminal box links', 'توصيل علبة الموتور'], t: 'sel', opts: [['delta', 'Delta (400 V)'], ['star', 'Star'], ['6wire', '6 wires (open)']], def: 'delta' },
       { k: 'load', label: ['Mechanical load', 'الحمل الميكانيكي'], t: 'sel', opts: [[0.3, 'Light (fan)'], [0.6, 'Normal (pump)'], [1.0, 'Heavy (crusher)']], def: 0.6 },
       { k: 'ins', label: ['Insulation (MΩ)', 'العزل (ميجا أوم)'], t: 'num', min: 0.01, max: 10000, step: 1, def: 800 },
@@ -28,7 +56,8 @@
     ties(p) { return p.props.conn === 'delta' ? [['U1', 'W2'], ['V1', 'U2'], ['W1', 'V2']] : p.props.conn === 'star' ? [['U2', 'V2', 'W2']] : []; },
     init(p) { p.state = { w: 0, ws: 1, dir: 0, amps: 0 }; },
     elements(p, ctx) {
-      const I = KW_I[+p.props.kw] || 3.5, Zn = 400 / (I / Math.sqrt(3));
+      // rated line current at 400 V from the nameplate; winding impedance from the winding voltage (a 230 V winding has 1/3 of the impedance)
+      const I = EL.motorPlate(p).i400, Zn = p.props.volt === '230D' ? 230 / I : 400 / (I / Math.sqrt(3));
       const st = p.state, ws = st.ws > 0.02 ? st.ws : 1;
       const slip = Math.min(1, Math.max(0, (ws - st.w) / ws));
       const k = 1 + 5 * Math.max(0, slip - 0.03) / 0.97;
@@ -55,7 +84,7 @@
       st.ws = f / 50;
       let tq = 0;
       if (st.ws > 0.02 && vavg > 5) {
-        const vr = vavg / (400 * Math.max(st.ws, 0.04));
+        const vr = vavg / ((p.props.volt === '230D' ? 230 : 400) * Math.max(st.ws, 0.04));
         const unb = vmin / Math.max(vavg, 1e-6);
         tq = vr * vr * unb * unb;
         if (p.fault === 'open_winding') tq *= 0.4;
@@ -81,10 +110,10 @@
       const ia = sim.iPin(P(p, 'U1'));
       st.amps = cabs(ia.ac);
       st.volts = vavg; st.tq = tq;
-      st.rpm = Math.round(st.w * 1500);
+      st.rpm = Math.round(st.w * 6000 / ([2, 4, 6].indexOf(+p.props.poles) >= 0 ? +p.props.poles : 4));
     },
     draw(p) {
-      const st = p.state, I = KW_I[+p.props.kw];
+      const st = p.state, I = EL.motorPlate(p).i400;
       let r = `<rect class="pbody" x="0" y="0" width="150" height="140" rx="10"/>`;
       r += `<circle cx="75" cy="70" r="44" fill="#16203a" stroke="#7b879f" stroke-width="3"/>`;
       const dur = st.w > 0.03 ? Math.max(0.12, 1.1 / st.w) : 0;
@@ -92,7 +121,7 @@
       r += `<g class="${dur ? (st.dir < 0 ? 'spinr' : 'spin') : ''}" style="${dur ? 'animation-duration:' + dur.toFixed(2) + 's;' : ''}transform-box:fill-box;transform-origin:center">${blades}</g>`;
       r += `<circle cx="75" cy="70" r="10" fill="#0e1626" stroke="#7b879f"/><text class="pbtn" x="75" y="74" text-anchor="middle">M</text>`;
       r += T(75, 128, p.props.kw + ' kW  ' + I + ' A  ' + (p.props.conn === 'star' ? 'Y' : p.props.conn === 'delta' ? 'Δ' : 'Y/Δ'), 'psub');
-      r += `<text class="psub" x="75" y="22" text-anchor="middle" font-size="10">${st.w > 0.03 ? Math.round(st.w * 1450) + ' rpm ' + (st.dir < 0 ? 'REV' : 'FWD') : 'stopped'}</text>`;
+      r += `<text class="psub" x="75" y="22" text-anchor="middle" font-size="10">${st.w > 0.03 ? Math.round(st.w * 0.966 * 6000 / EL.motorPlate(p).poles) + ' rpm ' + (st.dir < 0 ? 'REV' : 'FWD') : 'stopped'}</text>`;
       return r;
     },
   };

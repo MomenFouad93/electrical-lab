@@ -1,0 +1,638 @@
+#6800
+commande
+comando
+控制
+управление
+sterowanie
+vezérlés
+mando
+
+#6803
+Section du fil
+Bitola do fio (seção)
+导线规格（截面积）
+Сечение провода
+Przekrój przewodu
+Vezeték-keresztmetszet
+Sección del cable
+
+#6806
+isolant endommagé
+isolação danificada
+绝缘损坏
+изоляция повреждена
+izolacja uszkodzona
+sérült szigetelés
+aislamiento dañado
+
+#6809
+Courant
+Corrente
+电流
+Ток
+Prąd
+Áram
+Corriente
+
+#6812
+Étoile-triangle : la marche en Δ exige un bobinage 400 V Δ. Ce bobinage 230/400 V doit rester en Y sur 400 V.
+Estrela-triângulo: funcionar em Δ exige um enrolamento 400 V Δ. Este enrolamento 230/400 V deve ficar em Y em 400 V.
+星三角：Δ 运行需要 400 V Δ 绕组。这个 230/400 V 绕组在 400 V 下必须保持 Y 接法。
+Звезда-треугольник: для работы в Δ нужна обмотка 400 В Δ. Эта обмотка 230/400 В на 400 В должна оставаться в Y.
+Gwiazda-trójkąt: praca w Δ wymaga uzwojenia 400 V Δ. To uzwojenie 230/400 V musi zostać w Y przy 400 V.
+Csillag-delta: a Δ üzemhez 400 V Δ tekercselés kell. Ennek a 230/400 V-os tekercselésnek 400 V-on Y-ban kell maradnia.
+Estrella-triángulo: marchar en Δ requiere un devanado 400 V Δ. Este devanado 230/400 V debe quedar en Y a 400 V.
+
+#6815
+Réglez le relais thermique sur In.
+Ajuste o relé de sobrecarga em In.
+将热过载继电器整定为 In。
+Настройте тепловое реле на In.
+Ustaw przekaźnik termiczny na In.
+Állítsa a hőkioldót In értékre.
+Ajuste el relé térmico a In.
+
+#6818
+Section des prochains fils que vous tracez. Sélectionnez un fil pour changer sa propre section.
+Bitola dos próximos fios que você desenhar. Selecione um fio para mudar a bitola dele.
+接下来绘制的导线的规格。选中一根导线可单独修改其规格。
+Сечение следующих проводов, которые вы нарисуете. Выберите провод, чтобы изменить его сечение.
+Przekrój kolejnych rysowanych przewodów. Zaznacz przewód, aby zmienić jego przekrój.
+A következő rajzolt vezetékek keresztmetszete. Jelöljön ki egy vezetéket a saját keresztmetszete módosításához.
+Sección de los próximos cables que dibuje. Seleccione un cable para cambiar su propia sección.
+
+#6821
+Pôles (vitesse)
+Polos (velocidade)
+极数（转速）
+Число полюсов (скорость)
+Liczba biegunów (prędkość)
+Pólusszám (fordulatszám)
+Polos (velocidad)
+
+#6824
+Automate type S7-1200 CPU 1214C DC/DC/DC
+CLP estilo S7-1200 CPU 1214C DC/DC/DC
+S7-1200 风格 PLC，CPU 1214C DC/DC/DC
+ПЛК в стиле S7-1200, CPU 1214C DC/DC/DC
+Sterownik PLC typu S7-1200, CPU 1214C DC/DC/DC
+S7-1200 jellegű PLC, CPU 1214C DC/DC/DC
+PLC tipo S7-1200 CPU 1214C DC/DC/DC
+
+#6827
+CPU en STOP. Les sorties sont désactivées.
+CPU em STOP. As saídas estão desligadas.
+CPU 处于 STOP。输出全部断开。
+CPU в STOP. Выходы отключены.
+CPU w STOP. Wyjścia są wyłączone.
+A CPU STOP állapotban. A kimenetek kikapcsolva.
+CPU en STOP. Las salidas están desactivadas.
+
+#6830
+Utilisez un fil dont l'Iz est au moins égal au courant du moteur.
+Use um fio com Iz no mínimo igual à corrente do motor.
+选用 Iz 不小于电机电流的导线。
+Используйте провод с Iz не меньше тока двигателя.
+Użyj przewodu o Iz co najmniej równym prądowi silnika.
+Olyan vezetéket használjon, amelynek Iz értéke legalább a motoráram.
+Use un cable con Iz al menos igual a la corriente del motor.
+
+#6833
+mauvais couplage du bobinage
+ligação errada do enrolamento
+绕组接法错误
+неправильное соединение обмоток
+błędne połączenie uzwojeń
+hibás tekercskapcsolás
+conexión incorrecta del devanado
+
+#6836
+réglé trop haut par rapport à la plaque signalétique
+ajustado acima da placa de identificação
+整定值高于铭牌
+уставка выше значения на табличке
+nastawa wyższa niż na tabliczce znamionowej
+az adattáblához képest túl magasra állítva
+ajustado por encima de la placa de características
+
+#6839
+fil surchargé
+fio sobrecarregado
+导线过载
+провод перегружен
+przewód przeciążony
+túlterhelt vezeték
+cable sobrecargado
+
+#6842
+Fil surchargé
+Fio sobrecarregado
+导线过载
+Провод перегружен
+Przewód przeciążony
+Túlterhelt vezeték
+Cable sobrecargado
+
+#6845
+La source est vide. Remplissez-la (ou mettez son stock à 0 = illimité).
+A fonte está vazia. Reabasteça-a (ou ajuste o estoque para 0 = sem fim).
+水源已空。请重新加满（或将存量设为 0 = 无限）。
+Источник пуст. Заполните его снова (или задайте запас 0 = бесконечно).
+Źródło jest puste. Napełnij je ponownie (lub ustaw zapas na 0 = bez końca).
+A forrás üres. Töltse fel (vagy állítsa a készletét 0-ra = végtelen).
+La fuente está vacía. Rellénela (o ponga su existencia en 0 = sin fin).
+
+#6848
+Du liquide déborde à la remplisseuse : pas de flacon sous la buse, ou le flacon est plein.
+Líquido derramando na enchedora: sem frasco sob o bico, ou o frasco está cheio.
+灌装工位漏液：灌装嘴下没有瓶子，或瓶子已满。
+Жидкость проливается на дозаторе: под соплом нет бутылки или бутылка уже полная.
+Ciecz wylewa się przy nalewaku: brak butelki pod dyszą albo butelka jest pełna.
+Folyadék ömlik a töltőnél: nincs palack a töltőfej alatt, vagy a palack tele van.
+Se derrama líquido en la llenadora: no hay botella bajo la boquilla o la botella está llena.
+
+#6851
+Sorties relais : dans le labo, chaque sortie a son propre contact Qn-Cn. Sur la 1214C DC/DC/RLY, les relais partagent les communs 1L (Q0.0-Q0.4) et 2L (Q0.5-Q1.1) : vérifiez le schéma de câblage.
+Saídas a relé: no laboratório cada saída tem seu próprio contato Qn-Cn. Na 1214C DC/DC/RLY os relés compartilham os comuns 1L (Q0.0-Q0.4) e 2L (Q0.5-Q1.1): confira o diagrama de ligação.
+继电器输出：在实验室中每个输出都有独立触点 Qn-Cn。在 1214C DC/DC/RLY 上，继电器共用公共端 1L (Q0.0-Q0.4) 和 2L (Q0.5-Q1.1)：请核对接线图。
+Релейные выходы: в лаборатории у каждого выхода свой контакт Qn-Cn. На 1214C DC/DC/RLY реле имеют общие клеммы 1L (Q0.0-Q0.4) и 2L (Q0.5-Q1.1): сверьтесь со схемой подключения.
+Wyjścia przekaźnikowe: w laboratorium każde wyjście ma własny styk Qn-Cn. W 1214C DC/DC/RLY przekaźniki mają wspólne zaciski 1L (Q0.0-Q0.4) i 2L (Q0.5-Q1.1): sprawdź schemat połączeń.
+Relés kimenetek: a laborban minden kimenetnek saját Qn-Cn érintkezője van. Az 1214C DC/DC/RLY-n a relék közös pontokon osztoznak: 1L (Q0.0-Q0.4) és 2L (Q0.5-Q1.1); ellenőrizze a bekötési rajzot.
+Salidas de relé: en el laboratorio cada salida tiene su propio contacto Qn-Cn. En la 1214C DC/DC/RLY los relés comparten los comunes 1L (Q0.0-Q0.4) y 2L (Q0.5-Q1.1): revise el esquema de conexiones.
+
+#6854
+Mode test : enclenchez QS1, Q1, Q2 et F1, appuyez sur S3 (réarmement sécurité : KM0 s'enclenche). Tournez S0 sur Auto et appuyez sur S1 (Marche). Observez l'ordre : la pompe remplit la trémie, le convoyeur amène un flacon à BG1, il s'arrête, YV2 remplit pendant 4 s, le flacon passe à BG2, YV3 abaisse le vérin de bouchage, puis la ligne repart.
+Modo de teste: ligue QS1, Q1, Q2 e F1, pressione S3 (reset de segurança: KM0 atraca). Gire S0 para Auto e pressione S1 (Partida). Observe a ordem: a bomba enche a tremonha, a esteira leva um frasco até BG1, ela para, YV2 enche por 4 s, o frasco segue para BG2, YV3 desce o cilindro de tampamento, e a linha continua.
+测试模式：合上 QS1、Q1、Q2 和 F1，按 S3（安全复位：KM0 吸合）。将 S0 转到自动并按 S1（启动）。观察顺序：泵向料斗加液，输送带把瓶子送到 BG1 后停止，YV2 灌装 4 s，瓶子移到 BG2，YV3 推动压盖气缸下压，然后生产线继续运行。
+Режим проверки: включите QS1, Q1, Q2 и F1, нажмите S3 (сброс безопасности: KM0 срабатывает). Поверните S0 в положение Auto и нажмите S1 (Пуск). Следите за порядком: насос заполняет бункер, конвейер подаёт бутылку к BG1 и останавливается, YV2 наливает 4 с, бутылка перемещается к BG2, YV3 опускает цилиндр укупорки, затем линия продолжает работу.
+Tryb testowy: załącz QS1, Q1, Q2 i F1, naciśnij S3 (reset bezpieczeństwa: KM0 załącza się). Przestaw S0 na Auto i naciśnij S1 (Start). Obserwuj kolejność: pompa napełnia zasobnik, przenośnik podaje butelkę do BG1 i staje, YV2 napełnia przez 4 s, butelka przesuwa się do BG2, YV3 opuszcza siłownik zakręcania, potem linia rusza dalej.
+Teszt mód: kapcsolja be a QS1, Q1, Q2 és F1 elemeket, nyomja meg az S3-at (biztonsági nyugtázás: a KM0 behúz). Fordítsa az S0-t Auto állásba, és nyomja meg az S1-et (Start). Figyelje a sorrendet: a szivattyú feltölti a garatot, a szállítószalag egy palackot visz a BG1-hez és megáll, az YV2 4 s-ig tölt, a palack a BG2-höz megy, az YV3 lenyomja a kupakoló hengert, majd a sor továbbmegy.
+Modo de prueba: conecte QS1, Q1, Q2 y F1, pulse S3 (rearme de seguridad: KM0 entra). Gire S0 a Auto y pulse S1 (Marcha). Observe el orden: la bomba llena la tolva, el transportador lleva una botella a BG1 y se detiene, YV2 llena durante 4 s, la botella pasa a BG2, YV3 baja el cilindro de taponado y luego la línea sigue.
+
+#6857
+Temps de remplissage : réduisez T1 de 4 s à 3 s dans le ladder et chargez : les flacons sortent sous-remplis et sont comptés BAD. Trouvez le T1 le plus court qui donne encore OK, et surveillez SPILL (débordement) quand T1 est trop long. Les vraies remplisseuses s'arrêtent sur niveau ou sur poids, pas sur temps : pourquoi ?
+Tempo de enchimento: reduza T1 de 4 s para 3 s no ladder e faça o download: os frascos saem com enchimento baixo e contam como BAD. Encontre o menor T1 que ainda dá OK, e observe SPILL (transbordamento) quando T1 for longo demais. Enchedoras reais param por nível ou peso, não por tempo: por quê?
+灌装时间：在梯形图中把 T1 从 4 s 缩短到 3 s 并下载：瓶子灌装不足，计为 BAD。找出仍能得到 OK 的最短 T1，并观察 T1 过长时出现的 SPILL（溢出）。真实的灌装机按液位或重量停止，而不是按时间：为什么？
+Время налива: уменьшите T1 с 4 с до 3 с в LAD и загрузите в ПЛК: бутылки уходят недолитыми и считаются BAD. Найдите самое короткое T1, при котором ещё получается OK, и следите за SPILL (перелив), когда T1 слишком длинное. Настоящие дозаторы останавливаются по уровню или весу, а не по времени: почему?
+Czas napełniania: skróć T1 z 4 s do 3 s w drabince i załaduj do sterownika: butelki wychodzą niedolane i są liczone jako BAD. Znajdź najkrótszy T1, który nadal daje OK, i obserwuj SPILL (przelanie), gdy T1 jest za długi. Prawdziwe nalewaki zatrzymują się na poziomie lub wadze, a nie na czasie: dlaczego?
+Töltési idő: rövidítse a T1-et 4 s-ról 3 s-ra a létradiagramban, és töltse le: a palackok alultöltve távoznak, BAD-nek számolódnak. Keresse meg a legrövidebb T1-et, amely még OK-t ad, és figyelje a SPILL (túlfolyás) jelzést, ha a T1 túl hosszú. A valódi töltőgépek szintre vagy tömegre állnak le, nem időre: miért?
+Tiempo de llenado: acorte T1 de 4 s a 3 s en el ladder y cárguelo: las botellas salen con poco llenado y cuentan como BAD. Encuentre el T1 más corto que todavía da OK, y observe SPILL (desbordamiento) cuando T1 es demasiado largo. Las llenadoras reales paran por nivel o por peso, no por tiempo: ¿por qué?
+
+#6860
+Recherche de panne : donnez à YV2 le défaut "Bobine coupée" (Pièce > Simulation de défaut). Les flacons passent vides et sont comptés BAD. Trouvez-le avec la barre d'E/S (Q0.3 est actif), le multimètre sur la bobine et le ladder.
+Localização de falhas: aplique em YV2 a falha "Bobina aberta" (Peça > Simulação de falha). Os frascos passam vazios e contam como BAD. Encontre-a com a barra de E/S (Q0.3 está ligado), o multímetro na bobina e o ladder.
+故障查找：给 YV2 设置故障“线圈断路”（元件 > 故障模拟）。瓶子空着通过并计为 BAD。用 I/O 状态条（Q0.3 已接通）、线圈上的万用表和梯形图找出故障。
+Поиск неисправности: задайте YV2 неисправность "Обрыв катушки" (Элемент > Имитация неисправности). Бутылки проходят пустыми и считаются BAD. Найдите её по полосе входов/выходов (Q0.3 включён), прибором на катушке и по LAD.
+Wyszukiwanie usterek: nadaj YV2 usterkę "Przerwa w cewce" (Element > Symulacja usterki). Butelki przechodzą puste i są liczone jako BAD. Znajdź ją za pomocą paska I/O (Q0.3 jest załączone), miernika na cewce i drabinki.
+Hibakeresés: adja az YV2-nek a "Tekercsszakadás" hibát (Alkatrész > Hibaszimuláció). A palackok üresen haladnak át, és BAD-nek számolódnak. Keresse meg az I/O sávval (a Q0.3 be van kapcsolva), a tekercsen lévő műszerrel és a létradiagrammal.
+Búsqueda de averías: asigne a YV2 la avería "Bobina abierta" (Pieza > Simulación de averías). Las botellas pasan vacías y cuentan como BAD. Encuéntrela con la barra de E/S (Q0.3 está activa), el multímetro en la bobina y el ladder.
+
+#6863
+noir
+preto
+黑色
+чёрный
+czarny
+fekete
+negro
+
+#6866
+vert-jaune
+verde-amarelo
+黄绿色
+жёлто-зелёный
+zielono-żółty
+zöld-sárga
+verde-amarillo
+
+#6869
+standard
+padrão
+标准
+стандартный
+standardowy
+normál
+estándar
+
+#6872
+Bobine de l'électrovanne du vérin
+Bobina da válvula do cilindro
+气缸电磁阀线圈
+Катушка клапана цилиндра
+Cewka zaworu siłownika
+Henger szelepének tekercse
+Bobina de la válvula del cilindro
+
+#6875
+Capteur vérin en haut
+Sensor de cilindro em cima
+气缸上限位传感器
+Датчик верхнего положения цилиндра
+Czujnik górnego położenia siłownika
+Henger felső helyzet érzékelője
+Sensor de cilindro arriba
+
+#6878
+Transmetteur
+Transmissor
+变送器
+Датчик-преобразователь
+Przetwornik
+Távadó
+Transmisor
+
+#6881
+Appareil
+Dispositivo
+设备
+Устройство
+Urządzenie
+Eszköz
+Dispositivo
+
+#6884
+Type
+Tipo
+类型
+Тип
+Rodzaj
+Típus
+Tipo
+
+#6887
+Appareil de terrain
+Dispositivo de campo
+现场设备
+Полевое устройство
+Urządzenie obiektowe
+Terepi eszköz
+Dispositivo de campo
+
+#6890
+Câble
+Cabo
+电缆
+Кабель
+Kabel
+Kábel
+Cable
+
+#6893
+Fonction
+Função
+功能
+Функция
+Funkcja
+Funkció
+Función
+
+#6896
+Taille
+Tamanho
+尺寸
+Размер
+Rozmiar
+Méret
+Tamaño
+
+#6899
+Mon schéma
+Meu desenho
+我的图纸
+Мой чертёж
+Mój rysunek
+Saját rajz
+Mi dibujo
+
+#6902
+Rien à lister pour l'instant dans ce schéma.
+Ainda não há nada para listar neste desenho.
+此图纸中暂无可列出的内容。
+В этом чертеже пока нечего перечислить.
+W tym rysunku nie ma jeszcze nic do wyświetlenia.
+Ebben a rajzban még nincs mit listázni.
+Todavía no hay nada que listar en este dibujo.
+
+#6905
+Autorisez les fenêtres pop-up pour imprimer, ou utilisez le CSV.
+Permita pop-ups para imprimir, ou use CSV.
+请允许弹出窗口以便打印，或使用 CSV。
+Разрешите всплывающие окна для печати или используйте CSV.
+Zezwól na wyskakujące okna, aby drukować, lub użyj CSV.
+Engedélyezze a felugró ablakokat a nyomtatáshoz, vagy használja a CSV-t.
+Permita las ventanas emergentes para imprimir, o use CSV.
+
+#6908
+Câbles du site : affichés
+Cabos da planta: visíveis
+现场电缆：显示
+Кабели объекта: показаны
+Kable obiektu: widoczne
+Helyszíni kábelek: látszanak
+Cables de planta: visibles
+
+#6911
+Aucun automate avec programme ladder sur ce tableau.
+Nenhum CLP com programa ladder neste painel.
+此电柜上没有带梯形图程序的 PLC。
+На этом щите нет ПЛК с программой LAD.
+Na tej rozdzielnicy nie ma sterownika PLC z programem drabinkowym.
+Ezen a szekrényen nincs létradiagram-programmal rendelkező PLC.
+No hay ningún PLC con programa ladder en este cuadro.
+
+#6914
+Code S7-1200
+Código S7-1200
+S7-1200 代码
+Код S7-1200
+Kod S7-1200
+S7-1200 kód
+Código S7-1200
+
+#6917
+Liquide contenu (L, 0 = illimité)
+Líquido contido (L, 0 = sem fim)
+所含液体（L，0 = 无限）
+Жидкость в нём (л, 0 = бесконечно)
+Ciecz w środku (L, 0 = bez końca)
+Benne lévő folyadék (L, 0 = végtelen)
+Líquido contenido (L, 0 = sin fin)
+
+#6920
+Vérin de bouchage : bobine du distributeur 5/2 (tableau)
+Cilindro de tampamento: bobina da válvula 5/2 (painel)
+压盖气缸：5/2 电磁阀线圈（电柜）
+Цилиндр укупорки: катушка распределителя 5/2 (щит)
+Siłownik zakręcania: cewka zaworu 5/2 (rozdzielnica)
+Kupakoló henger: 5/2-es szelep tekercse (szekrény)
+Cilindro de taponado: bobina de la válvula 5/2 (cuadro)
+
+#6923
+Volume du flacon (L)
+Volume do frasco (L)
+瓶子容积（L）
+Объём бутылки (л)
+Pojemność butelki (L)
+Palack térfogata (L)
+Volumen de la botella (L)
+
+#6926
+Réseau / puisard
+Rede / poço
+市政管网 / 集水井
+Водопровод / приямок
+Sieć wodociągowa / studzienka
+Vízhálózat / zsomp
+Red / sumidero
+
+#6929
+Inox, fond conique, sur pieds
+Inox, fundo cônico, sobre pés
+不锈钢，锥底，带支腿
+Нержавеющая сталь, коническое дно, на опорах
+Stal nierdzewna, dno stożkowe, na nogach
+Rozsdamentes acél, kúpos fenék, lábakon
+Inoxidable, fondo cónico, sobre patas
+
+#6932
+ (PNP 3 fils). Raccordez BN au +24 V, BU au 0 V et BK à une entrée de l'automate.
+ (PNP 3 fios). Ligue BN ao +24 V, BU ao 0 V e BK a uma entrada do CLP.
+ (三线制 PNP)。BN 接 +24 V，BU 接 0 V，BK 接 PLC 输入。
+ (3-проводный PNP). Подключите BN к +24 В, BU к 0 В, а BK ко входу ПЛК.
+ (3-przewodowy PNP). Podłącz BN do +24 V, BU do 0 V, a BK do wejścia PLC.
+ (3 vezetékes PNP). Kösse a BN-t a +24 V-ra, a BU-t a 0 V-ra, a BK-t egy PLC-bemenetre.
+ (PNP de 3 hilos). Conecte BN a +24 V, BU a 0 V y BK a una entrada del PLC.
+
+#6935
+Réarmer le bourrage
+Resetar o travamento
+复位卡瓶
+Сбросить затор
+Kasuj zator
+Elakadás nyugtázása
+Rearmar atasco
+
+#6938
+Remplir
+Reabastecer
+重新加满
+Заполнить снова
+Napełnij ponownie
+Újratöltés
+Rellenar
+
+#6941
+Niveau (%)
+Nível (%)
+液位（%）
+Уровень (%)
+Poziom (%)
+Szint (%)
+Nivel (%)
+
+#6944
+Reste dedans
+Restante
+剩余
+Осталось
+Pozostało
+Benne maradt
+Queda
+
+#6947
+Débit de remplissage
+Vazão de enchimento
+灌装流量
+Расход налива
+Przepływ napełniania
+Töltési áramlás
+Caudal de llenado
+
+#6950
+Copié. Collez-le dans un fichier source externe ou un bloc SCL.
+Copiado. Cole em um arquivo fonte externo ou em um bloco SCL.
+已复制。请粘贴到外部源文件或 SCL 块中。
+Скопировано. Вставьте во внешний файл-источник или в блок SCL.
+Skopiowano. Wklej do zewnętrznego pliku źródłowego lub bloku SCL.
+Másolva. Illessze be egy külső forrásfájlba vagy egy SCL blokkba.
+Copiado. Péguelo en un archivo fuente externo o en un bloque SCL.
+
+#6953
+ vers un automate réel
+ para um CLP real
+ 到真实 PLC
+ в реальный ПЛК
+ do prawdziwego sterownika PLC
+ valódi PLC-re
+ a un PLC real
+
+#6956
+Aucun avertissement de conversion : chaque élément a une traduction SCL.
+Nenhum aviso de conversão: todo elemento tem tradução em SCL.
+无转换警告：每个元素都有对应的 SCL 转换。
+Предупреждений преобразования нет: у каждого элемента есть перевод в SCL.
+Brak ostrzeżeń konwersji: każdy element ma odpowiednik w SCL.
+Nincs konverziós figyelmeztetés: minden elemnek van SCL megfelelője.
+Sin advertencias de conversión: cada elemento tiene su traducción a SCL.
+
+#6959
+Clic droit sur la source > Générer des blocs à partir de la source. FB_Main, IDB_Main et Main (OB1) apparaissent dans Blocs de programme. Acceptez de remplacer le Main vide.
+Clique com o botão direito na fonte > Gerar blocos a partir da fonte. FB_Main, IDB_Main e Main (OB1) aparecem em Blocos de programa. Aceite substituir o Main vazio.
+右键单击源 > 从源生成块。FB_Main、IDB_Main 和 Main (OB1) 会出现在“程序块”中。接受替换空的 Main。
+Щёлкните правой кнопкой по источнику > Сгенерировать блоки из источника. FB_Main, IDB_Main и Main (OB1) появятся в «Программные блоки». Подтвердите замену пустого Main.
+Kliknij prawym przyciskiem źródło > Generuj bloki ze źródła. FB_Main, IDB_Main i Main (OB1) pojawią się w Bloki programu. Zaakceptuj zastąpienie pustego Main.
+Kattintson jobb gombbal a forrásra > Blokkok generálása forrásból. Az FB_Main, IDB_Main és Main (OB1) megjelenik a Programblokkok között. Fogadja el az üres Main cseréjét.
+Clic derecho en la fuente > Generar bloques a partir de la fuente. FB_Main, IDB_Main y Main (OB1) aparecen en Bloques de programa. Acepte reemplazar el Main vacío.
+
+#6962
+Télécharger .scl
+Baixar .scl
+下载 .scl
+Скачать .scl
+Pobierz .scl
+.scl letöltése
+Descargar .scl
+
+#6965
+Non testé sur une vraie installation TIA Portal : les fichiers suivent les formats TIA (source SCL externe, feuille de table des variables "PLC Tags"). Vérifiez le résultat avant de faire tourner une machine.
+Não testado em uma instalação real do TIA Portal: os arquivos seguem os formatos do TIA (fonte SCL externa, planilha de tabela de tags "PLC Tags"). Verifique o resultado antes de operar uma máquina.
+未在真实的 TIA Portal 环境中测试：文件遵循 TIA 格式（外部 SCL 源、变量表工作表“PLC Tags”）。运行机器前请检查结果。
+Не проверено на реальной установке TIA Portal: файлы соответствуют форматам TIA (внешний источник SCL, лист таблицы тегов "PLC Tags"). Проверьте результат, прежде чем запускать машину.
+Nie testowano na prawdziwej instalacji TIA Portal: pliki są zgodne z formatami TIA (zewnętrzne źródło SCL, arkusz tablicy zmiennych "PLC Tags"). Sprawdź wynik przed uruchomieniem maszyny.
+Valódi TIA Portal telepítésen nincs tesztelve: a fájlok a TIA formátumait követik (külső SCL forrás, "PLC Tags" változótábla-munkalap). Ellenőrizze az eredményt, mielőtt gépet indít.
+No probado en una instalación real de TIA Portal: los archivos siguen los formatos de TIA (fuente SCL externa, hoja de tabla de variables "PLC Tags"). Revise el resultado antes de poner en marcha una máquina.
+
+#6968
+ variables
+ tags
+ 个变量
+ тегов
+ zmiennych
+ változó
+ variables
+
+#6971
+Source externe : FB_Main + IDB_Main + OB1 Main.
+Fonte externa: FB_Main + IDB_Main + OB1 Main.
+外部源：FB_Main + IDB_Main + OB1 Main。
+Внешний источник: FB_Main + IDB_Main + OB1 Main.
+Źródło zewnętrzne: FB_Main + IDB_Main + OB1 Main.
+Külső forrás: FB_Main + IDB_Main + OB1 Main.
+Fuente externa: FB_Main + IDB_Main + OB1 Main.
+
+#6974
+Couplé en Y sur 400 V : correct, courant de ligne {1} A.
+Ligado em Y em 400 V: correto, corrente de linha {1} A.
+在 400 V 下接成 Y：正确，线电流 {1} A。
+Соединение Y на 400 В: правильно, линейный ток {1} А.
+Połączony w Y przy 400 V: poprawnie, prąd przewodowy {1} A.
+Y-ban kötve 400 V-on: helyes, vonaláram {1} A.
+Conectado en Y a 400 V: correcto, corriente de línea {1} A.
+
+#6977
+Utilisez un fil plus gros (sélectionnez le fil, Section du fil) ou un calibre plus petit pour {1}.
+Use um fio mais grosso (selecione o fio, Bitola do fio) ou uma corrente nominal menor para {1}.
+使用更粗的导线（选中导线，导线规格），或为 {1} 选用更小的额定值。
+Используйте провод большего сечения (выберите провод, Сечение провода) или меньший номинал для {1}.
+Użyj grubszego przewodu (zaznacz przewód, Przekrój przewodu) lub mniejszego prądu znamionowego dla {1}.
+Használjon nagyobb vezetéket (jelölje ki a vezetéket, Vezeték-keresztmetszet), vagy kisebb névleges értéket a(z) {1} számára.
+Use un cable más grueso (seleccione el cable, Sección del cable) o un calibre menor para {1}.
+
+#6980
+{1} a un bobinage 230 V Δ / 400 V Y mais est couplé en TRIANGLE sur {2} V : chaque enroulement reçoit 400 V au lieu de 230 V.
+{1} tem enrolamento 230 V Δ / 400 V Y mas está ligado em TRIÂNGULO em {2} V: cada bobina recebe 400 V em vez de 230 V.
+{1} 的绕组为 230 V Δ / 400 V Y，但在 {2} V 下接成三角形：每相绕组承受 400 V 而不是 230 V。
+У {1} обмотка 230 В Δ / 400 В Y, но она соединена ТРЕУГОЛЬНИКОМ на {2} В: каждая обмотка получает 400 В вместо 230 В.
+{1} ma uzwojenie 230 V Δ / 400 V Y, ale jest połączony w TRÓJKĄT przy {2} V: każde uzwojenie dostaje 400 V zamiast 230 V.
+A(z) {1} tekercselése 230 V Δ / 400 V Y, de DELTÁBA van kötve {2} V-on: minden tekercs 400 V-ot kap 230 V helyett.
+{1} tiene un devanado 230 V Δ / 400 V Y pero está conectado en TRIÁNGULO a {2} V: cada bobinado recibe 400 V en lugar de 230 V.
+
+#6983
+{1} est réglé à {2} A, au-dessus de 1.15 x {3} A de {4}{5}. Le moteur peut surchauffer sans déclenchement.
+{1} está ajustado em {2} A, acima de 1.15 x {3} A de {4}{5}. O motor pode superaquecer sem desarmar.
+{1} 整定为 {2} A，高于 {4}{5} 的 1.15 x {3} A。电机可能过热而不跳闸。
+{1} настроено на {2} А, это выше 1.15 x {3} А для {4}{5}. Двигатель может перегреться без срабатывания.
+{1} jest nastawiony na {2} A, powyżej 1.15 x {3} A dla {4}{5}. Silnik może się przegrzać bez zadziałania.
+A(z) {1} {2} A-re van állítva, ami több mint 1.15 x {3} A ({4}{5}). A motor kioldás nélkül túlmelegedhet.
+{1} está ajustado a {2} A, por encima de 1.15 x {3} A de {4}{5}. El motor puede sobrecalentarse sin disparar.
+
+#6986
+Le fil {1} ({2} mm², Iz {3} A) porte {4} A en marche{5}
+O fio {1} ({2} mm², Iz {3} A) conduz {4} A em funcionamento{5}
+导线 {1}（{2} mm²，Iz {3} A）运行时通过 {4} A{5}
+Провод {1} ({2} мм², Iz {3} А) при работе несёт {4} А{5}
+Przewód {1} ({2} mm², Iz {3} A) przewodzi {4} A podczas pracy{5}
+A(z) {1} vezeték ({2} mm², Iz {3} A) üzem közben {4} A-t visz{5}
+El cable {1} ({2} mm², Iz {3} A) lleva {4} A en marcha{5}
+
+#6989
+l'isolant se dégrade ({1} A pour Iz {2} A)
+a isolação está sendo danificada ({1} A para Iz {2} A)
+绝缘正在损坏（{1} A，Iz {2} A）
+изоляция разрушается ({1} А при Iz {2} А)
+izolacja ulega uszkodzeniu ({1} A przy Iz {2} A)
+a szigetelés károsodik ({1} A, Iz {2} A)
+el aislamiento se está dañando ({1} A con Iz {2} A)
+
+#6992
+Rien n'est raccordé à la borne {1} de {2}.
+Nada está ligado ao borne {1} de {2}.
+{2} 的端子 {1} 未接线。
+К клемме {1} у {2} ничего не подключено.
+Do zacisku {1} elementu {2} nic nie podłączono.
+A(z) {2} {1} kapcsára nincs semmi bekötve.
+No hay nada conectado al borne {1} de {2}.
+
+#6995
+La bobine "{1}" doit être une sortie {2} ou un mémento M.
+A bobina "{1}" deve ser uma saída {2} ou um bit de memória M.
+线圈“{1}”必须是输出 {2} 或存储位 M。
+Катушка "{1}" должна быть выходом {2} или битом памяти M.
+Cewka "{1}" musi być wyjściem {2} lub bitem pamięci M.
+A(z) "{1}" tekercsnek {2} kimenetnek vagy M memóriabitnek kell lennie.
+La bobina "{1}" debe ser una salida {2} o una marca M.
+
+#6998
+Réseau {1}{2} : "{3}" n'est pas une adresse de bit valide pour cette CPU : elle a été écrite FALSE (TODO dans le code).
+Rede {1}{2}: "{3}" não é um endereço de bit válido para esta CPU: foi escrito como FALSE (TODO no código).
+程序段 {1}{2}：“{3}”不是此 CPU 的有效位地址：已写为 FALSE（代码中标记 TODO）。
+Сегмент {1}{2}: "{3}" не является допустимым битовым адресом для этого CPU: записано как FALSE (TODO в коде).
+Sieć {1}{2}: "{3}" nie jest prawidłowym adresem bitowym dla tego CPU: zapisano jako FALSE (TODO w kodzie).
+{1}{2}. hálózat: a(z) "{3}" nem érvényes bitcím ehhez a CPU-hoz: FALSE értékként lett kiírva (TODO a kódban).
+Segmento {1}{2}: "{3}" no es una dirección de bit válida para esta CPU: se escribió como FALSE (TODO en el código).
+
+#7001
+Réseau {1}{2} : {3} "{4}" n'est ni une sortie Q ni un mémento M de cette CPU (TODO dans le code).
+Rede {1}{2}: {3} "{4}" não é uma saída Q nem um bit de memória M desta CPU (TODO no código).
+程序段 {1}{2}：{3}“{4}”不是此 CPU 的输出 Q 或存储位 M（代码中标记 TODO）。
+Сегмент {1}{2}: {3} "{4}" не является выходом Q или битом памяти M этого CPU (TODO в коде).
+Sieć {1}{2}: {3} "{4}" nie jest wyjściem Q ani bitem pamięci M tego CPU (TODO w kodzie).
+{1}{2}. hálózat: a(z) {3} "{4}" nem Q kimenet és nem M memóriabit ezen a CPU-n (TODO a kódban).
+Segmento {1}{2}: {3} "{4}" no es una salida Q ni una marca M de esta CPU (TODO en el código).
+
+#7004
+Compteur {1} : la présélection {2} dépasse 32767 (INT) : écrite 32767.
+Contador {1}: o preset {2} está acima de 32767 (INT): escrito como 32767.
+计数器 {1}：预设值 {2} 超过 32767 (INT)：已写为 32767。
+Счётчик {1}: предустановка {2} больше 32767 (INT): записано как 32767.
+Licznik {1}: nastawa {2} przekracza 32767 (INT): zapisano jako 32767.
+{1} számláló: a(z) {2} előválasztás nagyobb, mint 32767 (INT): 32767 értékként kiírva.
+Contador {1}: el preajuste {2} supera 32767 (INT): se escribió como 32767.
+
+#7007
+Réseau {1}{2} : la sortie {3} "{4}" doit être MW ou QW80 (TODO dans le code).
+Rede {1}{2}: a saída {3} "{4}" deve ser MW ou QW80 (TODO no código).
+程序段 {1}{2}：{3} 输出“{4}”必须是 MW 或 QW80（代码中标记 TODO）。
+Сегмент {1}{2}: выход {3} "{4}" должен быть MW или QW80 (TODO в коде).
+Sieć {1}{2}: wyjście {3} "{4}" musi być MW lub QW80 (TODO w kodzie).
+{1}{2}. hálózat: a(z) {3} "{4}" kimenetnek MW-nek vagy QW80-nak kell lennie (TODO a kódban).
+Segmento {1}{2}: la salida {3} "{4}" debe ser MW o QW80 (TODO en el código).
+
+#7010
+{1} utilise les mêmes octets mémoire (MB{2}, MB{2}{3}) que les bits M du programme : sur la vraie CPU, ils s'écrasent mutuellement. Déplacez le mot (par exemple MW20).
+{1} usa os mesmos bytes de memória (MB{2}, MB{2}{3}) que os bits M do programa: na CPU real eles se sobrescrevem. Mova a word (por exemplo MW20).
+{1} 使用了与程序 M 位相同的存储字节（MB{2}、MB{2}{3}）：在真实 CPU 上它们会互相覆盖。请移动该字（例如 MW20）。
+{1} использует те же байты памяти (MB{2}, MB{2}{3}), что и биты M программы: в реальном CPU они перезаписывают друг друга. Перенесите слово (например, MW20).
+{1} używa tych samych bajtów pamięci (MB{2}, MB{2}{3}) co bity M programu: w prawdziwym CPU nadpisują się wzajemnie. Przenieś słowo (na przykład MW20).
+A(z) {1} ugyanazokat a memóriabájtokat (MB{2}, MB{2}{3}) használja, mint a program M bitjei: a valódi CPU-n felülírják egymást. Helyezze át a szót (például MW20).
+{1} usa los mismos bytes de memoria (MB{2}, MB{2}{3}) que los bits M del programa: en la CPU real se sobrescriben entre sí. Mueva la palabra (por ejemplo MW20).

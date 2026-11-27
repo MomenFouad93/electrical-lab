@@ -5,9 +5,9 @@
   const LU = (ui.ladder = { plcId: null, work: null, workFor: null, dirty: false, sel: null, issues: null, why: {} });
   const B = () => EL.bench;
   const C = () => B().ed.c;
-  const plcs = () => C().parts.filter((p) => p.type === 'PLC24' || p.type === 'PLC24R');
+  const plcs = () => C().parts.filter((p) => EL.defs[p.type] && EL.defs[p.type].diag && EL.defs[p.type].diag.kind === 'plc');
   const plc = () => { const l = plcs(); let p = l.find((x) => x.id === LU.plcId); if (!p) { p = l[0] || null; LU.plcId = p ? p.id : null; } return p; };
-  const nQ = (p) => (EL.defs[p.type].diag || {}).nQ || 6;
+  const nQ = (p) => (EL.defs[p.type].diag || {}).nQ || 6, nI = (p) => (EL.defs[p.type].diag || {}).nI || 8;
   let host, bar, scroll, nets, selbar, lastFrame = 0;
 
   /* ---------- geometry ---------- */
@@ -74,7 +74,7 @@
     const r = ctx.tr ? ctx.tr.outs[oi] : null, pin = r ? r.pin : false, ly = y + LY, sel = ctx.selO === oi;
     let s = `<g data-o="${oi}" class="ld-it${sel ? ' sel' : ''}">`;
     if (['COIL', 'SET', 'RST'].includes(o.t)) {
-      const cx = x + COILW / 2, mem = ctx.plc ? LD.mem(ctx.plc.state, nQ(ctx.plc)) : null, on = ctx.tr && mem ? !!mem.bit(o.a) : false;
+      const cx = x + COILW / 2, mem = ctx.plc ? LD.mem(ctx.plc.state, nQ(ctx.plc), nI(ctx.plc)) : null, on = ctx.tr && mem ? !!mem.bit(o.a) : false;
       s += `<rect x="${x + 2}" y="${y + 2}" width="${COILW - 4}" height="${RH - 4}" rx="6" class="ld-hit"/>`;
       s += line(x, ly, cx - 15, ly, pin);
       const c2 = on ? ON : '#d3dae4';
@@ -183,7 +183,7 @@
   }
   function defOut(t) {
     const used = LU.work ? LD.used(LU.work) : [];
-    if (['COIL', 'SET', 'RST'].includes(t)) { let q = 'Q0.0'; for (let i = 0; i < nQ(plc()); i++) if (!used.includes('Q0.' + i)) { q = 'Q0.' + i; break; } return { t, a: t === 'COIL' ? q : 'M0.1' }; }
+    if (['COIL', 'SET', 'RST'].includes(t)) { let q = 'Q0.0'; for (let i = 0; i < nQ(plc()); i++) if (!used.includes(LD.ioAddr('Q', i))) { q = LD.ioAddr('Q', i); break; } return { t, a: t === 'COIL' ? q : 'M0.1' }; }
     if (['TON', 'TOF', 'TP'].includes(t)) return { t, a: nextFree('T', 31, used), pt: 5 };
     if (t === 'CTU') return { t, a: nextFree('C', 15, used), pv: 10, r: '' };
     if (t === 'SCALE') return { t, in: 'IW64', lo: 0, hi: 100, out: 'MW10' };
@@ -210,8 +210,8 @@
   /* ---------- edit dialogs ---------- */
   function addrList(p) {
     const W = LU.work, o = [];
-    for (let i = 0; i < 8; i++) o.push('I0.' + i);
-    for (let i = 0; i < nQ(p); i++) o.push('Q0.' + i);
+    for (let i = 0; i < nI(p); i++) o.push(LD.ioAddr('I', i));
+    for (let i = 0; i < nQ(p); i++) o.push(LD.ioAddr('Q', i));
     for (let i = 0; i < 16; i++) o.push('M' + Math.floor(i / 8) + '.' + (i % 8));
     for (let i = 1; i <= 6; i++) o.push('T' + i);
     for (let i = 1; i <= 4; i++) o.push('C' + i);
@@ -221,7 +221,7 @@
   }
   function addrInput(val, p, kind) {
     const id = 'ldal' + Math.random().toString(36).slice(2, 7);
-    const dl = h('datalist', { id }, addrList(p).filter(([a]) => (kind === 'bit' ? LD.bitInfo(a, nQ(p)) : LD.wordInfo(a))).map(([a, n]) => h('option', { value: a, text: n ? a + '  ' + n : a })));
+    const dl = h('datalist', { id }, addrList(p).filter(([a]) => (kind === 'bit' ? LD.bitInfo(a, nQ(p), nI(p)) : LD.wordInfo(a))).map(([a, n]) => h('option', { value: a, text: n ? a + '  ' + n : a })));
     const inp = h('input', { type: 'text', value: val || '', list: id, maxlength: 12, class: 'ltr', autocapitalize: 'characters', spellcheck: false });
     return { el: h('div', null, inp, dl), get: () => resolveName(inp.value) };
   }
@@ -368,7 +368,7 @@
     dialog(T(['Symbol table', 'جدول الأسماء']), [h('p', { class: 'mute sm', text: T(['Give addresses a name. The names show above each contact and coil.', 'ادّي العناوين أسماء. الأسماء بتظهر فوق كل كونتاكت وكويل.']) }), rows, h('h4', { text: T(['Add', 'إضافة']) }), h('div', { class: 'ld-symtab' }, na, nn)], () => {
       for (const [a, inp] of inputs) setSym(a, inp.value.replace(/[<>`"&]/g, '').trim());
       const a = LD.norm(na.value);
-      if (a) { if (!LD.bitInfo(a, nQ(plc())) && !LD.wordInfo(a)) { ui.toast(['Not a valid address.', 'عنوان مش صحيح.'], 'bad'); return false; } setSym(a, nn.value.replace(/[<>`"&]/g, '').trim()); }
+      if (a) { if (!LD.bitInfo(a, nQ(plc()), nI(plc())) && !LD.wordInfo(a)) { ui.toast(['Not a valid address.', 'عنوان مش صحيح.'], 'bad'); return false; } setSym(a, nn.value.replace(/[<>`"&]/g, '').trim()); }
       mark(); return true;
     });
   };
@@ -397,11 +397,11 @@
     if (!p || !box) return;
     const s = p.state;
     if (st) st.innerHTML = `<div class="kv"><span>${esc(T(['Supply 24 V', 'تغذية 24 فولت']))}</span><b>${s.sup ? 'OK ' + (s.v || 0).toFixed(1) + ' V' : esc(T(['NO POWER', 'مفيش كهرباء']))}</b></div><div class="kv"><span>${esc(T(['Mode', 'الوضع']))}</span><b>${p.props.mode === 'ladder' ? 'LAD' : 'TEXT'} · ${s.run ? 'RUN' : 'STOP'}</b></div><div class="kv"><span>${esc(T(['Errors in scan', 'أخطاء التنفيذ']))}</span><b>${s.err || 0}</b></div>`;
-    const prog = LU.work || LD.progOf(p), M = LD.mem(s, nQ(p));
+    const prog = LU.work || LD.progOf(p), M = LD.mem(s, nQ(p), nI(p));
     const used = LD.used(prog);
     let html = '';
     for (const a of used) {
-      const b = LD.bitInfo(a, nQ(p)), w = LD.wordInfo(a);
+      const b = LD.bitInfo(a, nQ(p), nI(p)), w = LD.wordInfo(a);
       let v = '';
       if (b && b.area !== 'K') { const on = M.bit(a); v = `<span class="pill ${on ? 'ok' : ''}">${on ? 1 : 0}</span>`; if (b.area === 'T') { const t = s.tm && s.tm[b.k]; v += ` <span class="mute sm">${t ? t.et.toFixed(1) : '0.0'} s</span>`; } if (b.area === 'C') { const c2 = s.ct && s.ct[b.k]; v += ` <span class="mute sm">${c2 ? c2.cv : 0}</span>`; } }
       else if (w) v = `<b>${M.word(a)}</b>`;
@@ -461,7 +461,7 @@
     document.addEventListener('pointerdown', ioDown);
     document.addEventListener('pointerup', ioUp); document.addEventListener('pointercancel', ioUp);
     $('#gsearch').addEventListener('input', () => LU.palette($('#gplist'), $('#gsearch').value));
-    document.addEventListener('pointerdown', (e) => { if (e.target.closest && e.target.closest('[data-io]')) return; const r = e.target.closest && e.target.closest('.ld-wrow.tog'); if (!r) return; const p = plc(); if (!p) return; const M = LD.mem(p.state, nQ(p)); M.setBit(r.dataset.a, !M.bit(r.dataset.a)); ui.click(); watch(); });
+    document.addEventListener('pointerdown', (e) => { if (e.target.closest && e.target.closest('[data-io]')) return; const r = e.target.closest && e.target.closest('.ld-wrow.tog'); if (!r) return; const p = plc(); if (!p) return; const M = LD.mem(p.state, nQ(p), nI(p)); M.setBit(r.dataset.a, !M.bit(r.dataset.a)); ui.click(); watch(); });
     ui.onRefresh(() => { render(); LU.palette($('#gplist'), $('#gsearch').value); });
     LU.palette($('#gplist'), '');
   };
@@ -487,6 +487,7 @@
       h('button', { class: 'btn sm', onclick: () => LU.addNet(), text: '+ ' + T(['Network', 'نتورك']) }),
       h('button', { class: 'btn sm', onclick: () => LU.symbols(), text: T(['Symbols', 'الأسماء']) }),
       h('button', { class: 'btn sm', onclick: () => LU.check(), text: T(['Check program', 'افحص البرنامج']) }),
+      ...(ui.plcExport ? [h('button', { class: 'btn sm', id: 'btnS7code', onclick: () => ui.plcExport.open(p, LU.work, 'code'), text: T(['S7-1200 code', 'كود S7-1200']) }), h('button', { class: 'btn sm', id: 'btnTia', onclick: () => ui.plcExport.open(p, LU.work, 'tia'), text: 'TIA Portal' })] : []),
       h('button', { class: 'btn sm', onclick: () => { p.state.run = !p.state.run; ui.click(); render(); }, text: p.state.run ? 'RUN → STOP' : 'STOP → RUN' }),
       h('button', { class: 'btn sm', title: 'Simulation speed', onclick: (e) => { const b = $('#btnSpeed'); if (b) { b.click(); e.target.textContent = '⏩ ' + b.textContent; } }, text: '⏩ ' + (($('#btnSpeed') || {}).textContent || '1x') }),
       h('button', { class: 'btn sm', onclick: () => { ui.show('bench'); B().setView('panel'); }, text: T(['Go to the panel', 'روح للوحة']) }),

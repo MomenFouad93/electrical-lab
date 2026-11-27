@@ -16,8 +16,8 @@ const { ok, sleep } = Q;
   const tabs = await p.evaluate(() => [...document.querySelectorAll('#tabs .tab')].map((t) => { const r = t.getBoundingClientRect(); return t.dataset.v + ':' + Math.round(r.left) + '-' + Math.round(r.right); }));
   console.log('     tabs', tabs.join(' '));
   await Q.shot(p, 'm_projects');
-  // Open tank via tap
-  const ob = await p.$('#projRoot .pj-card >> nth=0 >> button >> text=Open');
+  // Open tank via tap (card 2: the filling line is first)
+  const ob = await p.$('#projRoot .pj-card >> nth=1 >> button >> text=Open');
   await ob.scrollIntoViewIfNeeded(); const bb = await ob.boundingBox(); await p.touchscreen.tap(bb.x + bb.width / 2, bb.y + bb.height / 2); await sleep(1200);
   ok((await p.evaluate(() => EL.bench.view)) === 'plant', 'tap Open -> plant view');
   await Q.shot(p, 'm_plant');

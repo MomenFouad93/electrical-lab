@@ -1,0 +1,52 @@
+/* Whole plant view: process on top, panel below, site cables between them */
+#v-bench[data-view=all] #plantHost{display:block;flex:0 0 var(--fsplit,52%);order:1;border-bottom:1px solid var(--edge)}
+#v-bench[data-view=all] #benchHost{display:block;order:3}
+#v-bench[data-view=all] .stage>.tb{order:0}
+.fl-split,.fl-ov,.fl-io,.fl-chips{display:none}
+.stage.fl-on .fl-split{display:flex;order:2;height:12px;margin:-6px 0;position:relative;z-index:5;cursor:row-resize;align-items:center;justify-content:center;touch-action:none}
+.stage.fl-on .fl-split span{width:64px;height:5px;border-radius:3px;background:var(--edge2);box-shadow:0 0 0 1px rgba(0,0,0,.3)}
+.stage.fl-on .fl-split:hover span{background:var(--cyan)}
+.stage.fl-on .fl-ov{display:block;position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:4;overflow:visible}
+.fl-c{fill:none;stroke-width:3.2;stroke-linecap:round;opacity:.82}
+.fl-c.pow{stroke:#f08a3c}.fl-c.coil{stroke:#c58bff}.fl-c.sens{stroke:#4fb8ff}.fl-c.ana{stroke:#6fe08a;stroke-dasharray:9 4}.fl-c.sig{stroke:#d9dde4}
+.fl-c.off{opacity:.35;stroke-dasharray:3 5}
+.fl-c.live{stroke-width:4.6;opacity:1;filter:drop-shadow(0 0 4px currentColor)}
+.fl-c.live.pow{color:#f08a3c}.fl-c.live.coil{color:#c58bff}.fl-c.live.sens{color:#4fb8ff}.fl-c.live.ana{color:#6fe08a}.fl-c.live.sig{color:#ffffff}
+.fl-end{stroke:#0b121f;stroke-width:1.5}.fl-end.pow{fill:#f08a3c}.fl-end.coil{fill:#c58bff}.fl-end.sens{fill:#4fb8ff}.fl-end.ana{fill:#6fe08a}.fl-end.sig{fill:#d9dde4}
+.fl-lab rect{fill:rgba(10,17,30,.88);stroke:rgba(255,255,255,.18)}
+.fl-lab text{fill:#dfe6f2;font-size:10.5px;text-anchor:middle;font-family:system-ui,Segoe UI,Arial;direction:ltr}
+.fl-lab.live rect{stroke:#FDC300}
+.stage.fl-on .fl-chips{display:flex;flex-wrap:wrap;gap:6px;position:absolute;inset-inline-start:10px;top:58px;z-index:6;max-width:60%}
+.fl-chips .btn{background:rgba(16,26,45,.92)}
+.fl-chips .btn.on{background:rgba(71,191,217,.18);border-color:var(--cyan);color:#bfefff}
+.stage.fl-on .fl-io:not([hidden]){display:flex;flex-wrap:nowrap;gap:4px 8px;align-items:center;position:absolute;inset-inline:10px;z-index:6;overflow-x:auto;overflow-y:hidden;white-space:nowrap;background:rgba(10,17,30,.9);border:1px solid var(--edge2);border-radius:10px;padding:4px 10px;font-size:11.5px;scrollbar-width:thin}
+.stage.fl-on .fl-io.full:not([hidden]){flex-wrap:wrap;white-space:normal;max-height:40%;overflow-y:auto}
+.fl-run{padding:1px 7px;border-radius:6px;font-weight:700}.fl-run.ok{background:#1f5a34;color:#bff0c9}.fl-run.bad{background:#5a1f1f;color:#ffc9c0}
+.fl-bit{display:inline-flex;align-items:center;gap:4px;color:var(--mute);white-space:nowrap}
+.fl-bit i{width:9px;height:9px;border-radius:50%;background:#2b3444;box-shadow:inset 0 0 0 1px #445}
+.fl-bit.on{color:#e8fff0}.fl-bit.on i{background:#4cff7a;box-shadow:0 0 6px #4cff7a}
+@media (max-width:900px){
+  .stage.fl-on .fl-chips{inset-inline-start:6px;max-width:94%}
+  .fl-chips .btn{padding:3px 8px;font-size:12px}
+  .stage.fl-on .fl-io:not([hidden]){inset-inline:4px}
+  .fl-lab{display:none}
+}
+/* project documents dialog */
+.doc{display:flex;flex-direction:column;gap:8px;max-width:min(980px,94vw)}
+.doc-tabs{flex-wrap:wrap}
+.doc-acts{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.doc-wrap{max-height:56vh;overflow:auto;border:1px solid var(--edge);border-radius:8px}
+.doc-t{border-collapse:collapse;width:100%;font-size:12.5px}
+.doc-t th{position:sticky;top:0;background:#242269;color:#fff;text-align:start;padding:6px 8px;font-weight:700}
+.doc-t td{padding:5px 8px;border-top:1px solid var(--edge);vertical-align:top}
+.doc-t tr:nth-child(even) td{background:rgba(255,255,255,.03)}
+
+.fl-tag text{fill:#cfd8e6;font-size:10px;font-weight:700;text-anchor:middle;font-family:system-ui,Segoe UI,Arial;paint-order:stroke;stroke:#0b121f;stroke-width:3px}
+.fl-tag.live text{fill:#FDC300}
+.fl-area{font-weight:700;color:var(--cyan);margin-inline-start:4px}
+.fl-more{background:none;border:1px solid var(--edge2);color:var(--mute);border-radius:6px;font:inherit;font-size:11px;padding:1px 6px;cursor:pointer}
+@media (max-width:900px){
+  #viewSeg .btn[data-v=all]{font-size:0;padding-inline:9px}
+  #viewSeg .btn[data-v=all]::before{content:'🏭';font-size:15px}
+}
+@media (max-width:420px){ #viewSeg .btn{padding-inline:7px} }

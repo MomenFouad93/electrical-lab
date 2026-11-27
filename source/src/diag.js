@@ -124,7 +124,8 @@
       for (const e of sim.elems) if (e.kind === 'Z' && e.na && e.r < 2e4 && e.tag !== 'lk' && e.tag !== 'ins') closed.add(e.part + ':' + e.tag);
       const ev = EL.events.splice(0);
       rec.events.push(...ev.map((x) => Object.assign({ step: rec.steps.length }, x)));
-      rec.steps.push(Object.assign({ label, kind, parts, closed, t: c.time, shorts: !!(sim.shorts && sim.shorts.length) }, extra || {}));
+      const wires = {}; if (sim.wireI) for (const [k, v] of sim.wireI) wires[k] = v;
+      rec.steps.push(Object.assign({ label, kind, parts, closed, wires, t: c.time, shorts: !!(sim.shorts && sim.shorts.length) }, extra || {}));
     };
     const L = (en, ar) => A(en, ar);
     const step = (label, kind, secs, mut, hold) => { rec.curLabel = label; rec.curKind = kind; if (mut) mut(); run(secs); snap(label, kind); if (hold) hold(); };
@@ -332,8 +333,131 @@
   }
   Dg.whyNot = whyNot;
 
+  /* ---------- wires: In <= Iz, motor cables, overload settings against the nameplate ---------- */
+  const PASS3 = [['1', '2'], ['3', '4'], ['5', '6']];
+  const OCP = /^(MCB1|MCB3|MPCB|FUSE|OL)$/; // overcurrent protective devices
+  function passPairs(p) {
+    const t = p.type;
+    if (/^(CONT3|MCB3|MPCB|ISOL3|OL)$/.test(t)) return PASS3;
+    if (/^(MCB1|FUSE)$/.test(t)) return [['1', '2']];
+    if (/^CAB\d$/.test(t)) return EL.pinsOf(p).filter((q) => /^a\d$/.test(q.id)).map((q) => [q.id, 'b' + q.id.slice(1)]);
+    return contactPairs(p);
+  }
+  function staticNets(c) {
+    const uf = new EL.UF(), add = (r) => uf.add(r);
+    for (const p of c.parts) { const d = D[p.type]; if (!d) continue; for (const q of EL.pinsOf(p)) add(p.id + '.' + q.id); if (d.ties) for (const t of d.ties(p)) for (let i = 1; i < t.length; i++) uf.union(p.id + '.' + t[0], p.id + '.' + t[i]); }
+    const lab = new Map();
+    for (const p of c.parts) { const d = D[p.type]; if (!d || !d.netlabel) continue; const nm = String(p.props.name || '').trim().toUpperCase(); if (!nm) continue; const r = p.id + '.n'; if (lab.has(nm)) uf.union(lab.get(nm), r); else lab.set(nm, r); }
+    const pw = c.wires.filter((w) => !w.kind && EL.partById(c, w.a.split('.')[0]) && EL.partById(c, w.b.split('.')[0]));
+    for (const w of pw) { add(w.a); add(w.b); uf.union(w.a, w.b); }
+    const nets = new Map(), net = (n) => nets.get(n) || nets.set(n, { pins: [], wires: [] }).get(n);
+    for (const p of c.parts) if (D[p.type]) for (const q of EL.pinsOf(p)) net(uf.find(p.id + '.' + q.id)).pins.push(p.id + '.' + q.id);
+    for (const w of pw) net(uf.find(w.a)).wires.push(w);
+    return { uf, nets, find: (r) => uf.find(r), get: (n) => nets.get(n) || { pins: [], wires: [] } };
+  }
+  /* nets downstream of a device: through switching contacts, cables and terminals; stops at other protective devices */
+  function downstream(c, G, dev, passOL) {
+    const pinIds = EL.pinsOf(dev).map((q) => q.id), outs0 = pinIds.filter((x) => /^[246]$/.test(x)), ins0 = pinIds.filter((x) => /^[135]$/.test(x));
+    const isSrcNet = (n) => G.get(n).pins.some((r) => { const q = EL.partById(c, r.split('.')[0]); return q && kindOf(q) === 'source'; });
+    let outs = outs0; if (outs0.some((x) => isSrcNet(G.find(dev.id + '.' + x))) && !ins0.some((x) => isSrcNet(G.find(dev.id + '.' + x)))) outs = ins0; // fed from the bottom
+    const seen = new Set(), q = [], wires = [], motors = [];
+    for (const x of outs) { const n = G.find(dev.id + '.' + x); if (!seen.has(n)) { seen.add(n); q.push(n); } }
+    while (q.length) {
+      const n = q.shift(), N = G.get(n);
+      for (const w of N.wires) if (!wires.includes(w)) wires.push(w);
+      for (const r of N.pins) {
+        const [pid, pin] = r.split('.'); if (pid === dev.id) continue;
+        const p = EL.partById(c, pid); if (!p) continue;
+        if (/^(MOT3|MOT1)$/.test(p.type)) { motors.push([p, pin]); continue; }
+        if (OCP.test(p.type) && !(passOL && p.type === 'OL')) continue;
+        if (kindOf(p) === 'source' || kindOf(p) === 'drive') continue;
+        for (const [a, b] of passPairs(p)) { const o = pin === a ? b : pin === b ? a : null; if (!o) continue; const m = G.find(pid + '.' + o); if (!seen.has(m)) { seen.add(m); q.push(m); } }
+      }
+    }
+    return { wires, motors };
+  }
+  /* current a motor draws through one line of a feeder at rated load (6-wire motor fed only on one winding end: phase current) */
+  function motorAmps(p, ends) {
+    const np = EL.motorPlate(p);
+    if (p.type !== 'MOT3' || p.props.conn !== '6wire') return np.inom;
+    const s1 = ends.some((x) => /^[UVW]1$/.test(x)), s2 = ends.some((x) => /^[UVW]2$/.test(x));
+    return s1 && s2 ? np.i400 : np.i400 / Math.sqrt(3);
+  }
+  function wireChecks(c0, c, rec, steady, add, mark) {
+    const WS = EL.WIRE, G = staticNets(c0), wl = (w) => WS.label2(c0, w), mm = (w) => WS.mm2(c0, w), iz = (w) => WS.izOf(c0, w), std = 'IEC 60364-4-43 §433.1 (Ib ≤ In ≤ Iz), IEC 60364-5-52 B2';
+    // 1. protective device rating against the wires it protects
+    for (const dev of c0.parts) {
+      if (!OCP.test(dev.type) || !meta(dev).rating) continue;
+      const In = meta(dev).rating(dev); if (!(In > 0)) continue;
+      const ds = downstream(c0, G, dev, false), bad = ds.wires.filter((w) => In > iz(w) + 1e-9);
+      if (!bad.length) continue;
+      bad.sort((a, b) => iz(a) - iz(b));
+      const w = bad[0], more = bad.length - 1, devTxt = dev.tag + ' (' + (dev.type === 'OL' || dev.type === 'MPCB' ? 'Ir ' : '') + (Number.isInteger(In) ? In : fix1(In)) + ' A)';
+      add('warn', 'in_gt_iz', A(devTxt + ' protects wire ' + wl(w) + ' of ' + mm(w) + ' mm², which carries only Iz ' + iz(w) + ' A' + (more ? ' (and ' + more + ' more wire(s) too small)' : '') + '. In must not be above Iz.', devTxt + ' بيحمي السلك ' + wl(w) + ' مقاس ' + mm(w) + ' مم² وتحمّله Iz ' + iz(w) + ' أمبير بس' + (more ? ' (و' + more + ' سلك تاني صغيرين)' : '') + '. لازم In ميزيدش عن Iz.'),
+        { refs: [dev.id, w.a], std, why: A('An overload between Iz and In heats the wire above 70 °C and the protection does not trip.', 'أي حمل زيادة بين Iz و In بيسخّن السلك فوق 70 درجة والحماية مش بتفصل.'), fix: A('Use a bigger wire (select the wire, Wire size) or a smaller rating for ' + dev.tag + '.', 'استخدم سلك أكبر (اختار السلك، مقاس السلك) أو قيمة أصغر لـ' + dev.tag + '.') });
+      mark(dev.id, 'q', A('rating above the wire Iz', 'القيمة أكبر من تحمّل السلك')); mark(w.a, 'q', A('wire too small for ' + dev.tag, 'السلك صغير على ' + dev.tag));
+    }
+    // 2. motor cables and overload settings against the nameplate
+    for (const p of c0.parts) {
+      if (!/^(MOT3|MOT1)$/.test(p.type) || !EL.motorPlate) continue;
+      const np = EL.motorPlate(p), main = p.type === 'MOT3' ? ['U1', 'V1', 'W1', 'U2', 'V2', 'W2'] : ['L', 'N'];
+      for (const pin of main) {
+        if (!EL.pin(p, pin)) continue;
+        const N = G.get(G.find(p.id + '.' + pin)), need = p.type === 'MOT3' && p.props.conn === '6wire' ? np.i400 / Math.sqrt(3) : np.inom;
+        const w = N.wires.find((x) => (x.a === p.id + '.' + pin || x.b === p.id + '.' + pin) && iz(x) < need - 1e-9);
+        if (!w) continue;
+        add('warn', 'motor_cable', A('Wire ' + wl(w) + ' is ' + mm(w) + ' mm² (Iz ' + iz(w) + ' A) but ' + p.tag + ' draws ' + fix1(need) + ' A in it at full load (nameplate In ' + fix1(np.inom) + ' A).', 'السلك ' + wl(w) + ' مقاس ' + mm(w) + ' مم² (تحمّله ' + iz(w) + ' أمبير) و' + p.tag + ' بيسحب فيه ' + fix1(need) + ' أمبير على الحمل الكامل (In على اللوحة ' + fix1(np.inom) + ' أمبير).'), { refs: [p.id, w.a], std, fix: A('Use a wire with Iz at least the motor current.', 'استخدم سلك تحمّله على الأقل قد تيار الموتور.') });
+        mark(p.id + '.' + pin, 'q', A('motor wire too small', 'سلك الموتور صغير'));
+        break;
+      }
+      if (p.type === 'MOT3' && p.props.volt === '230D' && p.props.conn === 'delta') {
+        const st = steady && steady.parts[p.id];
+        if (st && st.vac > 300) { add('error', 'motor_delta400', A(p.tag + ' has a 230 V Δ / 400 V Y winding but is linked in DELTA on ' + Math.round(st.vac) + ' V: each winding gets 400 V instead of 230 V.', p.tag + ' ملفاته 230 دلتا / 400 ستار ومتوصل دلتا على ' + Math.round(st.vac) + ' فولت: كل ملف واخد 400 بدل 230.'), { refs: [p.id], std: 'IEC 60034-1 (rated voltage)', fix: A('Link the terminal box in STAR (Y) for a 400 V supply.', 'غيّر كباري علبة الموتور لستار (Y) على مصدر 400 فولت.') }); mark(p.id, 'x', A('wrong winding connection', 'توصيل الملفات غلط')); }
+      }
+    }
+    for (const dev of c0.parts) {
+      if (!/^(OL|MPCB)$/.test(dev.type)) continue;
+      const ds = downstream(c0, G, dev, true); if (!ds.motors.length) continue;
+      const byM = new Map(); for (const [m, pin] of ds.motors) byM.set(m, (byM.get(m) || []).concat(pin));
+      if (byM.size !== 1) continue; // one protective device per motor; group protection is not judged
+      const [m, ends] = [...byM][0], Ireq = motorAmps(m, ends), set = meta(dev).rating(dev), np = EL.motorPlate(m);
+      const ph = Math.abs(Ireq - np.inom) > 0.01 ? A(' (phase current = In / √3, it sits in one winding branch)', ' (تيار الفاز = In / √3، لأنه في فرع ملف واحد)') : A('', '');
+      if (set < 0.9 * Ireq) { add('warn', 'ol_low', A(dev.tag + ' is set to ' + fix1(set) + ' A, below ' + fix1(Ireq) + ' A for ' + m.tag + ph[0] + '. It will trip in normal running.', dev.tag + ' مضبوط على ' + fix1(set) + ' أمبير، أقل من ' + fix1(Ireq) + ' أمبير لـ' + m.tag + ph[1] + '. هيفصل وهو شغال عادي.'), { refs: [dev.id, m.id], std: 'IEC 60947-4-1, IEC 60204-1 §7.3', fix: A('Set it to the nameplate current: ' + fix1(Ireq) + ' A (allowed 0.9 to 1.15 x).', 'اضبطه على تيار اللوحة: ' + fix1(Ireq) + ' أمبير (المسموح من 0.9 لـ 1.15 ضعف).') }); mark(dev.id, 'q', A('set too low for the nameplate', 'مضبوط أقل من اللوحة')); }
+      else if (set > 1.15 * Ireq) { add('warn', 'ol_high', A(dev.tag + ' is set to ' + fix1(set) + ' A, above 1.15 x ' + fix1(Ireq) + ' A of ' + m.tag + ph[0] + '. The motor can overheat without a trip.', dev.tag + ' مضبوط على ' + fix1(set) + ' أمبير، أكتر من 1.15 × ' + fix1(Ireq) + ' أمبير لـ' + m.tag + ph[1] + '. الموتور ممكن يسخن من غير ما يفصل.'), { refs: [dev.id, m.id], std: 'IEC 60947-4-1, IEC 60204-1 §7.3', fix: A('Set it to the nameplate current: ' + fix1(Ireq) + ' A.', 'اضبطه على تيار اللوحة: ' + fix1(Ireq) + ' أمبير.') }); mark(dev.id, 'q', A('set too high for the nameplate', 'مضبوط أعلى من اللوحة')); }
+    }
+    // 3. what the simulation saw: wires above Iz while running, wires burnt
+    const sw = (steady && steady.wires) || {};
+    for (const w of c0.wires) {
+      if (w.kind) continue;
+      if (w.burnt) { add('error', 'wire_burnt', A('Wire ' + wl(w) + ' is burnt (open). Replace it: select it and press Replace wire.', 'السلك ' + wl(w) + ' محروق (مفتوح). غيّره: اختاره واضغط غيّر السلك.'), { refs: [w.a, w.b] }); mark(w.a, 'x', A('burnt wire', 'سلك محروق')); continue; }
+      const I = sw[w.id] || 0, z = iz(w); if (I <= z * 1.02) continue;
+      const burn = I > 2.2 * z;
+      add(burn ? 'error' : 'warn', 'wire_over', A('Wire ' + wl(w) + ' (' + mm(w) + ' mm², Iz ' + z + ' A) carries ' + fix1(I) + ' A while running' + (burn ? ': its insulation will burn.' : ': it overheats.'), 'السلك ' + wl(w) + ' (' + mm(w) + ' مم²، تحمّله ' + z + ' أمبير) بيعدّي فيه ' + fix1(I) + ' أمبير وهو شغال' + (burn ? ': عزله هيتحرق.' : ': بيسخن زيادة.')), { refs: [w.a, w.b], std, fix: A('Use a bigger wire or reduce the load.', 'استخدم سلك أكبر أو قلل الحمل.') });
+      mark(w.a, burn ? 'x' : 'q', A('wire overloaded', 'السلك عليه حمل زيادة'));
+    }
+  }
+  Dg.wireUtil = { staticNets, downstream, motorAmps };
+
   /* ---------- main analysis ---------- */
   Dg.analyze = function (c0, o) {
+    /* wiring walk: does a coil / load get its supply from a given kind of device (PLC output, safety relay)? */
+    const viaDev = (c, p, test, depth) => {
+      const seen = new Set(EL.pinsOf(p).map((q) => p.id + '.' + q.id)); let front = [...seen];
+      for (let k = 0; k < (depth || 3); k++) {
+        const nx = [];
+        for (const r of front) for (const w of c.wires) {
+          const o = w.a === r ? w.b : w.b === r ? w.a : null; if (!o || seen.has(o)) continue; seen.add(o);
+          const [id, pin] = o.split('.'), q = c.parts.find((x) => x.id === id); if (!q || q.id === p.id) continue;
+          if (test(q, pin)) return q;
+          if (/^(OL|TERM\d*|TERMPE|JBOX|LUG)$/.test(q.type)) for (const qq of EL.pinsOf(q)) { const r2 = id + '.' + qq.id; if (!seen.has(r2) && (q.type !== 'OL' || /^9[5-8]$/.test(qq.id))) { seen.add(r2); nx.push(r2); } }
+        }
+        front = nx;
+      }
+      return null;
+    };
+    const plcOut = (q, pin) => (EL.defs[q.type].diag || {}).kind === 'plc' && /^Q\d+$/.test(pin) && q.props.mode === 'ladder';
+    const safetyOut = (q) => q.type === 'SAFE';
+    const hasProcess = !!(c0.plant && c0.plant.units && c0.plant.units.length);
     o = o || {};
     const F = [], marks = new Map();
     const hid = hiddenIn(c0), blind = hid;
@@ -456,13 +580,15 @@
       for (const [net] of seenM) for (const e of pathTo(seenM, net)) { const q = EL.partById(c, e.part); if (q && (meta(q).thermal || kindOf(q) === 'drive')) prot = q; }
       const everRan = rec.loads[p.id] && rec.loads[p.id].ever;
       if (!prot && (everRan || EL.pinsOf(p).every((q) => wired(p.id + '.' + q.id) || q.id === 'PE'))) { add('warn', 'no_overload', A(p.tag + ' has no overload protection (thermal overload relay, motor protection breaker or drive) in its supply path.', p.tag + ' مفيش له حماية أوفرلود (ثيرمال أو MPCB أو انفرتر) في مسار تغذيته.'), { refs: [p.id], std: 'IEC 60204-1 §7.3, IEC 60947-4-1', fix: A('Add a thermal overload relay (set to the nameplate current) or an MPCB.', 'ضيف ثيرمال أوفرلود (مضبوط على تيار اللوحة) أو MPCB.') }); mark(p.id, 'q', A('no overload protection', 'من غير حماية أوفرلود')); }
-      else if (prot && meta(prot).rating && meta(prot).thermal) {
+      else if (prot && meta(prot).rating && meta(prot).thermal && !(EL.motorPlate && /^(MOT3|MOT1)$/.test(p.type) && /^(OL|MPCB)$/.test(prot.type))) { // nameplate motors: judged on In below
         const run = steadyAmps(p);
         const set = meta(prot).rating(prot);
         if (run > 0.5 && set > 1.25 * run) { add('warn', 'ol_high', A(prot.tag + ' is set to ' + fix1(set) + ' A but ' + p.tag + ' runs at about ' + fix1(run) + ' A. It will not protect the motor.', prot.tag + ' مضبوط على ' + fix1(set) + ' أمبير و' + p.tag + ' شغال على حوالي ' + fix1(run) + ' أمبير. مش هيحمي الموتور.'), { refs: [prot.id, p.id], fix: A('Set it to the motor nameplate current.', 'اضبطه على تيار لوحة الموتور.') }); mark(prot.id, 'q', A('set too high', 'مضبوط عالي')); }
         else if (run > 0.5 && set < 0.85 * run) { add('warn', 'ol_low', A(prot.tag + ' is set to ' + fix1(set) + ' A, below the motor current of about ' + fix1(run) + ' A. It will trip during normal running.', prot.tag + ' مضبوط على ' + fix1(set) + ' أمبير أقل من تيار الموتور حوالي ' + fix1(run) + ' أمبير. هيفصل وهو شغال عادي.'), { refs: [prot.id, p.id], fix: A('Set it to the motor nameplate current.', 'اضبطه على تيار لوحة الموتور.') }); mark(prot.id, 'q', A('set too low', 'مضبوط واطي')); }
       }
     }
+    // wire sizes, protection against overload (In <= Iz) and motor nameplates
+    if (EL.WIRE) wireChecks(c0, c, rec, steady, add, mark);
     // E-stop / stop / start behaviour (judged on the circuit as it is wired; hidden faults are not revealed)
     const beh = exp; // behaviour is judged on the circuit as designed (hidden faults are symptoms, not design errors)
     const ES = beh.steps.find((s) => s.kind === 'estop'), PRE = beh.steps.find((s) => s.kind === 'preestop');
@@ -473,7 +599,7 @@
       for (const p of real) {
         const m = meta(p); if (!m.hazard || !rel) continue;
         const hasCoil = real.some((q) => kindOf(q) === 'coil' && meta(q).hazard);
-        if (stp && rel.parts[p.id].lv && stp.parts[p.id].lv && !F.some((f) => f.code === 'no_stop' && f.refs[0] === p.id)) { add('warn', 'no_stop', A(p.tag + ' keeps running after the STOP button is pressed.', p.tag + ' بيفضل شغال بعد ما بدوس ستوب.'), { refs: [p.id], fix: A('Check that the STOP contact (NC) is in series with the coil circuit and in the right branch.', 'اتأكد إن كونتاكت الستوب (NC) على التوالي مع دايرة الكويل وفي الفرع الصح.') }); mark(p.id, 'q', A('does not stop', 'مش بيقف')); }
+        if (stp && rel.parts[p.id].lv && stp.parts[p.id].lv && !viaDev(c0, EL.partById(c0, p.id) || p, safetyOut, 2) && !F.some((f) => f.code === 'no_stop' && f.refs[0] === p.id)) { add('warn', 'no_stop', A(p.tag + ' keeps running after the STOP button is pressed.', p.tag + ' بيفضل شغال بعد ما بدوس ستوب.'), { refs: [p.id], fix: A('Check that the STOP contact (NC) is in series with the coil circuit and in the right branch.', 'اتأكد إن كونتاكت الستوب (NC) على التوالي مع دايرة الكويل وفي الفرع الصح.') }); mark(p.id, 'q', A('does not stop', 'مش بيقف')); }
         if (prs && mid && prs.parts[p.id].lv && !mid.parts[p.id].lv && !rel.parts[p.id].lv && (m.kind === 'coil' || !hasCoil) && !F.some((f) => f.code === 'no_seal' && f.refs[0] === p.id)) { add(beh.ops.stop.length ? 'warn' : 'info', 'no_seal', A(p.tag + ' runs only while the START button is held (no hold-in contact).', p.tag + ' بيشتغل وانت ضاغط START بس (مفيش كونتاكت حجز).'), { refs: [p.id], why: A('A self-holding (seal-in) contact from the contactor in parallel with START is normally used for motor control.', 'كونتاكت الحجز من الكونتاكتور على التوازي مع START هو المعتاد في كنترول الموتور.') }); mark(p.id, 'w', A('no hold-in', 'من غير حجز')); }
       }
     }
@@ -506,7 +632,9 @@
         row.why = w.steps; row.cause = w.cause;
         row._gp = ((w.cause && w.cause.gates) || []).map((g) => g.part).concat(((w.cause && w.cause.edges) || []).map((e) => e.part));
         const condOnly = w.cause && (w.cause.type === 'gate' || w.cause.type === 'conditions');
-        if (status === 'never' && condOnly && !F.some((f) => f.refs && f.refs.includes(p.id))) {
+        if (status === 'never' && hasProcess && viaDev(c0, EL.partById(c0, p.id) || p, plcOut, 3) && !F.some((f) => f.refs && f.refs.includes(p.id) && f.code !== 'cond_only')) {
+          row.status = 'untested'; add('info', 'plc_process', A(p.tag + ' is switched by the PLC program from process signals (levels, bottles, positions). My automatic tests cannot create them: run the line in Test mode and watch it.', p.tag + ' بيتشغل من برنامج الـPLC حسب إشارات العملية (مستويات، زجاجات، أماكن). اختباراتي الأوتوماتيك مش بتقدر تعملها: شغّل الخط في وضع الاختبار وراقبه.'), { refs: [p.id] });
+        } else if (status === 'never' && condOnly && !F.some((f) => f.refs && f.refs.includes(p.id))) {
           row.status = 'untested'; add('info', 'cond_only', A(p.tag + ' did not operate in my tests. It has a supply path but only operates under conditions I did not create' + (w.steps[1] ? ' (' + w.steps[1][0] + ')' : '') + '.', p.tag + ' ما اشتغلش في اختباراتي. له مسار تغذية بس بيشتغل بشروط ما عملتهاش' + (w.steps[1] ? ' (' + w.steps[1][1] + ')' : '') + '.'), { refs: [p.id], steps: w.steps }); mark(p.id, 'w', A('works only on a condition (alarm / trip lamp?)', 'بيشتغل بشرط (لمبة إنذار؟)'));
         } else if (status === 'never' && !F.some((f) => f.refs && f.refs.some((r) => r.split('.')[0] === p.id) && (f.code === 'unwired_pin' || f.code === 'burn' || f.code === 'floating' || f.code === 'ic_supply_pin' || f.code === 'ic_nopower'))) {
           const fd = add('error', 'never', A(p.tag + ' never ' + (kindOf(p) === 'led' || p.type === 'LAMP' || p.type === 'LAMPH' ? 'lights' : kindOf(p) === 'motor' ? 'runs' : 'operates') + ' in any of the tests I ran.', p.tag + ' مش ' + (kindOf(p) === 'led' || p.type === 'LAMP' || p.type === 'LAMPH' ? 'بينور' : kindOf(p) === 'motor' ? 'بيدور' : 'بيشتغل') + ' في أي اختبار عملته.'), { refs: [p.id], why: w.steps[0] || null, steps: w.steps });
