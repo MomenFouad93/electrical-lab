@@ -1,0 +1,1376 @@
+#5563
+Pompe centrifuge (aspiration axiale, démontage arrière)
+Bomba centrífuga (sucção axial, desmontagem traseira)
+离心泵（端吸式，后开门结构）
+Центробежный насос (консольный, с осевым входом, демонтаж назад)
+Pompa wirowa (wlot osiowy, demontaż od tyłu)
+Centrifugálszivattyú (axiális szívás, hátrafelé kiszerelhető)
+Bomba centrífuga (aspiración axial, desmontaje trasero)
+
+#5564
+Pompe monocellulaire à aspiration axiale : une roue fermée tourne dans une volute en spirale. Le support de palier porte l'arbre, la garniture et la roue comme un seul ensemble.
+Bomba de estágio único com sucção axial: um rotor fechado gira dentro de uma carcaça em voluta. O suporte de mancais leva o eixo, o selo e o rotor como uma só unidade.
+单级端吸泵：闭式叶轮在螺旋形蜗壳内旋转。轴承架把轴、密封和叶轮作为一个整体支承。
+Одноступенчатый консольный насос: закрытое рабочее колесо вращается в спиральном корпусе. Опора подшипников несёт вал, уплотнение и колесо единым блоком.
+Jednostopniowa pompa z wlotem osiowym: zamknięty wirnik obraca się w spiralnym korpusie. Wspornik łożysk niesie wał, uszczelnienie i wirnik jako jeden zespół.
+Egyfokozatú, axiális szívású szivattyú: zárt járókerék forog a spirális csigaházban. A csapágybak egy egységként hordozza a tengelyt, a tömítést és a járókereket.
+Bomba monoetapa de aspiración axial: un impulsor cerrado gira dentro de una carcasa en voluta. El soporte de rodamientos lleva el eje, el sello y el impulsor como una sola unidad.
+
+#5565
+Boucles d'eau glacée, de tour de refroidissement, d'eau chaude et de condenseur, alimentation de chaudière, transferts d'utilités et circuits HVAC du site.
+Circuitos de água gelada, torre de resfriamento, água quente e condensador, alimentação de caldeira, transferência de utilidades e circuitos de HVAC da planta.
+厂区的冷冻水、冷却塔、热水和冷凝器回路，锅炉给水，公用工程输送和 HVAC 系统。
+Контуры охлаждённой воды, градирни, горячей воды и конденсатора, питание котла, перекачка в инженерных системах и контуры HVAC на площадке.
+Obiegi wody lodowej, wieży chłodniczej, wody gorącej i skraplacza, zasilanie kotła, przetłaczanie mediów i obiegi HVAC zakładu.
+Hűtött víz, hűtőtorony, melegvíz és kondenzátor körök, kazántápvíz, közműátemelés és HVAC körök a telephelyen.
+Circuitos de agua helada, torre de refrigeración, agua caliente y condensador, alimentación de caldera, trasiego de servicios y circuitos de HVAC de la planta.
+
+#5566
+Le liquide entre par l'ouïe sur l'axe, les aubes le projettent vers l'extérieur et la volute transforme la vitesse en pression au refoulement supérieur. Démontage arrière : support, garniture et roue sortent sans débrancher les tuyauteries.
+O líquido entra pelo olho no eixo, as palhetas o lançam para fora e a voluta transforma a velocidade em pressão no recalque superior. Desmontagem traseira: suporte, selo e rotor saem sem desconectar a tubulação.
+液体从轴线上的叶轮进口进入，叶片把它甩向外侧，蜗壳在顶部出口把速度转换为压力。后开门：轴承架、密封和叶轮可在不拆管道的情况下取出。
+Жидкость входит в горловину колеса по оси, лопатки отбрасывают её наружу, а спиральный корпус превращает скорость в давление на верхнем напорном патрубке. Демонтаж назад: опора, уплотнение и колесо снимаются без отсоединения трубопроводов.
+Ciecz wpływa do oczka wirnika w osi, łopatki wyrzucają ją na zewnątrz, a spirala zamienia prędkość na ciśnienie na górnym króćcu tłocznym. Demontaż od tyłu: wspornik, uszczelnienie i wirnik wychodzą bez odłączania rurociągów.
+A folyadék a tengelyen lévő szívótorkon lép be, a lapátok kifelé dobják, a csigaház pedig a felső nyomócsonknál a sebességet nyomássá alakítja. Hátrafelé kiszerelés: a csapágybak, a tömítés és a járókerék a csövek bontása nélkül kivehető.
+El líquido entra por el ojo en el eje, los álabes lo lanzan hacia fuera y la voluta convierte la velocidad en presión en la descarga superior. Desmontaje trasero: soporte, sello e impulsor salen sin desconectar las tuberías.
+
+#5567
+Garniture qui fuit, roulements chauds ou bruyants, bruit de gravier et pression qui chute dus à la cavitation, débit réduit par une bague d'usure usée, vibrations dues au désalignement.
+Selo vazando, rolamentos quentes ou ruidosos, ruído de cascalho e pressão caindo por cavitação, vazão menor por anel de desgaste gasto, vibração por desalinhamento.
+密封泄漏，轴承发热或有噪声，汽蚀引起的砂石声和压力下降，口环磨损导致流量降低，不对中引起振动。
+Течь уплотнения, горячие или шумные подшипники, «гравийный» шум и падение давления от кавитации, снижение подачи из-за изношенного щелевого кольца, вибрация от расцентровки.
+Przeciek uszczelnienia, gorące lub hałaśliwe łożyska, odgłos żwiru i spadek ciśnienia od kawitacji, mniejszy przepływ przez zużyty pierścień uszczelniający, drgania od niewspółosiowości.
+Szivárgó tömítés, forró vagy zajos csapágyak, kavicszaj és eső nyomás kavitáció miatt, kisebb szállítás kopott résgyűrű miatt, rezgés egytengelyűségi hiba miatt.
+Fuga por el sello, rodamientos calientes o ruidosos, ruido de grava y presión que cae por cavitación, menos caudal por un anillo de desgaste gastado, vibración por desalineación.
+
+#5568
+Vérifiez le niveau d'huile, la température des roulements et les vibrations ; jamais de marche à sec ni longtemps vanne fermée ; alignement laser après chaque intervention ; remplacez la bague d'usure quand le jeu a doublé.
+Verifique nível de óleo, temperatura dos rolamentos e vibração; nunca opere a seco nem por muito tempo com a válvula fechada; alinhe a laser após cada serviço; troque o anel de desgaste quando a folga dobrar.
+检查油位、轴承温度和振动；切勿干转或长时间关阀运行；每次检修后用激光对中；间隙翻倍时更换口环。
+Проверяйте уровень масла, температуру подшипников и вибрацию; никогда не работайте всухую или долго на закрытую задвижку; после каждой работы делайте лазерную центровку; меняйте щелевое кольцо, когда зазор удвоится.
+Sprawdzaj poziom oleju, temperaturę łożysk i drgania; nigdy nie pracuj na sucho ani długo przy zamkniętym zaworze; po każdej pracy osiuj laserowo; wymień pierścień uszczelniający, gdy luz się podwoi.
+Ellenőrizze az olajszintet, a csapágyhőmérsékletet és a rezgést; soha ne járassa szárazon vagy sokáig zárt szelep ellen; minden munka után lézeres tengelybeállítás; cserélje a résgyűrűt, ha a hézag megduplázódik.
+Compruebe el nivel de aceite, la temperatura de los rodamientos y la vibración; nunca la haga funcionar en seco ni mucho tiempo contra una válvula cerrada; alinee con láser tras cada trabajo; cambie el anillo de desgaste cuando la holgura se duplique.
+
+#5569
+Arbre de pompe
+Eixo da bomba
+泵轴
+Вал насоса
+Wał pompy
+Szivattyútengely
+Eje de la bomba
+
+#5570
+Porte la roue à l'avant et l'accouplement à l'arrière ; tourne dans les deux roulements.
+Leva o rotor na frente e o acoplamento atrás; gira nos dois rolamentos.
+前端装叶轮，后端装联轴器；由两个轴承支承旋转。
+Несёт рабочее колесо спереди и полумуфту сзади; вращается в двух подшипниках.
+Niesie wirnik z przodu i sprzęgło z tyłu; obraca się w dwóch łożyskach.
+Elöl a járókereket, hátul a tengelykapcsolót hordozza; a két csapágyban forog.
+Lleva el impulsor delante y el acoplamiento detrás; gira en los dos rodamientos.
+
+#5571
+Roulement côté pompe
+Rolamento interno (lado da bomba)
+内侧轴承
+Внутренний подшипник (со стороны насоса)
+Łożysko wewnętrzne
+Belső csapágy
+Rodamiento interior (lado bomba)
+
+#5572
+Roulement à billes à gorge profonde côté pompe ; reprend la charge radiale.
+Rolamento rígido de esferas junto ao lado da bomba; suporta a carga radial.
+靠近泵端的深沟球轴承；承受径向载荷。
+Радиальный шарикоподшипник со стороны насоса; воспринимает радиальную нагрузку.
+Łożysko kulkowe zwykłe od strony pompy; przenosi obciążenie promieniowe.
+Mélyhornyú golyóscsapágy a szivattyú felőli végen; a radiális terhelést veszi fel.
+Rodamiento rígido de bolas junto al lado de la bomba; soporta la carga radial.
+
+#5573
+Roulement côté accouplement (deux rangées)
+Rolamento externo (duas carreiras)
+外侧轴承（双列）
+Наружный подшипник (двухрядный)
+Łożysko zewnętrzne (dwurzędowe)
+Külső csapágy (kétsoros)
+Rodamiento exterior (dos hileras)
+
+#5574
+Roulement à contact oblique à deux rangées ; reprend la poussée axiale de la roue.
+Rolamento de contato angular de duas carreiras; segura o empuxo axial do rotor.
+双列角接触球轴承；承受叶轮的轴向推力。
+Двухрядный радиально-упорный шарикоподшипник; воспринимает осевое усилие колеса.
+Dwurzędowe łożysko skośne; przejmuje siłę osiową wirnika.
+Kétsoros ferde hatásvonalú golyóscsapágy; felveszi a járókerék axiális erejét.
+Rodamiento de contacto angular de dos hileras; soporta el empuje axial del impulsor.
+
+#5575
+Support de palier avec lanterne
+Suporte de mancais com adaptador
+带连接架的轴承架
+Опора подшипников с адаптером
+Wspornik łożysk z adapterem
+Csapágybak adapterrel
+Soporte de rodamientos con adaptador
+
+#5576
+Logement rempli d'huile pour les roulements, avec son propre pied ; la lanterne le boulonne au flasque arrière.
+Caixa com óleo para os rolamentos, com pé próprio; o adaptador a parafusa na tampa traseira.
+充油的轴承箱，自带支脚；连接架把它用螺栓固定在后盖板上。
+Заполненный маслом корпус подшипников со своей опорной лапой; адаптер крепит его болтами к задней крышке.
+Wypełniona olejem obudowa łożysk z własną łapą; adapter przykręca ją do pokrywy tylnej.
+Olajjal töltött csapágyház saját lábbal; az adapter csavarozza a hátlaphoz.
+Caja llena de aceite para los rodamientos, con su propio pie; el adaptador la atornilla a la tapa posterior.
+
+#5577
+Joints d'huile (joints à lèvre)
+Retentores (vedações de lábio)
+油封（唇形密封）
+Манжеты (сальники)
+Uszczelniacze olejowe (wargowe)
+Olajtömítések (szimmeringek)
+Retenes de aceite (de labio)
+
+#5578
+Les joints à lèvre en caoutchouc aux deux extrémités du support gardent l'huile dedans et la saleté dehors.
+Retentores de borracha nas duas pontas do suporte mantêm o óleo dentro e a sujeira fora.
+轴承架两端的橡胶唇形油封防止漏油并挡住脏物。
+Резиновые манжеты на обоих концах опоры удерживают масло и не пускают грязь.
+Gumowe uszczelniacze wargowe na obu końcach wspornika trzymają olej w środku, a brud na zewnątrz.
+A csapágybak két végén lévő gumi ajakos tömítések bent tartják az olajat, kint a szennyeződést.
+Los retenes de labio de goma en ambos extremos del soporte mantienen el aceite dentro y la suciedad fuera.
+
+#5579
+Flasque arrière (chambre de garniture)
+Tampa traseira (câmara do selo)
+后盖板（密封腔）
+Задняя крышка (камера уплотнения)
+Pokrywa tylna (komora uszczelnienia)
+Hátlap (tömítőkamra)
+Tapa posterior (cámara del sello)
+
+#5580
+Ferme l'arrière du corps et forme la chambre autour de la garniture mécanique.
+Fecha a traseira da carcaça e forma a câmara em volta do selo mecânico.
+封闭泵壳后部，并形成机械密封周围的密封腔。
+Закрывает заднюю часть корпуса и образует камеру вокруг торцевого уплотнения.
+Zamyka tył korpusu i tworzy komorę wokół uszczelnienia mechanicznego.
+Lezárja a ház hátsó részét, és kamrát képez a csúszógyűrűs tömítés körül.
+Cierra la parte trasera de la carcasa y forma la cámara alrededor del sello mecánico.
+
+#5581
+Garniture mécanique
+Selo mecânico
+机械密封
+Торцевое уплотнение
+Uszczelnienie mechaniczne
+Csúszógyűrűs tömítés
+Sello mecánico
+
+#5582
+Une face en carbone chargée par ressort tourne contre un grain fixe en SiC tenu dans le flasque de garniture. Un mince film de liquide entre les faces assure l'étanchéité et les refroidit.
+Uma face de carbono carregada por mola gira contra uma sede fixa de SiC presa na sobreposta. Uma fina película de líquido entre as faces veda e as resfria.
+弹簧加载的碳石墨动环紧贴固定在压盖内的 SiC 静环旋转。端面之间的薄液膜起密封和冷却作用。
+Подпружиненное графитовое кольцо вращается по неподвижному кольцу из SiC, закреплённому в крышке уплотнения. Тонкая плёнка жидкости между поверхностями герметизирует и охлаждает их.
+Dociskany sprężyną pierścień węglowy obraca się po nieruchomym gnieździe z SiC osadzonym w pokrywie dławnicy. Cienki film cieczy między powierzchniami uszczelnia je i chłodzi.
+A rugóval terhelt szén csúszógyűrű a tömítésfedélben rögzített álló SiC ellengyűrűn forog. A felületek közti vékony folyadékfilm tömít és hűt.
+Una cara de carbono cargada por muelle gira contra un asiento fijo de SiC sujeto en la brida del sello. Una fina película de líquido entre las caras sella y las refrigera.
+
+#5583
+Clavettes (roue et accouplement)
+Chavetas (rotor e acoplamento)
+键（叶轮和联轴器）
+Шпонки (колесо и полумуфта)
+Wpusty (wirnik i sprzęgło)
+Reteszek (járókerék és tengelykapcsoló)
+Chavetas (impulsor y acoplamiento)
+
+#5584
+Des clavettes parallèles solidarisent la roue et le moyeu d'accouplement avec l'arbre.
+Chavetas paralelas travam o rotor e o cubo do acoplamento no eixo.
+平键把叶轮和联轴器轮毂锁定在轴上。
+Призматические шпонки фиксируют рабочее колесо и ступицу полумуфты на валу.
+Wpusty pryzmatyczne łączą wirnik i piastę sprzęgła z wałem.
+Párhuzamos reteszek rögzítik a járókereket és a tengelykapcsoló agyát a tengelyhez.
+Chavetas paralelas fijan el impulsor y el cubo del acoplamiento al eje.
+
+#5585
+Roue fermée
+Rotor fechado
+闭式叶轮
+Закрытое рабочее колесо
+Wirnik zamknięty
+Zárt járókerék
+Impulsor cerrado
+
+#5586
+Aubes courbes entre deux flasques ; l'ouïe est face à l'aspiration.
+Palhetas curvas entre dois discos; o olho fica voltado para a sucção.
+两块盖板之间的弯曲叶片；叶轮进口朝向吸入口。
+Изогнутые лопатки между двумя дисками; горловина обращена к всасыванию.
+Zakrzywione łopatki między dwiema tarczami; oczko skierowane jest do ssania.
+Ívelt lapátok két fedőtárcsa között; a szívótorok a szívóoldal felé néz.
+Álabes curvos entre dos discos; el ojo mira hacia la aspiración.
+
+#5587
+Écrou de roue
+Porca do rotor
+叶轮螺母
+Гайка рабочего колеса
+Nakrętka wirnika
+Járókerék-anya
+Tuerca del impulsor
+
+#5588
+Maintient la roue en bout d'arbre ; le filetage est inverse au sens de rotation pour qu'il se serre tout seul.
+Segura o rotor na ponta do eixo; a rosca é contra a rotação para que se aperte sozinha.
+把叶轮固定在轴端；螺纹方向与旋转方向相反，可自动锁紧。
+Удерживает колесо на конце вала; резьба направлена против вращения, поэтому гайка самозатягивается.
+Utrzymuje wirnik na końcu wału; gwint jest przeciwny do obrotów, więc sam się dokręca.
+A járókereket a tengelyvégen tartja; a menet a forgással ellentétes, így magától húzódik.
+Sujeta el impulsor en el extremo del eje; la rosca va contra el giro para que se autoapriete.
+
+#5589
+Joint de corps
+Junta da carcaça
+泵壳垫片
+Прокладка корпуса
+Uszczelka korpusu
+Háztömítés
+Junta de la carcasa
+
+#5590
+Assure l'étanchéité entre le corps et le flasque arrière.
+Veda a junção entre a carcaça e a tampa traseira.
+密封泵壳与后盖板之间的接合面。
+Уплотняет стык между корпусом и задней крышкой.
+Uszczelnia połączenie korpusu z pokrywą tylną.
+Tömíti a ház és a hátlap közti illesztést.
+Sella la unión entre la carcasa y la tapa posterior.
+
+#5591
+Bague d'usure de corps
+Anel de desgaste da carcaça
+泵壳口环
+Щелевое кольцо корпуса
+Pierścień uszczelniający korpusu
+Ház résgyűrű
+Anillo de desgaste de la carcasa
+
+#5592
+Bague remplaçable avec un faible jeu face à l'ouïe de la roue ; empêche le refoulement de refluer vers l'aspiration.
+Anel substituível com pequena folga em relação ao olho do rotor; impede que o recalque volte para a sucção.
+可更换的环，与叶轮进口保持很小的间隙；阻止出口液体回流到吸入侧。
+Сменное кольцо с малым зазором к горловине колеса; не даёт жидкости с напора перетекать обратно на всасывание.
+Wymienny pierścień z małą szczeliną do oczka wirnika; zapobiega przeciekaniu z tłoczenia z powrotem do ssania.
+Cserélhető gyűrű kis réssel a járókerék szívótorkához; megakadályozza, hogy a nyomóoldal visszaszivárogjon a szívóoldalra.
+Anillo renovable con una pequeña holgura respecto al ojo del impulsor; impide que la descarga retorne a la aspiración.
+
+#5593
+Volute
+Carcaça em voluta
+蜗壳
+Спиральный корпус
+Korpus spiralny
+Csigaház
+Carcasa en voluta
+
+#5594
+Corps en spirale avec aspiration axiale (+X) et refoulement en haut ; reste boulonné aux tuyauteries.
+Carcaça espiral com sucção axial (+X) e recalque no topo; fica parafusada à tubulação.
+螺旋形泵壳，轴向吸入（+X），顶部排出；始终与管道用螺栓连接。
+Спиральный корпус с осевым всасыванием (+X) и верхним напором; остаётся прикрученным к трубам.
+Korpus spiralny z osiowym ssaniem (+X) i tłoczeniem u góry; pozostaje przykręcony do rurociągów.
+Spirálház axiális szívással (+X) és felső nyomócsonkkal; a csövekhez csavarozva marad.
+Carcasa espiral con aspiración axial (+X) y descarga superior; queda atornillada a las tuberías.
+
+#5595
+Pourquoi une pompe à garniture mécanique ne doit-elle jamais tourner à sec ?
+Por que uma bomba com selo mecânico nunca deve operar a seco?
+为什么带机械密封的泵绝不能干转？
+Почему насос с торцевым уплотнением нельзя запускать всухую?
+Dlaczego pompa z uszczelnieniem mechanicznym nigdy nie może pracować na sucho?
+Miért nem szabad csúszógyűrűs tömítésű szivattyút soha szárazon járatni?
+¿Por qué una bomba con sello mecánico nunca debe funcionar en seco?
+
+#5596
+Les faces de la garniture perdent leur film liquide, surchauffent et se fissurent
+As faces do selo perdem a película de líquido, superaquecem e trincam
+密封端面失去液膜，过热并开裂
+Поверхности уплотнения теряют жидкостную плёнку, перегреваются и трескаются
+Powierzchnie uszczelnienia tracą film cieczy, przegrzewają się i pękają
+A csúszófelületek elveszítik a folyadékfilmet, túlmelegszenek és megrepednek
+Las caras del sello pierden su película de líquido, se recalientan y se agrietan
+
+#5597
+La volute rouille
+A voluta enferruja
+蜗壳生锈
+Корпус ржавеет
+Spirala rdzewieje
+A csigaház rozsdásodik
+La voluta se oxida
+
+#5598
+L'accouplement patine
+O acoplamento patina
+联轴器打滑
+Муфта проскальзывает
+Sprzęgło się ślizga
+A tengelykapcsoló megcsúszik
+El acoplamiento patina
+
+#5599
+Bruit de gravier dans la pompe et la pression de refoulement ne cesse de baisser. Cause la plus probable ?
+Ruído de cascalho na bomba e a pressão de recalque continua caindo. Causa mais provável?
+泵内有砂石声，出口压力不断下降。最可能的原因？
+В насосе «гравийный» шум, давление на напоре продолжает падать. Наиболее вероятная причина?
+Odgłos żwiru w pompie, a ciśnienie tłoczenia ciągle spada. Najbardziej prawdopodobna przyczyna?
+Kavicszaj a szivattyúban, és a nyomóoldali nyomás folyamatosan esik. Legvalószínűbb ok?
+Ruido de grava en la bomba y la presión de descarga sigue bajando. ¿Causa más probable?
+
+#5600
+Cavitation : pression d'aspiration trop basse (filtre colmaté, niveau de cuve bas)
+Cavitação: pressão de sucção baixa demais (filtro entupido, nível baixo do tanque)
+汽蚀：吸入压力过低（过滤器堵塞、储罐液位低）
+Кавитация: слишком низкое давление на всасывании (забит фильтр, низкий уровень в баке)
+Kawitacja: zbyt niskie ciśnienie ssania (zatkany filtr, niski poziom w zbiorniku)
+Kavitáció: túl alacsony szívónyomás (eltömődött szűrő, alacsony tartályszint)
+Cavitación: presión de aspiración demasiado baja (filtro obstruido, nivel bajo del tanque)
+
+#5601
+Trop d'huile dans le support
+Óleo demais no suporte
+轴承箱内油太多
+Слишком много масла в опоре
+Za dużo oleju we wsporniku
+Túl sok olaj a csapágybakban
+Demasiado aceite en el soporte
+
+#5602
+Bague d'usure trop serrée
+Anel de desgaste apertado demais
+口环间隙过小
+Щелевое кольцо слишком тугое
+Zbyt ciasny pierścień uszczelniający
+Túl szoros résgyűrű
+Anillo de desgaste demasiado ajustado
+
+#5603
+Moteur qui tourne en étoile
+Motor funcionando em estrela
+电机在星形接法下运行
+Двигатель работает на звезде
+Silnik pracuje w gwieździe
+A motor csillagban jár
+Motor funcionando en estrella
+
+#5604
+Principal avantage de la conception à démontage arrière ?
+Principal vantagem do projeto com desmontagem traseira?
+后开门结构的主要优点？
+Главное преимущество конструкции с демонтажем назад?
+Główna zaleta konstrukcji z demontażem od tyłu?
+A hátrafelé kiszerelhető kivitel fő előnye?
+¿Principal ventaja del diseño de desmontaje trasero?
+
+#5605
+La roue, la garniture et les roulements sortent sans toucher aux tuyauteries
+Rotor, selo e rolamentos saem sem mexer na tubulação
+叶轮、密封和轴承可以取出而不必动管道
+Колесо, уплотнение и подшипники снимаются, не трогая трубы
+Wirnik, uszczelnienie i łożyska wychodzą bez ruszania rurociągów
+A járókerék, a tömítés és a csapágyak a csövek megbontása nélkül kivehetők
+Impulsor, sello y rodamientos salen sin tocar las tuberías
+
+#5606
+Elle ne nécessite pas d'alignement
+Não precisa de alinhamento
+不需要对中
+Не требует центровки
+Nie wymaga osiowania
+Nem kell tengelybeállítás
+No necesita alineación
+
+#5607
+Elle est auto-amorçante
+É autoescorvante
+它是自吸式的
+Он самовсасывающий
+Jest samozasysająca
+Önfelszívó
+Es autocebante
+
+#5608
+Elle n'a pas de garniture
+Não tem selo
+它没有密封
+У него нет уплотнения
+Nie ma uszczelnienia
+Nincs tömítése
+No tiene sello
+
+#5609
+Pompe à engrenages extérieurs
+Bomba de engrenagens externas
+外啮合齿轮泵
+Шестерённый насос внешнего зацепления
+Pompa zębata o zazębieniu zewnętrznym
+Külső fogazású fogaskerékszivattyú
+Bomba de engranajes externos
+
+#5610
+Pompe volumétrique : deux engrenages droits identiques tournent dans un corps ajusté ; l'un est entraîné, l'autre suit.
+Bomba de deslocamento positivo: duas engrenagens retas iguais giram num corpo justo; uma é acionada, a outra acompanha.
+容积式泵：两个相同的直齿轮在配合紧密的泵体内转动；一个为主动，另一个随动。
+Объёмный насос: две одинаковые прямозубые шестерни вращаются в плотно подогнанном корпусе; одна ведущая, другая ведомая.
+Pompa wyporowa: dwa jednakowe koła zębate o zębach prostych obracają się w ciasno pasowanym korpusie; jedno jest napędzane, drugie się za nim obraca.
+Térfogat-kiszorításos szivattyú: két egyforma egyenes fogazású fogaskerék forog egy szorosan illeszkedő házban; az egyiket hajtják, a másik követi.
+Bomba volumétrica: dos engranajes rectos iguales giran en un cuerpo ajustado; uno es motriz, el otro lo sigue.
+
+#5611
+Circuits d'huile de lubrification, centrales hydrauliques et transfert de liquides épais comme les sirops, la glycérine et les bases de pommades.
+Sistemas de óleo lubrificante, unidades hidráulicas e transferência de líquidos espessos como xaropes, glicerina e bases de pomadas.
+润滑油系统、液压站，以及糖浆、甘油、软膏基质等黏稠液体的输送。
+Системы смазочного масла, гидростанции и перекачка густых жидкостей: сиропов, глицерина, мазевых основ.
+Układy oleju smarnego, zasilacze hydrauliczne i przetłaczanie gęstych cieczy, takich jak syropy, gliceryna i podłoża maści.
+Kenőolaj-rendszerek, hidraulikus tápegységek és sűrű folyadékok, például szirupok, glicerin és kenőcsalapok szállítása.
+Sistemas de aceite de lubricación, centrales hidráulicas y trasiego de líquidos espesos como jarabes, glicerina y bases de pomadas.
+
+#5612
+Là où les dents se désengrènent, un espace s'ouvre et aspire le liquide ; il est transporté par l'extérieur entre les dents et le corps, puis expulsé là où les dents s'engrènent à nouveau. Le débit dépend de la vitesse, pas de la pression.
+Onde os dentes saem do engrenamento abre-se um espaço que aspira o líquido; ele é levado por fora entre os dentes e o corpo e expulso onde os dentes engrenam de novo. A vazão é dada pela rotação, não pela pressão.
+轮齿脱开啮合处形成空腔，把液体吸入；液体沿外圈在齿间与泵体之间被带走，在轮齿重新啮合处被挤出。流量由转速决定，而不是由压力决定。
+Там, где зубья выходят из зацепления, открывается полость и всасывает жидкость; она переносится по периферии между зубьями и корпусом и выдавливается там, где зубья снова входят в зацепление. Подача задаётся скоростью, а не давлением.
+Tam, gdzie zęby wychodzą z zazębienia, otwiera się przestrzeń i zasysa ciecz; jest ona przenoszona po obwodzie między zębami a korpusem i wypychana tam, gdzie zęby znów się zazębiają. Wydajność zależy od prędkości, nie od ciśnienia.
+Ahol a fogak kilépnek a kapcsolódásból, tér nyílik és beszívja a folyadékot; ezt a fogak és a ház között kívül körbeviszik, és ott nyomják ki, ahol a fogak újra kapcsolódnak. A szállítást a fordulatszám szabja meg, nem a nyomás.
+Donde los dientes salen del engrane se abre un espacio que aspira el líquido; este se transporta por fuera entre los dientes y el cuerpo y se expulsa donde los dientes vuelven a engranar. El caudal lo fija la velocidad, no la presión.
+
+#5613
+Coussinets et plaques latérales usés : fuite interne et faible débit ; sifflement dû à la cavitation avec un liquide épais ; fuites à l'étanchéité d'arbre ; un refoulement fermé sans soupape de décharge peut faire éclater le corps ou casser l'arbre.
+Buchas e placas laterais gastas causam escorregamento interno e baixa vazão; ruído de assobio por cavitação com líquido espesso; vazamento na vedação do eixo; recalque fechado sem válvula de alívio pode estourar o corpo ou quebrar o eixo.
+轴套和侧板磨损会造成内泄和流量低；输送稠液时汽蚀会发出啸叫；轴封泄漏；出口关闭且没有安全阀时可能胀裂泵体或折断轴。
+Изношенные втулки и боковые пластины дают внутренние перетечки и низкую подачу; вой от кавитации на густой жидкости; течь уплотнения вала; закрытый напор без предохранительного клапана может разорвать корпус или сломать вал.
+Zużyte tuleje i płytki boczne dają przecieki wewnętrzne i niską wydajność; wycie od kawitacji przy gęstej cieczy; przecieki uszczelnienia wału; zamknięte tłoczenie bez zaworu bezpieczeństwa może rozerwać korpus lub złamać wał.
+A kopott perselyek és oldallapok belső szivárgást és kis szállítást okoznak; sűrű folyadéknál kavitációs süvítés; tengelytömítés-szivárgás; nyomáshatároló szelep nélküli zárt nyomóoldal szétrepesztheti a házat vagy eltörheti a tengelyt.
+Casquillos y placas laterales gastados provocan fugas internas y poco caudal; silbido por cavitación con líquido espeso; fugas por el sello del eje; una descarga cerrada sin válvula de alivio puede reventar el cuerpo o romper el eje.
+
+#5614
+Montez toujours une soupape de décharge ; jamais de marche à sec ni refoulement fermé ; gardez un filtre à l'aspiration ; contrôlez débit et pression à la vitesse nominale pour juger l'usure.
+Instale sempre uma válvula de alívio; nunca opere a seco nem com o recalque fechado; mantenha um filtro na sucção; verifique vazão e pressão na rotação nominal para avaliar o desgaste.
+必须安装安全阀；切勿干转或关闭出口运行；吸入口保留过滤器；在额定转速下检查流量和压力以判断磨损。
+Всегда ставьте предохранительный клапан; никогда не работайте всухую или с закрытым напором; держите фильтр на всасывании; для оценки износа проверяйте подачу и давление на номинальной скорости.
+Zawsze montuj zawór bezpieczeństwa; nigdy nie pracuj na sucho ani z zamkniętym tłoczeniem; stosuj filtr na ssaniu; zużycie oceniaj, sprawdzając wydajność i ciśnienie przy prędkości znamionowej.
+Mindig szereljen nyomáshatároló szelepet; soha ne járassa szárazon vagy zárt nyomóoldallal; legyen szívóoldali szűrő; a kopás megítéléséhez névleges fordulaton mérje a szállítást és a nyomást.
+Instale siempre una válvula de alivio; nunca funcione en seco ni con la descarga cerrada; mantenga un filtro en la aspiración; compruebe caudal y presión a la velocidad nominal para juzgar el desgaste.
+
+#5615
+Corps de pompe
+Corpo da bomba
+泵体
+Корпус насоса
+Korpus pompy
+Szivattyúház
+Cuerpo de la bomba
+
+#5616
+Alésage en forme de 8 ajusté au plus près des sommets des dents ; orifice de refoulement en haut.
+Furo em forma de 8 bem justo às pontas dos dentes; conexão de recalque no topo.
+8 字形内腔，与齿顶紧密配合；出口在顶部。
+Расточка в форме цифры 8, плотно охватывающая вершины зубьев; напорный патрубок сверху.
+Otwór w kształcie cyfry 8 ciasno obejmujący wierzchołki zębów; króciec tłoczny u góry.
+8-as alakú furat, amely szorosan illeszkedik a fogcsúcsokhoz; nyomócsonk felül.
+Alojamiento en forma de 8 muy ajustado a las puntas de los dientes; conexión de descarga arriba.
+
+#5617
+Arbre menant
+Eixo motriz
+主动轴
+Ведущий вал
+Wał napędowy
+Hajtótengely
+Eje motriz
+
+#5618
+Entraîné par le moteur via un accouplement ; entraîne le pignon menant.
+Girado pelo motor através de um acoplamento; aciona a engrenagem motriz.
+由电机经联轴器驱动；带动主动齿轮。
+Вращается двигателем через муфту; приводит ведущую шестерню.
+Obracany przez silnik przez sprzęgło; napędza koło napędzające.
+A motor tengelykapcsolón keresztül forgatja; a hajtó fogaskereket hajtja.
+Lo gira el motor a través de un acoplamiento; acciona el engranaje motriz.
+
+#5619
+Solidarise le moyeu d'accouplement avec l'arbre menant.
+Trava o cubo do acoplamento no eixo motriz.
+把联轴器轮毂锁定在主动轴上。
+Фиксирует ступицу полумуфты на ведущем валу.
+Łączy piastę sprzęgła z wałem napędowym.
+A tengelykapcsoló agyát a hajtótengelyhez rögzíti.
+Fija el cubo del acoplamiento al eje motriz.
+
+#5620
+Pignon menant
+Engrenagem motriz
+主动齿轮
+Ведущая шестерня
+Koło napędzające
+Hajtó fogaskerék
+Engranaje motriz
+
+#5621
+Claveté sur l'arbre menant ; entraîne le pignon mené.
+Chavetada no eixo motriz; gira a engrenagem movida.
+用键固定在主动轴上；带动从动齿轮。
+Посажена на шпонке на ведущий вал; вращает ведомую шестерню.
+Osadzone na wpuście na wale napędowym; obraca koło bierne.
+Retesszel a hajtótengelyen; forgatja a hajtott fogaskereket.
+Enchavetado al eje motriz; hace girar el engranaje conducido.
+
+#5622
+Pignon mené
+Engrenagem movida
+从动齿轮
+Ведомая шестерня
+Koło bierne
+Hajtott fogaskerék
+Engranaje conducido
+
+#5623
+Entraîné par le pignon menant, tourne en sens inverse.
+Acionada pela engrenagem motriz, gira no sentido oposto.
+由主动齿轮带动，转向相反。
+Приводится ведущей шестернёй, вращается в обратную сторону.
+Napędzane przez koło napędzające, obraca się w przeciwną stronę.
+A hajtó fogaskerék hajtja, ellenkező irányba forog.
+Lo mueve el engranaje motriz y gira en sentido contrario.
+
+#5624
+Arbre mené
+Eixo movido
+从动轴
+Ведомый вал
+Wałek bierny
+Hajtott tengely
+Eje conducido
+
+#5625
+Arbre court supporté par un coussinet à chaque extrémité.
+Eixo curto apoiado numa bucha em cada ponta.
+短轴，两端各由一个轴套支承。
+Короткий вал, опирающийся на втулку с каждого конца.
+Krótki wałek podparty w tulei na każdym końcu.
+Rövid tengely, mindkét végén perselyben ágyazva.
+Eje corto apoyado en un casquillo en cada extremo.
+
+#5626
+Coussinets avant
+Buchas dianteiras
+前轴套
+Передние втулки
+Tuleje przednie
+Első perselyek
+Casquillos delanteros
+
+#5627
+Paliers lisses en bronze dans le couvercle avant, lubrifiés par le liquide pompé.
+Mancais de bucha de bronze na tampa dianteira, lubrificados pelo líquido bombeado.
+前盖内的青铜滑动轴承，由所输送的液体润滑。
+Бронзовые подшипники скольжения в передней крышке, смазываемые перекачиваемой жидкостью.
+Brązowe łożyska ślizgowe w pokrywie przedniej, smarowane pompowaną cieczą.
+Bronz siklócsapágyak az első fedélben, a szállított folyadék keni őket.
+Cojinetes de fricción de bronce en la tapa delantera, lubricados por el líquido bombeado.
+
+#5628
+Couvercle avant avec bride de fixation
+Tampa dianteira com flange de montagem
+带安装法兰的前盖
+Передняя крышка с монтажным фланцем
+Pokrywa przednia z kołnierzem mocującym
+Első fedél rögzítőkarimával
+Tapa delantera con brida de montaje
+
+#5629
+Porte les coussinets avant et l'étanchéité d'arbre ; le centrage positionne la pompe sur le support.
+Segura as buchas dianteiras e a vedação do eixo; a guia centraliza a bomba no suporte.
+装有前轴套和轴封；止口使泵在支架上对中。
+Несёт передние втулки и уплотнение вала; центрирующий буртик центрирует насос на кронштейне.
+Mieści tuleje przednie i uszczelnienie wału; występ centrujący ustawia pompę na wsporniku.
+Ebben vannak az első perselyek és a tengelytömítés; a központosító perem a konzolon központosítja a szivattyút.
+Aloja los casquillos delanteros y el sello del eje; el centrador centra la bomba en el soporte.
+
+#5630
+Joint à lèvre d'arbre
+Retentor do eixo
+轴唇形密封
+Манжета вала
+Uszczelniacz wargowy wału
+Tengely ajakos tömítés
+Retén de labio del eje
+
+#5631
+Empêche les fuites là où l'arbre menant sort de la pompe.
+Impede vazamento onde o eixo motriz sai da bomba.
+防止主动轴伸出泵外处的泄漏。
+Предотвращает течь в месте выхода ведущего вала из насоса.
+Zapobiega wyciekom tam, gdzie wał napędowy wychodzi z pompy.
+Megakadályozza a szivárgást ott, ahol a hajtótengely kilép a szivattyúból.
+Evita fugas donde el eje motriz sale de la bomba.
+
+#5632
+Coussinets arrière
+Buchas traseiras
+后轴套
+Задние втулки
+Tuleje tylne
+Hátsó perselyek
+Casquillos traseros
+
+#5633
+Seconde paire de coussinets en bronze dans le couvercle arrière.
+Segundo par de buchas de bronze na tampa traseira.
+后盖内的第二对青铜轴套。
+Вторая пара бронзовых втулок в задней крышке.
+Druga para tulei brązowych w pokrywie tylnej.
+A második bronzpersely-pár a hátsó fedélben.
+Segundo par de casquillos de bronce en la tapa trasera.
+
+#5634
+Couvercle arrière avec orifice d'aspiration
+Tampa traseira com conexão de sucção
+带吸入口的后盖
+Задняя крышка со всасывающим патрубком
+Pokrywa tylna z króćcem ssawnym
+Hátsó fedél szívócsonkkal
+Tapa trasera con conexión de aspiración
+
+#5635
+Ferme le corps ; l'aspiration entre ici (+X) sous l'engrènement.
+Fecha o corpo; a sucção entra aqui (+X) abaixo do engrenamento.
+封闭泵体；吸入口位于此处（+X），在齿轮啮合区下方。
+Закрывает корпус; всасывание входит здесь (+X) ниже зоны зацепления.
+Zamyka korpus; ssanie wchodzi tutaj (+X) poniżej zazębienia.
+Lezárja a házat; a szívás itt lép be (+X) a fogkapcsolódás alatt.
+Cierra el cuerpo; la aspiración entra aquí (+X) por debajo del engrane.
+
+#5636
+Vis traversantes
+Parafusos passantes
+贯穿螺栓
+Стяжные болты
+Śruby ściągające
+Átmenő csavarok
+Tornillos pasantes
+
+#5637
+Quatre longues vis CHC serrent couvercles et corps ensemble ; serrez en croix.
+Quatro parafusos longos prendem tampas e corpo; aperte em cruz.
+四根长内六角螺钉把前后盖与泵体夹紧；按对角顺序拧紧。
+Четыре длинных винта стягивают крышки и корпус; затягивайте крест-накрест.
+Cztery długie śruby ściągają pokrywy z korpusem; dokręcaj na krzyż.
+Négy hosszú csavar fogja össze a fedeleket és a házat; keresztben húzza meg.
+Cuatro tornillos largos aprietan tapas y cuerpo; apriete en cruz.
+
+#5638
+La vanne de refoulement d'une pompe à engrenages en marche est fermée et il n'y a pas de soupape de décharge. Que se passe-t-il ?
+A válvula de recalque de uma bomba de engrenagens em operação está fechada e não há válvula de alívio. O que acontece?
+运行中的齿轮泵出口阀被关闭，且没有安全阀。会发生什么？
+У работающего шестерённого насоса закрыта напорная задвижка, а предохранительного клапана нет. Что произойдёт?
+W pracującej pompie zębatej zamknięto zawór tłoczny, a nie ma zaworu bezpieczeństwa. Co się stanie?
+Egy működő fogaskerékszivattyú nyomóoldali szelepe zárva van, és nincs nyomáshatároló szelep. Mi történik?
+La válvula de descarga de una bomba de engranajes en marcha está cerrada y no hay válvula de alivio. ¿Qué ocurre?
+
+#5639
+La pression monte jusqu'à ce que quelque chose casse ou que le moteur disjoncte
+A pressão sobe até algo quebrar ou o motor desarmar
+压力持续升高，直到某个部件损坏或电机跳闸
+Давление растёт, пока что-то не сломается или не отключится двигатель
+Ciśnienie rośnie, aż coś pęknie lub silnik wyłączy się zabezpieczeniem
+A nyomás addig nő, amíg valami el nem törik vagy a motor le nem old
+La presión sube hasta que algo se rompe o el motor dispara
+
+#5640
+Le débit s'arrête simplement sans danger
+A vazão simplesmente para com segurança
+流量只是安全地停止
+Подача просто безопасно прекращается
+Przepływ po prostu bezpiecznie ustaje
+A szállítás egyszerűen biztonságosan leáll
+El caudal simplemente se detiene sin peligro
+
+#5641
+Elle recircule comme une pompe centrifuge
+Ela recircula como uma bomba centrífuga
+像离心泵一样内部循环
+Он циркулирует внутри, как центробежный насос
+Recyrkuluje jak pompa wirowa
+Úgy kering vissza, mint egy centrifugálszivattyú
+Recircula como una bomba centrífuga
+
+#5642
+Les engrenages patinent sur l'arbre
+As engrenagens patinam no eixo
+齿轮在轴上打滑
+Шестерни проскальзывают на валу
+Koła zębate ślizgają się na wale
+A fogaskerekek megcsúsznak a tengelyen
+Los engranajes patinan en el eje
+
+#5643
+Le débit d'une pompe à engrenages baisse avec l'âge à vitesse égale. Cause habituelle ?
+A vazão de uma bomba de engrenagens cai com o tempo na mesma rotação. Causa usual?
+齿轮泵在相同转速下流量随使用年限下降。通常原因？
+Подача шестерённого насоса со временем падает при той же скорости. Обычная причина?
+Wydajność pompy zębatej spada z wiekiem przy tej samej prędkości. Zwykła przyczyna?
+Egy fogaskerékszivattyú szállítása az idővel csökken azonos fordulaton. Szokásos ok?
+El caudal de una bomba de engranajes baja con los años a la misma velocidad. ¿Causa habitual?
+
+#5644
+Coussinets et faces latérales usés augmentent la fuite interne
+Buchas e faces laterais gastas aumentam o escorregamento interno
+轴套和侧面磨损，内泄增大
+Изношенные втулки и торцы увеличивают внутренние перетечки
+Zużyte tuleje i powierzchnie boczne zwiększają przecieki wewnętrzne
+A kopott perselyek és oldalfelületek növelik a belső szivárgást
+Casquillos y caras laterales gastados aumentan la fuga interna
+
+#5645
+Le moteur est devenu plus puissant
+O motor ficou mais forte
+电机变强了
+Двигатель стал сильнее
+Silnik stał się mocniejszy
+Erősebb lett a motor
+El motor se hizo más fuerte
+
+#5646
+La viscosité a augmenté
+A viscosidade aumentou
+黏度增加了
+Вязкость увеличилась
+Lepkość wzrosła
+Nőtt a viszkozitás
+Aumentó la viscosidad
+
+#5647
+La clavette manque
+Falta a chaveta
+缺了键
+Отсутствует шпонка
+Brak wpustu
+Hiányzik a retesz
+Falta la chaveta
+
+#5648
+Pompe pneumatique à double membrane (AODD)
+Bomba pneumática de duplo diafragma (AODD)
+气动双隔膜泵（AODD）
+Пневматический двухмембранный насос (AODD)
+Pneumatyczna pompa dwumembranowa (AODD)
+Sűrített levegős kettős membránszivattyú (AODD)
+Bomba neumática de doble diafragma (AODD)
+
+#5649
+Pompe volumétrique entraînée uniquement par l'air comprimé : deux membranes reliées par un arbre, un distributeur d'air et quatre clapets à bille.
+Bomba de deslocamento positivo acionada só por ar comprimido: dois diafragmas unidos por um eixo, uma válvula de ar e quatro válvulas de retenção de esfera.
+仅由压缩空气驱动的容积式泵：两个由轴相连的隔膜、一个配气阀和四个球形单向阀。
+Объёмный насос, приводимый только сжатым воздухом: две мембраны, соединённые валом, воздухораспределитель и четыре шаровых обратных клапана.
+Pompa wyporowa napędzana wyłącznie sprężonym powietrzem: dwie membrany połączone wałkiem, zawór powietrzny i cztery kulowe zawory zwrotne.
+Csak sűrített levegővel hajtott térfogat-kiszorításos szivattyú: két, tengellyel összekötött membrán, egy levegőszelep és négy golyós visszacsapó szelep.
+Bomba volumétrica accionada solo por aire comprimido: dos diafragmas unidos por un eje, una válvula de aire y cuatro válvulas de retención de bola.
+
+#5650
+Transfert depuis fûts et IBC d'éthanol et d'IPA en granulation et enrobage, détergents, boues et puisards. Aucune pièce électrique, donc utilisée en zones Ex (ATEX).
+Transferência de tambores e IBC de etanol e IPA na granulação e revestimento, detergentes, lodo e poços. Sem partes elétricas, por isso é usada em zonas Ex (ATEX).
+制粒和包衣中乙醇与 IPA 的桶装及 IBC 输送，清洗剂、污泥和集水坑。无电气部件，因此可用于 Ex（ATEX）防爆区。
+Перекачка этанола и IPA из бочек и IBC на грануляции и нанесении покрытий, моющих средств, шламов и приямков. Нет электрических частей, поэтому применяется в зонах Ex (ATEX).
+Przetłaczanie etanolu i IPA z beczek i IBC w granulacji i powlekaniu, detergentów, szlamów i studzienek. Brak części elektrycznych, więc stosowana w strefach Ex (ATEX).
+Etanol és IPA átfejtése hordóból és IBC-ből granulálásnál és bevonásnál, tisztítószerek, iszap és aknák. Nincs elektromos része, ezért Ex (ATEX) zónákban használják.
+Trasiego de etanol e IPA desde bidones e IBC en granulación y recubrimiento, detergentes, lodos y sumideros. Sin partes eléctricas, por eso se usa en zonas Ex (ATEX).
+
+#5651
+L'air pousse une membrane vers l'extérieur et vide cette chambre, tandis que l'arbre tire l'autre vers l'intérieur et la remplit. En fin de course, le distributeur d'air commute et le mouvement s'inverse. Les billes ne laissent passer le liquide que vers le haut.
+O ar empurra um diafragma para fora, descarregando essa câmara, enquanto o eixo puxa o outro para dentro e a enche. No fim do curso a válvula de ar comuta e o movimento se inverte. As esferas deixam o líquido passar só para cima.
+空气把一个隔膜向外推，排出该腔液体，同时轴把另一个隔膜向内拉，使其吸满。行程终点时配气阀换向，运动反向。球阀只允许液体向上流动。
+Воздух выталкивает одну мембрану наружу, опорожняя эту камеру, а вал втягивает другую внутрь и заполняет её. В конце хода воздухораспределитель переключается, и движение меняет направление. Шарики пропускают жидкость только вверх.
+Powietrze wypycha jedną membranę na zewnątrz, opróżniając tę komorę, a wałek wciąga drugą do środka i ją napełnia. Na końcu skoku zawór powietrzny przełącza i ruch się odwraca. Kulki przepuszczają ciecz tylko w górę.
+A levegő kifelé nyomja az egyik membránt, kiürítve azt a kamrát, közben a tengely befelé húzza a másikat és megtölti. A löket végén a levegőszelep átvált, és a mozgás megfordul. A golyók csak felfelé engedik a folyadékot.
+El aire empuja un diafragma hacia fuera, vaciando esa cámara, mientras el eje tira del otro hacia dentro y la llena. Al final de la carrera la válvula de aire conmuta y el movimiento se invierte. Las bolas solo dejan pasar el líquido hacia arriba.
+
+#5652
+Liquide à l'échappement d'air = membrane déchirée. Pompe qui cale ou tourne de façon irrégulière : distributeur d'air grippé ou givré. Faible débit avec des courses normales : billes ou sièges usés.
+Líquido saindo pelo escape de ar = diafragma rasgado. Bomba para ou funciona irregular: válvula de ar presa ou congelando. Vazão baixa com cursos normais: esferas ou sedes gastas.
+排气口出液 = 隔膜破裂。泵停顿或运行不稳：配气阀卡滞或结冰。行程正常但流量低：球或阀座磨损。
+Жидкость из выхлопа воздуха = порвана мембрана. Насос останавливается или работает рывками: воздухораспределитель залипает или обмерзает. Низкая подача при нормальных ходах: изношены шарики или сёдла.
+Ciecz z wydechu powietrza = rozdarta membrana. Pompa staje lub pracuje nierówno: zawór powietrzny się zacina lub oblodził. Mała wydajność przy normalnych skokach: zużyte kulki lub gniazda.
+Folyadék a levegőkipufogón = szakadt membrán. A szivattyú leáll vagy szabálytalanul jár: a levegőszelep beragad vagy jegesedik. Kis szállítás normál löketekkel: kopott golyók vagy ülékek.
+Líquido por el escape de aire = diafragma roto. La bomba se cala o va irregular: válvula de aire agarrotada o congelada. Poco caudal con carreras normales: bolas o asientos gastados.
+
+#5653
+Alimentez en air propre, sec et régulé ; mettez la pompe à la terre avec les solvants (électricité statique) ; vérifiez la présence de liquide dans le silencieux ; remplacez les membranes selon le planning et serrez uniformément les vis des chambres au couple.
+Alimente com ar limpo, seco e regulado; aterre a bomba com solventes (estática); verifique se há líquido no silenciador; troque os diafragmas conforme o plano e aperte os parafusos das câmaras por igual com torque.
+供给清洁、干燥、经过调压的空气；输送溶剂时泵必须接地（防静电）；检查消声器是否有液体；按计划更换隔膜，并均匀按扭矩拧紧腔体螺栓。
+Подавайте чистый, сухой, отрегулированный воздух; при работе с растворителями заземляйте насос (статика); проверяйте глушитель на наличие жидкости; меняйте мембраны по графику и равномерно затягивайте болты камер моментом.
+Zasilaj czystym, suchym, wyregulowanym powietrzem; przy rozpuszczalnikach uziemiaj pompę (ładunki elektrostatyczne); sprawdzaj, czy w tłumiku nie ma cieczy; wymieniaj membrany zgodnie z harmonogramem i dokręcaj śruby komór równomiernie momentem.
+Tiszta, száraz, szabályozott levegőt adjon; oldószereknél földelje a szivattyút (sztatikus töltés); ellenőrizze, nincs-e folyadék a hangtompítóban; ütemterv szerint cserélje a membránokat, és egyenletesen, nyomatékra húzza meg a kamracsavarokat.
+Alimente con aire limpio, seco y regulado; ponga la bomba a tierra con disolventes (estática); compruebe si hay líquido en el silenciador; cambie los diafragmas según el plan y apriete por igual al par los tornillos de las cámaras.
+
+#5654
+Section centrale (chambres d'air)
+Seção central (câmaras de ar)
+中间体（气腔）
+Центральная секция (воздушные камеры)
+Część środkowa (komory powietrzne)
+Középrész (légkamrák)
+Sección central (cámaras de aire)
+
+#5655
+Porte le coussinet de l'arbre et forme le côté air derrière chaque membrane.
+Segura a bucha do eixo e forma o lado do ar atrás de cada diafragma.
+装有轴套，并在每个隔膜后面形成气侧腔。
+Несёт втулку вала и образует воздушную сторону за каждой мембраной.
+Mieści tuleję wałka i tworzy stronę powietrzną za każdą membraną.
+Ebben van a tengelypersely, és ez képezi a levegőoldalt minden membrán mögött.
+Aloja el casquillo del eje y forma el lado del aire detrás de cada diafragma.
+
+#5656
+Arbre des membranes
+Eixo dos diafragmas
+隔膜轴
+Вал мембран
+Wałek membran
+Membrántengely
+Eje de los diafragmas
+
+#5657
+Relie les deux membranes pour que l'une refoule pendant que l'autre aspire.
+Une os dois diafragmas para que um empurre enquanto o outro aspira.
+连接两个隔膜，使一个排出时另一个吸入。
+Соединяет обе мембраны, чтобы одна нагнетала, пока другая всасывает.
+Łączy obie membrany, aby jedna tłoczyła, gdy druga zasysa.
+Összeköti a két membránt, hogy az egyik nyomjon, míg a másik szív.
+Une ambos diafragmas para que uno impulse mientras el otro aspira.
+
+#5658
+Membrane (gauche) avec plateaux
+Diafragma (esquerdo) com placas
+带压板的隔膜（左）
+Мембрана (левая) с шайбами
+Membrana (lewa) z talerzami
+Membrán (bal) tárcsákkal
+Diafragma (izquierdo) con placas
+
+#5659
+Membrane souple revêtue de PTFE, serrée sur son pourtour et boulonnée sur l'arbre entre deux plateaux.
+Membrana flexível com face de PTFE, presa na borda e parafusada ao eixo entre duas placas.
+表面覆 PTFE 的柔性膜片，边缘夹紧，用两块压板螺栓固定在轴上。
+Гибкая мембрана с PTFE-покрытием, зажатая по краю и закреплённая на валу между двумя шайбами.
+Elastyczna membrana z powierzchnią z PTFE, zaciśnięta na obrzeżu i przykręcona do wałka między dwoma talerzami.
+Rugalmas, PTFE bevonatú membrán, a peremén befogva, két tárcsa között a tengelyhez csavarozva.
+Membrana flexible con cara de PTFE, sujeta por el borde y atornillada al eje entre dos placas.
+
+#5660
+Membrane (droite) avec plateaux
+Diafragma (direito) com placas
+带压板的隔膜（右）
+Мембрана (правая) с шайбами
+Membrana (prawa) z talerzami
+Membrán (jobb) tárcsákkal
+Diafragma (derecho) con placas
+
+#5661
+Identique à celle de gauche ; fonctionne en opposition.
+Igual ao esquerdo; trabalha em oposição a ele.
+与左侧相同；动作与其相反。
+Такая же, как левая; работает в противофазе.
+Taka sama jak lewa; pracuje przeciwnie do niej.
+Ugyanolyan, mint a bal; azzal ellentétesen dolgozik.
+Igual que el izquierdo; trabaja en oposición a él.
+
+#5662
+Chambre liquide (gauche)
+Câmara de líquido (esquerda)
+液腔（左）
+Жидкостная камера (левая)
+Komora cieczy (lewa)
+Folyadékkamra (bal)
+Cámara de líquido (izquierda)
+
+#5663
+Chambre extérieure côté liquide, avec cols d'entrée et de sortie.
+Câmara externa do lado do líquido, com bocais de entrada e saída.
+液侧的外腔，带进口和出口接颈。
+Наружная камера со стороны жидкости, с входным и выходным патрубками.
+Zewnętrzna komora po stronie cieczy, z króćcami wlotu i wylotu.
+Külső kamra a folyadékoldalon, be- és kimeneti nyakkal.
+Cámara exterior del lado del líquido, con cuellos de entrada y salida.
+
+#5664
+Chambre liquide (droite)
+Câmara de líquido (direita)
+液腔（右）
+Жидкостная камера (правая)
+Komora cieczy (prawa)
+Folyadékkamra (jobb)
+Cámara de líquido (derecha)
+
+#5665
+Symétrique de la chambre gauche.
+Espelho da câmara esquerda.
+与左腔镜像对称。
+Зеркальное отражение левой камеры.
+Lustrzane odbicie lewej komory.
+A bal kamra tükörképe.
+Simétrica de la cámara izquierda.
+
+#5666
+Clapets à bille d'entrée
+Retenções de esfera de entrada
+进口球阀
+Входные шаровые клапаны
+Kulowe zawory zwrotne wlotowe
+Bemeneti golyós szelepek
+Retenciones de bola de entrada
+
+#5667
+La bille se soulève de son siège quand la chambre aspire et retombe quand elle refoule.
+A esfera sai da sede quando a câmara aspira e volta quando ela empurra.
+腔体吸入时球离开阀座，排出时球落回。
+Шарик отходит от седла, когда камера всасывает, и падает обратно, когда она нагнетает.
+Kulka unosi się z gniazda, gdy komora zasysa, i opada, gdy tłoczy.
+A golyó felemelkedik az ülékről, amikor a kamra szív, és visszaesik, amikor nyom.
+La bola se levanta de su asiento cuando la cámara aspira y vuelve a caer cuando impulsa.
+
+#5668
+Clapets à bille de sortie
+Retenções de esfera de saída
+出口球阀
+Выходные шаровые клапаны
+Kulowe zawory zwrotne wylotowe
+Kimeneti golyós szelepek
+Retenciones de bola de salida
+
+#5669
+S'ouvrent quand la chambre refoule, se ferment quand elle aspire pour que le refoulement ne puisse pas revenir.
+Abrem quando a câmara empurra e fecham quando ela aspira, para que o recalque não volte.
+腔体排出时打开，吸入时关闭，防止排出液体倒流。
+Открываются, когда камера нагнетает, закрываются, когда она всасывает, чтобы жидкость с напора не вернулась.
+Otwierają się, gdy komora tłoczy, zamykają, gdy zasysa, aby tłoczona ciecz nie wróciła.
+Nyitnak, amikor a kamra nyom, és zárnak, amikor szív, így a nyomott folyadék nem jöhet vissza.
+Se abren cuando la cámara impulsa y se cierran cuando aspira, para que la descarga no pueda volver.
+
+#5670
+Collecteur d'entrée avec pieds
+Coletor de entrada com pés
+带支脚的进口歧管
+Входной коллектор с опорами
+Kolektor wlotowy z nóżkami
+Bemeneti elosztó lábakkal
+Colector de entrada con patas
+
+#5671
+Le collecteur inférieur alimente les deux chambres ; orifice d'aspiration côté +X.
+O coletor inferior alimenta as duas câmaras; conexão de sucção na ponta +X.
+底部歧管为两个腔体供液；吸入口在 +X 端。
+Нижний коллектор питает обе камеры; всасывающий патрубок на конце +X.
+Dolny kolektor zasila obie komory; króciec ssawny na końcu +X.
+Az alsó elosztó mindkét kamrát táplálja; a szívócsonk a +X végen van.
+El colector inferior alimenta ambas cámaras; conexión de aspiración en el extremo +X.
+
+#5672
+Collecteur de sortie
+Coletor de saída
+出口歧管
+Выходной коллектор
+Kolektor wylotowy
+Kimeneti gyűjtő
+Colector de salida
+
+#5673
+Le collecteur supérieur réunit les deux chambres ; l'orifice de refoulement est orienté vers le haut.
+O coletor superior reúne as duas câmaras; a conexão de recalque aponta para cima.
+顶部歧管汇集两个腔体；出口朝上。
+Верхний коллектор собирает обе камеры; напорный патрубок направлен вверх.
+Górny kolektor zbiera z obu komór; króciec tłoczny skierowany w górę.
+A felső gyűjtő mindkét kamrát összegyűjti; a nyomócsonk felfelé néz.
+El colector superior reúne ambas cámaras; la conexión de descarga apunta hacia arriba.
+
+#5674
+Distributeur d'air avec silencieux
+Válvula de ar com silenciador
+带消声器的配气阀
+Воздухораспределитель с глушителем
+Zawór powietrzny z tłumikiem
+Levegőszelep hangtompítóval
+Válvula de aire con silenciador
+
+#5675
+Distributeur à tiroir qui envoie l'air d'un côté et met l'autre à l'échappement, en commutant à chaque fin de course ; le silencieux atténue l'échappement.
+Válvula de carretel que envia ar para um lado e escapa o outro, comutando a cada fim de curso; o silenciador reduz o ruído do escape.
+滑阀式配气阀，向一侧供气、另一侧排气，每次行程终点换向；消声器降低排气噪声。
+Золотниковый распределитель подаёт воздух в одну сторону и стравливает другую, переключаясь в конце каждого хода; глушитель снижает шум выхлопа.
+Zawór suwakowy podaje powietrze na jedną stronę i odpowietrza drugą, przełączając na końcu każdego skoku; tłumik wycisza wydech.
+Tolattyús szelep, amely az egyik oldalra levegőt ad, a másikat légteleníti, és minden löketvégen átvált; a hangtompító csillapítja a kipufogást.
+Válvula de corredera que envía aire a un lado y descarga el otro, conmutando en cada final de carrera; el silenciador amortigua el escape.
+
+#5676
+Du produit sort du silencieux d'échappement d'air. Qu'est-ce qui a lâché ?
+Está saindo produto pelo silenciador do escape de ar. O que falhou?
+产品从排气消声器中流出。哪里坏了？
+Из глушителя выхлопа воздуха выходит продукт. Что вышло из строя?
+Z tłumika wydechu powietrza wydostaje się produkt. Co uległo awarii?
+Termék jön ki a levegőkipufogó hangtompítójából. Mi hibásodott meg?
+Sale producto por el silenciador del escape de aire. ¿Qué ha fallado?
+
+#5677
+Une membrane est déchirée
+Um diafragma está rasgado
+隔膜破裂
+Порвана мембрана
+Membrana jest rozdarta
+Elszakadt egy membrán
+Un diafragma está roto
+
+#5678
+Une bille d'entrée est coincée
+Uma esfera de entrada está presa
+进口球卡住
+Залип входной шарик
+Zablokowana kulka wlotowa
+Beragadt egy bemeneti golyó
+Una bola de entrada está atascada
+
+#5679
+La pression d'air est trop basse
+A pressão do ar está baixa demais
+气压太低
+Слишком низкое давление воздуха
+Zbyt niskie ciśnienie powietrza
+Túl alacsony a légnyomás
+La presión del aire es demasiado baja
+
+#5680
+Le collecteur de sortie est bouché
+O coletor de saída está entupido
+出口歧管堵塞
+Забит выходной коллектор
+Zatkany kolektor wylotowy
+Eltömődött a kimeneti gyűjtő
+El colector de salida está obstruido
+
+#5681
+Pourquoi une pompe AODD est-elle un bon choix pour transférer de l'éthanol ?
+Por que uma bomba AODD é uma boa escolha para transferir etanol?
+为什么 AODD 泵适合输送乙醇？
+Почему насос AODD хорошо подходит для перекачки этанола?
+Dlaczego pompa AODD dobrze nadaje się do przetłaczania etanolu?
+Miért jó választás az AODD szivattyú etanol átfejtésére?
+¿Por qué una bomba AODD es buena opción para trasegar etanol?
+
+#5682
+Pas de moteur électrique ni d'étincelles, elle peut tourner à sec et être calée sans danger
+Sem motor elétrico nem faíscas, pode operar a seco e pode ser bloqueada com segurança
+没有电机和火花，可以干转，也可安全憋停
+Нет электродвигателя и искр, может работать всухую и безопасно останавливаться при перекрытии
+Brak silnika elektrycznego i iskier, może pracować na sucho i można ją bezpiecznie zatrzymać zamknięciem
+Nincs villanymotor és szikra, járhat szárazon, és biztonságosan lefojtható
+Sin motor eléctrico ni chispas, puede funcionar en seco y se puede bloquear sin peligro
+
+#5683
+Elle fournit une très haute pression
+Fornece pressão muito alta
+它能提供很高的压力
+Он даёт очень высокое давление
+Daje bardzo wysokie ciśnienie
+Nagyon nagy nyomást ad
+Da una presión muy alta
+
+#5684
+Elle n'a pas besoin d'air
+Não precisa de ar
+它不需要压缩空气
+Ему не нужен воздух
+Nie potrzebuje powietrza
+Nem kell hozzá levegő
+No necesita aire
+
+#5685
+Elle n'a jamais besoin de mise à la terre
+Nunca precisa de aterramento
+它从不需要接地
+Его никогда не нужно заземлять
+Nigdy nie wymaga uziemienia
+Soha nem kell földelni
+Nunca necesita puesta a tierra
+
+#5686
+Pompe péristaltique (à tuyau)
+Bomba peristáltica (de mangueira)
+蠕动泵（软管泵）
+Перистальтический (шланговый) насос
+Pompa perystaltyczna (wężowa)
+Perisztaltikus (tömlős) szivattyú
+Bomba peristáltica (de manguera)
+
+#5687
+Pompe volumétrique dans laquelle des galets écrasent un tuyau souple contre une piste courbe. Le liquide ne touche que l'intérieur du tuyau.
+Bomba de deslocamento positivo em que roletes comprimem uma mangueira flexível contra uma pista curva. O líquido só toca o interior da mangueira.
+容积式泵：滚轮把柔性软管压在弧形轨道上。液体只接触软管内壁。
+Объёмный насос, в котором ролики пережимают гибкий шланг о криволинейную дорожку. Жидкость касается только внутренней поверхности шланга.
+Pompa wyporowa, w której rolki ściskają elastyczny wąż o zakrzywioną bieżnię. Ciecz styka się tylko z wnętrzem węża.
+Térfogat-kiszorításos szivattyú, amelyben görgők nyomják a rugalmas tömlőt egy ívelt pályához. A folyadék csak a tömlő belsejével érintkezik.
+Bomba volumétrica en la que unos rodillos aprietan una manguera flexible contra una pista curva. El líquido solo toca el interior de la manguera.
+
+#5688
+Dosage de produits chimiques à la station d'eau (hypochlorite, SMBS, antitartre), transferts en laboratoire et stériles, remplissage de petits volumes et liquides sensibles au cisaillement.
+Dosagem de químicos na estação de água (hipoclorito, SMBS, antiincrustante), transferências de laboratório e estéreis, envase de pequenos volumes e líquidos sensíveis ao cisalhamento.
+水站的化学品加药（次氯酸盐、SMBS、阻垢剂），实验室和无菌转移，小体积灌装及剪切敏感液体。
+Дозирование химии на водоподготовке (гипохлорит, SMBS, антискалант), лабораторные и стерильные перекачки, дозирование малых объёмов и чувствительных к сдвигу жидкостей.
+Dozowanie chemikaliów w stacji wody (podchloryn, SMBS, antyskalant), transfery laboratoryjne i sterylne, napełnianie małych objętości i cieczy wrażliwych na ścinanie.
+Vegyszeradagolás a vízkezelőben (hipoklorit, SMBS, vízkőgátló), labor- és steril átfejtések, kis térfogatok töltése és nyírásérzékeny folyadékok.
+Dosificación de químicos en la planta de agua (hipoclorito, SMBS, antiincrustante), trasiegos de laboratorio y estériles, llenado de pequeños volúmenes y líquidos sensibles al cizallamiento.
+
+#5689
+Chaque galet ferme le tuyau et pousse vers l'avant la poche emprisonnée ; derrière lui, le tuyau reprend sa forme ronde et aspire du liquide neuf. Le débit est proportionnel à la vitesse et la pompe peut tourner à sec.
+Cada rolete fecha a mangueira e empurra adiante o bolsão preso; atrás dele a mangueira volta a ficar redonda e aspira líquido novo. A vazão é proporcional à rotação e a bomba pode operar a seco.
+每个滚轮压闭软管，把封住的液体段向前推；滚轮后方的软管弹回圆形，吸入新的液体。流量与转速成正比，并且可以干转。
+Каждый ролик пережимает шланг и проталкивает запертую порцию вперёд; за ним шланг упруго восстанавливает круглую форму и всасывает новую жидкость. Подача пропорциональна скорости, насос может работать всухую.
+Każda rolka zamyka wąż i pcha uwięzioną porcję do przodu; za nią wąż sprężyście wraca do okrągłego kształtu i zasysa nową ciecz. Wydajność jest proporcjonalna do prędkości i pompa może pracować na sucho.
+Minden görgő lezárja a tömlőt és előretolja a bezárt adagot; mögötte a tömlő visszarugózik kerekre, és új folyadékot szív be. A szállítás arányos a fordulatszámmal, és járhat szárazon.
+Cada rodillo cierra la manguera y empuja hacia delante la porción atrapada; detrás, la manguera recupera su forma redonda y aspira líquido nuevo. El caudal es proporcional a la velocidad y puede funcionar en seco.
+
+#5690
+Tuyau éclaté ou fissuré par fatigue (liquide dans le carter), baisse de débit quand le tuyau perd son élasticité, trop d'écrasement use vite les tuyaux, pas assez laisse le liquide refluer.
+Mangueira estourada ou trincada por fadiga (líquido na carcaça), queda de vazão quando a mangueira perde a elasticidade, aperto demais desgasta rápido as mangueiras, pouco aperto deixa o líquido voltar.
+软管疲劳破裂或开裂（泵壳内有液体），软管失去弹性导致流量下降，挤压过度会使软管快速磨损，挤压不足则液体回流。
+Разрыв или трещина шланга от усталости (жидкость в корпусе), падение подачи, когда шланг теряет упругость, слишком сильное пережатие быстро изнашивает шланги, слишком слабое даёт обратный проскок жидкости.
+Pęknięcie lub rozerwanie węża ze zmęczenia (ciecz w obudowie), spadek wydajności, gdy wąż traci sprężystość, za mocne ściskanie szybko zużywa węże, za słabe pozwala cieczy cofać się.
+Kifáradástól szétrepedt vagy megrepedt tömlő (folyadék a házban), szállításcsökkenés, ahogy a tömlő veszít rugalmasságából, a túl erős szorítás gyorsan koptatja a tömlőt, a túl gyenge visszaengedi a folyadékot.
+Manguera reventada o agrietada por fatiga (líquido en la carcasa), caída de caudal cuando la manguera pierde elasticidad, demasiada compresión desgasta rápido las mangueras, poca deja que el líquido retroceda.
+
+#5691
+Changez le tuyau selon les heures de marche, réglez l'écartement des galets (occlusion) selon l'épaisseur de paroi du tuyau, vérifiez le détecteur de fuite, gardez la piste propre et lubrifiée selon le fabricant.
+Troque a mangueira por horas de operação, ajuste a folga dos roletes (oclusão) à parede da mangueira, verifique o detector de vazamento, mantenha a pista limpa e lubrificada conforme o fabricante.
+按运行小时数更换软管，按软管壁厚设定滚轮间隙（挤压度），检查泄漏检测器，按厂家要求保持轨道清洁和润滑。
+Меняйте шланг по моточасам, выставляйте зазор роликов (окклюзию) по толщине стенки шланга, проверяйте датчик утечки, держите дорожку чистой и смазанной по указаниям изготовителя.
+Wymieniaj wąż wg godzin pracy, ustaw szczelinę rolek (okluzję) do grubości ścianki węża, sprawdzaj czujnik wycieku, utrzymuj bieżnię czystą i nasmarowaną zgodnie z zaleceniami producenta.
+A tömlőt üzemóra szerint cserélje, a görgőrést (okklúzió) a tömlő falvastagságához állítsa, ellenőrizze a szivárgásérzékelőt, a pályát a gyártó szerint tartsa tisztán és kenve.
+Cambie la manguera según las horas de funcionamiento, ajuste la holgura de los rodillos (oclusión) a la pared de la manguera, compruebe el detector de fugas, mantenga la pista limpia y lubricada según el fabricante.
+
+#5692
+Plaque arrière / bride du motoréducteur
+Placa traseira / flange do motorredutor
+背板 / 减速电机法兰
+Задняя плита / фланец мотор-редуктора
+Płyta tylna / kołnierz motoreduktora
+Hátlap / hajtóműves motor karimája
+Placa trasera / brida del motorreductor
+
+#5693
+Plaque rigide sur laquelle se boulonnent le carter et le motoréducteur ; porte le roulement de l'arbre.
+Placa rígida onde se parafusam a carcaça e o motorredutor; segura o rolamento do eixo.
+泵壳和减速电机用螺栓固定在其上的刚性板；装有轴承。
+Жёсткая плита, к которой крепятся корпус и мотор-редуктор; несёт подшипник вала.
+Sztywna płyta, do której przykręca się obudowę i motoreduktor; mieści łożysko wału.
+Merev lap, amelyhez a ház és a hajtóműves motor csavarozódik; ebben van a tengelycsapágy.
+Placa rígida a la que se atornillan la carcasa y el motorreductor; aloja el rodamiento del eje.
+
+#5694
+Arbre de sortie du motoréducteur qui fait tourner lentement le rotor.
+Eixo de saída do motorredutor que gira o rotor devagar.
+减速电机输出轴，带动转子低速旋转。
+Выходной вал мотор-редуктора, медленно вращающий ротор.
+Wałek wyjściowy motoreduktora, który powoli obraca wirnik.
+A hajtóműves motor kimenő tengelye, amely lassan forgatja a rotort.
+Eje de salida del motorreductor que gira el rotor despacio.
+
+#5695
+Carter de pompe (piste)
+Carcaça da bomba (pista)
+泵壳（轨道）
+Корпус насоса (дорожка)
+Obudowa pompy (bieżnia)
+Szivattyúház (pálya)
+Carcasa de la bomba (pista)
+
+#5696
+Piste en U contre laquelle le tuyau est écrasé.
+Pista em U contra a qual a mangueira é comprimida.
+软管被压在其上的 U 形轨道。
+U-образная дорожка, к которой прижимается шланг.
+Bieżnia w kształcie litery U, o którą dociskany jest wąż.
+U alakú pálya, amelyhez a tömlő nyomódik.
+Pista en U contra la que se aprieta la manguera.
+
+#5697
+Tuyau
+Mangueira
+软管
+Шланг
+Wąż
+Tömlő
+Manguera
+
+#5698
+Tuyau en élastomère renforcé ; seule pièce en contact avec le liquide. Pièce d'usure.
+Mangueira de elastômero reforçado; a única peça molhada pelo líquido. Item de desgaste.
+增强弹性体软管；唯一接触液体的部件。易损件。
+Армированный эластомерный шланг; единственная деталь, контактирующая с жидкостью. Изнашиваемая деталь.
+Wzmocniony wąż elastomerowy; jedyna część zwilżana cieczą. Część eksploatacyjna.
+Erősített elasztomer tömlő; az egyetlen folyadékkal érintkező alkatrész. Kopóalkatrész.
+Manguera de elastómero reforzado; la única pieza en contacto con el líquido. Pieza de desgaste.
+
+#5699
+Rotor à deux bras claveté sur l'arbre ; porte les galets.
+Rotor de dois braços chavetado no eixo; leva os roletes.
+用键固定在轴上的双臂转子；装有滚轮。
+Двуплечий ротор на шпонке на валу; несёт ролики.
+Dwuramienny wirnik osadzony na wpuście na wale; niesie rolki.
+Kétkarú rotor retesszel a tengelyen; a görgőket hordozza.
+Rotor de dos brazos enchavetado al eje; lleva los rodillos.
+
+#5700
+Galets sur axes
+Roletes em pinos
+销轴上的滚轮
+Ролики на осях
+Rolki na sworzniach
+Görgők csapokon
+Rodillos sobre pasadores
+
+#5701
+Galets libres en rotation qui écrasent le tuyau pour le fermer et roulent le long de celui-ci.
+Roletes livres que apertam a mangueira até fechar e rolam ao longo dela.
+自由转动的滚轮，把软管压闭并沿其滚动。
+Свободно вращающиеся ролики, пережимающие шланг и катящиеся по нему.
+Swobodnie obracające się rolki, które zaciskają wąż i toczą się po nim.
+Szabadon forgó görgők, amelyek összenyomják a tömlőt és végiggördülnek rajta.
+Rodillos de giro libre que aprietan la manguera hasta cerrarla y ruedan a lo largo de ella.
+
+#5702
+Colliers de tuyau
+Braçadeiras da mangueira
+软管夹
+Хомуты шланга
+Zaciski węża
+Tömlőbilincsek
+Abrazaderas de la manguera
+
+#5703
+Maintiennent les extrémités du tuyau pour que les galets ne l'entraînent pas en rotation.
+Seguram as pontas da mangueira para que os roletes não a arrastem.
+夹住软管两端，防止滚轮把软管带着转。
+Фиксируют концы шланга, чтобы ролики не протягивали его по кругу.
+Trzymają końce węża, aby rolki nie przeciągały go dookoła.
+Rögzítik a tömlővégeket, hogy a görgők ne húzzák körbe a tömlőt.
+Sujetan los extremos de la manguera para que los rodillos no la arrastren.
+
+#5704
+Couvercle avant transparent
+Tampa frontal transparente
+透明前盖
+Прозрачная передняя крышка
+Przezroczysta pokrywa przednia
+Átlátszó elülső fedél
+Tapa frontal transparente
+
+#5705
+Protège le rotor et permet de voir le tuyau ; un verrouillage peut arrêter la pompe à l'ouverture.
+Protege o rotor e permite ver a mangueira; um intertravamento pode parar a bomba quando aberta.
+保护转子，便于观察软管；打开时联锁装置可能使泵停止。
+Ограждает ротор и позволяет видеть шланг; блокировка может останавливать насос при открывании.
+Osłania wirnik i pozwala obserwować wąż; blokada może zatrzymać pompę po otwarciu.
+Védi a rotort, és látni engedi a tömlőt; nyitáskor egy reteszelés leállíthatja a szivattyút.
+Protege el rotor y deja ver la manguera; un enclavamiento puede parar la bomba al abrirla.
+
+#5706
+Du liquide est trouvé dans le carter d'une pompe péristaltique. Première chose à vérifier ?
+Encontrou-se líquido dentro da carcaça de uma bomba peristáltica. Primeira coisa a verificar?
+在蠕动泵泵壳内发现液体。首先应检查什么？
+В корпусе перистальтического насоса обнаружена жидкость. Что проверить первым?
+W obudowie pompy perystaltycznej jest ciecz. Co sprawdzić najpierw?
+Folyadékot találnak egy perisztaltikus szivattyú házában. Mit kell először ellenőrizni?
+Se encuentra líquido dentro de la carcasa de una bomba peristáltica. ¿Qué comprobar primero?
+
+#5707
+Le tuyau : il s'est fissuré ou a éclaté
+A mangueira: trincou ou estourou
+软管：已开裂或破裂
+Шланг: он треснул или лопнул
+Wąż: pękł lub się rozerwał
+A tömlőt: megrepedt vagy szétrepedt
+La manguera: se ha agrietado o reventado
+
+#5708
+Les roulements du moteur
+Os rolamentos do motor
+电机轴承
+Подшипники двигателя
+Łożyska silnika
+A motor csapágyait
+Los rodamientos del motor
+
+#5709
+Le verrouillage du couvercle
+O intertravamento da tampa
+前盖联锁
+Блокировку крышки
+Blokadę pokrywy
+A fedélreteszelést
+El enclavamiento de la tapa
+
+#5710
+La clavette du rotor
+A chaveta do rotor
+转子键
+Шпонку ротора
+Wpust wirnika
+A rotor reteszét
+La chaveta del rotor
+
+#5711
+Pourquoi utilise-t-on des pompes péristaltiques pour les liquides stériles ou agressifs ?
+Por que bombas peristálticas são usadas para líquidos estéreis ou agressivos?
+为什么无菌或腐蚀性液体常用蠕动泵？
+Почему перистальтические насосы применяют для стерильных или агрессивных жидкостей?
+Dlaczego pompy perystaltyczne stosuje się do cieczy sterylnych lub agresywnych?
+Miért használnak perisztaltikus szivattyút steril vagy agresszív folyadékokhoz?
+¿Por qué se usan bombas peristálticas para líquidos estériles o agresivos?
+
+#5712
+Le liquide ne touche que le tuyau, il n'y a ni joints ni clapets
+O líquido toca apenas a mangueira, não há vedações nem válvulas
+液体只接触软管，没有密封件和阀门
+Жидкость касается только шланга, нет уплотнений и клапанов
+Ciecz styka się tylko z wężem, nie ma uszczelnień ani zaworów
+A folyadék csak a tömlővel érintkezik, nincsenek tömítések és szelepek
+El líquido solo toca la manguera, no hay sellos ni válvulas
+
+#5713
+Elles tournent à très grande vitesse
+Elas giram em rotação muito alta
+它们转速很高
+Они работают на очень высокой скорости
+Pracują z bardzo dużą prędkością
+Nagyon nagy fordulaton járnak
+Funcionan a muy alta velocidad
+
+#5714
+Les galets stérilisent le liquide
+Os roletes esterilizam o líquido
+滚轮能给液体灭菌
+Ролики стерилизуют жидкость
+Rolki sterylizują ciecz
+A görgők sterilizálják a folyadékot
+Los rodillos esterilizan el líquido
+
+#5715
+Elles ne donnent aucune pulsation de débit
+Não geram pulsação de vazão
+它们没有流量脉动
+Они не дают пульсаций подачи
+Nie dają pulsacji przepływu
+Nem okoznak pulzálást
+No producen pulsaciones de caudal

@@ -18,6 +18,7 @@
     <button class="tab on" data-v="bench" data-t="Bench|المعمل">Bench</button>
     <button class="tab" data-v="projects" data-t="Projects|المشاريع">Projects</button>
     <button class="tab" data-v="prog" data-t="Programming|البرمجة">Programming</button>
+    <button class="tab" data-v="mech" data-t="Mechanical|ميكانيكا">Mechanical</button>
     <button class="tab" data-v="loto" data-t="LOTO|اللوتو">LOTO</button>
     <button class="tab" data-v="pcb" data-t="PCB repair|إصلاح كروت">PCB repair</button>
     <button class="tab" data-v="inspect" data-t="Inspect|فحص">Inspect</button>
@@ -50,7 +51,7 @@
           <button class="btn" id="btnTpl" data-t="Ready circuits|دوائر جاهزة">Ready circuits</button>
           <button class="btn" id="btnFile" data-t="Save / open|حفظ / فتح">Save / open</button>
           <button class="btn" id="btnClear" data-t="Clear|مسح">Clear</button>
-          <button class="btn" id="btnMute" title="Sound">🔇</button>
+          <button class="btn" id="btnLook" data-ti="Display: real look, phase colours|العرض: شكل حقيقي وألوان الفازات" title="View options">🖼 <span data-t="View options|العرض">View options</span></button><button class="btn" id="btnMute" title="Sound">🔇</button>
         </div>
         <div class="cvhost" id="benchHost"></div>
         <div class="cvhost" id="plantHost"></div>
@@ -90,6 +91,9 @@
       <aside id="gside"><div class="spane on" id="gpane"></div></aside>
     </div>
   </section>
+
+  <!-- MECHANICAL -->
+  <section class="view" id="v-mech"><div class="mech" id="mechRoot"></div></section>
 
   <!-- LOTO -->
   <section class="view" id="v-loto"><div class="scroll"><div class="wrapc" id="lotoRoot"></div></div></section>

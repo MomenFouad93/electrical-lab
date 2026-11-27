@@ -1,0 +1,1907 @@
+#5351
+Cuve de mélange à double enveloppe (500 L)
+Tanque de mistura encamisado (500 L)
+夹套搅拌罐（500 L）
+Смесительный бак с рубашкой (500 L)
+Zbiornik mieszalnikowy z płaszczem (500 L)
+Köpenyes keverőtartály (500 L)
+Tanque de mezcla encamisado (500 L)
+
+#5352
+Cuve en acier inoxydable (316L à l'intérieur) avec fonds bombés, double enveloppe de chauffage/refroidissement et agitateur par le haut : moteur, réducteur, garniture mécanique, arbre et mobile d'agitation. Les chicanes empêchent le liquide de simplement tourbillonner.
+Tanque de aço inoxidável (316L por dentro) com tampos abaulados, camisa de aquecimento/resfriamento e agitador de topo: motor, redutor, selo mecânico, eixo e impulsor. As chicanas impedem que o líquido apenas gire em redemoinho.
+不锈钢罐体（内壁 316L），带碟形封头、加热/冷却夹套和顶入式搅拌器：电机、减速箱、机械密封、搅拌轴和叶轮。挡板防止液体只是打旋。
+Ёмкость из нержавеющей стали (внутри 316L) с выпуклыми днищами, рубашкой нагрева/охлаждения и верхней мешалкой: двигатель, редуктор, торцевое уплотнение, вал и импеллер. Отражательные перегородки не дают жидкости просто вращаться по кругу.
+Zbiornik ze stali nierdzewnej (wewnątrz 316L) z dennicami wyoblonymi, płaszczem grzewczo-chłodzącym i mieszadłem górnym: silnik, przekładnia, uszczelnienie mechaniczne, wał i wirnik mieszadła. Przegrody nie pozwalają cieczy tylko wirować.
+Rozsdamentes acél tartály (belül 316L) domborított fenekekkel, fűtő/hűtő köpennyel és felülről beépített keverővel: motor, hajtómű, csúszógyűrűs tömítés, tengely és keverőlapát. A terelőlemezek megakadályozzák, hogy a folyadék csak körbeforogjon.
+Recipiente de acero inoxidable (316L por dentro) con fondos abombados, camisa de calentamiento/enfriamiento y agitador superior: motor, reductor, sello mecánico, eje e impulsor. Los deflectores evitan que el líquido solo gire en remolino.
+
+#5353
+Préparation de solutions, sirops et suspensions, solution de liant pour la granulation, suspension d'enrobage, tampons ; nettoyée en place (CIP) par la boule de lavage.
+Preparo de soluções, xaropes e suspensões, solução aglutinante para granulação, suspensão de revestimento, tampões; limpo no local (CIP) pela spray ball.
+配制溶液、糖浆和混悬液、制粒用黏合剂溶液、包衣混悬液、缓冲液；通过喷淋球进行在线清洗（CIP）。
+Приготовление растворов, сиропов и суспензий, связующего раствора для грануляции, суспензии для покрытия, буферов; мойка на месте (CIP) через моющую головку.
+Przygotowanie roztworów, syropów i zawiesin, roztworu lepiszcza do granulacji, zawiesiny do powlekania, buforów; mycie w miejscu (CIP) przez kulę natryskową.
+Oldatok, szirupok és szuszpenziók, granuláló kötőanyag-oldat, bevonó szuszpenzió, pufferek készítése; helyben tisztítás (CIP) a mosófejen keresztül.
+Preparación de soluciones, jarabes y suspensiones, solución aglutinante para granulación, suspensión de recubrimiento, tampones; limpieza in situ (CIP) mediante la bola de pulverización.
+
+#5354
+Le réducteur diminue la vitesse du moteur et augmente le couple ; le mobile à pales inclinées pousse le liquide vers le bas et les chicanes le transforment en un écoulement du haut vers le bas. L'eau chaude, la vapeur ou l'eau glacée dans la double enveloppe chauffe ou refroidit à travers la paroi. Le filtre d'évent laisse la cuve respirer sans laisser entrer la saleté.
+O redutor diminui a rotação do motor e aumenta o torque; o impulsor de pás inclinadas empurra o líquido para baixo e as chicanas o transformam em fluxo de cima para baixo. Água quente, vapor ou água gelada na camisa aquece ou resfria através da parede. O filtro de respiro deixa o tanque respirar sem deixar entrar sujeira.
+减速箱降低电机转速并增大扭矩；斜叶叶轮把液体向下推，挡板把它变成自上而下的流动。夹套中的热水、蒸汽或冷冻水通过罐壁加热或冷却。呼吸过滤器让罐体“呼吸”，同时不让污物进入。
+Редуктор снижает скорость двигателя и повышает момент; импеллер с наклонными лопастями толкает жидкость вниз, а перегородки превращают её в поток сверху вниз. Горячая вода, пар или охлаждённая вода в рубашке нагревает или охлаждает через стенку. Дыхательный фильтр позволяет баку «дышать», не пропуская грязь.
+Przekładnia zmniejsza prędkość silnika i zwiększa moment obrotowy; wirnik o łopatkach pochylonych pcha ciecz w dół, a przegrody zamieniają ją w przepływ z góry na dół. Gorąca woda, para lub woda lodowa w płaszczu grzeje lub chłodzi przez ściankę. Filtr odpowietrzający pozwala zbiornikowi oddychać, nie wpuszczając brudu.
+A hajtómű csökkenti a motor fordulatszámát és növeli a nyomatékot; a ferde lapátos keverő lefelé nyomja a folyadékot, a terelőlemezek pedig felülről lefelé irányuló áramlássá alakítják. A köpenyben lévő meleg víz, gőz vagy hűtött víz a falon keresztül fűt vagy hűt. A légzőszűrő hagyja lélegezni a tartályt, de szennyeződést nem enged be.
+El reductor baja la velocidad del motor y aumenta el par; el impulsor de palas inclinadas empuja el líquido hacia abajo y los deflectores lo convierten en un flujo de arriba abajo. El agua caliente, el vapor o el agua helada en la camisa calienta o enfría a través de la pared. El filtro de venteo deja respirar al tanque sin dejar entrar suciedad.
+
+#5355
+Fuite de la garniture mécanique (gouttes sur le fond supérieur, risque produit), fuite d'huile ou bruit du réducteur, roulements usés et vibrations, fuite de la double enveloppe dans le produit, trous de la boule de lavage bouchés (CIP en échec), filtre d'évent mouillé ou colmaté (le vide peut écraser la cuve), voyant fissuré.
+Vazamento do selo mecânico (gotas no tampo superior, risco ao produto), vazamento de óleo ou ruído no redutor, rolamentos gastos e vibração, vazamento da camisa para o produto, furos da spray ball entupidos (CIP reprovado), filtro de respiro molhado ou entupido (o vácuo pode colapsar o tanque), visor trincado.
+机械密封泄漏（顶封头上滴液，有产品风险）、减速箱漏油或异响、轴承磨损和振动、夹套向产品内泄漏、喷淋球孔堵塞（CIP 失败）、呼吸过滤器受潮或堵塞（真空可能把罐体吸瘪）、视镜开裂。
+Течь торцевого уплотнения (капли на верхнем днище, риск для продукта), течь масла или шум редуктора, изношенные подшипники и вибрация, протечка рубашки в продукт, забитые отверстия моющей головки (неудачная CIP), мокрый или забитый дыхательный фильтр (вакуум может смять бак), треснувшее смотровое стекло.
+Wyciek z uszczelnienia mechanicznego (krople na górnej dennicy, ryzyko dla produktu), wyciek oleju lub hałas przekładni, zużyte łożyska i drgania, przeciek płaszcza do produktu, zatkane otwory kuli natryskowej (nieudane CIP), mokry lub zatkany filtr odpowietrzający (podciśnienie może zgnieść zbiornik), pęknięty wziernik.
+Csúszógyűrűs tömítés szivárgása (csepegés a felső fenéken, termékkockázat), hajtómű olajszivárgása vagy zaja, kopott csapágyak és rezgés, köpeny szivárgása a termékbe, eltömődött mosófej-furatok (sikertelen CIP), nedves vagy eltömődött légzőszűrő (a vákuum összeroppanthatja a tartályt), repedt kémlelőüveg.
+Fuga del sello mecánico (goteo en el fondo superior, riesgo para el producto), fuga de aceite o ruido en el reductor, rodamientos desgastados y vibración, fuga de la camisa hacia el producto, orificios de la bola de pulverización obstruidos (CIP fallido), filtro de venteo mojado u obstruido (el vacío puede colapsar el tanque), mirilla agrietada.
+
+#5356
+Contrôler la garniture et son liquide barrière, le niveau d'huile et les vibrations du réducteur ; remplacer les joints clamp selon le planning ; tester l'intégrité du filtre d'évent et le changer ; tester la couverture de lavage à la riboflavine ; tester la soupape de sécurité de la double enveloppe ; étalonner la température et le niveau ; passiver après soudage.
+Verificar o selo e seu fluido de barreira, o nível de óleo e a vibração do redutor; trocar as juntas clamp conforme o cronograma; fazer o teste de integridade e trocar o filtro de respiro; teste de riboflavina da cobertura do spray; testar a válvula de segurança da camisa; calibrar temperatura e nível; passivar após soldagem.
+检查机械密封及其隔离液、减速箱油位和振动；按计划更换卡箍垫圈；对呼吸过滤器做完整性测试并更换；用核黄素测试喷淋覆盖；测试夹套安全阀；校准温度和液位；焊接后钝化。
+Проверять уплотнение и его затворную жидкость, уровень масла и вибрацию редуктора; менять прокладки кламп по графику; проводить тест целостности и менять дыхательный фильтр; проверять покрытие мойки тестом с рибофлавином; проверять предохранительный клапан рубашки; калибровать температуру и уровень; пассивировать после сварки.
+Sprawdzać uszczelnienie i jego ciecz barierową, poziom oleju i drgania przekładni; wymieniać uszczelki clamp zgodnie z harmonogramem; testować integralność filtra odpowietrzającego i go wymieniać; sprawdzać pokrycie natrysku testem ryboflawinowym; testować zawór bezpieczeństwa płaszcza; kalibrować temperaturę i poziom; pasywować po spawaniu.
+Ellenőrizze a tömítést és a zárófolyadékát, a hajtómű olajszintjét és rezgését; cserélje a clamp tömítéseket ütemterv szerint; végezzen integritástesztet és cserélje a légzőszűrőt; riboflavin teszttel ellenőrizze a mosási lefedettséget; tesztelje a köpeny biztonsági szelepét; kalibrálja a hőmérsékletet és a szintet; hegesztés után passziváljon.
+Revisar el sello y su fluido barrera, el nivel de aceite y la vibración del reductor; cambiar las juntas clamp según el plan; hacer la prueba de integridad y cambiar el filtro de venteo; prueba de riboflavina de la cobertura de pulverización; probar la válvula de seguridad de la camisa; calibrar temperatura y nivel; pasivar después de soldar.
+
+#5357
+Virole et fonds bombés de la cuve
+Costado e tampos abaulados do tanque
+罐体筒身和碟形封头
+Обечайка и выпуклые днища ёмкости
+Płaszcz zbiornika i dennice wyoblone
+Tartálypalást és domborított fenekek
+Virola y fondos abombados del recipiente
+
+#5358
+Virole en 316L avec fonds elliptiques 2:1, polie à l'intérieur, piquages soudés.
+Costado em 316L com tampos elípticos 2:1, polido por dentro, bocais soldados.
+316L 筒身配 2:1 椭圆封头，内壁抛光，接管焊接在上面。
+Обечайка из 316L с эллиптическими днищами 2:1, полированная изнутри, патрубки приварены.
+Płaszcz z 316L z dennicami elipsoidalnymi 2:1, polerowany wewnątrz, króćce przyspawane.
+316L palást 2:1 elliptikus fenekekkel, belül polírozva, a csonkok rá vannak hegesztve.
+Virola de 316L con fondos elípticos 2:1, pulida por dentro, tubuladuras soldadas.
+
+#5359
+Double enveloppe de chauffage/refroidissement
+Camisa de aquecimento/resfriamento
+加热/冷却夹套
+Рубашка нагрева/охлаждения
+Płaszcz grzewczo-chłodzący
+Fűtő/hűtő köpeny
+Camisa de calentamiento/enfriamiento
+
+#5360
+Paroi extérieure autour de la virole ; le fluide circule dans l'espace. Elle a sa propre soupape de sécurité.
+Parede externa em volta do costado; o fluido circula no espaço entre elas. Tem sua própria válvula de segurança.
+包在筒身外的外壁；介质在夹层中流动。有自己的安全阀。
+Наружная стенка вокруг обечайки; среда течёт в зазоре. Имеет свой предохранительный клапан.
+Zewnętrzna ścianka wokół płaszcza zbiornika; medium płynie w szczelinie. Ma własny zawór bezpieczeństwa.
+Külső fal a palást körül; a közeg a résben áramlik. Saját biztonsági szelepe van.
+Pared exterior alrededor de la virola; el fluido circula por el espacio intermedio. Tiene su propia válvula de seguridad.
+
+#5361
+Pieds avec semelles
+Pernas com pés
+带底脚的支腿
+Опоры с башмаками
+Nogi ze stopkami
+Lábak talpakkal
+Patas con pies
+
+#5362
+Trois pieds soudés sur des plaques de renfort ; les semelles peuvent être boulonnées ou reposer sur des capteurs de pesage.
+Três pernas soldadas em chapas de reforço; os pés podem ser parafusados ou apoiados em células de carga.
+三条支腿焊在垫板上；底脚可用螺栓固定，或放在称重传感器上。
+Три опоры приварены на накладки; башмаки можно закрепить болтами или поставить на тензодатчики.
+Trzy nogi przyspawane do nakładek; stopki mogą być przykręcone lub stać na czujnikach tensometrycznych.
+Három láb alátétlemezekre hegesztve; a talpak lecsavarozhatók vagy mérőcellákon állhatnak.
+Tres patas soldadas sobre placas de refuerzo; los pies pueden ir atornillados o apoyados en celdas de carga.
+
+#5363
+Quatre bandes près de la paroi qui arrêtent le vortex et améliorent le mélange.
+Quatro tiras perto da parede que impedem o vórtice e melhoram a mistura.
+靠近罐壁的四条板条，用来消除旋涡并改善混合。
+Четыре полосы у стенки, которые гасят воронку и улучшают перемешивание.
+Cztery listwy przy ściance, które zatrzymują wir i poprawiają mieszanie.
+Négy lemezcsík a fal közelében, amelyek megszüntetik az örvényt és javítják a keverést.
+Cuatro tiras cerca de la pared que detienen el vórtice y mejoran la mezcla.
+
+#5364
+Vanne de fond affleurante : pas de bras mort sous la cuve ; actionnée pneumatiquement.
+Válvula de fundo rente: sem perna morta sob o tanque; acionamento pneumático.
+平底阀（齐平式罐底阀）：罐下无死角；气动驱动。
+Донный клапан заподлицо: нет застойной зоны под баком; пневмопривод.
+Zawór denny zlicowany: brak martwej strefy pod zbiornikiem; napęd pneumatyczny.
+Fenékkel egy síkban lévő fenékszelep: nincs holttér a tartály alatt; pneumatikus működtetés.
+Válvula de fondo enrasada: sin tramo muerto bajo el tanque; accionada neumáticamente.
+
+#5365
+Arbre d'agitation
+Eixo do agitador
+搅拌轴
+Вал мешалки
+Wał mieszadła
+Keverőtengely
+Eje del agitador
+
+#5366
+Arbre inox qui va du réducteur, à travers la garniture, jusque dans le produit.
+Eixo inox que vai do redutor, passando pelo selo, até o produto.
+不锈钢轴，从减速箱穿过机械密封伸入产品中。
+Вал из нержавеющей стали от редуктора через уплотнение в продукт.
+Wał nierdzewny od przekładni przez uszczelnienie do produktu.
+Rozsdamentes tengely a hajtóműtől a tömítésen át a termékbe.
+Eje inoxidable que va del reductor, a través del sello, hasta el producto.
+
+#5367
+Mobile à pales inclinées
+Impulsor de pás inclinadas
+斜叶叶轮
+Импеллер с наклонными лопастями
+Mieszadło o łopatkach pochylonych
+Ferde lapátos keverő
+Impulsor de palas inclinadas
+
+#5368
+Quatre pales à 45° : elles pompent le liquide vers le bas pour un bon mélange du haut vers le bas.
+Quatro pás a 45°: bombeiam o líquido para baixo para uma boa mistura de cima para baixo.
+四片 45° 叶片：把液体向下泵送，实现良好的上下混合。
+Четыре лопасти под 45°: качают жидкость вниз для хорошего перемешивания сверху вниз.
+Cztery łopatki pod kątem 45°: pompują ciecz w dół, dając dobre mieszanie z góry na dół.
+Négy lapát 45°-ban: lefelé szivattyúzzák a folyadékot a jó felülről lefelé keveréshez.
+Cuatro palas a 45°: bombean el líquido hacia abajo para una buena mezcla de arriba abajo.
+
+#5369
+Logement de la garniture mécanique
+Alojamento do selo mecânico
+机械密封腔体
+Корпус торцевого уплотнения
+Obudowa uszczelnienia mechanicznego
+Csúszógyűrűs tömítés háza
+Alojamiento del sello mecánico
+
+#5370
+Une face carbone tournante contre une face fixe en SiC assure l'étanchéité de l'arbre ; souvent double avec un liquide barrière.
+Uma face de carbono rotativa contra uma face estacionária de SiC veda o eixo; muitas vezes é dupla com fluido de barreira.
+旋转的石墨环对着静止的 SiC 环密封轴；常为带隔离液的双端面密封。
+Вращающееся угольное кольцо против неподвижного кольца из SiC уплотняет вал; часто двойное с затворной жидкостью.
+Obracający się pierścień węglowy na nieruchomym pierścieniu z SiC uszczelnia wał; często podwójne z cieczą barierową.
+Forgó szén csúszófelület álló SiC felülettel szemben tömíti a tengelyt; gyakran kettős, zárófolyadékkal.
+Una cara de carbono giratoria contra una cara fija de SiC sella el eje; a menudo doble con fluido barrera.
+
+#5371
+Réducteur et lanterne
+Redutor e lanterna
+减速箱和灯笼架
+Редуктор и фонарь
+Przekładnia i latarnia
+Hajtómű és lámpástest
+Reductor y linterna
+
+#5372
+Réduit la vitesse du moteur à environ 60-150 rpm et porte les roulements de l'arbre.
+Reduz a rotação do motor para cerca de 60-150 rpm e suporta os rolamentos do eixo.
+把电机转速降到约 60-150 rpm，并承载搅拌轴轴承。
+Снижает скорость двигателя примерно до 60-150 rpm и несёт подшипники вала.
+Zmniejsza prędkość silnika do około 60-150 rpm i przenosi łożyska wału.
+Körülbelül 60-150 rpm-re csökkenti a motor fordulatszámát, és hordozza a tengely csapágyait.
+Reduce la velocidad del motor a unas 60-150 rpm y soporta los rodamientos del eje.
+
+#5373
+Moteur fermé à ventilation extérieure (TEFC), souvent sur variateur de fréquence pour régler la vitesse.
+Motor totalmente fechado com ventilação externa (TEFC), muitas vezes com inversor de frequência para controlar a velocidade.
+全封闭风扇冷却电机（TEFC），常配变频器调速。
+Закрытый двигатель с внешним обдувом (TEFC), часто на частотном преобразователе для регулирования скорости.
+Silnik całkowicie zamknięty z chłodzeniem wentylatorem (TEFC), często na falowniku do regulacji prędkości.
+Teljesen zárt, ventilátorhűtésű motor (TEFC), gyakran frekvenciaváltóról a fordulatszám szabályozásához.
+Motor totalmente cerrado con ventilación exterior (TEFC), a menudo con variador de frecuencia para controlar la velocidad.
+
+#5374
+Boule fixe sur une canne plongeante : asperge tout l'intérieur, y compris le fond supérieur, pendant le CIP.
+Esfera estática em um tubo de imersão: pulveriza todo o interior, incluindo o tampo superior, durante o CIP.
+装在插入管上的固定式喷淋球：CIP 时喷淋整个内部，包括顶封头。
+Неподвижный шар на погружной трубе: орошает всю внутреннюю поверхность, включая верхнее днище, во время CIP.
+Nieruchoma kula na rurze zanurzeniowej: zrasza całe wnętrze, łącznie z górną dennicą, podczas CIP.
+Álló gömb egy merülőcsövön: CIP alatt az egész belső felületet permetezi, a felső feneket is.
+Bola estática en un tubo de inmersión: rocía todo el interior, incluido el fondo superior, durante el CIP.
+
+#5375
+Trou d'homme avec couvercle à charnière
+Boca de visita com tampa articulada
+带铰链盖的人孔
+Люк-лаз с откидной крышкой
+Właz z pokrywą na zawiasie
+Búvónyílás csuklós fedéllel
+Boca de hombre con tapa abatible
+
+#5376
+Ouverture pour l'inspection et le chargement des poudres ; couvercle avec joint et serrages basculants.
+Abertura para inspeção e carga de pós; tampa com junta e grampos basculantes.
+用于检查和投入粉料的开口；盖子带密封垫和摆动卡紧器。
+Отверстие для осмотра и загрузки порошков; крышка с прокладкой и откидными зажимами.
+Otwór do inspekcji i załadunku proszków; pokrywa z uszczelką i zaciskami wahliwymi.
+Nyílás ellenőrzéshez és porok beadagolásához; fedél tömítéssel és billenő szorítókkal.
+Abertura para inspección y carga de polvos; tapa con junta y cierres abatibles.
+
+#5377
+Fenêtre en verre pour voir à l'intérieur pendant le mélange.
+Janela de vidro para ver o interior durante a mistura.
+玻璃窗，用于搅拌时观察罐内。
+Стеклянное окно, чтобы смотреть внутрь во время перемешивания.
+Szklane okno do zaglądania do środka podczas mieszania.
+Üvegablak, amelyen keverés közben be lehet látni.
+Ventana de vidrio para ver el interior durante la mezcla.
+
+#5378
+Filtre d'évent (0.2 µm)
+Filtro de respiro (0.2 µm)
+呼吸过滤器（0.2 µm）
+Дыхательный фильтр (0.2 µm)
+Filtr odpowietrzający (0.2 µm)
+Légzőszűrő (0.2 µm)
+Filtro de venteo (0.2 µm)
+
+#5379
+Filtre hydrophobe dans un carter : l'air entre et sort, ni particules ni microbes n'entrent.
+Filtro hidrofóbico em uma carcaça: o ar entra e sai, sem entrada de partículas ou micróbios.
+装在滤壳中的疏水过滤器：空气进出，颗粒和微生物进不去。
+Гидрофобный фильтр в корпусе: воздух входит и выходит, частицы и микробы не попадают внутрь.
+Filtr hydrofobowy w obudowie: powietrze wchodzi i wychodzi, cząstki i mikroby nie dostają się do środka.
+Hidrofób szűrő házban: a levegő be- és kiáramlik, részecske és mikroba nem jut be.
+Filtro hidrófobo en una carcasa: el aire entra y sale, sin entrada de partículas ni microbios.
+
+#5380
+Faire tourner l'agitateur
+Acionar o agitador
+运行搅拌器
+Запустить мешалку
+Uruchom mieszadło
+Keverő indítása
+Poner en marcha el agitador
+
+#5381
+À quoi servent les chicanes ?
+Para que servem as chicanas?
+挡板的作用是什么？
+Для чего нужны отражательные перегородки?
+Do czego służą przegrody?
+Mire valók a terelőlemezek?
+¿Para qué sirven los deflectores?
+
+#5382
+Arrêter le vortex et transformer la rotation en mélange du haut vers le bas
+Impedir o vórtice e transformar o giro em mistura de cima para baixo
+消除旋涡，把旋转变成上下混合
+Гасить воронку и превращать вращение в перемешивание сверху вниз
+Zatrzymują wir i zamieniają wirowanie w mieszanie z góry na dół
+Megszüntetik az örvényt, és a körforgást felülről lefelé keveréssé alakítják
+Detener el vórtice y convertir el giro en mezcla de arriba abajo
+
+#5383
+Chauffer le produit
+Aquecer o produto
+加热产品
+Нагревать продукт
+Grzeją produkt
+A termék fűtése
+Calentar el producto
+
+#5384
+Maintenir l'arbre droit
+Manter o eixo reto
+保持搅拌轴笔直
+Держать вал прямо
+Trzymają wał prosto
+A tengely egyenesen tartása
+Mantener recto el eje
+
+#5385
+Nettoyer la cuve
+Limpar o tanque
+清洗罐体
+Мыть бак
+Czyszczą zbiornik
+A tartály tisztítása
+Limpiar el tanque
+
+#5386
+Des gouttes sur le fond supérieur à côté de l'arbre signifient généralement…
+Gotas no tampo superior ao lado do eixo geralmente indicam…
+顶封头上搅拌轴旁边有滴液，通常意味着……
+Капли на верхнем днище рядом с валом обычно означают…
+Krople na górnej dennicy obok wału zwykle oznaczają…
+A felső fenéken a tengely mellett lévő csepegés általában ezt jelenti…
+Gotas en el fondo superior junto al eje suelen indicar…
+
+#5387
+Fuite de la garniture mécanique
+Vazamento do selo mecânico
+机械密封泄漏
+Течь торцевого уплотнения
+Wyciek z uszczelnienia mechanicznego
+A csúszógyűrűs tömítés szivárgása
+Fuga del sello mecánico
+
+#5388
+Fuite de la double enveloppe
+Vazamento da camisa
+夹套泄漏
+Протечка рубашки
+Przeciek płaszcza
+Köpenyszivárgás
+Fuga de la camisa
+
+#5389
+Filtre d'évent mouillé
+Filtro de respiro molhado
+呼吸过滤器受潮
+Дыхательный фильтр мокрый
+Mokry filtr odpowietrzający
+Nedves légzőszűrő
+Filtro de venteo mojado
+
+#5390
+Condensation normale, ignorer
+Condensação normal, ignorar
+正常冷凝，可忽略
+Обычный конденсат, не обращать внимания
+Normalna kondensacja, zignorować
+Normál páralecsapódás, figyelmen kívül hagyható
+Condensación normal, ignorar
+
+#5391
+Pourquoi le filtre d'évent ne doit-il pas être colmaté lorsque la cuve est vidée ou refroidie ?
+Por que o filtro de respiro não pode estar entupido quando o tanque é esvaziado ou resfriado?
+为什么在罐体排空或冷却时呼吸过滤器不能堵塞？
+Почему дыхательный фильтр не должен быть забит, когда бак опорожняют или охлаждают?
+Dlaczego filtr odpowietrzający nie może być zatkany, gdy zbiornik jest opróżniany lub chłodzony?
+Miért nem lehet eltömődve a légzőszűrő, amikor a tartályt ürítik vagy hűtik?
+¿Por qué el filtro de venteo no debe estar obstruido cuando el tanque se vacía o se enfría?
+
+#5392
+Le vide peut écraser la cuve
+O vácuo pode colapsar o tanque
+真空会把罐体吸瘪
+Вакуум может смять ёмкость
+Podciśnienie może zgnieść zbiornik
+A vákuum összeroppanthatja a tartályt
+El vacío puede colapsar el recipiente
+
+#5393
+Le moteur est en surcharge
+O motor sobrecarrega
+电机过载
+Двигатель перегружается
+Silnik się przeciąża
+A motor túlterhelődik
+El motor se sobrecarga
+
+#5394
+La double enveloppe gèle
+A camisa congela
+夹套结冰
+Рубашка замерзает
+Płaszcz zamarza
+A köpeny befagy
+La camisa se congela
+
+#5395
+La boule de lavage s'arrête
+A spray ball para
+喷淋球停止工作
+Моющая головка перестаёт работать
+Kula natryskowa przestaje działać
+A mosófej leáll
+La bola de pulverización se detiene
+
+#5396
+Boule de lavage CIP fixe
+Spray ball estática de CIP
+固定式 CIP 喷淋球
+Неподвижная моющая головка CIP
+Nieruchoma kula natryskowa CIP
+Álló CIP mosófej
+Bola de pulverización CIP estática
+
+#5397
+Boule creuse en inox percée de trous, au bout d'une canne plongeante. Le liquide de CIP sort des trous sur le haut de la cuve et ruisselle le long des parois.
+Esfera oca de inox com furos, na ponta de um tubo de imersão. O líquido de CIP é pulverizado pelos furos no topo do tanque e escorre pelas paredes.
+钻有孔的空心不锈钢球，装在插入管的末端。CIP 液从孔中喷到罐顶，再沿罐壁流下。
+Полый шар из нержавеющей стали с просверленными отверстиями на конце погружной трубы. Моющий раствор CIP разбрызгивается из отверстий на верх бака и стекает по стенкам.
+Pusta kula ze stali nierdzewnej z wywierconymi otworami na końcu rury zanurzeniowej. Ciecz CIP tryska z otworów na górę zbiornika i spływa po ściankach.
+Fúrt lyukas, üreges rozsdamentes gömb egy merülőcső végén. A CIP folyadék a lyukakból a tartály tetejére permetez, és lefolyik a falakon.
+Bola hueca de inoxidable con orificios taladrados en el extremo de un tubo de inmersión. El líquido de CIP sale por los orificios hacia la parte superior del tanque y escurre por las paredes.
+
+#5398
+Nettoyage en place des cuves, conteneurs IBC, trémies et réservoirs de la station d'eau, de la préparation des solutions et des lignes de remplissage de liquides.
+Limpeza no local de tanques, contentores IBC, tremonhas e recipientes na estação de água, preparo de soluções e linhas de envase de líquidos.
+用于水站、溶液配制和液体灌装线中储罐、IBC 料仓、料斗和接收罐的在线清洗。
+Мойка на месте баков, контейнеров IBC, бункеров и сборников на водоподготовке, приготовлении растворов и линиях розлива жидкостей.
+Mycie w miejscu zbiorników, pojemników IBC, lejów zasypowych i odbieralników w stacji wody, przygotowaniu roztworów i liniach napełniania płynów.
+Tartályok, IBC konténerek, garatok és gyűjtőtartályok helyben tisztítása a vízállomáson, az oldatkészítésben és a folyadéktöltő sorokon.
+Limpieza in situ de tanques, contenedores IBC, tolvas y depósitos receptores en la estación de agua, la preparación de soluciones y las líneas de llenado de líquidos.
+
+#5399
+Les trous sont orientés vers le haut, sur les côtés et vers le bas pour mouiller chaque surface, chaque piquage et le trou d'homme. Il faut le bon débit et la bonne pression (environ 30 L/min par mètre de circonférence de cuve, 1-2.5 bar). Un trou en bas permet de vidanger complètement.
+Os furos apontam para cima, para os lados e para baixo, para molhar todas as superfícies, bocais e a boca de visita. Precisa da vazão e pressão corretas (cerca de 30 L/min por metro de circunferência do tanque, 1-2.5 bar). Um furo inferior permite que drene totalmente.
+孔朝上、朝侧面和朝下，使每个表面、接管和人孔都能被润湿。需要合适的流量和压力（每米罐周长约 30 L/min，1-2.5 bar）。底部的孔让球能完全排空。
+Отверстия направлены вверх, в стороны и вниз, чтобы смачивалась каждая поверхность, каждый патрубок и люк. Нужны правильный расход и давление (примерно 30 L/min на метр окружности бака, 1-2.5 bar). Нижнее отверстие позволяет шару полностью стечь.
+Otwory są skierowane w górę, na boki i w dół, aby zwilżyć każdą powierzchnię, króciec i właz. Potrzebny jest właściwy przepływ i ciśnienie (około 30 L/min na metr obwodu zbiornika, 1-2.5 bar). Dolny otwór pozwala jej całkowicie spłynąć.
+A furatok felfelé, oldalra és lefelé néznek, hogy minden felület, csonk és a búvónyílás is nedves legyen. Megfelelő térfogatáram és nyomás kell (kb. 30 L/min a tartály kerületének méterenként, 1-2.5 bar). Egy alsó furat lehetővé teszi a teljes leürülést.
+Los orificios apuntan hacia arriba, a los lados y hacia abajo para mojar cada superficie, tubuladura y la boca de hombre. Necesita el caudal y la presión correctos (unos 30 L/min por metro de circunferencia del tanque, 1-2.5 bar). Un orificio inferior permite que drene por completo.
+
+#5400
+Trous bouchés par des débris, pression de pompe trop faible ou pompe usée, boule tombée (clip manquant), zones d'ombre derrière de nouveaux raccords : tout cela apparaît comme un échec du test de couverture à la riboflavine ou comme des résidus.
+Furos entupidos por detritos, pressão baixa ou bomba gasta, esfera caída (grampo faltando), zonas de sombra atrás de novas conexões: tudo aparece como falha no teste de cobertura com riboflavina ou como resíduos.
+碎屑堵孔、泵压力低或泵磨损、喷淋球脱落（卡子缺失）、新加管件后面的阴影区：这些都会表现为核黄素覆盖测试不合格或有残留。
+Отверстия забиты мусором, низкое давление насоса или изношенный насос, шар упал (нет фиксатора), теневые зоны за новыми фитингами: всё это проявляется как неудачный тест покрытия с рибофлавином или остатки.
+Otwory zatkane zanieczyszczeniami, niskie ciśnienie pompy lub zużyta pompa, kula spadła (brak zawleczki), strefy cienia za nowymi kształtkami: wszystko to wychodzi jako nieudany test pokrycia ryboflawiną lub pozostałości.
+Szennyeződéstől eltömődött furatok, alacsony szivattyúnyomás vagy kopott szivattyú, leesett gömb (hiányzó rögzítő), árnyékzónák új szerelvények mögött: mindez sikertelen riboflavin lefedettségi tesztként vagy maradványként jelenik meg.
+Orificios obstruidos por residuos, baja presión de bomba o bomba desgastada, bola caída (falta el clip), zonas de sombra detrás de nuevos accesorios: todo aparece como una prueba de cobertura con riboflavina fallida o como residuos.
+
+#5401
+Inspecter les trous et le clip à chaque ouverture, vérifier la pression et le débit d'alimentation à chaque CIP, garder un filtre à tamis en amont, refaire le test à la riboflavine après toute modification à l'intérieur de la cuve, changer le joint clamp selon le planning.
+Inspecionar furos e grampo a cada abertura, verificar pressão e vazão de alimentação em todo CIP, manter um filtro tela a montante, repetir o teste de riboflavina após qualquer mudança dentro do tanque, trocar a junta clamp conforme o cronograma.
+每次打开时检查孔和卡子，每次 CIP 都检查供液压力和流量，上游保留过滤器，罐内有任何改动后重做核黄素测试，按计划更换卡箍垫圈。
+Осматривать отверстия и фиксатор при каждом вскрытии, проверять давление и расход подачи при каждой CIP, держать сетчатый фильтр перед шаром, повторять тест с рибофлавином после любых изменений внутри бака, менять прокладку кламп по графику.
+Sprawdzać otwory i zawleczkę przy każdym otwarciu, kontrolować ciśnienie i przepływ zasilania przy każdym CIP, utrzymywać filtr siatkowy przed kulą, powtarzać test ryboflawinowy po każdej zmianie wewnątrz zbiornika, wymieniać uszczelkę clamp zgodnie z harmonogramem.
+Minden nyitáskor ellenőrizze a furatokat és a rögzítőt, minden CIP-nél ellenőrizze a betáp nyomását és áramát, tartson előtte szűrőt, a tartályon belüli bármilyen változtatás után ismételje meg a riboflavin tesztet, cserélje a clamp tömítést ütemterv szerint.
+Inspeccionar orificios y clip en cada apertura, comprobar presión y caudal de alimentación en cada CIP, mantener un filtro colador aguas arriba, repetir la prueba de riboflavina tras cualquier cambio dentro del tanque, cambiar la junta clamp según el plan.
+
+#5402
+Piquage supérieur de la cuve avec férule
+Bocal superior do tanque com férula
+带卡盘的罐顶接管
+Верхний патрубок бака с ферулой
+Króciec górny zbiornika z końcówką clamp
+Tartály felső csonkja clamp végződéssel
+Tubuladura superior del tanque con férula
+
+#5403
+Tube court soudé dans le fond de la cuve, avec une férule clamp en haut.
+Tubo curto soldado no tampo do tanque, com uma férula clamp em cima.
+焊在罐顶封头上的短管，顶部带卡箍卡盘。
+Короткий патрубок, вваренный в днище бака, с ферулой кламп сверху.
+Krótka rura wspawana w dennicę zbiornika, z końcówką clamp na górze.
+A tartály fenekébe hegesztett rövid cső, tetején clamp végződéssel.
+Tubo corto soldado en el fondo del tanque, con una férula clamp arriba.
+
+#5404
+Joint clamp (EPDM)
+Junta clamp (EPDM)
+卡箍垫圈（EPDM）
+Прокладка кламп (EPDM)
+Uszczelka clamp (EPDM)
+Clamp tömítés (EPDM)
+Junta clamp (EPDM)
+
+#5405
+Joint hygiénique avec un bourrelet qui se loge dans les rainures de la férule.
+Junta sanitária com um ressalto que se encaixa nos sulcos da férula.
+卫生级垫圈，凸缘卡入卡盘的槽内。
+Гигиеническая прокладка с буртиком, который ложится в канавки ферулы.
+Uszczelka higieniczna z wypustem, który siedzi w rowkach końcówki.
+Higiénikus tömítés peremmel, amely a végződés hornyaiba illeszkedik.
+Junta sanitaria con un reborde que asienta en las ranuras de la férula.
+
+#5406
+Bouchon plein avec canne plongeante
+Tampa cega com tubo de imersão
+带插入管的盲盖
+Заглушка с погружной трубой
+Zaślepka z rurą zanurzeniową
+Vakfedél merülőcsővel
+Tapón ciego con tubo de inmersión
+
+#5407
+Bouchon à férule avec la canne plongeante soudée au travers : fixe la hauteur de la boule dans la cuve.
+Tampa de férula com o tubo de imersão soldado através dela: define a altura da esfera no tanque.
+卡盘盲盖，插入管穿过并焊在上面：决定喷淋球在罐内的高度。
+Заглушка-ферула с вваренной насквозь погружной трубой: задаёт высоту шара в баке.
+Zaślepka clamp z przespawaną przez nią rurą zanurzeniową: ustala wysokość kuli w zbiorniku.
+Clamp vakfedél, amelyen át van hegesztve a merülőcső: ez határozza meg a gömb magasságát a tartályban.
+Tapón de férula con el tubo de inmersión soldado a través: fija la altura de la bola en el tanque.
+
+#5408
+Collier tri-clamp
+Abraçadeira tri-clamp
+三夹式卡箍（Tri-clamp）
+Хомут Tri-clamp
+Obejma tri-clamp
+Tri-clamp bilincs
+Abrazadera tri-clamp
+
+#5409
+Collier à charnière : rapproche les deux férules coniques sur le joint.
+Abraçadeira articulada: aperta as duas férulas cônicas contra a junta.
+铰链式卡箍：把两个锥形卡盘拉紧压在垫圈上。
+Шарнирный хомут: стягивает две конические ферулы на прокладке.
+Obejma na zawiasie: dociąga dwie stożkowe końcówki do uszczelki.
+Csuklós bilincs: a két kúpos végződést összehúzza a tömítésen.
+Abrazadera con bisagra: junta las dos férulas cónicas sobre la junta.
+
+#5410
+Boule de lavage
+Spray ball
+喷淋球
+Моющая головка
+Kula natryskowa
+Mosófej
+Bola de pulverización
+
+#5411
+Boule creuse avec des trous vers le haut, sur les côtés et vers le bas, et un trou de vidange en bas.
+Esfera oca com furos para cima, para os lados e para baixo, e um furo de dreno embaixo.
+空心球，孔朝上、朝侧面和朝下，底部有一个排液孔。
+Полый шар с отверстиями вверх, в стороны и вниз и дренажным отверстием снизу.
+Pusta kula z otworami w górę, na boki i w dół oraz otworem spustowym na dole.
+Üreges gömb felfelé, oldalra és lefelé néző furatokkal, alul leürítő furattal.
+Bola hueca con orificios hacia arriba, a los lados y hacia abajo, y un orificio de drenaje abajo.
+
+#5412
+Goupille et clip de maintien
+Pino e grampo de retenção
+定位销和卡子
+Фиксирующий штифт и шплинт
+Kołek ustalający i zawleczka
+Rögzítőcsap és rugós biztosító
+Pasador y clip de retención
+
+#5413
+Maintient la boule sur le tube ; la boule peut être retirée pour inspection.
+Prende a esfera no tubo; a esfera pode ser retirada para inspeção.
+把喷淋球固定在管上；可拔下喷淋球进行检查。
+Удерживает шар на трубе; шар можно снять для осмотра.
+Trzyma kulę na rurze; kulę można zdjąć do inspekcji.
+A gömböt a csövön tartja; a gömb ellenőrzéshez lehúzható.
+Sujeta la bola en el tubo; la bola se puede retirar para inspección.
+
+#5414
+Raccord d'alimentation CIP
+Conexão de alimentação de CIP
+CIP 供液接口
+Подключение подачи CIP
+Przyłącze zasilania CIP
+CIP betáp csatlakozás
+Conexión de alimentación CIP
+
+#5415
+Tuyauterie d'alimentation venant du skid CIP, fixée par clamp sur le bouchon.
+Tubo de alimentação vindo do skid de CIP, fixado com clamp na tampa.
+来自 CIP 撬的供液管，用卡箍接在盲盖上。
+Подающая труба от станции CIP, закреплённая хомутом на заглушке.
+Rura zasilająca ze skidu CIP, zamocowana obejmą clamp na zaślepce.
+A CIP egységtől jövő betápcső, clamp bilinccsel a vakfedélre rögzítve.
+Tubo de alimentación desde el skid de CIP, sujeto con clamp al tapón.
+
+#5416
+Comment prouver qu'une boule de lavage nettoie chaque surface ?
+Como provar que uma spray ball limpa todas as superfícies?
+如何证明喷淋球能清洗每个表面？
+Как доказать, что моющая головка очищает каждую поверхность?
+Jak udowodnić, że kula natryskowa myje każdą powierzchnię?
+Hogyan bizonyítható, hogy a mosófej minden felületet tisztít?
+¿Cómo se demuestra que una bola de pulverización limpia todas las superficies?
+
+#5417
+Test de couverture à la riboflavine sous lumière UV
+Teste de cobertura com riboflavina sob luz UV
+在紫外灯下做核黄素覆盖测试
+Тест покрытия с рибофлавином под УФ-светом
+Test pokrycia ryboflawiną w świetle UV
+Riboflavin lefedettségi teszt UV fény alatt
+Prueba de cobertura con riboflavina bajo luz UV
+
+#5418
+Regarder l'extérieur de la cuve
+Olhar o lado de fora do tanque
+看罐体外部
+Осмотреть бак снаружи
+Obejrzeć zbiornik z zewnątrz
+Megnézni a tartály külsejét
+Mirar el exterior del tanque
+
+#5419
+Mesurer le courant du moteur
+Medir a corrente do motor
+测量电机电流
+Измерить ток двигателя
+Zmierzyć prąd silnika
+Megmérni a motoráramot
+Medir la corriente del motor
+
+#5420
+Peser la cuve
+Pesar o tanque
+给罐称重
+Взвесить бак
+Zważyć zbiornik
+Lemérni a tartályt
+Pesar el tanque
+
+#5421
+Les résultats de CIP se sont dégradés ; la pression d'alimentation est normale mais le débit est faible. Cause probable ?
+Os resultados de CIP pioraram; a pressão de alimentação está normal, mas a vazão está baixa. Causa provável?
+CIP 结果变差；供液压力正常但流量偏低。可能原因？
+Результаты CIP ухудшились; давление подачи в норме, но расход низкий. Вероятная причина?
+Wyniki CIP się pogorszyły; ciśnienie zasilania jest normalne, ale przepływ niski. Prawdopodobna przyczyna?
+A CIP eredmények romlottak; a betáp nyomása normál, de az áram alacsony. Valószínű ok?
+Los resultados del CIP empeoraron; la presión de alimentación es normal pero el caudal es bajo. ¿Causa probable?
+
+#5422
+Trous de la boule bouchés
+Furos da esfera entupidos
+喷淋球的孔堵塞
+Забитые отверстия в шаре
+Zatkane otwory w kuli
+Eltömődött furatok a gömbön
+Orificios de la bola obstruidos
+
+#5423
+Trop de trous
+Furos demais
+孔太多
+Слишком много отверстий
+Za dużo otworów
+Túl sok furat
+Demasiados orificios
+
+#5424
+Joint trop neuf
+Junta nova demais
+垫圈太新
+Прокладка слишком новая
+Zbyt nowa uszczelka
+Túl új tömítés
+Junta demasiado nueva
+
+#5425
+La cuve est trop propre
+O tanque está limpo demais
+罐太干净
+Бак слишком чистый
+Zbiornik jest zbyt czysty
+A tartály túl tiszta
+El tanque está demasiado limpio
+
+#5426
+Voyant sanitaire (DN80, type clamp)
+Visor sanitário (DN80, tipo clamp)
+卫生级视镜（DN80，卡箍式）
+Санитарное смотровое стекло (DN80, кламп)
+Wziernik higieniczny (DN80, typ clamp)
+Higiénikus kémlelőüveg (DN80, clamp típus)
+Mirilla sanitaria (DN80, tipo clamp)
+
+#5427
+Disque épais en verre borosilicaté serré entre deux joints hygiéniques sur un piquage de cuve, pour voir à l'intérieur sans ouvrir la cuve.
+Disco grosso de vidro borossilicato preso entre duas juntas sanitárias em um bocal do tanque, para ver o interior sem abrir o tanque.
+厚的硼硅玻璃片，夹在罐体接管上的两个卫生级垫圈之间，不用打开罐就能看到里面。
+Толстый диск из боросиликатного стекла, зажатый между двумя гигиеническими прокладками на патрубке бака, чтобы видеть внутрь, не открывая бак.
+Gruby dysk ze szkła borokrzemowego zaciśnięty między dwiema uszczelkami higienicznymi na króćcu zbiornika, aby widzieć wnętrze bez otwierania zbiornika.
+Vastag boroszilikát üvegtárcsa két higiénikus tömítés közé szorítva egy tartálycsonkon, hogy a tartály kinyitása nélkül be lehessen látni.
+Disco grueso de vidrio borosilicato apretado entre dos juntas sanitarias en una tubuladura del tanque, para ver el interior sin abrir el tanque.
+
+#5428
+Haut et côtés des cuves de préparation des solutions, cuves de stockage PW/WFI et réacteurs ; souvent associé à une lampe de voyant.
+Topos e laterais de tanques no preparo de soluções, tanques de armazenamento de PW/WFI e reatores; muitas vezes junto com uma lâmpada de visor.
+用于溶液配制罐、PW/WFI 储罐和反应釜的顶部和侧面；常与视镜灯配合使用。
+Верх и бока баков приготовления растворов, баков хранения PW/WFI и реакторов; часто вместе с лампой смотрового стекла.
+Góra i boki zbiorników w przygotowaniu roztworów, zbiorników magazynowych PW/WFI i reaktorów; często w parze z lampą wziernika.
+Oldatkészítő tartályok, PW/WFI tárolótartályok és reaktorok teteje és oldala; gyakran kémlelőüveg-lámpával együtt.
+Parte superior y laterales de tanques de preparación de soluciones, tanques de almacenamiento de PW/WFI y reactores; a menudo junto con una lámpara de mirilla.
+
+#5429
+La férule conique et la bague de retenue sont rapprochées par le collier ; les joints assurent l'étanchéité des deux faces du verre et empêchent le métal de le toucher.
+A férula cônica e o anel de retenção são apertados pela abraçadeira; as juntas vedam as duas faces do vidro e impedem que o metal encoste nele.
+卡箍把锥形卡盘和压环拉紧；垫圈密封玻璃的两面，并防止金属碰到玻璃。
+Хомут стягивает коническую ферулу и прижимное кольцо; прокладки уплотняют обе стороны стекла и не дают металлу касаться его.
+Obejma ściąga stożkową końcówkę i pierścień dociskowy; uszczelki uszczelniają obie powierzchnie szkła i nie pozwalają, by metal go dotykał.
+A bilincs összehúzza a kúpos végződést és a leszorítógyűrűt; a tömítések az üveg mindkét oldalát tömítik, és megakadályozzák, hogy fém érjen hozzá.
+La abrazadera junta la férula cónica y el anillo de retención; las juntas sellan las dos caras del vidrio y evitan que el metal lo toque.
+
+#5430
+Éclats ou fissures (risque de bris de verre dans le produit), fuites dues à des joints durcis ou extrudés, rayures ou buée qui masquent la vue, verre fissuré par un serrage inégal ou un choc thermique.
+Lascas ou trincas (risco de quebra de vidro no produto), vazamentos por juntas endurecidas ou extrudadas, riscos ou embaçamento que escondem a visão, vidro trincado por aperto desigual ou choque térmico.
+缺口或裂纹（玻璃破碎污染产品的风险）、垫圈硬化或被挤出导致泄漏、划痕或起雾影响观察、夹紧不均或热冲击使玻璃开裂。
+Сколы или трещины (риск попадания стекла в продукт), течи из-за затвердевших или выдавленных прокладок, царапины или запотевание, мешающие обзору, стекло треснуло от неравномерной затяжки или термоудара.
+Odpryski lub pęknięcia (ryzyko stłuczenia szkła do produktu), wycieki z twardych lub wyciśniętych uszczelek, rysy lub zaparowanie zasłaniające widok, szkło pęknięte od nierównego dokręcenia lub szoku termicznego.
+Lepattanás vagy repedés (üvegtörés kockázata a termékre), szivárgás megkeményedett vagy kinyomódott tömítések miatt, a látást akadályozó karcok vagy párásodás, egyenetlen szorítástól vagy hősokktól megrepedt üveg.
+Desconchados o grietas (riesgo de rotura de vidrio en el producto), fugas por juntas endurecidas o extruidas, rayas o empañamiento que tapan la vista, vidrio agrietado por apriete desigual o choque térmico.
+
+#5431
+Inspecter le verre avant chaque lot selon la procédure bris de verre, serrer le collier à la main de façon uniforme, ne jamais frapper ni faire levier sur le verre, remplacer les joints (EPDM ou PTFE conformes FDA) selon le planning, éviter l'eau froide sur le verre chaud.
+Inspecionar o vidro antes de cada lote conforme o POP de quebra de vidro, apertar a abraçadeira à mão de forma uniforme, nunca bater ou fazer alavanca no vidro, trocar as juntas (EPDM ou PTFE FDA) conforme o cronograma, evitar água fria em vidro quente.
+每批生产前按玻璃破碎 SOP 检查玻璃，用手均匀拧紧卡箍，绝不敲击或撬玻璃，按计划更换垫圈（FDA 级 EPDM 或 PTFE），避免冷水浇在热玻璃上。
+Осматривать стекло перед каждой серией по СОП о разбитии стекла, равномерно затягивать хомут рукой, никогда не бить и не поддевать стекло, менять прокладки (EPDM или PTFE по FDA) по графику, не лить холодную воду на горячее стекло.
+Sprawdzać szkło przed każdą serią wg SOP stłuczenia szkła, dokręcać obejmę ręcznie i równomiernie, nigdy nie uderzać ani nie podważać szkła, wymieniać uszczelki (EPDM lub PTFE zgodne z FDA) wg harmonogramu, unikać zimnej wody na gorącym szkle.
+Minden gyártási tétel előtt ellenőrizze az üveget az üvegtörési SOP szerint, a bilincset kézzel, egyenletesen húzza meg, soha ne üsse és ne feszegesse az üveget, cserélje a tömítéseket (FDA EPDM vagy PTFE) ütemterv szerint, kerülje a hideg vizet a forró üvegen.
+Inspeccionar el vidrio antes de cada lote según el PNT de rotura de vidrio, apretar la abrazadera a mano de forma uniforme, nunca golpear ni hacer palanca sobre el vidrio, cambiar las juntas (EPDM o PTFE FDA) según el plan, evitar agua fría sobre vidrio caliente.
+
+#5432
+Piquage avec férule
+Bocal com férula
+带卡盘的接管
+Патрубок с ферулой
+Króciec z końcówką clamp
+Csonk clamp végződéssel
+Tubuladura con férula
+
+#5433
+Tube court soudé dans le fond de la cuve, férule conique en haut.
+Tubo curto soldado no tampo do tanque, férula cônica em cima.
+焊在罐顶封头上的短管，顶部为锥形卡盘。
+Короткий патрубок, вваренный в днище бака, коническая ферула сверху.
+Krótka rura wspawana w dennicę zbiornika, stożkowa końcówka na górze.
+A tartály fenekébe hegesztett rövid cső, tetején kúpos végződés.
+Tubo corto soldado en el fondo del tanque, férula cónica arriba.
+
+#5434
+Joint inférieur
+Junta inferior
+下垫圈
+Нижняя прокладка
+Uszczelka dolna
+Alsó tömítés
+Junta inferior
+
+#5435
+Assure l'étanchéité entre la face de la férule, le verre et la bague.
+Veda a face da férula contra o vidro e o anel.
+密封卡盘端面与玻璃及压环之间。
+Уплотняет торец ферулы относительно стекла и кольца.
+Uszczelnia czoło końcówki względem szkła i pierścienia.
+A végződés homlokfelületét tömíti az üveghez és a gyűrűhöz.
+Sella la cara de la férula contra el vidrio y el anillo.
+
+#5436
+Disque en verre (borosilicaté)
+Disco de vidro (borossilicato)
+玻璃片（硼硅玻璃）
+Стеклянный диск (боросиликатный)
+Dysk szklany (borokrzemowy)
+Üvegtárcsa (boroszilikát)
+Disco de vidrio (borosilicato)
+
+#5437
+Verre épais, résistant à la chaleur, prévu pour la pression de la cuve.
+Vidro grosso, resistente ao calor, especificado para a pressão do tanque.
+厚的耐热玻璃，额定承受罐内压力。
+Толстое термостойкое стекло, рассчитанное на давление бака.
+Grube, żaroodporne szkło dobrane do ciśnienia zbiornika.
+Vastag, hőálló üveg, a tartály nyomására méretezve.
+Vidrio grueso, resistente al calor, apto para la presión del tanque.
+
+#5438
+Joint supérieur
+Junta superior
+上垫圈
+Верхняя прокладка
+Uszczelka górna
+Felső tömítés
+Junta superior
+
+#5439
+Amortit le verre sous la bague de retenue.
+Amortece o vidro sob o anel de retenção.
+在压环下面为玻璃提供缓冲。
+Смягчает давление прижимного кольца на стекло.
+Amortyzuje szkło pod pierścieniem dociskowym.
+Párnázza az üveget a leszorítógyűrű alatt.
+Amortigua el vidrio bajo el anillo de retención.
+
+#5440
+Bague de retenue
+Anel de retenção
+压环
+Прижимное кольцо
+Pierścień dociskowy
+Leszorítógyűrű
+Anillo de retención
+
+#5441
+Maintient le verre ; son bord conique s'emboîte dans le collier.
+Prende o vidro; sua borda cônica encaixa na abraçadeira.
+压住玻璃；其锥形边与卡箍配合。
+Удерживает стекло; его конический край входит в хомут.
+Trzyma szkło; jego stożkowa krawędź pasuje do obejmy.
+Tartja az üveget; kúpos pereme a bilincsbe illeszkedik.
+Sujeta el vidrio; su borde cónico encaja en la abrazadera.
+
+#5442
+Collier tri-clamp à écrou papillon
+Abraçadeira tri-clamp com porca borboleta
+带蝶形螺母的三夹式卡箍
+Хомут Tri-clamp с барашковой гайкой
+Obejma tri-clamp z nakrętką motylkową
+Tri-clamp bilincs szárnyas anyával
+Abrazadera tri-clamp con tuerca de mariposa
+
+#5443
+Rapproche la bague et la férule de façon uniforme. Serrer à la main.
+Aperta o anel e a férula de forma uniforme. Apertar à mão.
+把压环和卡盘均匀拉紧。用手拧紧。
+Равномерно стягивает кольцо и ферулу. Затягивать рукой.
+Równomiernie ściąga pierścień i końcówkę. Dokręcać ręcznie.
+Egyenletesen összehúzza a gyűrűt és a végződést. Kézzel húzza meg.
+Junta el anillo y la férula de forma uniforme. Apretar a mano.
+
+#5444
+Vous trouvez un petit éclat sur le voyant avant un lot. Que faites-vous ?
+Você encontra uma pequena lasca no visor antes de um lote. O que você faz?
+在一批生产前发现视镜上有个小缺口。你怎么做？
+Перед серией вы нашли небольшой скол на смотровом стекле. Что вы делаете?
+Przed serią znajdujesz mały odprysk na wzierniku. Co robisz?
+Gyártási tétel előtt kis lepattanást talál a kémlelőüvegen. Mit tesz?
+Encuentra un pequeño desconchado en la mirilla antes de un lote. ¿Qué hace?
+
+#5445
+Arrêter et suivre la procédure bris de verre ; remplacer le verre
+Parar e seguir o procedimento de quebra de vidro; trocar o vidro
+停止并按玻璃破碎程序处理；更换玻璃
+Остановиться и выполнить процедуру при разбитии стекла; заменить стекло
+Zatrzymać i postępować wg procedury stłuczenia szkła; wymienić szkło
+Megállni és követni az üvegtörési eljárást; kicserélni az üveget
+Parar y seguir el procedimiento de rotura de vidrio; cambiar el vidrio
+
+#5446
+L'ignorer s'il ne fuit pas
+Ignorar se não vazar
+不漏就不管
+Не обращать внимания, если не течёт
+Zignorować, jeśli nie cieknie
+Figyelmen kívül hagyni, ha nem szivárog
+Ignorarlo si no gotea
+
+#5447
+Serrer davantage le collier
+Apertar mais a abraçadeira
+把卡箍再拧紧些
+Сильнее затянуть хомут
+Mocniej dokręcić obejmę
+Jobban meghúzni a bilincset
+Apretar más la abrazadera
+
+#5448
+Le recouvrir de ruban adhésif
+Cobrir com fita adesiva
+用胶带贴住
+Заклеить скотчем
+Zakleić taśmą
+Leragasztani szalaggal
+Cubrirlo con cinta
+
+#5449
+Pourquoi y a-t-il un joint de chaque côté du verre ?
+Por que há uma junta em cada lado do vidro?
+为什么玻璃两侧都有垫圈？
+Почему прокладка стоит с обеих сторон стекла?
+Dlaczego po obu stronach szkła jest uszczelka?
+Miért van tömítés az üveg mindkét oldalán?
+¿Por qué hay una junta a cada lado del vidrio?
+
+#5450
+Pour l'étanchéité et pour éviter que le métal touche et fissure le verre
+Para vedar e impedir que o metal encoste e trinque o vidro
+为了密封，并防止金属碰到玻璃使其开裂
+Для уплотнения и чтобы металл не касался стекла и не трескал его
+Aby uszczelnić i nie dopuścić, by metal dotykał i pękał szkło
+A tömítés miatt, és hogy a fém ne érjen hozzá és ne repessze meg az üveget
+Para sellar y evitar que el metal toque y agriete el vidrio
+
+#5451
+Pour le rendre plus épais
+Para deixá-lo mais grosso
+为了让它更厚
+Чтобы сделать его толще
+Aby było grubsze
+Hogy vastagabb legyen
+Para hacerlo más grueso
+
+#5452
+Pour l'isolation électrique
+Para isolamento elétrico
+为了电气绝缘
+Для электрической изоляции
+Dla izolacji elektrycznej
+Elektromos szigetelés miatt
+Para aislamiento eléctrico
+
+#5453
+Pour changer la couleur
+Para mudar a cor
+为了改变颜色
+Чтобы изменить цвет
+Aby zmienić kolor
+Hogy megváltozzon a színe
+Para cambiar el color
+
+#5454
+Échangeur à faisceau tubulaire
+Trocador de calor casco e tubos
+管壳式换热器
+Кожухотрубный теплообменник
+Wymiennik płaszczowo-rurowy
+Csőköteges hőcserélő
+Intercambiador de carcasa y tubos
+
+#5455
+Un faisceau de tubes dans une calandre. Un fluide circule dans les tubes (ici en deux passes, séparées par une plaque de partition dans la boîte avant), l'autre circule autour des tubes dans la calandre, guidé par des chicanes.
+Um feixe de tubos dentro de um casco. Um fluido passa pelos tubos (aqui em dois passes, divididos por uma placa divisória no cabeçote dianteiro), o outro passa em volta dos tubos no casco, guiado por chicanas.
+壳体内装有一束管子。一种流体走管程（这里是两程，由前管箱中的分程隔板隔开），另一种在壳程中绕着管子流动，由折流板引导。
+Пучок труб внутри кожуха. Одна среда течёт по трубам (здесь в два хода, разделённых перегородкой в передней камере), другая течёт вокруг труб в межтрубном пространстве, направляемая перегородками.
+Wiązka rurek wewnątrz płaszcza. Jedno medium płynie rurkami (tu w dwóch przejściach, rozdzielonych przegrodą w przedniej komorze), drugie płynie wokół rurek w płaszczu, prowadzone przez przegrody.
+Csőköteg egy köpenyben. Az egyik közeg a csövekben áramlik (itt két járatban, amelyeket az elülső kamrában egy osztólemez választ el), a másik a köpenyben a csövek körül, terelőlemezek vezetésével.
+Un haz de tubos dentro de una carcasa. Un fluido circula por los tubos (aquí en dos pasos, separados por una placa divisoria en el cabezal delantero), el otro circula alrededor de los tubos en la carcasa, guiado por deflectores.
+
+#5456
+Réchauffeurs vapeur pour l'eau chaude et la sanitisation de la boucle PW, refroidisseurs WFI aux points d'utilisation, générateurs de vapeur propre, refroidisseurs à eau glacée. Le service eau pharma utilise des doubles plaques tubulaires pour qu'une fuite ne puisse pas mélanger les fluides.
+Aquecedores a vapor para água quente e sanitização do loop de PW, resfriadores de WFI nos pontos de uso, geradores de vapor limpo, resfriadores de água gelada. Em água farmacêutica usam-se espelhos duplos para que um vazamento não misture os fluidos.
+用于热水和 PW 回路消毒的蒸汽加热器、WFI 使用点冷却器、纯蒸汽发生器、冷冻水冷却器。制药用水系统采用双管板，使泄漏不会让两种流体混合。
+Паровые подогреватели горячей воды и для санитизации контура PW, охладители WFI в точках отбора, генераторы чистого пара, охладители на охлаждённой воде. В фармацевтической воде используют двойные трубные решётки, чтобы течь не смешала среды.
+Podgrzewacze parowe do gorącej wody i sanityzacji pętli PW, chłodnice WFI w punktach poboru, wytwornice czystej pary, chłodnice na wodę lodową. W wodzie farmaceutycznej stosuje się podwójne dna sitowe, aby przeciek nie zmieszał mediów.
+Gőzös melegítők a meleg vízhez és a PW hurok szanitizálásához, WFI hűtők a felhasználási pontokon, tisztagőz-fejlesztők, hűtött vizes hűtők. Gyógyszeripari víznél dupla csőfalat használnak, hogy egy szivárgás ne keverhesse össze a közegeket.
+Calentadores de vapor para agua caliente y sanitización del lazo de PW, enfriadores de WFI en puntos de uso, generadores de vapor limpio, enfriadores de agua helada. En agua farmacéutica se usan placas tubulares dobles para que una fuga no pueda mezclar los fluidos.
+
+#5457
+La chaleur traverse la paroi des tubes. Les chicanes font traverser les tubes plusieurs fois au fluide côté calandre (meilleur transfert de chaleur) et soutiennent les tubes contre les vibrations. Les extrémités des tubes sont dudgeonnées ou soudées dans les plaques tubulaires.
+O calor passa pelas paredes dos tubos. As chicanas fazem o fluido do casco cruzar os tubos várias vezes (melhor troca térmica) e apoiam os tubos contra vibração. As pontas dos tubos são mandriladas ou soldadas nos espelhos.
+热量通过管壁传递。折流板使壳程流体多次横穿管束（传热更好），并支撑管子防止振动。管端胀接或焊接在管板上。
+Тепло проходит через стенки труб. Перегородки заставляют межтрубную среду несколько раз пересекать трубы (лучше теплопередача) и поддерживают трубы от вибрации. Концы труб развальцованы или вварены в трубные решётки.
+Ciepło przechodzi przez ścianki rurek. Przegrody zmuszają medium w płaszczu do wielokrotnego przecinania rurek (lepsza wymiana ciepła) i podpierają rurki przed drganiami. Końce rurek są rozwalcowane lub wspawane w dna sitowe.
+A hő a csőfalakon át jut át. A terelőlemezek miatt a köpenyoldali közeg többször keresztezi a csöveket (jobb hőátadás), és alátámasztják a csöveket a rezgés ellen. A csővégek be vannak hengerelve vagy hegesztve a csőfalakba.
+El calor pasa a través de las paredes de los tubos. Los deflectores hacen que el fluido de la carcasa cruce los tubos varias veces (mejor transferencia de calor) y sostienen los tubos frente a la vibración. Los extremos de los tubos van mandrinados o soldados en las placas tubulares.
+
+#5458
+Fuite de tube (contamination croisée, hausse de conductivité, vapeur côté produit), encrassement et tartre (la température de sortie baisse, la perte de charge augmente), fuites des joints aux boîtes, usure des tubes au niveau des chicanes par vibration, corrosion.
+Vazamento em tubo (contaminação cruzada, aumento de condutividade, vapor no lado do produto), incrustação e depósitos (a temperatura de saída cai, a perda de carga sobe), vazamentos de juntas nos cabeçotes, desgaste dos tubos nas chicanas por vibração, corrosão.
+管子泄漏（交叉污染、电导率上升、产品侧有蒸汽）、结垢和污垢（出口温度下降、压降上升）、管箱垫片泄漏、振动导致管子在折流板处磨损、腐蚀。
+Течь трубы (перекрёстное загрязнение, рост электропроводности, пар на стороне продукта), загрязнение и накипь (температура на выходе падает, перепад давления растёт), течи прокладок камер, износ труб у перегородок от вибрации, коррозия.
+Przeciek rurki (zanieczyszczenie krzyżowe, wzrost przewodności, para po stronie produktu), osady i kamień (spada temperatura na wylocie, rośnie spadek ciśnienia), wycieki uszczelek na komorach, wycieranie rurek przy przegrodach od drgań, korozja.
+Csőszivárgás (keresztszennyeződés, vezetőképesség-emelkedés, gőz a termékoldalon), lerakódás és vízkő (csökken a kilépő hőmérséklet, nő a nyomásesés), kamratömítések szivárgása, csőkopás a terelőlemezeknél a rezgés miatt, korrózió.
+Fuga en un tubo (contaminación cruzada, aumento de conductividad, vapor en el lado del producto), ensuciamiento e incrustaciones (baja la temperatura de salida, sube la pérdida de carga), fugas de juntas en los cabezales, desgaste de tubos en los deflectores por vibración, corrosión.
+
+#5459
+Suivre les tendances des températures entrée/sortie et de la perte de charge, faire un test en pression ou à l'hélium des tubes selon le planning, nettoyer chimiquement ou mécaniquement, remplacer les joints des boîtes à chaque ouverture, garder la calandre purgée d'air et vidangée, tester la soupape de sécurité.
+Acompanhar a tendência das temperaturas de entrada/saída e da perda de carga, fazer teste de pressão ou de hélio nos tubos conforme o cronograma, limpar química ou mecanicamente, trocar as juntas dos cabeçotes ao abrir, manter o casco ventilado e drenado, testar a válvula de segurança.
+跟踪进出口温度和压降趋势，按计划对管子做压力或氦检漏试验，进行化学或机械清洗，打开后更换管箱垫片，保持壳程排气和排液，测试安全阀。
+Отслеживать тренды температур на входе/выходе и перепада давления, по графику проводить опрессовку или гелиевый тест труб, чистить химически или механически, менять прокладки камер при вскрытии, держать межтрубное пространство с удалённым воздухом и дренированным, проверять предохранительный клапан.
+Śledzić trendy temperatur wlotu/wylotu i spadku ciśnienia, wg harmonogramu wykonywać próbę ciśnieniową lub helową rurek, czyścić chemicznie lub mechanicznie, wymieniać uszczelki komór po otwarciu, utrzymywać płaszcz odpowietrzony i odwodniony, testować zawór bezpieczeństwa.
+Kövesse a be- és kilépő hőmérséklet és a nyomásesés trendjét, ütemterv szerint végezzen nyomáspróbát vagy héliumos tesztet a csöveken, tisztítson vegyileg vagy mechanikusan, nyitáskor cserélje a kamratömítéseket, tartsa a köpenyt légtelenítve és leürítve, tesztelje a biztonsági szelepet.
+Seguir la tendencia de las temperaturas de entrada/salida y de la pérdida de carga, hacer prueba de presión o de helio de los tubos según el plan, limpiar química o mecánicamente, cambiar las juntas de los cabezales al abrir, mantener la carcasa venteada y drenada, probar la válvula de seguridad.
+
+#5460
+Plaque tubulaire avant
+Espelho dianteiro
+前管板
+Передняя трубная решётка
+Przednie dno sitowe
+Elülső csőfal
+Placa tubular delantera
+
+#5461
+Plaque épaisse percée : les extrémités des tubes y sont dudgeonnées.
+Placa grossa furada: as pontas dos tubos são mandriladas nela.
+钻孔的厚板：管端胀接在上面。
+Толстая плита с отверстиями: концы труб развальцованы в ней.
+Gruba nawiercona płyta: końce rurek są w niej rozwalcowane.
+Vastag fúrt lemez: a csővégek bele vannak hengerelve.
+Placa gruesa taladrada: los extremos de los tubos van mandrinados en ella.
+
+#5462
+Tirants et entretoises
+Tirantes e espaçadores
+拉杆和定距管
+Стяжки и дистанционные трубки
+Ściągi i tuleje dystansowe
+Merevítő rudak és távtartók
+Tirantes y espaciadores
+
+#5463
+Maintiennent les chicanes au bon espacement.
+Mantêm as chicanas no espaçamento correto.
+使折流板保持正确的间距。
+Держат перегородки на правильном расстоянии.
+Utrzymują przegrody we właściwych odstępach.
+A terelőlemezeket a megfelelő távolságban tartják.
+Mantienen los deflectores a la separación correcta.
+
+#5464
+Chicanes segmentées
+Chicanas segmentadas
+弓形折流板
+Сегментные перегородки
+Przegrody segmentowe
+Szegmens terelőlemezek
+Deflectores segmentados
+
+#5465
+Coupe de 25 %, alternée en haut et en bas : le fluide côté calandre zigzague à travers les tubes.
+Corte de 25 %, alternando em cima e embaixo: o fluido do casco faz zigue-zague pelos tubos.
+25 % 缺口，上下交替：壳程流体在管束间呈之字形流动。
+Вырез 25 %, поочерёдно сверху и снизу: межтрубная среда идёт зигзагом поперёк труб.
+Wycięcie 25 %, na przemian u góry i u dołu: medium w płaszczu płynie zygzakiem przez rurki.
+25 %-os kivágás, felváltva fent és lent: a köpenyoldali közeg cikcakkban halad a csöveken át.
+Corte del 25 %, alternando arriba y abajo: el fluido de la carcasa zigzaguea a través de los tubos.
+
+#5466
+Faisceau de tubes (19 mm)
+Feixe de tubos (19 mm)
+管束（19 mm）
+Трубный пучок (19 mm)
+Wiązka rurek (19 mm)
+Csőköteg (19 mm)
+Haz de tubos (19 mm)
+
+#5467
+Tubes à paroi mince en pas triangulaire ; la chaleur passe à travers leur paroi.
+Tubos de parede fina em passo triangular; o calor passa pelas suas paredes.
+三角形排列的薄壁管；热量通过管壁传递。
+Тонкостенные трубы с треугольной разбивкой; тепло проходит через их стенки.
+Cienkościenne rurki w podziałce trójkątnej; ciepło przechodzi przez ich ścianki.
+Vékonyfalú csövek háromszög osztásban; a hő a falukon át jut át.
+Tubos de pared delgada en paso triangular; el calor pasa a través de sus paredes.
+
+#5468
+Calandre avec piquages
+Casco com bocais
+带接管的壳体
+Кожух с патрубками
+Płaszcz z króćcami
+Köpeny csonkokkal
+Carcasa con tubuladuras
+
+#5469
+Calandre sous pression ; entrée côté calandre en haut à une extrémité, sortie en bas à l'autre.
+Casco sob pressão; entrada do lado do casco em cima numa ponta, saída embaixo na outra.
+压力壳体；壳程进口在一端顶部，出口在另一端底部。
+Корпус под давлением; вход межтрубного пространства сверху с одного конца, выход снизу с другого.
+Płaszcz ciśnieniowy; wlot strony płaszcza u góry na jednym końcu, wylot u dołu na drugim.
+Nyomás alatti köpeny; a köpenyoldali belépés az egyik végén felül, a kilépés a másik végén alul.
+Carcasa a presión; entrada del lado carcasa arriba en un extremo, salida abajo en el otro.
+
+#5470
+Supports en berceau
+Suportes tipo sela
+鞍座支架
+Седловые опоры
+Podpory siodłowe
+Nyeregtartók
+Soportes de silla
+
+#5471
+Soudés à la calandre ; une extrémité a souvent des trous oblongs pour la dilatation thermique.
+Soldados ao casco; uma ponta muitas vezes tem furos oblongos para a dilatação térmica.
+焊在壳体上；一端常开长圆孔以适应热膨胀。
+Приварены к кожуху; одна опора часто с овальными отверстиями для теплового расширения.
+Przyspawane do płaszcza; jedna często ma otwory podłużne na rozszerzalność cieplną.
+A köpenyhez hegesztve; az egyik végén gyakran hosszlyukas a hőtágulás miatt.
+Soldados a la carcasa; un extremo suele tener agujeros colisos para la dilatación térmica.
+
+#5472
+Plaque tubulaire arrière
+Espelho traseiro
+后管板
+Задняя трубная решётка
+Tylne dno sitowe
+Hátsó csőfal
+Placa tubular trasera
+
+#5473
+Deuxième plaque tubulaire à l'extrémité de retour.
+Segundo espelho na ponta de retorno.
+回流端的第二块管板。
+Вторая трубная решётка на стороне поворота.
+Drugie dno sitowe na końcu zwrotnym.
+Második csőfal a fordító oldalon.
+Segunda placa tubular en el extremo de retorno.
+
+#5474
+Joint avant
+Junta dianteira
+前垫片
+Передняя прокладка
+Uszczelka przednia
+Elülső tömítés
+Junta delantera
+
+#5475
+Assure l'étanchéité entre la boîte et la plaque tubulaire, y compris la nervure de la plaque de partition.
+Veda o cabeçote contra o espelho, incluindo a nervura da placa divisória.
+密封管箱与管板之间，包括分程隔板筋条处。
+Уплотняет камеру относительно трубной решётки, включая ребро перегородки.
+Uszczelnia komorę względem dna sitowego, łącznie z żebrem przegrody.
+A kamrát tömíti a csőfalhoz, az osztólemez bordáját is beleértve.
+Sella el cabezal contra la placa tubular, incluido el nervio de la placa divisoria.
+
+#5476
+Boîte avant avec partition
+Cabeçote dianteiro com divisória
+带分程隔板的前管箱
+Передняя камера с перегородкой
+Komora przednia z przegrodą
+Elülső kamra osztólemezzel
+Cabezal delantero con divisoria
+
+#5477
+Entrée et sortie côté tubes ; la plaque de partition crée deux passes.
+Entrada e saída do lado dos tubos; a placa divisória cria dois passes.
+管程进口和出口；分程隔板形成两程。
+Вход и выход трубного пространства; перегородка создаёт два хода.
+Wlot i wylot strony rurowej; przegroda tworzy dwa przejścia.
+Csőoldali be- és kilépés; az osztólemez két járatot hoz létre.
+Entrada y salida del lado de tubos; la placa divisoria crea dos pasos.
+
+#5478
+Joint arrière
+Junta traseira
+后垫片
+Задняя прокладка
+Uszczelka tylna
+Hátsó tömítés
+Junta trasera
+
+#5479
+Assure l'étanchéité du fond de retour.
+Veda o tampo de retorno.
+密封回流封头。
+Уплотняет поворотную крышку.
+Uszczelnia pokrywę zwrotną.
+A fordító fedelet tömíti.
+Sella el casquete de retorno.
+
+#5480
+Fond de retour arrière
+Tampo de retorno traseiro
+后回流封头
+Задняя поворотная крышка
+Tylna pokrywa zwrotna
+Hátsó fordító fedél
+Casquete de retorno trasero
+
+#5481
+Renvoie l'écoulement côté tubes dans la deuxième passe.
+Retorna o fluxo do lado dos tubos para o segundo passe.
+把管程流体折返进入第二程。
+Разворачивает поток трубного пространства во второй ход.
+Zawraca przepływ strony rurowej do drugiego przejścia.
+A csőoldali áramlást visszafordítja a második járatba.
+Devuelve el flujo del lado de tubos al segundo paso.
+
+#5482
+La température de sortie ne cesse de baisser et la perte de charge augmente au fil des mois. Cause probable ?
+A temperatura de saída continua caindo e a perda de carga sobe ao longo dos meses. Causa provável?
+几个月来出口温度持续下降、压降不断上升。可能原因？
+Температура на выходе падает, а перепад давления растёт месяц за месяцем. Вероятная причина?
+Temperatura na wylocie ciągle spada, a spadek ciśnienia rośnie przez kolejne miesiące. Prawdopodobna przyczyna?
+A kilépő hőmérséklet hónapok óta folyamatosan csökken, a nyomásesés nő. Valószínű ok?
+La temperatura de salida sigue bajando y la pérdida de carga sube con los meses. ¿Causa probable?
+
+#5483
+Encrassement ou tartre sur les tubes
+Incrustação ou depósitos nos tubos
+管子结垢或污垢
+Загрязнение или накипь на трубах
+Osady lub kamień na rurkach
+Lerakódás vagy vízkő a csöveken
+Ensuciamiento o incrustaciones en los tubos
+
+#5484
+Joint trop serré
+Junta apertada demais
+垫片压得太紧
+Прокладка слишком затянута
+Uszczelka zbyt mocno dociśnięta
+Túl szoros tömítés
+Junta demasiado apretada
+
+#5485
+Trop de chicanes
+Chicanas demais
+折流板太多
+Слишком много перегородок
+Za dużo przegród
+Túl sok terelőlemez
+Demasiados deflectores
+
+#5486
+Berceau desserré
+Sela solta
+鞍座松动
+Ослабла седловая опора
+Luźne siodło
+Laza nyeregtartó
+Soporte de silla flojo
+
+#5487
+À quoi servent les chicanes côté calandre ?
+Para que servem as chicanas no lado do casco?
+壳程的折流板起什么作用？
+Для чего нужны перегородки в межтрубном пространстве?
+Do czego służą przegrody po stronie płaszcza?
+Mire valók a terelőlemezek a köpenyoldalon?
+¿Para qué sirven los deflectores en el lado de la carcasa?
+
+#5488
+Faire traverser les tubes au fluide et soutenir les tubes
+Fazer o fluido cruzar os tubos e apoiar os tubos
+使流体横穿管束并支撑管子
+Заставляют среду пересекать трубы и поддерживают трубы
+Zmuszają medium do przecinania rurek i podpierają rurki
+A közeget a csöveken át vezetik, és alátámasztják a csöveket
+Hacer que el fluido cruce los tubos y sostener los tubos
+
+#5489
+Assurer l'étanchéité côté tubes
+Vedar o lado dos tubos
+密封管程
+Уплотняют трубное пространство
+Uszczelniają stronę rurową
+A csőoldal tömítése
+Sellar el lado de tubos
+
+#5490
+Filtrer l'eau
+Filtrar a água
+过滤水
+Фильтруют воду
+Filtrują wodę
+A víz szűrése
+Filtrar el agua
+
+#5491
+Tenir les joints
+Segurar as juntas
+固定垫片
+Держат прокладки
+Trzymają uszczelki
+A tömítések megtartása
+Sujetar las juntas
+
+#5492
+Pourquoi les échangeurs d'eau pharma utilisent-ils des doubles plaques tubulaires ?
+Por que os trocadores de água farmacêutica usam espelhos duplos?
+为什么制药用水换热器采用双管板？
+Почему в теплообменниках фармацевтической воды применяют двойные трубные решётки?
+Dlaczego wymienniki wody farmaceutycznej mają podwójne dna sitowe?
+Miért használnak dupla csőfalat a gyógyszeripari víz hőcserélőinél?
+¿Por qué los intercambiadores de agua farmacéutica usan placas tubulares dobles?
+
+#5493
+Une fuite s'écoule vers l'extérieur au lieu de mélanger les fluides
+Um vazamento drena para fora em vez de misturar os fluidos
+泄漏会排到外面，而不是让两种流体混合
+Утечка уходит наружу, а не смешивает среды
+Przeciek wypływa na zewnątrz zamiast mieszać media
+A szivárgás kifelé folyik el, ahelyett hogy összekeverné a közegeket
+Una fuga drena hacia fuera en lugar de mezclar los fluidos
+
+#5494
+Meilleur transfert de chaleur
+Melhor troca térmica
+传热更好
+Лучше теплопередача
+Lepsza wymiana ciepła
+Jobb hőátadás
+Mejor transferencia de calor
+
+#5495
+Moins cher à fabriquer
+Mais barato de fabricar
+制造成本更低
+Дешевле в изготовлении
+Tańszy w produkcji
+Olcsóbb gyártani
+Más barato de fabricar
+
+#5496
+Moins de perte de charge
+Menor perda de carga
+压降更小
+Меньше перепад давления
+Mniejszy spadek ciśnienia
+Kisebb nyomásesés
+Menos pérdida de carga
+
+#5497
+Échangeur à plaques à joints
+Trocador de calor a placas gaxetadas
+可拆式板式换热器
+Разборный пластинчатый теплообменник
+Uszczelkowy wymiennik płytowy
+Tömített lemezes hőcserélő
+Intercambiador de placas con juntas
+
+#5498
+Un paquet de plaques minces en inox embouties avec des joints en caoutchouc, serré entre un bâti fixe et une plaque de serrage mobile par des tirants. Les deux fluides circulent dans des espaces alternés.
+Um pacote de placas finas prensadas de inox com juntas de borracha, apertado entre uma placa fixa do quadro e uma placa móvel de pressão por tirantes. Os dois fluidos passam em espaços alternados.
+一组冲压成型的薄不锈钢板片，带橡胶密封垫，用夹紧螺栓压在固定压紧板和活动压紧板之间。两种流体在相间的流道中流动。
+Пакет тонких штампованных пластин из нержавеющей стали с резиновыми прокладками, стянутый стяжными болтами между неподвижной плитой рамы и подвижной прижимной плитой. Две среды текут в чередующихся каналах.
+Pakiet cienkich tłoczonych płyt nierdzewnych z gumowymi uszczelkami, ściśnięty śrubami ściągającymi między stałą płytą ramy a ruchomą płytą dociskową. Dwa media płyną w naprzemiennych szczelinach.
+Vékony, préselt rozsdamentes lemezekből álló csomag gumitömítésekkel, feszítőcsavarokkal összeszorítva az álló keretlap és a mozgatható nyomólap között. A két közeg felváltva, minden második résben áramlik.
+Un paquete de placas finas de inoxidable estampadas con juntas de goma, apretado entre una placa fija del bastidor y una placa de presión móvil mediante espárragos. Los dos fluidos circulan por espacios alternos.
+
+#5499
+Chauffage et refroidissement des utilités : eau glacée, séparation de la tour de refroidissement, eau chaude pour le CVC, récupération de chaleur ; en service produit seulement avec des plaques adaptées (souvent à double paroi).
+Aquecimento e resfriamento de utilidades: água gelada, isolamento da torre de resfriamento, água quente para HVAC, recuperação de calor; em contato com produto só com placas adequadas (muitas vezes de parede dupla).
+公用工程的加热和冷却：冷冻水、冷却塔隔离、空调热水、热回收；用于产品时只能用合适的板片（常为双壁板）。
+Нагрев и охлаждение в инженерных системах: охлаждённая вода, отделение градирни, горячая вода для ОВК, рекуперация тепла; для продукта только с подходящими (часто двустенными) пластинами.
+Grzanie i chłodzenie mediów: woda lodowa, oddzielenie wieży chłodniczej, gorąca woda dla HVAC, odzysk ciepła; do produktu tylko z odpowiednimi (często dwuściennymi) płytami.
+Segédrendszerek fűtése és hűtése: hűtött víz, hűtőtorony leválasztása, meleg víz a HVAC-hoz, hővisszanyerés; termékhez csak megfelelő (gyakran kettős falú) lemezekkel.
+Calefacción y refrigeración de servicios: agua helada, separación de la torre de refrigeración, agua caliente para HVAC, recuperación de calor; en servicio de producto solo con placas adecuadas (a menudo de doble pared).
+
+#5500
+Les plaques ondulées (en chevrons) créent une forte turbulence, donc un petit appareil transfère beaucoup de chaleur. Les joints dirigent chaque fluide dans un espace sur deux et ferment par des joints annulaires les autres orifices ; les écoulements sont à contre-courant.
+As placas corrugadas (em chevron) criam forte turbulência, então uma unidade pequena troca muito calor. As juntas direcionam cada fluido para um espaço a cada dois e vedam com anéis os outros bocais; os fluxos são em contracorrente.
+波纹（人字形）板片形成强烈湍流，所以小设备就能传递大量热量。密封垫把每种流体引入每隔一个的流道，并用环形密封封住其他角孔；两股流体逆流。
+Гофрированные (ёлочкой) пластины создают сильную турбулентность, поэтому небольшой аппарат передаёт много тепла. Прокладки направляют каждую среду в каждый второй канал и кольцами уплотняют остальные отверстия; потоки противоточные.
+Płyty karbowane (w jodełkę) tworzą silną turbulencję, więc mały aparat przenosi dużo ciepła. Uszczelki kierują każde medium do co drugiej szczeliny i pierścieniowo uszczelniają pozostałe otwory; przepływy są przeciwprądowe.
+A hullámos (halszálkás) lemezek erős turbulenciát keltenek, így egy kis egység is sok hőt ad át. A tömítések minden közeget minden második résbe vezetnek, a többi nyílást gyűrűtömítéssel zárják; az áramlás ellenáramú.
+Las placas corrugadas (en espiga) crean una fuerte turbulencia, así que un equipo pequeño transfiere mucho calor. Las juntas dirigen cada fluido a uno de cada dos espacios y sellan con anillos los otros orificios; los flujos son a contracorriente.
+
+#5501
+Gouttes à l'extérieur dues à des joints vieillis ou déplacés, fuite interne par une plaque fissurée ou percée (les fluides se mélangent), encrassement (perte de charge en hausse, puissance en baisse), plaques endommagées par un serrage excessif.
+Gotejamento externo por juntas envelhecidas ou deslocadas, vazamento interno por placa trincada ou com furo (os fluidos se misturam), incrustação (perda de carga sobe, capacidade cai), placas danificadas por aperto excessivo.
+密封垫老化或移位导致外漏，板片开裂或有针孔导致内漏（流体混合），结垢（压降上升、换热量下降），过度夹紧损坏板片。
+Внешние капли из-за состарившихся или сместившихся прокладок, внутренняя течь через треснувшую или с точечным отверстием пластину (среды смешиваются), загрязнение (перепад давления растёт, мощность падает), пластины повреждены перетяжкой.
+Kapanie na zewnątrz od starych lub przesuniętych uszczelek, przeciek wewnętrzny przez pękniętą lub perforowaną płytę (media się mieszają), osady (rośnie spadek ciśnienia, spada wydajność), płyty uszkodzone przez nadmierne ściśnięcie.
+Külső csepegés elöregedett vagy elmozdult tömítések miatt, belső szivárgás repedt vagy lyukas lemezen át (a közegek keverednek), lerakódás (nő a nyomásesés, csökken a teljesítmény), túlhúzás miatt sérült lemezek.
+Goteo externo por juntas envejecidas o desplazadas, fuga interna por una placa agrietada o con poro (los fluidos se mezclan), ensuciamiento (sube la pérdida de carga, baja la potencia), placas dañadas por apriete excesivo.
+
+#5502
+Serrer uniformément, en croix, jusqu'à la longueur de paquet de la plaque signalétique (cote "A"), jamais au-delà. Nettoyer les plaques, les contrôler par ressuage, remplacer les joints par jeu complet, garder les filets des tirants graissés.
+Apertar por igual, em cruz, até o comprimento do pacote da placa de identificação (cota "A"), nunca além. Limpar as placas, verificá-las com líquido penetrante, trocar as juntas em jogo completo, manter as roscas dos tirantes engraxadas.
+按铭牌上的板束长度（“A” 尺寸）对角均匀夹紧，绝不超过。清洗板片，用着色渗透检查，整套更换密封垫，保持夹紧螺栓螺纹涂油。
+Затягивать равномерно, крест-накрест, до длины пакета по табличке (размер «A»), никогда не больше. Чистить пластины, проверять их капиллярным контролем, менять прокладки комплектом, держать резьбу стяжных болтов смазанной.
+Dokręcać równomiernie, na krzyż, do długości pakietu z tabliczki znamionowej (wymiar "A"), nigdy dalej. Czyścić płyty, sprawdzać je penetrantem, wymieniać uszczelki kompletem, utrzymywać gwinty śrub ściągających nasmarowane.
+Egyenletesen, keresztben húzza a típustáblán szereplő csomaghosszra („A” méret), soha ne tovább. Tisztítsa a lemezeket, ellenőrizze penetrációs festékkel, a tömítéseket teljes készletben cserélje, a feszítőcsavarok menetét tartsa zsírozva.
+Apretar de forma uniforme, en cruz, hasta la longitud de paquete de la placa de características (cota "A"), nunca más. Limpiar las placas, revisarlas con líquidos penetrantes, cambiar las juntas por juego completo, mantener engrasadas las roscas de los espárragos.
+
+#5503
+Bâti fixe avec orifices
+Placa fixa do quadro com bocais
+带接口的固定压紧板
+Неподвижная плита рамы с патрубками
+Stała płyta ramy z króćcami
+Álló keretlap csatlakozókkal
+Placa fija del bastidor con conexiones
+
+#5504
+Plaque fixe lourde portant les quatre raccords de tuyauterie.
+Placa fixa pesada que leva as quatro conexões de tubulação.
+厚重的固定板，装有四个管道接口。
+Тяжёлая неподвижная плита с четырьмя трубными подключениями.
+Ciężka płyta stała z czterema przyłączami rurowymi.
+Nehéz álló lap a négy csőcsatlakozással.
+Placa fija pesada que lleva las cuatro conexiones de tubería.
+
+#5505
+Barre porteuse
+Barra de suporte
+上导杆
+Верхняя несущая штанга
+Prowadnica nośna
+Tartórúd
+Barra portadora
+
+#5506
+Barre supérieure sur laquelle sont suspendues les plaques et la plaque de serrage.
+Barra superior onde ficam penduradas as placas e a placa de pressão.
+顶部导杆，板片和活动压紧板挂在上面。
+Верхняя штанга, на которой висят пластины и прижимная плита.
+Górna belka, na której wiszą płyty i płyta dociskowa.
+Felső rúd, amelyen a lemezek és a nyomólap függenek.
+Barra superior de la que cuelgan las placas y la placa de presión.
+
+#5507
+Barre de guidage
+Barra guia
+下导杆
+Нижняя направляющая
+Prowadnica dolna
+Vezetőrúd
+Barra guía
+
+#5508
+Barre inférieure qui maintient les plaques alignées.
+Barra inferior que mantém as placas alinhadas.
+底部导杆，使板片保持对齐。
+Нижняя штанга, которая держит пластины в линию.
+Dolna belka, która utrzymuje płyty w linii.
+Alsó rúd, amely egy vonalban tartja a lemezeket.
+Barra inferior que mantiene las placas alineadas.
+
+#5509
+Colonne de support
+Coluna de suporte
+支撑柱
+Опорная стойка
+Kolumna podporowa
+Tartóoszlop
+Columna de soporte
+
+#5510
+Supporte l'extrémité éloignée des deux barres.
+Sustenta a ponta mais distante das duas barras.
+支撑两根导杆的远端。
+Держит дальний конец обеих штанг.
+Podtrzymuje dalszy koniec obu belek.
+A két rúd túlsó végét tartja.
+Sostiene el extremo lejano de las dos barras.
+
+#5511
+Plaques d'échange thermique
+Placas de troca térmica
+传热板片
+Теплообменные пластины
+Płyty wymiany ciepła
+Hőátadó lemezek
+Placas de transferencia de calor
+
+#5512
+Plaques inox embouties de 0.5-0.8 mm avec quatre orifices.
+Placas de inox prensadas de 0.5-0.8 mm com quatro furos de passagem.
+0.5-0.8 mm 冲压不锈钢板片，带四个角孔。
+Штампованные пластины из нержавеющей стали 0.5-0.8 mm с четырьмя отверстиями.
+Tłoczone płyty nierdzewne 0.5-0.8 mm z czterema otworami.
+Préselt, 0.5-0.8 mm-es rozsdamentes lemezek négy nyílással.
+Placas de inoxidable estampadas de 0.5-0.8 mm con cuatro orificios.
+
+#5513
+Joints de plaques
+Juntas das placas
+板片密封垫
+Прокладки пластин
+Uszczelki płyt
+Lemeztömítések
+Juntas de las placas
+
+#5514
+Joint périphérique plus joints annulaires autour des deux orifices non utilisés par cet espace.
+Junta perimetral mais juntas anelares em volta dos dois furos não usados por aquele espaço.
+周边密封垫，加上围绕该流道不用的两个角孔的环形密封垫。
+Периметральная прокладка плюс кольцевые прокладки вокруг двух отверстий, не используемых этим каналом.
+Uszczelka obwodowa plus uszczelki pierścieniowe wokół dwóch otworów nieużywanych przez tę szczelinę.
+Kerületi tömítés, valamint gyűrűtömítések az adott rés által nem használt két nyílás körül.
+Junta perimetral más juntas anulares alrededor de los dos orificios que no usa ese espacio.
+
+#5515
+Plaque de serrage (mobile)
+Placa de pressão (móvel)
+活动压紧板
+Прижимная (подвижная) плита
+Płyta dociskowa (ruchoma)
+Nyomólap (mozgatható)
+Placa de presión (móvil)
+
+#5516
+Coulisse sur les barres ; les tirants la tirent contre le paquet.
+Desliza nas barras; os tirantes a puxam contra o pacote.
+在导杆上滑动；夹紧螺栓把它拉向板束。
+Скользит по штангам; стяжные болты прижимают её к пакету.
+Przesuwa się po belkach; śruby ściągające dociągają ją do pakietu.
+A rudakon csúszik; a feszítőcsavarok a csomaghoz húzzák.
+Se desliza por las barras; los espárragos la tiran contra el paquete.
+
+#5517
+Tirants et écrous
+Tirantes e porcas
+夹紧螺栓和螺母
+Стяжные болты и гайки
+Śruby ściągające i nakrętki
+Feszítőcsavarok és anyák
+Espárragos y tuercas
+
+#5518
+Longs boulons qui fixent la longueur du paquet (cote "A").
+Parafusos longos que definem o comprimento do pacote (cota "A").
+决定板束长度（“A” 尺寸）的长螺栓。
+Длинные болты, задающие длину пакета (размер «A»).
+Długie śruby ustalające długość pakietu (wymiar "A").
+Hosszú csavarok, amelyek a csomaghosszt („A” méret) beállítják.
+Pernos largos que fijan la longitud del paquete (cota "A").
+
+#5519
+Jusqu'où serrer le paquet de plaques ?
+Até quanto apertar o pacote de placas?
+板束要夹紧到什么程度？
+Насколько затягивать пакет пластин?
+Jak mocno ściągać pakiet płyt?
+Mennyire kell összehúzni a lemezcsomagot?
+¿Hasta dónde se aprieta el paquete de placas?
+
+#5520
+Jusqu'à la longueur de paquet de la plaque signalétique (cote "A"), uniformément
+Até o comprimento do pacote da placa de identificação (cota "A"), por igual
+均匀夹紧到铭牌上的板束长度（“A” 尺寸）
+До длины пакета по табличке (размер «A»), равномерно
+Do długości pakietu z tabliczki znamionowej (wymiar "A"), równomiernie
+A típustáblán szereplő csomaghosszra („A” méret), egyenletesen
+Hasta la longitud de paquete de la placa de características (cota "A"), de forma uniforme
+
+#5521
+Le plus serré possible
+O mais apertado possível
+越紧越好
+Как можно сильнее
+Jak najmocniej
+Amennyire csak lehet
+Lo más apretado posible
+
+#5522
+Jusqu'à ce que ça ne goutte plus, peu importe la longueur
+Até parar de pingar, qualquer comprimento
+拧到不滴为止，长度无所谓
+Пока не перестанет капать, длина любая
+Aż przestanie kapać, długość dowolna
+Amíg el nem áll a csepegés, bármilyen hosszra
+Hasta que deje de gotear, cualquier longitud
+
+#5523
+Seulement serré à la main
+Só apertado à mão
+只用手拧紧
+Только от руки
+Tylko ręcznie
+Csak kézzel meghúzva
+Solo apretado a mano
+
+#5524
+Les deux fluides se mélangent mais rien ne goutte à l'extérieur. Cause probable ?
+Os dois fluidos estão se misturando, mas nada pinga para fora. Causa provável?
+两种流体在混合，但外面没有滴漏。可能原因？
+Две среды смешиваются, но снаружи ничего не капает. Вероятная причина?
+Dwa media się mieszają, ale na zewnątrz nic nie kapie. Prawdopodobna przyczyna?
+A két közeg keveredik, de kívül semmi sem csepeg. Valószínű ok?
+Los dos fluidos se mezclan pero no gotea nada por fuera. ¿Causa probable?
+
+#5525
+Une plaque fissurée ou percée
+Uma placa trincada ou com furo
+板片开裂或有针孔
+Треснувшая пластина или пластина с точечным отверстием
+Pęknięta lub perforowana płyta
+Repedt vagy lyukas lemez
+Una placa agrietada o con poro
+
+#5526
+Tirant desserré
+Tirante solto
+夹紧螺栓松动
+Ослабший стяжной болт
+Luźna śruba ściągająca
+Laza feszítőcsavar
+Espárrago flojo
+
+#5527
+Bâti fixe sale
+Placa do quadro suja
+固定板脏
+Грязная плита рамы
+Brudna płyta ramy
+Szennyezett keretlap
+Placa del bastidor sucia
+
+#5528
+Barre de guidage tordue
+Barra guia empenada
+下导杆弯曲
+Погнута направляющая
+Wygięta prowadnica
+Elgörbült vezetőrúd
+Barra guía doblada
+
+#5529
+Purgeur de vapeur (à flotteur et thermostatique)
+Purgador de vapor (boia e termostático)
+蒸汽疏水阀（浮球恒温式）
+Конденсатоотводчик (поплавковый с термостатом)
+Odwadniacz pary (pływakowo-termostatyczny)
+Kondenzedény (úszós és termosztatikus)
+Purgador de vapor (de boya y termostático)
+
+#5530
+Vanne automatique qui laisse sortir le condensat et l'air mais retient la vapeur. Un flotteur sphérique ouvre le clapet principal quand le condensat s'accumule ; une capsule thermostatique évacue l'air.
+Válvula automática que deixa sair o condensado e o ar, mas segura o vapor. Uma boia esférica abre a válvula principal conforme o condensado se acumula; uma cápsula termostática ventila o ar.
+自动阀门，排出冷凝水和空气，但把蒸汽留住。冷凝水积聚时浮球打开主阀；恒温膜盒排出空气。
+Автоматический клапан, который выпускает конденсат и воздух, но удерживает пар. Шаровой поплавок открывает главный клапан по мере накопления конденсата; термостатическая капсула выпускает воздух.
+Automatyczny zawór, który wypuszcza kondensat i powietrze, ale zatrzymuje parę. Pływak kulowy otwiera zawór główny, gdy zbiera się kondensat; kapsuła termostatyczna odpowietrza.
+Automatikus szelep, amely kiengedi a kondenzátumot és a levegőt, de a gőzt bent tartja. A golyós úszó kinyitja a főszelepet, ahogy a kondenzátum összegyűlik; a termosztatikus kapszula légtelenít.
+Válvula automática que deja salir el condensado y el aire pero retiene el vapor. Una boya esférica abre la válvula principal a medida que se acumula condensado; una cápsula termostática purga el aire.
+
+#5531
+Échangeurs vapeur et doubles enveloppes de cuves, autoclaves, batteries vapeur et humidificateurs CVC, utilisateurs de vapeur propre et pots de purge sur les collecteurs vapeur.
+Trocadores de calor a vapor e camisas de tanques, autoclaves, aquecedores a vapor e umidificadores de HVAC, usuários de vapor limpo e pernas de dreno nas linhas principais de vapor.
+蒸汽换热器和罐体夹套、高压灭菌器、空调蒸汽加热器和加湿器、纯蒸汽用户以及蒸汽主管上的集水管。
+Паровые теплообменники и рубашки баков, автоклавы, паровые калориферы и увлажнители ОВК, потребители чистого пара и дренажные карманы на паровых магистралях.
+Parowe wymienniki ciepła i płaszcze zbiorników, autoklawy, nagrzewnice parowe i nawilżacze HVAC, odbiorniki czystej pary oraz odwodnienia na magistralach parowych.
+Gőzös hőcserélők és tartályköpenyek, autoklávok, HVAC gőzös fűtők és párásítók, tisztagőz-fogyasztók és a gőzfővezetékek vízzsákjai.
+Intercambiadores de vapor y camisas de tanques, autoclaves, baterías de vapor y humidificadores de HVAC, consumidores de vapor limpio y botellas de purga en las líneas principales de vapor.
+
+#5532
+Le niveau de condensat soulève le flotteur, le levier écarte le clapet de son siège et l'évacuation suit la charge en continu. Au démarrage, la capsule froide est ouverte et laisse sortir l'air ; à la température de la vapeur, elle se dilate et se ferme.
+O nível de condensado levanta a boia, a alavanca afasta o obturador da sede e a descarga acompanha a carga continuamente. Na partida, a cápsula fria está aberta e deixa o ar sair; na temperatura do vapor ela se expande e fecha.
+冷凝水液位使浮球上升，杠杆把阀头从阀座上拉开，排放量持续随负荷变化。启动时冷的膜盒是打开的，把空气排出；到蒸汽温度时它膨胀并关闭。
+Уровень конденсата поднимает поплавок, рычаг отводит тарелку клапана от седла, и отвод непрерывно следует за нагрузкой. При пуске холодная капсула открыта и выпускает воздух; при температуре пара она расширяется и закрывается.
+Poziom kondensatu unosi pływak, dźwignia odsuwa grzybek zaworu od gniazda i odprowadzanie nadąża w sposób ciągły za obciążeniem. Przy rozruchu zimna kapsuła jest otwarta i wypuszcza powietrze; w temperaturze pary rozszerza się i zamyka.
+A kondenzátumszint megemeli az úszót, a kar elhúzza a szeleptányért az ülékről, és a leürítés folyamatosan követi a terhelést. Induláskor a hideg kapszula nyitva van és kiengedi a levegőt; gőzhőmérsékleten kitágul és bezár.
+El nivel de condensado levanta la boya, la palanca separa el obturador de su asiento y la descarga sigue la carga de forma continua. En el arranque la cápsula fría está abierta y deja salir el aire; a temperatura de vapor se dilata y cierra.
+
+#5533
+Bloqué ouvert : la vapeur vive passe (sortie chaude, perte d'énergie, contre-pression élevée). Bloqué fermé ou flotteur noyé : engorgement, équipement froid, coups de bélier. De la saleté sur le siège ou un purgeur d'air défaillant donne un démarrage lent.
+Falha aberta: vapor vivo passando direto (saída quente, perda de energia, contrapressão alta). Falha fechada ou boia inundada: alagamento, equipamento frio, golpe de aríete. Sujeira na sede ou eliminador de ar com falha deixa a partida lenta.
+常开失效：新鲜蒸汽直接漏过（出口很烫、能量损失、背压高）。常闭失效或浮球进水：积水、设备变冷、水锤。阀座上有污物或排空气阀失效会导致启动缓慢。
+Отказ в открытом положении: острый пар проходит насквозь (горячий выход, потери энергии, высокое противодавление). Отказ в закрытом положении или затопленный поплавок: заполнение конденсатом, холодное оборудование, гидроудары. Грязь на седле или неисправный воздухоотводчик дают медленный пуск.
+Awaria w pozycji otwartej: przechodzi para świeża (gorący wylot, strata energii, wysokie przeciwciśnienie). Awaria w pozycji zamkniętej lub zalany pływak: zalewanie kondensatem, zimne urządzenie, uderzenia hydrauliczne. Brud na gnieździe lub uszkodzony odpowietrznik daje powolny rozruch.
+Nyitva maradt hiba: élő gőz fúj át (forró kimenet, energiaveszteség, nagy ellennyomás). Zárva maradt hiba vagy vízzel telt úszó: elárasztás, hideg berendezés, vízütés. Szennyeződés az üléken vagy hibás légtelenítő lassú indulást okoz.
+Fallo abierto: pasa vapor vivo (salida caliente, pérdida de energía, contrapresión alta). Fallo cerrado o boya inundada: anegamiento, equipo frío, golpe de ariete. Suciedad en el asiento o un purgador de aire averiado dan un arranque lento.
+
+#5534
+Contrôler tous les purgeurs au moins une fois par an par ultrasons et température, nettoyer le filtre avant le purgeur, le monter de niveau avec le bras du flotteur se déplaçant verticalement, sous l'équipement avec une pente ; renouveler les internes avec un kit de réparation.
+Inspecionar todos os purgadores pelo menos uma vez por ano com ultrassom e temperatura, limpar o filtro antes do purgador, instalá-lo nivelado com o braço da boia se movendo na vertical, abaixo do equipamento com uma queda; renovar as peças internas com um kit de reparo.
+至少每年用超声波和测温检查所有疏水阀，清洗疏水阀前的过滤器，水平安装使浮球臂上下垂直运动，装在设备下方并有落差；用维修包更换内件。
+Обследовать все конденсатоотводчики не реже раза в год ультразвуком и по температуре, чистить фильтр перед отводчиком, ставить его горизонтально, чтобы рычаг поплавка двигался вертикально, ниже оборудования с перепадом; обновлять внутренние части ремкомплектом.
+Sprawdzać wszystkie odwadniacze co najmniej raz w roku ultradźwiękami i pomiarem temperatury, czyścić filtr przed odwadniaczem, montować go poziomo tak, by ramię pływaka poruszało się pionowo, poniżej urządzenia ze spadkiem; odnawiać części wewnętrzne zestawem naprawczym.
+Legalább évente vizsgáljon át minden kondenzedényt ultrahanggal és hőmérséklettel, tisztítsa az előtte lévő szűrőt, vízszintesen szerelje úgy, hogy az úszókar függőlegesen mozogjon, a berendezés alá, eséssel; a belső részeket javítókészlettel újítsa fel.
+Revisar todos los purgadores al menos una vez al año con ultrasonido y temperatura, limpiar el filtro antes del purgador, montarlo nivelado con el brazo de la boya moviéndose en vertical, por debajo del equipo y con caída; renovar los internos con un kit de reparación.
+
+#5535
+Chambre en fonte ductile ; entrée en haut d'un côté, sortie en bas de l'autre.
+Câmara de ferro fundido nodular; entrada no alto de um lado, saída embaixo do outro.
+球墨铸铁腔体；一侧高处进口，另一侧低处出口。
+Камера из высокопрочного чугуна; вход сверху с одной стороны, выход снизу с другой.
+Komora z żeliwa sferoidalnego; wlot wysoko z jednej strony, wylot nisko z drugiej.
+Gömbgrafitos öntöttvas kamra; az egyik oldalon felül a belépés, a másikon alul a kilépés.
+Cámara de fundición dúctil; entrada alta por un lado, salida baja por el otro.
+
+#5536
+Siège du clapet principal
+Sede da válvula principal
+主阀座
+Седло главного клапана
+Gniazdo zaworu głównego
+Főszelep ülék
+Asiento de la válvula principal
+
+#5537
+Orifice en inox trempé devant la sortie.
+Orifício de inox temperado na frente da saída.
+出口前的淬硬不锈钢节流孔。
+Калиброванное отверстие из закалённой нержавеющей стали перед выходом.
+Kryza z hartowanej stali nierdzewnej przed wylotem.
+Edzett rozsdamentes furat a kilépés előtt.
+Orificio de inoxidable templado delante de la salida.
+
+#5538
+Support de pivot
+Suporte do pivô
+支点架
+Кронштейн оси
+Wspornik osi
+Forgáspont-tartó
+Soporte del pivote
+
+#5539
+Support qui porte l'axe du levier, vissé sur le bossage du siège.
+Suporte que leva o pino da alavanca, parafusado no ressalto da sede.
+承载杠杆销的支架，用螺钉固定在阀座凸台上。
+Кронштейн с осью рычага, привинченный к бобышке седла.
+Wspornik z sworzniem dźwigni, przykręcony do występu gniazda.
+A kar csapját hordozó konzol, az ülék dudorához csavarozva.
+Soporte que lleva el pasador de la palanca, atornillado al resalte del asiento.
+
+#5540
+Levier avec clapet
+Alavanca com obturador
+带阀头的杠杆
+Рычаг с тарелкой клапана
+Dźwignia z grzybkiem zaworu
+Kar szeleptányérral
+Palanca con obturador
+
+#5541
+Transforme la montée du flotteur en ouverture du clapet.
+Transforma a subida da boia em abertura do obturador.
+把浮球的上升转化为阀头的开启。
+Превращает подъём поплавка в открытие клапана.
+Zamienia uniesienie pływaka na otwarcie grzybka.
+Az úszó emelkedését a szeleptányér nyitásává alakítja.
+Convierte la subida de la boya en apertura del obturador.
+
+#5542
+Flotteur sphérique
+Boia esférica
+浮球
+Шаровой поплавок
+Pływak kulowy
+Golyós úszó
+Boya esférica
+
+#5543
+Boule inox étanche : monte avec le niveau de condensat.
+Esfera de inox selada: sobe com o nível de condensado.
+密封的不锈钢球：随冷凝水液位上升。
+Герметичный шар из нержавеющей стали: поднимается с уровнем конденсата.
+Szczelna kula nierdzewna: unosi się wraz z poziomem kondensatu.
+Zárt rozsdamentes gömb: a kondenzátumszinttel emelkedik.
+Bola de inoxidable estanca: sube con el nivel de condensado.
+
+#5544
+Purgeur d'air thermostatique
+Eliminador de ar termostático
+恒温排空气阀
+Термостатический воздухоотводчик
+Odpowietrznik termostatyczny
+Termosztatikus légtelenítő
+Purgador de aire termostático
+
+#5545
+Capsule à pression équilibrée : ouverte à froid pour évacuer l'air, fermée à la température de la vapeur.
+Cápsula de pressão balanceada: aberta quando fria para soltar o ar, fechada na temperatura do vapor.
+压力平衡式膜盒：冷时打开排出空气，到蒸汽温度时关闭。
+Капсула уравновешенного давления: открыта в холодном состоянии для выпуска воздуха, закрыта при температуре пара.
+Kapsuła z równoważeniem ciśnienia: otwarta na zimno, aby wypuścić powietrze, zamknięta w temperaturze pary.
+Kiegyenlített nyomású kapszula: hidegen nyitva van a levegő kiengedéséhez, gőzhőmérsékleten zárva.
+Cápsula de presión equilibrada: abierta en frío para soltar el aire, cerrada a temperatura de vapor.
+
+#5546
+Joint de couvercle
+Junta da tampa
+盖垫片
+Прокладка крышки
+Uszczelka pokrywy
+Fedéltömítés
+Junta de la tapa
+
+#5547
+Joint graphite entre le corps et le couvercle.
+Junta de grafite entre o corpo e a tampa.
+阀体与阀盖之间的石墨垫片。
+Графитовая прокладка между корпусом и крышкой.
+Uszczelka grafitowa między korpusem a pokrywą.
+Grafittömítés a ház és a fedél között.
+Junta de grafito entre el cuerpo y la tapa.
+
+#5548
+Couvercle
+Tampa
+阀盖
+Крышка
+Pokrywa
+Fedél
+Tapa
+
+#5549
+Couvercle boulonné : le retirer pour accéder à tous les internes sans démonter de la ligne.
+Tampa parafusada: retire-a para chegar a todas as peças internas sem tirar da linha.
+螺栓固定的阀盖：拆下即可在线接触所有内件。
+Крышка на болтах: снимите её, чтобы добраться до всех внутренних частей, не снимая с линии.
+Pokrywa przykręcana: zdejmij ją, aby dostać się do wszystkich części wewnętrznych bez demontażu z linii.
+Csavarozott fedél: levéve az összes belső rész elérhető a vezetékből való kiszerelés nélkül.
+Tapa atornillada: quítela para llegar a todos los internos sin desmontar de la línea.
+
+#5550
+Boulons de couvercle
+Parafusos da tampa
+阀盖螺栓
+Болты крышки
+Śruby pokrywy
+Fedélcsavarok
+Tornillos de la tapa
+
+#5551
+Serrer en croix au couple indiqué.
+Apertar em cruz com o torque indicado.
+按规定扭矩对角拧紧。
+Затягивать крест-накрест с указанным моментом.
+Dokręcać na krzyż podanym momentem.
+Keresztben húzza meg a megadott nyomatékra.
+Apretar en cruz al par indicado.
+
+#5552
+Le condensat monte
+O condensado sobe
+冷凝水上升
+Конденсат поднимается
+Kondensat się podnosi
+A kondenzátum emelkedik
+El condensado sube
+
+#5553
+La sortie du purgeur est très chaude et on entend un sifflement continu. Le purgeur est…
+A saída do purgador está muito quente e se ouve um chiado contínuo. O purgador…
+疏水阀出口很烫，还能听到持续的嘶嘶声。疏水阀……
+Выход конденсатоотводчика очень горячий, слышно непрерывное шипение. Отводчик…
+Wylot odwadniacza jest bardzo gorący i słychać ciągły syk. Odwadniacz…
+A kondenzedény kimenete nagyon forró, és folyamatos sziszegés hallatszik. A kondenzedény…
+La salida del purgador está muy caliente y se oye un siseo continuo. El purgador…
+
+#5554
+Bloqué ouvert, il laisse passer la vapeur vive
+Falhou aberto, deixando passar vapor vivo
+常开失效，漏过新鲜蒸汽
+Отказал в открытом положении и пропускает острый пар
+Uszkodzony w pozycji otwartej, przepuszcza parę świeżą
+Nyitva maradt, élő gőzt enged át
+Ha fallado abierto y deja pasar vapor vivo
+
+#5555
+Bloqué fermé
+Falhou fechado
+常闭失效
+Отказал в закрытом положении
+Uszkodzony w pozycji zamkniętej
+Zárva maradt
+Ha fallado cerrado
+
+#5556
+Fonctionne normalement
+Funcionando normalmente
+工作正常
+Работает нормально
+Działa normalnie
+Normálisan működik
+Funciona normalmente
+
+#5557
+A seulement perdu son purgeur d'air
+Perdeu apenas o eliminador de ar
+只是排空气阀失效
+Потерял только воздухоотводчик
+Stracił tylko odpowietrznik
+Csak a légtelenítője hibás
+Solo ha perdido el purgador de aire
+
+#5558
+Qu'est-ce qui évacue l'air au démarrage ?
+O que deixa o ar sair na partida?
+启动时靠什么排出空气？
+Что выпускает воздух при пуске?
+Co wypuszcza powietrze przy rozruchu?
+Mi engedi ki a levegőt induláskor?
+¿Qué deja salir el aire en el arranque?
+
+#5559
+Le purgeur d'air thermostatique
+O eliminador de ar termostático
+恒温排空气阀
+Термостатический воздухоотводчик
+Odpowietrznik termostatyczny
+A termosztatikus légtelenítő
+El purgador de aire termostático
+
+#5560
+Le flotteur sphérique
+A boia esférica
+浮球
+Шаровой поплавок
+Pływak kulowy
+A golyós úszó
+La boya esférica
+
+#5561
+Le joint de couvercle
+A junta da tampa
+盖垫片
+Прокладка крышки
+Uszczelka pokrywy
+A fedéltömítés
+La junta de la tapa
+
+#5562
+Le siège principal
+A sede principal
+主阀座
+Главное седло
+Gniazdo główne
+A főülék
+El asiento principal

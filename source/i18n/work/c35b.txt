@@ -1,0 +1,1394 @@
+#4976
+Palier lisse (bague bronze)
+Mancal de deslizamento (bucha de bronze)
+滑动轴承（青铜衬套）
+Подшипник скольжения (бронзовая втулка)
+Łożysko ślizgowe (tuleja brązowa)
+Siklócsapágy (bronzpersely)
+Cojinete de fricción (casquillo de bronce)
+
+#4977
+Une bague en bronze emmanchée dans un logement : l'arbre glisse sur un mince film de graisse ou d'huile. Pas d'éléments roulants : simple, compact et résistant aux chocs.
+Uma bucha de bronze prensada em um alojamento: o eixo desliza em uma fina película de graxa ou óleo. Sem elementos rolantes, por isso é simples, compacto e aguenta cargas de choque.
+压入座孔的青铜套：轴在一层薄薄的油脂或油膜上滑动。没有滚动体，因此结构简单、紧凑且耐冲击载荷。
+Бронзовая втулка, запрессованная в корпус: вал скользит по тонкой плёнке смазки или масла. Нет тел качения, поэтому просто, компактно и держит ударные нагрузки.
+Tuleja brązowa wciśnięta w obudowę: wał ślizga się po cienkim filmie smaru lub oleju. Brak elementów tocznych, więc jest prosta, zwarta i znosi obciążenia udarowe.
+A házba sajtolt bronzhüvely: a tengely vékony zsír- vagy olajfilmen csúszik. Nincsenek gördülőelemek, így egyszerű, kompakt és bírja az ütésszerű terhelést.
+Un casquillo de bronce montado a presión en un alojamiento: el eje desliza sobre una fina película de grasa o aceite. Sin elementos rodantes, así es simple, compacto y aguanta cargas de choque.
+
+#4978
+Axes et leviers des tringleries de conditionnement et de presses à comprimés, axes d'actionneurs de vannes, tendeurs de convoyeurs, arbres oscillants lents.
+Pinos de articulação e alavancas em articulações de máquinas de embalagem e compressoras de comprimidos, pinos de atuadores de válvulas, esticadores de transportadores, eixos oscilantes lentos.
+包装机和压片机连杆机构中的销轴和杠杆、阀门执行器销轴、输送机张紧装置、低速摆动轴。
+Оси и рычаги в механизмах упаковочных машин и таблеточных прессов, пальцы приводов клапанов, натяжные устройства конвейеров, медленно качающиеся валы.
+Sworznie i dźwignie w mechanizmach maszyn pakujących i tabletkarek, sworznie napędów zaworów, napinacze przenośników, wolno wahające się wały.
+Csuklócsapok és karok a csomagológépek és tablettaprések mechanizmusaiban, szelephajtás-csapok, szállítószalag-feszítők, lassan lengő tengelyek.
+Pasadores y palancas en los mecanismos de envasadoras y prensas de comprimidos, pasadores de actuadores de válvulas, tensores de transportadores, ejes oscilantes lentos.
+
+#4979
+La graisse du graisseur passe par le trou de graissage dans la gorge et se répartit dans l'alésage ; le film porte la charge. Les rondelles de butée reprennent l'effort latéral et le circlip retient l'axe.
+A graxa do pino graxeiro passa pelo furo de lubrificação para a ranhura e se espalha pelo furo; a película suporta a carga. Arruelas de encosto recebem a carga lateral e o anel elástico segura o pino.
+润滑脂从油嘴经油孔进入油槽并分布到整个孔面；油膜承受载荷。止推垫圈承受侧向力，卡簧固定销轴。
+Смазка от маслёнки идёт через отверстие в канавку и распределяется по отверстию; плёнка несёт нагрузку. Упорные шайбы воспринимают боковую нагрузку, а стопорное кольцо держит палец.
+Smar ze smarowniczki przechodzi przez otwór do rowka i rozprowadza się po otworze; film przenosi obciążenie. Podkładki oporowe przejmują siłę boczną, a pierścień osadczy trzyma sworzeń.
+A zsírzógombból a zsír a kenőfuraton át a horonyba jut és szétterül a furatban; a film viseli a terhelést. A támasztó alátétek az oldalirányú erőt veszik fel, a seegergyűrű tartja a csapot.
+La grasa del engrasador pasa por el agujero de engrase a la ranura y se reparte por el agujero; la película soporta la carga. Las arandelas de empuje toman la carga lateral y el anillo elástico sujeta el pasador.
+
+#4980
+La marche à sec provoque rayures, chaleur et grippage ; un alésage usé ovalisé donne du jeu et des cognements ; la vieille graisse durcit et bouche la gorge.
+Operação a seco causa riscos, calor e engripamento; furo gasto ovalizado dá folga e batidas; graxa velha endurece e entope a ranhura.
+干摩擦导致划伤、发热和咬死；孔磨损成椭圆会产生间隙和敲击声；旧润滑脂变硬堵塞油槽。
+Работа всухую даёт задиры, нагрев и заедание; изношенное овальное отверстие даёт люфт и стук; старая смазка твердеет и забивает канавку.
+Praca na sucho daje rysy, grzanie i zatarcie; zużyty owalny otwór daje luz i stuki; stary smar twardnieje i zatyka rowek.
+A száraz futás karcolást, melegedést és berágódást okoz; a kopott, ovális furat holtjátékot és kopogást ad; a régi zsír megkeményedik és eltömi a hornyot.
+Funcionar en seco da rayado, calor y gripado; el agujero gastado ovalado da holgura y golpeteo; la grasa vieja se endurece y tapa la ranura.
+
+#4981
+Graissez jusqu'à ce que de la graisse fraîche sorte aux extrémités. Contrôlez le jeu à la main ou au comparateur. En emmanchant une bague neuve, alignez son trou de graissage avec celui du logement ; alésez l'alésage s'il se resserre.
+Lubrifique até sair graxa nova nas pontas. Verifique a folga com a mão ou com relógio comparador. Ao prensar uma bucha nova, alinhe o furo de lubrificação com o furo de graxa do alojamento; alargue o furo se ele fechar.
+加脂直到两端挤出新鲜润滑脂。用手或百分表检查间隙。压装新衬套时，把其油孔对准座孔油孔；如果内孔收缩，就铰孔。
+Смазывайте, пока с торцов не выйдет свежая смазка. Проверяйте люфт рукой или индикатором. При запрессовке новой втулки совместите её смазочное отверстие с отверстием корпуса; если отверстие сузилось, разверните его.
+Smaruj, aż świeży smar wyjdzie na końcach. Sprawdzaj luz ręką lub czujnikiem zegarowym. Wciskając nową tuleję, ustaw jej otwór smarowy w linii z otworem obudowy; rozwierć otwór, jeśli się zaciśnie.
+Zsírozzon, amíg a végeken friss zsír jön ki. Kézzel vagy mérőórával ellenőrizze a holtjátékot. Új persely besajtolásakor igazítsa a kenőfuratát a ház zsírfuratához; ha a furat összeszűkül, dörzsárazza.
+Engrase hasta que salga grasa fresca por los extremos. Compruebe la holgura a mano o con reloj comparador. Al montar un casquillo nuevo, alinee su agujero de engrase con el del alojamiento; escarie el agujero si se cierra.
+
+#4982
+Moyeu du levier (logement)
+Cubo da alavanca (alojamento)
+杠杆轴套座（座孔）
+Бобышка рычага (корпус)
+Piasta dźwigni (obudowa)
+Karagy (ház)
+Cubo de la palanca (alojamiento)
+
+#4983
+Alésage qui tient la bague avec un ajustement serré, avec un trou de graissage en haut.
+Furo que segura a bucha com ajuste com interferência, com um furo de graxa em cima.
+以过盈配合固定衬套的孔，顶部有油孔。
+Отверстие, удерживающее втулку с натягом, с отверстием для смазки сверху.
+Otwór trzymający tuleję z wciskiem, z otworem smarowym u góry.
+Furat, amely túlfedéssel tartja a perselyt, tetején zsírfurattal.
+Agujero que sujeta el casquillo con ajuste de interferencia, con un agujero de engrase arriba.
+
+#4984
+Bague bronze
+Bucha de bronze
+青铜衬套
+Бронзовая втулка
+Tuleja brązowa
+Bronzpersely
+Casquillo de bronce
+
+#4985
+Bague bronze avec trou de graissage, gorge circulaire et gorge hélicoïdale pour répartir la graisse.
+Bucha de bronze com furo de lubrificação, ranhura anelar e ranhura espiral para espalhar a graxa.
+青铜套，带油孔、环形槽和螺旋槽，用于分布润滑脂。
+Бронзовая втулка со смазочным отверстием, кольцевой и спиральной канавкой для распределения смазки.
+Tuleja brązowa z otworem smarowym, rowkiem pierścieniowym i spiralnym do rozprowadzania smaru.
+Bronzhüvely kenőfurattal, gyűrűs és spirális horonnyal a zsír elosztásához.
+Casquillo de bronce con agujero de engrase, ranura anular y ranura en espiral para repartir la grasa.
+
+#4986
+Alimente en graisse le trou de graissage de la bague.
+Alimenta graxa ao furo de lubrificação da bucha.
+向衬套油孔供脂。
+Подаёт смазку в смазочное отверстие втулки.
+Doprowadza smar do otworu smarowego tulei.
+Zsírt juttat a persely kenőfuratába.
+Alimenta grasa al agujero de engrase del casquillo.
+
+#4987
+Rondelle de butée (côté tête)
+Arruela de encosto (lado da cabeça)
+止推垫圈（头部侧）
+Упорная шайба (со стороны головки)
+Podkładka oporowa (strona łba)
+Támasztó alátét (fej felőli oldal)
+Arandela de empuje (lado de la cabeza)
+
+#4988
+Reprend l'effort latéral entre la tête de l'axe et la face du moyeu.
+Recebe a carga lateral entre a cabeça do pino e a face do cubo.
+承受销头与轴套座端面之间的侧向力。
+Воспринимает боковую нагрузку между головкой пальца и торцом бобышки.
+Przejmuje siłę boczną między łbem sworznia a czołem piasty.
+A csapfej és az agy homlokfelülete közötti oldalirányú erőt veszi fel.
+Toma la carga lateral entre la cabeza del pasador y la cara del cubo.
+
+#4989
+Axe d'articulation
+Pino de articulação
+销轴
+Палец шарнира
+Sworzeń
+Csuklócsap
+Pasador de articulación
+
+#4990
+Axe à tête trempé avec une gorge pour le circlip.
+Pino temperado com cabeça e ranhura para o anel elástico.
+带头淬硬销轴，带卡簧槽。
+Закалённый палец с головкой и канавкой под стопорное кольцо.
+Hartowany sworzeń z łbem i rowkiem na pierścień osadczy.
+Edzett fejes csap seegergyűrű-horonnyal.
+Pasador templado con cabeza y ranura para el anillo elástico.
+
+#4991
+Rondelle de butée (côté circlip)
+Arruela de encosto (lado do anel elástico)
+止推垫圈（卡簧侧）
+Упорная шайба (со стороны стопорного кольца)
+Podkładka oporowa (strona pierścienia osadczego)
+Támasztó alátét (seegergyűrű felőli oldal)
+Arandela de empuje (lado del anillo elástico)
+
+#4992
+Seconde rondelle ; laisse un petit jeu axial pour le film de graisse.
+Segunda arruela; deixa uma pequena folga axial para a película de graxa.
+第二个垫圈；留出少量轴向间隙给油膜。
+Вторая шайба; оставляет небольшой осевой зазор для плёнки смазки.
+Druga podkładka; zostawia mały luz osiowy na film smaru.
+Második alátét; kis axiális hézagot hagy a zsírfilmnek.
+Segunda arandela; deja un pequeño juego axial para la película de grasa.
+
+#4993
+Circlip (extérieur)
+Anel elástico (externo)
+轴用卡簧
+Стопорное кольцо (наружное)
+Pierścień osadczy (zewnętrzny)
+Seegergyűrű (külső)
+Anillo elástico (exterior)
+
+#4994
+Anneau en acier à ressort dans la gorge de l'axe qui empêche l'axe de sortir.
+Anel de aço mola na ranhura do pino que impede o pino de sair.
+装在销轴槽内的弹簧钢环，防止销轴窜出。
+Пружинное стальное кольцо в канавке пальца, не дающее пальцу выйти.
+Pierścień ze stali sprężynowej w rowku sworznia, który nie pozwala mu wyjść.
+Rugóacél gyűrű a csap hornyában, amely megakadályozza a csap kivándorlását.
+Anillo de acero de muelle en la ranura del pasador que impide que el pasador se salga.
+
+#4995
+Tourner l'axe
+Girar o pino
+转动销轴
+Повернуть палец
+Obróć sworzeń
+Csap forgatása
+Girar el pasador
+
+#4996
+En emmanchant une bague neuve, où doit se trouver son trou de graissage ?
+Ao prensar uma bucha nova, onde deve ficar o furo de lubrificação?
+压装新衬套时，其油孔应位于哪里？
+При запрессовке новой втулки где должно быть её смазочное отверстие?
+Gdzie musi być otwór smarowy przy wciskaniu nowej tulei?
+Új persely besajtolásakor hol legyen a kenőfurata?
+Al montar un casquillo nuevo, ¿dónde debe quedar su agujero de engrase?
+
+#4997
+En face du trou de graissage du logement
+Alinhado com o furo de graxa do alojamento
+与座孔的油孔对齐
+Напротив смазочного отверстия корпуса
+W linii z otworem smarowym obudowy
+A ház zsírfuratával egy vonalban
+Alineado con el agujero de engrase del alojamiento
+
+#4998
+En bas, loin de la charge
+Embaixo, longe da carga
+在底部，远离载荷
+Внизу, вдали от нагрузки
+Na dole, z dala od obciążenia
+Alul, a terheléstől távol
+Abajo, lejos de la carga
+
+#4999
+Peu importe
+Tanto faz
+无所谓
+Неважно
+Nie ma znaczenia
+Mindegy
+Da igual
+
+#5000
+D'abord bouché avec de la graisse
+Tampado com graxa antes
+先用润滑脂堵住
+Сначала забито смазкой
+Najpierw zatkany smarem
+Előbb zsírral eltömve
+Tapado antes con grasa
+
+#5001
+Qu'est-ce qui porte la charge dans une bague lisse ?
+O que suporta a carga em uma bucha lisa?
+滑动衬套中由什么承受载荷？
+Что несёт нагрузку во втулке скольжения?
+Co przenosi obciążenie w tulei ślizgowej?
+Mi viseli a terhelést egy siklóperselyben?
+¿Qué soporta la carga en un casquillo liso?
+
+#5002
+Un mince film de graisse ou d'huile entre l'axe et la bague
+Uma fina película de graxa ou óleo entre pino e bucha
+销轴和衬套之间的一层薄油脂或油膜
+Тонкая плёнка смазки или масла между пальцем и втулкой
+Cienki film smaru lub oleju między sworzniem a tuleją
+Vékony zsír- vagy olajfilm a csap és a persely között
+Una fina película de grasa o aceite entre pasador y casquillo
+
+#5003
+De petites billes dans la gorge
+Pequenas esferas na ranhura
+油槽中的小钢球
+Маленькие шарики в канавке
+Małe kulki w rowku
+Kis golyók a horonyban
+Bolitas en la ranura
+
+#5004
+Le circlip
+O anel elástico
+卡簧
+Стопорное кольцо
+Pierścień osadczy
+A seegergyűrű
+El anillo elástico
+
+#5005
+Le contact direct métal sur métal
+Contato direto metal com metal
+金属直接接触
+Прямой контакт металла с металлом
+Bezpośredni styk metalu z metalem
+Közvetlen fém-fém érintkezés
+Contacto directo metal con metal
+
+#5226
+Moteur asynchrone (TEFC, IEC à pattes)
+Motor de indução (TEFC, IEC com pés)
+感应电机（TEFC，IEC 底脚安装）
+Асинхронный двигатель (TEFC, IEC на лапах)
+Silnik indukcyjny (TEFC, IEC na łapach)
+Aszinkron motor (TEFC, IEC talpas)
+Motor de inducción (TEFC, IEC con patas)
+
+#5227
+Moteur triphasé à cage d'écureuil, fermé et à ventilation extérieure. Un ventilateur monté sur l'arbre sous le capot souffle l'air sur la carcasse à ailettes.
+Motor trifásico de gaiola de esquilo, totalmente fechado e com ventilação externa. Um ventilador no eixo, sob a tampa defletora, sopra ar sobre a carcaça aletada.
+三相鼠笼式电机，全封闭风扇冷却。风罩下装在轴上的风扇把空气吹过带散热片的机壳。
+Трёхфазный двигатель с короткозамкнутым ротором, закрытый, с обдувом. Вентилятор на валу под кожухом обдувает оребрённый корпус.
+Trójfazowy silnik klatkowy, całkowicie zamknięty, chłodzony wentylatorem. Wentylator na wale pod osłoną nadmuchuje powietrze na żebrowany korpus.
+Háromfázisú kalickás motor, zárt, külső ventilátoros hűtéssel. A burkolat alatt a tengelyen ülő ventilátor a bordás házra fújja a levegőt.
+Motor trifásico de jaula de ardilla, totalmente cerrado y con ventilación exterior. Un ventilador en el eje, bajo la tapa, sopla aire sobre la carcasa con aletas.
+
+#5228
+Entraîne presque tout sur le site : pompes, ventilateurs de CTA, compresseurs, groupes froids, mélangeurs, convoyeurs et machines de conditionnement.
+Aciona quase tudo na fábrica: bombas, ventiladores de AHU, compressores, chillers, misturadores, transportadores e máquinas de embalagem.
+驱动厂区几乎所有设备：泵、AHU 风机、压缩机、冷水机组、混合机、输送机和包装机。
+Приводит почти всё на площадке: насосы, вентиляторы AHU, компрессоры, чиллеры, смесители, конвейеры и упаковочные машины.
+Napędza prawie wszystko w zakładzie: pompy, wentylatory AHU, sprężarki, agregaty wody lodowej, mieszalniki, przenośniki i maszyny pakujące.
+Szinte mindent ez hajt az üzemben: szivattyúkat, AHU ventilátorokat, kompresszorokat, hűtőgépeket, keverőket, szállítószalagokat és csomagológépeket.
+Acciona casi todo en la planta: bombas, ventiladores de UTA, compresores, enfriadoras, mezcladores, transportadores y máquinas de envasado.
+
+#5229
+Le courant triphasé dans les enroulements du stator crée un champ magnétique tournant. Il induit un courant dans les barres du rotor, qui entraîne le rotor un peu moins vite que le champ (glissement).
+A corrente trifásica nos enrolamentos do estator cria um campo magnético girante. Ele induz corrente nas barras do rotor, que arrasta o rotor um pouco mais devagar que o campo (escorregamento).
+定子绕组中的三相电流产生旋转磁场。磁场在转子导条中感应出电流，带动转子以略低于磁场的速度旋转（转差）。
+Трёхфазный ток в обмотках статора создаёт вращающееся магнитное поле. Оно наводит ток в стержнях ротора, и ротор увлекается чуть медленнее поля (скольжение).
+Prąd trójfazowy w uzwojeniach stojana wytwarza wirujące pole magnetyczne. Indukuje ono prąd w prętach wirnika, który obraca wirnik nieco wolniej niż pole (poślizg).
+Az állórész tekercseiben folyó háromfázisú áram forgó mágneses teret hoz létre. Ez áramot indukál a forgórész rúdjaiban, ami a forgórészt kicsit lassabban viszi körbe, mint a mező (szlip).
+La corriente trifásica en los devanados del estator crea un campo magnético giratorio. Este induce corriente en las barras del rotor, que arrastra al rotor un poco más lento que el campo (deslizamiento).
+
+#5230
+Roulements chauds ou bruyants, bobinage grillé par surcharge, marche en monophasé ou humidité, isolement bas (mégohmmètre), échauffement par ailettes sales ou capot obstrué, vibrations par désalignement ou pied boiteux.
+Rolamentos quentes ou ruidosos, enrolamento queimado por sobrecarga, falta de fase ou umidade, isolamento baixo (megômetro), superaquecimento por aletas sujas ou tampa defletora obstruída, vibração por desalinhamento ou pé manco.
+轴承发热或有噪声、过载、缺相或受潮导致绕组烧毁、绝缘低（摇表）、散热片脏或风罩堵塞导致过热、不对中或软脚引起振动。
+Горячие или шумные подшипники, сгоревшая обмотка от перегрузки, обрыва фазы или влаги, низкая изоляция (мегаомметр), перегрев из-за грязных рёбер или забитого кожуха, вибрация от несоосности или «мягкой лапы».
+Gorące lub hałaśliwe łożyska, spalone uzwojenie od przeciążenia, zaniku fazy lub wilgoci, niska izolacja (megaomomierz), przegrzanie od brudnych żeber lub zatkanej osłony, drgania od nieosiowości lub miękkiej stopy.
+Meleg vagy zajos csapágyak, túlterhelés, fázishiány vagy nedvesség miatt kiégett tekercs, alacsony szigetelés (megger), koszos bordák vagy eltömődött burkolat okozta túlmelegedés, egytengelyűségi hiba vagy billegő talp okozta rezgés.
+Rodamientos calientes o ruidosos, bobinado quemado por sobrecarga, falta de fase o humedad, aislamiento bajo (megóhmetro), sobrecalentamiento por aletas sucias o tapa obstruida, vibración por desalineación o pata coja.
+
+#5231
+Mesurez le courant sur les trois phases, contrôlez l'isolement des enroulements au mégohmmètre, graissez selon la quantité de la plaque (pas plus), gardez ailettes et capot propres, contrôlez vibrations, serrage des bornes et pied boiteux.
+Meça a corrente nas três fases, faça o teste de megômetro nos enrolamentos, lubrifique com a quantidade da placa (não mais), mantenha aletas e tampa limpas, verifique vibração, aperto dos terminais e pé manco.
+测量三相电流，用摇表测绕组绝缘，按铭牌用量加脂（不要多加），保持散热片和风罩清洁，检查振动、接线端子紧固和软脚。
+Измеряйте ток во всех трёх фазах, проверяйте изоляцию обмоток мегаомметром, смазывайте по количеству с шильдика (не больше), держите рёбра и кожух чистыми, проверяйте вибрацию, затяжку клемм и «мягкую лапу».
+Mierz prąd we wszystkich trzech fazach, sprawdzaj izolację uzwojeń megaomomierzem, smaruj ilością z tabliczki (nie więcej), utrzymuj żebra i osłonę w czystości, sprawdzaj drgania, dokręcenie zacisków i miękką stopę.
+Mérje az áramot mindhárom fázison, meggerezze a tekercseket, az adattáblán megadott mennyiséggel zsírozzon (nem többel), tartsa tisztán a bordákat és a burkolatot, ellenőrizze a rezgést, a kapcsok meghúzását és a billegő talpat.
+Mida la corriente en las tres fases, pruebe el aislamiento de los devanados con megóhmetro, engrase con la cantidad de la placa (no más), mantenga limpias aletas y tapa, revise vibración, apriete de bornes y pata coja.
+
+#5232
+Carcasse à ailettes avec pattes
+Carcaça aletada com pés
+带底脚的散热片机壳
+Оребрённый корпус с лапами
+Żebrowany korpus z łapami
+Bordás ház talpakkal
+Carcasa con aletas y patas
+
+#5233
+Carcasse coulée qui tient le stator ; les ailettes évacuent la chaleur ; les pattes se boulonnent sur le socle.
+Carcaça fundida que segura o estator; as aletas levam o calor embora; os pés são aparafusados na base.
+铸造机壳固定定子；散热片带走热量；底脚用螺栓固定在底座上。
+Литой корпус держит статор; рёбра отводят тепло; лапы крепятся болтами к основанию.
+Odlewany korpus trzyma stojan; żebra odprowadzają ciepło; łapy przykręca się do podstawy.
+Öntött ház, amely az állórészt tartja; a bordák elvezetik a hőt; a talpakat az alapra csavarozzák.
+Carcasa fundida que sujeta el estator; las aletas evacúan el calor; las patas se atornillan a la base.
+
+#5234
+Noyau et enroulements du stator
+Núcleo e enrolamentos do estator
+定子铁芯和绕组
+Сердечник и обмотки статора
+Rdzeń i uzwojenia stojana
+Állórész vasmag és tekercsek
+Núcleo y devanados del estator
+
+#5235
+Empilage de tôles fines avec des bobines de cuivre dans les encoches ; crée le champ tournant.
+Pacote de chapas finas de aço com bobinas de cobre nas ranhuras; cria o campo girante.
+由薄硅钢片叠成，槽内嵌铜线圈；产生旋转磁场。
+Пакет тонких стальных пластин с медными катушками в пазах; создаёт вращающееся поле.
+Pakiet cienkich blach stalowych z miedzianymi cewkami w żłobkach; wytwarza pole wirujące.
+Vékony acéllemezekből álló köteg, hornyaiban réztekercsekkel; ez hozza létre a forgó mezőt.
+Paquete de chapas finas de acero con bobinas de cobre en las ranuras; crea el campo giratorio.
+
+#5236
+Porte le rotor, les roulements et le ventilateur ; le bout côté accouplement dépasse avec une rainure de clavette.
+Leva o rotor, os rolamentos e o ventilador; a ponta do lado acionado sai para fora com rasgo de chaveta.
+承载转子、轴承和风扇；驱动端伸出机壳，带键槽。
+Несёт ротор, подшипники и вентилятор; приводной конец выходит наружу со шпоночным пазом.
+Nosi wirnik, łożyska i wentylator; koniec napędowy wystaje na zewnątrz z rowkiem wpustowym.
+Hordozza a forgórészt, a csapágyakat és a ventilátort; a hajtásoldali vég reteszhoronnyal nyúlik ki.
+Lleva el rotor, los rodamientos y el ventilador; el extremo de accionamiento sale con chavetero.
+
+#5237
+Rotor à cage d'écureuil
+Rotor de gaiola de esquilo
+鼠笼转子
+Короткозамкнутый ротор
+Wirnik klatkowy
+Kalickás forgórész
+Rotor de jaula de ardilla
+
+#5238
+Noyau feuilleté avec barres en aluminium court-circuitées par des anneaux ; pas de balais, pas de connexions.
+Núcleo laminado com barras de alumínio curto-circuitadas por anéis; sem escovas, sem conexões.
+叠片铁芯，铝导条由端环短接；无电刷，无接线。
+Шихтованный сердечник с алюминиевыми стержнями, замкнутыми торцевыми кольцами; ни щёток, ни соединений.
+Pakietowany rdzeń z prętami aluminiowymi zwartymi pierścieniami; bez szczotek, bez połączeń.
+Lemezelt vasmag rövidrezáró gyűrűkkel összekötött alumíniumrudakkal; nincs kefe, nincs csatlakozás.
+Núcleo laminado con barras de aluminio cortocircuitadas por anillos; sin escobillas ni conexiones.
+
+#5239
+Roulement côté accouplement (DE)
+Rolamento lado acionado (DE)
+驱动端轴承（DE）
+Подшипник со стороны привода (DE)
+Łożysko od strony napędu (DE)
+Hajtásoldali csapágy (DE)
+Rodamiento lado accionamiento (DE)
+
+#5240
+Roulement à billes côté accouplement ; reprend la charge de la courroie ou de l'accouplement.
+Rolamento de esferas no lado acionado; suporta a carga da correia ou do acoplamento.
+驱动端的球轴承；承受皮带或联轴器载荷。
+Шарикоподшипник со стороны привода; несёт нагрузку от ремня или муфты.
+Łożysko kulkowe od strony napędu; przenosi obciążenie od pasa lub sprzęgła.
+Golyóscsapágy a hajtásoldalon; a szíj vagy a tengelykapcsoló terhelését viseli.
+Rodamiento de bolas en el lado de accionamiento; soporta la carga de la correa o del acoplamiento.
+
+#5241
+Roulement côté ventilateur (NDE)
+Rolamento lado ventilador (NDE)
+非驱动端轴承（风扇端，NDE）
+Подшипник со стороны вентилятора (NDE)
+Łożysko od strony wentylatora (NDE)
+Ventilátoroldali csapágy (NDE)
+Rodamiento lado ventilador (NDE)
+
+#5242
+Roulement à billes côté ventilateur ; l'un des deux roulements positionne l'arbre axialement, l'autre est libre.
+Rolamento de esferas no lado do ventilador; um dos dois rolamentos localiza o eixo axialmente, o outro flutua.
+风扇端的球轴承；两个轴承中一个轴向定位轴，另一个浮动。
+Шарикоподшипник со стороны вентилятора; один из двух подшипников фиксирует вал в осевом направлении, другой плавающий.
+Łożysko kulkowe od strony wentylatora; jedno z dwóch łożysk ustala wał osiowo, drugie jest swobodne.
+Golyóscsapágy a ventilátoroldalon; a két csapágy közül az egyik axiálisan vezeti a tengelyt, a másik szabad.
+Rodamiento de bolas en el lado del ventilador; uno de los dos rodamientos fija el eje axialmente, el otro flota.
+
+#5243
+Flasque côté accouplement
+Tampa lado acionado
+驱动端端盖
+Подшипниковый щит со стороны привода
+Tarcza łożyskowa od strony napędu
+Hajtásoldali csapágypajzs
+Escudo lado accionamiento
+
+#5244
+Couvercle coulé qui centre le rotor et tient le roulement DE.
+Tampa fundida que centraliza o rotor e segura o rolamento DE.
+铸造端盖，使转子对中并安装 DE 轴承。
+Литая крышка, центрирующая ротор и держащая подшипник DE.
+Odlewana pokrywa, która centruje wirnik i trzyma łożysko DE.
+Öntött fedél, amely központosítja a forgórészt és tartja a DE csapágyat.
+Tapa fundida que centra el rotor y sujeta el rodamiento DE.
+
+#5245
+Flasque côté ventilateur
+Tampa lado ventilador
+非驱动端端盖
+Подшипниковый щит со стороны вентилятора
+Tarcza łożyskowa od strony wentylatora
+Ventilátoroldali csapágypajzs
+Escudo lado ventilador
+
+#5246
+Tient le roulement NDE ; le ventilateur se trouve juste derrière.
+Segura o rolamento NDE; o ventilador fica logo atrás.
+安装 NDE 轴承；风扇就在其后面。
+Держит подшипник NDE; вентилятор стоит сразу за ним.
+Trzyma łożysko NDE; wentylator jest tuż za nią.
+A NDE csapágyat tartja; közvetlenül mögötte van a ventilátor.
+Sujeta el rodamiento NDE; el ventilador va justo detrás.
+
+#5247
+Ventilateur de refroidissement
+Ventilador de refrigeração
+冷却风扇
+Вентилятор охлаждения
+Wentylator chłodzący
+Hűtőventilátor
+Ventilador de refrigeración
+
+#5248
+Ventilateur à pales droites sur l'arbre ; refroidit dans les deux sens de rotation.
+Ventilador de pás retas no eixo; resfria nos dois sentidos de rotação.
+轴上的直叶片风扇；正反转都能冷却。
+Вентилятор с прямыми лопатками на валу; охлаждает при любом направлении вращения.
+Wentylator o prostych łopatkach na wale; chłodzi w obu kierunkach obrotów.
+Egyenes lapátos ventilátor a tengelyen; mindkét forgásirányban hűt.
+Ventilador de palas rectas en el eje; enfría en ambos sentidos de giro.
+
+#5249
+Capot de ventilateur
+Tampa defletora
+风罩
+Кожух вентилятора
+Osłona wentylatora
+Ventilátorburkolat
+Tapa del ventilador
+
+#5250
+Protection en tôle qui guide l'air du ventilateur le long des ailettes ; gardez sa grille propre.
+Proteção de chapa de aço que guia o ar do ventilador pelas aletas; mantenha a grade limpa.
+钢板护罩，引导风扇气流沿散热片流动；保持其格栅清洁。
+Стальной кожух направляет воздух вентилятора вдоль рёбер; держите его решётку чистой.
+Osłona z blachy stalowej, która prowadzi powietrze wzdłuż żeber; utrzymuj kratkę w czystości.
+Acéllemez védőburkolat, amely a ventilátor levegőjét a bordák mentén vezeti; tartsa tisztán a rácsát.
+Protección de chapa que guía el aire del ventilador a lo largo de las aletas; mantenga limpia su rejilla.
+
+#5251
+Clavette d'arbre
+Chaveta do eixo
+轴键
+Шпонка вала
+Wpust wału
+Tengelyretesz
+Chaveta del eje
+
+#5252
+Clavette parallèle qui entraîne la poulie ou le moyeu d'accouplement.
+Chaveta paralela que aciona a polia ou o cubo do acoplamento.
+平键，驱动皮带轮或联轴器轮毂。
+Призматическая шпонка, передающая момент на шкив или полумуфту.
+Wpust pryzmatyczny, który napędza koło pasowe lub piastę sprzęgła.
+Fészkes retesz, amely a szíjtárcsát vagy a tengelykapcsoló-agyat hajtja.
+Chaveta paralela que acciona la polea o el cubo del acoplamiento.
+
+#5253
+Boîte sur le dessus de la carcasse où le câble d'alimentation entre par un presse-étoupe.
+Caixa em cima da carcaça onde o cabo de alimentação entra por um prensa-cabo.
+机壳顶部的接线盒，电源电缆经格兰头进入。
+Коробка сверху корпуса, куда питающий кабель входит через кабельный ввод.
+Skrzynka na górze korpusu, do której kabel zasilający wchodzi przez dławnicę.
+Doboz a ház tetején, ahová a tápkábel tömszelencén át lép be.
+Caja sobre la carcasa donde el cable de alimentación entra por un prensaestopas.
+
+#5254
+Plaque à bornes U V W
+Placa de bornes U V W
+接线板 U V W
+Клеммная колодка U V W
+Tabliczka zaciskowa U V W
+Kapocstábla U V W
+Placa de bornes U V W
+
+#5255
+Six bornes des extrémités d'enroulement ; les barrettes réalisent étoile ou triangle, l'alimentation arrive sur U1 V1 W1.
+Seis terminais das pontas dos enrolamentos; as pontes definem estrela ou triângulo, a alimentação vai em U1 V1 W1.
+六个绕组出线端子；连接片设定星形或三角形，电源接 U1 V1 W1。
+Шесть шпилек выводов обмоток; перемычки задают звезду или треугольник, питание подаётся на U1 V1 W1.
+Sześć zacisków końców uzwojeń; zworki ustawiają gwiazdę lub trójkąt, zasilanie idzie na U1 V1 W1.
+A tekercsvégek hat csapja; az összekötők csillagot vagy deltát adnak, a táp az U1 V1 W1 kapcsokra megy.
+Seis bornes de los extremos del bobinado; los puentes fijan estrella o triángulo, la alimentación va a U1 V1 W1.
+
+#5256
+Couvercle de boîte à bornes
+Tampa da caixa de ligação
+接线盒盖
+Крышка клеммной коробки
+Pokrywa skrzynki zaciskowej
+Kapocsdoboz fedele
+Tapa de la caja de bornes
+
+#5257
+Couvercle à joint ; remontez-le avec toutes ses vis pour garder l'IP55.
+Tampa com junta; remonte com todos os parafusos para manter o IP55.
+带密封垫的盖子；装回时拧上所有螺钉以保持 IP55。
+Крышка с прокладкой; ставьте её на место со всеми винтами, чтобы сохранить IP55.
+Pokrywa z uszczelką; zakładaj ją ze wszystkimi śrubami, aby zachować IP55.
+Tömített fedél; minden csavarral szerelje vissza, hogy megmaradjon az IP55.
+Tapa con junta; vuelva a montarla con todos los tornillos para mantener el IP55.
+
+#5258
+Un moteur 4 pôles sur 50 Hz tourne à environ…
+Um motor de 4 polos em 50 Hz gira a cerca de…
+50 Hz 下的 4 极电机转速约为…
+Четырёхполюсный двигатель при 50 Hz вращается примерно с…
+Silnik 4-biegunowy przy 50 Hz obraca się z prędkością około…
+Egy 4 pólusú motor 50 Hz-en kb. ennyivel forog…
+Un motor de 4 polos a 50 Hz gira a unos…
+
+#5259
+1450 rpm (1500 moins le glissement)
+1450 rpm (1500 menos o escorregamento)
+1450 rpm（1500 减去转差）
+1450 rpm (1500 минус скольжение)
+1450 rpm (1500 minus poślizg)
+1450 rpm (1500 mínusz a szlip)
+1450 rpm (1500 menos el deslizamiento)
+
+#5260
+3000 rpm
+3000 rpm
+3000 rpm
+3000 rpm
+3000 rpm
+3000 rpm
+3000 rpm
+
+#5261
+1500 rpm exactement
+1500 rpm exatos
+正好 1500 rpm
+Ровно 1500 rpm
+Dokładnie 1500 rpm
+Pontosan 1500 rpm
+1500 rpm exactas
+
+#5262
+750 rpm
+750 rpm
+750 rpm
+750 rpm
+750 rpm
+750 rpm
+750 rpm
+
+#5263
+Le moteur est chaud mais le courant est normal. Que vérifier en premier ?
+O motor está quente mas a corrente é normal. O que verificar primeiro?
+电机发热但电流正常。首先检查什么？
+Двигатель горячий, но ток в норме. Что проверить первым?
+Silnik jest gorący, ale prąd jest normalny. Co sprawdzić najpierw?
+A motor meleg, de az áram normális. Mit ellenőrizzen először?
+El motor está caliente pero la corriente es normal. ¿Qué revisar primero?
+
+#5264
+Le refroidissement : ailettes sales, grille du capot obstruée, ventilateur cassé
+A refrigeração: aletas sujas, grade da tampa obstruída, ventilador quebrado
+冷却：散热片脏、风罩格栅堵塞、风扇损坏
+Охлаждение: грязные рёбра, забитая решётка кожуха, сломанный вентилятор
+Chłodzenie: brudne żebra, zatkana kratka osłony, uszkodzony wentylator
+A hűtést: koszos bordák, eltömődött burkolatrács, törött ventilátor
+La refrigeración: aletas sucias, rejilla de la tapa obstruida, ventilador roto
+
+#5265
+La clavette
+A chaveta
+键
+Шпонку
+Wpust
+A reteszt
+La chaveta
+
+#5266
+Le couvercle de la boîte à bornes
+A tampa da caixa de ligação
+接线盒盖
+Крышку клеммной коробки
+Pokrywę skrzynki zaciskowej
+A kapocsdoboz fedelét
+La tapa de la caja de bornes
+
+#5267
+Les boulons des pattes
+Os parafusos dos pés
+底脚螺栓
+Болты лап
+Śruby łap
+A talpcsavarokat
+Los pernos de las patas
+
+#5268
+Pourquoi ne faut-il pas trop graisser les roulements de moteur ?
+Por que não se deve lubrificar demais os rolamentos do motor?
+为什么电机轴承不能加脂过多？
+Почему нельзя перегружать смазкой подшипники двигателя?
+Dlaczego nie wolno przesmarowywać łożysk silnika?
+Miért nem szabad túlzsírozni a motorcsapágyakat?
+¿Por qué no se deben engrasar en exceso los rodamientos del motor?
+
+#5269
+Trop de graisse est brassée, chauffe le roulement et peut entrer dans les enroulements
+Graxa demais é agitada, aquece o rolamento e pode entrar nos enrolamentos
+润滑脂过多会被搅动，使轴承发热，还可能进入绕组
+Избыток смазки перемешивается, греет подшипник и может попасть в обмотки
+Nadmiar smaru jest mieszany, grzeje łożysko i może dostać się do uzwojeń
+A túl sok zsír kavarodik, melegíti a csapágyat és bejuthat a tekercsekbe
+Demasiada grasa se bate, calienta el rodamiento y puede entrar en los devanados
+
+#5270
+La graisse coûte cher
+A graxa é cara
+润滑脂很贵
+Смазка дорогая
+Smar jest drogi
+A zsír drága
+La grasa es cara
+
+#5271
+Ça fait tourner le moteur plus vite
+Faz o motor girar mais rápido
+会让电机转得更快
+Двигатель от этого крутится быстрее
+Silnik kręci się szybciej
+Gyorsabban forog tőle a motor
+Hace que el motor gire más rápido
+
+#5272
+Ça baisse la tension
+Diminui a tensão
+会降低电压
+Это снижает напряжение
+Obniża napięcie
+Csökkenti a feszültséget
+Baja la tensión
+
+#5273
+Réducteur à roue et vis sans fin (arbre creux)
+Redutor de rosca sem fim (saída oca)
+蜗轮蜗杆减速箱（空心输出轴）
+Червячный редуктор (полый выходной вал)
+Przekładnia ślimakowa (wyjście drążone)
+Csigahajtómű (üreges kihajtás)
+Reductor de sinfín (salida hueca)
+
+#5274
+Réducteur à renvoi d'angle : une vis en acier à l'entrée entraîne une roue en bronze ; le moyeu de la roue est un alésage de sortie creux avec rainure de clavette.
+Redutor em ângulo reto: uma rosca sem fim de aço na entrada gira uma coroa de bronze; o cubo da coroa é um furo de saída oco com rasgo de chaveta.
+直角减速器：输入端的钢蜗杆带动青铜蜗轮；蜗轮轮毂就是带键槽的空心输出孔。
+Угловой редуктор: стальной червяк на входе вращает бронзовое червячное колесо; ступица колеса — полое выходное отверстие со шпоночным пазом.
+Reduktor kątowy: stalowy ślimak na wejściu obraca brązowe koło ślimakowe; piasta koła to drążony otwór wyjściowy z rowkiem wpustowym.
+Derékszögű hajtómű: a bemeneti acélcsiga bronz csigakereket hajt; a kerékagy reteszhornyos üreges kimeneti furat.
+Reductor en ángulo recto: un sinfín de acero en la entrada gira una corona de bronce; el cubo de la corona es un agujero de salida hueco con chavetero.
+
+#5275
+Convoyeurs, entraînements de lignes de conditionnement, mélangeurs et agitateurs lents, tables tournantes et portes où il faut un grand rapport compact.
+Transportadores, acionamentos de linhas de embalagem, misturadores e agitadores lentos, mesas giratórias e portas onde se precisa de alta relação compacta.
+输送机、包装线驱动、低速混合机和搅拌器、回转台以及需要紧凑大速比的门。
+Конвейеры, приводы упаковочных линий, тихоходные смесители и мешалки, поворотные столы и двери, где нужно компактное большое передаточное число.
+Przenośniki, napędy linii pakujących, wolnoobrotowe mieszalniki i mieszadła, stoły obrotowe i drzwi, gdzie potrzebne jest zwarte duże przełożenie.
+Szállítószalagok, csomagolósori hajtások, lassú keverők, forgóasztalok és ajtók, ahol kompakt, nagy áttétel kell.
+Transportadores, accionamientos de líneas de envasado, mezcladores y agitadores lentos, mesas giratorias y puertas donde se necesita una relación alta y compacta.
+
+#5276
+Chaque tour d'une vis à un filet avance la roue d'une dent : une roue de 30 dents donne 30:1. Les dents glissent l'une sur l'autre : le rendement est plus faible et la chaleur plus élevée qu'avec des engrenages hélicoïdaux.
+Cada volta de uma rosca de uma entrada avança a coroa um dente, então uma coroa de 30 dentes dá 30:1. Os dentes deslizam entre si, por isso a eficiência é menor e o calor maior que em engrenagens helicoidais.
+单头蜗杆每转一圈，蜗轮转过一个齿，所以 30 齿蜗轮的速比为 30:1。齿面之间是滑动接触，因此效率比斜齿轮低，发热更大。
+Каждый оборот однозаходного червяка поворачивает колесо на один зуб, так что колесо с 30 зубьями даёт 30:1. Зубья скользят друг по другу, поэтому КПД ниже, а нагрев выше, чем у косозубых передач.
+Każdy obrót ślimaka jednozwojnego przesuwa koło o jeden ząb, więc koło 30-zębne daje 30:1. Zęby ślizgają się po sobie, dlatego sprawność jest niższa, a grzanie większe niż w przekładniach śrubowych.
+Az egybekezdésű csiga minden fordulata egy foggal viszi tovább a kereket, így egy 30 fogú kerék 30:1-et ad. A fogak csúsznak egymáson, ezért a hatásfok kisebb, a melegedés nagyobb, mint ferde fogazatú kerekeknél.
+Cada vuelta de un sinfín de una entrada avanza la corona un diente, así una corona de 30 dientes da 30:1. Los dientes deslizan entre sí, por eso el rendimiento es menor y el calor mayor que con engranajes helicoidales.
+
+#5277
+Usure du bronze (paillettes de bronze dans l'huile), échauffement, fuites d'huile aux joints, jeu (backlash) croissant, bruit par huile insuffisante ou inadaptée.
+Desgaste do bronze (brilho de bronze no óleo), superaquecimento, vazamentos de óleo nos retentores, folga crescente, ruído por óleo faltando ou errado.
+青铜磨损（油中有青铜亮屑）、过热、油封漏油、齿隙增大、缺油或用错油引起噪声。
+Износ бронзы (блёстки бронзы в масле), перегрев, течь масла через сальники, растущий люфт, шум из-за нехватки или неправильного масла.
+Zużycie brązu (błyszczące drobiny brązu w oleju), przegrzanie, wycieki oleju na uszczelnieniach, rosnący luz międzyzębny, hałas od braku lub złego oleju.
+Bronzkopás (csillogó bronzszemcsék az olajban), túlmelegedés, olajszivárgás a tömítéseknél, növekvő fogholtjáték, zaj kevés vagy rossz olaj miatt.
+Desgaste del bronce (brillo de bronce en el aceite), sobrecalentamiento, fugas de aceite en los retenes, holgura creciente, ruido por falta de aceite o aceite equivocado.
+
+#5278
+Gardez le bon type et le bon niveau d'huile (beaucoup sont remplis d'huile synthétique PG : ne jamais mélanger avec de l'huile minérale), contrôlez température et jeu, remplacez les joints qui fuient. Ne comptez pas sur l'irréversibilité comme frein.
+Mantenha o tipo e o nível corretos de óleo (muitos vêm com óleo sintético PG: nunca misture com óleo mineral), verifique temperatura e folga, troque retentores que vazam. Não confie no autotravamento como freio.
+保持正确的油品和油位（很多出厂加注合成 PG 油：绝不能与矿物油混用），检查温度和齿隙，更换漏油的油封。不要把自锁当作制动器使用。
+Соблюдайте правильный тип и уровень масла (многие заправлены синтетическим PG: никогда не смешивайте с минеральным), проверяйте температуру и люфт, меняйте текущие сальники. Не полагайтесь на самоторможение как на тормоз.
+Utrzymuj właściwy rodzaj i poziom oleju (wiele jest zalanych syntetycznym olejem PG: nigdy nie mieszaj z mineralnym), sprawdzaj temperaturę i luz, wymieniaj cieknące uszczelnienia. Nie traktuj samohamowności jak hamulca.
+Tartsa a megfelelő olajtípust és -szintet (sok szintetikus PG olajjal van töltve: soha ne keverje ásványi olajjal), ellenőrizze a hőmérsékletet és a holtjátékot, cserélje a szivárgó tömítéseket. Ne számítson az önzárásra fékként.
+Mantenga el tipo y nivel de aceite correctos (muchos vienen con aceite sintético PG: nunca mezclar con aceite mineral), revise temperatura y holgura, cambie los retenes que fugan. No confíe en el autobloqueo como freno.
+
+#5279
+Carter
+Carcaça
+箱体
+Корпус
+Korpus
+Ház
+Carcasa
+
+#5280
+Carter en aluminium avec les alésages des roulements de vis selon X et l'alésage de sortie selon Z ; contient l'huile.
+Carcaça de alumínio com os furos dos rolamentos da rosca ao longo de X e o furo de saída ao longo de Z; contém o óleo.
+铝制箱体，蜗杆轴承孔沿 X 轴，输出孔沿 Z 轴；内装润滑油。
+Алюминиевый корпус с расточками под подшипники червяка вдоль X и выходным отверстием вдоль Z; в нём масло.
+Aluminiowy korpus z gniazdami łożysk ślimaka wzdłuż X i otworem wyjściowym wzdłuż Z; mieści olej.
+Alumínium ház, a csigacsapágyak furatai X, a kimeneti furat Z irányban; ebben van az olaj.
+Carcasa de aluminio con los alojamientos de los rodamientos del sinfín según X y el agujero de salida según Z; contiene el aceite.
+
+#5281
+Roulement de vis (côté opposé)
+Rolamento da rosca (lado oposto)
+蜗杆轴承（远端）
+Подшипник червяка (дальний конец)
+Łożysko ślimaka (koniec dalszy)
+Csigacsapágy (túlsó vég)
+Rodamiento del sinfín (extremo opuesto)
+
+#5282
+Supporte la vis et reprend sa poussée dans un sens.
+Apoia a rosca e recebe seu empuxo em um sentido.
+支撑蜗杆并承受一个方向的推力。
+Опирает червяк и воспринимает его осевую силу в одном направлении.
+Podpiera ślimak i przejmuje jego nacisk w jednym kierunku.
+Megtámasztja a csigát és egy irányban felveszi az axiális erejét.
+Soporta el sinfín y toma su empuje en un sentido.
+
+#5283
+Vis sans fin (arbre d'entrée)
+Rosca sem fim (eixo de entrada)
+蜗杆（输入轴）
+Червяк (входной вал)
+Ślimak (wał wejściowy)
+Csiga (bemenő tengely)
+Sinfín (eje de entrada)
+
+#5284
+Vis en acier trempé sur l'arbre d'entrée ; le moteur l'entraîne.
+Rosca de aço temperado no eixo de entrada; o motor a aciona.
+输入轴上的淬硬钢螺杆；由电机驱动。
+Закалённый стальной червяк на входном валу; его вращает двигатель.
+Hartowany stalowy ślimak na wale wejściowym; napędza go silnik.
+Edzett acélcsiga a bemenő tengelyen; a motor hajtja.
+Tornillo de acero templado en el eje de entrada; lo acciona el motor.
+
+#5285
+Roulement de vis (côté entrée)
+Rolamento da rosca (lado da entrada)
+蜗杆轴承（输入端）
+Подшипник червяка (входной конец)
+Łożysko ślimaka (strona wejścia)
+Csigacsapágy (bemeneti vég)
+Rodamiento del sinfín (lado de entrada)
+
+#5286
+Second roulement de vis ; reprend la poussée dans l'autre sens.
+Segundo rolamento da rosca; recebe o empuxo no outro sentido.
+第二个蜗杆轴承；承受另一方向的推力。
+Второй подшипник червяка; воспринимает осевую силу в другую сторону.
+Drugie łożysko ślimaka; przejmuje nacisk w drugą stronę.
+Második csigacsapágy; a másik irányú axiális erőt veszi fel.
+Segundo rodamiento del sinfín; toma el empuje en el otro sentido.
+
+#5287
+Joint d'huile d'entrée
+Retentor de entrada
+输入油封
+Входной сальник
+Uszczelniacz wejściowy
+Bemeneti szimmering
+Retén de entrada
+
+#5288
+Joint à lèvre sur l'arbre d'entrée.
+Retentor de lábio no eixo de entrada.
+输入轴上的唇形油封。
+Манжетное уплотнение на входном валу.
+Uszczelniacz wargowy na wale wejściowym.
+Ajakos tömítés a bemenő tengelyen.
+Retén de labio en el eje de entrada.
+
+#5289
+Bouchon borgne
+Tampa cega
+盲端盖
+Глухая крышка
+Pokrywa zaślepiająca
+Vakfedél
+Tapa ciega
+
+#5290
+Ferme l'alésage de vis côté opposé.
+Fecha o furo da rosca no lado oposto.
+封闭远端的蜗杆孔。
+Закрывает дальнее отверстие червяка.
+Zamyka dalszy otwór ślimaka.
+Lezárja a túlsó csigafuratot.
+Cierra el alojamiento del sinfín del extremo opuesto.
+
+#5291
+Clavette d'entrée
+Chaveta de entrada
+输入键
+Входная шпонка
+Wpust wejściowy
+Bemeneti retesz
+Chaveta de entrada
+
+#5292
+Solidarise l'accouplement moteur avec l'arbre de la vis.
+Trava o acoplamento do motor no eixo da rosca.
+把电机联轴器锁在蜗杆轴上。
+Соединяет муфту двигателя с валом червяка.
+Łączy sprzęgło silnika z wałem ślimaka.
+Összekapcsolja a motor tengelykapcsolóját a csigatengellyel.
+Une el acoplamiento del motor al eje del sinfín.
+
+#5293
+Roulement de sortie (côté carter)
+Rolamento de saída (lado da carcaça)
+输出轴承（箱体侧）
+Выходной подшипник (со стороны корпуса)
+Łożysko wyjściowe (strona korpusu)
+Kimeneti csapágy (ház felőli oldal)
+Rodamiento de salida (lado de la carcasa)
+
+#5294
+Porte l'arbre creux de sortie dans le carter.
+Apoia a saída oca na carcaça.
+在箱体内支撑空心输出轴。
+Несёт полый выходной вал в корпусе.
+Podpiera drążone wyjście w korpusie.
+A házban hordozza az üreges kihajtást.
+Soporta la salida hueca en la carcasa.
+
+#5295
+Joint d'huile de sortie (côté carter)
+Retentor de saída (lado da carcaça)
+输出油封（箱体侧）
+Выходной сальник (со стороны корпуса)
+Uszczelniacz wyjściowy (strona korpusu)
+Kimeneti szimmering (ház felőli oldal)
+Retén de salida (lado de la carcasa)
+
+#5296
+Assure l'étanchéité de la sortie creuse côté carter.
+Veda a saída oca no lado da carcaça.
+在箱体侧密封空心输出轴。
+Уплотняет полый выход со стороны корпуса.
+Uszczelnia drążone wyjście od strony korpusu.
+A ház felőli oldalon tömíti az üreges kihajtást.
+Sella la salida hueca en el lado de la carcasa.
+
+#5297
+Roue à vis avec moyeu creux
+Coroa com cubo oco
+带空心轮毂的蜗轮
+Червячное колесо с полой ступицей
+Koło ślimakowe z drążoną piastą
+Csigakerék üreges aggyal
+Corona con cubo hueco
+
+#5298
+Couronne dentée en bronze sur un moyeu ; l'alésage du moyeu avec rainure de clavette est la sortie qui s'enfile sur l'arbre de la machine.
+Aro dentado de bronze sobre um cubo; o furo do cubo com rasgo de chaveta é a saída que desliza no eixo da máquina.
+轮毂上的青铜齿圈；带键槽的轮毂孔即输出端，套在设备轴上。
+Бронзовый зубчатый венец на ступице; отверстие ступицы со шпоночным пазом — это выход, надеваемый на вал машины.
+Brązowy wieniec zębaty na piaście; otwór piasty z rowkiem wpustowym to wyjście nasuwane na wał maszyny.
+Bronz fogaskoszorú agyon; a reteszhornyos agyfurat a kimenet, amely a gép tengelyére csúszik.
+Llanta dentada de bronce sobre un cubo; el agujero del cubo con chavetero es la salida que entra en el eje de la máquina.
+
+#5299
+Roulement de sortie (côté couvercle)
+Rolamento de saída (lado da tampa)
+输出轴承（端盖侧）
+Выходной подшипник (со стороны крышки)
+Łożysko wyjściowe (strona pokrywy)
+Kimeneti csapágy (fedél felőli oldal)
+Rodamiento de salida (lado de la tapa)
+
+#5300
+Second roulement de sortie, dans le couvercle.
+Segundo rolamento de saída, na tampa.
+第二个输出轴承，装在端盖内。
+Второй выходной подшипник, в крышке.
+Drugie łożysko wyjściowe, w pokrywie.
+Második kimeneti csapágy, a fedélben.
+Segundo rodamiento de salida, en la tapa.
+
+#5301
+Couvercle latéral
+Tampa lateral
+侧盖
+Боковая крышка
+Pokrywa boczna
+Oldalfedél
+Tapa lateral
+
+#5302
+Bride boulonnée qui ferme l'ouverture par laquelle on introduit la roue.
+Flange aparafusado que fecha a abertura por onde a coroa entra.
+螺栓固定的法兰盖，封住蜗轮装入的开口。
+Привёртная фланцевая крышка, закрывающая проём, через который вставляют колесо.
+Przykręcany kołnierz zamykający otwór, przez który wkłada się koło.
+Csavarozott karima, amely lezárja a nyílást, amelyen a kereket behelyezik.
+Brida atornillada que cierra la abertura por la que entra la corona.
+
+#5303
+Joint d'huile de sortie (côté couvercle)
+Retentor de saída (lado da tampa)
+输出油封（端盖侧）
+Выходной сальник (со стороны крышки)
+Uszczelniacz wyjściowy (strona pokrywy)
+Kimeneti szimmering (fedél felőli oldal)
+Retén de salida (lado de la tapa)
+
+#5304
+Assure l'étanchéité de la sortie creuse côté couvercle.
+Veda a saída oca no lado da tampa.
+在端盖侧密封空心输出轴。
+Уплотняет полый выход со стороны крышки.
+Uszczelnia drążone wyjście od strony pokrywy.
+A fedél felőli oldalon tömíti az üreges kihajtást.
+Sella la salida hueca en el lado de la tapa.
+
+#5305
+Une vis à un filet entraîne une roue de 40 dents. Le rapport est…
+Uma rosca de uma entrada aciona uma coroa de 40 dentes. A relação é…
+单头蜗杆驱动 40 齿蜗轮。速比为…
+Однозаходный червяк вращает колесо с 40 зубьями. Передаточное отношение…
+Ślimak jednozwojny napędza koło 40-zębne. Przełożenie wynosi…
+Egybekezdésű csiga 40 fogú kereket hajt. Az áttétel…
+Un sinfín de una entrada acciona una corona de 40 dientes. La relación es…
+
+#5306
+1:40 (multiplicateur)
+1:40 (multiplicador)
+1:40（增速）
+1:40 (повышающая)
+1:40 (przyspieszająca)
+1:40 (gyorsító)
+1:40 (multiplicadora)
+
+#5307
+Des particules de bronze brillantes apparaissent dans l'huile du réducteur. Qu'est-ce qui s'use ?
+Partículas brilhantes de bronze aparecem no óleo do redutor. O que está desgastando?
+减速箱油中出现发亮的青铜颗粒。是什么在磨损？
+В масле редуктора появились блестящие частицы бронзы. Что изнашивается?
+W oleju przekładni pojawiają się błyszczące drobiny brązu. Co się zużywa?
+Csillogó bronzszemcsék jelennek meg a hajtómű olajában. Mi kopik?
+Aparecen partículas brillantes de bronce en el aceite del reductor. ¿Qué se está desgastando?
+
+#5308
+Les dents de la roue
+Os dentes da coroa
+蜗轮齿
+Зубья червячного колеса
+Zęby koła ślimakowego
+A csigakerék fogai
+Los dientes de la corona
+
+#5309
+La vis en acier
+A rosca de aço
+钢蜗杆
+Стальной червяк
+Stalowy ślimak
+Az acélcsiga
+El sinfín de acero
+
+#5310
+Le carter
+A carcaça
+箱体
+Корпус
+Korpus
+A ház
+La carcasa
+
+#5311
+Le joint d'huile
+O retentor
+油封
+Сальник
+Uszczelniacz
+A szimmering
+El retén
+
+#5312
+Peut-on utiliser l'irréversibilité d'un réducteur à vis sans fin comme frein de sécurité d'un monte-charge ?
+Pode-se usar o autotravamento de um redutor de rosca sem fim como freio de segurança de um elevador?
+能否把蜗轮蜗杆减速箱的自锁当作升降机的安全制动器？
+Можно ли использовать самоторможение червячного редуктора как предохранительный тормоз подъёмника?
+Czy można użyć samohamowności przekładni ślimakowej jako hamulca bezpieczeństwa windy?
+Használható-e a csigahajtómű önzárása egy emelő biztonsági fékjeként?
+¿Se puede usar el autobloqueo de un reductor de sinfín como freno de seguridad de un elevador?
+
+#5313
+Non : vibrations et usure peuvent le laisser dévirer ; utilisez un vrai frein
+Não: vibração e desgaste podem deixá-lo girar de volta; use um freio de verdade
+不能：振动和磨损可能使其反向转动；必须用真正的制动器
+Нет: вибрация и износ могут позволить обратный ход; ставьте настоящий тормоз
+Nie: drgania i zużycie mogą pozwolić na cofnięcie; użyj prawdziwego hamulca
+Nem: rezgés és kopás miatt visszafelé foroghat; használjon valódi féket
+No: la vibración y el desgaste pueden dejar que retroceda; use un freno de verdad
+
+#5314
+Oui, si l'huile est neuve
+Sim, se o óleo for novo
+可以，只要油是新的
+Да, если масло новое
+Tak, jeśli olej jest nowy
+Igen, ha friss az olaj
+Sí, si el aceite es nuevo
+
+#5315
+Seulement sur les moteurs triphasés
+Só em motores trifásicos
+只在三相电机上可以
+Только на трёхфазных двигателях
+Tylko przy silnikach trójfazowych
+Csak háromfázisú motoroknál
+Solo en motores trifásicos
+
+#5316
+Réducteur coaxial à engrenages hélicoïdaux (deux étages)
+Redutor coaxial de engrenagens helicoidais (dois estágios)
+同轴斜齿轮减速箱（两级）
+Соосный цилиндрический косозубый редуктор (двухступенчатый)
+Przekładnia współosiowa walcowa skośna (dwustopniowa)
+Koaxiális ferde fogazatú hajtómű (kétfokozatú)
+Reductor coaxial de engranajes helicoidales (dos etapas)
+
+#5317
+Réducteur de vitesse avec entrée et sortie sur le même axe. Deux paires d'engrenages hélicoïdaux en série, portées par un arbre intermédiaire en dessous.
+Redutor de velocidade com entrada e saída no mesmo eixo. Dois pares de engrenagens helicoidais em série, apoiados por um eixo intermediário embaixo.
+输入和输出在同一轴线上的减速器。两对斜齿轮串联，由下方的中间轴支承。
+Редуктор с входом и выходом на одной оси. Две пары косозубых колёс последовательно, на промежуточном валу снизу.
+Reduktor prędkości z wejściem i wyjściem w jednej osi. Dwie pary kół śrubowych szeregowo, osadzone na wale pośrednim poniżej.
+Fordulatszám-csökkentő, a be- és kimenet egy tengelyvonalban. Két ferde fogazatú kerékpár sorban, alul egy közlőtengelyen.
+Reductor de velocidad con entrada y salida en el mismo eje. Dos pares de engranajes helicoidales en serie, montados en un eje intermedio debajo.
+
+#5318
+Entraînements de convoyeurs, agitateurs et mélangeurs, pompes de process et vis doseuses ; souvent en motoréducteur avec le moteur boulonné sur la bride d'entrée.
+Acionamentos de transportadores, agitadores e misturadores, bombas de processo e roscas dosadoras; muitas vezes como motorredutor com o motor aparafusado no flange de entrada.
+输送机驱动、搅拌器和混合机、工艺泵和螺旋给料机；常做成减速电机，电机用螺栓固定在输入法兰上。
+Приводы конвейеров, мешалки и смесители, технологические насосы и шнековые питатели; часто как мотор-редуктор с двигателем на входном фланце.
+Napędy przenośników, mieszadła i mieszalniki, pompy procesowe i podajniki ślimakowe; często jako motoreduktor z silnikiem przykręconym do kołnierza wejściowego.
+Szállítószalag-hajtások, keverők, technológiai szivattyúk és csigás adagolók; gyakran hajtóműves motorként, a motor a bemeneti karimára csavarozva.
+Accionamientos de transportadores, agitadores y mezcladores, bombas de proceso y tornillos dosificadores; a menudo como motorreductor con el motor atornillado a la brida de entrada.
+
+#5319
+Le pignon d'entrée entraîne une grande roue sur l'arbre intermédiaire (étage 1) ; un petit pignon sur ce même arbre entraîne la roue de sortie (étage 2). Les deux rapports se multiplient. Les dentures hélicoïdales sont plus silencieuses mais poussent latéralement : les roulements reprennent aussi une charge axiale.
+O pinhão de entrada gira uma engrenagem grande no eixo intermediário (estágio 1); um pinhão pequeno no mesmo eixo gira a engrenagem de saída (estágio 2). As duas relações se multiplicam. Dentes helicoidais são mais silenciosos mas empurram para o lado, então os rolamentos também suportam carga axial.
+输入小齿轮带动中间轴上的大齿轮（第 1 级）；同一中间轴上的小齿轮带动输出齿轮（第 2 级）。两级速比相乘。斜齿运转更安静，但会产生侧向推力，因此轴承还要承受轴向载荷。
+Входная шестерня вращает большое колесо на промежуточном валу (ступень 1); малая шестерня на том же валу вращает выходное колесо (ступень 2). Передаточные числа перемножаются. Косые зубья работают тише, но толкают вбок, поэтому подшипники несут и осевую нагрузку.
+Zębnik wejściowy obraca duże koło na wale pośrednim (stopień 1); mały zębnik na tym samym wale obraca koło wyjściowe (stopień 2). Oba przełożenia się mnożą. Zęby śrubowe pracują ciszej, ale pchają na boki, więc łożyska przenoszą też obciążenie osiowe.
+A bemenő kiskerék a közlőtengelyen lévő nagy kereket hajtja (1. fokozat); ugyanazon tengely kis kereke hajtja a kimenő kereket (2. fokozat). A két áttétel összeszorzódik. A ferde fogak csendesebbek, de oldalirányban tolnak, ezért a csapágyak axiális terhelést is viselnek.
+El piñón de entrada gira un engranaje grande en el eje intermedio (etapa 1); un piñón pequeño en el mismo eje gira el engranaje de salida (etapa 2). Las dos relaciones se multiplican. Los dientes helicoidales son más silenciosos pero empujan de lado, así los rodamientos también soportan carga axial.
+
+#5320
+Piqûres (pitting) ou dents cassées, bruit et chaleur des roulements, fuites d'huile aux joints ou au reniflard, échauffement dû à un mauvais niveau d'huile.
+Pitting ou dentes quebrados, ruído e calor nos rolamentos, vazamentos de óleo nos retentores ou no respiro, superaquecimento por nível de óleo errado.
+齿面点蚀或断齿、轴承噪声和发热、油封或通气帽漏油、油位不对导致过热。
+Питтинг или сломанные зубья, шум и нагрев подшипников, течи масла через сальники или сапун, перегрев из-за неправильного уровня масла.
+Pitting lub wyłamane zęby, hałas i grzanie łożysk, wycieki oleju na uszczelnieniach lub odpowietrzniku, przegrzanie od złego poziomu oleju.
+Pitting vagy törött fogak, csapágyzaj és -melegedés, olajszivárgás a tömítéseknél vagy a légzőnél, rossz olajszint okozta túlmelegedés.
+Picado (pitting) o dientes rotos, ruido y calor en rodamientos, fugas de aceite en retenes o respiradero, sobrecalentamiento por nivel de aceite incorrecto.
+
+#5321
+Vidangez à l'intervalle prévu (analysez l'huile pour les métaux), contrôlez le niveau réducteur à l'arrêt, gardez le reniflard propre, contrôlez vibrations et température, alignez l'accouplement de sortie.
+Troque o óleo no intervalo (faça análise de metais), verifique o nível com o redutor parado, mantenha o respiro limpo, verifique vibração e temperatura, alinhe o acoplamento de saída.
+按周期换油（取样化验金属含量），停机时检查油位，保持通气帽清洁，检查振动和温度，对中输出联轴器。
+Меняйте масло по интервалу (берите пробу на металлы), проверяйте уровень на остановленном редукторе, держите сапун чистым, контролируйте вибрацию и температуру, центрируйте выходную муфту.
+Wymieniaj olej w terminie (pobierz próbkę na metale), sprawdzaj poziom przy zatrzymanej przekładni, utrzymuj odpowietrznik w czystości, sprawdzaj drgania i temperaturę, osiuj sprzęgło wyjściowe.
+Cseréljen olajat az előírt időközönként (mintázza fémtartalomra), álló hajtóműnél ellenőrizze a szintet, tartsa tisztán a légzőt, ellenőrizze a rezgést és a hőmérsékletet, igazítsa be a kimenő tengelykapcsolót.
+Cambie el aceite en el intervalo (analice metales), revise el nivel con el reductor parado, mantenga limpio el respiradero, revise vibración y temperatura, alinee el acoplamiento de salida.
+
+#5322
+Bain d'huile en fonte avec la cloison interne, les portées de roulements et les pattes.
+Banho de óleo de ferro fundido com a parede interna, os assentos de rolamentos e os pés.
+铸铁油池，带内部隔板、轴承座孔和底脚。
+Чугунная масляная ванна с внутренней перегородкой, посадочными местами подшипников и лапами.
+Żeliwna wanna olejowa z przegrodą wewnętrzną, gniazdami łożysk i łapami.
+Öntöttvas olajteknő belső falazattal, csapágyfészkekkel és talpakkal.
+Baño de aceite de fundición con el tabique interno, los asientos de rodamientos y las patas.
+
+#5323
+Arbre intermédiaire avec pignon d'étage 2
+Eixo intermediário com pinhão do estágio 2
+带第 2 级小齿轮的中间轴
+Промежуточный вал с шестернёй ступени 2
+Wał pośredni z zębnikiem stopnia 2
+Közlőtengely a 2. fokozat kiskerekével
+Eje intermedio con piñón de la etapa 2
+
+#5324
+Arbre intermédiaire ; son pignon est taillé dans l'arbre et entraîne la roue de sortie.
+Eixo intermediário; seu pinhão é usinado no próprio eixo e aciona a engrenagem de saída.
+中间轴；其小齿轮直接加工在轴上，驱动输出齿轮。
+Промежуточный вал; его шестерня нарезана на валу и вращает выходное колесо.
+Wał pośredni; jego zębnik jest nacięty na wale i napędza koło wyjściowe.
+Közlőtengely; kiskereke a tengelyre van marva és a kimenő kereket hajtja.
+Eje intermedio; su piñón está tallado en el eje y acciona el engranaje de salida.
+
+#5325
+Roue d'étage 1
+Engrenagem do estágio 1
+第 1 级大齿轮
+Колесо ступени 1
+Koło stopnia 1
+1. fokozat kereke
+Engranaje de la etapa 1
+
+#5326
+Grande roue hélicoïdale clavetée sur l'arbre intermédiaire ; entraînée par le pignon d'entrée.
+Engrenagem helicoidal grande enchavetada no eixo intermediário; acionada pelo pinhão de entrada.
+用键固定在中间轴上的大斜齿轮；由输入小齿轮驱动。
+Большое косозубое колесо на шпонке на промежуточном валу; приводится входной шестернёй.
+Duże koło śrubowe osadzone na wpuście na wale pośrednim; napędzane przez zębnik wejściowy.
+Nagy ferde fogazatú kerék retesszel a közlőtengelyen; a bemenő kiskerék hajtja.
+Engranaje helicoidal grande enchavetado al eje intermedio; accionado por el piñón de entrada.
+
+#5327
+Roulements de l'arbre intermédiaire
+Rolamentos do eixo intermediário
+中间轴轴承
+Подшипники промежуточного вала
+Łożyska wału pośredniego
+Közlőtengely csapágyai
+Rodamientos del eje intermedio
+
+#5328
+Un roulement dans la bride d'entrée, un dans la paroi de sortie.
+Um rolamento no flange de entrada, um na parede de saída.
+一个轴承在输入法兰内，一个在输出端壁内。
+Один подшипник во входном фланце, один в выходной стенке.
+Jedno łożysko w kołnierzu wejściowym, jedno w ścianie wyjściowej.
+Egy csapágy a bemeneti karimában, egy a kimeneti falban.
+Un rodamiento en la brida de entrada y otro en la pared de salida.
+
+#5329
+Arbre de sortie
+Eixo de saída
+输出轴
+Выходной вал
+Wał wyjściowy
+Kimenő tengely
+Eje de salida
+
+#5330
+Coaxial avec l'entrée ; le bout claveté entraîne la machine.
+Coaxial com a entrada; a ponta enchavetada aciona a máquina.
+与输入轴同轴；带键的轴端驱动设备。
+Соосен входу; конец со шпонкой приводит машину.
+Współosiowy z wejściem; koniec z wpustem napędza maszynę.
+A bemenettel egytengelyű; a reteszes vég hajtja a gépet.
+Coaxial con la entrada; el extremo con chaveta acciona la máquina.
+
+#5331
+Roue de sortie d'étage 2
+Engrenagem de saída do estágio 2
+第 2 级输出齿轮
+Выходное колесо ступени 2
+Koło wyjściowe stopnia 2
+2. fokozat kimenő kereke
+Engranaje de salida de la etapa 2
+
+#5332
+Grande roue hélicoïdale sur l'arbre de sortie.
+Engrenagem helicoidal grande no eixo de saída.
+输出轴上的大斜齿轮。
+Большое косозубое колесо на выходном валу.
+Duże koło śrubowe na wale wyjściowym.
+Nagy ferde fogazatú kerék a kimenő tengelyen.
+Engranaje helicoidal grande en el eje de salida.
+
+#5333
+Roulements de sortie
+Rolamentos de saída
+输出轴承
+Выходные подшипники
+Łożyska wyjściowe
+Kimeneti csapágyak
+Rodamientos de salida
+
+#5334
+Roulement intérieur dans la cloison, roulement extérieur dans la paroi de sortie ; ils reprennent la charge de sortie et la poussée des dentures.
+Rolamento interno na parede interna, rolamento externo na parede de saída; suportam a carga de saída e o empuxo das engrenagens.
+内侧轴承在隔板中，外侧轴承在输出端壁中；承受输出载荷和齿轮推力。
+Внутренний подшипник в перегородке, наружный в выходной стенке; они несут выходную нагрузку и осевую силу зацепления.
+Łożysko wewnętrzne w przegrodzie, zewnętrzne w ścianie wyjściowej; przenoszą obciążenie wyjściowe i nacisk osiowy kół.
+Belső csapágy a falazatban, külső a kimeneti falban; a kimeneti terhelést és a fogazat axiális erejét viselik.
+Rodamiento interior en el tabique, exterior en la pared de salida; soportan la carga de salida y el empuje de los engranajes.
+
+#5335
+Joint d'huile de sortie
+Retentor de saída
+输出油封
+Выходной сальник
+Uszczelniacz wyjściowy
+Kimeneti szimmering
+Retén de salida
+
+#5336
+Joint à lèvre sur l'arbre de sortie.
+Retentor de lábio no eixo de saída.
+输出轴上的唇形油封。
+Манжетное уплотнение на выходном валу.
+Uszczelniacz wargowy na wale wyjściowym.
+Ajakos tömítés a kimenő tengelyen.
+Retén de labio en el eje de salida.
+
+#5337
+Clavette de sortie
+Chaveta de saída
+输出键
+Выходная шпонка
+Wpust wyjściowy
+Kimeneti retesz
+Chaveta de salida
+
+#5338
+Entraîne l'accouplement ou le pignon de chaîne sur l'arbre de sortie.
+Aciona o acoplamento ou a roda dentada no eixo de saída.
+驱动输出轴上的联轴器或链轮。
+Передаёт момент на муфту или звёздочку на выходном валу.
+Napędza sprzęgło lub koło łańcuchowe na wale wyjściowym.
+A kimenő tengelyen lévő tengelykapcsolót vagy lánckereket hajtja.
+Acciona el acoplamiento o la rueda dentada en el eje de salida.
+
+#5339
+Arbre d'entrée avec pignon
+Eixo de entrada com pinhão
+带小齿轮的输入轴
+Входной вал с шестернёй
+Wał wejściowy z zębnikiem
+Bemenő tengely kiskerékkel
+Eje de entrada con piñón
+
+#5340
+Arbre côté moteur avec le pignon d'étage 1 taillé dessus.
+Eixo do lado do motor com o pinhão do estágio 1 usinado nele.
+电机侧的轴，上面加工有第 1 级小齿轮。
+Вал со стороны двигателя с нарезанной на нём шестернёй ступени 1.
+Wał od strony silnika z naciętym zębnikiem stopnia 1.
+Motor felőli tengely, rajta az 1. fokozat kiskereke.
+Eje del lado del motor con el piñón de la etapa 1 tallado en él.
+
+#5341
+Roulements d'entrée
+Rolamentos de entrada
+输入轴承
+Входные подшипники
+Łożyska wejściowe
+Bemeneti csapágyak
+Rodamientos de entrada
+
+#5342
+Un roulement dans la bride d'entrée, un dans la cloison.
+Um rolamento no flange de entrada, um na parede interna.
+一个轴承在输入法兰内，一个在隔板内。
+Один подшипник во входном фланце, один в перегородке.
+Jedno łożysko w kołnierzu wejściowym, jedno w przegrodzie.
+Egy csapágy a bemeneti karimában, egy a falazatban.
+Un rodamiento en la brida de entrada y otro en el tabique.
+
+#5343
+Bride d'entrée (couvercle)
+Flange de entrada (tampa)
+输入法兰（端盖）
+Входной фланец (крышка)
+Kołnierz wejściowy (pokrywa)
+Bemeneti karima (fedél)
+Brida de entrada (tapa)
+
+#5344
+Ferme le côté entrée, porte deux roulements ; le moteur y est boulonné.
+Fecha o lado de entrada, leva dois rolamentos; o motor é aparafusado nele.
+封闭输入端，装两个轴承；电机用螺栓固定在上面。
+Закрывает входную сторону, несёт два подшипника; к нему крепится двигатель.
+Zamyka stronę wejściową, mieści dwa łożyska; przykręca się do niego silnik.
+Lezárja a bemeneti oldalt, két csapágyat hordoz; erre csavarozzák a motort.
+Cierra el lado de entrada, lleva dos rodamientos; el motor se atornilla a ella.
+
+#5345
+L'étage 1 fait 3:1 et l'étage 2 fait 4:1. Rapport total ?
+O estágio 1 é 3:1 e o estágio 2 é 4:1. Relação total?
+第 1 级为 3:1，第 2 级为 4:1。总速比是多少？
+Ступень 1 — 3:1, ступень 2 — 4:1. Общее передаточное отношение?
+Stopień 1 to 3:1, a stopień 2 to 4:1. Przełożenie całkowite?
+Az 1. fokozat 3:1, a 2. fokozat 4:1. Teljes áttétel?
+La etapa 1 es 3:1 y la etapa 2 es 4:1. ¿Relación total?
+
+#5346
+Pourquoi les réducteurs hélicoïdaux ont-ils besoin de roulements qui reprennent la charge axiale ?
+Por que redutores helicoidais precisam de rolamentos que suportem carga axial?
+为什么斜齿轮减速箱需要能承受轴向载荷的轴承？
+Почему косозубым редукторам нужны подшипники, воспринимающие осевую нагрузку?
+Dlaczego przekładnie śrubowe potrzebują łożysk przenoszących obciążenie osiowe?
+Miért kellenek a ferde fogazatú hajtóművekbe axiális terhelést is viselő csapágyak?
+¿Por qué los reductores helicoidales necesitan rodamientos que soporten carga axial?
+
+#5347
+Les dents inclinées poussent les roues latéralement le long de l'arbre
+Os dentes inclinados empurram as engrenagens para o lado ao longo do eixo
+斜齿把齿轮沿轴向侧推
+Наклонные зубья толкают колёса вбок вдоль вала
+Pochylone zęby pchają koła na boki wzdłuż wału
+A ferde fogak oldalra, a tengely mentén tolják a kerekeket
+Los dientes inclinados empujan los engranajes de lado a lo largo del eje
+
+#5348
+Parce que l'huile est lourde
+Porque o óleo é pesado
+因为油很重
+Потому что масло тяжёлое
+Bo olej jest ciężki
+Mert nehéz az olaj
+Porque el aceite es pesado
+
+#5349
+Parce que le moteur vibre
+Porque o motor vibra
+因为电机会振动
+Потому что двигатель вибрирует
+Bo silnik drga
+Mert a motor rezeg
+Porque el motor vibra
+
+#5350
+Ils n'en ont pas besoin
+Não precisam
+不需要
+Им это не нужно
+Nie potrzebują
+Nincs rá szükség
+No los necesitan

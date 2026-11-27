@@ -1,0 +1,1889 @@
+#4766
+Roulement à billes à gorge profonde (6205-2RS)
+Rolamento rígido de esferas (6205-2RS)
+深沟球轴承（6205-2RS）
+Радиальный шарикоподшипник (6205-2RS)
+Łożysko kulkowe zwykłe (6205-2RS)
+Mélyhornyú golyóscsapágy (6205-2RS)
+Rodamiento rígido de bolas (6205-2RS)
+
+#4767
+Le roulement le plus courant : une rangée de billes qui roulent dans les gorges profondes des bagues intérieure et extérieure. Supporte la charge radiale et une partie de la charge axiale dans les deux sens.
+O rolamento mais comum: uma carreira de esferas rolando em pistas profundas dos anéis interno e externo. Suporta carga radial e alguma carga axial nos dois sentidos.
+最常见的滚动轴承：一列钢球在内外圈的深沟滚道中滚动。承受径向载荷以及双向的部分轴向载荷。
+Самый распространённый подшипник качения: один ряд шариков в глубоких дорожках внутреннего и наружного колец. Воспринимает радиальную нагрузку и частично осевую в обоих направлениях.
+Najpopularniejsze łożysko toczne: jeden rząd kulek tocznych w głębokich bieżniach pierścienia wewnętrznego i zewnętrznego. Przenosi obciążenie promieniowe i częściowo osiowe w obu kierunkach.
+A leggyakoribb gördülőcsapágy: egy sor golyó gördül a belső és külső gyűrű mély hornyaiban. Radiális terhelést és mindkét irányban némi axiális terhelést visel.
+El rodamiento más común: una hilera de bolas que ruedan en ranuras profundas de los aros interior y exterior. Soporta carga radial y algo de carga axial en ambos sentidos.
+
+#4768
+Moteurs électriques, ventilateurs de CTA, moteurs de pompes, rouleaux de convoyeurs et petits réducteurs des lignes de conditionnement. Les tailles 6205 et 6305 sont partout sur le site.
+Motores elétricos, ventiladores de AHU, motores de bombas, roletes de transportadores e pequenos redutores das linhas de embalagem. Os tamanhos 6205 e 6305 estão por toda a fábrica.
+电机、AHU 风机、泵电机、输送辊以及包装线上的小型减速箱。6205 和 6305 规格在厂区随处可见。
+Электродвигатели, вентиляторы AHU, двигатели насосов, ролики конвейеров и небольшие редукторы на упаковочных линиях. Размеры 6205 и 6305 встречаются на площадке повсюду.
+Silniki elektryczne, wentylatory central AHU, silniki pomp, rolki przenośników i małe przekładnie na liniach pakujących. Rozmiary 6205 i 6305 są w zakładzie wszędzie.
+Villanymotorok, AHU ventilátorok, szivattyúmotorok, szállítószalag-görgők és kis hajtóművek a csomagolósorokon. A 6205 és 6305 méret mindenütt megtalálható az üzemben.
+Motores eléctricos, ventiladores de UTA, motores de bombas, rodillos de transportadores y reductores pequeños de las líneas de envasado. Los tamaños 6205 y 6305 están por toda la planta.
+
+#4769
+La bague intérieure tourne avec l'arbre, les billes roulent entre les deux chemins et la cage les maintient régulièrement espacées. 2RS = joint caoutchouc des deux côtés, 2Z = flasques métalliques, C3 = jeu interne augmenté.
+O anel interno gira com o eixo, as esferas rolam entre as duas pistas e a gaiola as mantém igualmente espaçadas. 2RS = vedação de borracha nos dois lados, 2Z = blindagens metálicas, C3 = folga interna maior.
+内圈随轴转动，钢球在两条滚道之间滚动，保持架使钢球均匀分布。2RS = 两侧橡胶密封，2Z = 金属防尘盖，C3 = 较大的内部游隙。
+Внутреннее кольцо вращается с валом, шарики катятся между двумя дорожками, сепаратор держит их на равном расстоянии. 2RS = резиновые уплотнения с двух сторон, 2Z = металлические шайбы, C3 = увеличенный внутренний зазор.
+Pierścień wewnętrzny obraca się z wałem, kulki toczą się między dwiema bieżniami, a koszyk utrzymuje równe odstępy. 2RS = uszczelnienie gumowe z obu stron, 2Z = blaszane osłony, C3 = zwiększony luz wewnętrzny.
+A belső gyűrű a tengellyel forog, a golyók a két futópálya között gördülnek, a kosár egyenletes távolságban tartja őket. 2RS = gumitömítés mindkét oldalon, 2Z = fém fedőlemezek, C3 = nagyobb belső hézag.
+El aro interior gira con el eje, las bolas ruedan entre los dos caminos de rodadura y la jaula las mantiene equiespaciadas. 2RS = sello de goma en ambos lados, 2Z = tapas metálicas, C3 = mayor juego interno.
+
+#4770
+Grondement, chaleur, vibrations croissantes, graisse qui fuit, rouille ou empreintes dues aux coups de marteau, marques en tôle ondulée (cannelures) dues au courant du variateur, chemins bleuis par surchauffe.
+Ruído de ronco, calor, vibração crescente, graxa vazando, ferrugem ou marcas de marteladas, marcas tipo tábua de lavar (fluting) por corrente do inversor, pistas azuladas por superaquecimento.
+隆隆噪声、发热、振动上升、润滑脂外漏、生锈或锤击压痕、变频器电流造成的搓衣板状痕迹（电蚀槽纹）、过热导致滚道发蓝。
+Гул, нагрев, растущая вибрация, вытекание смазки, ржавчина или вмятины от ударов молотком, «стиральная доска» (рифление) от токов ЧРП, посиневшие дорожки от перегрева.
+Buczenie, grzanie, rosnące drgania, wyciek smaru, rdza lub wgniecenia od młotka, ślady tarki (fluting) od prądów falownika, niebieskie bieżnie od przegrzania.
+Morgó zaj, melegedés, növekvő rezgés, kifolyó zsír, rozsda vagy kalapácsütés okozta benyomódások, frekvenciaváltó áram okozta mosódeszka-nyomok (bordázódás), túlmelegedéstől kékült futópályák.
+Ruido de gruñido, calor, vibración creciente, grasa que se sale, óxido o marcas de martillazos, marcas de tabla de lavar (estriado) por corriente del variador, pistas azuladas por sobrecalentamiento.
+
+#4771
+Suivez la tendance des vibrations et de la température. Les roulements étanches sont graissés à vie. Appuyez uniquement sur la bague que vous montez, jamais à travers les billes. Chauffez avec un chauffe-roulement à induction à 110 °C max, jamais au chalumeau.
+Acompanhe a tendência de vibração e temperatura. Rolamentos vedados são lubrificados para a vida toda. Pressione só no anel que está montando, nunca através das esferas. Aqueça com aquecedor por indução a no máximo 110 °C, nunca com maçarico.
+跟踪振动和温度趋势。密封轴承为终身润滑。只压正在安装的那个套圈，绝不能通过钢球传力。用感应加热器加热，最高 110 °C，绝不能用火焰枪。
+Отслеживайте тренд вибрации и температуры. Закрытые подшипники смазаны на весь срок. Давите только на устанавливаемое кольцо, никогда через шарики. Нагревайте индукционным нагревателем максимум до 110 °C, никогда горелкой.
+Trenduj drgania i temperaturę. Łożyska uszczelnione są nasmarowane na cały okres życia. Dociskaj tylko montowany pierścień, nigdy przez kulki. Podgrzewaj nagrzewnicą indukcyjną do maks. 110 °C, nigdy palnikiem.
+Kövesse a rezgés és a hőmérséklet trendjét. A tömített csapágyak élettartam-kenésűek. Csak a felszerelt gyűrűt nyomja, soha ne a golyókon keresztül. Indukciós melegítővel max. 110 °C-ra melegítse, soha ne lánggal.
+Siga la tendencia de vibración y temperatura. Los rodamientos sellados están engrasados de por vida. Presione solo sobre el aro que monta, nunca a través de las bolas. Caliente con calentador por inducción a máx. 110 °C, nunca con soplete.
+
+#4772
+Bague extérieure
+Anel externo
+外圈
+Наружное кольцо
+Pierścień zewnętrzny
+Külső gyűrű
+Aro exterior
+
+#4773
+Se loge dans le palier ; sa gorge est le chemin extérieur. Les rainures aux extrémités reçoivent les joints.
+Fica no alojamento; sua pista é a pista externa. Os rebaixos nas extremidades alojam as vedações.
+装在轴承座中；其沟槽即外滚道。两端的凹槽用于安装密封件。
+Сидит в корпусе; его канавка — наружная дорожка качения. Выточки по краям удерживают уплотнения.
+Osadzony w obudowie; jego rowek to bieżnia zewnętrzna. Podtoczenia na końcach mocują uszczelnienia.
+A házban ül; hornya a külső futópálya. A végein lévő bemélyedések tartják a tömítéseket.
+Se aloja en el soporte; su ranura es el camino de rodadura exterior. Los rebajes de los extremos alojan los sellos.
+
+#4774
+Bague intérieure
+Anel interno
+内圈
+Внутреннее кольцо
+Pierścień wewnętrzny
+Belső gyűrű
+Aro interior
+
+#4775
+Montée sur l'arbre, elle tourne avec lui. Sa gorge est le chemin intérieur.
+Montado no eixo e gira com ele. Sua pista é a pista interna.
+装在轴上并随轴转动。其沟槽即内滚道。
+Сидит на валу и вращается вместе с ним. Его канавка — внутренняя дорожка качения.
+Osadzony na wale i obraca się z nim. Jego rowek to bieżnia wewnętrzna.
+A tengelyre illeszkedik és vele forog. Hornya a belső futópálya.
+Se monta en el eje y gira con él. Su ranura es el camino de rodadura interior.
+
+#4776
+Billes
+Esferas
+钢球
+Шарики
+Kulki
+Golyók
+Bolas
+
+#4777
+9 billes en acier trempé portent la charge en roulant entre les chemins.
+9 esferas de aço temperado suportam a carga rolando entre as pistas.
+9 个淬硬钢球在滚道间滚动并承受载荷。
+9 закалённых стальных шариков несут нагрузку, катясь между дорожками.
+9 hartowanych kulek stalowych przenosi obciążenie, tocząc się między bieżniami.
+9 edzett acélgolyó viseli a terhelést, a futópályák között gördülve.
+9 bolas de acero templado soportan la carga rodando entre los caminos de rodadura.
+
+#4778
+Cage (tôle emboutie)
+Gaiola (aço estampado)
+保持架（冲压钢）
+Сепаратор (штампованная сталь)
+Koszyk (stal tłoczona)
+Kosár (sajtolt acél)
+Jaula (acero estampado)
+
+#4779
+Deux demi-cages rivetées séparent les billes pour qu'elles ne frottent pas entre elles.
+Duas metades rebitadas mantêm as esferas separadas para que não se atritem.
+两个铆接的半保持架将钢球隔开，使其互不摩擦。
+Две склёпанные половины разделяют шарики, чтобы они не тёрлись друг о друга.
+Dwie nitowane połówki rozdzielają kulki, aby się o siebie nie ocierały.
+Két szegecselt fél tartja távol a golyókat, hogy ne dörzsöljék egymást.
+Dos mitades remachadas mantienen separadas las bolas para que no rocen entre sí.
+
+#4780
+Joint (RS, côté 1)
+Vedação (RS, lado 1)
+密封圈（RS，第 1 侧）
+Уплотнение (RS, сторона 1)
+Uszczelnienie (RS, strona 1)
+Tömítés (RS, 1. oldal)
+Sello (RS, lado 1)
+
+#4781
+Joint caoutchouc à armature acier : garde la graisse dedans, la poussière et l'eau de lavage dehors.
+Vedação de borracha com inserto de aço: mantém a graxa dentro e a poeira e a água de lavagem fora.
+带钢骨架的橡胶密封：把润滑脂留在里面，把灰尘和清洗水挡在外面。
+Резиновое уплотнение со стальной вставкой: удерживает смазку внутри, а пыль и моющую воду снаружи.
+Uszczelnienie gumowe ze stalową wkładką: trzyma smar w środku, a kurz i wodę z mycia na zewnątrz.
+Acélbetétes gumitömítés: bent tartja a zsírt, kint a port és a mosóvizet.
+Sello de goma con inserto de acero: mantiene la grasa dentro y el polvo y el agua de lavado fuera.
+
+#4782
+Joint (RS, côté 2)
+Vedação (RS, lado 2)
+密封圈（RS，第 2 侧）
+Уплотнение (RS, сторона 2)
+Uszczelnienie (RS, strona 2)
+Tömítés (RS, 2. oldal)
+Sello (RS, lado 2)
+
+#4783
+Second joint ; sa lèvre touche l'épaulement de la bague intérieure.
+Segunda vedação; seu lábio toca o ressalto do anel interno.
+第二个密封圈；其唇口接触内圈挡肩。
+Второе уплотнение; его кромка касается заплечика внутреннего кольца.
+Drugie uszczelnienie; jego warga dotyka odsadzenia pierścienia wewnętrznego.
+Második tömítés; ajka a belső gyűrű vállához ér.
+Segundo sello; su labio toca el hombro del aro interior.
+
+#4784
+Marche
+Girar
+运行
+Пуск
+Uruchom
+Indítás
+Girar
+
+#4785
+Que signifie le suffixe 2RS ?
+O que significa o sufixo 2RS?
+后缀 2RS 是什么意思？
+Что означает суффикс 2RS?
+Co oznacza przyrostek 2RS?
+Mit jelent a 2RS utótag?
+¿Qué significa el sufijo 2RS?
+
+#4786
+Joints caoutchouc des deux côtés
+Vedações de borracha nos dois lados
+两侧橡胶密封
+Резиновые уплотнения с обеих сторон
+Uszczelnienia gumowe z obu stron
+Gumitömítés mindkét oldalon
+Sellos de goma en ambos lados
+
+#4787
+Deux rangées de billes
+Duas carreiras de esferas
+两列钢球
+Два ряда шариков
+Dwa rzędy kulek
+Két sor golyó
+Dos hileras de bolas
+
+#4788
+Jeu interne augmenté
+Folga interna extra
+加大内部游隙
+Увеличенный внутренний зазор
+Zwiększony luz wewnętrzny
+Nagyobb belső hézag
+Juego interno extra
+
+#4789
+Bagues en acier inoxydable
+Anéis de aço inoxidável
+不锈钢套圈
+Кольца из нержавеющей стали
+Pierścienie ze stali nierdzewnej
+Rozsdamentes acél gyűrűk
+Aros de acero inoxidable
+
+#4790
+Pour monter le roulement sur un arbre, vous appuyez sur…
+Ao montar o rolamento no eixo, você pressiona…
+把轴承装到轴上时，应压在…
+При посадке подшипника на вал давить нужно на…
+Montując łożysko na wale, dociskasz…
+A csapágyat tengelyre szerelve ezt nyomja…
+Al montar el rodamiento en un eje, se presiona sobre…
+
+#4791
+La bague intérieure
+O anel interno
+内圈
+Внутреннее кольцо
+Pierścień wewnętrzny
+A belső gyűrűt
+El aro interior
+
+#4792
+La bague extérieure
+O anel externo
+外圈
+Наружное кольцо
+Pierścień zewnętrzny
+A külső gyűrűt
+El aro exterior
+
+#4793
+Le joint
+A vedação
+密封圈
+Уплотнение
+Uszczelnienie
+A tömítést
+El sello
+
+#4794
+N'importe quelle face, peu importe
+Qualquer face, tanto faz
+任意端面，无所谓
+Любой торец, неважно
+Dowolną powierzchnię, bez znaczenia
+Bármelyik felületet, mindegy
+Cualquier cara, da igual
+
+#4795
+Des chemins bleuis sur un roulement déposé indiquent…
+Pistas azuladas em um rolamento removido indicam…
+拆下的轴承滚道发蓝说明…
+Посиневшие дорожки на снятом подшипнике указывают на…
+Niebieskie bieżnie na wymontowanym łożysku wskazują na…
+A kiszerelt csapágy kékült futópályái erre utalnak…
+Pistas azuladas en un rodamiento desmontado indican…
+
+#4796
+Une surchauffe (manque de graisse ou ajustement trop serré)
+Superaquecimento (falta de graxa ou ajuste apertado demais)
+过热（缺润滑脂或配合过紧）
+Перегрев (нехватка смазки или слишком тугая посадка)
+Przegrzanie (brak smaru lub zbyt ciasne pasowanie)
+Túlmelegedés (zsírhiány vagy túl szoros illesztés)
+Sobrecalentamiento (falta de grasa o ajuste demasiado apretado)
+
+#4797
+De l'eau dans la graisse
+Água na graxa
+润滑脂中有水
+Вода в смазке
+Woda w smarze
+Víz a zsírban
+Agua en la grasa
+
+#4798
+Une usure normale
+Desgaste normal
+正常磨损
+Нормальный износ
+Normalne zużycie
+Normál kopás
+Desgaste normal
+
+#4799
+Un mauvais matériau de cage
+Material errado da gaiola
+保持架材料不对
+Неправильный материал сепаратора
+Zły materiał koszyka
+Rossz kosáranyag
+Material de jaula incorrecto
+
+#4800
+Roulement à rouleaux cylindriques (NJ 206 + bague d'épaulement HJ)
+Rolamento de rolos cilíndricos (NJ 206 + anel angular HJ)
+圆柱滚子轴承（NJ 206 + HJ 斜挡圈）
+Роликоподшипник цилиндрический (NJ 206 + упорное кольцо HJ)
+Łożysko walcowe (NJ 206 + pierścień kątowy HJ)
+Hengergörgős csapágy (NJ 206 + HJ szögtárcsa)
+Rodamiento de rodillos cilíndricos (NJ 206 + anillo angular HJ)
+
+#4801
+Les rouleaux en contact linéaire avec les chemins portent de fortes charges radiales. Type NJ : deux épaulements sur la bague extérieure et un sur la bague intérieure ; avec une bague HJ, il positionne l'arbre dans les deux sens.
+Os rolos em contato linear com as pistas suportam altas cargas radiais. Tipo NJ: dois rebordos no anel externo e um no anel interno; com anel angular HJ, localiza o eixo nos dois sentidos.
+滚子与滚道线接触，可承受很大的径向载荷。NJ 型：外圈两个挡边，内圈一个挡边；加 HJ 斜挡圈后可双向定位轴。
+Ролики с линейным контактом с дорожками несут большие радиальные нагрузки. Тип NJ: два борта на наружном кольце и один на внутреннем; с кольцом HJ фиксирует вал в обоих направлениях.
+Wałeczki w styku liniowym z bieżniami przenoszą duże obciążenia promieniowe. Typ NJ: dwa obrzeża na pierścieniu zewnętrznym i jedno na wewnętrznym; z pierścieniem HJ ustala wał w obu kierunkach.
+A futópályákkal vonalmentén érintkező görgők nagy radiális terhelést visznek. NJ típus: két perem a külső gyűrűn, egy a belsőn; HJ szögtárcsával mindkét irányban vezeti a tengelyt.
+Los rodillos en contacto lineal con los caminos soportan altas cargas radiales. Tipo NJ: dos pestañas en el aro exterior y una en el interior; con anillo angular HJ fija el eje en ambos sentidos.
+
+#4802
+Côté accouplement des gros moteurs avec charge de courroie ou d'engrenage, réducteurs, compresseurs, gros ventilateurs. Le type NU (sans épaulement intérieur) est le roulement libre qui laisse l'arbre se dilater.
+Lado acionado de motores grandes com carga de correia ou engrenagem, redutores, compressores, ventiladores grandes. O tipo NU (sem rebordos internos) é o rolamento livre que deixa o eixo dilatar com o calor.
+带皮带或齿轮载荷的大电机驱动端、减速箱、压缩机、大风机。NU 型（内圈无挡边）是浮动轴承，允许轴受热伸长。
+Приводная сторона крупных двигателей с ремённой или зубчатой нагрузкой, редукторы, компрессоры, большие вентиляторы. Тип NU (без бортов на внутреннем кольце) — плавающая опора, позволяющая валу удлиняться при нагреве.
+Strona napędowa dużych silników z obciążeniem pasem lub przekładnią, przekładnie, sprężarki, duże wentylatory. Typ NU (bez obrzeży wewnętrznych) to łożysko swobodne, które pozwala wałowi wydłużać się od ciepła.
+Nagy motorok hajtásoldala szíj- vagy fogaskerék-terheléssel, hajtóművek, kompresszorok, nagy ventilátorok. Az NU típus (belső perem nélkül) a szabad csapágy, amely engedi a tengely hőtágulását.
+Lado de accionamiento de motores grandes con carga de correa o engranaje, reductores, compresores, ventiladores grandes. El tipo NU (sin pestañas interiores) es el rodamiento libre que deja crecer el eje con el calor.
+
+#4803
+Les bagues se séparent : bague extérieure, rouleaux et cage forment un ensemble, la bague intérieure est libre. Chaque bague se monte donc seule et la bague intérieure peut être chauffée et frettée sur l'arbre.
+Os anéis se separam: anel externo, rolos e gaiola são uma unidade, o anel interno é solto. Assim cada anel pode ser montado sozinho e o anel interno pode ser aquecido e montado por contração no eixo.
+套圈可分离：外圈、滚子和保持架为一体，内圈单独。因此每个套圈可单独安装，内圈可加热后热套到轴上。
+Кольца разъёмные: наружное кольцо, ролики и сепаратор — один узел, внутреннее кольцо отдельно. Поэтому каждое кольцо ставится отдельно, а внутреннее можно нагреть и посадить на вал с натягом.
+Pierścienie są rozłączne: pierścień zewnętrzny, wałeczki i koszyk to jeden zespół, pierścień wewnętrzny jest osobno. Każdy pierścień montuje się więc oddzielnie, a wewnętrzny można podgrzać i osadzić skurczowo na wale.
+A gyűrűk szétszedhetők: a külső gyűrű, a görgők és a kosár egy egység, a belső gyűrű külön van. Így minden gyűrű külön szerelhető, a belső gyűrű melegítve zsugorkötéssel tehető a tengelyre.
+Los aros se separan: aro exterior, rodillos y jaula son una unidad, el aro interior va suelto. Así cada aro se monta por separado y el aro interior puede calentarse y montarse por contracción en el eje.
+
+#4804
+Traces de glissement (smearing) en marche à trop faible charge, usure des extrémités des rouleaux et des épaulements par charge axiale, chemins rayés par un montage négligent, bruit.
+Marcas de deslizamento (smearing) ao operar com carga muito baixa, desgaste nas pontas dos rolos e rebordos por carga axial, pistas riscadas por montagem descuidada, ruído.
+载荷过小运行导致打滑擦伤，轴向载荷使滚子端面和挡边磨损，装配粗心划伤滚道，噪声。
+Задиры от проскальзывания при работе со слишком малой нагрузкой, износ торцов роликов и бортов от осевой нагрузки, царапины на дорожках от небрежного монтажа, шум.
+Zacieranie poślizgowe przy pracy ze zbyt małym obciążeniem, zużycie czół wałeczków i obrzeży od obciążenia osiowego, porysowane bieżnie od niedbałego montażu, hałas.
+Csúszási kenődés túl kis terhelésű járatásnál, a görgővégek és peremek kopása axiális terheléstől, gondatlan szereléstől karcos futópályák, zaj.
+Marcas de deslizamiento (smearing) al trabajar con muy poca carga, desgaste de los extremos de rodillos y pestañas por carga axial, caminos rayados por montaje descuidado, ruido.
+
+#4805
+Exige une charge radiale minimale : ne faites pas tourner la machine longtemps à vide. Assemblez les pièces bien droites en tournant, jamais en forçant. Regraissez selon l'intervalle et la quantité de la plaque moteur.
+Precisa de uma carga radial mínima: não opere a máquina sem carga por muito tempo. Junte as peças retas e girando, nunca à força. Relubrifique conforme intervalo e quantidade da placa do motor.
+需要最小径向载荷：不要让设备长时间空载运行。装配时零件要对正并边转边推，绝不能硬压。按电机铭牌规定的周期和用量补充润滑脂。
+Требуется минимальная радиальная нагрузка: не гоняйте машину долго без нагрузки. Соединяйте детали прямо и с поворотом, никогда не силой. Досмазывайте по интервалу и количеству с шильдика двигателя.
+Wymaga minimalnego obciążenia promieniowego: nie uruchamiaj maszyny długo bez obciążenia. Łącz części prosto i z obracaniem, nigdy na siłę. Dosmarowuj według okresu i ilości z tabliczki silnika.
+Minimális radiális terhelés kell: ne járassa sokáig terheletlenül a gépet. Az alkatrészeket egyenesen, forgatva tolja össze, soha ne erőltesse. Utánkenés a motor adattábláján megadott időköz és mennyiség szerint.
+Necesita una carga radial mínima: no haga funcionar la máquina mucho tiempo sin carga. Junte las piezas rectas y girando, nunca a la fuerza. Reengrase según el intervalo y la cantidad de la placa del motor.
+
+#4806
+Bague extérieure (deux épaulements)
+Anel externo (dois rebordos)
+外圈（两个挡边）
+Наружное кольцо (два борта)
+Pierścień zewnętrzny (dwa obrzeża)
+Külső gyűrű (két perem)
+Aro exterior (dos pestañas)
+
+#4807
+Les deux épaulements guident les rouleaux et les retiennent dans la bague extérieure.
+Os dois rebordos guiam os rolos e os prendem no anel externo.
+两个挡边引导滚子并将其保持在外圈中。
+Два борта направляют ролики и удерживают их в наружном кольце.
+Dwa obrzeża prowadzą wałeczki i utrzymują je w pierścieniu zewnętrznym.
+A két perem vezeti a görgőket és a külső gyűrűben tartja őket.
+Las dos pestañas guían los rodillos y los retienen en el aro exterior.
+
+#4808
+Rouleaux cylindriques
+Rolos cilíndricos
+圆柱滚子
+Цилиндрические ролики
+Wałeczki walcowe
+Hengeres görgők
+Rodillos cilíndricos
+
+#4809
+13 rouleaux en contact linéaire : capacité radiale bien supérieure à des billes de même taille.
+13 rolos em contato linear: capacidade radial muito maior que esferas do mesmo tamanho.
+13 个滚子线接触：径向承载能力远高于同尺寸钢球。
+13 роликов с линейным контактом: радиальная грузоподъёмность намного выше, чем у шариков того же размера.
+13 wałeczków w styku liniowym: nośność promieniowa dużo wyższa niż kulek tej samej wielkości.
+13 vonalmentén érintkező görgő: sokkal nagyobb radiális teherbírás, mint az azonos méretű golyóké.
+13 rodillos en contacto lineal: capacidad radial mucho mayor que bolas del mismo tamaño.
+
+#4810
+Cage (laiton usiné)
+Gaiola (latão usinado)
+保持架（机加工黄铜）
+Сепаратор (точёная латунь)
+Koszyk (mosiądz obrabiany)
+Kosár (megmunkált sárgaréz)
+Jaula (latón mecanizado)
+
+#4811
+Cage en laiton avec barrettes entre les rouleaux ; résiste bien aux vibrations et aux chocs.
+Gaiola de latão com barras entre os rolos; resistente a vibração e choque.
+黄铜保持架，滚子之间有隔条；抗振动和冲击能力强。
+Латунный сепаратор с перемычками между роликами; стойкий к вибрации и ударам.
+Mosiężny koszyk z mostkami między wałeczkami; odporny na drgania i udary.
+Sárgaréz kosár a görgők közötti bordákkal; jól bírja a rezgést és az ütést.
+Jaula de latón con barras entre los rodillos; resistente a vibración y golpes.
+
+#4812
+Bague intérieure (un épaulement)
+Anel interno (um rebordo)
+内圈（一个挡边）
+Внутреннее кольцо (один борт)
+Pierścień wewnętrzny (jedno obrzeże)
+Belső gyűrű (egy perem)
+Aro interior (una pestaña)
+
+#4813
+Frettée sur l'arbre. Son épaulement unique reprend la charge axiale dans un sens.
+Montado por contração no eixo. Seu único rebordo suporta carga axial em um sentido.
+热套在轴上。单个挡边承受一个方向的轴向载荷。
+Посажено на вал с натягом. Единственный борт воспринимает осевую нагрузку в одном направлении.
+Osadzony skurczowo na wale. Jedyne obrzeże przenosi obciążenie osiowe w jednym kierunku.
+Zsugorkötéssel ül a tengelyen. Egyetlen pereme egy irányban viseli az axiális terhelést.
+Montado por contracción en el eje. Su única pestaña soporta carga axial en un sentido.
+
+#4814
+Bague d'épaulement HJ
+Anel angular HJ
+HJ 斜挡圈
+Упорное кольцо HJ
+Pierścień kątowy HJ
+HJ szögtárcsa
+Anillo angular HJ
+
+#4815
+Bague libre en L qui sert de second épaulement : le roulement positionne l'arbre dans les deux sens.
+Anel solto em forma de L que funciona como segundo rebordo, assim o rolamento localiza o eixo nos dois sentidos.
+活动的 L 形挡圈，起第二个挡边的作用，使轴承可双向定位轴。
+Свободное L-образное кольцо работает как второй борт, и подшипник фиксирует вал в обе стороны.
+Luźny pierścień w kształcie L działa jak drugie obrzeże, więc łożysko ustala wał w obu kierunkach.
+Laza L alakú gyűrű, amely második peremként működik, így a csapágy mindkét irányban vezeti a tengelyt.
+Anillo suelto en L que hace de segunda pestaña, así el rodamiento fija el eje en ambos sentidos.
+
+#4816
+Pourquoi un roulement NU laisse-t-il l'arbre se dilater ?
+Por que um rolamento NU deixa o eixo dilatar com o calor?
+为什么 NU 轴承允许轴受热伸长？
+Почему подшипник NU позволяет валу удлиняться при нагреве?
+Dlaczego łożysko NU pozwala wałowi wydłużać się od ciepła?
+Miért engedi az NU csapágy a tengely hőtágulását?
+¿Por qué un rodamiento NU deja crecer el eje con el calor?
+
+#4817
+Sa bague intérieure n'a pas d'épaulement, elle peut donc coulisser axialement sous les rouleaux
+Seu anel interno não tem rebordos, então pode deslizar axialmente sob os rolos
+其内圈没有挡边，可在滚子下方轴向滑动
+У его внутреннего кольца нет бортов, и оно может смещаться в осевом направлении под роликами
+Jego pierścień wewnętrzny nie ma obrzeży, więc może przesuwać się osiowo pod wałeczkami
+Belső gyűrűjén nincs perem, így axiálisan elcsúszhat a görgők alatt
+Su aro interior no tiene pestañas, así que puede deslizarse axialmente bajo los rodillos
+
+#4818
+Les rouleaux sont en caoutchouc
+Os rolos são de borracha
+滚子是橡胶做的
+Ролики из резины
+Wałeczki są z gumy
+A görgők gumiból vannak
+Los rodillos son de goma
+
+#4819
+Il a seulement un jeu radial augmenté
+Ele tem apenas folga radial extra
+它只是径向游隙更大
+У него только увеличенный радиальный зазор
+Ma tylko zwiększony luz promieniowy
+Csak nagyobb radiális hézaga van
+Solo tiene más juego radial
+
+#4820
+La cage se déforme
+A gaiola se dobra
+保持架会弯曲
+Сепаратор гнётся
+Koszyk się wygina
+A kosár elhajlik
+La jaula se dobla
+
+#4821
+Comparé à un roulement à billes de même taille, un roulement à rouleaux cylindriques…
+Comparado a um rolamento de esferas do mesmo tamanho, um rolamento de rolos cilíndricos…
+与同尺寸球轴承相比，圆柱滚子轴承…
+По сравнению с шарикоподшипником того же размера цилиндрический роликоподшипник…
+W porównaniu z łożyskiem kulkowym tej samej wielkości łożysko walcowe…
+Az azonos méretű golyóscsapágyhoz képest a hengergörgős csapágy…
+Comparado con un rodamiento de bolas del mismo tamaño, un rodamiento de rodillos cilíndricos…
+
+#4822
+Supporte une charge radiale bien plus élevée
+Suporta uma carga radial muito maior
+可承受大得多的径向载荷
+Несёт гораздо большую радиальную нагрузку
+Przenosi dużo większe obciążenie promieniowe
+Sokkal nagyobb radiális terhelést visel
+Soporta una carga radial mucho mayor
+
+#4823
+Supporte plus de charge axiale
+Suporta mais carga axial
+可承受更大的轴向载荷
+Несёт большую осевую нагрузку
+Przenosi większe obciążenie osiowe
+Nagyobb axiális terhelést visel
+Soporta más carga axial
+
+#4824
+Tourne plus vite sans lubrification
+Gira mais rápido sem lubrificação
+无润滑也能转得更快
+Работает быстрее без смазки
+Pracuje szybciej bez smarowania
+Kenés nélkül gyorsabban forog
+Gira más rápido sin lubricación
+
+#4825
+S'aligne tout seul avec l'arbre
+Autoalinha com o eixo
+能随轴自动调心
+Самоустанавливается по валу
+Samonastawia się względem wału
+Önbeálló a tengelyhez
+Se autoalinea con el eje
+
+#4826
+Roulement à rouleaux coniques (30206)
+Rolamento de rolos cônicos (30206)
+圆锥滚子轴承（30206）
+Роликоподшипник конический (30206)
+Łożysko stożkowe (30206)
+Kúpgörgős csapágy (30206)
+Rodamiento de rodillos cónicos (30206)
+
+#4827
+Cône (bague intérieure avec rouleaux coniques et cage) tournant dans une cuvette séparée (bague extérieure). Les chemins coniques se rejoignent en un point de l'axe : il supporte la charge radiale plus la charge axiale dans un sens.
+Cone (anel interno com rolos cônicos e gaiola) girando em uma capa separada (anel externo). As pistas cônicas se encontram em um ponto do eixo, então suporta carga radial mais carga axial em um sentido.
+内圈组件（带圆锥滚子和保持架的内圈）在单独的外圈中运转。锥形滚道交于轴线上一点，因此可承受径向载荷加一个方向的轴向载荷。
+Внутреннее кольцо с коническими роликами и сепаратором работает в отдельном наружном кольце. Конические дорожки сходятся в одной точке на оси, поэтому подшипник несёт радиальную и осевую нагрузку в одном направлении.
+Stożek (pierścień wewnętrzny z wałeczkami stożkowymi i koszykiem) pracuje w osobnej miseczce (pierścień zewnętrzny). Stożkowe bieżnie zbiegają się w jednym punkcie osi, więc przenosi obciążenie promieniowe plus osiowe w jednym kierunku.
+A kúp (belső gyűrű kúpgörgőkkel és kosárral) külön csészében (külső gyűrű) fut. A kúpos futópályák a tengely egy pontjában találkoznak, így radiális és egy irányú axiális terhelést visel.
+Cono (aro interior con rodillos cónicos y jaula) que gira en una copa separada (aro exterior). Los caminos cónicos se juntan en un punto del eje, así soporta carga radial más carga axial en un sentido.
+
+#4828
+Réducteurs, entraînements d'agitateurs et de mélangeurs, moyeux de roues de chariots et de chariots élévateurs, arbres de tête de convoyeurs. Toujours montés par paires opposées.
+Redutores, acionamentos de agitadores e misturadores, cubos de rodas de carrinhos e empilhadeiras, eixos de cabeça de transportadores. Sempre usados em pares, um de frente para o outro.
+减速箱、搅拌器和混合机驱动、推车和叉车轮毂、输送机头轴。总是成对相向使用。
+Редукторы, приводы мешалок и смесителей, ступицы колёс тележек и погрузчиков, приводные валы конвейеров. Всегда ставятся парами навстречу друг другу.
+Przekładnie, napędy mieszadeł i mieszalników, piasty kół wózków i wózków widłowych, wały czołowe przenośników. Zawsze stosowane parami, naprzeciw siebie.
+Hajtóművek, keverők és keverőgépek hajtásai, kocsik és targoncák kerékagyai, szállítószalagok fejtengelyei. Mindig egymással szemben, párban használják.
+Reductores, accionamientos de agitadores y mezcladores, bujes de ruedas de carros y carretillas elevadoras, ejes de cabeza de transportadores. Siempre en pares enfrentados.
+
+#4829
+Le jeu axial (jeu de bout) ou la précharge se règle au montage avec un écrou de réglage ou des cales. Le grand épaulement du cône guide les grosses extrémités des rouleaux.
+A folga axial ou a pré-carga é ajustada na montagem com porca de ajuste ou calços. O rebordo grande do cone guia as pontas maiores dos rolos.
+轴向游隙或预紧在装配时用调整螺母或垫片设定。内圈大挡边引导滚子大端。
+Осевой зазор или преднатяг задаются при сборке регулировочной гайкой или прокладками. Большой борт внутреннего кольца направляет большие торцы роликов.
+Luz osiowy lub napięcie wstępne ustawia się przy montażu nakrętką regulacyjną lub podkładkami. Duże obrzeże stożka prowadzi większe końce wałeczków.
+Az axiális hézagot vagy előfeszítést szereléskor állítóanyával vagy alátétlemezekkel állítják be. A kúp nagy pereme vezeti a görgők nagy végeit.
+El juego axial o la precarga se ajusta en el montaje con una tuerca de ajuste o suplementos. La pestaña grande del cono guía los extremos grandes de los rodillos.
+
+#4830
+Réglé trop serré : chaleur et écaillage précoce. Trop lâche : bruit, rouleaux en travers et usure de contact (fretting) de la cuvette dans le palier. Mélange de cuvettes et de cônes de jeux différents.
+Muito apertado: calor e lascamento precoce. Muito folgado: ruído, rolos enviesados e fretting da capa no alojamento. Misturar capas e cones de conjuntos diferentes.
+调得过紧：发热和早期剥落。调得过松：噪声、滚子歪斜以及外圈在座孔内微动磨损。不同套的内外圈混装。
+Слишком туго: нагрев и раннее выкрашивание. Слишком слабо: шум, перекос роликов и фреттинг наружного кольца в корпусе. Смешивание наружных и внутренних колец из разных комплектов.
+Za ciasno: grzanie i wczesne łuszczenie. Za luźno: hałas, skośne ustawienie wałeczków i korozja cierna miseczki w obudowie. Mieszanie miseczek i stożków z różnych kompletów.
+Túl szorosra állítva: melegedés és korai kipattogzás. Túl lazára: zaj, ferdén futó görgők és a csésze illesztési korróziója a házban. Különböző készletek csészéinek és kúpjainak keverése.
+Demasiado apretado: calor y descascarillado prematuro. Demasiado flojo: ruido, rodillos torcidos y fretting de la copa en el soporte. Mezclar copas y conos de juegos distintos.
+
+#4831
+Réglez le jeu axial au comparateur à la valeur du manuel, en tournant l'arbre pendant le serrage pour que les rouleaux s'appuient sur l'épaulement. Gardez chaque cuvette avec son propre cône.
+Ajuste a folga axial com relógio comparador ao valor do manual, girando o eixo enquanto aperta para os rolos assentarem no rebordo. Mantenha cada capa com seu próprio cone.
+用百分表把轴向游隙调到手册值，拧紧时转动轴使滚子靠贴挡边。每个外圈要与其配套的内圈放在一起。
+Выставляйте осевой зазор по индикатору на значение из руководства, вращая вал при затяжке, чтобы ролики сели на борт. Держите каждое наружное кольцо со своим внутренним.
+Ustaw luz osiowy czujnikiem zegarowym na wartość z instrukcji, obracając wał podczas dokręcania, aby wałeczki oparły się o obrzeże. Trzymaj każdą miseczkę z jej własnym stożkiem.
+Mérőórával állítsa a hézagot a kézikönyv szerinti értékre, húzás közben forgatva a tengelyt, hogy a görgők felfeküdjenek a peremre. Minden csészét a saját kúpjával tartson együtt.
+Ajuste el juego axial con reloj comparador al valor del manual, girando el eje mientras aprieta para que los rodillos asienten en la pestaña. Mantenga cada copa con su propio cono.
+
+#4832
+Arbre (extrémité filetée)
+Eixo (ponta roscada)
+轴（螺纹端）
+Вал (резьбовой конец)
+Wał (gwintowany koniec)
+Tengely (menetes vég)
+Eje (extremo roscado)
+
+#4833
+Porte le cône ; le filetage en bout reçoit l'écrou de blocage de réglage.
+Leva o cone; a rosca na ponta recebe a porca de trava de ajuste.
+承载内圈；端部螺纹用于安装调整锁紧螺母。
+Несёт внутреннее кольцо; резьба на конце под регулировочную стопорную гайку.
+Nosi stożek; gwint na końcu przyjmuje regulacyjną nakrętkę zabezpieczającą.
+A kúpot hordozza; a végén lévő menetre kerül az állító biztosítóanya.
+Lleva el cono; la rosca del extremo recibe la tuerca de fijación de ajuste.
+
+#4834
+Cône (bague intérieure)
+Cone (anel interno)
+内圈组件（内圈）
+Внутреннее кольцо (конус)
+Stożek (pierścień wewnętrzny)
+Kúp (belső gyűrű)
+Cono (aro interior)
+
+#4835
+Chemin intérieur conique avec un petit épaulement avant et un grand épaulement arrière qui reprend la poussée des rouleaux.
+Pista interna cônica com um rebordo frontal pequeno e um rebordo traseiro grande que recebe o empuxo dos rolos.
+锥形内滚道，前端有小挡边，后端大挡边承受滚子推力。
+Коническая внутренняя дорожка с малым передним бортом и большим задним, воспринимающим упор роликов.
+Stożkowa bieżnia wewnętrzna z małym obrzeżem przednim i dużym tylnym, które przejmuje nacisk wałeczków.
+Kúpos belső futópálya kis első peremmel és nagy hátsó peremmel, amely a görgők nyomóerejét veszi fel.
+Camino interior cónico con una pestaña delantera pequeña y una trasera grande que toma el empuje de los rodillos.
+
+#4836
+Rouleaux coniques
+Rolos cônicos
+圆锥滚子
+Конические ролики
+Wałeczki stożkowe
+Kúpgörgők
+Rodillos cónicos
+
+#4837
+16 rouleaux coniques ; leurs axes pointent vers le même sommet sur l'axe de l'arbre, ils roulent donc sans glisser.
+16 rolos cônicos; seus eixos apontam para o mesmo vértice no eixo da árvore, então rolam sem deslizar.
+16 个圆锥滚子；其轴线指向轴线上同一顶点，因此滚动时不打滑。
+16 конических роликов; их оси сходятся в одной вершине на оси вала, поэтому они катятся без проскальзывания.
+16 wałeczków stożkowych; ich osie wskazują ten sam wierzchołek na osi wału, więc toczą się bez poślizgu.
+16 kúpgörgő; tengelyeik a tengelyvonal ugyanazon csúcspontjába mutatnak, így csúszás nélkül gördülnek.
+16 rodillos cónicos; sus ejes apuntan al mismo vértice en el eje del árbol, así ruedan sin deslizar.
+
+#4838
+Cage (fenêtres en tôle emboutie)
+Gaiola (janela de aço estampado)
+保持架（冲压钢窗式）
+Сепаратор (штампованный, оконного типа)
+Koszyk (okienkowy, stal tłoczona)
+Kosár (sajtolt acél, ablakos)
+Jaula (ventanas de acero estampado)
+
+#4839
+Maintient les rouleaux sur le cône : l'ensemble cône ne se défait pas quand on retire la cuvette.
+Segura os rolos no cone, assim o conjunto do cone não se desmonta quando a capa é removida.
+将滚子保持在内圈上，取下外圈时内圈组件不会散开。
+Удерживает ролики на внутреннем кольце, и узел не рассыпается при снятии наружного кольца.
+Utrzymuje wałeczki na stożku, dzięki czemu zespół stożka nie rozpada się po zdjęciu miseczki.
+A görgőket a kúpon tartja, így a kúpegység nem esik szét a csésze levételekor.
+Sujeta los rodillos en el cono, así el conjunto del cono no se desarma al quitar la copa.
+
+#4840
+Cuvette (bague extérieure)
+Capa (anel externo)
+外圈
+Наружное кольцо
+Miseczka (pierścień zewnętrzny)
+Csésze (külső gyűrű)
+Copa (aro exterior)
+
+#4841
+Bague extérieure séparée à chemin conique ; emmanchée à la presse dans le palier.
+Anel externo separado com pista cônica; prensado no alojamento.
+带锥形滚道的独立外圈；压入轴承座。
+Отдельное наружное кольцо с конической дорожкой; запрессовывается в корпус.
+Osobny pierścień zewnętrzny ze stożkową bieżnią; wciskany w obudowę.
+Külön külső gyűrű kúpos futópályával; a házba sajtolják.
+Aro exterior separado con camino cónico; se monta a presión en el soporte.
+
+#4842
+Rondelle frein (MB)
+Arruela de trava (MB)
+止动垫圈（MB）
+Стопорная шайба (MB)
+Podkładka zabezpieczająca (MB)
+Biztosítólemez (MB)
+Arandela de seguridad (MB)
+
+#4843
+La languette intérieure se loge dans la rainure de l'arbre ; une languette extérieure est rabattue dans une encoche de l'écrou pour le bloquer.
+A lingueta interna fica no rasgo do eixo; uma lingueta externa é dobrada em um rasgo da porca para travá-la.
+内舌卡入轴上的键槽；将一个外舌折入螺母槽内锁紧螺母。
+Внутренний ус входит в паз вала; один наружный ус загибается в шлиц гайки для её стопорения.
+Wewnętrzny języczek wchodzi w rowek wału; jeden zewnętrzny języczek zagina się w nacięcie nakrętki, aby ją zablokować.
+A belső fül a tengely hornyába ül; egy külső fület az anya hornyába hajlítanak a rögzítéshez.
+La lengüeta interior entra en el chavetero del eje; una lengüeta exterior se dobla en una ranura de la tuerca para bloquearla.
+
+#4844
+Écrou à encoches (KM)
+Porca de trava (KM)
+锁紧螺母（KM）
+Шлицевая гайка (KM)
+Nakrętka łożyskowa (KM)
+Hornyos anya (KM)
+Tuerca de fijación (KM)
+
+#4845
+Écrou à encoches serré avec une clé à ergot : il pousse le cône dans la cuvette et règle le jeu axial.
+Porca ranhurada apertada com chave de gancho: empurra o cone para dentro da capa e ajusta a folga axial.
+用钩形扳手拧紧的开槽螺母：把内圈推入外圈并设定轴向游隙。
+Шлицевая гайка затягивается крючковым ключом: она вдвигает внутреннее кольцо в наружное и задаёт осевой зазор.
+Nakrętka z nacięciami dokręcana kluczem hakowym: wpycha stożek w miseczkę i ustawia luz osiowy.
+Kampós kulccsal húzott hornyos anya: a kúpot a csészébe tolja és beállítja az axiális hézagot.
+Tuerca ranurada apretada con llave de gancho: empuja el cono dentro de la copa y ajusta el juego axial.
+
+#4846
+Un roulement à rouleaux coniques seul supporte la charge axiale…
+Um único rolamento de rolos cônicos suporta carga axial…
+单个圆锥滚子轴承承受轴向载荷…
+Одиночный конический роликоподшипник воспринимает осевую нагрузку…
+Pojedyncze łożysko stożkowe przenosi obciążenie osiowe…
+Egyetlen kúpgörgős csapágy axiális terhelést visel…
+Un solo rodamiento de rodillos cónicos soporta carga axial…
+
+#4847
+Dans un seul sens
+Em um só sentido
+仅一个方向
+Только в одном направлении
+Tylko w jednym kierunku
+Csak egy irányban
+En un solo sentido
+
+#4848
+Dans les deux sens
+Nos dois sentidos
+双向
+В обоих направлениях
+W obu kierunkach
+Mindkét irányban
+En ambos sentidos
+
+#4849
+Pas du tout
+De jeito nenhum
+完全不能
+Совсем не воспринимает
+Wcale
+Egyáltalán nem
+En absoluto
+
+#4850
+Seulement quand il est chaud
+Só quando está quente
+只在发热时
+Только в горячем состоянии
+Tylko gdy jest gorące
+Csak melegen
+Solo cuando está caliente
+
+#4851
+Comment règle-t-on le jeu d'une paire de roulements à rouleaux coniques ?
+Como se ajusta a folga de um par de rolamentos de rolos cônicos?
+一对圆锥滚子轴承的游隙如何调整？
+Как задаётся зазор пары конических роликоподшипников?
+Jak ustawia się luz pary łożysk stożkowych?
+Hogyan állítják be egy kúpgörgős csapágypár hézagát?
+¿Cómo se ajusta el juego de un par de rodamientos de rodillos cónicos?
+
+#4852
+Avec un écrou de réglage ou des cales, contrôlé au comparateur
+Com porca de ajuste ou calços, conferido com relógio comparador
+用调整螺母或垫片，并用百分表检查
+Регулировочной гайкой или прокладками с проверкой индикатором
+Nakrętką regulacyjną lub podkładkami, sprawdzane czujnikiem zegarowym
+Állítóanyával vagy alátétlemezekkel, mérőórával ellenőrizve
+Con tuerca de ajuste o suplementos, comprobado con reloj comparador
+
+#4853
+Il est fixé en usine
+É fixada de fábrica
+出厂已固定
+Задан на заводе
+Jest ustawiony fabrycznie
+Gyárilag rögzített
+Viene fijado de fábrica
+
+#4854
+En ajoutant de la graisse
+Adicionando mais graxa
+多加润滑脂
+Добавлением смазки
+Dodając więcej smaru
+Több zsír adagolásával
+Añadiendo más grasa
+
+#4855
+En chauffant la cuvette
+Aquecendo a capa
+加热外圈
+Нагревом наружного кольца
+Podgrzewając miseczkę
+A csésze melegítésével
+Calentando la copa
+
+#4856
+Roulement à rotule sur rouleaux (22210 E)
+Rolamento autocompensador de rolos (22210 E)
+调心滚子轴承（22210 E）
+Сферический роликоподшипник (22210 E)
+Łożysko baryłkowe (22210 E)
+Hordógörgős csapágy (22210 E)
+Rodamiento de rodillos a rótula (22210 E)
+
+#4857
+Deux rangées de rouleaux en tonneau dans un chemin extérieur sphérique unique. Auto-aligneur (environ 1.5-2°) avec une très grande capacité de charge.
+Duas carreiras de rolos em forma de barril em uma pista externa esférica única. Autocompensador (cerca de 1.5-2°) e com capacidade de carga muito alta.
+两列鼓形滚子在一个球面外滚道内运转。可自动调心（约 1.5-2°），承载能力很高。
+Два ряда бочкообразных роликов в одной сферической наружной дорожке. Самоустанавливающийся (около 1.5-2°), с очень высокой грузоподъёмностью.
+Dwa rzędy wałeczków baryłkowych w jednej kulistej bieżni zewnętrznej. Samonastawne (ok. 1.5-2°) i o bardzo dużej nośności.
+Két sor hordó alakú görgő egy gömbfelületű külső futópályában. Önbeálló (kb. 1.5-2°) és nagyon nagy teherbírású.
+Dos hileras de rodillos abombados en un único camino exterior esférico. Autoalineable (unos 1.5-2°) y con muy alta capacidad de carga.
+
+#4858
+Gros ventilateurs de CTA et de dépoussiéreurs sur paliers à semelle, cribles vibrants, convoyeurs lourds, concasseurs et gros arbres de poulies.
+Ventiladores grandes de AHU e coletores de pó em mancais bipartidos, peneiras vibratórias, transportadores pesados, britadores e eixos de polias grandes.
+装在立式轴承座中的大型 AHU 和除尘器风机、振动筛、重型输送机、破碎机和大型皮带轮轴。
+Крупные вентиляторы AHU и пылеуловителей в корпусах-стойках, вибросита, тяжёлые конвейеры, дробилки и большие валы шкивов.
+Duże wentylatory AHU i odpylaczy w oprawach stojących, przesiewacze wibracyjne, ciężkie przenośniki, kruszarki i duże wały kół pasowych.
+Nagy AHU és porleválasztó ventilátorok állócsapágyházban, rezgőszita, nehéz szállítószalagok, törők és nagy szíjtárcsatengelyek.
+Ventiladores grandes de UTA y colectores de polvo en soportes de pie, cribas vibratorias, transportadores pesados, trituradoras y ejes de poleas grandes.
+
+#4859
+La bague intérieure, les rouleaux et la cage peuvent pivoter dans la bague extérieure sphérique : la flexion de l'arbre ou un défaut d'alignement du socle ne surcharge pas les rouleaux. Les types K ont un alésage conique et se montent sur un manchon de serrage.
+O anel interno, os rolos e a gaiola podem girar dentro do anel externo esférico, assim a flexão do eixo ou o desalinhamento da base não sobrecarrega os rolos. Os tipos K têm furo cônico e assentam em bucha de fixação.
+内圈、滚子和保持架可在球面外圈内摆动，因此轴的弯曲或底座不对中不会使滚子过载。K 型为锥孔，装在紧定套上。
+Внутреннее кольцо, ролики и сепаратор могут поворачиваться в сферическом наружном кольце, поэтому прогиб вала или несоосность основания не перегружают ролики. Типы K имеют коническое отверстие и сидят на закрепительной втулке.
+Pierścień wewnętrzny, wałeczki i koszyk mogą wychylać się w kulistym pierścieniu zewnętrznym, więc ugięcie wału lub nieosiowość podstawy nie przeciąża wałeczków. Typy K mają otwór stożkowy i siedzą na tulei wciąganej.
+A belső gyűrű, a görgők és a kosár elbillenhet a gömbös külső gyűrűben, így a tengely hajlása vagy az alap egytengelyűségi hibája nem terheli túl a görgőket. A K típusok kúpos furatúak és szorítóhüvelyen ülnek.
+El aro interior, los rodillos y la jaula pueden bascular dentro del aro exterior esférico, así la flexión del eje o la desalineación de la base no sobrecargan los rodillos. Los tipos K tienen agujero cónico y van sobre manguito de fijación.
+
+#4860
+Large bande d'usure dans le chemin extérieur, cage endommagée, chaleur due à l'excès de graisse, bague intérieure qui tourne sur un manchon de serrage desserré.
+Faixa larga de desgaste na pista externa, dano na gaiola, calor por excesso de graxa, anel interno girando em bucha de fixação solta.
+外滚道有宽磨损带、保持架损坏、润滑脂过多导致发热、内圈在松动的紧定套上蠕动。
+Широкая полоса износа на наружной дорожке, повреждение сепаратора, нагрев от избытка смазки, проворот внутреннего кольца на ослабленной закрепительной втулке.
+Szeroki pas zużycia na bieżni zewnętrznej, uszkodzenie koszyka, grzanie od nadmiaru smaru, pełzanie pierścienia wewnętrznego na luźnej tulei wciąganej.
+Széles kopási sáv a külső futópályán, kosársérülés, túlzsírzás okozta melegedés, laza szorítóhüvelyen elmászó belső gyűrű.
+Banda ancha de desgaste en el camino exterior, daño en la jaula, calor por exceso de grasa, aro interior que gira sobre un manguito de fijación flojo.
+
+#4861
+Sur manchon de serrage, mesurez le jeu radial aux cales d'épaisseur avant et après l'emmanchement, puis bloquez l'écrou. Graissez par la gorge et les trous W33 ; ne remplissez pas le palier à plus de la moitié environ.
+Em bucha de fixação, meça a folga radial com cálibre de lâminas antes e depois de avançar o rolamento e trave a porca. Lubrifique pela ranhura e furos W33; não encha o mancal mais do que cerca da metade.
+在紧定套上安装时，推入前后都用塞尺测量径向游隙，然后锁紧螺母。通过 W33 油槽和油孔加脂；轴承座填充不超过约一半。
+На закрепительной втулке измеряйте радиальный зазор щупами до и после напрессовки и застопорите гайку. Смазывайте через канавку и отверстия W33; корпус заполняйте не более чем примерно наполовину.
+Na tulei wciąganej zmierz luz promieniowy szczelinomierzem przed i po wciągnięciu, a potem zablokuj nakrętkę. Smaruj przez rowek i otwory W33; nie napełniaj oprawy więcej niż do około połowy.
+Szorítóhüvelyen hézagmérővel mérje a radiális hézagot a felhajtás előtt és után, majd rögzítse az anyát. A W33 hornyon és furatokon zsírozzon; a házat legfeljebb kb. félig töltse.
+En manguito de fijación, mida el juego radial con galgas antes y después de calar y bloquee la tuerca. Engrase por la ranura y los agujeros W33; no llene el soporte más de la mitad aproximadamente.
+
+#4862
+Bague intérieure (deux chemins)
+Anel interno (duas pistas)
+内圈（两条滚道）
+Внутреннее кольцо (две дорожки)
+Pierścień wewnętrzny (dwie bieżnie)
+Belső gyűrű (két futópálya)
+Aro interior (dos caminos)
+
+#4863
+Deux chemins inclinés, un par rangée de rouleaux ; pas d'épaulement fixe dans l'exécution E, c'est la bague de guidage qui guide les rouleaux.
+Duas pistas inclinadas, uma para cada carreira de rolos; sem rebordos fixos no projeto E, o anel guia conduz os rolos.
+两条倾斜滚道，每列滚子一条；E 型设计没有固定挡边，由引导环引导滚子。
+Две наклонные дорожки, по одной на ряд роликов; в исполнении E нет неподвижных бортов, ролики направляет направляющее кольцо.
+Dwie pochylone bieżnie, po jednej na rząd wałeczków; w wykonaniu E brak stałych obrzeży, wałeczki prowadzi pierścień prowadzący.
+Két ferde futópálya, görgősoronként egy; az E kivitelben nincs fix perem, a vezetőgyűrű vezeti a görgőket.
+Dos caminos inclinados, uno por hilera de rodillos; sin pestañas fijas en el diseño E, el anillo guía conduce los rodillos.
+
+#4864
+Bague de guidage flottante
+Anel guia flutuante
+浮动引导环
+Плавающее направляющее кольцо
+Pływający pierścień prowadzący
+Úszó vezetőgyűrű
+Anillo guía flotante
+
+#4865
+Bague libre entre les rangées qui guide les extrémités intérieures des rouleaux.
+Anel solto entre as carreiras que guia as pontas internas dos rolos.
+两列之间的活动环，引导滚子内端。
+Свободное кольцо между рядами, направляющее внутренние торцы роликов.
+Luźny pierścień między rzędami prowadzący wewnętrzne końce wałeczków.
+A sorok közötti laza gyűrű, amely a görgők belső végeit vezeti.
+Anillo suelto entre las hileras que guía los extremos interiores de los rodillos.
+
+#4866
+Cage (deux cages à fenêtres en acier)
+Gaiola (duas gaiolas de janela de aço)
+保持架（两个钢制窗式保持架）
+Сепаратор (два стальных оконных сепаратора)
+Koszyk (dwa stalowe koszyki okienkowe)
+Kosár (két ablakos acélkosár)
+Jaula (dos jaulas de ventanas de acero)
+
+#4867
+Une cage à fenêtres par rangée avec une bague centrale ; maintient les rouleaux espacés et droits.
+Uma gaiola de janela por carreira com anel central; mantém os rolos espaçados e em pé.
+每列一个窗式保持架，带中心环；使滚子保持间距并直立。
+По одному оконному сепаратору на ряд с центральным кольцом; держит ролики на расстоянии и ровно.
+Jeden koszyk okienkowy na rząd z pierścieniem środkowym; utrzymuje odstępy i pionowe ustawienie wałeczków.
+Soronként egy ablakos kosár középgyűrűvel; távolságban és egyenesen tartja a görgőket.
+Una jaula de ventanas por hilera con anillo central; mantiene los rodillos separados y derechos.
+
+#4868
+Rouleaux en tonneau, rangée 1
+Rolos barril, carreira 1
+鼓形滚子，第 1 列
+Бочкообразные ролики, ряд 1
+Wałeczki baryłkowe, rząd 1
+Hordógörgők, 1. sor
+Rodillos abombados, hilera 1
+
+#4869
+18 rouleaux en tonneau symétriques ; leur courbure épouse le chemin extérieur sphérique.
+18 rolos barril simétricos; sua curvatura acompanha a pista externa esférica.
+18 个对称鼓形滚子；其曲面与球面外滚道吻合。
+18 симметричных бочкообразных роликов; их профиль совпадает со сферической наружной дорожкой.
+18 symetrycznych wałeczków baryłkowych; ich krzywizna pasuje do kulistej bieżni zewnętrznej.
+18 szimmetrikus hordógörgő; ívük illeszkedik a gömbös külső futópályához.
+18 rodillos abombados simétricos; su curva coincide con el camino exterior esférico.
+
+#4870
+Rouleaux en tonneau, rangée 2
+Rolos barril, carreira 2
+鼓形滚子，第 2 列
+Бочкообразные ролики, ряд 2
+Wałeczki baryłkowe, rząd 2
+Hordógörgők, 2. sor
+Rodillos abombados, hilera 2
+
+#4871
+Deuxième rangée, inclinée dans l'autre sens : ensemble elles supportent la charge radiale et axiale dans les deux sens.
+Segunda carreira, inclinada para o outro lado: juntas suportam carga radial e axial nos dois sentidos.
+第二列，向另一侧倾斜：两列共同承受径向载荷和双向轴向载荷。
+Второй ряд, наклонённый в другую сторону: вместе они несут радиальную и осевую нагрузку в обе стороны.
+Drugi rząd, pochylony w drugą stronę: razem przenoszą obciążenie promieniowe i osiowe w obu kierunkach.
+Második sor, ellenkező irányba dőlve: együtt viselik a radiális és mindkét irányú axiális terhelést.
+Segunda hilera, inclinada al otro lado: juntas soportan carga radial y axial en ambos sentidos.
+
+#4872
+Bague extérieure (chemin sphérique, W33)
+Anel externo (pista esférica, W33)
+外圈（球面滚道，W33）
+Наружное кольцо (сферическая дорожка, W33)
+Pierścień zewnętrzny (bieżnia kulista, W33)
+Külső gyűrű (gömbös futópálya, W33)
+Aro exterior (camino esférico, W33)
+
+#4873
+Son chemin est une portion de sphère, ce qui donne l'auto-alignement. W33 = gorge de graissage et 3 trous à l'extérieur.
+Sua pista é parte de uma esfera, o que dá o autoalinhamento. W33 = ranhura de lubrificação e 3 furos na parte externa.
+其滚道是球面的一部分，因此可自动调心。W33 = 外圈外表面上的润滑槽和 3 个油孔。
+Её дорожка — часть сферы, что даёт самоустановку. W33 = смазочная канавка и 3 отверстия снаружи.
+Jego bieżnia jest częścią kuli, co daje samonastawność. W33 = rowek smarowy i 3 otwory na zewnątrz.
+Futópályája gömbfelület része, ez adja az önbeállást. W33 = kenőhorony és 3 furat a külső palástban.
+Su camino es parte de una esfera, lo que da el autoalineamiento. W33 = ranura de lubricación y 3 agujeros en el exterior.
+
+#4874
+Pourquoi un roulement à rotule sur rouleaux peut-il tourner avec un arbre légèrement désaligné ?
+Por que um rolamento autocompensador de rolos pode trabalhar com o eixo levemente desalinhado?
+为什么调心滚子轴承可以在轴略有不对中时运转？
+Почему сферический роликоподшипник может работать при небольшой несоосности вала?
+Dlaczego łożysko baryłkowe może pracować przy lekko nieosiowym wale?
+Miért járhat a hordógörgős csapágy kissé egytengelyűségi hibás tengellyel?
+¿Por qué un rodamiento de rodillos a rótula puede trabajar con el eje algo desalineado?
+
+#4875
+Son chemin extérieur est une portion de sphère
+Sua pista externa é parte de uma esfera
+其外滚道是球面的一部分
+Его наружная дорожка — часть сферы
+Jego bieżnia zewnętrzna jest częścią kuli
+Külső futópályája gömbfelület része
+Su camino exterior es parte de una esfera
+
+#4876
+Les rouleaux sont souples
+Os rolos são macios
+滚子是软的
+Ролики мягкие
+Wałeczki są miękkie
+A görgők puhák
+Los rodillos son blandos
+
+#4877
+Il a un joint caoutchouc
+Ele tem vedação de borracha
+它有橡胶密封
+У него резиновое уплотнение
+Ma uszczelnienie gumowe
+Gumitömítése van
+Tiene un sello de goma
+
+#4878
+Sa cage est flexible
+Sua gaiola é flexível
+其保持架有弹性
+Его сепаратор гибкий
+Jego koszyk jest elastyczny
+A kosara rugalmas
+Su jaula es flexible
+
+#4879
+Que signifie W33 sur ce roulement ?
+O que é W33 neste rolamento?
+这个轴承上的 W33 是什么？
+Что означает W33 на этом подшипнике?
+Co oznacza W33 na tym łożysku?
+Mit jelent a W33 ezen a csapágyon?
+¿Qué es W33 en este rodamiento?
+
+#4880
+Une gorge de graissage et trois trous dans la bague extérieure
+Uma ranhura de lubrificação e três furos no anel externo
+外圈上的一条润滑槽和三个油孔
+Смазочная канавка и три отверстия в наружном кольце
+Rowek smarowy i trzy otwory w pierścieniu zewnętrznym
+Kenőhorony és három furat a külső gyűrűn
+Una ranura de lubricación y tres agujeros en el aro exterior
+
+#4881
+Largeur 33 mm
+Largura 33 mm
+宽度 33 mm
+Ширина 33 mm
+Szerokość 33 mm
+Szélesség 33 mm
+Ancho 33 mm
+
+#4882
+Version inox
+Versão em aço inoxidável
+不锈钢型
+Исполнение из нержавеющей стали
+Wersja ze stali nierdzewnej
+Rozsdamentes kivitel
+Versión de acero inoxidable
+
+#4883
+Classe de jeu augmentée
+Classe de folga extra
+加大游隙等级
+Класс увеличенного зазора
+Klasa zwiększonego luzu
+Nagyobb hézagosztály
+Clase de juego extra
+
+#4884
+Roulements à billes à contact oblique (paire 7205 BEP, montage en O)
+Rolamentos de esferas de contato angular (par 7205 BEP, costas com costas)
+角接触球轴承（7205 BEP 配对，背对背）
+Радиально-упорные шарикоподшипники (пара 7205 BEP, по схеме «спина к спине»)
+Łożyska kulkowe skośne (para 7205 BEP, plecami do siebie)
+Ferde hatásvonalú golyóscsapágyak (7205 BEP pár, O-elrendezés)
+Rodamientos de bolas de contacto angular (par 7205 BEP, espalda con espalda)
+
+#4885
+Les chemins sont décalés : la charge traverse les billes selon un angle de contact (40° pour le suffixe B). Un roulement supporte une forte charge axiale dans un sens, d'où le montage en paires appariées.
+As pistas são deslocadas, então a carga passa pelas esferas com um ângulo de contato (40° para o sufixo B). Um rolamento suporta alta carga axial em um sentido, por isso são montados em pares casados.
+滚道错开，载荷以一定接触角穿过钢球（后缀 B 为 40°）。单个轴承承受一个方向的大轴向载荷，因此成对配套安装。
+Дорожки смещены, и нагрузка проходит через шарики под углом контакта (40° для суффикса B). Один подшипник несёт большую осевую нагрузку в одном направлении, поэтому их ставят подобранными парами.
+Bieżnie są przesunięte, więc obciążenie przechodzi przez kulki pod kątem działania (40° dla przyrostka B). Jedno łożysko przenosi duże obciążenie osiowe w jednym kierunku, dlatego montuje się je w dobranych parach.
+A futópályák el vannak tolva, így a terhelés érintkezési szög alatt halad át a golyókon (B utótagnál 40°). Egy csapágy egy irányban nagy axiális terhelést visel, ezért párosított párban szerelik.
+Los caminos están desplazados, así la carga pasa por las bolas con un ángulo de contacto (40° para el sufijo B). Un rodamiento soporta alta carga axial en un sentido, por eso se montan en pares apareados.
+
+#4886
+Côté butée des pompes centrifuges (par exemple une paire 7310 BEP dans le support de palier), broches de machines-outils, réducteurs à vis sans fin, ventilateurs à grande vitesse.
+Lado de escora de bombas centrífugas (por exemplo um par 7310 BEP no suporte de mancal), fusos de máquinas-ferramenta, redutores de rosca sem fim, ventiladores de alta rotação.
+离心泵的止推端（例如轴承架内的一对 7310 BEP）、机床主轴、蜗轮蜗杆减速箱、高速风机。
+Упорная сторона центробежных насосов (например, пара 7310 BEP в подшипниковой опоре), шпиндели станков, червячные редукторы, высокоскоростные вентиляторы.
+Strona oporowa pomp odśrodkowych (np. para 7310 BEP w korpusie łożyskowym), wrzeciona obrabiarek, przekładnie ślimakowe, szybkoobrotowe wentylatory.
+Centrifugálszivattyúk axiális oldala (pl. egy 7310 BEP pár a csapágybakban), szerszámgép-orsók, csigahajtóművek, nagy fordulatú ventilátorok.
+Lado de empuje de bombas centrífugas (por ejemplo un par 7310 BEP en el soporte de rodamientos), husillos de máquinas herramienta, reductores de sinfín, ventiladores de alta velocidad.
+
+#4887
+En O (DB) : les lignes de contact s'écartent, rigide au basculement. En X (DF) : plus tolérant au désalignement. En tandem (DT) : les deux reprennent la poussée dans le même sens.
+Costas com costas (O, DB): linhas de contato se afastam, rígido contra inclinação. Face com face (X, DF): mais tolerante a desalinhamento. Tandem (DT): ambos suportam empuxo no mesmo sentido.
+背对背（O 型，DB）：接触线向外张开，抗倾覆刚性好。面对面（X 型，DF）：对不对中更宽容。串联（DT）：两个轴承承受同一方向的推力。
+«Спина к спине» (O, DB): линии контакта расходятся, жёстко против перекоса. «Лицом к лицу» (X, DF): терпимее к несоосности. Тандем (DT): оба несут осевую нагрузку в одном направлении.
+Plecami (O, DB): linie styku rozchodzą się, sztywne na przechylanie. Czołami (X, DF): bardziej tolerancyjne na nieosiowość. Tandem (DT): oba przenoszą nacisk w tym samym kierunku.
+O-elrendezés (DB): az érintkezési vonalak széttartanak, billenésre merev. X-elrendezés (DF): jobban tűri az egytengelyűségi hibát. Tandem (DT): mindkettő azonos irányú axiális erőt visel.
+Espalda con espalda (O, DB): las líneas de contacto se abren, rígido frente a vuelco. Cara a cara (X, DF): más tolerante a desalineación. Tándem (DT): ambos soportan empuje en el mismo sentido.
+
+#4888
+Une paire montée à l'envers casse en quelques heures, trop de précharge donne de la chaleur, les billes glissent à faible charge, mélange de roulements isolés de jeux différents.
+Par montado ao contrário falha em horas, pré-carga excessiva gera calor, esferas deslizam com carga leve, mistura de rolamentos avulsos de conjuntos diferentes.
+配对装反几小时就会损坏，预紧过大导致发热，轻载时钢球打滑，混用不同套的单个轴承。
+Пара, установленная наоборот, выходит из строя за часы; большой преднатяг даёт нагрев; при малой нагрузке шарики проскальзывают; смешивание подшипников из разных комплектов.
+Para zamontowana odwrotnie psuje się w kilka godzin, za duże napięcie wstępne daje grzanie, kulki ślizgają się przy małym obciążeniu, mieszanie pojedynczych łożysk z różnych kompletów.
+Fordítva szerelt pár órák alatt tönkremegy, túl nagy előfeszítés melegedést okoz, kis terhelésnél a golyók csúsznak, különböző párokból származó csapágyak keverése.
+Un par montado al revés falla en horas, demasiada precarga da calor, las bolas patinan con carga ligera, mezcla de rodamientos sueltos de juegos distintos.
+
+#4889
+Suivez le repère en V sur les bagues extérieures : il indique le sens de la paire et de la poussée. Ne mélangez jamais des roulements de paires différentes. Emmanchez les deux bagues avec le même outil et vérifiez que l'arbre tourne librement.
+Siga a marca em V nos anéis externos: ela indica a orientação do par e do empuxo. Nunca misture rolamentos de pares diferentes. Prense os dois anéis com a mesma ferramenta e confira se o eixo gira livre.
+按外圈上的 V 形标记安装：它指示配对方向和推力方向。绝不能混用不同配对的轴承。用同一工具压装两个套圈，并检查轴能否自由转动。
+Ориентируйтесь на V-метку на наружных кольцах: она показывает направление пары и осевой силы. Никогда не смешивайте подшипники из разных пар. Запрессовывайте оба кольца одним инструментом и проверьте, что вал вращается свободно.
+Kieruj się znakiem V na pierścieniach zewnętrznych: wskazuje kierunek pary i nacisku. Nigdy nie mieszaj łożysk z różnych par. Wciskaj oba pierścienie tym samym narzędziem i sprawdź, czy wał obraca się swobodnie.
+Kövesse a külső gyűrűkön lévő V jelet: a pár és az axiális erő irányát mutatja. Soha ne keverjen különböző párokból származó csapágyakat. Mindkét gyűrűt ugyanazzal a szerszámmal sajtolja, és ellenőrizze, hogy a tengely szabadon forog.
+Siga la marca en V de los aros exteriores: indica la orientación del par y del empuje. Nunca mezcle rodamientos de pares distintos. Monte a presión ambos aros con la misma herramienta y compruebe que el eje gira libre.
+
+#4890
+Bague extérieure, roulement A
+Anel externo, rolamento A
+外圈，轴承 A
+Наружное кольцо, подшипник A
+Pierścień zewnętrzny, łożysko A
+Külső gyűrű, A csapágy
+Aro exterior, rodamiento A
+
+#4891
+L'épaulement haut d'un côté reprend la poussée ; l'épaulement bas permet d'introduire les billes.
+O ressalto alto de um lado recebe o empuxo; o ressalto baixo permite a entrada das esferas.
+一侧的高挡肩承受推力；低挡肩便于装入钢球。
+Высокий заплечик с одной стороны воспринимает осевую силу; низкий позволяет вставить шарики.
+Wysokie odsadzenie z jednej strony przejmuje nacisk; niskie pozwala włożyć kulki.
+Az egyik oldali magas váll veszi fel az axiális erőt; az alacsony váll engedi be a golyókat.
+El hombro alto de un lado toma el empuje; el hombro bajo permite meter las bolas.
+
+#4892
+Billes, roulement A
+Esferas, rolamento A
+钢球，轴承 A
+Шарики, подшипник A
+Kulki, łożysko A
+Golyók, A csapágy
+Bolas, rodamiento A
+
+#4893
+12 billes chargées selon une ligne à 40° du plan radial.
+12 esferas carregadas ao longo de uma linha a 40° do plano radial.
+12 个钢球沿与径向平面成 40° 的线受载。
+12 шариков нагружены по линии под 40° к радиальной плоскости.
+12 kulek obciążonych wzdłuż linii pod kątem 40° do płaszczyzny promieniowej.
+12 golyó, a radiális síkkal 40°-os vonal mentén terhelve.
+12 bolas cargadas a lo largo de una línea a 40° del plano radial.
+
+#4894
+Cage, roulement A (laiton usiné)
+Gaiola, rolamento A (latão usinado)
+保持架，轴承 A（机加工黄铜）
+Сепаратор, подшипник A (точёная латунь)
+Koszyk, łożysko A (mosiądz obrabiany)
+Kosár, A csapágy (megmunkált sárgaréz)
+Jaula, rodamiento A (latón mecanizado)
+
+#4895
+Cage à fenêtres usinée, les billes s'encliquettent dans les alvéoles.
+Gaiola de janela usinada, as esferas encaixam nos alvéolos.
+机加工窗式保持架，钢球卡入兜孔。
+Точёный оконный сепаратор, шарики защёлкиваются в гнёзда.
+Obrabiany koszyk okienkowy, kulki zatrzaskują się w gniazdach.
+Megmunkált ablakos kosár, a golyók bepattannak a fészkekbe.
+Jaula de ventanas mecanizada, las bolas encajan a presión en los alvéolos.
+
+#4896
+Bague intérieure, roulement A
+Anel interno, rolamento A
+内圈，轴承 A
+Внутреннее кольцо, подшипник A
+Pierścień wewnętrzny, łożysko A
+Belső gyűrű, A csapágy
+Aro interior, rodamiento A
+
+#4897
+Son épaulement haut est opposé à celui de la bague extérieure : c'est ce qui donne l'angle de contact.
+Seu ressalto alto fica do lado oposto ao ressalto alto do anel externo: isso define o ângulo de contato.
+其高挡肩与外圈高挡肩方向相反：由此形成接触角。
+Его высокий заплечик направлен противоположно высокому заплечику наружного кольца: это задаёт угол контакта.
+Jego wysokie odsadzenie jest skierowane przeciwnie do wysokiego odsadzenia pierścienia zewnętrznego: to ustala kąt działania.
+Magas válla a külső gyűrű magas vállával ellentétes oldalon van: ez adja az érintkezési szöget.
+Su hombro alto está opuesto al hombro alto del aro exterior: eso fija el ángulo de contacto.
+
+#4898
+Bague intérieure, roulement B
+Anel interno, rolamento B
+内圈，轴承 B
+Внутреннее кольцо, подшипник B
+Pierścień wewnętrzny, łożysko B
+Belső gyűrű, B csapágy
+Aro interior, rodamiento B
+
+#4899
+Symétrique du roulement A : la paire tient maintenant l'arbre dans les deux sens axiaux.
+Espelho do rolamento A: o par agora segura o eixo nos dois sentidos axiais.
+与轴承 A 对称：这对轴承现在可在两个轴向方向上固定轴。
+Зеркальное отражение подшипника A: теперь пара держит вал в обоих осевых направлениях.
+Lustrzane odbicie łożyska A: para trzyma teraz wał w obu kierunkach osiowych.
+Az A csapágy tükörképe: a pár most mindkét axiális irányban tartja a tengelyt.
+Espejo del rodamiento A: el par ahora sujeta el eje en ambos sentidos axiales.
+
+#4900
+Cage, roulement B
+Gaiola, rolamento B
+保持架，轴承 B
+Сепаратор, подшипник B
+Koszyk, łożysko B
+Kosár, B csapágy
+Jaula, rodamiento B
+
+#4901
+Même cage, second roulement.
+Mesma gaiola, segundo rolamento.
+同样的保持架，第二个轴承。
+Такой же сепаратор, второй подшипник.
+Ten sam koszyk, drugie łożysko.
+Ugyanaz a kosár, második csapágy.
+Misma jaula, segundo rodamiento.
+
+#4902
+Billes, roulement B
+Esferas, rolamento B
+钢球，轴承 B
+Шарики, подшипник B
+Kulki, łożysko B
+Golyók, B csapágy
+Bolas, rodamiento B
+
+#4903
+Ligne de contact inclinée dans l'autre sens.
+Linha de contato inclinada para o outro lado.
+接触线向另一侧倾斜。
+Линия контакта наклонена в другую сторону.
+Linia styku pochylona w drugą stronę.
+Az érintkezési vonal a másik irányba dől.
+Línea de contacto inclinada al otro lado.
+
+#4904
+Bague extérieure, roulement B
+Anel externo, rolamento B
+外圈，轴承 B
+Наружное кольцо, подшипник B
+Pierścień zewnętrzny, łożysko B
+Külső gyűrű, B csapágy
+Aro exterior, rodamiento B
+
+#4905
+Les dos des deux roulements se touchent au milieu (montage en O).
+As costas dos dois rolamentos se tocam no meio (arranjo em O).
+两个轴承的背面在中间相接触（O 型布置）。
+Тыльные торцы двух подшипников соприкасаются посередине (схема O).
+Tylne czoła obu łożysk stykają się pośrodku (układ O).
+A két csapágy hátoldala középen összeér (O-elrendezés).
+Las caras traseras de los dos rodamientos se tocan en el centro (disposición en O).
+
+#4906
+Deux roulements à contact oblique dont les lignes de contact s'écartent (forme en O) sont montés…
+Dois rolamentos de contato angular com as linhas de contato se afastando (forma de O) são montados…
+两个角接触轴承的接触线向外张开（O 形），其安装方式为…
+Два радиально-упорных подшипника с расходящимися линиями контакта (форма O) установлены…
+Dwa łożyska skośne, których linie styku się rozchodzą (kształt O), są zamontowane…
+Két ferde hatásvonalú csapágy széttartó érintkezési vonalakkal (O alak) így van szerelve…
+Dos rodamientos de contacto angular con las líneas de contacto abriéndose (forma de O) están montados…
+
+#4907
+En O (DB)
+Costas com costas (DB)
+背对背（DB）
+«Спина к спине» (DB)
+Plecami do siebie (DB)
+O-elrendezésben (DB)
+Espalda con espalda (DB)
+
+#4908
+En X (DF)
+Face com face (DF)
+面对面（DF）
+«Лицом к лицу» (DF)
+Czołami do siebie (DF)
+X-elrendezésben (DF)
+Cara a cara (DF)
+
+#4909
+En tandem (DT)
+Em tandem (DT)
+串联（DT）
+Тандем (DT)
+W tandemie (DT)
+Tandemben (DT)
+En tándem (DT)
+
+#4910
+Mal montés, ce doit être en X
+Errado, tem que ser X
+装错了，必须是 X 型
+Неправильно, должно быть X
+Źle, musi być X
+Rosszul, X-nek kell lennie
+Mal, debe ser X
+
+#4911
+Pourquoi les butées de pompes utilisent-elles souvent une paire de roulements à contact oblique à 40° ?
+Por que o lado de escora de bombas costuma usar um par de rolamentos de contato angular de 40°?
+为什么泵的止推端常用一对 40° 角接触轴承？
+Почему на упорной стороне насосов часто ставят пару радиально-упорных подшипников 40°?
+Dlaczego po stronie oporowej pomp często stosuje się parę łożysk skośnych 40°?
+Miért használnak a szivattyúk axiális oldalán gyakran egy pár 40°-os ferde hatásvonalú csapágyat?
+¿Por qué el lado de empuje de las bombas suele usar un par de rodamientos de contacto angular de 40°?
+
+#4912
+Pour supporter une forte poussée axiale dans les deux sens
+Para suportar alto empuxo axial nos dois sentidos
+为了承受双向的大轴向推力
+Чтобы воспринимать большую осевую силу в обоих направлениях
+Aby przenosić duży nacisk osiowy w obu kierunkach
+Hogy mindkét irányban nagy axiális erőt viseljenek
+Para soportar alto empuje axial en ambos sentidos
+
+#4913
+Parce qu'ils n'ont pas besoin de lubrification
+Porque não precisam de lubrificação
+因为它们不需要润滑
+Потому что им не нужна смазка
+Bo nie wymagają smarowania
+Mert nem kell kenni őket
+Porque no necesitan lubricación
+
+#4914
+Pour permettre un désalignement de l'arbre
+Para permitir desalinhamento do eixo
+为了允许轴不对中
+Чтобы допускать несоосность вала
+Aby dopuścić nieosiowość wału
+Hogy megengedjék a tengely egytengelyűségi hibáját
+Para permitir la desalineación del eje
+
+#4915
+Parce qu'ils sont moins chers que les roulements à billes
+Porque são mais baratos que rolamentos de esferas
+因为它们比球轴承便宜
+Потому что они дешевле шарикоподшипников
+Bo są tańsze od łożysk kulkowych
+Mert olcsóbbak a golyóscsapágyaknál
+Porque son más baratos que los rodamientos de bolas
+
+#4916
+Palier à semelle (UCP 205)
+Mancal com rolamento (UCP 205)
+立式带座轴承（UCP 205）
+Корпусной подшипниковый узел (UCP 205)
+Łożysko w oprawie stojącej (UCP 205)
+Állócsapágyház egység (UCP 205)
+Soporte de pie con rodamiento (UCP 205)
+
+#4917
+Une unité prête à monter : corps en fonte avec roulement-insert étanche. L'extérieur sphérique de l'insert lui permet de s'aligner dans le corps. Bloqué sur l'arbre par deux vis sans tête.
+Uma unidade pronta para montar: caixa de ferro fundido com rolamento de inserto vedado. A parte externa esférica do inserto permite que ele se autoalinhe na caixa. Travado no eixo com dois parafusos sem cabeça.
+现成的带座单元：铸铁座内装密封的外球面轴承。外球面使轴承可在座内自动调心。用两个紧定螺钉锁紧在轴上。
+Готовый узел: чугунный корпус с закрытым вставным подшипником. Сферическая наружная поверхность вставки позволяет ей самоустанавливаться в корпусе. Фиксируется на валу двумя установочными винтами.
+Gotowy zespół: żeliwna oprawa z uszczelnionym łożyskiem wkładkowym. Kulista powierzchnia zewnętrzna wkładki pozwala jej samonastawiać się w oprawie. Mocowany na wale dwoma wkrętami dociskowymi.
+Kész, beépíthető egység: öntöttvas ház tömített betétcsapággyal. A betét gömbös külseje lehetővé teszi, hogy beálljon a házban. Két hernyócsavarral rögzül a tengelyen.
+Una unidad lista para montar: soporte de fundición con rodamiento inserto sellado. El exterior esférico del inserto le permite autoalinearse en el soporte. Se fija al eje con dos prisioneros.
+
+#4918
+Tambours et rouleaux de convoyeurs des lignes de conditionnement, arbres de ventilateurs de CTA et de dépoussiéreurs, vis de transport, support supérieur des agitateurs lents.
+Tambores e roletes de transportadores das linhas de embalagem, eixos de ventiladores de AHU e coletores de pó, roscas transportadoras, suporte superior de agitadores lentos.
+包装线上的输送滚筒和托辊、AHU 和除尘器风机轴、螺旋输送机、低速搅拌器的上部支撑。
+Барабаны и ролики конвейеров упаковочных линий, валы вентиляторов AHU и пылеуловителей, шнековые конвейеры, верхняя опора тихоходных мешалок.
+Bębny i rolki przenośników na liniach pakujących, wały wentylatorów AHU i odpylaczy, przenośniki ślimakowe, górna podpora wolnoobrotowych mieszadeł.
+Csomagolósori szállítószalag-dobok és görgők, AHU és porleválasztó ventilátortengelyek, csigás szállítók, lassú keverők felső csapágyazása.
+Tambores y rodillos de transportadores de las líneas de envasado, ejes de ventiladores de UTA y colectores de polvo, tornillos transportadores, soporte superior de agitadores lentos.
+
+#4919
+L'insert UC a une bague intérieure large avec deux vis sans tête à 120°. L'insert peut basculer légèrement dans l'alésage du corps pour absorber un désalignement de montage, pas un désalignement en marche.
+O inserto UC tem anel interno largo com dois parafusos sem cabeça a 120°. O inserto pode inclinar um pouco no furo da caixa para absorver desalinhamento de montagem, não desalinhamento em operação.
+UC 外球面轴承的内圈较宽，有两个成 120° 的紧定螺钉。轴承可在座孔内稍微倾斜，以补偿安装不对中，但不能补偿运行中的不对中。
+Вставка UC имеет широкое внутреннее кольцо с двумя установочными винтами под 120°. Вставка может немного наклоняться в отверстии корпуса, компенсируя монтажную несоосность, но не рабочую.
+Wkładka UC ma szeroki pierścień wewnętrzny z dwoma wkrętami pod kątem 120°. Wkładka może się lekko przechylać w otworze oprawy, kompensując nieosiowość montażową, a nie ruchową.
+Az UC betét széles belső gyűrűjén két hernyócsavar van 120°-ban. A betét kissé billenhet a ház furatában, hogy a szerelési, de nem az üzem közbeni egytengelyűségi hibát felvegye.
+El inserto UC tiene un aro interior ancho con dos prisioneros a 120°. El inserto puede inclinarse un poco en el agujero del soporte para absorber la desalineación de montaje, no la de funcionamiento.
+
+#4920
+Des vis desserrées laissent la bague intérieure tourner sur l'arbre (arbre rayé, couinement, chaleur). L'excès de graisse chasse les joints. Les pattes du corps se fissurent si on les boulonne sur un socle irrégulier.
+Parafusos soltos deixam o anel interno girar no eixo (eixo riscado, chiado, calor). Excesso de graxa expulsa as vedações. Os pés da caixa trincam quando aparafusados em base irregular.
+紧定螺钉松动会让内圈在轴上打滑（轴被划伤、尖叫、发热）。加脂过多会把密封挤出。底座不平时拧紧螺栓会使座脚开裂。
+Ослабленные установочные винты позволяют внутреннему кольцу проворачиваться на валу (задиры на валу, визг, нагрев). Избыток смазки выдавливает уплотнения. Лапы корпуса трескаются при затяжке на неровном основании.
+Luźne wkręty pozwalają pierścieniowi wewnętrznemu obracać się na wale (porysowany wał, pisk, grzanie). Nadmiar smaru wypycha uszczelnienia. Łapy oprawy pękają przy przykręcaniu do nierównej podstawy.
+A laza hernyócsavarok miatt a belső gyűrű elfordul a tengelyen (karcos tengely, sivítás, melegedés). A túlzsírzás kinyomja a tömítéseket. A ház talpai megrepednek, ha egyenetlen alapra csavarozzák.
+Los prisioneros flojos dejan girar el aro interior sobre el eje (eje rayado, chirrido, calor). El exceso de grasa expulsa los sellos. Las patas del soporte se agrietan al atornillarlas sobre una base irregular.
+
+#4921
+Alignez et serrez les vis sans tête au couple prescrit avec du frein-filet. Graissez lentement par le graisseur en tournant, quelques coups seulement. Calez le socle à plat et serrez les boulons de pied uniformément.
+Alinhe e aperte os parafusos sem cabeça no torque indicado com trava-rosca. Lubrifique devagar pelo pino graxeiro girando, só algumas bombadas. Calce a base plana e aperte os parafusos da base por igual.
+对正并用螺纹锁固剂把紧定螺钉拧到规定扭矩。边转动边从油嘴缓慢加脂，只打几下。用垫片把底座垫平，均匀拧紧地脚螺栓。
+Выровняйте и затяните установочные винты с нужным моментом с фиксатором резьбы. Смазывайте медленно через пресс-маслёнку, вращая вал, всего несколько качков. Выставьте основание прокладками и равномерно затяните болты.
+Ustaw i dokręć wkręty momentem z tabeli, z klejem do gwintów. Smaruj powoli przez smarowniczkę, obracając wał, tylko kilka pompnięć. Podłóż podkładki pod podstawę i równomiernie dokręć śruby.
+Igazítsa és húzza meg a hernyócsavarokat az előírt nyomatékra menetrögzítővel. Forgatás közben lassan zsírozzon a zsírzógombon át, csak néhány nyomást. Alátétlemezekkel tegye síkba az alapot, és egyenletesen húzza meg a talpcsavarokat.
+Alinee y apriete los prisioneros al par indicado con fijador de roscas. Engrase despacio por el engrasador girando, solo unos pocos bombeos. Calce la base plana y apriete los pernos de base por igual.
+
+#4922
+Corps (fonte)
+Caixa (ferro fundido)
+轴承座（铸铁）
+Корпус (чугун)
+Oprawa (żeliwo)
+Ház (öntöttvas)
+Soporte (fundición)
+
+#4923
+Tient l'insert dans un alésage sphérique et porte les deux pattes à trous oblongs.
+Segura o inserto em um furo esférico e tem os dois pés com rasgos.
+将轴承保持在球面孔内，带两个长孔座脚。
+Держит вставку в сферическом отверстии и несёт две лапы с пазами.
+Trzyma wkładkę w kulistym otworze i ma dwie łapy z otworami fasolkowymi.
+Gömbös furatban tartja a betétet, és két hosszlyukas talpa van.
+Sujeta el inserto en un agujero esférico y lleva las dos patas ranuradas.
+
+#4924
+Bague extérieure de l'insert (extérieur sphérique)
+Anel externo do inserto (diâmetro externo esférico)
+轴承外圈（外球面）
+Наружное кольцо вставки (сферический наружный диаметр)
+Pierścień zewnętrzny wkładki (kulista powierzchnia zewnętrzna)
+Betét külső gyűrűje (gömbös külső átmérő)
+Aro exterior del inserto (exterior esférico)
+
+#4925
+L'extérieur sphérique se loge dans l'alésage du corps ; un trou de graissage se trouve sous le graisseur.
+A parte externa esférica fica no furo da caixa; tem um furo de lubrificação sob o pino graxeiro.
+外球面装在座孔中；油嘴下方有润滑孔。
+Сферическая поверхность сидит в отверстии корпуса; под маслёнкой есть смазочное отверстие.
+Kulista powierzchnia siedzi w otworze oprawy; pod smarowniczką jest otwór smarowy.
+A gömbös külső a ház furatában ül; a zsírzógomb alatt kenőfurat van.
+El exterior esférico se aloja en el agujero del soporte; tiene un agujero de engrase bajo el engrasador.
+
+#4926
+Joints avec déflecteurs
+Vedações com defletores
+带甩油环的密封
+Уплотнения с отражателями
+Uszczelnienia z odrzutnikami
+Tömítések terelőgyűrűvel
+Sellos con deflectores
+
+#4927
+Joints caoutchouc des deux côtés plus déflecteurs en acier sur la bague intérieure qui projettent la saleté.
+Vedações de borracha nos dois lados mais defletores de aço no anel interno que jogam a sujeira para fora.
+两侧橡胶密封，内圈上另有钢制甩环把污物甩出。
+Резиновые уплотнения с обеих сторон плюс стальные отражатели на внутреннем кольце, отбрасывающие грязь.
+Uszczelnienia gumowe z obu stron plus stalowe odrzutniki na pierścieniu wewnętrznym, które odrzucają brud.
+Gumitömítés mindkét oldalon, plusz acél terelőgyűrűk a belső gyűrűn, amelyek ledobják a szennyeződést.
+Sellos de goma en ambos lados más deflectores de acero en el aro interior que despiden la suciedad.
+
+#4928
+9 billes dans des gorges profondes, comme un roulement 6205.
+9 esferas em pistas profundas, como um rolamento 6205.
+9 个钢球在深沟中运转，与 6205 轴承相同。
+9 шариков в глубоких дорожках, как у подшипника 6205.
+9 kulek w głębokich bieżniach, jak w łożysku 6205.
+9 golyó mély hornyokban, mint egy 6205 csapágyban.
+9 bolas en ranuras profundas, como un rodamiento 6205.
+
+#4929
+Bague intérieure large
+Anel interno largo
+宽内圈
+Широкое внутреннее кольцо
+Szeroki pierścień wewnętrzny
+Széles belső gyűrű
+Aro interior ancho
+
+#4930
+Bague intérieure prolongée qui glisse sur l'arbre ; les vis sans tête la traversent.
+Anel interno estendido que desliza no eixo; os parafusos sem cabeça passam por ele.
+加长内圈套在轴上；紧定螺钉穿过内圈。
+Удлинённое внутреннее кольцо надвигается на вал; установочные винты проходят через него.
+Wydłużony pierścień wewnętrzny nasuwany na wał; wkręty przechodzą przez niego.
+Meghosszabbított belső gyűrű, amely a tengelyre csúszik; a hernyócsavarok rajta mennek át.
+Aro interior prolongado que se desliza sobre el eje; los prisioneros lo atraviesan.
+
+#4931
+Arbre (Ø25 mm)
+Eixo (Ø25 mm)
+轴（Ø25 mm）
+Вал (Ø25 mm)
+Wał (Ø25 mm)
+Tengely (Ø25 mm)
+Eje (Ø25 mm)
+
+#4932
+Arbre lisse, tolérance h7 ou h9 ; pas besoin d'épaulement.
+Eixo liso, tolerância h7 ou h9; não precisa de ressalto.
+光轴，公差 h7 或 h9；不需要轴肩。
+Гладкий вал, допуск h7 или h9; заплечик не нужен.
+Wał gładki, tolerancja h7 lub h9; odsadzenie niepotrzebne.
+Sima tengely, h7 vagy h9 tűrés; váll nem kell.
+Eje liso, tolerancia h7 o h9; no necesita hombro.
+
+#4933
+Vis sans tête (2, à 120°)
+Parafusos sem cabeça (2, a 120°)
+紧定螺钉（2 个，成 120°）
+Установочные винты (2, под 120°)
+Wkręty dociskowe (2, pod 120°)
+Hernyócsavarok (2, 120°-ban)
+Prisioneros (2, a 120°)
+
+#4934
+Les vis sans tête à bout cuvette mordent dans l'arbre et bloquent la bague intérieure.
+Parafusos sem cabeça de ponta côncava mordem o eixo e travam o anel interno.
+杯形端紧定螺钉咬入轴中，锁住内圈。
+Установочные винты с засверленным концом врезаются в вал и стопорят внутреннее кольцо.
+Wkręty z końcem stożkowo-wklęsłym wgryzają się w wał i blokują pierścień wewnętrzny.
+A kúpos-csészés végű hernyócsavarok a tengelybe harapnak és rögzítik a belső gyűrűt.
+Los prisioneros de punta de copa muerden el eje y bloquean el aro interior.
+
+#4935
+Graisseur
+Pino graxeiro
+油嘴
+Пресс-маслёнка
+Smarowniczka
+Zsírzógomb
+Engrasador
+
+#4936
+La graisse passe de la pompe à travers le corps jusqu'au trou de graissage de l'insert.
+A graxa vai da engraxadeira pela caixa até o furo de lubrificação do inserto.
+润滑脂从油枪经轴承座进入轴承的润滑孔。
+Смазка идёт от шприца через корпус в смазочное отверстие вставки.
+Smar płynie z praski przez oprawę do otworu smarowego wkładki.
+A zsír a zsírzóprésből a házon át jut a betét kenőfuratába.
+La grasa va de la engrasadora a través del soporte al agujero de engrase del inserto.
+
+#4937
+Boulons de pied avec rondelles
+Parafusos da base com arruelas
+带垫圈的地脚螺栓
+Болты основания с шайбами
+Śruby podstawy z podkładkami
+Talpcsavarok alátétekkel
+Pernos de base con arandelas
+
+#4938
+Deux boulons dans les pattes à trous oblongs ; les trous oblongs permettent l'alignement avant serrage.
+Dois parafusos nos pés com rasgos; os rasgos permitem o alinhamento antes do aperto.
+两个螺栓穿过长孔座脚；长孔便于拧紧前对中。
+Два болта через лапы с пазами; пазы позволяют выставить узел перед затяжкой.
+Dwie śruby przez łapy z otworami fasolkowymi; otwory pozwalają ustawić oprawę przed dokręceniem.
+Két csavar a hosszlyukas talpakon át; a hosszlyukak meghúzás előtt lehetővé teszik a beállítást.
+Dos pernos por las patas ranuradas; las ranuras permiten alinear antes de apretar.
+
+#4939
+À quoi sert l'extérieur sphérique de l'insert ?
+Para que serve a parte externa esférica do inserto?
+轴承的外球面有什么作用？
+Для чего нужна сферическая наружная поверхность вставки?
+Do czego służy kulista powierzchnia zewnętrzna wkładki?
+Mire való a betét gömbös külseje?
+¿Para qué sirve el exterior esférico del inserto?
+
+#4940
+Il s'aligne tout seul dans le corps au montage
+Ele se autoalinha na caixa durante a montagem
+安装时可在座内自动调心
+Он самоустанавливается в корпусе при монтаже
+Samonastawia się w oprawie podczas montażu
+Szereléskor magától beáll a házban
+Se autoalinea en el soporte durante el montaje
+
+#4941
+Il contient plus de graisse
+Ele guarda mais graxa
+能容纳更多润滑脂
+Он вмещает больше смазки
+Mieści więcej smaru
+Több zsírt tart
+Contiene más grasa
+
+#4942
+Il permet au roulement de tourner plus vite
+Ele deixa o rolamento girar mais rápido
+能让轴承转得更快
+Он позволяет подшипнику вращаться быстрее
+Pozwala łożysku obracać się szybciej
+Gyorsabb fordulatot tesz lehetővé
+Permite que el rodamiento gire más rápido
+
+#4943
+Il empêche l'arbre de se déplacer axialement
+Ele impede o eixo de se mover axialmente
+能防止轴轴向窜动
+Он не даёт валу смещаться в осевом направлении
+Zapobiega przesuwaniu się wału osiowo
+Megakadályozza a tengely axiális elmozdulását
+Impide que el eje se mueva axialmente
+
+#4944
+L'arbre est rayé et poli sous l'insert. La cause est…
+O eixo está riscado e polido sob o inserto. A causa é…
+轴承下方的轴被划伤并磨亮。原因是…
+Вал под вставкой в задирах и отполирован. Причина…
+Wał pod wkładką jest porysowany i wypolerowany. Przyczyną jest…
+A tengely a betét alatt karcos és fényesre kopott. Az ok…
+El eje está rayado y pulido bajo el inserto. La causa es…
+
+#4945
+Les vis sans tête étaient desserrées et la bague intérieure a tourné
+Os parafusos sem cabeça estavam soltos e o anel interno girou
+紧定螺钉松了，内圈打滑转动
+Установочные винты ослабли, и внутреннее кольцо провернулось
+Wkręty były luźne i pierścień wewnętrzny się obracał
+A hernyócsavarok lazák voltak és a belső gyűrű elfordult
+Los prisioneros estaban flojos y el aro interior giró
+
+#4946
+Trop de graisse
+Graxa demais
+润滑脂过多
+Слишком много смазки
+Za dużo smaru
+Túl sok zsír
+Demasiada grasa
+
+#4947
+Le corps est en fonte
+A caixa é de ferro fundido
+轴承座是铸铁的
+Корпус чугунный
+Oprawa jest żeliwna
+A ház öntöttvas
+El soporte es de fundición
+
+#4948
+Roulement à aiguilles (douille HK 2516)
+Rolamento de agulhas (bucha estampada HK 2516)
+滚针轴承（冲压外圈 HK 2516）
+Игольчатый подшипник (штампованная гильза HK 2516)
+Łożysko igiełkowe (tulejka HK 2516)
+Tűgörgős csapágy (húzott hüvely HK 2516)
+Rodamiento de agujas (casquillo embutido HK 2516)
+
+#4949
+De longs rouleaux fins (aiguilles) donnent la plus grande capacité radiale pour la plus faible hauteur de section. Type douille : une fine coquille en tôle emboutie avec aiguilles et cage, roulant sur un arbre trempé ou une bague intérieure.
+Rolos longos e finos (agulhas) dão a maior capacidade radial com a menor altura de seção. Tipo bucha estampada: uma casca fina de aço estampado com agulhas e gaiola, rodando em eixo temperado ou anel interno.
+细长滚子（滚针）以最小的截面高度提供最高的径向承载能力。冲压外圈型：薄壁冲压钢外壳内装滚针和保持架，在淬硬轴或内圈上运转。
+Длинные тонкие ролики (иглы) дают наибольшую радиальную грузоподъёмность при наименьшей высоте сечения. Тип с гильзой: тонкая штампованная стальная гильза с иглами и сепаратором, работающая по закалённому валу или внутреннему кольцу.
+Długie, cienkie wałeczki (igiełki) dają największą nośność promieniową przy najmniejszej wysokości przekroju. Typ tulejkowy: cienka tłoczona tulejka stalowa z igiełkami i koszykiem, pracująca na hartowanym wale lub pierścieniu wewnętrznym.
+A hosszú, vékony görgők (tűk) adják a legnagyobb radiális teherbírást a legkisebb keresztmetszet-magasság mellett. Húzott hüvelyes típus: vékony sajtolt acélhüvely tűkkel és kosárral, edzett tengelyen vagy belső gyűrűn fut.
+Rodillos largos y finos (agujas) dan la mayor capacidad radial con la menor altura de sección. Tipo casquillo: una carcasa fina de acero embutido con agujas y jaula, que rueda sobre un eje templado o un aro interior.
+
+#4950
+Pignons fous et satellites, galets suiveurs sur les cames d'étuyeuses et de blistéreuses, culbuteurs, cardans, petites pompes à engrenages.
+Engrenagens intermediárias e planetárias, seguidores de came nas cames de encartuchadeiras e blistadeiras, balancins, juntas universais, pequenas bombas de engrenagem.
+惰轮和行星齿轮、装盒机和泡罩机凸轮上的凸轮从动件、摇臂、万向节、小型齿轮泵。
+Паразитные и сателлитные шестерни, кулачковые ролики на кулачках картонажных и блистерных машин, коромысла, карданные шарниры, небольшие шестерённые насосы.
+Koła pośrednie i satelity, rolki krzywkowe na krzywkach kartoniarek i blistrownic, dźwignie zaworowe, przeguby krzyżakowe, małe pompy zębate.
+Közbenső és bolygókerekek, követőgörgők kartonozó és buborékfóliázó gépek bütykein, himbák, kardáncsuklók, kis fogaskerékszivattyúk.
+Engranajes locos y planetarios, seguidores de leva en las levas de estuchadoras y blisteadoras, balancines, juntas cardán, pequeñas bombas de engranajes.
+
+#4951
+La fine douille est emmanchée dans le logement ; c'est l'alésage du logement qui lui donne sa rondeur finale. Ici le pignon tourne sur un axe fixe. Aucune capacité de charge axiale.
+A bucha fina é prensada no alojamento; o furo do alojamento dá sua forma redonda final. Aqui a engrenagem gira em um eixo fixo. Sem capacidade de carga axial.
+薄壁外圈压入座孔；座孔使其获得最终的圆度。这里齿轮绕固定轴转动。不能承受轴向载荷。
+Тонкая гильза запрессовывается в корпус; отверстие корпуса придаёт ей окончательную круглую форму. Здесь шестерня вращается на неподвижной оси. Осевую нагрузку не воспринимает.
+Cienka tulejka jest wciskana w obudowę; otwór obudowy nadaje jej ostateczny okrągły kształt. Tu koło obraca się na stałej osi. Brak nośności osiowej.
+A vékony hüvelyt a házba sajtolják; a ház furata adja meg végső kerek alakját. Itt a fogaskerék álló tengelyen forog. Axiális terhelést nem visel.
+El casquillo fino se monta a presión en el alojamiento; el agujero del alojamiento le da su redondez final. Aquí el engranaje gira sobre un eje fijo. Sin capacidad de carga axial.
+
+#4952
+Empreintes et écaillage sur le chemin de l'arbre, douille fissurée par coups de marteau ou mauvais outil de presse, aiguilles en travers, usure quand l'arbre n'est pas assez dur.
+Marcas e lascamento na pista do eixo, bucha trincada por martelada ou ferramenta de prensa errada, agulhas enviesadas, desgaste quando o eixo não é duro o suficiente.
+轴滚道上有压痕和剥落、锤击或压装工具不对导致外圈开裂、滚针歪斜、轴硬度不够造成磨损。
+Вмятины и выкрашивание на дорожке вала, треснувшая гильза от ударов молотком или неправильной оправки, перекос игл, износ при недостаточно твёрдом вале.
+Wgniecenia i łuszczenie na bieżni wału, pęknięta tulejka od młotka lub złego trzpienia, skośne igiełki, zużycie, gdy wał jest za mało twardy.
+Benyomódások és kipattogzás a tengely futópályáján, kalapácstól vagy rossz sajtolószerszámtól megrepedt hüvely, ferdén álló tűk, kopás, ha a tengely nem elég kemény.
+Marcas y descascarillado en la pista del eje, casquillo agrietado por martillazos o herramienta de prensa errónea, agujas torcidas, desgaste cuando el eje no es suficientemente duro.
+
+#4953
+Emmanchez avec un mandrin épaulé sur l'extrémité marquée (frappée), jamais au marteau. Le chemin de l'arbre doit être trempé (environ 58 HRC) et rectifié, sinon utilisez une bague intérieure.
+Prense com um mandril escalonado pela ponta marcada (estampada), nunca com martelo. A pista do eixo deve ser temperada (cerca de 58 HRC) e retificada, senão use um anel interno.
+用阶梯芯棒压在有标记（打印）的一端压入，绝不能锤击。轴滚道必须淬硬（约 58 HRC）并磨削，否则要用内圈。
+Запрессовывайте ступенчатой оправкой за маркированный (выбитый) торец, никогда молотком. Дорожка вала должна быть закалена (около 58 HRC) и шлифована, иначе используйте внутреннее кольцо.
+Wciskaj trzpieniem stopniowym od strony oznaczonej (wybitej), nigdy młotkiem. Bieżnia wału musi być hartowana (ok. 58 HRC) i szlifowana, inaczej użyj pierścienia wewnętrznego.
+Lépcsős tüskével a jelölt (beütött) végén sajtolja be, soha ne kalapáccsal. A tengely futópályája legyen edzett (kb. 58 HRC) és köszörült, különben használjon belső gyűrűt.
+Monte a presión con un mandril escalonado sobre el extremo marcado (estampado), nunca con martillo. La pista del eje debe estar templada (unos 58 HRC) y rectificada; si no, use un aro interior.
+
+#4954
+Pignon fou (logement)
+Engrenagem intermediária (alojamento)
+惰轮（座孔）
+Паразитная шестерня (корпус)
+Koło pośrednie (obudowa)
+Közbenső kerék (ház)
+Engranaje loco (alojamiento)
+
+#4955
+L'alésage du pignon sert de logement ; il doit être rond et dans la tolérance (N7) pour la douille.
+O furo da engrenagem é o alojamento; precisa ser redondo e na tolerância (N7) para a bucha.
+齿轮内孔即座孔；必须圆整且符合公差（N7）以装外圈。
+Отверстие шестерни служит корпусом; оно должно быть круглым и в допуске (N7) под гильзу.
+Otwór koła jest obudową; musi być okrągły i w tolerancji (N7) dla tulejki.
+A kerék furata a ház; kereknek és tűrésen belülinek (N7) kell lennie a hüvelyhez.
+El agujero del engranaje es el alojamiento; debe ser redondo y en tolerancia (N7) para el casquillo.
+
+#4956
+Douille emboutie (coquille extérieure)
+Bucha estampada (casca externa)
+冲压外圈（外壳）
+Штампованная гильза (наружная оболочка)
+Tulejka tłoczona (powłoka zewnętrzna)
+Húzott hüvely (külső héj)
+Casquillo embutido (carcasa exterior)
+
+#4957
+Fine coquille trempée avec des rebords intérieurs qui retiennent les aiguilles.
+Casca fina temperada com rebordos internos que seguram as agulhas.
+淬硬薄壁外壳，向内翻边挡住滚针。
+Тонкая закалённая оболочка с внутренними бортиками, удерживающими иглы.
+Cienka hartowana powłoka z wewnętrznymi obrzeżami, które trzymają igiełki.
+Vékony edzett héj befelé hajló peremekkel, amelyek bent tartják a tűket.
+Carcasa fina templada con rebordes interiores que retienen las agujas.
+
+#4958
+Cage
+Gaiola
+保持架
+Сепаратор
+Koszyk
+Kosár
+Jaula
+
+#4959
+Maintient les aiguilles parallèles à l'arbre pour qu'elles ne se mettent pas en travers.
+Mantém as agulhas paralelas ao eixo para que não enviesem.
+使滚针与轴保持平行，防止歪斜。
+Держит иглы параллельно валу, чтобы они не перекашивались.
+Utrzymuje igiełki równolegle do wału, aby się nie skręcały.
+A tűket a tengellyel párhuzamosan tartja, hogy ne álljanak ferdén.
+Mantiene las agujas paralelas al eje para que no se tuerzan.
+
+#4960
+Aiguilles
+Agulhas
+滚针
+Иглы
+Igiełki
+Tűgörgők
+Agujas
+
+#4961
+24 aiguilles Ø2.5 mm : contact linéaire sur toute la longueur.
+24 agulhas Ø2.5 mm: contato linear em todo o comprimento.
+24 根 Ø2.5 mm 滚针：全长线接触。
+24 иглы Ø2.5 mm: линейный контакт по всей длине.
+24 igiełki Ø2.5 mm: styk liniowy na całej długości.
+24 tű, Ø2.5 mm: vonalmenti érintkezés a teljes hosszon.
+24 agujas Ø2.5 mm: contacto lineal en toda la longitud.
+
+#4962
+Bague intérieure (IR 20x25x16)
+Anel interno (IR 20x25x16)
+内圈（IR 20x25x16）
+Внутреннее кольцо (IR 20x25x16)
+Pierścień wewnętrzny (IR 20x25x16)
+Belső gyűrű (IR 20x25x16)
+Aro interior (IR 20x25x16)
+
+#4963
+Chemin trempé et rectifié, utilisé quand l'arbre lui-même n'est pas trempé.
+Pista temperada e retificada, usada quando o próprio eixo não é temperado.
+淬硬磨削滚道，在轴本身未淬硬时使用。
+Закалённая шлифованная дорожка, применяется, когда сам вал не закалён.
+Hartowana, szlifowana bieżnia, stosowana, gdy sam wał nie jest hartowany.
+Edzett, köszörült futópálya, akkor használják, ha maga a tengely nem edzett.
+Pista templada y rectificada, se usa cuando el propio eje no está templado.
+
+#4964
+Axe fixe (Ø20 mm)
+Eixo fixo (Ø20 mm)
+固定轴（Ø20 mm）
+Неподвижная ось (Ø20 mm)
+Oś stała (Ø20 mm)
+Álló tengely (Ø20 mm)
+Eje fijo (Ø20 mm)
+
+#4965
+Axe fixe sur lequel tourne le pignon.
+Pino fixo em que a engrenagem gira.
+齿轮绕其转动的固定销轴。
+Неподвижный палец, на котором вращается шестерня.
+Nieruchomy sworzeń, na którym obraca się koło.
+Álló csap, amelyen a kerék forog.
+Pasador fijo sobre el que gira el engranaje.
+
+#4966
+Pourquoi choisir un roulement à aiguilles ?
+Por que escolher um rolamento de agulhas?
+为什么选用滚针轴承？
+Зачем выбирать игольчатый подшипник?
+Dlaczego wybrać łożysko igiełkowe?
+Miért válasszunk tűgörgős csapágyat?
+¿Por qué elegir un rodamiento de agujas?
+
+#4967
+Forte charge radiale dans très peu d'espace radial
+Alta carga radial com muito pouco espaço radial
+径向空间很小却能承受大径向载荷
+Большая радиальная нагрузка при очень малом радиальном пространстве
+Duże obciążenie promieniowe przy bardzo małej przestrzeni promieniowej
+Nagy radiális terhelés nagyon kis radiális helyen
+Alta carga radial con muy poco espacio radial
+
+#4968
+Il supporte une forte charge axiale
+Ele suporta carga axial pesada
+能承受很大的轴向载荷
+Он несёт большую осевую нагрузку
+Przenosi duże obciążenie osiowe
+Nagy axiális terhelést visel
+Soporta mucha carga axial
+
+#4969
+Il n'a pas besoin de chemin trempé
+Não precisa de pista temperada
+不需要淬硬滚道
+Ему не нужна закалённая дорожка
+Nie wymaga hartowanej bieżni
+Nem kell hozzá edzett futópálya
+No necesita pista templada
+
+#4970
+Il s'aligne tout seul
+Ele se autoalinha
+能自动调心
+Он самоустанавливается
+Jest samonastawne
+Önbeálló
+Se autoalinea
+
+#4971
+Comment monte-t-on un roulement à aiguilles à douille ?
+Como se monta um rolamento de agulhas de bucha estampada?
+冲压外圈滚针轴承如何安装？
+Как устанавливают игольчатый подшипник со штампованной гильзой?
+Jak montuje się łożysko igiełkowe z tulejką tłoczoną?
+Hogyan szerelünk be egy húzott hüvelyes tűgörgős csapágyat?
+¿Cómo se monta un rodamiento de agujas de casquillo embutido?
+
+#4972
+L'emmancher avec un mandrin sur l'extrémité marquée
+Prensar com um mandril pela ponta marcada
+用芯棒压在有标记的一端压入
+Запрессовать оправкой за маркированный торец
+Wcisnąć trzpieniem od strony oznaczonej
+Tüskével a jelölt végén besajtolni
+Montarlo a presión con un mandril sobre el extremo marcado
+
+#4973
+L'enfoncer au marteau sur la cage
+Martelar pela gaiola
+锤击保持架敲入
+Забить молотком за сепаратор
+Wbić młotkiem przez koszyk
+Kalapáccsal a kosáron át beütni
+Meterlo a martillazos sobre la jaula
+
+#4974
+Chauffer la douille au chalumeau
+Aquecer a bucha com maçarico
+用火焰枪加热外圈
+Нагреть гильзу горелкой
+Podgrzać tulejkę palnikiem
+A hüvelyt lánggal melegíteni
+Calentar el casquillo con soplete
+
+#4975
+Le coller en place
+Colar no lugar
+用胶粘住
+Вклеить на место
+Wkleić na miejsce
+Beragasztani
+Pegarlo en su sitio

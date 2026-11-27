@@ -136,6 +136,8 @@
       h('p', { text: T(['Build a whole system and run it: wire the panel, lay out the process with tanks, pumps, valves and pipes, and program the PLC in ladder. Then measure it, break it and find the fault.', 'ابني سيستم كامل وشغّله: وصّل اللوحة، وارسم العملية بالتانكات والطلمبات والمحابس والمواسير، وبرمج الـPLC لادر. وبعدين قيس وبوّظ ودوّر على العطل.']) }),
       h('div', { class: 'row wrap' },
         h('button', { class: 'btn pri', onclick: () => PJ.openEmpty(), text: '+ ' + T(['Start an empty project', 'ابدأ مشروع فاضي']) }),
+        h('button', { class: 'btn', onclick: () => { PJ.openEmpty(); ui.toast(['Water station from zero: drag units from the list (supply, break tank, pumps, filters, RO, UV, tanks) and join them with pipes. Press Test to run.', 'محطة مية من الصفر: اسحب الوحدات من القايمة (مصدر، بريك تانك، طلمبات، فلاتر، RO، UV، تانكات) ووصّلها بمواسير. دوس اختبار عشان تشغّل.'], 'info', 9000); }, text: '💧 ' + T(['Build a water station from zero', 'ابني محطة مية من الصفر']) }),
+        h('button', { class: 'btn', onclick: () => { if (EL.mechUI && EL.mechUI.openBuild) EL.mechUI.openBuild('pump'); }, text: '⚙️ ' + T(['Build a mechanical skid', 'ابني شاسيه ميكانيكا']) }),
         h('button', { class: 'btn', onclick: () => { if (isReady(B().ed.c)) PJ.home(true); ui.show('bench'); }, text: T(['Go to the bench', 'روح للمعمل']) }))));
     { let last = null; try { const s = lsg(LAST); if (s) last = EL.deserialize(s); } catch (e) {}
       const cur = B().ed.c, open = isReady(cur) ? cur : null, P = open ? PJ.map[open.proj.id] : last && isReady(last) ? PJ.map[last.proj.id] : null;

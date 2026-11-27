@@ -6,11 +6,11 @@
   const B = (EL.bench = { ed: null, speed: 1, paused: false, simTime: 0 });
 
   /* ---------- palette ---------- */
-  function previewSvg(type) {
+  function previewSvg(type, ed0) {
     const d = EL.defs[type], p = EL.newPart(type, 0, 0);
     const s = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
     s.setAttribute('viewBox', `-6 -6 ${d.w + 12} ${d.h + 12}`);
-    try { s.innerHTML = d.draw(p); } catch (e) { s.innerHTML = ''; }
+    try { const rf = B.ed && B.ed.real && ed0 !== 'pcb' && EL.real && EL.real[type]; s.innerHTML = rf ? rf(p, d) : d.draw(p); } catch (e) { s.innerHTML = ''; }
     return s;
   }
   function buildPalette(root, ed, q, onAdd) {
@@ -26,7 +26,7 @@
       const head = h('div', { class: 'pgh', onclick: () => { items.style.display = items.style.display === 'none' ? '' : 'none'; } }, h('span', { text: T(nm) }), h('span', { text: '▾' }));
       for (const k of shown) {
         const d = EL.defs[k];
-        const it = h('div', { class: 'pit', title: T(d.name) }, previewSvg(k), h('span', { text: T(d.name) }));
+        const it = h('div', { class: 'pit', title: T(d.name) }, previewSvg(k, ed.kind), h('span', { text: T(d.name) }));
         it.addEventListener('pointerdown', (e) => paletteDrag(e, k, d, ed, onAdd));
         items.appendChild(it);
       }
@@ -244,6 +244,31 @@
   };
   function fmtT(s) { const m = Math.floor(s / 60); return (m ? m + 'm ' : '') + (s % 60).toFixed(0) + 's'; }
 
+  /* Display options: real look or symbols, phase colours, auto-wire of phases, panel parts */
+  B.lookMenu = function () {
+    const ed = B.ed, get = (k, d) => { try { const v = localStorage.getItem(k); return v == null ? d : v; } catch (e) { return d; } }, set = (k, v) => { try { localStorage.setItem(k, v); } catch (e) {} };
+    const opt = (title, key, cur, list, apply) => h('div', { class: 'lk-row' }, h('b', { text: T(title) }), h('div', { class: 'seg' }, list.map(([v, n]) => h('button', { type: 'button', class: 'btn' + (cur === v ? ' on' : ''), text: T(n), onclick: (e) => { set(key, v); for (const b of e.currentTarget.parentNode.children) b.classList.toggle('on', b === e.currentTarget); apply(v); } }))));
+    const m = ui.modal(h('div', { class: 'lk' }, h('h3', { text: T(['View options', 'العرض']) }),
+      opt(['Look of the devices', 'شكل الأجهزة'], 'ellab.real', ed.real ? '1' : '0', [['1', ['Real look', 'شكل حقيقي']], ['0', ['Symbols', 'رموز']]], (v) => { ed.real = v === '1'; ed.render(); B.rebuildPalette && B.rebuildPalette(); }),
+      opt(['Phase wire colours', 'ألوان أسلاك الفازات'], 'ellab.phcol', get('ellab.phcol', 'iec'), [['iec', ['Brown Black Grey (IEC)', 'بني أسود رمادي (IEC)']], ['ryb', ['Red Yellow Blue', 'أحمر أصفر أزرق']]], () => { ed.render(); B.rebuildPalette && B.rebuildPalette(); }),
+      opt(['After wiring one phase', 'بعد ما تربط فاز واحد'], 'ellab.autoPhase', get('ellab.autoPhase', 'on'), [['on', ['Offer the other phases', 'اقترح باقي الفازات']], ['off', ['Do not ask', 'متسألش']]], () => {}),
+      h('p', { class: 'mute', text: T(['Wires: drag from one terminal to another, or tap a terminal then tap the second one. Both work.', 'الأسلاك: اسحب من طرف لطرف، أو اضغط على طرف وبعدين على التاني. الاتنين شغالين.']) }),
+      h('p', { class: 'mute', text: T(['Panel building: add a Mounting plate, DIN rails and Wire ducts from the parts list (Drawing group). Devices dropped near a rail clip onto it.', 'تجميع اللوحة: ضيف ضهر لوحة وريلات DIN ومجاري أسلاك من قايمة الأجهزة (مجموعة الرسم). أي جهاز تحطه جنب الريل بيتركّب عليه.']) }),
+      h('button', { type: 'button', class: 'btn pri', text: T(['Build a sample panel on rails', 'اعمل لوحة مثال على الريلات']), onclick: () => { m.remove(); B.sampleRails(); } })));
+  };
+  B.sampleRails = function () {
+    const ed = B.ed; if (ed.c.parts.length && !confirm(T(['Replace the drawing with a sample panel on DIN rails?', 'أبدّل الرسمة بلوحة مثال على ريلات DIN؟']))) return;
+    ed.push(); ed.c.parts = []; ed.c.wires = [];
+    const add = (t, x, y, pr) => EL.addPart(ed.c, t, x, y, pr);
+    add('PLATE', 0, 0); add('DUCTH', 40, 40); add('RAIL60', 40, 150); add('DUCTH', 40, 300); add('RAIL60', 40, 380); add('DUCTH', 40, 530 - 60);
+    const g = add('SRC3', 60, -120);
+    const q = add('MCB3', 60, 112), k = add('CONT3', 200, 57), f = add('OL', 470, 92);
+    const sb1 = add('PB_NC', 60, 347), sb2 = add('PB_NO', 140, 347), hl = add('LAMP', 220, 352), t = add('TERM8', 320, 357), m = add('MOT3', 300, 620);
+    for (const p of [q, k, f, sb1, sb2, hl, t]) ed.snapRail(p);
+    g.tag = 'G1'; q.tag = 'QF1'; k.tag = 'KM1'; f.tag = 'FR1'; sb1.tag = 'SB1'; sb2.tag = 'SB2'; hl.tag = 'HL1'; t.tag = 'X1'; m.tag = 'M1';
+    ed.select(null); ed.render(); ed.changed(); ed.fit();
+    ui.toast(['Sample panel: wire G1 to QF1 (try the auto phase offer), then QF1 to KM1, KM1 to FR1, FR1 to the motor.', 'لوحة مثال: اربط G1 بالـQF1 (جرّب اقتراح باقي الفازات)، وبعدين QF1 بالـKM1، والـKM1 بالـFR1، والـFR1 بالموتور.'], 'info', 9000);
+  };
   B.init = function () {
     const host = $('#benchHost');
     const ed = (B.ed = EL.makeEditor(host, {
@@ -254,6 +279,7 @@
     }));
     // palette
     const pl = $('#plist'), search = $('#psearch');
+    try { ed.real = localStorage.getItem('ellab.real') !== '0'; } catch (e) { ed.real = true; }
     const rebuild = () => {
       if (B.view === 'plant' && ui.plant) return ui.plant.palette(pl, search.value);
       if (B.view === 'line' && ui.line) return ui.line.palette(pl, search.value);
@@ -274,6 +300,7 @@
     $('#btnTpl').addEventListener('click', () => B.templatesDialog());
     $('#btnFile').addEventListener('click', () => B.fileDialog());
     $('#btnClear').addEventListener('click', () => B.clearAll());
+    $('#btnLook').addEventListener('click', () => B.lookMenu());
     $('#btnMute').addEventListener('click', (e) => { ui.muted = !ui.muted; e.currentTarget.classList.toggle('on', ui.muted); if (ui.muted) ui.beep(false); });
     // side tabs
     for (const b of ui.$$('#stabs .stab')) b.addEventListener('click', () => B.pane(b.dataset.p));

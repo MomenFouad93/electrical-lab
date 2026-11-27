@@ -1,0 +1,1385 @@
+#5946
+Clé mixte (17 mm)
+Chave combinada (17 mm)
+两用扳手（17 mm）
+Комбинированный ключ (17 mm)
+Klucz płasko-oczkowy (17 mm)
+Csillag-villáskulcs (17 mm)
+Llave combinada (17 mm)
+
+#5947
+Une clé avec un côté plat (fourche) et un côté polygonal 12 pans de même taille. La taille (17 mm) est la cote sur plats de l'écrou.
+Uma chave com um lado boca e um lado estrela de 12 pontas do mesmo tamanho. O tamanho (17 mm) é a medida entre faces da porca.
+一把扳手，一端开口，另一端为同尺寸的 12 角梅花。尺寸（17 mm）是螺母的对边宽度。
+Один ключ с рожковой и 12-гранной накидной частью одного размера. Размер (17 mm) — это размер гайки под ключ (между гранями).
+Jeden klucz z końcówką płaską i 12-kątną końcówką oczkową tego samego rozmiaru. Rozmiar (17 mm) to szerokość nakrętki między płaszczyznami (rozmiar pod klucz).
+Egy kulcs villás véggel és azonos méretű 12 pontos csillag véggel. A méret (17 mm) az anya laptávolsága (kulcsnyílás).
+Una llave con un lado de boca y un lado de estrella de 12 puntas del mismo tamaño. El tamaño (17 mm) es la medida entre caras de la tuerca.
+
+#5948
+Serrage courant sur les machines, socles de pompes, pattes de moteurs, brides de tuyauterie et carters de protection dans toutes les zones du site.
+Aparafusamento do dia a dia em máquinas, bases de bombas, pés de motores, flanges de tubulação e proteções em todas as áreas da fábrica.
+全厂各区域的日常紧固：机器、泵底座、电机地脚、管道法兰和防护罩。
+Повседневная затяжка болтов на машинах, основаниях насосов, лапах двигателей, фланцах трубопроводов и ограждениях во всех зонах завода.
+Codzienne skręcanie na maszynach, podstawach pomp, łapach silników, kołnierzach rur i osłonach we wszystkich strefach zakładu.
+Napi csavarozás gépeken, szivattyúalapokon, motorlábakon, csőkarimákon és védőburkolatokon az üzem minden területén.
+Apriete diario en máquinas, bases de bombas, patas de motores, bridas de tubería y protecciones en todas las áreas de la planta.
+
+#5949
+Le côté polygonal prend les six angles : utilisez-le pour le serrage final et pour débloquer les boulons serrés. Le côté plat est décalé de 15° : retournez la clé pour continuer à tourner dans les espaces étroits.
+O lado estrela pega os seis cantos, então use-o para o aperto final e para soltar parafusos presos. O lado boca tem inclinação de 15° para você virar a chave e continuar girando em espaços apertados.
+梅花端卡住全部六个角，因此用于最终拧紧和松开很紧的螺栓。开口端偏 15°，在狭窄空间可翻面继续转动。
+Накидная часть охватывает все шесть углов, поэтому используйте её для окончательной затяжки и срыва тугих болтов. Рожок смещён на 15°: переверните ключ и продолжайте вращать в тесных местах.
+Końcówka oczkowa obejmuje wszystkie sześć narożników, więc używaj jej do końcowego dokręcania i luzowania mocno dokręconych śrub. Końcówka płaska jest odgięta o 15°, więc możesz ją obrócić i kręcić dalej w ciasnych miejscach.
+A csillag vég mind a hat sarkot megfogja, ezért ezt használja a végső meghúzáshoz és a szoros csavarok kilazításához. A villás vég 15°-ban el van fordítva, így szűk helyen átfordítva tovább lehet hajtani.
+El lado de estrella agarra las seis esquinas, así que úselo para el apriete final y para aflojar pernos muy apretados. La boca está desviada 15° para que pueda darle la vuelta y seguir girando en espacios reducidos.
+
+#5950
+Les mâchoires ouvertes s'écartent en cas de mauvais usage et arrondissent les angles des écrous ; un œil fissuré ou usé glisse sous effort et blesse les mains.
+A boca abre com o mau uso e arredonda os cantos da porca; uma estrela trincada ou gasta escorrega sob carga e machuca as mãos.
+开口钳口被滥用会张开并把螺母棱角拧圆；开裂或磨损的梅花端受力时会打滑伤手。
+Рожок от неправильного использования разжимается и скругляет углы гаек; треснувшая или изношенная накидная часть срывается под нагрузкой и травмирует руки.
+Szczęki płaskie rozginają się przy złym użytkowaniu i zaokrąglają narożniki nakrętek; pęknięte lub zużyte oczko ślizga się pod obciążeniem i rani dłonie.
+A villás pofák helytelen használattól szétnyílnak és lekerekítik az anya sarkait; a repedt vagy kopott csillag terhelés alatt lecsúszik és kézsérülést okoz.
+La boca se abre por mal uso y redondea las esquinas de la tuerca; una estrella agrietada o desgastada resbala bajo carga y lastima las manos.
+
+#5951
+Tirez la clé, ne la poussez pas. N'ajoutez jamais de rallonge en tube et ne frappez jamais dessus. Remplacez-la si les mâchoires sont écartées ou si l'œil est usé.
+Puxe a chave, não empurre. Nunca coloque um tubo de extensão nem bata nela com martelo. Substitua-a se a boca estiver aberta ou a estrela gasta.
+扳手要拉，不要推。切勿加套管加长或用锤敲击。钳口张开或梅花端磨损时应更换。
+Тяните ключ на себя, не толкайте. Никогда не надевайте удлинитель из трубы и не бейте по ключу молотком. Замените ключ, если рожок разжат или накидная часть изношена.
+Ciągnij klucz, nie pchaj go. Nigdy nie przedłużaj go rurą i nie uderzaj w niego młotkiem. Wymień go, jeśli szczęki są rozgięte lub oczko zużyte.
+A kulcsot húzza, ne tolja. Soha ne toldja meg csővel és ne üsse kalapáccsal. Cserélje ki, ha a pofák szétnyíltak vagy a csillag kopott.
+Tire de la llave, no la empuje. Nunca le ponga un tubo de extensión ni la golpee con un martillo. Sustitúyala si la boca está abierta o la estrella está desgastada.
+
+#5952
+Plaque d'acier (pièce)
+Chapa de aço (peça)
+钢板（工件）
+Стальная пластина (деталь)
+Płyta stalowa (element obrabiany)
+Acéllemez (munkadarab)
+Placa de acero (pieza)
+
+#5953
+L'assemblage à boulonner.
+A junta sendo aparafusada.
+正在紧固的连接件。
+Соединение, которое затягивают болтами.
+Skręcane połączenie.
+A csavarozott kötés.
+La unión que se está atornillando.
+
+#5954
+Tête de vis hexagonale 17 mm
+Cabeça de parafuso sextavado 17 mm
+六角螺栓头 17 mm
+Головка шестигранного болта 17 mm
+Łeb śruby sześciokątnej 17 mm
+Hatlapfejű csavar feje 17 mm
+Cabeza de perno hexagonal 17 mm
+
+#5955
+17 mm sur plats : la taille à laquelle la clé doit correspondre.
+17 mm entre faces: o tamanho que a chave deve ter.
+对边 17 mm：扳手必须与此尺寸相符。
+17 mm под ключ: этому размеру должен соответствовать ключ.
+17 mm pod klucz: rozmiar, do którego musi pasować klucz.
+17 mm laptávolság: ehhez a mérethez kell illenie a kulcsnak.
+17 mm entre caras: el tamaño que debe tener la llave.
+
+#5956
+Côté polygonal (12 pans)
+Lado estrela (12 pontas)
+梅花端（12 角）
+Накидная часть (12 граней)
+Końcówka oczkowa (12-kątna)
+Csillag vég (12 pontos)
+Lado de estrella (12 puntas)
+
+#5957
+Œil fermé qui prend les angles de l'écrou : pas de glissement, pour le couple final.
+Anel fechado que pega os cantos da porca: não escorrega, para o torque final.
+封闭的梅花圈卡住螺母棱角：不打滑，用于最终拧紧扭矩。
+Замкнутое кольцо охватывает углы гайки: не срывается, для окончательного момента затяжки.
+Zamknięte oczko obejmuje narożniki nakrętki: nie ślizga się, do końcowego momentu.
+Zárt csillag, amely az anya sarkait fogja: nem csúszik le, a végső nyomatékhoz.
+Anillo cerrado que agarra las esquinas de la tuerca: no resbala, para el par final.
+
+#5958
+Corps (section en I)
+Haste (perfil em I)
+柄身（工字截面）
+Стержень (двутавровое сечение)
+Trzon (przekrój dwuteowy)
+Szár (I-szelvény)
+Cuerpo (sección en I)
+
+#5959
+Manche forgé en profil I : rigide mais léger. La taille y est gravée.
+Cabo forjado em perfil I: rígido, mas leve. O tamanho vem gravado nele.
+锻造工字梁手柄：刚性好且轻。尺寸打印在上面。
+Кованая рукоятка двутаврового профиля: жёсткая, но лёгкая. Размер выбит на ней.
+Kuty uchwyt o profilu dwuteowym: sztywny, ale lekki. Rozmiar jest na nim wybity.
+Kovácsolt I-profilú nyél: merev, mégis könnyű. A méret bele van ütve.
+Mango forjado en perfil I: rígido pero ligero. El tamaño va grabado en él.
+
+#5960
+Côté plat (décalé de 15°)
+Lado boca (inclinado 15°)
+开口端（偏 15°）
+Рожковая часть (смещение 15°)
+Końcówka płaska (odgięta o 15°)
+Villás vég (15°-os elfordítás)
+Lado de boca (desviado 15°)
+
+#5961
+Les mâchoires prennent deux plats. Rapide à engager, mais moins solide que l'œil.
+A boca pega duas faces. Encaixa rápido, mas é mais fraca que a estrela.
+钳口只卡两个平面。套上快，但不如梅花端牢。
+Губки охватывают две грани. Быстро надевается, но слабее накидной части.
+Szczęki obejmują dwie płaszczyzny. Szybko się zakłada, ale jest słabsza niż oczko.
+A pofák két lapot fognak. Gyorsan ráhúzható, de gyengébb a csillagnál.
+La boca agarra dos caras. Se coloca rápido, pero es más débil que la estrella.
+
+#5962
+Quel côté utilisez-vous pour débloquer un boulon très serré ?
+Qual lado você usa para soltar um parafuso muito apertado?
+松开很紧的螺栓用哪一端？
+Какой частью ключа срывать очень тугой болт?
+Której końcówki używasz do poluzowania bardzo mocno dokręconej śruby?
+Melyik véggel lazít meg egy nagyon szoros csavart?
+¿Qué lado usa para aflojar un perno muy apretado?
+
+#5963
+Le côté polygonal
+O lado estrela
+梅花端
+Накидной частью
+Końcówki oczkowej
+A csillag véggel
+El lado de estrella
+
+#5964
+Le côté plat
+O lado boca
+开口端
+Рожковой частью
+Końcówki płaskiej
+A villás véggel
+El lado de boca
+
+#5965
+N'importe lequel, avec une rallonge en tube
+Qualquer um, com um tubo de extensão
+哪端都行，加套管
+Любой, с удлинителем из трубы
+Dowolnej, przedłużonej rurą
+Bármelyikkel, csőtoldattal
+Cualquiera, con un tubo de extensión
+
+#5966
+Le côté plat avec un marteau
+O lado boca com um martelo
+开口端加锤敲
+Рожковой частью с молотком
+Końcówki płaskiej z młotkiem
+A villás véggel, kalapáccsal
+El lado de boca con un martillo
+
+#5967
+Que signifie « 17 mm » sur la clé ?
+O que significa "17 mm" na chave?
+扳手上的“17 mm”是什么意思？
+Что означает «17 mm» на ключе?
+Co oznacza „17 mm” na kluczu?
+Mit jelent a kulcson a „17 mm”?
+¿Qué significa «17 mm» en la llave?
+
+#5968
+La cote sur plats de l'écrou
+A medida entre faces da porca
+螺母的对边宽度
+Размер гайки между гранями (под ключ)
+Szerokość nakrętki między płaszczyznami
+Az anya laptávolsága
+La medida entre caras de la tuerca
+
+#5969
+Le diamètre du filetage de la vis
+O diâmetro da rosca do parafuso
+螺栓螺纹直径
+Диаметр резьбы болта
+Średnica gwintu śruby
+A csavar menetátmérője
+El diámetro de la rosca del perno
+
+#5970
+La longueur de la vis
+O comprimento do parafuso
+螺栓长度
+Длина болта
+Długość śruby
+A csavar hossza
+La longitud del perno
+
+#5971
+Le pas du filetage
+O passo da rosca
+螺距
+Шаг резьбы
+Skok gwintu
+Menetemelkedés
+El paso de rosca
+
+#5972
+Clé à molette (250 mm)
+Chave ajustável (250 mm)
+活动扳手（250 mm）
+Разводной ключ (250 mm)
+Klucz nastawny (250 mm)
+Állítható csavarkulcs (250 mm)
+Llave ajustable (250 mm)
+
+#5973
+Clé avec une mâchoire fixe et une mâchoire mobile. Une vis sans fin dans la tête déplace la mâchoire par une crémaillère.
+Chave com uma mandíbula fixa e uma móvel. Uma rosca sem-fim na cabeça move a mandíbula por uma cremalheira.
+一个固定钳口和一个活动钳口的扳手。头部的蜗杆通过齿条带动活动钳口。
+Ключ с одной неподвижной и одной подвижной губкой. Червяк в головке перемещает губку через рейку.
+Klucz z jedną szczęką stałą i jedną przesuwną. Ślimak w głowicy przesuwa szczękę przez zębatkę.
+Kulcs egy fix és egy mozgó pofával. A fejben lévő csiga fogaslécen keresztül mozgatja a pofát.
+Llave con una mordaza fija y una móvil. Un tornillo sinfín en la cabeza mueve la mordaza mediante una cremallera.
+
+#5974
+Tailles inhabituelles, raccords en pouces et dépannages quand la bonne clé n'est pas là : utilités, plomberie, raccords de la station d'eau.
+Tamanhos fora do padrão, conexões em polegadas e serviços de emergência quando a chave certa não está à mão: utilidades, hidráulica, conexões da estação de água.
+非标尺寸、英制管件以及手边没有合适扳手时的应急作业：公用工程、管道、水站接头。
+Нестандартные размеры, дюймовые фитинги и аварийные работы, когда нужного ключа нет под рукой: инженерные системы, сантехника, фитинги водоподготовки.
+Nietypowe rozmiary, złączki calowe i prace awaryjne, gdy nie ma właściwego klucza: media, hydraulika, złączki stacji wody.
+Szokatlan méretek, coll-os szerelvények és sürgős munkák, amikor nincs kéznél a megfelelő kulcs: közművek, vízszerelés, a vízállomás csatlakozói.
+Tamaños poco comunes, racores en pulgadas y trabajos de emergencia cuando no está la llave correcta: servicios, fontanería, racores de la estación de agua.
+
+#5975
+Tournez la molette avec le pouce jusqu'à ce que les deux mâchoires touchent les plats sans jeu. Tournez de façon que l'effort porte sur la mâchoire fixe, pas sur la mobile.
+Gire a rosca sem-fim com o polegar até as duas mandíbulas encostarem nas faces sem folga. Gire de modo que a força vá para a mandíbula fixa, não para a móvel.
+用拇指拨动蜗杆，直到两个钳口贴紧平面且无间隙。转动方向要让力作用在固定钳口上，而不是活动钳口。
+Вращайте червяк большим пальцем, пока обе губки не прилягут к граням без люфта. Поворачивайте так, чтобы усилие шло на неподвижную губку, а не на подвижную.
+Kręć ślimakiem kciukiem, aż obie szczęki dotkną płaszczyzn bez luzu. Obracaj tak, aby siła szła na szczękę stałą, a nie ruchomą.
+Hüvelykujjal forgassa a csigát, amíg mindkét pofa holtjáték nélkül fel nem fekszik a lapokra. Úgy forgasson, hogy az erő a fix pofára jusson, ne a mozgóra.
+Gire el sinfín con el pulgar hasta que ambas mordazas toquen las caras sin holgura. Gire de forma que la fuerza vaya a la mordaza fija, no a la móvil.
+
+#5976
+Une crémaillère ou une vis sans fin usée laisse la mâchoire s'ouvrir sous effort et l'écrou s'arrondit ; une mâchoire tordue ne se ferme plus parallèle.
+Cremalheira ou rosca sem-fim gasta deixa a mandíbula abrir sob carga e a porca espana; uma mandíbula torta não fecha paralela.
+齿条或蜗杆磨损会使钳口受力张开，螺母被拧圆；钳口弯曲则无法平行闭合。
+Изношенная рейка или червяк позволяют губке раскрываться под нагрузкой, и гайка скругляется; погнутая губка не сходится параллельно.
+Zużyta zębatka lub ślimak pozwala szczęce otwierać się pod obciążeniem i nakrętka się zaokrągla; wygięta szczęka nie zamyka się równolegle.
+Kopott fogasléc vagy csiga miatt a pofa terhelés alatt kinyílik, az anya lekerekedik; a hajlott pofa nem zár párhuzamosan.
+Una cremallera o sinfín desgastado deja que la mordaza se abra bajo carga y la tuerca se redondea; una mordaza doblada no cierra paralela.
+
+#5977
+Gardez la vis sans fin propre et légèrement huilée. Vérifiez le jeu de la mâchoire avant usage. Ne l'utilisez pas comme marteau ni sur des boulons très serrés.
+Mantenha a rosca sem-fim limpa e levemente lubrificada. Verifique a folga da mandíbula antes do uso. Não use como martelo nem em parafusos muito apertados.
+保持蜗杆清洁并略加润滑油。使用前检查钳口间隙。不要当锤子用，也不要用于很紧的螺栓。
+Держите червяк чистым и слегка смазанным. Перед работой проверяйте люфт губки. Не используйте ключ как молоток и на очень тугих болтах.
+Utrzymuj ślimak w czystości i lekko naoliwiony. Przed użyciem sprawdź luz szczęki. Nie używaj go jako młotka ani do bardzo mocno dokręconych śrub.
+Tartsa a csigát tisztán és enyhén olajozva. Használat előtt ellenőrizze a pofa holtjátékát. Ne használja kalapácsnak vagy nagyon szoros csavarokra.
+Mantenga el sinfín limpio y ligeramente aceitado. Compruebe la holgura de la mordaza antes de usarla. No la use como martillo ni en pernos muy apretados.
+
+#5978
+Corps avec mâchoire fixe
+Corpo com mandíbula fixa
+带固定钳口的本体
+Корпус с неподвижной губкой
+Korpus ze szczęką stałą
+Test fix pofával
+Cuerpo con mordaza fija
+
+#5979
+Manche, tête et mâchoire fixe forgés d'une seule pièce. La tête comporte la glissière de la mâchoire et la fenêtre de la molette.
+Cabo, cabeça e mandíbula fixa forjados em uma só peça. A cabeça tem o rasgo da mandíbula e a janela da rosca sem-fim.
+手柄、头部和固定钳口一体锻造。头部有钳口滑槽和蜗杆窗口。
+Рукоятка, головка и неподвижная губка откованы как одно целое. В головке есть паз для губки и окно для червяка.
+Uchwyt, głowica i szczęka stała odkute w jednym kawałku. Głowica ma prowadnicę szczęki i okno ślimaka.
+Nyél, fej és fix pofa egy darabból kovácsolva. A fejben van a pofa vezetőhornya és a csiga ablaka.
+Mango, cabeza y mordaza fija forjados en una sola pieza. La cabeza tiene la ranura de la mordaza y la ventana del sinfín.
+
+#5980
+Axe de la vis sans fin
+Pino do eixo da rosca sem-fim
+蜗杆轴销
+Ось червяка
+Sworzeń osi ślimaka
+Csigatengely-csap
+Pasador del eje del sinfín
+
+#5981
+Goupille emmanchée sur laquelle tourne la vis sans fin.
+Pino prensado em que a rosca sem-fim gira.
+压入的销轴，蜗杆绕其转动。
+Запрессованный штифт, на котором вращается червяк.
+Wciśnięty sworzeń, na którym obraca się ślimak.
+Besajtolt csap, amelyen a csiga forog.
+Pasador prensado sobre el que gira el sinfín.
+
+#5982
+Ressort de la vis sans fin
+Mola da rosca sem-fim
+蜗杆弹簧
+Пружина червяка
+Sprężyna ślimaka
+Csigarugó
+Muelle del sinfín
+
+#5983
+Petit ressort dans la vis sans fin : l'empêche de vibrer et maintient le réglage.
+Pequena mola dentro da rosca sem-fim: evita que ela chacoalhe e mantém o ajuste.
+蜗杆内的小弹簧：防止其晃动并保持开口设定。
+Маленькая пружина внутри червяка: не даёт ему болтаться и держит настройку.
+Mała sprężyna wewnątrz ślimaka: zapobiega grzechotaniu i utrzymuje ustawienie.
+Kis rugó a csigában: megakadályozza a zörgést és megtartja a beállítást.
+Pequeño muelle dentro del sinfín: evita que vibre y mantiene el ajuste.
+
+#5984
+Vis sans fin (moletée)
+Rosca sem-fim (recartilhada)
+蜗杆（滚花）
+Червяк (с накаткой)
+Ślimak (radełkowany)
+Csiga (recézett)
+Tornillo sinfín (moleteado)
+
+#5985
+Vis tournée au pouce ; son filet engrène avec la crémaillère de la mâchoire.
+Rosca girada com o polegar; seu filete engrena na cremalheira da mandíbula.
+用拇指拨动的螺杆；其螺纹与钳口上的齿条啮合。
+Винт, вращаемый большим пальцем; его резьба зацепляется с рейкой губки.
+Śruba obracana kciukiem; jej gwint zazębia się z zębatką szczęki.
+Hüvelykujjal forgatott csavar; menete a pofa fogaslécébe kapcsolódik.
+Tornillo que se gira con el pulgar; su rosca engrana con la cremallera de la mordaza.
+
+#5986
+Mâchoire mobile à crémaillère
+Mandíbula móvel com cremalheira
+带齿条的活动钳口
+Подвижная губка с рейкой
+Szczęka przesuwna z zębatką
+Mozgó pofa fogasléccel
+Mordaza móvil con cremallera
+
+#5987
+Mâchoire sur une tige qui coulisse dans la tête ; les dents de crémaillère de la tige sont entraînées par la vis sans fin.
+Mandíbula em uma haste que desliza na cabeça; os dentes da cremalheira na haste são movidos pela rosca sem-fim.
+钳口连在可在头部滑动的滑杆上；滑杆上的齿条齿由蜗杆带动。
+Губка на хвостовике, скользящем в головке; зубья рейки на хвостовике перемещает червяк.
+Szczęka na trzpieniu przesuwającym się w głowicy; zęby zębatki na trzpieniu przesuwa ślimak.
+Pofa egy száron, amely a fejben csúszik; a szár fogaslécfogait a csiga mozgatja.
+Mordaza en un vástago que se desliza en la cabeza; el sinfín mueve los dientes de la cremallera del vástago.
+
+#5988
+Écrou 17 mm (pièce)
+Porca 17 mm (peça)
+螺母 17 mm（工件）
+Гайка 17 mm (деталь)
+Nakrętka 17 mm (element obrabiany)
+Anya 17 mm (munkadarab)
+Tuerca 17 mm (pieza)
+
+#5989
+Les mâchoires doivent porter entièrement sur les plats.
+As mandíbulas devem assentar totalmente nas faces.
+钳口必须完全贴合平面。
+Губки должны полностью прилегать к граням.
+Szczęki muszą przylegać całą powierzchnią do płaszczyzn.
+A pofáknak teljesen fel kell feküdniük a lapokra.
+Las mordazas deben asentar completamente en las caras.
+
+#5990
+Ouvrir la mâchoire
+Abrir a mandíbula
+张开钳口
+Развести губку
+Otwórz szczękę
+Pofa nyitása
+Abrir la mordaza
+
+#5991
+Dans quel sens doit porter l'effort sur une clé à molette ?
+Para onde deve ir a força em uma chave ajustável?
+使用活动扳手时，力应作用在哪一侧？
+Куда должно направляться усилие на разводном ключе?
+W którą stronę powinna iść siła w kluczu nastawnym?
+Merre kell irányulnia az erőnek az állítható kulcson?
+¿Hacia dónde debe ir la fuerza en una llave ajustable?
+
+#5992
+Sur la mâchoire fixe
+Para a mandíbula fixa
+作用在固定钳口
+На неподвижную губку
+Na szczękę stałą
+A fix pofára
+Hacia la mordaza fija
+
+#5993
+Sur la mâchoire mobile
+Para a mandíbula móvel
+作用在活动钳口
+На подвижную губку
+Na szczękę przesuwną
+A mozgó pofára
+Hacia la mordaza móvil
+
+#5994
+Le long du manche
+Ao longo do cabo
+沿手柄方向
+Вдоль рукоятки
+Wzdłuż uchwytu
+A nyél mentén
+A lo largo del mango
+
+#5995
+La mâchoire s'ouvre toute seule pendant que vous tirez. Cause probable ?
+A mandíbula abre sozinha enquanto você puxa. Causa provável?
+拉动时钳口自己张开。可能原因？
+Губка сама раскрывается, когда вы тянете. Вероятная причина?
+Szczęka sama się otwiera podczas ciągnięcia. Prawdopodobna przyczyna?
+A pofa magától kinyílik húzás közben. Valószínű ok?
+La mordaza se abre sola mientras tira. ¿Causa probable?
+
+#5996
+Dents de vis sans fin ou de crémaillère usées
+Dentes da rosca sem-fim ou da cremalheira gastos
+蜗杆或齿条齿磨损
+Изношены зубья червяка или рейки
+Zużyte zęby ślimaka lub zębatki
+Kopott csiga- vagy fogaslécfogak
+Dientes del sinfín o de la cremallera desgastados
+
+#5997
+L'écrou est trop dur
+A porca é dura demais
+螺母太硬
+Гайка слишком твёрдая
+Nakrętka jest za twarda
+Túl kemény az anya
+La tuerca es demasiado dura
+
+#5998
+Manche trop court
+Cabo curto demais
+手柄太短
+Слишком короткая рукоятка
+Za krótki uchwyt
+Túl rövid a nyél
+Mango demasiado corto
+
+#5999
+Trop d'huile
+Óleo demais
+油太多
+Слишком много масла
+Za dużo oleju
+Túl sok olaj
+Demasiado aceite
+
+#6000
+Clé dynamométrique (à déclenchement, 1/2")
+Torquímetro (tipo estalo, 1/2")
+扭力扳手（咔嗒式，1/2"）
+Динамометрический ключ (щелчкового типа, 1/2")
+Klucz dynamometryczny (zatrzaskowy, 1/2")
+Nyomatékkulcs (kattanós, 1/2")
+Llave dinamométrica (de clic, 1/2")
+
+#6001
+Clé à cliquet qui fait un « clic » et donne un petit à-coup quand le couple réglé est atteint. À l'intérieur, un ressort presse un bloc basculant contre l'extrémité du levier de la tête.
+Chave com catraca que dá um estalo e um pequeno tranco quando o torque ajustado é atingido. Por dentro, uma mola pressiona um bloco basculante contra a ponta da alavanca da cabeça.
+带棘轮的扳手，达到设定扭矩时发出咔嗒声并轻微一顿。内部弹簧把翻转块压在头部杠杆末端。
+Ключ с трещоткой, который щёлкает и слегка дёргается при достижении заданного момента. Внутри пружина прижимает опрокидывающийся сухарь к концу рычага головки.
+Klucz z grzechotką, który klika i lekko szarpie po osiągnięciu ustawionego momentu. Wewnątrz sprężyna dociska klocek przełączający do końca dźwigni głowicy.
+Racsnis kulcs, amely a beállított nyomaték elérésekor kattan és kicsit megránt. Belül egy rugó egy billenő blokkot nyom a fejkar végéhez.
+Llave de carraca que hace clic y da un pequeño tirón al alcanzar el par ajustado. Dentro, un muelle presiona un bloque basculante contra el extremo de la palanca del cabezal.
+
+#6002
+Boulons critiques : pattes de pompes et de moteurs, accouplements, brides avec joints PTFE, vis de tourelle et de guides de poinçons des presses à comprimés, couvercles de réducteurs.
+Parafusos críticos: pés de bombas e motores, acoplamentos, flanges com juntas de PTFE, parafusos da torre e das guias de punções das compressoras, tampas de redutores.
+关键螺栓：泵和电机地脚、联轴器、带 PTFE 垫片的法兰、压片机转台和冲头导轨螺栓、齿轮箱盖。
+Ответственные болты: лапы насосов и двигателей, муфты, фланцы с прокладками PTFE, болты ротора и направляющих пуансонов таблеточного пресса, крышки редукторов.
+Śruby krytyczne: łapy pomp i silników, sprzęgła, kołnierze z uszczelkami PTFE, śruby głowicy rotacyjnej i prowadnic stempli tabletkarki, pokrywy przekładni.
+Kritikus csavarok: szivattyú- és motorlábak, tengelykapcsolók, PTFE tömítésű karimák, tablettaprés-revolverfej és bélyegvezető csavarok, hajtóműfedelek.
+Pernos críticos: patas de bombas y motores, acoplamientos, bridas con juntas de PTFE, pernos de la torreta y guías de punzones de la tableteadora, tapas de reductores.
+
+#6003
+Débloquez le bouton, tournez la poignée jusqu'à ce que l'échelle principale plus l'échelle de la poignée indiquent le couple, puis bloquez. Tirez lentement au centre de la poignée et arrêtez au clic. Couple = force × longueur jusqu'au carré d'entraînement.
+Destrave o botão, gire o cabo até a escala principal mais a escala do cabo mostrarem o torque e trave. Puxe devagar pelo centro da empunhadura e pare no estalo. Torque = força × comprimento até o encaixe.
+松开锁钮，转动手柄直到主刻度加手柄刻度显示所需扭矩，然后锁紧。在握把中部缓慢拉动，听到咔嗒声即停。扭矩 = 力 × 到方榫的长度。
+Разблокируйте фиксатор, вращайте рукоятку, пока основная шкала плюс шкала рукоятки не покажут нужный момент, заблокируйте. Тяните медленно за середину рукоятки и остановитесь на щелчке. Момент = сила × плечо до квадрата.
+Odblokuj pokrętło, obracaj rękojeść, aż skala główna plus skala rękojeści pokażą moment, zablokuj. Ciągnij powoli za środek rękojeści i przestań przy kliknięciu. Moment = siła × długość do zabieraka.
+Oldja ki a zárógombot, forgassa a markolatot, amíg a fő skála és a markolat skálája együtt a nyomatékot mutatja, majd rögzítse. Lassan húzza a markolat közepénél, és álljon meg a kattanásnál. Nyomaték = erő × hossz a hajtófejig.
+Desbloquee el pomo, gire el mango hasta que la escala principal más la escala del mango marquen el par, y bloquéelo. Tire despacio del centro de la empuñadura y pare en el clic. Par = fuerza × longitud hasta el cuadradillo.
+
+#6004
+Hors étalonnage (ressort fatigué, outil tombé), pas de clic en cas de surcharge, cliquet qui patine, échelle déréglée car le blocage est resté ouvert.
+Fora de calibração (mola fadigada, ferramenta que caiu), sem estalo quando sobrecarregado, lingueta da catraca patinando, escala deslocada porque a trava ficou aberta.
+失准（弹簧疲劳、工具摔落）、过载时不发出咔嗒声、棘爪打滑、锁钮未锁导致刻度移位。
+Потеря калибровки (усталость пружины, падение инструмента), нет щелчка при перегрузке, проскальзывает собачка трещотки, шкала сбилась из-за незапертого фиксатора.
+Utrata kalibracji (zmęczenie sprężyny, upuszczone narzędzie), brak kliknięcia przy przeciążeniu, ślizgająca się zapadka grzechotki, przestawiona skala, bo blokada była otwarta.
+Kalibráción kívül (kifáradt rugó, leejtett szerszám), túlterheléskor nincs kattanás, megcsúszó racsnikilincs, elmozdult skála, mert nyitva maradt a zár.
+Fuera de calibración (muelle fatigado, herramienta caída), sin clic al sobrecargar, trinquete que patina, escala movida porque el bloqueo quedó abierto.
+
+#6005
+Rangez-la au réglage le plus bas, ne l'utilisez jamais pour desserrer, ne tirez jamais au-delà du clic. Étalonnez-la chaque année ou tous les 5000 cycles (ISO 6789, ±4 %) et après toute chute.
+Guarde na menor regulagem, nunca use para soltar parafusos, nunca puxe além do estalo. Calibre todo ano ou a cada 5000 ciclos (ISO 6789, ±4 %) e após qualquer queda.
+存放时调到最低值，切勿用来松螺栓，咔嗒后不要继续拉。每年或每 5000 次循环（ISO 6789，±4 %）以及任何跌落后进行校准。
+Храните на минимальной настройке, никогда не откручивайте им болты, не тяните дальше щелчка. Калибруйте ежегодно или каждые 5000 циклов (ISO 6789, ±4 %) и после любого падения.
+Przechowuj na najniższym ustawieniu, nigdy nie używaj do luzowania śrub, nigdy nie ciągnij po kliknięciu. Kalibruj co rok lub co 5000 cykli (ISO 6789, ±4 %) i po każdym upadku.
+A legalacsonyabb beállításon tárolja, soha ne lazítson vele csavart, soha ne húzza túl a kattanáson. Kalibrálja évente vagy 5000 ciklusonként (ISO 6789, ±4 %), és minden leejtés után.
+Guárdela en el ajuste más bajo, nunca la use para aflojar pernos, nunca tire más allá del clic. Calíbrela cada año o cada 5000 ciclos (ISO 6789, ±4 %) y después de cualquier caída.
+
+#6006
+Tube du corps
+Tubo do corpo
+管状本体
+Корпус-труба
+Rura korpusu
+Testcső
+Tubo del cuerpo
+
+#6007
+Corps creux : contient le pivot du levier, le ressort et le dispositif de réglage.
+Corpo oco: contém o pivô da alavanca, a mola e o ajustador.
+空心本体：内装杠杆支点、弹簧和调节机构。
+Полый корпус: в нём ось рычага, пружина и регулятор.
+Pusty korpus: mieści oś dźwigni, sprężynę i regulator.
+Üreges test: benne van a kar forgáspontja, a rugó és az állító.
+Cuerpo hueco: aloja el pivote de la palanca, el muelle y el regulador.
+
+#6008
+Échelle principale
+Escala principal
+主刻度
+Основная шкала
+Skala główna
+Fő skála
+Escala principal
+
+#6009
+Traits sur le tube : chaque trait est un pas de couple grossier (par exemple 10 N·m).
+Linhas no tubo: cada linha é um passo grosso de torque (por exemplo 10 N·m).
+管身上的刻线：每格为一个粗调扭矩档（例如 10 N·m）。
+Риски на трубе: каждая риска — грубый шаг момента (например, 10 N·m).
+Kreski na rurze: każda kreska to zgrubny krok momentu (na przykład 10 N·m).
+Vonalak a csövön: minden vonal egy durva nyomatéklépés (például 10 N·m).
+Líneas en el tubo: cada línea es un paso grueso de par (por ejemplo 10 N·m).
+
+#6010
+Tête et levier intérieur
+Cabeça e alavanca interna
+头部和内杠杆
+Головка и внутренний рычаг
+Głowica i dźwignia wewnętrzna
+Fej és belső kar
+Cabezal y palanca interior
+
+#6011
+Une seule pièce forgée : la tête à l'extérieur, un long levier dans le tube. Elle pivote légèrement sur l'axe au moment du clic.
+Uma peça forjada: cabeça por fora, alavanca longa dentro do tubo. Ela gira um pouco no pino pivô quando estala.
+一体锻造：头部在外，长杠杆在管内。咔嗒时绕支点销稍微转动。
+Одна кованая деталь: головка снаружи, длинный рычаг внутри трубы. При щелчке она немного поворачивается на оси.
+Jeden odkuty element: głowica na zewnątrz, długa dźwignia wewnątrz rury. Przy kliknięciu obraca się lekko na sworzniu.
+Egy kovácsolt darab: kívül a fej, a csőben a hosszú kar. Kattanáskor kissé elfordul a forgócsapon.
+Una sola pieza forjada: cabezal fuera, palanca larga dentro del tubo. Gira un poco sobre el pasador pivote al hacer clic.
+
+#6012
+Cliquet et carré d'entraînement
+Catraca e encaixe quadrado
+棘轮和方榫
+Трещотка и присоединительный квадрат
+Grzechotka i zabierak kwadratowy
+Racsni és négyszöghajtás
+Carraca y cuadradillo
+
+#6013
+Roue dentée avec cliquet, terminée par le carré 1/2" pour la douille.
+Roda dentada com lingueta, termina no encaixe quadrado de 1/2" para o soquete.
+带棘爪的齿轮，末端为装套筒用的 1/2" 方榫。
+Зубчатое колесо с собачкой, заканчивается квадратом 1/2" для головки.
+Koło zębate z zapadką, zakończone zabierakiem 1/2" do nasadki.
+Kilincses fogaskerék, a dugókulcsfej 1/2"-os négyszöghajtásában végződik.
+Rueda dentada con trinquete, termina en el cuadradillo de 1/2" para el vaso.
+
+#6014
+Le levier de la tête bascule sur cet axe.
+A alavanca da cabeça oscila neste pino.
+头部杠杆绕此销摆动。
+Рычаг головки качается на этой оси.
+Dźwignia głowicy kołysze się na tym sworzniu.
+A fejkar ezen a csapon billen.
+La palanca del cabezal bascula sobre este pasador.
+
+#6015
+Bloc basculant (came)
+Bloco basculante (came)
+翻转块（凸轮）
+Опрокидывающийся сухарь (кулачок)
+Klocek przełączający (krzywka)
+Billenő blokk (bütyök)
+Bloque basculante (leva)
+
+#6016
+Bloc carré entre le levier et le poussoir. Au couple réglé, il bascule : c'est le clic.
+Bloco quadrado entre a alavanca e o êmbolo. No torque ajustado ele tomba: esse é o estalo.
+杠杆与顶杆之间的方块。达到设定扭矩时翻转：这就是咔嗒声。
+Квадратный сухарь между рычагом и плунжером. При заданном моменте он опрокидывается: это и есть щелчок.
+Kwadratowy klocek między dźwignią a popychaczem. Przy ustawionym momencie przewraca się: to jest kliknięcie.
+Négyzetes blokk a kar és a nyomórúd között. A beállított nyomatéknál átbillen: ez a kattanás.
+Bloque cuadrado entre la palanca y el émbolo. Al par ajustado vuelca: ese es el clic.
+
+#6017
+Poussoir à ressort
+Êmbolo de mola
+弹簧顶杆
+Подпружиненный плунжер
+Popychacz sprężynowy
+Rugós nyomórúd
+Émbolo de muelle
+
+#6018
+Pousse le bloc basculant avec la force du ressort.
+Empurra o bloco basculante com a força da mola.
+以弹簧力推动翻转块。
+Прижимает сухарь усилием пружины.
+Dociska klocek siłą sprężyny.
+A rugóerővel nyomja a billenő blokkot.
+Empuja el bloque basculante con la fuerza del muelle.
+
+#6019
+Ressort principal
+Mola principal
+主弹簧
+Основная пружина
+Sprężyna główna
+Főrugó
+Muelle principal
+
+#6020
+Plus de compression = couple plus élevé avant le basculement.
+Mais compressão = torque maior antes de o bloco tombar.
+压缩越多 = 翻转块翻转前的扭矩越高。
+Больше сжатие = больше момент до опрокидывания сухаря.
+Większe ściśnięcie = wyższy moment, zanim klocek się przewróci.
+Nagyobb összenyomás = nagyobb nyomaték a billenés előtt.
+Más compresión = mayor par antes de que vuelque el bloque.
+
+#6021
+Vis de réglage
+Parafuso de ajuste
+调节螺杆
+Регулировочный винт
+Śruba regulacyjna
+Állítócsavar
+Tornillo de ajuste
+
+#6022
+Bouchon fileté déplacé par la poignée ; il règle la compression du ressort.
+Bucha roscada movida pelo cabo; ajusta a compressão da mola.
+由手柄带动的螺纹塞；设定弹簧压缩量。
+Резьбовая пробка, перемещаемая рукояткой; задаёт сжатие пружины.
+Gwintowany korek przesuwany rękojeścią; ustawia ściśnięcie sprężyny.
+A markolat által mozgatott menetes dugó; ez állítja a rugó összenyomását.
+Tapón roscado movido por el mango; fija la compresión del muelle.
+
+#6023
+Poignée avec échelle micrométrique
+Cabo com escala micrométrica
+带微分刻度的手柄
+Рукоятка с микрометрической шкалой
+Rękojeść ze skalą mikrometryczną
+Markolat mikrométerskálával
+Mango con escala micrométrica
+
+#6024
+Tournez pour régler. Son anneau gradué donne les pas fins entre les traits de l'échelle principale.
+Gire para ajustar. Seu anel de linhas dá os passos finos entre as linhas da escala principal.
+转动进行设定。其环形刻线给出主刻度线之间的细分值。
+Вращайте для настройки. Кольцевая шкала даёт мелкие шаги между рисками основной шкалы.
+Obracaj, aby ustawić. Jej pierścień kresek daje drobne kroki między kreskami skali głównej.
+Forgassa a beállításhoz. Körskálája adja a finom lépéseket a fő skála vonalai között.
+Gire para ajustar. Su anillo de líneas da los pasos finos entre las líneas de la escala principal.
+
+#6025
+Bouton de blocage
+Botão de trava
+锁钮
+Фиксатор
+Pokrętło blokady
+Zárógomb
+Pomo de bloqueo
+
+#6026
+Bloque la poignée pour que le réglage ne bouge pas pendant le travail.
+Trava o cabo para que o ajuste não mude durante o trabalho.
+锁住手柄，使工作时设定值不会变动。
+Фиксирует рукоятку, чтобы настройка не сбилась во время работы.
+Blokuje rękojeść, aby ustawienie nie przesunęło się podczas pracy.
+Rögzíti a markolatot, hogy munka közben ne mozduljon el a beállítás.
+Bloquea el mango para que el ajuste no se mueva mientras trabaja.
+
+#6027
+Tirer jusqu'au clic
+Puxar até o estalo
+拉到咔嗒声
+Тянуть до щелчка
+Ciągnij do kliknięcia
+Húzás a kattanásig
+Tirar hasta el clic
+
+#6028
+Comment ranger une clé dynamométrique à déclenchement ?
+Como deve ser guardado um torquímetro de estalo?
+咔嗒式扭力扳手应如何存放？
+Как хранить щелчковый динамометрический ключ?
+Jak przechowywać zatrzaskowy klucz dynamometryczny?
+Hogyan kell tárolni a kattanós nyomatékkulcsot?
+¿Cómo se debe guardar una llave dinamométrica de clic?
+
+#6029
+À son réglage le plus bas
+Na menor regulagem
+调到最低值
+На минимальной настройке
+Na najniższym ustawieniu
+A legalacsonyabb beállításon
+En su ajuste más bajo
+
+#6030
+Au réglage le plus haut
+Na maior regulagem
+调到最高值
+На максимальной настройке
+Na najwyższym ustawieniu
+A legmagasabb beállításon
+En el ajuste más alto
+
+#6031
+Au dernier couple utilisé
+No último torque usado
+保持上次使用的扭矩
+На последнем использованном моменте
+Na ostatnio użytym momencie
+Az utoljára használt nyomatékon
+En el último par usado
+
+#6032
+Bouton de blocage ouvert
+Com o botão de trava aberto
+锁钮打开
+С открытым фиксатором
+Z otwartą blokadą
+Nyitott zárógombbal
+Con el pomo de bloqueo abierto
+
+#6033
+Peut-on desserrer un boulon serré avec la clé dynamométrique ?
+Dá para soltar um parafuso apertado com o torquímetro?
+能用扭力扳手松开很紧的螺栓吗？
+Можно ли откручивать тугой болт динамометрическим ключом?
+Czy można poluzować mocno dokręconą śrubę kluczem dynamometrycznym?
+Meg lehet lazítani egy szoros csavart a nyomatékkulccsal?
+¿Se puede aflojar un perno apretado con la llave dinamométrica?
+
+#6034
+Non, cela fausse l'étalonnage
+Não, isso danifica a calibração
+不能，会破坏校准
+Нет, это нарушает калибровку
+Nie, to niszczy kalibrację
+Nem, ez elrontja a kalibrálást
+No, daña la calibración
+
+#6035
+Oui, c'est la clé la plus solide
+Sim, é a chave mais forte
+能，它是最结实的扳手
+Да, это самый прочный ключ
+Tak, to najmocniejszy klucz
+Igen, ez a legerősebb kulcs
+Sí, es la llave más fuerte
+
+#6036
+Oui, si on la règle au maximum
+Sim, se ajustar no máximo
+能，只要调到最大值
+Да, если выставить максимум
+Tak, jeśli ustawisz go na maksimum
+Igen, ha maximumra állítja
+Sí, si la ajusta al máximo
+
+#6037
+Seulement avec une rallonge
+Só com uma extensão
+只能加加长杆
+Только с удлинителем
+Tylko z przedłużką
+Csak toldattal
+Solo con una extensión
+
+#6038
+Qu'est-ce qui produit le clic ?
+O que produz o estalo?
+咔嗒声是怎么产生的？
+Что вызывает щелчок?
+Co powoduje kliknięcie?
+Mi okozza a kattanást?
+¿Qué produce el clic?
+
+#6039
+Le bloc basculant bascule contre le ressort
+O bloco basculante tomba contra a mola
+翻转块克服弹簧力翻转
+Сухарь опрокидывается против пружины
+Klocek przełączający przewraca się wbrew sprężynie
+A billenő blokk a rugó ellenében átbillen
+El bloque basculante vuelca contra el muelle
+
+#6040
+Le cliquet
+A lingueta da catraca
+棘爪
+Собачка трещотки
+Zapadka grzechotki
+A racsnikilincs
+El trinquete
+
+#6041
+Le bouton de blocage
+O botão de trava
+锁钮
+Фиксатор
+Pokrętło blokady
+A zárógomb
+El pomo de bloqueo
+
+#6042
+Le carré d'entraînement
+O encaixe quadrado
+方榫
+Присоединительный квадрат
+Zabierak kwadratowy
+A négyszöghajtás
+El cuadradillo
+
+#6043
+Jeu de clés hexagonales (Allen)
+Jogo de chaves Allen (hexagonais)
+内六角扳手套装
+Набор шестигранных ключей
+Zestaw kluczy imbusowych
+Imbuszkulcs-készlet
+Juego de llaves Allen (hexagonales)
+
+#6044
+Barres hexagonales en L, de 2 à 10 mm, rangées dans un support. Taille = cote sur plats de l'empreinte dans la tête de vis.
+Barras sextavadas em L, de 2 a 10 mm, guardadas em um suporte. Tamanho = medida entre faces do sextavado na cabeça do parafuso.
+L 形六角棒，2 至 10 mm，放在支架中。尺寸 = 螺钉头内六角孔的对边宽度。
+Г-образные шестигранные прутки от 2 до 10 mm в держателе. Размер = размер под ключ шестигранного гнезда в головке винта.
+Sześciokątne pręty w kształcie litery L, od 2 do 10 mm, w uchwycie. Rozmiar = rozmiar pod klucz gniazda w łbie śruby.
+L alakú hatszögletes rudak, 2-től 10 mm-ig, tartóban. Méret = a csavarfej belső kulcsnyílásának laptávolsága.
+Barras hexagonales en L, de 2 a 10 mm, guardadas en un soporte. Tamaño = medida entre caras del hueco en la cabeza del tornillo.
+
+#6045
+Vis CHC des machines de conditionnement, pièces de format, carters, vis sans tête des poulies et accouplements, supports de capteurs.
+Parafusos Allen de cabeça cilíndrica em máquinas de embalagem, peças de formato, proteções, parafusos sem cabeça em polias e acoplamentos, suportes de sensores.
+包装机、换型件、防护罩上的内六角圆柱头螺钉，皮带轮和联轴器上的紧定螺钉，传感器支架。
+Винты с внутренним шестигранником на упаковочных машинах, форматных деталях, ограждениях, установочные винты на шкивах и муфтах, кронштейны датчиков.
+Śruby z łbem walcowym z gniazdem sześciokątnym na maszynach pakujących, częściach formatowych, osłonach, wkręty dociskowe na kołach pasowych i sprzęgłach, wsporniki czujników.
+Belső kulcsnyílású hengeres fejű csavarok csomagológépeken, formátumalkatrészeken, védőburkolatokon, hernyócsavarok szíjtárcsákon és tengelykapcsolókon, érzékelőtartók.
+Tornillos Allen de cabeza cilíndrica en máquinas de envasado, piezas de formato, protecciones, prisioneros en poleas y acoplamientos, soportes de sensores.
+
+#6046
+Petit bras dans la vis et grand bras comme levier pour le couple ; grand bras dans la vis pour la vitesse. Enfoncez la clé à fond dans l'empreinte avant de tourner.
+Braço curto no parafuso e braço longo como alavanca para torque; braço longo no parafuso para rapidez. Encaixe a chave totalmente no sextavado antes de girar.
+短臂插入螺钉、长臂作杠杆以获得扭矩；长臂插入螺钉以求速度。转动前把扳手完全插入内六角孔。
+Короткое плечо в винт, длинное — рычаг для момента; длинное плечо в винт — для скорости. Перед вращением вставьте ключ в гнездо до упора.
+Krótkie ramię w śrubie, a długie jako dźwignia dla momentu; długie ramię w śrubie dla szybkości. Przed obracaniem wsuń klucz do końca w gniazdo.
+Rövid szár a csavarban, hosszú szár emelőként a nyomatékhoz; hosszú szár a csavarban a gyorsasághoz. Forgatás előtt tolja be teljesen a kulcsot a kulcsnyílásba.
+Brazo corto en el tornillo y brazo largo como palanca para el par; brazo largo en el tornillo para rapidez. Introduzca la llave a fondo en el hueco antes de girar.
+
+#6047
+Angles arrondis sur la clé ou dans l'empreinte de la vis (mauvaise taille, clé en pouces dans une vis métrique, clé pas enfoncée à fond), clé vrillée ou fissurée.
+Cantos arredondados na chave ou no sextavado do parafuso (tamanho errado, chave em polegadas em parafuso métrico, não encaixada até o fim), chave torcida ou trincada.
+扳手或螺钉内六角孔棱角变圆（尺寸不对、英制扳手用于公制螺钉、未完全插入），扳手扭曲或开裂。
+Скруглённые грани ключа или гнезда винта (не тот размер, дюймовый ключ в метрическом винте, вставлен не до упора), скрученный или треснувший ключ.
+Zaokrąglone narożniki klucza lub gniazda śruby (zły rozmiar, klucz calowy w śrubie metrycznej, niewsunięty do końca), skręcony lub pęknięty klucz.
+Lekerekedett sarkok a kulcson vagy a csavar kulcsnyílásában (rossz méret, coll-os kulcs metrikus csavarban, nincs teljesen betolva), megcsavarodott vagy repedt kulcs.
+Esquinas redondeadas en la llave o en el hueco del tornillo (tamaño incorrecto, llave en pulgadas en tornillo métrico, no introducida a fondo), llave torcida o agrietada.
+
+#6048
+Utilisez la taille métrique exacte, remplacez les clés aux bouts arrondis, rangez-les dans l'ordre dans le support pour trouver vite la taille. Les clés à tête sphérique ne servent qu'au vissage léger.
+Use o tamanho métrico exato, troque chaves com pontas arredondadas, mantenha-as em ordem no suporte para achar o tamanho rápido. Chaves com ponta esférica são só para giro leve.
+使用准确的公制尺寸，更换端部变圆的扳手，按顺序放在支架中以便快速找到尺寸。球头扳手只用于轻力转动。
+Используйте точный метрический размер, заменяйте ключи со скруглёнными концами, храните их в держателе по порядку, чтобы быстро найти размер. Ключи с шаровым концом — только для лёгкого вращения.
+Używaj dokładnego rozmiaru metrycznego, wymieniaj klucze z zaokrąglonymi końcami, trzymaj je w uchwycie po kolei, aby szybko znaleźć rozmiar. Klucze z końcówką kulistą tylko do lekkiego kręcenia.
+Pontos metrikus méretet használjon, cserélje a lekerekedett végű kulcsokat, tartsa őket sorrendben a tartóban, hogy gyorsan meglegyen a méret. A gömbfejű kulcsok csak könnyű forgatásra valók.
+Use el tamaño métrico exacto, sustituya las llaves con puntas redondeadas, guárdelas en orden en el soporte para encontrar el tamaño rápido. Las llaves de cabeza esférica son solo para giros ligeros.
+
+#6049
+Support
+Suporte
+支架
+Держатель
+Uchwyt
+Tartó
+Soporte
+
+#6050
+Support en plastique qui garde les clés dans l'ordre des tailles.
+Suporte plástico que mantém as chaves em ordem de tamanho.
+塑料架，按尺寸顺序存放扳手。
+Пластиковый держатель, в котором ключи стоят по размерам.
+Plastikowy uchwyt utrzymujący klucze w kolejności rozmiarów.
+Műanyag tartó, amely méretsorrendben tartja a kulcsokat.
+Soporte de plástico que mantiene las llaves ordenadas por tamaño.
+
+#6051
+Comment obtenir le couple maximal avec une clé hexagonale ?
+Como obter o maior torque com uma chave Allen?
+怎样用内六角扳手获得最大扭矩？
+Как получить наибольший момент шестигранным ключом?
+Jak uzyskać największy moment kluczem imbusowym?
+Hogyan érhető el a legnagyobb nyomaték imbuszkulccsal?
+¿Cómo se obtiene el mayor par con una llave Allen?
+
+#6052
+Petit bras dans la vis, tirer sur le grand bras
+Braço curto no parafuso, puxar o braço longo
+短臂插入螺钉，拉长臂
+Короткое плечо в винт, тянуть за длинное
+Krótkie ramię w śrubie, ciągnij za długie
+Rövid szár a csavarban, a hosszú szárat húzza
+Brazo corto en el tornillo, tirar del brazo largo
+
+#6053
+Grand bras dans la vis
+Braço longo no parafuso
+长臂插入螺钉
+Длинное плечо в винт
+Długie ramię w śrubie
+Hosszú szár a csavarban
+Brazo largo en el tornillo
+
+#6054
+Utiliser le bout sphérique
+Usar a ponta esférica
+用球头端
+Использовать шаровой конец
+Użyć końcówki kulistej
+A gömbfejes véget használja
+Usar la cabeza esférica
+
+#6055
+Frapper dessus au marteau
+Bater com um martelo
+用锤子敲
+Ударить молотком
+Uderzyć młotkiem
+Kalapáccsal ráütni
+Golpearla con un martillo
+
+#6056
+Pourquoi les empreintes hexagonales des vis s'arrondissent-elles le plus souvent ?
+Por que os sextavados dos parafusos espanam com mais frequência?
+内六角螺钉孔最常见的拧圆原因是什么？
+Почему чаще всего скругляются шестигранные гнёзда винтов?
+Dlaczego gniazda sześciokątne śrub najczęściej się zaokrąglają?
+Miért kerekednek le leggyakrabban a csavarok belső kulcsnyílásai?
+¿Por qué se redondean con más frecuencia los huecos hexagonales de los tornillos?
+
+#6057
+Mauvaise clé ou clé en pouces, ou clé pas enfoncée à fond
+Chave errada ou em polegadas, ou não encaixada até o fim
+扳手尺寸不对或用了英制扳手，或未完全插入
+Не тот или дюймовый ключ, либо ключ вставлен не до упора
+Zły lub calowy klucz albo klucz niewsunięty do końca
+Rossz vagy coll-os kulcs, vagy nincs teljesen betolva
+Llave incorrecta o en pulgadas, o no introducida a fondo
+
+#6058
+Vis trop longue
+Parafuso comprido demais
+螺钉太长
+Слишком длинный винт
+Za długa śruba
+Túl hosszú a csavar
+Tornillo demasiado largo
+
+#6059
+Support manquant
+Falta o suporte
+没有支架
+Нет держателя
+Brak uchwytu
+Hiányzik a tartó
+Falta el soporte
+
+#6060
+Pied à coulisse (0-150 mm)
+Paquímetro (0-150 mm)
+游标卡尺（0-150 mm）
+Штангенциркуль (0-150 mm)
+Suwmiarka (0-150 mm)
+Tolómérő (0-150 mm)
+Pie de rey (0-150 mm)
+
+#6061
+Instrument de mesure avec une échelle principale sur la règle et un vernier sur le coulisseau. Mesure extérieurs, intérieurs et profondeurs à 0,1 mm (modèles plus fins : 0,05 ou 0,02 mm).
+Instrumento de medição com escala principal na régua e nônio no cursor. Mede externo, interno e profundidade com resolução de 0,1 mm (tipos mais finos 0,05 ou 0,02 mm).
+测量工具，尺身上有主尺，滑动量爪上有游标。可测外径、内径和深度，精度 0.1 mm（更精细型号 0.05 或 0.02 mm）。
+Измерительный инструмент с основной шкалой на штанге и нониусом на подвижной губке. Измеряет наружные, внутренние размеры и глубину с точностью 0,1 mm (более точные — 0,05 или 0,02 mm).
+Przyrząd pomiarowy ze skalą główną na prowadnicy i noniuszem na szczęce przesuwnej. Mierzy wymiary zewnętrzne, wewnętrzne i głębokość z dokładnością 0,1 mm (dokładniejsze 0,05 lub 0,02 mm).
+Mérőeszköz fő skálával a vonalzón és nóniusszal a tolópofán. Külső, belső és mélységméretet mér 0,1 mm-re (finomabb típusok 0,05 vagy 0,02 mm).
+Instrumento de medida con escala principal en la regla y nonio en la mordaza deslizante. Mide exteriores, interiores y profundidad con 0,1 mm (los más finos 0,05 o 0,02 mm).
+
+#6062
+Diamètres d'arbres et d'alésages, dimensions de roulements et de joints avant commande, longueurs de poinçons, contrôle des pièces de format, longueurs de ressorts.
+Medidas de eixos e furos, medidas de rolamentos e retentores antes de pedir, comprimentos de punções, verificação de peças de formato, comprimentos de molas.
+轴和孔尺寸、订货前确认轴承和密封尺寸、冲头长度、换型件检查、弹簧长度。
+Размеры валов и отверстий, размеры подшипников и уплотнений перед заказом, длины пуансонов, проверка форматных деталей, длины пружин.
+Wymiary wałów i otworów, wymiary łożysk i uszczelnień przed zamówieniem, długości stempli, kontrola części formatowych, długości sprężyn.
+Tengely- és furatméretek, csapágy- és tömítésméretek rendelés előtt, bélyeghosszak, formátumalkatrészek ellenőrzése, rugóhosszak.
+Medidas de ejes y agujeros, medidas de rodamientos y retenes antes de pedirlos, longitudes de punzones, control de piezas de formato, longitudes de muelles.
+
+#6063
+Lisez les mm de l'échelle principale juste à gauche du zéro du vernier, puis cherchez le seul trait du vernier exactement aligné avec un trait principal : son numéro × 0,1 mm s'ajoute. Exemple : 25 mm + trait 4 = 25,4 mm.
+Leia os mm da escala principal logo à esquerda do zero do nônio, depois encontre a única linha do nônio que coincide exatamente com uma linha principal: o número dela × 0,1 mm é somado. Exemplo: 25 mm + linha 4 = 25,4 mm.
+读游标零线左侧主尺上的毫米数，再找出与主尺刻线完全对齐的那条游标线：其编号 × 0.1 mm 加上去。例：25 mm + 第 4 格 = 25.4 mm。
+Считайте миллиметры основной шкалы слева от нуля нониуса, затем найдите ту риску нониуса, которая точно совпадает с риской основной шкалы: её номер × 0,1 mm прибавляется. Пример: 25 mm + риска 4 = 25,4 mm.
+Odczytaj mm na skali głównej tuż na lewo od zera noniusza, potem znajdź tę jedną kreskę noniusza, która dokładnie pokrywa się z kreską główną: jej numer × 0,1 mm dodajesz. Przykład: 25 mm + kreska 4 = 25,4 mm.
+Olvassa le a fő skála mm-ét közvetlenül a nónius nullájától balra, majd keresse meg azt az egy nóniuszvonalat, amely pontosan egybeesik egy fő vonallal: a száma × 0,1 mm hozzáadódik. Példa: 25 mm + 4-es vonal = 25,4 mm.
+Lea los mm de la escala principal justo a la izquierda del cero del nonio, luego busque la única línea del nonio que coincide exactamente con una línea principal: su número × 0,1 mm se suma. Ejemplo: 25 mm + línea 4 = 25,4 mm.
+
+#6064
+Erreur de zéro mâchoires fermées, becs usés ou bavurés, coulisseau desserré (jeu), jauge de profondeur tordue, lecture de biais (parallaxe).
+Erro de zero com as mandíbulas fechadas, pontas das mandíbulas gastas ou com rebarba, cursor frouxo (folga), haste de profundidade torta, leitura em ângulo (paralaxe).
+量爪合拢时零位误差、量爪尖磨损或有毛刺、尺框松动（间隙）、深度尺弯曲、斜视读数（视差）。
+Ошибка нуля при сведённых губках, изношенные или забитые концы губок, разболтанная рамка (люфт), погнутый глубиномер, считывание под углом (параллакс).
+Błąd zera przy zamkniętych szczękach, zużyte lub zadziorowane końcówki szczęk, luźny suwak (luz), wygięty głębokościomierz, odczyt pod kątem (paralaksa).
+Nullahiba zárt pofáknál, kopott vagy sorjás pofavégek, laza tolóka (holtjáték), hajlott mélységmérő rúd, ferde leolvasás (parallaxis).
+Error de cero con las mordazas cerradas, puntas de mordaza desgastadas o con rebabas, cursor flojo (holgura), varilla de profundidad doblada, lectura en ángulo (paralaje).
+
+#6065
+Nettoyez les becs et vérifiez le zéro avant usage, mesurez d'équerre avec une pression légère et régulière, regardez l'échelle bien en face, ne l'utilisez jamais comme pointe à tracer ou comme clé. Rangez-le dans sa boîte et inscrivez-le au plan d'étalonnage.
+Limpe as mandíbulas e verifique o zero antes do uso, meça no esquadro com pressão leve e uniforme, olhe a escala de frente, nunca use como riscador ou chave. Guarde no estojo e mantenha no plano de calibração.
+使用前清洁量爪并检查零位，测量时保持垂直并施加轻而均匀的力，正对刻度读数，切勿当划针或扳手用。存放在盒内并纳入校准计划。
+Перед работой очистите губки и проверьте ноль, измеряйте перпендикулярно с лёгким равномерным нажимом, смотрите на шкалу прямо, никогда не используйте как чертилку или ключ. Храните в футляре и в плане калибровки.
+Przed użyciem oczyść szczęki i sprawdź zero, mierz prostopadle z lekkim, równym naciskiem, patrz prosto na skalę, nigdy nie używaj jako rysika ani klucza. Trzymaj w etui i w planie wzorcowania.
+Használat előtt tisztítsa meg a pofákat és ellenőrizze a nullát, merőlegesen, enyhe egyenletes nyomással mérjen, egyenesen nézzen a skálára, soha ne használja karcolótűként vagy kulcsként. Tartsa a dobozában és a kalibrálási tervben.
+Limpie las mordazas y compruebe el cero antes de usarlo, mida a escuadra con presión ligera y uniforme, mire la escala de frente, nunca lo use como punta de trazar ni como llave. Guárdelo en su estuche y en el plan de calibración.
+
+#6066
+Règle avec échelle principale et becs fixes
+Régua com escala principal e mandíbulas fixas
+带主尺和固定量爪的尺身
+Штанга с основной шкалой и неподвижными губками
+Prowadnica ze skalą główną i szczękami stałymi
+Vonalzó fő skálával és fix pofákkal
+Regla con escala principal y mordazas fijas
+
+#6067
+Règle trempée, graduations de 1 mm, avec les becs fixes extérieurs et intérieurs.
+Régua temperada, divisões de 1 mm, com as mandíbulas fixas externa e interna.
+淬硬尺身，分度 1 mm，带固定外测量爪和内测量爪。
+Закалённая штанга с делениями 1 mm и неподвижными губками для наружных и внутренних измерений.
+Hartowana prowadnica, podziałka 1 mm, ze stałymi szczękami zewnętrznymi i wewnętrznymi.
+Edzett vonalzó 1 mm-es osztással, fix külső és belső mérőpofákkal.
+Regla templada, divisiones de 1 mm, con las mordazas fijas de exteriores e interiores.
+
+#6068
+Jauge de profondeur
+Haste de profundidade
+深度尺
+Глубиномер
+Głębokościomierz
+Mélységmérő rúd
+Varilla de profundidad
+
+#6069
+Fine tige fixée au coulisseau, qui glisse dans une rainure de la règle et sort au bout pour mesurer la profondeur.
+Barra fina presa ao cursor que corre em um canal da régua e sai na ponta para medir profundidade.
+固定在尺框上的细杆，在尺身槽内滑动，从末端伸出测深度。
+Тонкий стержень, закреплённый на рамке, идёт в пазу штанги и выходит из её торца для измерения глубины.
+Cienki pręt przymocowany do suwaka, przesuwa się w rowku prowadnicy i wysuwa z jej końca do pomiaru głębokości.
+A tolókához rögzített vékony rúd, amely a vonalzó hornyában fut, és a végén kijön a mélységméréshez.
+Barra delgada fija al cursor que corre por una ranura de la regla y sale por el extremo para medir profundidad.
+
+#6070
+Ressort de lardon
+Mola de ajuste (lâmina)
+压紧簧片
+Прижимная пружина
+Sprężyna dociskowa suwaka
+Szorítórugó
+Muelle de ajuste
+
+#6071
+Ressort à lame dans le coulisseau : supprime le jeu pour que le bec reste d'équerre.
+Mola de lâmina dentro do cursor: elimina a folga para a mandíbula ficar no esquadro.
+尺框内的片簧：消除间隙，使量爪保持垂直。
+Пластинчатая пружина внутри рамки: устраняет люфт, чтобы губка оставалась перпендикулярной.
+Sprężyna płaska wewnątrz suwaka: kasuje luz, aby szczęka pozostała prostopadła.
+Laprugó a tolókában: megszünteti a holtjátékot, így a pofa merőleges marad.
+Muelle de lámina dentro del cursor: elimina la holgura para que la mordaza quede a escuadra.
+
+#6072
+Coulisseau avec vernier
+Cursor com nônio
+带游标的滑动量爪
+Подвижная губка с нониусом
+Szczęka przesuwna z noniuszem
+Tolópofa nóniusszal
+Mordaza deslizante con nonio
+
+#6073
+Porte les becs mobiles et le vernier : 10 traits sur 9 mm, donc chaque trait = 0,1 mm.
+Leva as mandíbulas móveis e o nônio: 10 linhas em 9 mm, então cada linha = 0,1 mm.
+装有活动量爪和游标：10 格对应 9 mm，所以每格 = 0.1 mm。
+Несёт подвижные губки и нониус: 10 рисок на 9 mm, поэтому каждая риска = 0,1 mm.
+Niesie ruchome szczęki i noniusz: 10 kresek na 9 mm, więc każda kreska = 0,1 mm.
+Ezen vannak a mozgó pofák és a nónius: 10 vonal 9 mm-en, így minden vonal = 0,1 mm.
+Lleva las mordazas móviles y el nonio: 10 líneas en 9 mm, así que cada línea = 0,1 mm.
+
+#6074
+Molette de pouce
+Roldana de polegar
+拇指滚轮
+Роликовый привод под большой палец
+Rolka kciukowa
+Hüvelykujj-görgő
+Rueda de pulgar
+
+#6075
+Permet de déplacer doucement le coulisseau avec le pouce pour une pression régulière.
+Permite mover o cursor suavemente com o polegar para pressão uniforme.
+用拇指轻推尺框，使测量压力均匀。
+Позволяет плавно двигать рамку большим пальцем для равномерного нажима.
+Pozwala delikatnie przesuwać suwak kciukiem dla równego nacisku.
+Lehetővé teszi, hogy hüvelykujjal finoman mozgassa a tolókát az egyenletes nyomásért.
+Permite mover el cursor suavemente con el pulgar para una presión uniforme.
+
+#6076
+Vis de blocage
+Parafuso de trava
+锁紧螺钉
+Стопорный винт
+Śruba blokująca
+Rögzítőcsavar
+Tornillo de bloqueo
+
+#6077
+Bloque le coulisseau pour garder une lecture ou utiliser le pied à coulisse comme calibre.
+Trava o cursor para manter uma leitura ou usar o paquímetro como calibre.
+锁住尺框以保持读数，或把卡尺当作量规使用。
+Фиксирует рамку, чтобы сохранить показание или использовать штангенциркуль как калибр.
+Blokuje suwak, aby zachować odczyt lub użyć suwmiarki jako sprawdzianu.
+Rögzíti a tolókát a leolvasás megtartásához, vagy hogy a tolómérőt idomszerként használja.
+Bloquea el cursor para mantener una lectura o usar el calibre como galga.
+
+#6078
+Ouvrir à 25,4 mm
+Abrir até 25,4 mm
+打开到 25.4 mm
+Развести до 25,4 mm
+Otwórz na 25,4 mm
+Nyitás 25,4 mm-re
+Abrir a 25,4 mm
+
+#6079
+Le zéro du vernier est juste après 25 sur l'échelle principale et le trait 4 du vernier est aligné. Lecture ?
+O zero do nônio está logo depois do 25 na escala principal e a linha 4 do nônio coincide. Leitura?
+游标零线刚过主尺 25，游标第 4 格对齐。读数是多少？
+Ноль нониуса чуть дальше 25 на основной шкале, и совпадает риска нониуса 4. Показание?
+Zero noniusza jest tuż za 25 na skali głównej, a kreska noniusza 4 się pokrywa. Odczyt?
+A nónius nullája épp a fő skála 25-ös vonala után van, és a nónius 4-es vonala esik egybe. Leolvasás?
+El cero del nonio está justo después del 25 en la escala principal y coincide la línea 4 del nonio. ¿Lectura?
+
+#6080
+Que vérifiez-vous d'abord, avant de mesurer ?
+O que você verifica primeiro, antes de medir?
+测量前首先检查什么？
+Что проверить в первую очередь перед измерением?
+Co sprawdzasz najpierw, przed pomiarem?
+Mit ellenőriz először mérés előtt?
+¿Qué comprueba primero, antes de medir?
+
+#6081
+Becs propres et zéro mâchoires fermées
+Mandíbulas limpas e zero quando fechado
+量爪清洁且合拢时归零
+Чистые губки и ноль при сведённых губках
+Czyste szczęki i zero po zamknięciu
+Tiszta pofák és nulla zárt állásban
+Mordazas limpias y cero al cerrarlo
+
+#6082
+Niveau de la pile
+Nível da bateria
+电池电量
+Заряд батареи
+Poziom baterii
+Az elem töltöttsége
+Nivel de la batería
+
+#6083
+Que la vis de blocage est serrée
+Se o parafuso de trava está apertado
+锁紧螺钉已拧紧
+Что стопорный винт затянут
+Czy śruba blokująca jest dokręcona
+Hogy a rögzítőcsavar meg van-e húzva
+Que el tornillo de bloqueo esté apretado
+
+#6084
+Que la jauge de profondeur est sortie
+Se a haste de profundidade está para fora
+深度尺伸出
+Что глубиномер выдвинут
+Czy głębokościomierz jest wysunięty
+Hogy a mélységmérő rúd ki van-e tolva
+Que la varilla de profundidad esté fuera
+
+#6085
+Micromètre d'extérieur (0-25 mm)
+Micrômetro externo (0-25 mm)
+外径千分尺（0-25 mm）
+Микрометр гладкий (0-25 mm)
+Mikrometr zewnętrzny (0-25 mm)
+Külső mikrométer (0-25 mm)
+Micrómetro de exteriores (0-25 mm)
+
+#6086
+Instrument à vis de précision : une broche à filet de pas 0,5 mm tourne dans un écrou. Un tour de tambour = 0,5 mm, 50 traits sur le tambour = 0,01 mm chacun.
+Medidor de rosca de precisão: um fuso com rosca de passo 0,5 mm gira em uma porca. Uma volta do tambor = 0,5 mm, 50 linhas no tambor = 0,01 mm cada.
+精密螺旋量具：螺距 0.5 mm 的测微螺杆在螺母中旋转。微分筒转一圈 = 0.5 mm，微分筒 50 格，每格 = 0.01 mm。
+Прецизионный винтовой инструмент: микровинт с шагом резьбы 0,5 mm вращается в гайке. Один оборот барабана = 0,5 mm, 50 делений барабана по 0,01 mm каждое.
+Precyzyjny przyrząd śrubowy: wrzeciono z gwintem o skoku 0,5 mm obraca się w nakrętce. Jeden obrót bębna = 0,5 mm, 50 kresek bębna po 0,01 mm każda.
+Precíziós menetes mérőeszköz: egy 0,5 mm menetemelkedésű orsó forog egy anyában. A dob egy fordulata = 0,5 mm, a dob 50 vonala egyenként 0,01 mm.
+Instrumento de tornillo de precisión: un husillo con rosca de paso 0,5 mm gira en una tuerca. Una vuelta del tambor = 0,5 mm, 50 líneas del tambor = 0,01 mm cada una.
+
+#6087
+Diamètres de portées d'arbre et de logements de roulement, contrôle des pointes de poinçons et de l'épaisseur des comprimés, épaisseur des cales et des joints, contrôle d'usure des rouleaux.
+Medidas de mancais de eixo e assentos de rolamento, verificação de pontas de punção e espessura de comprimidos, espessura de calços e juntas, verificação de desgaste de rolos.
+轴颈和轴承座尺寸、冲头端部和片剂厚度检查、垫片和密封垫厚度、辊子磨损检查。
+Размеры шеек валов и посадочных мест подшипников, проверка концов пуансонов и толщины таблеток, толщина регулировочных и уплотнительных прокладок, контроль износа валиков.
+Wymiary czopów wałów i gniazd łożysk, kontrola końcówek stempli i grubości tabletek, grubość podkładek dystansowych i uszczelek, kontrola zużycia rolek.
+Tengelycsap- és csapágyfészek-méretek, bélyegvég- és tablettavastagság-ellenőrzés, alátétlemezek és tömítések vastagsága, görgők kopásának ellenőrzése.
+Medidas de muñones de eje y alojamientos de rodamientos, control de puntas de punzón y espesor de comprimidos, espesor de suplementos y juntas, control de desgaste en rodillos.
+
+#6088
+Lisez le dernier trait de mm entier sur le fourreau, ajoutez 0,5 si un demi-trait est visible, puis ajoutez le trait du tambour sur la ligne de référence × 0,01. Exemple : 7 + 0,5 + 0,35 = 7,85 mm. Fermez toujours avec le cliquet.
+Leia a última linha de mm inteiro na bainha, some 0,5 se aparecer uma meia linha, depois some a linha do tambor na linha de referência × 0,01. Exemplo: 7 + 0,5 + 0,35 = 7,85 mm. Feche sempre com a catraca.
+读固定套管上最后一条整毫米刻线，若露出半毫米刻线则加 0.5，再加上对准基准线的微分筒刻线 × 0.01。例：7 + 0.5 + 0.35 = 7.85 mm。始终用测力棘轮合拢。
+Считайте последнюю целую риску mm на стебле, прибавьте 0,5, если видна полумиллиметровая риска, затем прибавьте деление барабана против продольной риски × 0,01. Пример: 7 + 0,5 + 0,35 = 7,85 mm. Всегда сводите трещоткой.
+Odczytaj ostatnią pełną kreskę mm na tulei, dodaj 0,5, jeśli widać kreskę połówkową, potem dodaj kreskę bębna na linii odniesienia × 0,01. Przykład: 7 + 0,5 + 0,35 = 7,85 mm. Zawsze zamykaj sprzęgiełkiem.
+Olvassa le a hüvelyen az utolsó egész mm-es vonalat, adjon hozzá 0,5-öt, ha félvonal látszik, majd adja hozzá a dob alapvonalon álló vonalát × 0,01. Példa: 7 + 0,5 + 0,35 = 7,85 mm. Mindig a racsnival zárja.
+Lea la última línea de mm entero en el cilindro, sume 0,5 si se ve una media línea, luego sume la línea del tambor sobre la línea de referencia × 0,01. Ejemplo: 7 + 0,5 + 0,35 = 7,85 mm. Cierre siempre con el trinquete.
+
+#6089
+Erreur de zéro, touches usées ou sales, force excessive (sans utiliser le cliquet), chaleur de la main dilatant l'arcade, broche qui accroche.
+Erro de zero, faces de medição gastas ou sujas, força excessiva (sem usar a catraca), calor da mão dilatando o arco, fuso emperrando.
+零位误差、测量面磨损或脏污、用力过大（未用测力棘轮）、手温使尺架膨胀、测微螺杆发涩。
+Ошибка нуля, изношенные или грязные измерительные поверхности, чрезмерное усилие (без трещотки), тепло руки расширяет скобу, заедающий микровинт.
+Błąd zera, zużyte lub brudne powierzchnie pomiarowe, za duża siła (bez sprzęgiełka), ciepło dłoni rozszerzające kabłąk, zacinające się wrzeciono.
+Nullahiba, kopott vagy szennyezett mérőfelületek, túl nagy erő (racsni nélkül), a kéz melege tágítja a kengyelt, akadó orsó.
+Error de cero, caras de medición desgastadas o sucias, demasiada fuerza (sin usar el trinquete), calor de la mano que dilata el arco, husillo que se agarrota.
+
+#6090
+Essuyez les touches, vérifiez le zéro touches fermées (ou avec une cale étalon), tenez-le par la plaquette isolante, rangez-le touches légèrement écartées, étalonnez selon le plan.
+Limpe as faces, verifique o zero com as faces fechadas (ou com um padrão de ajuste), segure pela placa isolante, guarde com as faces levemente afastadas, calibre conforme o plano.
+擦净测量面，合拢测量面（或用校对棒）检查零位，握住隔热板，存放时测量面稍分开，按计划校准。
+Протрите поверхности, проверьте ноль при сведённых поверхностях (или по установочной мере), держите за теплоизоляционную накладку, храните с немного разведёнными поверхностями, калибруйте по плану.
+Przetrzyj powierzchnie, sprawdź zero przy zamkniętych powierzchniach (lub wzorcem nastawczym), trzymaj za izolowaną nakładkę, przechowuj z lekko rozsuniętymi powierzchniami, wzorcuj zgodnie z planem.
+Törölje le a mérőfelületeket, ellenőrizze a nullát zárt felületekkel (vagy beállító etalonnal), a hőszigetelő lapnál fogja, kissé szétnyitott felületekkel tárolja, a terv szerint kalibrálja.
+Limpie las caras, compruebe el cero con las caras cerradas (o con un patrón de ajuste), sujételo por la placa aislante, guárdelo con las caras ligeramente separadas, calíbrelo según el plan.
+
+#6091
+Arcade en C
+Arco em C
+C 形尺架
+С-образная скоба
+Kabłąk w kształcie C
+C-kengyel
+Arco en C
+
+#6092
+Arcade forgée rigide qui maintient la touche fixe et le fourreau alignés.
+Arco forjado rígido que mantém a bigorna e a bainha alinhadas.
+刚性锻造尺架，使测砧和固定套管保持同轴。
+Жёсткая кованая скоба, удерживающая пятку и стебель на одной оси.
+Sztywny kuty kabłąk utrzymujący kowadełko i tuleję w osi.
+Merev kovácsolt kengyel, amely egy vonalban tartja az üllőt és a hüvelyt.
+Arco forjado rígido que mantiene alineados el yunque y el cilindro.
+
+#6093
+Plaquettes isolantes
+Placas isolantes
+隔热板
+Теплоизоляционные накладки
+Nakładki izolacyjne
+Hőszigetelő lapok
+Placas aislantes
+
+#6094
+Tenez l'outil ici pour que la chaleur de la main ne dilate pas l'arcade.
+Segure a ferramenta aqui para o calor da mão não dilatar o arco.
+握住此处，避免手温使尺架膨胀。
+Держите инструмент здесь, чтобы тепло руки не расширяло скобу.
+Trzymaj narzędzie tutaj, aby ciepło dłoni nie rozszerzało kabłąka.
+Itt fogja a szerszámot, hogy a kéz melege ne tágítsa a kengyelt.
+Sujete la herramienta aquí para que el calor de la mano no dilate el arco.
+
+#6095
+Touche fixe (face carbure)
+Bigorna (face de metal duro)
+测砧（硬质合金面）
+Пятка (твёрдосплавная поверхность)
+Kowadełko (powierzchnia z węglika)
+Üllő (keményfém felület)
+Yunque (cara de metal duro)
+
+#6096
+Face de mesure fixe, rodée plane.
+Face de medição fixa, lapidada plana.
+固定测量面，研磨平整。
+Неподвижная измерительная поверхность, доведённая до плоскостности.
+Stała powierzchnia pomiarowa, docierana na płasko.
+Fix mérőfelület, síkra lepelezve.
+Cara de medición fija, lapeada plana.
+
+#6097
+Fourreau (canon) avec échelle en mm
+Bainha (cilindro) com escala em mm
+带毫米刻度的固定套管
+Стебель с миллиметровой шкалой
+Tuleja ze skalą mm
+Hüvely mm-skálával
+Cilindro (manguito) con escala en mm
+
+#6098
+Ligne de référence avec les mm entiers d'un côté et les demi-mm de l'autre.
+Linha de referência com mm inteiros de um lado e meios mm do outro.
+基准线一侧为整毫米刻度，另一侧为半毫米刻度。
+Продольная риска: с одной стороны целые mm, с другой — половины mm.
+Linia odniesienia z pełnymi mm po jednej stronie i połówkami mm po drugiej.
+Alapvonal, egyik oldalán egész mm-ek, a másikon fél mm-ek.
+Línea de referencia con mm enteros a un lado y medios mm al otro.
+
+#6099
+Écrou de broche (intérieur)
+Porca do fuso (interna)
+测微螺母（内部）
+Гайка микровинта (внутри)
+Nakrętka wrzeciona (wewnątrz)
+Orsóanya (belül)
+Tuerca del husillo (interior)

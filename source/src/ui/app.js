@@ -16,6 +16,7 @@
       if (v === 'pcb' && EL.pcb && EL.pcb.onShow) EL.pcb.onShow();
     }
     if (v === 'loto' && EL.loto) EL.loto.onShow();
+    if (v === 'mech' && EL.mechUI) EL.mechUI.onShow();
     if (v === 'inspect' && EL.inspect) EL.inspect.onShow();
     if (v === 'guide' && EL.guide) EL.guide.onShow();
     if (v === 'projects' && EL.projects && EL.projects.onShow) EL.projects.onShow();
@@ -43,6 +44,7 @@
     if (ui.inst) { ui.inst.init(); ui.inst.mount($('#pane-meters')); }
     if (ui.assist) ui.assist.init();
     if (EL.loto) EL.loto.init();
+    if (EL.mechUI) EL.mechUI.init();
     if (EL.pcb) EL.pcb.init();
     if (EL.inspect) EL.inspect.init();
     if (EL.guide) EL.guide.init();

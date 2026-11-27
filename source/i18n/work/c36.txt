@@ -1,0 +1,1745 @@
+#5076
+Vis hexagonale, rondelles et écrou (M12, 8.8)
+Parafuso sextavado, arruelas e porca (M12, 8.8)
+六角螺栓、垫圈和螺母（M12，8.8）
+Болт с шестигранной головкой, шайбы и гайка (M12, 8.8)
+Śruba z łbem sześciokątnym, podkładki i nakrętka (M12, 8.8)
+Hatlapfejű csavar, alátétek és anya (M12, 8.8)
+Perno hexagonal, arandelas y tuerca (M12, 8.8)
+
+#5077
+Assemblage boulonné : le boulon s'allonge comme un ressort raide et sa tension serre les plaques l'une contre l'autre. Les rondelles répartissent la charge ; l'écrou reprend la charge sur les filets.
+Junta aparafusada: o parafuso estica como uma mola rígida e sua tensão aperta as chapas uma contra a outra. As arruelas distribuem a carga; a porca suporta a carga da rosca.
+螺栓连接：螺栓像一根很硬的弹簧一样被拉长，其拉力把板件夹紧在一起。垫圈分散载荷，螺母承受螺纹载荷。
+Болтовое соединение: болт растягивается, как жёсткая пружина, и его натяжение стягивает пластины. Шайбы распределяют нагрузку; гайка воспринимает нагрузку на резьбу.
+Połączenie śrubowe: śruba wydłuża się jak sztywna sprężyna, a jej naciąg dociska płyty do siebie. Podkładki rozkładają obciążenie; nakrętka przenosi obciążenie gwintu.
+Csavarkötés: a csavar merev rugóként megnyúlik, és a feszítőereje összeszorítja a lemezeket. Az alátétek elosztják a terhelést; az anya viseli a menetterhelést.
+Unión atornillada: el perno se estira como un resorte rígido y su tensión aprieta las placas entre sí. Las arandelas reparten la carga; la tuerca soporta la carga de la rosca.
+
+#5078
+Bâtis de machines, socles de moteurs et de pompes, brides de tuyauterie, supports et carters de protection partout sur le site.
+Estruturas de máquinas, bases de motores e bombas, flanges de tubulação, suportes e proteções em toda a planta.
+设备机架、电机和泵的底座、管道法兰、支架和防护罩，全厂到处都有。
+Рамы машин, основания двигателей и насосов, фланцы трубопроводов, опоры и защитные ограждения повсюду на площадке.
+Ramy maszyn, podstawy silników i pomp, kołnierze rurociągów, wsporniki i osłony w całym zakładzie.
+Gépvázak, motor- és szivattyúalapok, csőkarimák, tartók és védőburkolatok az üzem minden pontján.
+Bastidores de máquinas, bancadas de motores y bombas, bridas de tubería, soportes y protecciones en toda la planta.
+
+#5079
+"8.8" sur la tête : résistance à la traction 800 MPa, limite élastique 0,8 × 800 = 640 MPa. Serrez au couple du tableau (M12 8.8 environ 80 N·m, légèrement huilé) pour que la vis s'allonge jusqu'à la bonne force de serrage.
+"8.8" na cabeça: resistência à tração 800 MPa, escoamento 0,8 × 800 = 640 MPa. Aperte com o torque da tabela (M12 8.8 cerca de 80 N·m, levemente lubrificado) para que o parafuso estique até a força de aperto correta.
+"8.8" 标在头部：抗拉强度 800 MPa，屈服强度 0.8 × 800 = 640 MPa。按扭矩表拧紧（M12 8.8 约 80 N·m，轻微涂油），使螺栓伸长到正确的夹紧力。
+"8.8" на головке: предел прочности 800 MPa, предел текучести 0,8 × 800 = 640 MPa. Затягивайте моментом по таблице (M12 8.8 около 80 N·m, резьба слегка смазана), чтобы болт растянулся до нужного усилия затяжки.
+"8.8" na łbie: wytrzymałość na rozciąganie 800 MPa, granica plastyczności 0,8 × 800 = 640 MPa. Dokręć momentem z tabeli (M12 8.8 ok. 80 N·m, lekko naoliwiona), aby śruba wydłużyła się do właściwej siły docisku.
+"8.8" a fejen: szakítószilárdság 800 MPa, folyáshatár 0,8 × 800 = 640 MPa. Húzza meg a táblázat szerinti nyomatékra (M12 8.8 kb. 80 N·m, enyhén olajozva), hogy a csavar a megfelelő szorítóerőig nyúljon.
+"8.8" en la cabeza: resistencia a la tracción 800 MPa, límite elástico 0,8 × 800 = 640 MPa. Apriete al par de la tabla (M12 8.8 unos 80 N·m, ligeramente aceitado) para que el perno se estire hasta la fuerza de apriete correcta.
+
+#5080
+Desserrage sous vibrations, filets arrachés, vis allongée au-delà de la limite élastique (striction), fissure de fatigue sous la tête ou au premier filet en prise, corrosion.
+Afrouxamento por vibração, rosca espanada, parafuso esticado além do escoamento (estrangulado), trinca de fadiga sob a cabeça ou no primeiro filete engajado, corrosão.
+振动松动、螺纹滑牙、螺栓拉伸超过屈服点（出现缩颈）、头部下方或第一圈啮合螺纹处的疲劳裂纹、腐蚀。
+Самоотвинчивание от вибрации, срыв резьбы, болт растянут выше предела текучести (образовалась шейка), усталостная трещина под головкой или у первого витка в зацеплении, коррозия.
+Luzowanie się od drgań, zerwany gwint, śruba wydłużona ponad granicę plastyczności (przewężenie), pęknięcie zmęczeniowe pod łbem lub na pierwszym zwoju w zazębieniu, korozja.
+Lazulás rezgés hatására, menetszakadás, folyáshatár fölé nyújtott csavar (befűződés), fáradásos repedés a fej alatt vagy az első teherviselő menetnél, korrózió.
+Aflojamiento por vibración, rosca barrida, perno estirado más allá del límite elástico (estrangulado), grieta por fatiga bajo la cabeza o en el primer hilo engranado, corrosión.
+
+#5081
+Utilisez la classe et la longueur du plan (2-3 filets dépassant de l'écrou), serrez avec une clé dynamométrique étalonnée, ne réutilisez jamais une vis allongée. Une rondelle Grower freine peu sur une vis 8.8 : sous vibrations, utilisez un écrou autofreiné ou un frein filet.
+Use a classe e o comprimento do desenho (2-3 filetes para fora da porca), aperte com torquímetro calibrado, nunca reutilize parafusos esticados. A arruela de pressão trava pouco em parafusos 8.8: sob vibração, use porca autotravante ou trava-rosca.
+按图纸选用强度等级和长度（螺母外露 2-3 扣螺纹），用经校准的扭矩扳手拧紧，拉伸过的螺栓绝不能再用。弹簧垫圈对 8.8 级螺栓的防松作用很小：有振动时用锁紧螺母或螺纹锁固剂。
+Используйте класс прочности и длину по чертежу (2-3 витка выступают из гайки), затягивайте поверенным динамометрическим ключом, никогда не используйте повторно растянутые болты. Пружинная шайба мало стопорит болты 8.8: при вибрации применяйте самоконтрящуюся гайку или фиксатор резьбы.
+Stosuj klasę i długość z rysunku (2-3 zwoje wystające z nakrętki), dokręcaj skalibrowanym kluczem dynamometrycznym, nigdy nie używaj ponownie wydłużonych śrub. Podkładka sprężysta słabo zabezpiecza śruby 8.8: przy drganiach stosuj nakrętkę samozabezpieczającą lub klej do gwintów.
+A rajz szerinti szilárdsági osztályt és hosszt használja (2-3 menet álljon ki az anyából), kalibrált nyomatékkulccsal húzza meg, megnyúlt csavart soha ne használjon újra. A rugós alátét 8.8-as csavaroknál alig biztosít: rezgésnél önzáró anyát vagy menetrögzítőt használjon.
+Use la clase y la longitud del plano (2-3 hilos fuera de la tuerca), apriete con una llave dinamométrica calibrada y nunca reutilice pernos estirados. La arandela de presión apenas bloquea en pernos 8.8: con vibración use una tuerca autoblocante o fijador de roscas.
+
+#5082
+Plaque inférieure
+Chapa inferior
+下板
+Нижняя пластина
+Płyta dolna
+Alsó lemez
+Placa inferior
+
+#5083
+Pièce serrée avec un trou de passage de 13 mm.
+Peça fixada com furo passante de 13 mm.
+被夹紧件，带 13 mm 通孔。
+Стягиваемая деталь с отверстием под болт 13 mm.
+Część dociskana z otworem przelotowym 13 mm.
+Összeszorított alkatrész 13 mm-es átmenő furattal.
+Pieza apretada con un agujero pasante de 13 mm.
+
+#5084
+Plaque supérieure
+Chapa superior
+上板
+Верхняя пластина
+Płyta górna
+Felső lemez
+Placa superior
+
+#5085
+Deuxième pièce serrée.
+Segunda peça fixada.
+第二个被夹紧件。
+Вторая стягиваемая деталь.
+Druga część dociskana.
+Második összeszorított alkatrész.
+Segunda pieza apretada.
+
+#5086
+Rondelle plate (côté tête)
+Arruela lisa (lado da cabeça)
+平垫圈（头部侧）
+Плоская шайба (со стороны головки)
+Podkładka płaska (od strony łba)
+Lapos alátét (fej oldal)
+Arandela plana (lado de la cabeza)
+
+#5087
+Répartit la charge sous la tête et protège la surface pendant le serrage.
+Distribui a carga da cabeça e protege a superfície ao girar.
+分散头部载荷，拧动时保护表面。
+Распределяет нагрузку от головки и защищает поверхность при затяжке.
+Rozkłada nacisk łba i chroni powierzchnię podczas obracania.
+Elosztja a fej terhelését, és forgatáskor védi a felületet.
+Reparte la carga de la cabeza y protege la superficie al girar.
+
+#5088
+Vis hexagonale M12 × 45, classe 8.8
+Parafuso sextavado M12 × 45, classe 8.8
+六角螺栓 M12 × 45，8.8 级
+Болт с шестигранной головкой M12 × 45, класс 8.8
+Śruba sześciokątna M12 × 45, klasa 8.8
+Hatlapfejű csavar M12 × 45, 8.8 szilárdsági osztály
+Perno hexagonal M12 × 45, clase 8.8
+
+#5089
+Tête marquée 8.8 ; filetage à pas gros, pas de 1,75 mm.
+Cabeça marcada 8.8; rosca grossa, passo de 1,75 mm.
+头部标记 8.8；粗牙螺纹，螺距 1.75 mm。
+Головка с маркировкой 8.8; крупная резьба, шаг 1,75 mm.
+Łeb oznaczony 8.8; gwint zwykły, skok 1,75 mm.
+A fejen 8.8 jelölés; normál (durva) menet, 1,75 mm menetemelkedés.
+Cabeza marcada 8.8; rosca gruesa, paso de 1,75 mm.
+
+#5090
+Rondelle plate (côté écrou)
+Arruela lisa (lado da porca)
+平垫圈（螺母侧）
+Плоская шайба (со стороны гайки)
+Podkładka płaska (od strony nakrętki)
+Lapos alátét (anya oldal)
+Arandela plana (lado de la tuerca)
+
+#5091
+Surface plane et dure sur laquelle tourne l'écrou.
+Face plana e dura para a porca girar sobre ela.
+硬质平面，供螺母在上面转动。
+Твёрдая плоская поверхность, по которой вращается гайка.
+Twarda, płaska powierzchnia, po której obraca się nakrętka.
+Kemény, sík felület, amelyen az anya elfordul.
+Cara plana y dura sobre la que gira la tuerca.
+
+#5092
+Rondelle élastique fendue (Grower)
+Arruela de pressão (partida)
+弹簧垫圈（开口）
+Пружинная шайба (гровер)
+Podkładka sprężysta (rozcięta)
+Rugós alátét (hasított)
+Arandela de presión (partida)
+
+#5093
+Anneau fendu et vrillé : donne un peu d'élasticité sous l'écrou.
+Anel partido e torcido: dá um pouco de efeito mola sob a porca.
+开口扭曲的环：在螺母下提供少许弹性。
+Разрезное кольцо со смещёнными концами: даёт небольшую упругость под гайкой.
+Rozcięty, skręcony pierścień: daje trochę sprężystości pod nakrętką.
+Hasított, elcsavart gyűrű: kis rugalmasságot ad az anya alatt.
+Anillo partido y torcido: da un poco de efecto resorte bajo la tuerca.
+
+#5094
+Écrou hexagonal M12, classe 8
+Porca sextavada M12, classe 8
+六角螺母 M12，8 级
+Шестигранная гайка M12, класс 8
+Nakrętka sześciokątna M12, klasa 8
+Hatlapú anya M12, 8-as osztály
+Tuerca hexagonal M12, clase 8
+
+#5095
+La classe de l'écrou doit correspondre à celle de la vis (8 avec 8.8).
+A classe da porca deve combinar com a do parafuso (8 com 8.8).
+螺母等级必须与螺栓等级匹配（8 级配 8.8 级）。
+Класс гайки должен соответствовать классу болта (8 для 8.8).
+Klasa nakrętki musi pasować do klasy śruby (8 do 8.8).
+Az anya osztályának illeszkednie kell a csavaréhoz (8-as a 8.8-ashoz).
+La clase de la tuerca debe corresponder a la del perno (8 con 8.8).
+
+#5096
+Desserrer / serrer
+Afrouxar / apertar
+松开 / 拧紧
+Ослабить / затянуть
+Poluzuj / dokręć
+Lazítás / meghúzás
+Aflojar / apretar
+
+#5097
+Que signifie 8.8 sur la tête d'une vis ?
+O que significa 8.8 na cabeça de um parafuso?
+螺栓头上的 8.8 是什么意思？
+Что означает 8.8 на головке болта?
+Co oznacza 8.8 na łbie śruby?
+Mit jelent a 8.8 a csavar fején?
+¿Qué significa 8.8 en la cabeza de un perno?
+
+#5098
+800 MPa en traction, limite élastique à 80 % de cette valeur
+800 MPa de tração, escoamento a 80 % disso
+抗拉 800 MPa，屈服为其 80 %
+800 MPa на разрыв, текучесть 80 % от этого
+800 MPa wytrzymałości na rozciąganie, granica plastyczności 80 % tej wartości
+800 MPa szakítószilárdság, folyáshatár ennek 80 %-a
+800 MPa a tracción, límite elástico el 80 % de eso
+
+#5099
+Diamètre de 8,8 mm
+Diâmetro de 8,8 mm
+直径 8.8 mm
+Диаметр 8,8 mm
+Średnica 8,8 mm
+8,8 mm átmérő
+Diámetro de 8,8 mm
+
+#5100
+Serrer à 88 N·m
+Apertar a 88 N·m
+拧紧至 88 N·m
+Затянуть до 88 N·m
+Dokręcić do 88 N·m
+Meghúzás 88 N·m-re
+Apretar a 88 N·m
+
+#5101
+8 filets par 8 mm
+8 filetes a cada 8 mm
+每 8 mm 有 8 扣螺纹
+8 витков на 8 mm
+8 zwojów na 8 mm
+8 menet 8 mm-enként
+8 hilos por cada 8 mm
+
+#5102
+Combien de filets doivent dépasser de l'écrou ?
+Quantos filetes devem ficar para fora da porca?
+螺母外应露出几扣螺纹？
+Сколько витков должно выступать из гайки?
+Ile zwojów powinno wystawać z nakrętki?
+Hány menetnek kell kiállnia az anyából?
+¿Cuántos hilos deben sobresalir de la tuerca?
+
+#5103
+Environ 2 à 3
+Cerca de 2 a 3
+约 2 到 3 扣
+Примерно 2-3
+Około 2 do 3
+Körülbelül 2-3
+Unos 2 a 3
+
+#5104
+Aucun, à fleur c'est mieux
+Nenhum, rente é melhor
+不露出，齐平最好
+Ни одного, лучше заподлицо
+Żaden, najlepiej na równo
+Egy sem, a síkban végződő a legjobb
+Ninguno, a ras es lo mejor
+
+#5105
+Au moins 10
+Pelo menos 10
+至少 10 扣
+Не менее 10
+Co najmniej 10
+Legalább 10
+Al menos 10
+
+#5106
+La moitié de la longueur de la vis
+Metade do comprimento do parafuso
+螺栓长度的一半
+Половина длины болта
+Połowa długości śruby
+A csavarhossz fele
+La mitad de la longitud del perno
+
+#5107
+Vis CHC dans un lamage, avec filet rapporté
+Parafuso Allen em rebaixo, com inserto roscado
+沉孔内的内六角圆柱头螺钉，带螺纹护套
+Винт с внутренним шестигранником в цековке, с резьбовой вставкой
+Śruba imbusowa w pogłębieniu, z wkładką gwintową
+Imbuszcsavar süllyesztésben, menetbetéttel
+Tornillo Allen en avellanado cilíndrico, con inserto roscado
+
+#5108
+Vis à tête cylindrique à six pans creux (généralement classe 12.9) logée sous la surface dans un lamage, vissée dans une pièce en aluminium à travers un filet rapporté hélicoïdal en fil inox.
+Parafuso Allen de cabeça cilíndrica (normalmente classe 12.9) abaixo da superfície em um rebaixo, rosqueado em uma peça de alumínio através de um inserto roscado helicoidal de arame inox.
+内六角圆柱头螺钉（通常为 12.9 级）沉在沉孔内、低于表面，通过不锈钢钢丝螺套拧入铝件。
+Винт с цилиндрической головкой и внутренним шестигранником (обычно класс 12.9), утопленный в цековку ниже поверхности и ввёрнутый в алюминиевую деталь через спиральную проволочную вставку из нержавеющей стали.
+Śruba z łbem walcowym z gniazdem sześciokątnym (zwykle klasa 12.9) schowana w pogłębieniu poniżej powierzchni, wkręcona w część aluminiową przez spiralną wkładkę gwintową z drutu nierdzewnego.
+Belső kulcsnyílású hengeres fejű csavar (általában 12.9 osztály) süllyesztésben a felület alatt, rozsdamentes huzalos menetbetéten keresztül alumínium alkatrészbe csavarva.
+Tornillo de cabeza cilíndrica con hexágono interior (normalmente clase 12.9) alojado bajo la superficie en un avellanado cilíndrico, roscado en una pieza de aluminio a través de un inserto roscado helicoidal de alambre inoxidable.
+
+#5109
+Pièces de format, outils de formage et de scellage, guides et bâtis des blistéreuses, encartonneuses et étiqueteuses ; filets rapportés dans les plaques en aluminium souvent démontées.
+Peças de formato, ferramentas de formação e selagem, guias e estruturas em blistadeiras, encartuchadeiras e rotuladoras; insertos em placas de alumínio abertas com frequência.
+泡罩机、装盒机和贴标机上的换型件、成型和热封模具、导轨和机架；经常拆开的铝板上的螺套。
+Сменные детали, формовочные и запаечные инструменты, направляющие и рамы на блистерных, картонажных и этикетировочных машинах; вставки в часто разбираемых алюминиевых плитах.
+Części formatowe, narzędzia formujące i zgrzewające, prowadnice i ramy na blistrownicach, kartoniarkach i etykieciarkach; wkładki w płytach aluminiowych często rozkręcanych.
+Formátumalkatrészek, formázó- és lezárószerszámok, vezetők és vázak buborékcsomagoló, dobozoló és címkéző gépeken; menetbetétek gyakran bontott alumíniumlapokban.
+Piezas de formato, herramientas de formado y sellado, guías y bastidores en blisteadoras, estuchadoras y etiquetadoras; insertos en placas de aluminio que se abren a menudo.
+
+#5110
+Le lamage garde la tête à fleur pour que rien n'accroche. Les filets dans l'aluminium tendre s'usent ; le filet rapporté en acier dur donne un filetage solide et résistant à l'usure, et répare aussi un trou foiré.
+O rebaixo deixa a cabeça rente para que nada enganche. Roscas no alumínio macio se desgastam; o inserto de aço duro dá uma rosca forte e resistente ao desgaste e também recupera um furo espanado.
+沉孔使螺钉头与表面齐平，不会挂住任何东西。软铝螺纹容易磨损；硬钢螺套提供强度高、耐磨的螺纹，也能修复滑牙的螺孔。
+Цековка утапливает головку заподлицо, чтобы ничего не цеплялось. Резьба в мягком алюминии изнашивается; твёрдая стальная вставка даёт прочную износостойкую резьбу и также восстанавливает сорванное отверстие.
+Pogłębienie chowa łeb na równo z powierzchnią, więc nic o niego nie zahacza. Gwinty w miękkim aluminium się zużywają; twarda stalowa wkładka daje mocny, odporny na zużycie gwint, a także naprawia zerwany otwór.
+A süllyesztés a fejet a felülettel egy síkban tartja, így semmi sem akad bele. A puha alumínium menete kopik; a kemény acél menetbetét erős, kopásálló menetet ad, és a kiszakadt furatot is javítja.
+El avellanado deja la cabeza a ras para que nada se enganche. Las roscas en aluminio blando se desgastan; el inserto de acero duro da una rosca resistente al desgaste y además repara un agujero barrido.
+
+#5111
+Six pans creux arrondi (clé usée, clé pas enfoncée à fond), filetage arraché dans l'aluminium, filet rapporté arraché ou queue d'entraînement laissée dans un trou débouchant, vis grippée dans le filet rapporté.
+Sextavado interno espanado (chave gasta, chave não inserida até o fundo), rosca espanada no alumínio, inserto arrancado ou espiga deixada em furo passante, parafuso engripado no inserto.
+内六角孔被拧圆（扳手磨损、扳手未插到底）、铝件螺纹滑牙、螺套被拔出或通孔中安装柄未取出、螺钉在螺套内咬死。
+Скруглённый шестигранник (изношенный ключ, ключ вставлен не до конца), сорванная резьба в алюминии, вырванная вставка или поводок, оставленный в сквозном отверстии, винт, прикипевший во вставке.
+Zaokrąglone gniazdo sześciokątne (zużyty klucz, klucz niewłożony do końca), zerwany gwint w aluminium, wyrwana wkładka lub zabierak pozostawiony w otworze przelotowym, śruba zapieczona we wkładce.
+Kerekre nyalt belső kulcsnyílás (kopott kulcs, nem teljesen behelyezett kulcs), kiszakadt menet az alumíniumban, kihúzott menetbetét vagy átmenő furatban hagyott beszerelő csap, menetbetétben beragadt csavar.
+Hexágono interior redondeado (llave gastada, llave no metida a fondo), rosca barrida en el aluminio, inserto arrancado o espiga dejada en un agujero pasante, tornillo agarrotado en el inserto.
+
+#5112
+Utilisez une bonne clé métrique enfoncée à fond, serrez au couple prévu pour l'aluminium/le filet rapporté, pas à la valeur acier 12.9. Posez les filets rapportés avec le taraud STI et l'outil spécial, cassez et retirez la queue d'entraînement.
+Use uma boa chave métrica inserida até o fundo, aperte com o torque do alumínio/inserto, não o do aço 12.9. Instale os insertos com o macho STI e a ferramenta especial, quebre e retire a espiga.
+使用质量好的公制内六角扳手并插到底，按铝件/螺套的扭矩值拧紧，而不是 12.9 级钢的扭矩值。用专用 STI 丝锥和安装工具装螺套，然后折断并取出安装柄。
+Используйте качественный метрический ключ, вставленный до конца, затягивайте моментом для алюминия/вставки, а не для стали 12.9. Устанавливайте вставки специальным метчиком STI и инструментом, отломите и удалите поводок.
+Używaj dobrego klucza metrycznego włożonego do końca, dokręcaj momentem dla aluminium/wkładki, a nie dla stali 12.9. Wkładki montuj specjalnym gwintownikiem STI i narzędziem, odłam i usuń zabierak.
+Jó minőségű, teljesen behelyezett metrikus kulcsot használjon, és az alumíniumra/menetbetétre előírt nyomatékkal húzzon, ne a 12.9-es acélra vonatkozó értékkel. A menetbetétet speciális STI menetfúróval és szerszámmal szerelje be, a beszerelő csapot törje le és távolítsa el.
+Use una buena llave métrica metida a fondo y apriete al par del aluminio/inserto, no al del acero 12.9. Coloque los insertos con el macho STI y la herramienta especial, rompa y retire la espiga.
+
+#5113
+Embase en aluminium
+Base de alumínio
+铝底座
+Алюминиевое основание
+Podstawa aluminiowa
+Alumínium alaplap
+Base de aluminio
+
+#5114
+Pièce tendre avec un trou taraudé aux dimensions du filet rapporté.
+Peça macia com furo roscado dimensionado para o inserto.
+软质零件，螺孔按螺套尺寸攻制。
+Мягкая деталь с резьбовым отверстием под размер вставки.
+Miękka część z otworem gwintowanym pod wkładkę.
+Puha alkatrész a menetbetéthez méretezett menetes furattal.
+Pieza blanda con un agujero roscado a la medida del inserto.
+
+#5115
+Filet rapporté hélicoïdal
+Inserto roscado helicoidal
+钢丝螺套
+Спиральная резьбовая вставка
+Spiralna wkładka gwintowa
+Spirális menetbetét
+Inserto roscado helicoidal
+
+#5116
+Spirale inox à section losange : à l'intérieur, un filetage M8 standard.
+Espiral inox de seção losangular: por dentro há uma rosca M8 padrão.
+菱形截面的不锈钢螺旋圈：内部是标准 M8 螺纹。
+Нержавеющая спираль ромбического сечения: внутри неё стандартная резьба M8.
+Nierdzewna spirala o przekroju rombowym: w środku standardowy gwint M8.
+Rombusz keresztmetszetű rozsdamentes spirál: belül szabványos M8 menet.
+Espiral inoxidable de sección rómbica: por dentro tiene una rosca M8 estándar.
+
+#5117
+Plaque serrée avec lamage
+Chapa fixada com rebaixo
+带沉孔的被夹紧板
+Прижимаемая пластина с цековкой
+Płyta dociskana z pogłębieniem
+Összeszorított lap süllyesztéssel
+Placa apretada con avellanado cilíndrico
+
+#5118
+Trou débouchant de 9 mm et lamage de 14 mm pour la tête.
+Furo passante de 9 mm e rebaixo de 14 mm para a cabeça.
+9 mm 通孔，以及容纳螺钉头的 14 mm 沉孔。
+Сквозное отверстие 9 mm и цековка 14 mm под головку.
+Otwór przelotowy 9 mm i pogłębienie 14 mm na łeb.
+9 mm-es átmenő furat és 14 mm-es süllyesztés a fejnek.
+Agujero pasante de 9 mm y avellanado de 14 mm para la cabeza.
+
+#5119
+Vis CHC M8 × 30, 12.9
+Parafuso Allen cabeça cilíndrica M8 × 30, 12.9
+内六角圆柱头螺钉 M8 × 30，12.9 级
+Винт с внутренним шестигранником M8 × 30, 12.9
+Śruba imbusowa M8 × 30, 12.9
+Imbuszcsavar M8 × 30, 12.9
+Tornillo Allen de cabeza cilíndrica M8 × 30, 12.9
+
+#5120
+Vis haute résistance entraînée par une clé six pans de 6 mm.
+Parafuso de alta resistência acionado por chave Allen de 6 mm.
+高强度螺钉，用 6 mm 内六角扳手拧动。
+Высокопрочный винт, заворачиваемый шестигранным ключом 6 mm.
+Śruba o wysokiej wytrzymałości, wkręcana kluczem imbusowym 6 mm.
+Nagy szilárdságú csavar, 6 mm-es imbuszkulccsal hajtva.
+Tornillo de alta resistencia accionado con una llave Allen de 6 mm.
+
+#5121
+Clé six pans 6 mm
+Chave Allen 6 mm
+内六角扳手 6 mm
+Шестигранный ключ 6 mm
+Klucz imbusowy 6 mm
+Imbuszkulcs 6 mm
+Llave Allen 6 mm
+
+#5122
+Bras court dans l'empreinte, bras long pour le couple.
+Braço curto no sextavado, braço longo para o torque.
+短臂插入内六角孔，长臂用来施加扭矩。
+Короткое плечо в шестиграннике, длинное плечо для момента.
+Krótkie ramię w gnieździe, długie ramię do momentu.
+Rövid szár a kulcsnyílásban, hosszú szár a nyomatékhoz.
+Brazo corto en el hexágono, brazo largo para el par.
+
+#5123
+Serrer
+Apertar
+拧紧
+Затянуть
+Dokręć
+Meghúzás
+Apretar
+
+#5124
+Pourquoi poser un filet rapporté en acier dans l'aluminium ?
+Por que instalar um inserto roscado de aço no alumínio?
+为什么要在铝件里装钢制螺套？
+Зачем ставить стальную резьбовую вставку в алюминий?
+Po co montować stalową wkładkę gwintową w aluminium?
+Miért kell acél menetbetétet szerelni az alumíniumba?
+¿Por qué colocar un inserto roscado de acero en aluminio?
+
+#5125
+Les filets dans l'aluminium s'usent et s'arrachent ; le filet rapporté est solide et résiste à l'usure
+Roscas em alumínio desgastam e espanam; o inserto é forte e resistente ao desgaste
+铝螺纹会磨损和滑牙；螺套强度高且耐磨
+Резьба в алюминии изнашивается и срывается; вставка прочная и износостойкая
+Gwinty w aluminium zużywają się i zrywają; wkładka jest mocna i odporna na zużycie
+Az alumínium menet kopik és kiszakad; a menetbetét erős és kopásálló
+Las roscas de aluminio se desgastan y se barren; el inserto es resistente y no se desgasta
+
+#5126
+Pour alléger la vis
+Para deixar o parafuso mais leve
+为了让螺钉更轻
+Чтобы облегчить винт
+Aby śruba była lżejsza
+Hogy a csavar könnyebb legyen
+Para que el tornillo sea más ligero
+
+#5127
+Pour isoler électriquement
+Para isolar eletricamente
+为了电气绝缘
+Для электрической изоляции
+Do izolacji elektrycznej
+Elektromos szigetelés miatt
+Para aislar eléctricamente
+
+#5128
+Pour passer du métrique au pouce
+Para mudar de métrico para polegada
+为了把公制改成英制
+Чтобы перейти с метрической резьбы на дюймовую
+Aby zmienić gwint metryczny na calowy
+Hogy metrikusról colosra váltson
+Para cambiar de métrica a pulgadas
+
+#5129
+À quoi sert le lamage ?
+Para que serve o rebaixo?
+沉孔有什么用？
+Для чего нужна цековка?
+Do czego służy pogłębienie?
+Mire való a süllyesztés?
+¿Para qué sirve el avellanado cilíndrico?
+
+#5130
+La tête est sous la surface, rien ne s'y accroche
+A cabeça fica abaixo da superfície, nada engancha nela
+螺钉头低于表面，不会挂住东西
+Головка ниже поверхности, за неё ничего не цепляется
+Łeb jest poniżej powierzchni, nic o niego nie zahacza
+A fej a felület alatt van, semmi sem akad bele
+La cabeza queda bajo la superficie, nada se engancha en ella
+
+#5131
+Il freine la vis
+Ele trava o parafuso
+它能锁紧螺钉
+Она стопорит винт
+Zabezpiecza śrubę
+Rögzíti a csavart
+Bloquea el tornillo
+
+#5132
+Il retient la graisse
+Ele retém graxa
+它能存放润滑脂
+В ней держится смазка
+Utrzymuje smar
+Zsírt tárol
+Retiene la grasa
+
+#5133
+Il centre le foret
+Ele centraliza a broca
+它用于钻头定心
+Она центрирует сверло
+Centruje wiertło
+Központosítja a fúrót
+Centra la broca
+
+#5134
+Méthodes de freinage des filetages
+Métodos de travamento de roscas
+螺纹防松方法
+Способы стопорения резьбы
+Metody zabezpieczania gwintów
+Menetbiztosítási módszerek
+Métodos de bloqueo de roscas
+
+#5135
+Quatre méthodes courantes pour empêcher les écrous de se desserrer sous vibrations : écrou à bague nylon (Nylstop), contre-écrou, écrou à créneaux avec goupille fendue et frein filet anaérobie.
+Quatro formas comuns de evitar que porcas afrouxem por vibração: porca com anel de nylon, par de porca e contraporca, porca castelo com contrapino e trava-rosca anaeróbico.
+防止螺母在振动下松动的四种常用方法：尼龙嵌件锁紧螺母、双螺母（薄螺母加全螺母）、开槽螺母加开口销，以及厌氧型螺纹锁固剂。
+Четыре распространённых способа не дать гайкам самоотвинчиваться от вибрации: гайка с нейлоновым кольцом, контргайка, корончатая гайка со шплинтом и анаэробный фиксатор резьбы.
+Cztery popularne sposoby zapobiegania luzowaniu się nakrętek od drgań: nakrętka z wkładką nylonową, para z przeciwnakrętką, nakrętka koronowa z zawleczką i anaerobowy klej do gwintów.
+Négy gyakori módszer az anyák rezgés okozta lazulása ellen: nylonbetétes önzáró anya, ellenanyás anyapár, koronás anya sasszeggel és anaerob menetrögzítő.
+Cuatro formas habituales de evitar que las tuercas se aflojen por vibración: tuerca autoblocante con inserto de nylon, par de contratuerca, tuerca almenada con pasador de aletas y fijador de roscas anaeróbico.
+
+#5136
+Cribles et tamis vibrants, ventilateurs et soufflantes, pompes et moteurs, rouleaux de convoyeurs, pièces de presses à comprimés et de blistéreuses, arbres tournants.
+Peneiras vibratórias, ventiladores e sopradores, bombas e motores, roletes de transportadores, peças de compressoras de comprimidos e blistadeiras, eixos rotativos.
+振动筛和筛网、风机和鼓风机、泵和电机、输送机辊筒、压片机和泡罩机零件、旋转轴。
+Вибросита и грохоты, вентиляторы и воздуходувки, насосы и двигатели, ролики конвейеров, детали таблеточных прессов и блистерных машин, вращающиеся валы.
+Przesiewacze i sita wibracyjne, wentylatory i dmuchawy, pompy i silniki, rolki przenośników, części tabletkarek i blistrownic, wały obrotowe.
+Rezgőszűrők és szitagépek, ventilátorok és fúvók, szivattyúk és motorok, szállítószalag-görgők, tablettaprés- és buborékcsomagoló-alkatrészek, forgó tengelyek.
+Cribas y tamices vibratorios, ventiladores y soplantes, bombas y motores, rodillos de transportadores, piezas de tableteadoras y blisteadoras, ejes giratorios.
+
+#5137
+Nylstop : la bague nylon serre le filetage. Contre-écrou : écrou mince d'abord, écrou normal par-dessus, serrés l'un contre l'autre. Écrou à créneaux : goupille fendue à travers le créneau et le trou de la vis, un freinage positif. Frein filet : liquide qui durcit à l'abri de l'air dans le filetage.
+Nyloc: o anel de nylon agarra a rosca. Contraporca: porca fina primeiro, porca normal por cima, apertadas uma contra a outra. Porca castelo: contrapino pelo entalhe e pelo furo do parafuso, um travamento positivo. Trava-rosca: líquido que endurece sem ar dentro da rosca.
+尼龙锁紧螺母：尼龙圈箍住螺纹。双螺母：先装薄螺母，再在上面装全螺母，两者相互顶紧。开槽螺母：开口销穿过槽口和螺栓孔，形成可靠的机械锁止。螺纹锁固剂：在螺纹内隔绝空气后固化的液体。
+Nyloc: нейлоновое кольцо обжимает резьбу. Контргайка: сначала тонкая гайка, сверху полная, затянутые друг против друга. Корончатая гайка: шплинт через прорезь и отверстие в болте, надёжная механическая фиксация. Фиксатор резьбы: жидкость, твердеющая без доступа воздуха внутри резьбы.
+Nyloc: pierścień nylonowy zaciska się na gwincie. Przeciwnakrętka: najpierw cienka nakrętka, na niej pełna, dokręcone do siebie. Nakrętka koronowa: zawleczka przez wycięcie i otwór w śrubie, pewne zabezpieczenie kształtowe. Klej do gwintów: ciecz, która twardnieje bez dostępu powietrza w gwincie.
+Nylonbetétes anya: a nylongyűrű megfogja a menetet. Ellenanya: előbb a vékony anya, rá a teljes anya, egymáshoz feszítve. Koronás anya: sasszeg a horonyon és a csavar furatán át, alakzáró biztosítás. Menetrögzítő: folyadék, amely a menetben levegő nélkül megkeményedik.
+Nyloc: el anillo de nylon agarra la rosca. Contratuerca: primero la tuerca delgada, encima la tuerca normal, apretadas una contra otra. Tuerca almenada: pasador de aletas a través de la ranura y del agujero del perno, un bloqueo positivo. Fijador de roscas: líquido que endurece sin aire dentro de la rosca.
+
+#5138
+Nylstop réutilisé qui tourne librement, contre-écrous dans le mauvais ordre ou non bloqués l'un contre l'autre, goupille fendue usagée ou absente, frein filet sur filetage huileux qui ne polymérise jamais.
+Nyloc reutilizada que gira livre, contraporcas na ordem errada ou não travadas uma contra a outra, contrapino velho ou ausente, trava-rosca em rosca oleosa que nunca cura.
+重复使用后能自由转动的尼龙锁紧螺母、双螺母装反顺序或未相互顶紧、开口销旧了或缺失、涂在有油螺纹上永远不固化的螺纹锁固剂。
+Повторно использованная гайка Nyloc, которая крутится свободно, контргайки в неправильном порядке или не затянутые друг против друга, старый или отсутствующий шплинт, фиксатор резьбы на масляной резьбе, который так и не отвердел.
+Ponownie użyta nakrętka nyloc, która kręci się swobodnie, przeciwnakrętki w złej kolejności lub niedokręcone do siebie, stara lub brakująca zawleczka, klej do gwintów na zaolejonym gwincie, który nigdy się nie utwardza.
+Újra felhasznált, szabadon forgó nylonbetétes anya, rossz sorrendben vagy egymáshoz nem feszített ellenanyák, régi vagy hiányzó sasszeg, olajos menetre kent, soha meg nem kötő menetrögzítő.
+Nyloc reutilizada que gira libremente, contratuercas en el orden equivocado o no bloqueadas entre sí, pasador viejo o ausente, fijador de roscas sobre roscas aceitosas que nunca cura.
+
+#5139
+Remplacez les Nylstop et les goupilles fendues à chaque démontage. Pour aligner un écrou à créneaux, serrez davantage, ne desserrez jamais. Nettoyez et dégraissez les filetages pour le frein filet : le bleu (moyen) se démonte à l'outil à main, le rouge (fort) nécessite de la chaleur.
+Substitua porcas nyloc e contrapinos toda vez que forem removidos. Para alinhar uma porca castelo, aperte mais, nunca afrouxe. Limpe e desengraxe as roscas para o trava-rosca: o azul (médio) sai com ferramentas manuais, o vermelho (alto) precisa de calor.
+尼龙锁紧螺母和开口销每次拆下都要更换。对准开槽螺母时，要继续拧紧，绝不能回松。使用螺纹锁固剂前清洁并除油：蓝色（中强度）用手动工具可拆，红色（高强度）需要加热。
+Заменяйте гайки Nyloc и шплинты при каждом снятии. Чтобы совместить прорезь корончатой гайки, доворачивайте дальше, никогда не отпускайте. Очистите и обезжирьте резьбу под фиксатор: синий (средний) снимается ручным инструментом, красный (высокий) требует нагрева.
+Wymieniaj nakrętki nyloc i zawleczki przy każdym demontażu. Aby ustawić nakrętkę koronową, dokręć dalej, nigdy nie odkręcaj. Oczyść i odtłuść gwinty pod klej: niebieski (średni) odkręca się narzędziami ręcznymi, czerwony (mocny) wymaga podgrzania.
+A nylonbetétes anyákat és sasszegeket minden kiszereléskor cserélje. A koronás anya beállításához húzzon tovább, soha ne lazítson vissza. Menetrögzítőhöz tisztítsa és zsírtalanítsa a menetet: a kék (közepes) kézi szerszámmal oldható, a piros (erős) melegítést igényel.
+Sustituya las tuercas nyloc y los pasadores cada vez que se desmonten. Para alinear una tuerca almenada, apriete más, nunca afloje. Limpie y desengrase las roscas para el fijador: el azul (medio) sale con herramientas manuales, el rojo (alto) necesita calor.
+
+#5140
+Plaque de montage
+Placa de montagem
+安装板
+Монтажная плита
+Płyta montażowa
+Szerelőlap
+Placa de montaje
+
+#5141
+Pièce maintenue, 4 trous.
+Peça fixada, 4 furos.
+被固定的零件，4 个孔。
+Закрепляемая деталь, 4 отверстия.
+Mocowana część, 4 otwory.
+Rögzített alkatrész, 4 furat.
+Pieza sujeta, 4 agujeros.
+
+#5142
+Vis M12
+Parafusos M12
+螺栓 M12
+Болты M12
+Śruby M12
+M12 csavarok
+Pernos M12
+
+#5143
+Même vis, quatre méthodes de freinage. La troisième a un trou transversal pour la goupille fendue.
+Mesmo parafuso, quatro métodos de travamento. O terceiro tem um furo transversal para o contrapino.
+同样的螺栓，四种防松方法。第三根有一个穿开口销的横孔。
+Одинаковые болты, четыре способа стопорения. У третьего есть поперечное отверстие под шплинт.
+Ta sama śruba, cztery metody zabezpieczenia. Trzecia ma poprzeczny otwór na zawleczkę.
+Ugyanaz a csavar, négy biztosítási mód. A harmadikon keresztfurat van a sasszegnek.
+El mismo perno, cuatro métodos de bloqueo. El tercero tiene un agujero transversal para el pasador.
+
+#5144
+Écrou autofreiné à bague nylon
+Porca autotravante com anel de nylon
+尼龙嵌件锁紧螺母
+Гайка с нейлоновым кольцом
+Nakrętka samozabezpieczająca z wkładką nylonową
+Nylonbetétes önzáró anya
+Tuerca autoblocante con inserto de nylon
+
+#5145
+Bague nylon plus petite que le filetage : elle le serre et s'oppose à la rotation. Usage unique.
+Anel de nylon menor que a rosca: agarra a rosca e resiste ao giro. Uso único.
+尼龙圈比螺纹小：箍住螺纹，阻止转动。一次性使用。
+Нейлоновое кольцо меньше резьбы: обжимает её и препятствует проворачиванию. Одноразовая.
+Pierścień nylonowy mniejszy od gwintu: zaciska się na nim i stawia opór przy obracaniu. Jednorazowa.
+A nylongyűrű kisebb a menetnél: megfogja és ellenáll az elfordulásnak. Egyszer használatos.
+Anillo de nylon más pequeño que la rosca: la agarra y resiste el giro. De un solo uso.
+
+#5146
+Contre-écrou (mince)
+Contraporca (fina)
+薄螺母（锁紧用）
+Контргайка (тонкая)
+Przeciwnakrętka (cienka)
+Ellenanya (vékony)
+Contratuerca (delgada)
+
+#5147
+Se monte en premier, contre l'assemblage.
+Vai primeiro, junto à junta.
+先装，紧贴连接面。
+Ставится первой, рядом с соединением.
+Zakładana jako pierwsza, przy złączu.
+Elsőként kerül fel, a kötés mellé.
+Va primero, junto a la unión.
+
+#5148
+Écrou normal par-dessus
+Porca normal por cima
+上面装全螺母
+Полная гайка сверху
+Pełna nakrętka na wierzchu
+Teljes anya felül
+Tuerca normal encima
+
+#5149
+Serré contre le contre-écrou : c'est lui qui reprend alors la charge de la vis.
+Apertada contra a contraporca: passa a suportar a carga do parafuso.
+与薄螺母相互顶紧：此后由它承受螺栓载荷。
+Затягивается против контргайки: после этого она несёт нагрузку болта.
+Dokręcona do przeciwnakrętki: wtedy przenosi obciążenie śruby.
+Az ellenanyához feszítve: ezután ez viseli a csavar terhelését.
+Apretada contra la contratuerca: entonces soporta la carga del perno.
+
+#5150
+Écrou à créneaux
+Porca castelo (entalhada)
+开槽螺母（城堡螺母）
+Корончатая (прорезная) гайка
+Nakrętka koronowa
+Koronás anya
+Tuerca almenada (castillo)
+
+#5151
+Les créneaux du dessus s'alignent sur le trou de la vis.
+Os entalhes em cima se alinham com o furo do parafuso.
+顶部槽口与螺栓上的孔对齐。
+Прорези сверху совмещаются с отверстием в болте.
+Wycięcia u góry pokrywają się z otworem w śrubie.
+A felső hornyok egy vonalba kerülnek a csavar furatával.
+Las ranuras de arriba se alinean con el agujero del perno.
+
+#5152
+Goupille fendue
+Contrapino (cupilha)
+开口销
+Шплинт
+Zawleczka
+Sasszeg
+Pasador de aletas (chaveta)
+
+#5153
+Traverse le créneau et la vis ; branches rabattues. Toujours une neuve.
+Passa pelo entalhe e pelo parafuso; pernas dobradas para trás. Sempre um novo.
+穿过槽口和螺栓，销脚向后弯开。每次都用新的。
+Проходит через прорезь и болт; усики загибаются. Всегда новый.
+Przechodzi przez wycięcie i śrubę; końce odgięte. Zawsze nowa.
+A horonyon és a csavaron megy át; a szárakat visszahajtják. Mindig új kell.
+Pasa por la ranura y el perno; patas dobladas hacia atrás. Siempre uno nuevo.
+
+#5154
+Frein filet (bleu, moyen)
+Trava-rosca (azul, médio)
+螺纹锁固剂（蓝色，中强度）
+Фиксатор резьбы (синий, средний)
+Klej do gwintów (niebieski, średni)
+Menetrögzítő (kék, közepes)
+Fijador de roscas (azul, medio)
+
+#5155
+Liquide anaérobie qui remplit les jeux du filetage et durcit.
+Líquido anaeróbico que preenche as folgas da rosca e endurece.
+厌氧液体，填满螺纹间隙后固化。
+Анаэробная жидкость, которая заполняет зазоры в резьбе и твердеет.
+Ciecz anaerobowa, która wypełnia luzy w gwincie i twardnieje.
+Anaerob folyadék, amely kitölti a menethézagot és megkeményedik.
+Líquido anaeróbico que rellena los huecos de la rosca y endurece.
+
+#5156
+Écrou simple (sur frein filet)
+Porca simples (com trava-rosca)
+普通螺母（涂螺纹锁固剂）
+Обычная гайка (на фиксаторе резьбы)
+Zwykła nakrętka (na kleju do gwintów)
+Egyszerű anya (menetrögzítővel)
+Tuerca simple (con fijador de roscas)
+
+#5157
+Écrou ordinaire, bloqué par le liquide durci.
+Porca comum, travada pelo líquido curado.
+普通螺母，靠固化后的液体锁住。
+Обычная гайка, зафиксированная отвердевшей жидкостью.
+Zwykła nakrętka, zablokowana utwardzoną cieczą.
+Közönséges anya, a megkötött folyadék rögzíti.
+Tuerca corriente, bloqueada por el líquido curado.
+
+#5158
+Le créneau de l'écrou vient de dépasser le trou. Que faites-vous ?
+O entalhe da porca castelo passou um pouco do furo. O que você faz?
+开槽螺母的槽口刚好转过了销孔。该怎么办？
+Прорезь корончатой гайки чуть прошла отверстие. Что делать?
+Wycięcie nakrętki koronowej minęło już otwór. Co robisz?
+A koronás anya horonya épp túlment a furaton. Mit tesz?
+La ranura de la tuerca almenada acaba de pasar el agujero. ¿Qué hace?
+
+#5159
+Serrer davantage jusqu'au créneau suivant
+Apertar mais até o próximo entalhe
+继续拧紧到下一个槽口
+Довернуть до следующей прорези
+Dokręcić dalej do następnego wycięcia
+Továbbhúzni a következő horonyig
+Apretar más hasta la siguiente ranura
+
+#5160
+Desserrer l'écrou jusqu'au créneau
+Afrouxar a porca até o entalhe
+把螺母回松到槽口
+Отпустить гайку до прорези
+Odkręcić nakrętkę do wycięcia
+Visszalazítani az anyát a horonyig
+Aflojar la tuerca hasta la ranura
+
+#5161
+Percer un nouveau trou
+Fazer um novo furo
+钻一个新孔
+Просверлить новое отверстие
+Wywiercić nowy otwór
+Új furatot fúrni
+Taladrar un agujero nuevo
+
+#5162
+Ne pas mettre de goupille
+Deixar sem contrapino
+不装开口销
+Не ставить шплинт
+Pominąć zawleczkę
+Kihagyni a sasszeget
+No poner el pasador
+
+#5163
+Quel écrou se monte en premier dans un montage avec contre-écrou ?
+Qual porca vai primeiro no par com contraporca?
+双螺母中哪个螺母先装？
+Какая гайка ставится первой в паре с контргайкой?
+Która nakrętka idzie pierwsza w parze z przeciwnakrętką?
+Ellenanyás párnál melyik anya kerül fel először?
+¿Qué tuerca va primero en un par con contratuerca?
+
+#5164
+L'écrou mince
+A porca fina
+薄螺母
+Тонкая гайка
+Cienka nakrętka
+A vékony anya
+La tuerca delgada
+
+#5165
+L'écrou normal
+A porca normal
+全螺母
+Полная гайка
+Pełna nakrętka
+A teljes anya
+La tuerca normal
+
+#5166
+N'importe lequel
+Qualquer uma
+哪个都行
+Любая
+Dowolna
+Bármelyik
+Cualquiera
+
+#5167
+Les deux ensemble
+As duas juntas
+两个一起装
+Обе вместе
+Obie razem
+Mindkettő egyszerre
+Las dos a la vez
+
+#5168
+Peut-on réutiliser un écrou Nylstop ?
+Uma porca nyloc pode ser reutilizada?
+尼龙锁紧螺母可以重复使用吗？
+Можно ли повторно использовать гайку Nyloc?
+Czy nakrętkę nyloc można użyć ponownie?
+Újra felhasználható a nylonbetétes anya?
+¿Se puede reutilizar una tuerca nyloc?
+
+#5169
+Non, remplacez-le après démontage
+Não, substitua após a remoção
+不能，拆下后要更换
+Нет, заменять после снятия
+Nie, wymień ją po demontażu
+Nem, kiszerelés után cserélni kell
+No, sustitúyala tras desmontarla
+
+#5170
+Oui, toujours
+Sim, sempre
+可以，随时都行
+Да, всегда
+Tak, zawsze
+Igen, mindig
+Sí, siempre
+
+#5171
+Oui, si on le chauffe
+Sim, se aquecer
+可以，加热后就行
+Да, если нагреть
+Tak, jeśli ją podgrzejesz
+Igen, ha felmelegíti
+Sí, si se calienta
+
+#5172
+Seulement avec de la graisse
+Só com graxa
+只有涂润滑脂才行
+Только со смазкой
+Tylko ze smarem
+Csak zsírral
+Solo con grasa
+
+#5173
+Assemblage par pions de centrage
+Junta com pinos guia
+定位销连接
+Соединение на установочных штифтах
+Połączenie kołkowe ustalające
+Illesztőszeges kötés
+Unión con pasadores de posicionamiento
+
+#5174
+Deux pions trempés et rectifiés, montés dans des trous alésés, fixent la position exacte d'une pièce sur l'autre. Les vis donnent la force de serrage ; les pions ne font que positionner.
+Dois pinos temperados e retificados, montados em furos alargados, fixam a posição exata de uma peça sobre a outra. Os parafusos dão a força de aperto; os pinos guia só posicionam.
+两个淬硬、磨削的销装在铰制孔中，确定一个零件在另一个零件上的准确位置。螺钉提供夹紧力；定位销只负责定位。
+Два закалённых шлифованных штифта в развёрнутых отверстиях задают точное положение одной детали относительно другой. Усилие затяжки дают винты; штифты только фиксируют положение.
+Dwa hartowane, szlifowane kołki osadzone w rozwierconych otworach ustalają dokładne położenie jednej części na drugiej. Siłę docisku dają śruby; kołki tylko ustalają położenie.
+Két edzett, köszörült szeg dörzsárazott furatokban rögzíti az egyik alkatrész pontos helyzetét a másikon. A szorítóerőt a csavarok adják; az illesztőszegek csak pozicionálnak.
+Dos pasadores templados y rectificados, montados en agujeros escariados, fijan la posición exacta de una pieza sobre otra. Los tornillos dan la fuerza de apriete; los pasadores solo posicionan.
+
+#5175
+Pièces de format et outils de scellage/formage des blistéreuses et encartonneuses, demi-carters de réducteurs, paliers, montages et gabarits : tout ce qui doit revenir exactement à la même place.
+Peças de formato e ferramentas de selagem/formação em blistadeiras e encartuchadeiras, metades de caixas de redução, caixas de mancal, dispositivos e gabaritos: tudo o que deve voltar exatamente no mesmo lugar.
+泡罩机和装盒机上的换型件及热封/成型模具、减速箱的两半壳体、轴承座、夹具和工装：凡是必须精确装回原位的零件。
+Сменные детали и запаечные/формовочные инструменты на блистерных и картонажных машинах, половины корпусов редукторов, корпуса подшипников, приспособления и кондукторы: всё, что должно вставать точно на то же место.
+Części formatowe i narzędzia zgrzewające/formujące na blistrownicach i kartoniarkach, połówki korpusów przekładni, obudowy łożysk, przyrządy i uchwyty: wszystko, co musi wrócić dokładnie na to samo miejsce.
+Formátumalkatrészek és lezáró/formázó szerszámok buborékcsomagoló és dobozoló gépeken, hajtóműház-felek, csapágyházak, készülékek és sablonok: minden, aminek pontosan ugyanoda kell visszakerülnie.
+Piezas de formato y herramientas de sellado/formado en blisteadoras y estuchadoras, mitades de cajas reductoras, alojamientos de rodamientos, utillajes y plantillas: todo lo que debe volver exactamente al mismo sitio.
+
+#5176
+Le pion est légèrement serré dans une pièce (trou H7, pion m6) et glissant dans l'autre, de sorte que les pièces se démontent et se remontent sans réglage. Deux pions, aussi éloignés que possible.
+O pino tem ajuste leve com interferência em uma peça (furo H7, pino m6) e ajuste deslizante na outra, assim as peças se separam e voltam sem ajuste. Dois pinos, o mais afastados possível.
+销在一个零件中为轻压配合（H7 孔，m6 销），在另一个零件中为滑动配合，因此零件拆开后装回无需调整。用两个定位销，间距尽量大。
+Штифт сидит с лёгким натягом в одной детали (отверстие H7, штифт m6) и со скользящей посадкой в другой, поэтому детали разбираются и собираются без регулировки. Два штифта, как можно дальше друг от друга.
+Kołek jest lekko wciśnięty w jedną część (otwór H7, kołek m6) i suwliwy w drugiej, więc części rozbiera się i składa bez ustawiania. Dwa kołki, jak najdalej od siebie.
+A szeg az egyik alkatrészben enyhe préseléssel ül (H7 furat, m6 szeg), a másikban csúszóillesztéssel, így az alkatrészek beállítás nélkül szétszedhetők és visszarakhatók. Két illesztőszeg, egymástól a lehető legtávolabb.
+El pasador va con ligero apriete en una pieza (agujero H7, pasador m6) y con ajuste deslizante en la otra, así las piezas se separan y vuelven sin reglaje. Dos pasadores, lo más separados posible.
+
+#5177
+Trous usés ou ovalisés par des pièces qui bougent (vis desserrées), pions cisaillés quand ils reprennent la charge, pions enfoncés de travers au marteau, pion coincé dans un trou borgne.
+Furos gastos ou ovalizados por peças se movendo (parafusos soltos), pinos cisalhados quando suportam carga, pinos martelados tortos, pino preso em furo cego.
+零件移动（螺钉松动）导致的孔磨损或椭圆、定位销承受载荷后被剪断、销被歪着敲入、定位销卡在盲孔中。
+Изношенные или овальные отверстия из-за смещения деталей (ослабли винты), срезанные штифты, когда они несут нагрузку, штифты, забитые с перекосом, штифт, застрявший в глухом отверстии.
+Zużyte lub owalne otwory od przesuwania się części (luźne śruby), ścięte kołki, gdy przenoszą obciążenie, kołki wbite krzywo, kołek zakleszczony w otworze nieprzelotowym.
+Elmozduló alkatrészek (laza csavarok) miatt kopott vagy ovális furatok, terhelést viselő, elnyírt illesztőszegek, ferdén bevert szegek, zsákfuratban beragadt illesztőszeg.
+Agujeros gastados u ovalados por piezas que se mueven (tornillos flojos), pasadores cizallados cuando soportan carga, pasadores metidos torcidos a martillazos, pasador atascado en un agujero ciego.
+
+#5178
+Nettoyez pions et trous avant remontage, serrez les vis pour que les pions ne reprennent jamais la charge, utilisez des pions extractibles (taraudés) dans les trous borgnes, n'alésez jamais plus grand sans pion neuf.
+Limpe pinos e furos antes de remontar, aperte os parafusos para que os pinos nunca suportem carga, use pinos extraíveis (com rosca interna) em furos cegos, nunca alargue sobremedida sem um pino novo.
+重新装配前清洁销和孔，拧紧螺钉使定位销永远不承受载荷，盲孔中使用可拔出的（带内螺纹）定位销，没有新销时绝不能把孔铰大。
+Перед сборкой очистите штифты и отверстия, затяните винты так, чтобы штифты никогда не несли нагрузку, в глухих отверстиях используйте штифты с внутренней резьбой для извлечения, никогда не развёртывайте под больший размер без нового штифта.
+Przed ponownym montażem oczyść kołki i otwory, dokręć śruby tak, aby kołki nigdy nie przenosiły obciążenia, w otworach nieprzelotowych stosuj kołki z gwintem wewnętrznym do wyciągania, nigdy nie rozwiercaj na większy wymiar bez nowego kołka.
+Visszaszerelés előtt tisztítsa meg a szegeket és a furatokat, húzza meg a csavarokat, hogy az illesztőszegek soha ne viseljenek terhelést, zsákfuratba kihúzható (belső menetes) szeget használjon, új szeg nélkül soha ne dörzsárazzon túlméretre.
+Limpie pasadores y agujeros antes de volver a montar, apriete los tornillos para que los pasadores nunca soporten carga, use pasadores extraíbles (con rosca interior) en agujeros ciegos y nunca escarie a sobremedida sin un pasador nuevo.
+
+#5179
+Pièce de base
+Peça base
+基础件
+Базовая деталь
+Część bazowa
+Alapalkatrész
+Pieza base
+
+#5180
+Comporte deux trous alésés pour pions et deux trous taraudés.
+Tem dois furos alargados para pinos e dois furos roscados.
+有两个铰制定位销孔和两个螺纹孔。
+Имеет два развёрнутых отверстия под штифты и два резьбовых отверстия.
+Ma dwa rozwiercone otwory na kołki i dwa otwory gwintowane.
+Két dörzsárazott szegfurata és két menetes furata van.
+Tiene dos agujeros escariados para pasadores y dos agujeros roscados.
+
+#5181
+Pion de centrage 1 (Ø8 m6)
+Pino guia 1 (Ø8 m6)
+定位销 1（Ø8 m6）
+Штифт 1 (Ø8 m6)
+Kołek ustalający 1 (Ø8 m6)
+Illesztőszeg 1 (Ø8 m6)
+Pasador de posicionamiento 1 (Ø8 m6)
+
+#5182
+Trempé et rectifié ; les extrémités chanfreinées facilitent l'engagement.
+Temperado e retificado; as pontas chanfradas ajudam a entrar.
+淬硬并磨削；倒角端便于导入。
+Закалённый и шлифованный; фаски на концах облегчают ввод.
+Hartowany i szlifowany; sfazowane końce ułatwiają wprowadzenie.
+Edzett és köszörült; a letört végek segítik a bevezetést.
+Templado y rectificado; los extremos achaflanados facilitan la entrada.
+
+#5183
+Pion de centrage 2 (Ø8 m6)
+Pino guia 2 (Ø8 m6)
+定位销 2（Ø8 m6）
+Штифт 2 (Ø8 m6)
+Kołek ustalający 2 (Ø8 m6)
+Illesztőszeg 2 (Ø8 m6)
+Pasador de posicionamiento 2 (Ø8 m6)
+
+#5184
+Deuxième pion loin du premier : empêche la rotation.
+Segundo pino longe do primeiro: impede a rotação.
+第二个销远离第一个：防止转动。
+Второй штифт далеко от первого: не даёт провернуться.
+Drugi kołek daleko od pierwszego: zapobiega obrotowi.
+A második szeg messze az elsőtől: megakadályozza az elfordulást.
+Segundo pasador lejos del primero: impide el giro.
+
+#5185
+Pièce positionnée
+Peça posicionada
+被定位件
+Фиксируемая деталь
+Część ustalana
+Pozicionált alkatrész
+Pieza posicionada
+
+#5186
+Trous alésés pour les pions et trous de passage pour les vis.
+Furos alargados para os pinos e furos passantes para os parafusos.
+用于定位销的铰制孔和用于螺钉的通孔。
+Развёрнутые отверстия под штифты и свободные отверстия под винты.
+Rozwiercone otwory na kołki i otwory przelotowe na śruby.
+Dörzsárazott furatok a szegeknek és átmenő furatok a csavaroknak.
+Agujeros escariados para los pasadores y agujeros pasantes para los tornillos.
+
+#5187
+Vis CHC M8
+Parafusos Allen M8
+内六角螺钉 M8
+Винты M8
+Śruby imbusowe M8
+M8 imbuszcsavarok
+Tornillos Allen M8
+
+#5188
+Serrent les pièces ensemble ; elles ne positionnent pas.
+Apertam as peças juntas; não posicionam.
+把零件夹紧在一起；它们不起定位作用。
+Стягивают детали; положение они не задают.
+Dociskają części do siebie; nie ustalają położenia.
+Összeszorítják az alkatrészeket; nem pozicionálnak.
+Aprietan las piezas entre sí; no posicionan.
+
+#5189
+Soulever / monter
+Levantar / montar
+抬起 / 装上
+Снять / установить
+Podnieś / załóż
+Felemelés / felhelyezés
+Levantar / montar
+
+#5190
+Qu'est-ce qui reprend la charge de serrage dans un assemblage à pions ?
+O que suporta a carga de aperto em uma junta com pinos guia?
+定位销连接中由什么承受夹紧载荷？
+Что воспринимает усилие затяжки в соединении на штифтах?
+Co przenosi obciążenie docisku w połączeniu kołkowym?
+Mi viseli a szorítóterhelést illesztőszeges kötésben?
+¿Qué soporta la carga de apriete en una unión con pasadores?
+
+#5191
+Les vis
+Os parafusos
+螺钉
+Винты
+Śruby
+A csavarok
+Los tornillos
+
+#5192
+Les pions de centrage
+Os pinos guia
+定位销
+Штифты
+Kołki ustalające
+Az illesztőszegek
+Los pasadores
+
+#5193
+Les deux à parts égales
+Ambos igualmente
+两者平均承担
+Поровну и те, и другие
+Oba po równo
+Mindkettő egyformán
+Ambos por igual
+
+#5194
+Les trous alésés
+Os furos alargados
+铰制孔
+Развёрнутые отверстия
+Rozwiercone otwory
+A dörzsárazott furatok
+Los agujeros escariados
+
+#5195
+Pourquoi les deux pions sont-ils placés loin l'un de l'autre ?
+Por que os dois pinos ficam afastados?
+为什么两个定位销要相距很远？
+Почему два штифта ставят далеко друг от друга?
+Dlaczego dwa kołki umieszcza się daleko od siebie?
+Miért kerül a két illesztőszeg messze egymástól?
+¿Por qué se colocan los dos pasadores muy separados?
+
+#5196
+Meilleure précision angulaire, pas de rotation
+Melhor precisão angular, sem rotação
+角度精度更高，不会转动
+Лучше угловая точность, нет проворота
+Lepsza dokładność kątowa, brak obrotu
+Jobb szögpontosság, nincs elfordulás
+Mejor precisión angular, sin giro
+
+#5197
+Pour économiser de la matière
+Para economizar material
+为了节省材料
+Чтобы сэкономить материал
+Aby oszczędzić materiał
+Anyagtakarékosság miatt
+Para ahorrar material
+
+#5198
+Plus facile à frapper
+Mais fácil de martelar
+便于敲击
+Проще забивать
+Łatwiej wbijać
+Könnyebb beütni
+Más fácil de martillar
+
+#5199
+Pour le refroidissement
+Para resfriamento
+为了散热
+Для охлаждения
+Do chłodzenia
+A hűtés miatt
+Para refrigeración
+
+#5200
+Circlips (extérieurs et intérieurs)
+Anéis elásticos (externos e internos)
+卡簧（轴用和孔用）
+Стопорные кольца (наружные и внутренние)
+Pierścienie osadcze (zewnętrzne i wewnętrzne)
+Seeger-gyűrűk (külső és belső)
+Anillos de retención (exteriores e interiores)
+
+#5201
+Anneaux d'arrêt en acier à ressort qui s'encliquettent dans des gorges : extérieur (DIN 471) sur un arbre, intérieur (DIN 472) dans un alésage. Ils empêchent les pièces de glisser le long de l'axe.
+Anéis de retenção de aço mola que encaixam em canais: externo (DIN 471) no eixo, interno (DIN 472) no furo. Impedem que as peças deslizem ao longo do eixo.
+弹簧钢挡圈，卡入沟槽内：轴用（DIN 471）装在轴上，孔用（DIN 472）装在孔内。用来阻止零件沿轴向滑动。
+Пружинные стопорные кольца, защёлкивающиеся в канавки: наружные (DIN 471) на валу, внутренние (DIN 472) в отверстии. Не дают деталям сдвигаться вдоль оси.
+Pierścienie osadcze ze stali sprężynowej wskakujące w rowki: zewnętrzne (DIN 471) na wałku, wewnętrzne (DIN 472) w otworze. Zapobiegają przesuwaniu się części wzdłuż osi.
+Rugóacél rögzítőgyűrűk, amelyek hornyokba pattannak: külső (DIN 471) tengelyen, belső (DIN 472) furatban. Megakadályozzák az alkatrészek tengelyirányú elcsúszását.
+Anillos de retención de acero para muelles que encajan en ranuras: exterior (DIN 471) en un eje, interior (DIN 472) en un alojamiento. Impiden que las piezas se deslicen a lo largo del eje.
+
+#5202
+Maintien des roulements sur les arbres et dans les logements des moteurs, pompes, réducteurs, rouleaux et tambours de convoyeurs ; axes et leviers sur les machines.
+Fixação de rolamentos em eixos e em alojamentos de motores, bombas, redutores, roletes e polias de transportadores; pinos e alavancas em máquinas.
+在电机、泵、减速箱、辊筒和输送机滚筒中把轴承固定在轴上和轴承座内；机器上的销轴和杠杆。
+Фиксация подшипников на валах и в корпусах двигателей, насосов, редукторов, роликов и барабанов конвейеров; оси и рычаги на машинах.
+Mocowanie łożysk na wałkach i w obudowach silników, pomp, przekładni, rolek i bębnów przenośników; sworznie i dźwignie w maszynach.
+Csapágyak rögzítése tengelyeken és motorok, szivattyúk, hajtóművek, görgők és szalagdobok házaiban; csapok és karok gépeken.
+Sujeción de rodamientos en ejes y en alojamientos de motores, bombas, reductores, rodillos y tambores de transportadores; pasadores y palancas en máquinas.
+
+#5203
+La pince à circlips dans les trous des oreilles ouvre l'anneau extérieur sur l'arbre ou ferme l'anneau intérieur dans l'alésage jusqu'à ce qu'il s'encliquette dans sa gorge. L'anneau reprend la charge axiale contre le flanc de la gorge.
+O alicate de anel elástico nos furos das orelhas abre o anel externo sobre o eixo ou fecha o anel interno no furo até que ele encaixe no canal. O anel suporta a carga axial contra a parede do canal.
+卡簧钳插入耳孔，把轴用卡簧张开套过轴，或把孔用卡簧收紧放入孔内，直到它弹入沟槽。卡簧靠沟槽侧壁承受轴向载荷。
+Щипцы для стопорных колец, вставленные в отверстия ушек, разводят наружное кольцо над валом или сжимают внутреннее кольцо в отверстии, пока оно не заскочит в канавку. Кольцо воспринимает осевую нагрузку, упираясь в стенку канавки.
+Szczypce do pierścieni w otworach uszek rozchylają pierścień zewnętrzny na wałek lub ściskają pierścień wewnętrzny w otworze, aż wskoczy w rowek. Pierścień przenosi obciążenie osiowe na ściankę rowka.
+A fülek furataiba helyezett Seeger-fogó a külső gyűrűt a tengely fölött széthúzza, a belsőt a furatba összenyomja, amíg be nem pattan a hornyába. A gyűrű a horony falának támaszkodva viseli a tengelyirányú terhelést.
+Los alicates para anillos en los agujeros de las orejetas abren el anillo exterior sobre el eje o cierran el interior en el alojamiento hasta que salta a su ranura. El anillo soporta la carga axial contra la pared de la ranura.
+
+#5204
+Anneau trop ouvert qui ne tient plus serré dans la gorge, anneau sorti (gorge usée, mauvaise taille), anneau tordu, pièce qui le chasse sous l'effort axial.
+Anel esticado demais que não fica justo no canal, anel que saltou (canal gasto, tamanho errado), anel torto, peça que o empurra para fora sob carga axial.
+卡簧被撑开过度，在槽内装不紧；卡簧跳出（沟槽磨损、尺寸不对）；卡簧变形；零件在轴向推力下把卡簧顶出。
+Перерастянутое кольцо, которое не сидит плотно в канавке, выскочившее кольцо (изношенная канавка, неправильный размер), погнутое кольцо, деталь, выдавливающая его осевым усилием.
+Zbyt rozciągnięty pierścień, który nie siedzi ciasno w rowku, wyskoczony pierścień (zużyty rowek, zły rozmiar), wygięty pierścień, część wypychająca go siłą osiową.
+Túlfeszített gyűrű, amely nem ül szorosan a horonyban, kiugrott gyűrű (kopott horony, rossz méret), elgörbült gyűrű, tengelyirányú erővel kitoló alkatrész.
+Anillo demasiado abierto que no queda ajustado en la ranura, anillo que saltó (ranura gastada, tamaño incorrecto), anillo doblado, pieza que lo empuja hacia fuera por empuje axial.
+
+#5205
+N'ouvrez ou ne fermez que le nécessaire, prenez un anneau neuf s'il a été trop ouvert, vérifiez qu'il tourne dans la gorge et qu'il est bien en place. Montez les anneaux estampés avec l'arête vive du côté opposé à la pièce maintenue.
+Abra ou feche só o necessário, use um anel novo se ele foi esticado demais, verifique se ele gira no canal e está totalmente assentado. Monte anéis estampados com a aresta viva voltada para o lado oposto à peça que seguram.
+只张开或收紧到需要的程度；若撑开过度，换新卡簧；检查它能在槽内转动且完全到位。冲压卡簧安装时锐边朝向远离被固定零件的一侧。
+Разводите или сжимайте ровно настолько, насколько нужно, ставьте новое кольцо, если оно было перерастянуто, проверьте, что оно проворачивается в канавке и полностью село. Штампованные кольца ставьте острой кромкой в сторону от удерживаемой детали.
+Rozchylaj lub ściskaj tylko tyle, ile trzeba, użyj nowego pierścienia, jeśli był za bardzo rozciągnięty, sprawdź, czy obraca się w rowku i jest w pełni osadzony. Pierścienie tłoczone montuj ostrą krawędzią od strony przeciwnej do trzymanej części.
+Csak annyira nyissa vagy zárja, amennyire kell, túlfeszített gyűrű helyett újat használjon, ellenőrizze, hogy forog a horonyban és teljesen a helyén ül. A sajtolt gyűrűt az éles élével a rögzített alkatrésztől elfelé szerelje.
+Abra o cierre solo lo necesario, use un anillo nuevo si se abrió en exceso, compruebe que gira en la ranura y que asienta por completo. Monte los anillos estampados con el canto vivo hacia el lado contrario a la pieza que sujetan.
+
+#5206
+Arbre avec épaulement et gorge
+Eixo com encosto e canal
+带轴肩和沟槽的轴
+Вал с буртиком и канавкой
+Wałek z odsadzeniem i rowkiem
+Tengely vállal és horonnyal
+Eje con resalte y ranura
+
+#5207
+Épaulement d'un côté du roulement, gorge de circlip de l'autre.
+Encosto de um lado do rolamento, canal do anel do outro.
+轴承一侧是轴肩，另一侧是卡簧槽。
+С одной стороны подшипника буртик, с другой канавка под стопорное кольцо.
+Z jednej strony łożyska odsadzenie, z drugiej rowek na pierścień osadczy.
+A csapágy egyik oldalán váll, a másikon Seeger-horony.
+Resalte a un lado del rodamiento, ranura del anillo al otro.
+
+#5208
+Roulement à billes 6204
+Rolamento de esferas 6204
+深沟球轴承 6204
+Шариковый подшипник 6204
+Łożysko kulkowe 6204
+Golyóscsapágy 6204
+Rodamiento de bolas 6204
+
+#5209
+Maintenu sur l'arbre par épaulement + circlip extérieur, dans le logement par épaulement + circlip intérieur.
+Fixado no eixo por encosto + anel externo, no alojamento por encosto + anel interno.
+在轴上靠轴肩 + 轴用卡簧固定，在轴承座内靠孔肩 + 孔用卡簧固定。
+На валу удерживается буртиком + наружным стопорным кольцом, в корпусе буртиком + внутренним стопорным кольцом.
+Na wałku utrzymywane przez odsadzenie + pierścień zewnętrzny, w obudowie przez odsadzenie + pierścień wewnętrzny.
+A tengelyen váll + külső Seeger-gyűrű, a házban váll + belső Seeger-gyűrű tartja.
+Sujeto en el eje por resalte + anillo exterior, en el alojamiento por resalte + anillo interior.
+
+#5210
+Circlip extérieur (DIN 471)
+Anel elástico externo (DIN 471)
+轴用卡簧（DIN 471）
+Наружное стопорное кольцо (DIN 471)
+Pierścień osadczy zewnętrzny (DIN 471)
+Külső Seeger-gyűrű (DIN 471)
+Anillo de retención exterior (DIN 471)
+
+#5211
+Anneau plus petit que l'arbre : ouvert à la pince, il s'encliquette dans la gorge de l'arbre.
+Anel menor que o eixo: aberto com alicate, encaixa no canal do eixo.
+卡簧比轴小：用钳子张开，弹入轴上的沟槽。
+Кольцо меньше вала: разводится щипцами и заскакивает в канавку вала.
+Pierścień mniejszy od wałka: rozchylany szczypcami, wskakuje w rowek wałka.
+A gyűrű kisebb a tengelynél: fogóval széthúzva bepattan a tengely hornyába.
+Anillo más pequeño que el eje: se abre con alicates y salta a la ranura del eje.
+
+#5212
+Logement avec gorge dans l'alésage
+Alojamento com canal no furo
+带孔槽的轴承座
+Корпус с канавкой в отверстии
+Obudowa z rowkiem w otworze
+Ház furathoronnyal
+Alojamiento con ranura interior
+
+#5213
+Alésage avec un épaulement d'un côté et une gorge de circlip de l'autre.
+Furo com encosto de um lado e canal do anel do outro.
+孔一侧有孔肩，另一侧有卡簧槽。
+Отверстие с буртиком с одной стороны и канавкой под стопорное кольцо с другой.
+Otwór z odsadzeniem z jednej strony i rowkiem na pierścień z drugiej.
+Furat az egyik oldalon vállal, a másikon Seeger-horonnyal.
+Alojamiento con un resalte a un lado y una ranura de anillo al otro.
+
+#5214
+Circlip intérieur (DIN 472)
+Anel elástico interno (DIN 472)
+孔用卡簧（DIN 472）
+Внутреннее стопорное кольцо (DIN 472)
+Pierścień osadczy wewnętrzny (DIN 472)
+Belső Seeger-gyűrű (DIN 472)
+Anillo de retención interior (DIN 472)
+
+#5215
+Anneau plus grand que l'alésage : fermé à la pince, il se détend dans la gorge de l'alésage.
+Anel maior que o furo: fechado com alicate, abre e encaixa no canal do furo.
+卡簧比孔大：用钳子收紧，弹开卡入孔槽。
+Кольцо больше отверстия: сжимается щипцами и разжимается в канавку отверстия.
+Pierścień większy od otworu: ściskany szczypcami, rozpręża się w rowku otworu.
+A gyűrű nagyobb a furatnál: fogóval összenyomva kipattan a furat hornyába.
+Anillo más grande que el alojamiento: se cierra con alicates y se expande en la ranura.
+
+#5216
+Quel circlip se monte sur un arbre ?
+Qual anel elástico vai no eixo?
+哪种卡簧装在轴上？
+Какое стопорное кольцо ставится на вал?
+Który pierścień osadczy zakłada się na wałek?
+Melyik Seeger-gyűrű kerül a tengelyre?
+¿Qué anillo de retención va en un eje?
+
+#5217
+Extérieur (DIN 471)
+Externo (DIN 471)
+轴用（DIN 471）
+Наружное (DIN 471)
+Zewnętrzny (DIN 471)
+Külső (DIN 471)
+Exterior (DIN 471)
+
+#5218
+Intérieur (DIN 472)
+Interno (DIN 472)
+孔用（DIN 472）
+Внутреннее (DIN 472)
+Wewnętrzny (DIN 472)
+Belső (DIN 472)
+Interior (DIN 472)
+
+#5219
+L'un ou l'autre
+Qualquer um
+两种都行
+Любое
+Dowolny
+Bármelyik
+Cualquiera
+
+#5220
+Une goupille fendue
+Um contrapino
+开口销
+Шплинт
+Zawleczka
+Sasszeg
+Un pasador de aletas
+
+#5221
+Un circlip a été trop ouvert au montage. Que faire ?
+Um anel elástico foi aberto demais na montagem. E agora?
+安装时卡簧被张开过度。现在怎么办？
+Стопорное кольцо при установке развели слишком сильно. Что теперь?
+Pierścień osadczy został za mocno rozchylony przy montażu. Co teraz?
+Szereléskor túl nagyra nyitottak egy Seeger-gyűrűt. Most mi legyen?
+Un anillo de retención se abrió demasiado al montarlo. ¿Y ahora?
+
+#5222
+En monter un neuf
+Montar um novo
+换一个新的
+Поставить новое
+Założyć nowy
+Újat kell beszerelni
+Montar uno nuevo
+
+#5223
+Le refermer à la pince
+Apertá-lo de volta com alicate
+用钳子把它捏回去
+Сжать обратно плоскогубцами
+Ścisnąć go z powrotem szczypcami
+Fogóval visszanyomni
+Cerrarlo de nuevo con alicates
+
+#5224
+L'utiliser, il se remettra en place
+Usar assim, ele vai assentar
+照样用，它会自己复位
+Использовать, оно сядет
+Użyć, ułoży się
+Használni, majd beül
+Usarlo, ya se asentará
+
+#5225
+Souder l'ouverture
+Soldar a abertura
+把开口焊上
+Заварить зазор
+Zaspawać szczelinę
+Összehegeszteni a rést
+Soldar la abertura
+
+#5716
+Garniture mécanique (simple, en composants)
+Selo mecânico (simples, tipo componente)
+机械密封（单端面，组件式）
+Торцевое уплотнение (одинарное, компонентное)
+Uszczelnienie mechaniczne (pojedyncze, typu komponentowego)
+Csúszógyűrűs tömítés (egyszeres, alkatrészes kivitel)
+Sello mecánico (simple, tipo componente)
+
+#5717
+Un grain tournant en carbone est poussé par un ressort contre un grain fixe en carbure de silicium. C'est le film liquide très mince entre les deux faces rodées qui assure l'étanchéité de l'arbre.
+Uma face rotativa de carbono é empurrada por uma mola contra uma sede estacionária de carbeto de silício. A película de líquido muito fina entre as duas faces lapidadas é o que veda o eixo.
+弹簧把旋转的碳石墨动环压在静止的碳化硅静环上。两个研磨端面之间极薄的液膜才是真正密封轴的东西。
+Вращающееся графитовое кольцо прижимается пружиной к неподвижному кольцу из карбида кремния. Вал уплотняет очень тонкая плёнка жидкости между двумя притёртыми поверхностями.
+Obrotowy pierścień węglowy jest dociskany sprężyną do stałego pierścienia z węglika krzemu. Wał uszczelnia bardzo cienki film cieczy między dwiema docieranymi powierzchniami.
+Egy forgó szénkerámia (grafit) gyűrűt rugó nyom az álló szilícium-karbid ellengyűrűhöz. A tengelyt a két lappolt felület közötti nagyon vékony folyadékfilm tömíti.
+Una cara rotativa de carbono es empujada por un resorte contra un asiento estacionario de carburo de silicio. Lo que sella el eje es la película de líquido muy fina entre las dos caras lapeadas.
+
+#5718
+Pompes centrifuges d'eau purifiée, d'eau de refroidissement et d'eau glacée, retour CIP et pompes d'utilités. Les pompes WFI en contact produit utilisent des garnitures de conception sanitaire.
+Bombas centrífugas de água purificada, água de resfriamento e água gelada, retorno de CIP e bombas de utilidades. Bombas de WFI em contato com o produto usam selos de projeto sanitário.
+纯化水、冷却水和冷冻水的离心泵、CIP 回程泵和公用工程泵。与产品接触的 WFI 泵使用卫生型密封。
+Центробежные насосы очищенной воды, охлаждающей и захоложенной воды, возврата CIP и вспомогательные насосы. Насосы WFI, контактирующие с продуктом, используют уплотнения санитарного исполнения.
+Pompy odśrodkowe wody oczyszczonej, wody chłodzącej i lodowej, powrotu CIP i pompy mediów. Pompy WFI mające kontakt z produktem mają uszczelnienia w wykonaniu sanitarnym.
+Tisztított víz, hűtővíz és hidegvíz centrifugálszivattyúi, CIP-visszatérő és segédüzemi szivattyúk. A termékkel érintkező WFI-szivattyúk higiénikus kialakítású tömítéseket használnak.
+Bombas centrífugas de agua purificada, agua de refrigeración y agua helada, retorno de CIP y bombas de servicios. Las bombas de WFI en contacto con producto usan sellos de diseño sanitario.
+
+#5719
+La bague d'entraînement, le ressort, le support, le joint torique et le carbone tournent avec l'arbre. Le grain fixe est maintenu immobile dans le flasque par son joint torique. Les joints toriques empêchent les fuites le long de l'arbre et autour du grain fixe.
+Colar de acionamento, mola, suporte, O-ring e carbono giram com o eixo. A sede fica parada na sobreposta, presa pelo seu O-ring. Os O-rings evitam vazamentos ao longo do eixo e em volta da sede.
+传动座、弹簧、动环座、O 形圈和碳环随轴一起转动。静环靠它的 O 形圈固定在压盖内不动。O 形圈阻止沿轴和静环周围的泄漏。
+Приводная втулка, пружина, обойма, кольцо O-ring и графит вращаются вместе с валом. Неподвижное кольцо удерживается в крышке своим кольцом O-ring. Кольца O-ring перекрывают утечки вдоль вала и вокруг неподвижного кольца.
+Pierścień napędowy, sprężyna, oprawa, O-ring i węgiel obracają się z wałem. Pierścień stały jest unieruchomiony w pokrywie przez swój O-ring. O-ringi zapobiegają wyciekom wzdłuż wału i wokół pierścienia stałego.
+A hajtógyűrű, a rugó, a tartó, az O-gyűrű és a szénkerámia a tengellyel együtt forog. Az álló ellengyűrűt O-gyűrűje rögzíti a tömítésfedélben. Az O-gyűrűk megakadályozzák a szivárgást a tengely mentén és az ellengyűrű körül.
+El collar de arrastre, el resorte, el portacaras, la junta tórica y el carbono giran con el eje. El asiento se mantiene fijo en la brida gracias a su junta tórica. Las juntas tóricas evitan fugas a lo largo del eje y alrededor del asiento.
+
+#5720
+Goutte-à-goutte continu ou pulvérisation, faces fissurées ou faïencées après marche à sec, carbone ébréché, joints toriques durcis ou gonflés, force de ressort trop faible due à une mauvaise cote de montage.
+Gotejamento constante ou spray, faces trincadas ou com trincas térmicas após funcionamento a seco, carbono lascado, O-rings duros ou inchados, força de mola baixa por comprimento de montagem errado.
+持续滴漏或喷射、干运转后端面开裂或热裂纹、碳环崩边、O 形圈变硬或溶胀、安装长度不对导致弹簧力不足。
+Постоянная капель или брызги, трещины или термические трещины на поверхностях после сухого хода, сколы графита, затвердевшие или разбухшие кольца O-ring, слабое усилие пружины из-за неправильной установочной длины.
+Stałe kapanie lub rozpylanie, pęknięte lub popękane termicznie powierzchnie po pracy na sucho, wyszczerbiony węgiel, twarde lub spęczniałe O-ringi, mała siła sprężyny przez złą długość montażową.
+Folyamatos csöpögés vagy permetezés, szárazfutás után repedt vagy hőrepedéses csúszófelületek, csorba szénkerámia, megkeményedett vagy megduzzadt O-gyűrűk, rossz beépítési hossz miatti kis rugóerő.
+Goteo constante o pulverización, caras agrietadas o con grietas térmicas tras marcha en seco, carbono desportillado, juntas tóricas duras o hinchadas, poca fuerza del resorte por una longitud de montaje incorrecta.
+
+#5721
+Ne jamais faire tourner à sec : remplissez et purgez d'abord la pompe. Réglez la cote de travail selon le plan avant de serrer les vis de pression. Gardez les faces propres et sèches, lubrifiez les joints toriques uniquement avec un lubrifiant compatible, serrez les écrous du flasque uniformément en croix.
+Nunca opere a seco: encha e purgue a bomba primeiro. Ajuste o comprimento de trabalho pelo desenho antes de apertar os parafusos de fixação. Mantenha as faces limpas e secas, lubrifique os O-rings só com lubrificante compatível, aperte as porcas da sobreposta por igual, em cruz.
+绝不能干运转：先给泵灌液并排气。拧紧紧定螺钉前，按图纸设定工作长度。保持端面清洁干燥，O 形圈只能用相容的润滑剂润滑，压盖螺母要按对角交叉均匀拧紧。
+Никогда не допускайте сухого хода: сначала заполните насос и удалите воздух. Перед затяжкой установочных винтов выставьте рабочую длину по чертежу. Держите поверхности чистыми и сухими, смазывайте кольца O-ring только совместимой смазкой, затягивайте гайки крышки равномерно крест-накрест.
+Nigdy nie uruchamiaj na sucho: najpierw zalej i odpowietrz pompę. Ustaw długość roboczą według rysunku przed dokręceniem wkrętów ustalających. Utrzymuj powierzchnie czyste i suche, smaruj O-ringi tylko kompatybilnym smarem, dokręcaj nakrętki pokrywy równomiernie na krzyż.
+Soha ne járassa szárazon: előbb töltse fel és légtelenítse a szivattyút. A hernyócsavarok meghúzása előtt állítsa be a rajz szerinti beépítési hosszt. A csúszófelületeket tartsa tisztán és szárazon, az O-gyűrűket csak kompatibilis kenőanyaggal kenje, a fedélanyákat egyenletesen, keresztirányban húzza meg.
+Nunca en seco: llene y purgue la bomba primero. Ajuste la longitud de trabajo según el plano antes de apretar los prisioneros. Mantenga las caras limpias y secas, lubrique las juntas tóricas solo con un lubricante compatible y apriete las tuercas de la brida de forma uniforme en cruz.
+
+#5722
+Chambre de garniture (flasque arrière de pompe)
+Câmara de selagem (tampa traseira da bomba)
+密封腔（泵后盖）
+Камера уплотнения (задняя крышка насоса)
+Komora uszczelnienia (tylna pokrywa pompy)
+Tömítéskamra (szivattyú hátlap)
+Cámara del sello (tapa trasera de la bomba)
+
+#5723
+Alésage autour de l'arbre où la garniture travaille dans le liquide pompé ; des goujons tiennent le flasque.
+Furo em volta do eixo onde o selo trabalha no líquido bombeado; prisioneiros seguram a sobreposta.
+环绕轴的腔孔，密封在泵送液体中工作；双头螺柱固定压盖。
+Расточка вокруг вала, где уплотнение работает в перекачиваемой жидкости; шпильки держат крышку.
+Otwór wokół wału, w którym uszczelnienie pracuje w pompowanej cieczy; szpilki trzymają pokrywę.
+A tengely körüli furat, ahol a tömítés a szállított folyadékban dolgozik; tőcsavarok tartják a fedelet.
+Alojamiento alrededor del eje donde trabaja el sello en el líquido bombeado; espárragos sujetan la brida.
+
+#5724
+Arbre de pompe (Ø35 mm)
+Eixo da bomba (Ø35 mm)
+泵轴（Ø35 mm）
+Вал насоса (Ø35 mm)
+Wał pompy (Ø35 mm)
+Szivattyútengely (Ø35 mm)
+Eje de la bomba (Ø35 mm)
+
+#5725
+Entraîne la roue ; les pièces tournantes de la garniture y sont fixées.
+Gira o rotor; as partes rotativas do selo são fixadas nele.
+带动叶轮旋转；密封的旋转部件固定在轴上。
+Вращает рабочее колесо; на нём закреплены вращающиеся детали уплотнения.
+Napędza wirnik; obrotowe części uszczelnienia są na nim zamocowane.
+A járókereket hajtja; a tömítés forgó részei rá vannak rögzítve.
+Hace girar el rodete; las partes rotativas del sello van fijadas en él.
+
+#5726
+Bague d'entraînement avec vis de pression
+Colar de acionamento com parafusos de fixação
+带紧定螺钉的传动座
+Приводная втулка с установочными винтами
+Pierścień napędowy z wkrętami ustalającymi
+Hajtógyűrű hernyócsavarokkal
+Collar de arrastre con prisioneros
+
+#5727
+Bloquée sur l'arbre à la cote de montage ; entraîne le ressort et lui donne sa précharge.
+Travado no eixo no comprimento de montagem; aciona a mola e dá a sua pré-carga.
+按安装长度锁定在轴上；带动弹簧并给弹簧预紧力。
+Фиксируется на валу на установочной длине; приводит пружину и создаёт её предварительное сжатие.
+Zablokowany na wale na długości montażowej; napędza sprężynę i nadaje jej napięcie wstępne.
+A beépítési hossznál a tengelyre rögzítve; hajtja a rugót és előfeszíti.
+Fijado en el eje a la longitud de montaje; arrastra el resorte y le da su precarga.
+
+#5728
+Maintient les faces fermées à l'arrêt de la pompe et rattrape l'usure des faces.
+Mantém as faces fechadas com a bomba parada e compensa o desgaste das faces.
+泵停机时保持端面贴合，并补偿端面磨损。
+Держит поверхности сомкнутыми при остановленном насосе и компенсирует их износ.
+Utrzymuje powierzchnie zamknięte przy zatrzymanej pompie i kompensuje ich zużycie.
+Álló szivattyúnál zárva tartja a csúszófelületeket és kiegyenlíti a kopásukat.
+Mantiene las caras cerradas con la bomba parada y compensa su desgaste.
+
+#5729
+Support tournant
+Suporte rotativo (porta-face)
+动环座
+Обойма вращающегося кольца
+Oprawa obrotowa
+Forgó tartó
+Portacaras rotativo
+
+#5730
+Porte le grain carbone et le joint torique d'arbre ; coulisse axialement au fur et à mesure de l'usure des faces.
+Segura a face de carbono e o O-ring do eixo; desliza axialmente conforme as faces se desgastam.
+装着碳环和轴用 O 形圈；随端面磨损沿轴向滑动。
+Держит графитовое кольцо и кольцо O-ring вала; смещается вдоль оси по мере износа.
+Trzyma pierścień węglowy i O-ring wału; przesuwa się osiowo w miarę zużycia powierzchni.
+Tartja a szénkerámia gyűrűt és a tengely O-gyűrűjét; a kopással tengelyirányban elcsúszik.
+Sujeta la cara de carbono y la junta tórica del eje; se desliza axialmente a medida que se desgastan las caras.
+
+#5731
+Joint torique d'arbre (étanchéité secondaire)
+O-ring do eixo (vedação secundária)
+轴用 O 形圈（辅助密封）
+Кольцо O-ring вала (вторичное уплотнение)
+O-ring wału (uszczelnienie wtórne)
+Tengely O-gyűrű (másodlagos tömítés)
+Junta tórica del eje (sello secundario)
+
+#5732
+Étanche entre support et arbre tout en laissant le support coulisser.
+Veda entre o suporte e o eixo e ainda deixa o suporte deslizar.
+在动环座和轴之间密封，同时允许动环座滑动。
+Уплотняет между обоймой и валом, позволяя обойме смещаться.
+Uszczelnia między oprawą a wałem, pozwalając oprawie się przesuwać.
+Tömít a tartó és a tengely között, de engedi a tartó elcsúszását.
+Sella entre el portacaras y el eje sin impedir que se deslice.
+
+#5733
+Grain tournant (carbone)
+Face rotativa (carbono)
+动环（碳石墨）
+Вращающееся кольцо (графит)
+Pierścień obrotowy (węgiel)
+Forgó csúszógyűrű (szénkerámia)
+Cara rotativa (carbono)
+
+#5734
+Bague en carbone-graphite avec un nez étroit rodé qui frotte sur le grain fixe.
+Anel de carbono-grafite com um ressalto estreito lapidado que corre sobre a sede.
+碳石墨环，带一圈窄的研磨凸台，在静环上运转。
+Углеграфитовое кольцо с узким притёртым пояском, работающим по неподвижному кольцу.
+Pierścień węglowo-grafitowy z wąskim docieranym noskiem, który pracuje na pierścieniu stałym.
+Szén-grafit gyűrű keskeny, lappolt homlokkal, amely az ellengyűrűn fut.
+Anillo de carbono-grafito con un resalte estrecho lapeado que gira sobre el asiento.
+
+#5735
+Joint de flasque
+Junta da sobreposta
+压盖垫片
+Прокладка крышки
+Uszczelka pokrywy
+Fedéltömítés
+Junta de la brida
+
+#5736
+Joint plat entre le flasque et la face de la chambre de garniture.
+Junta plana entre a sobreposta e a face da câmara de selagem.
+压盖与密封腔端面之间的平垫片。
+Плоская прокладка между крышкой и торцом камеры уплотнения.
+Płaska uszczelka między pokrywą a czołem komory uszczelnienia.
+Lapos tömítés a tömítésfedél és a tömítéskamra homloka között.
+Junta plana entre la brida y la cara de la cámara del sello.
+
+#5737
+Joint torique du grain fixe
+O-ring da sede
+静环 O 形圈
+Кольцо O-ring неподвижного кольца
+O-ring pierścienia stałego
+Ellengyűrű O-gyűrűje
+Junta tórica del asiento
+
+#5738
+Étanche autour du grain fixe et l'amortit dans son logement du flasque.
+Veda em volta da sede e a amortece no alojamento da sobreposta.
+在静环周围密封，并在压盖座孔中起缓冲作用。
+Уплотняет вокруг неподвижного кольца и смягчает его посадку в гнезде крышки.
+Uszczelnia wokół pierścienia stałego i amortyzuje go w gnieździe pokrywy.
+Tömít az ellengyűrű körül és rugalmasan ágyazza a fedél fészkében.
+Sella alrededor del asiento y lo amortigua en el alojamiento de la brida.
+
+#5739
+Grain fixe (carbure de silicium)
+Sede estacionária (carbeto de silício)
+静环（碳化硅）
+Неподвижное кольцо (карбид кремния)
+Pierścień stały (węglik krzemu)
+Álló ellengyűrű (szilícium-karbid)
+Asiento estacionario (carburo de silicio)
+
+#5740
+Face dure, plane et rodée qui ne tourne pas ; le carbone frotte dessus.
+Face dura, plana e lapidada que não gira; o carbono corre sobre ela.
+坚硬、平整的研磨面，不转动；碳环在其上运转。
+Твёрдая плоская притёртая поверхность, которая не вращается; по ней работает графит.
+Twarda, płaska, docierana powierzchnia, która się nie obraca; węgiel pracuje na niej.
+Kemény, sík, lappolt felület, amely nem forog; a szénkerámia fut rajta.
+Cara dura, plana y lapeada que no gira; el carbono gira sobre ella.
+
+#5741
+Flasque (couvercle de garniture)
+Sobreposta (tampa do selo)
+压盖
+Крышка уплотнения
+Pokrywa uszczelnienia
+Tömítésfedél
+Brida del sello
+
+#5742
+Maintient le grain fixe dans son logement et ferme la chambre de garniture ; fixé par quatre écrous.
+Segura a sede no alojamento e fecha a câmara de selagem; fixada com quatro porcas.
+把静环固定在座孔内并封闭密封腔；用四个螺母紧固。
+Удерживает неподвижное кольцо в гнезде и закрывает камеру уплотнения; крепится четырьмя гайками.
+Trzyma pierścień stały w gnieździe i zamyka komorę uszczelnienia; przykręcana czterema nakrętkami.
+A fészkében tartja az ellengyűrűt és lezárja a tömítéskamrát; négy anyával rögzítve.
+Sujeta el asiento en su alojamiento y cierra la cámara del sello; atornillada con cuatro tuercas.
+
+#5743
+Écrous de flasque
+Porcas da sobreposta
+压盖螺母
+Гайки крышки
+Nakrętki pokrywy
+Fedélanyák
+Tuercas de la brida
+
+#5744
+Plaquent le flasque uniformément sur la chambre ; serrage en croix.
+Puxam a sobreposta por igual contra a câmara; aperto em cruz.
+把压盖均匀地拉紧到密封腔上；对角交叉拧紧。
+Равномерно притягивают крышку к камере; затяжка крест-накрест.
+Równomiernie dociągają pokrywę do komory; dokręcanie na krzyż.
+Egyenletesen húzzák a fedelet a kamrára; keresztirányban meghúzva.
+Aprietan la brida uniformemente contra la cámara; apriete en cruz.
+
+#5745
+Qu'est-ce qui assure réellement l'étanchéité entre les faces ?
+O que realmente veda entre as faces do selo?
+密封端面之间真正起密封作用的是什么？
+Что на самом деле уплотняет между поверхностями?
+Co właściwie uszczelnia między powierzchniami uszczelnienia?
+Mi tömít valójában a csúszófelületek között?
+¿Qué es lo que realmente sella entre las caras?
+
+#5746
+Un film liquide très mince entre les faces rodées
+Uma película de líquido muito fina entre as faces lapidadas
+研磨端面之间极薄的液膜
+Очень тонкая плёнка жидкости между притёртыми поверхностями
+Bardzo cienki film cieczy między docieranymi powierzchniami
+Nagyon vékony folyadékfilm a lappolt felületek között
+Una película de líquido muy fina entre las caras lapeadas
+
+#5747
+Le ressort
+A mola
+弹簧
+Пружина
+Sprężyna
+A rugó
+El resorte
+
+#5748
+De la graisse entre elles
+Graxa colocada entre elas
+填在中间的润滑脂
+Смазка, заложенная между ними
+Smar nałożony między nie
+Közéjük tömött zsír
+Grasa entre ellas
+
+#5749
+Le joint de flasque
+A junta da sobreposta
+压盖垫片
+Прокладка крышки
+Uszczelka pokrywy
+A fedéltömítés
+La junta de la brida
+
+#5750
+Une garniture neuve fuit après quelques minutes et les faces sont fissurées. Cause la plus probable ?
+Um selo novo vaza após alguns minutos e as faces estão trincadas. Causa mais provável?
+新密封运行几分钟后就泄漏，端面已开裂。最可能的原因是？
+Новое уплотнение потекло через несколько минут, поверхности треснули. Наиболее вероятная причина?
+Nowe uszczelnienie cieknie po kilku minutach, a powierzchnie są pęknięte. Najbardziej prawdopodobna przyczyna?
+Egy új tömítés néhány perc után szivárog, és a csúszófelületek megrepedtek. Mi a legvalószínűbb ok?
+Un sello nuevo fuga a los pocos minutos y las caras están agrietadas. ¿Causa más probable?
+
+#5751
+La pompe a tourné à sec
+A bomba rodou a seco
+泵干运转了
+Насос работал всухую
+Pompa pracowała na sucho
+A szivattyú szárazon járt
+La bomba funcionó en seco
+
+#5752
+Les écrous du flasque étaient trop desserrés
+As porcas da sobreposta estavam frouxas demais
+压盖螺母太松
+Гайки крышки были слишком слабо затянуты
+Nakrętki pokrywy były za luźne
+A fedélanyák túl lazák voltak
+Las tuercas de la brida estaban demasiado flojas
+
+#5753
+L'eau était trop froide
+A água estava fria demais
+水太冷
+Вода была слишком холодной
+Woda była za zimna
+Túl hideg volt a víz
+El agua estaba demasiado fría
+
+#5754
+Seulement un mauvais sens de rotation du moteur
+Apenas rotação errada do motor
+仅仅是电机转向错误
+Только неправильное направление вращения двигателя
+Tylko zły kierunek obrotów silnika
+Csak rossz motorforgásirány
+Solo un sentido de giro incorrecto del motor
+
+#5755
+Quelles pièces de cette garniture tournent avec l'arbre ?
+Quais peças deste selo giram com o eixo?
+这个密封中哪些零件随轴转动？
+Какие детали этого уплотнения вращаются с валом?
+Które części tego uszczelnienia obracają się z wałem?
+A tömítés mely részei forognak a tengellyel?
+¿Qué piezas de este sello giran con el eje?
+
+#5756
+Bague d'entraînement, ressort, support, joint torique d'arbre et grain carbone
+Colar, mola, suporte, O-ring do eixo e face de carbono
+传动座、弹簧、动环座、轴用 O 形圈和碳环
+Втулка, пружина, обойма, кольцо O-ring вала и графитовое кольцо
+Pierścień napędowy, sprężyna, oprawa, O-ring wału i pierścień węglowy
+Hajtógyűrű, rugó, tartó, tengely O-gyűrű és szénkerámia gyűrű
+Collar, resorte, portacaras, junta tórica del eje y cara de carbono
+
+#5757
+Grain fixe et flasque
+Sede e sobreposta
+静环和压盖
+Неподвижное кольцо и крышка
+Pierścień stały i pokrywa
+Ellengyűrű és fedél
+Asiento y brida
+
+#5758
+Seulement le ressort
+Só a mola
+只有弹簧
+Только пружина
+Tylko sprężyna
+Csak a rugó
+Solo el resorte
+
+#5759
+Grain fixe, joint torique du grain et joint plat
+Sede, O-ring da sede e junta
+静环、静环 O 形圈和垫片
+Неподвижное кольцо, его O-ring и прокладка
+Pierścień stały, jego O-ring i uszczelka
+Ellengyűrű, ellengyűrű O-gyűrű és tömítés
+Asiento, junta tórica del asiento y junta

@@ -1,0 +1,1682 @@
+#5760
+Garniture mécanique cartouche (double, avec fluide de barrage)
+Selo mecânico cartucho (duplo, com fluido de barreira)
+集装式机械密封（双端面，带隔离液）
+Картриджное торцевое уплотнение (двойное, с затворной жидкостью)
+Kasetowe uszczelnienie mechaniczne (podwójne, z cieczą barierową)
+Patronos csúszógyűrűs tömítés (kettős, zárófolyadékkal)
+Sello mecánico de cartucho (doble, con fluido barrera)
+
+#5761
+Garniture double pré-assemblée sur sa propre chemise : deux paires de faces avec un fluide de barrage entre elles. Réglée en usine ; des clips de réglage maintiennent la cote de travail jusqu'au montage.
+Selo duplo pré-montado na sua própria luva: dois pares de faces com fluido de barreira entre eles. Ajustado na fábrica; os clipes de ajuste mantêm o comprimento de trabalho até a instalação.
+预装在自带轴套上的双端面密封：两对密封端面，中间是隔离液。出厂已调好；定位卡片保持工作长度，直到安装完成。
+Предварительно собранное двойное уплотнение на собственной гильзе: две пары колец с затворной жидкостью между ними. Настроено на заводе; установочные скобы держат рабочую длину до монтажа.
+Wstępnie zmontowane uszczelnienie podwójne na własnej tulei: dwie pary pierścieni z cieczą barierową między nimi. Ustawione fabrycznie; zaczepy montażowe utrzymują długość roboczą do czasu instalacji.
+Előre összeszerelt kettős tömítés saját hüvelyen: két csúszógyűrűpár, köztük zárófolyadék. Gyárilag beállítva; a beállítókapcsok a beépítésig tartják a munkahosszt.
+Sello doble premontado sobre su propia camisa: dos pares de caras con fluido barrera entre ellas. Ajustado en fábrica; las grapas de ajuste mantienen la longitud de trabajo hasta su instalación.
+
+#5762
+Agitateurs de réacteurs et de cuves de procédé, pompes de WFI chaude et de solvants : partout où le produit ne doit pas fuir dans la salle et où l'air ne doit pas entrer.
+Agitadores de reatores e tanques de processo, bombas de WFI quente e de solventes: onde o produto não pode vazar para a sala e o ar não pode entrar.
+反应釜和工艺罐上的搅拌器、热 WFI 泵和溶剂泵：凡是产品不能泄漏到房间、空气也不能进入的场合。
+Мешалки реакторов и технологических ёмкостей, насосы горячей WFI и растворителей: везде, где продукт не должен вытекать в помещение, а воздух не должен попадать внутрь.
+Mieszadła reaktorów i zbiorników procesowych, pompy gorącej WFI i rozpuszczalników: wszędzie tam, gdzie produkt nie może wyciec do pomieszczenia, a powietrze nie może dostać się do środka.
+Reaktorok és technológiai tartályok keverői, forró WFI- és oldószer-szivattyúk: mindenhol, ahol a termék nem szivároghat a helyiségbe, és levegő sem juthat be.
+Agitadores de reactores y depósitos de proceso, bombas de WFI caliente y de disolventes: donde el producto no debe fugar a la sala ni debe entrar aire.
+
+#5763
+Le fluide de barrage, maintenu à une pression supérieure à celle du produit (par exemple API Plan 53), entre par IN et sort par OUT en refroidissant les deux garnitures. Si la garniture intérieure s'use, c'est du fluide de barrage propre qui fuit dans le produit au lieu que le produit fuie vers l'extérieur.
+O fluido de barreira, mantido a uma pressão maior que a do produto (por exemplo API Plan 53), entra por IN e sai por OUT, resfriando os dois selos. Se o selo interno se desgastar, é o fluido de barreira limpo que vaza para o produto, em vez de o produto vazar para fora.
+隔离液压力保持高于产品压力（例如 API Plan 53），从 IN 口进入、从 OUT 口流出，同时冷却两道密封。如果内侧密封磨损，漏进产品的是干净的隔离液，而不是产品漏到外面。
+Затворная жидкость под давлением выше давления продукта (например, API Plan 53) входит через IN и выходит через OUT, охлаждая оба уплотнения. Если внутреннее уплотнение изнашивается, в продукт протекает чистая затворная жидкость, а не продукт наружу.
+Ciecz barierowa utrzymywana pod wyższym ciśnieniem niż produkt (np. API Plan 53) wpływa przez IN i wypływa przez OUT, chłodząc oba uszczelnienia. Gdy wewnętrzne uszczelnienie się zużyje, do produktu przecieka czysta ciecz barierowa, a nie produkt na zewnątrz.
+A terméknél nagyobb nyomáson tartott zárófolyadék (például API Plan 53) az IN csonkon lép be és az OUT csonkon távozik, mindkét tömítést hűtve. Ha a belső tömítés elkopik, tiszta zárófolyadék szivárog a termékbe, és nem a termék szivárog ki.
+El fluido barrera, a mayor presión que el producto (por ejemplo API Plan 53), entra por IN y sale por OUT, refrigerando ambos sellos. Si el sello interior se desgasta, es barrera limpia lo que fuga hacia el producto, en lugar de que el producto fugue hacia fuera.
+
+#5764
+Niveau de barrage qui baisse (une face fuit), niveau qui monte (le produit entre), pression qui chute, flasque chaud, dommages si les clips de réglage restent en place au démarrage.
+Nível de barreira caindo (uma face vazando), nível subindo (produto entrando), pressão caindo, sobreposta quente, danos quando os clipes de ajuste ficam no lugar na partida.
+隔离液液位下降（某个端面泄漏）、液位上升（产品进入）、压力下降、压盖发热、启动时未拆定位卡片造成损坏。
+Падение уровня затворной жидкости (протекает пара колец), рост уровня (внутрь попадает продукт), падение давления, горячая крышка, повреждения, если при пуске не сняты установочные скобы.
+Spadek poziomu cieczy barierowej (cieknie para pierścieni), wzrost poziomu (produkt dostaje się do środka), spadek ciśnienia, gorąca pokrywa, uszkodzenia, gdy przy rozruchu zostawiono zaczepy montażowe.
+Csökkenő zárófolyadékszint (egy csúszófelület szivárog), emelkedő szint (termék jut be), nyomásesés, forró fedél, sérülés, ha indításkor fent maradnak a beállítókapcsok.
+Nivel de barrera que baja (una cara fuga), nivel que sube (entra producto), presión que cae, brida caliente, daños si las grapas de ajuste se dejan puestas en el arranque.
+
+#5765
+Boulonnez le flasque, serrez les vis de pression de la bague, puis retirez les clips de réglage avant le démarrage (gardez-les pour le démontage). Raccordez IN en bas et OUT en haut et purgez l'air. Contrôlez la pression et le niveau du fluide de barrage à chaque poste.
+Aparafuse a sobreposta, aperte os parafusos de fixação do colar e retire os clipes de ajuste antes da partida (guarde-os para a desmontagem). Ligue IN embaixo e OUT em cima e purgue o ar. Verifique pressão e nível da barreira a cada turno.
+先紧固压盖，拧紧传动座紧定螺钉，然后在启动前拆下定位卡片（保留好，拆卸时要用）。IN 接在下方、OUT 接在上方，并排出空气。每班检查隔离液压力和液位。
+Закрепите крышку, затяните установочные винты втулки, затем перед пуском снимите установочные скобы (сохраните их для демонтажа). Подключите IN снизу, OUT сверху и удалите воздух. Проверяйте давление и уровень затворной жидкости каждую смену.
+Przykręć pokrywę, dokręć wkręty ustalające pierścienia, a następnie przed rozruchem zdejmij zaczepy montażowe (zachowaj je do demontażu). Podłącz IN na dole i OUT na górze i odpowietrz. Sprawdzaj ciśnienie i poziom cieczy barierowej na każdej zmianie.
+Csavarozza fel a fedelet, húzza meg a gyűrű hernyócsavarjait, majd indítás előtt vegye le a beállítókapcsokat (őrizze meg a kiszereléshez). Az IN csonkot alul, az OUT csonkot felül kösse be, és légtelenítsen. Minden műszakban ellenőrizze a zárófolyadék nyomását és szintjét.
+Atornille la brida, apriete los prisioneros del collar y retire las grapas de ajuste antes del arranque (guárdelas para el desmontaje). Conecte IN abajo y OUT arriba y purgue el aire. Revise la presión y el nivel de la barrera en cada turno.
+
+#5766
+Chambre de garniture / piquage de cuve
+Câmara de selagem / bocal do tanque
+密封腔 / 罐体接管
+Камера уплотнения / патрубок ёмкости
+Komora uszczelnienia / króciec zbiornika
+Tömítéskamra / tartálycsonk
+Cámara del sello / tubuladura del depósito
+
+#5767
+Face de l'équipement sur laquelle se boulonne la cartouche ; la garniture intérieure se loge dans son alésage.
+Face do equipamento onde o cartucho é aparafusado; o selo interno fica dentro do seu furo.
+集装式密封用螺栓固定在设备的这个端面上；内侧密封位于其腔孔内。
+Торец оборудования, к которому крепится картридж; внутреннее уплотнение находится в его расточке.
+Czoło urządzenia, do którego przykręca się kasetę; uszczelnienie wewnętrzne siedzi w jego otworze.
+A berendezés homloklapja, amelyre a patron csavarozódik; a belső tömítés a furatában ül.
+Cara del equipo sobre la que se atornilla el cartucho; el sello interior queda dentro de su alojamiento.
+
+#5768
+Arbre (Ø40 mm)
+Eixo (Ø40 mm)
+轴（Ø40 mm）
+Вал (Ø40 mm)
+Wał (Ø40 mm)
+Tengely (Ø40 mm)
+Eje (Ø40 mm)
+
+#5769
+Arbre d'agitateur ou de pompe ; la chemise de la cartouche y est bloquée.
+Eixo do agitador ou da bomba; a luva do cartucho é travada nele.
+搅拌器轴或泵轴；集装式密封的轴套锁定在轴上。
+Вал мешалки или насоса; гильза картриджа зафиксирована на нём.
+Wał mieszadła lub pompy; tuleja kasety jest na nim zablokowana.
+Keverő- vagy szivattyútengely; a patron hüvelye rá van rögzítve.
+Eje de agitador o de bomba; la camisa del cartucho va fijada en él.
+
+#5770
+Chemise avec joint torique
+Luva com O-ring
+带 O 形圈的轴套
+Гильза с кольцом O-ring
+Tuleja z O-ringiem
+Hüvely O-gyűrűvel
+Camisa con junta tórica
+
+#5771
+Porte les deux grains tournants, ainsi les faces ne touchent jamais l'arbre. Son joint torique assure l'étanchéité sur l'arbre.
+Leva as duas faces rotativas, assim o eixo nunca é tocado pelas faces. Seu O-ring veda contra o eixo.
+承载两个旋转端面，所以端面永远不会接触轴。其 O 形圈与轴之间密封。
+Несёт оба вращающихся кольца, поэтому кольца никогда не касаются вала. Её кольцо O-ring уплотняет по валу.
+Przenosi oba pierścienie obrotowe, więc pierścienie nigdy nie dotykają wału. Jej O-ring uszczelnia na wale.
+Mindkét forgó csúszógyűrűt hordozza, így azok sosem érintik a tengelyt. O-gyűrűje a tengelyen tömít.
+Lleva las dos caras rotativas, así las caras nunca tocan el eje. Su junta tórica sella contra el eje.
+
+#5772
+Grain tournant intérieur (SiC)
+Face rotativa interna (SiC)
+内侧动环（SiC）
+Внутреннее вращающееся кольцо (SiC)
+Wewnętrzny pierścień obrotowy (SiC)
+Belső forgó csúszógyűrű (SiC)
+Cara rotativa interior (SiC)
+
+#5773
+Tourne avec la chemise côté produit.
+Gira com a luva no lado do produto.
+在产品侧随轴套转动。
+Вращается с гильзой со стороны продукта.
+Obraca się z tuleją po stronie produktu.
+A termékoldalon forog a hüvellyel.
+Gira con la camisa en el lado del producto.
+
+#5774
+Grain fixe intérieur (carbone)
+Face estacionária interna (carbono)
+内侧静环（碳石墨）
+Внутреннее неподвижное кольцо (графит)
+Wewnętrzny pierścień stały (węgiel)
+Belső álló csúszógyűrű (szénkerámia)
+Cara estacionaria interior (carbono)
+
+#5775
+Grain carbone chargé par ressorts, tenu dans l'emboîtement du flasque.
+Face de carbono com mola, presa no ressalto da sobreposta.
+弹簧加载的碳石墨环，装在压盖止口内。
+Подпружиненное графитовое кольцо, удерживаемое в буртике крышки.
+Sprężynowany pierścień węglowy osadzony w czopie pokrywy.
+Rugóterhelésű szénkerámia gyűrű a fedél illesztőcsapjában.
+Cara de carbono cargada por resortes, sujeta en el resalte de la brida.
+
+#5776
+Ressorts intérieurs
+Molas internas
+内侧弹簧
+Внутренние пружины
+Sprężyny wewnętrzne
+Belső rugók
+Resortes interiores
+
+#5777
+Huit petits ressorts poussent le carbone intérieur contre son grain tournant.
+Oito pequenas molas empurram o carbono interno contra sua face rotativa.
+八个小弹簧把内侧碳环压在其动环上。
+Восемь маленьких пружин прижимают внутреннее графитовое кольцо к вращающемуся.
+Osiem małych sprężyn dociska wewnętrzny węgiel do jego pierścienia obrotowego.
+Nyolc kis rugó nyomja a belső szénkerámiát a forgó gyűrűjéhez.
+Ocho pequeños resortes empujan el carbono interior contra su cara rotativa.
+
+#5778
+Assure l'étanchéité entre la bride du flasque et la face de l'équipement.
+Veda o flange da sobreposta contra a face do equipamento.
+在压盖法兰和设备端面之间密封。
+Уплотняет фланец крышки по торцу оборудования.
+Uszczelnia kołnierz pokrywy na czole urządzenia.
+A fedélkarimát tömíti a berendezés homloklapjához.
+Sella la brida del sello contra la cara del equipo.
+
+#5779
+Flasque avec orifices IN / OUT
+Sobreposta com conexões IN / OUT
+带 IN / OUT 接口的压盖
+Крышка с портами IN / OUT
+Pokrywa z przyłączami IN / OUT
+Fedél IN / OUT csonkokkal
+Brida con conexiones IN / OUT
+
+#5780
+Porte les deux grains fixes et forme la chambre de barrage ; orifices IN (bleu) et OUT (rouge) pour le fluide de barrage.
+Segura as duas faces estacionárias e forma a câmara de barreira; conexões IN (azul) e OUT (vermelha) para o fluido de barreira.
+装着两个静环并形成隔离液腔；IN（蓝）和 OUT（红）接口用于隔离液。
+Держит оба неподвижных кольца и образует затворную камеру; порты IN (синий) и OUT (красный) для затворной жидкости.
+Trzyma oba pierścienie stałe i tworzy komorę barierową; przyłącza IN (niebieskie) i OUT (czerwone) dla cieczy barierowej.
+Mindkét álló csúszógyűrűt tartja és kialakítja a zárókamrát; IN (kék) és OUT (piros) csonk a zárófolyadéknak.
+Sujeta las dos caras estacionarias y forma la cámara de barrera; conexiones IN (azul) y OUT (roja) para el fluido barrera.
+
+#5781
+Grain tournant extérieur (SiC)
+Face rotativa externa (SiC)
+外侧动环（SiC）
+Наружное вращающееся кольцо (SiC)
+Zewnętrzny pierścień obrotowy (SiC)
+Külső forgó csúszógyűrű (SiC)
+Cara rotativa exterior (SiC)
+
+#5782
+Deuxième grain tournant, contre l'épaulement de la chemise.
+Segunda face rotativa, contra o encosto da luva.
+第二个旋转端面，靠在轴套台肩上。
+Второе вращающееся кольцо, упирается в буртик гильзы.
+Drugi pierścień obrotowy, oparty o odsadzenie tulei.
+A második forgó gyűrű, a hüvely vállának támaszkodik.
+Segunda cara rotativa, contra el resalte de la camisa.
+
+#5783
+Grain fixe extérieur (carbone)
+Face estacionária externa (carbono)
+外侧静环（碳石墨）
+Наружное неподвижное кольцо (графит)
+Zewnętrzny pierścień stały (węgiel)
+Külső álló csúszógyűrű (szénkerámia)
+Cara estacionaria exterior (carbono)
+
+#5784
+Grain carbone côté atmosphère ; retient le fluide de barrage.
+Face de carbono do lado da atmosfera; mantém o fluido de barreira dentro.
+大气侧碳石墨环；把隔离液封在里面。
+Графитовое кольцо со стороны атмосферы; удерживает затворную жидкость внутри.
+Pierścień węglowy od strony atmosfery; zatrzymuje ciecz barierową w środku.
+Atmoszféra oldali szénkerámia gyűrű; bent tartja a zárófolyadékot.
+Cara de carbono del lado atmósfera; mantiene dentro el fluido barrera.
+
+#5785
+Ressorts extérieurs
+Molas externas
+外侧弹簧
+Наружные пружины
+Sprężyny zewnętrzne
+Külső rugók
+Resortes exteriores
+
+#5786
+Poussent le carbone extérieur vers son grain tournant.
+Empurram o carbono externo contra sua face rotativa.
+把外侧碳环推向其动环。
+Прижимают наружное графитовое кольцо к вращающемуся.
+Dociskają zewnętrzny węgiel do jego pierścienia obrotowego.
+A külső szénkerámiát a forgó gyűrűjéhez nyomják.
+Empujan el carbono exterior hacia su cara rotativa.
+
+#5787
+Plaquent la bride du flasque uniformément sur le joint.
+Puxam o flange da sobreposta por igual contra a junta.
+把压盖法兰均匀地拉紧到垫片上。
+Равномерно притягивают фланец крышки к прокладке.
+Równomiernie dociągają kołnierz pokrywy do uszczelki.
+Egyenletesen húzzák a fedélkarimát a tömítésre.
+Aprietan la brida del sello uniformemente contra la junta.
+
+#5788
+Trois vis de pression traversent la chemise jusqu'à l'arbre et l'entraînent.
+Três parafusos de fixação atravessam a luva até o eixo e a acionam.
+三个紧定螺钉穿过轴套顶在轴上，带动轴套转动。
+Три установочных винта проходят через гильзу в вал и передают вращение.
+Trzy wkręty ustalające przechodzą przez tuleję do wału i ją napędzają.
+Három hernyócsavar megy át a hüvelyen a tengelybe, és viszi a hüvelyt.
+Tres prisioneros atraviesan la camisa hasta el eje y la arrastran.
+
+#5789
+Clips de réglage (à retirer avant démarrage)
+Clipes de ajuste (retirar antes da partida)
+定位卡片（启动前拆除）
+Установочные скобы (снять перед пуском)
+Zaczepy montażowe (zdjąć przed rozruchem)
+Beállítókapcsok (indítás előtt eltávolítandó)
+Grapas de ajuste (retirar antes del arranque)
+
+#5790
+Maintiennent la chemise centrée à la bonne cote pendant le montage. Retirez-les une fois les vis de pression serrées.
+Mantêm a luva centralizada no comprimento certo durante a montagem. Retire-os depois de apertar os parafusos de fixação.
+安装时使轴套保持居中并处于正确长度。紧定螺钉拧紧后拆下。
+Держат гильзу по центру на нужной длине при монтаже. Снимите их после затяжки установочных винтов.
+Utrzymują tuleję wyśrodkowaną na właściwej długości podczas montażu. Zdejmij je po dokręceniu wkrętów ustalających.
+Szereléskor középen és a megfelelő hosszon tartják a hüvelyt. A hernyócsavarok meghúzása után vegye le őket.
+Mantienen la camisa centrada a la longitud correcta durante el montaje. Retírelas cuando los prisioneros estén apretados.
+
+#5791
+Quand retire-t-on les clips de réglage ?
+Quando os clipes de ajuste são retirados?
+定位卡片什么时候拆？
+Когда снимают установочные скобы?
+Kiedy zdejmuje się zaczepy montażowe?
+Mikor kell levenni a beállítókapcsokat?
+¿Cuándo se retiran las grapas de ajuste?
+
+#5792
+Après boulonnage du flasque et serrage des vis de pression, avant le démarrage
+Depois de aparafusar a sobreposta e apertar os parafusos de fixação, antes da partida
+压盖紧固、紧定螺钉拧紧之后，启动之前
+После закрепления крышки и затяжки установочных винтов, до пуска
+Po przykręceniu pokrywy i dokręceniu wkrętów ustalających, przed rozruchem
+A fedél felcsavarozása és a hernyócsavarok meghúzása után, indítás előtt
+Después de atornillar la brida y apretar los prisioneros, antes del arranque
+
+#5793
+Avant de boulonner le flasque
+Antes de aparafusar a sobreposta
+在紧固压盖之前
+До закрепления крышки
+Przed przykręceniem pokrywy
+A fedél felcsavarozása előtt
+Antes de atornillar la brida
+
+#5794
+Jamais, ils restent en place
+Nunca, eles ficam no lugar
+永远不拆，一直留着
+Никогда, они остаются
+Nigdy, zostają na miejscu
+Soha, fent maradnak
+Nunca, se quedan puestas
+
+#5795
+Après la première heure de marche
+Depois da primeira hora de operação
+运行第一个小时之后
+После первого часа работы
+Po pierwszej godzinie pracy
+Az első üzemóra után
+Después de la primera hora de funcionamiento
+
+#5796
+Le niveau du fluide de barrage ne cesse de baisser. Cela signifie…
+O nível do fluido de barreira continua caindo. Isso significa…
+隔离液液位持续下降。这说明…
+Уровень затворной жидкости всё время падает. Это значит…
+Poziom cieczy barierowej ciągle spada. To oznacza…
+A zárófolyadék szintje folyamatosan csökken. Ez azt jelenti…
+El nivel del fluido barrera no deja de bajar. Esto significa…
+
+#5797
+Une des faces fuit du fluide de barrage
+Uma das faces do selo está vazando fluido de barreira
+某个密封端面在泄漏隔离液
+Одна из пар колец пропускает затворную жидкость
+Jedna z powierzchni uszczelnienia przepuszcza ciecz barierową
+Az egyik csúszófelület zárófolyadékot szivárogtat
+Una de las caras del sello está fugando fluido barrera
+
+#5798
+Le produit entre dans le circuit de barrage
+O produto está entrando no sistema de barreira
+产品正在进入隔离液系统
+Продукт попадает в затворную систему
+Produkt dostaje się do układu barierowego
+A termék bejut a zárófolyadék-rendszerbe
+El producto está entrando en el sistema de barrera
+
+#5799
+Ce n'est qu'une évaporation normale
+É só evaporação normal
+这只是正常蒸发
+Это лишь нормальное испарение
+To tylko normalne parowanie
+Ez csak normál párolgás
+Es solo evaporación normal
+
+#5800
+L'arbre tourne trop lentement
+O eixo está girando devagar demais
+轴转得太慢
+Вал вращается слишком медленно
+Wał obraca się za wolno
+A tengely túl lassan forog
+El eje gira demasiado despacio
+
+#5801
+Pourquoi la pression de barrage est-elle maintenue au-dessus de celle du produit ?
+Por que a pressão de barreira é mantida acima da pressão do produto?
+为什么隔离液压力要高于产品压力？
+Почему давление затворной жидкости держат выше давления продукта?
+Dlaczego ciśnienie cieczy barierowej utrzymuje się powyżej ciśnienia produktu?
+Miért tartják a zárófolyadék nyomását a termék nyomása felett?
+¿Por qué la presión de barrera se mantiene por encima de la del producto?
+
+#5802
+Pour que toute fuite intérieure soit du fluide de barrage propre vers le produit, et non du produit vers l'extérieur
+Para que qualquer vazamento interno seja barreira limpa para o produto, e não produto para fora
+这样内侧一旦泄漏，是干净的隔离液漏进产品，而不是产品漏出
+Чтобы любая внутренняя утечка была чистой затворной жидкостью в продукт, а не продуктом наружу
+Aby każdy wyciek wewnętrzny był czystą cieczą barierową do produktu, a nie produktem na zewnątrz
+Hogy a belső szivárgás tiszta zárófolyadék legyen a termékbe, ne termék kifelé
+Para que cualquier fuga interior sea barrera limpia hacia el producto, no producto hacia fuera
+
+#5803
+Pour refroidir le moteur
+Para resfriar o motor
+为了冷却电机
+Чтобы охлаждать двигатель
+Aby chłodzić silnik
+A motor hűtése miatt
+Para refrigerar el motor
+
+#5804
+Pour pousser l'arbre axialement
+Para empurrar o eixo axialmente
+为了沿轴向推动轴
+Чтобы толкать вал в осевом направлении
+Aby pchać wał osiowo
+Hogy tengelyirányban tolja a tengelyt
+Para empujar el eje axialmente
+
+#5805
+Ce n'est pas le cas, elle doit être plus basse
+Não é, ela deve ser menor
+并不是，它必须更低
+Это не так, оно должно быть ниже
+Nie jest, musi być niższe
+Nem így van, alacsonyabbnak kell lennie
+No es así, debe ser menor
+
+#5806
+Joint à lèvre / bague d'étanchéité (40x52x7)
+Retentor / vedador de óleo (40x52x7)
+唇形密封 / 油封（40x52x7）
+Манжета / сальник (40x52x7)
+Uszczelniacz wargowy / simmering (40x52x7)
+Ajakos tömítés / szimmering (40x52x7)
+Retén de labio / retén de aceite (40x52x7)
+
+#5807
+Bague d'étanchéité radiale : une lèvre en caoutchouc appuyée sur l'arbre par un ressort spiral, avec une armature métallique pour la rigidité et l'emmanchement. Une deuxième lèvre anti-poussière empêche la saleté d'entrer.
+Vedação radial de eixo: um lábio de borracha pressionado contra o eixo por uma mola garter, com carcaça metálica para rigidez e ajuste por interferência. Um segundo lábio contra pó impede a entrada de sujeira.
+径向轴封：由箍紧弹簧把橡胶唇口压在轴上，金属骨架提供刚度并用于压装。第二道防尘唇阻挡灰尘。
+Радиальное уплотнение вала: резиновая кромка прижимается к валу браслетной пружиной, металлический каркас даёт жёсткость и посадку с натягом. Вторая пыльниковая кромка не пускает грязь.
+Promieniowe uszczelnienie wału: gumowa warga dociskana do wału sprężyną obwodową, z metalową obudową dla sztywności i wcisku. Druga warga przeciwpyłowa nie wpuszcza brudu.
+Radiális tengelytömítés: gumi tömítőajak, amelyet szorítórugó nyom a tengelyre, fém merevítővel a merevség és a sajtolt illesztés miatt. Egy második porvédő ajak kizárja a szennyeződést.
+Retén radial de eje: un labio de caucho presionado contra el eje por un resorte toroidal, con armadura metálica para dar rigidez y ajuste a presión. Un segundo labio guardapolvo impide la entrada de suciedad.
+
+#5808
+Réducteurs, paliers de moteurs et de pompes, motoréducteurs de convoyeurs, pompes à engrenages.
+Redutores, caixas de mancal de motores e bombas, motorredutores de transportadores, bombas de engrenagem.
+减速箱、电机和泵的轴承座、输送机减速电机、齿轮泵。
+Редукторы, подшипниковые узлы двигателей и насосов, мотор-редукторы конвейеров, шестерённые насосы.
+Przekładnie, obudowy łożysk silników i pomp, motoreduktory przenośników, pompy zębate.
+Hajtóművek, motor- és szivattyúcsapágyházak, szállítószalag-hajtóműves motorok, fogaskerékszivattyúk.
+Reductores, alojamientos de rodamientos de motores y bombas, motorreductores de transportadores, bombas de engranajes.
+
+#5809
+La lèvre principale est tournée vers l'huile ; le ressort maintient le contact au fur et à mesure de l'usure. Un film d'huile très mince sous l'arête de la lèvre la lubrifie : elle ne doit donc jamais tourner à sec.
+O lábio principal fica voltado para o óleo; a mola mantém o contato conforme o lábio se desgasta. Uma película de óleo muito fina sob a aresta do lábio o lubrifica, por isso ele nunca deve trabalhar a seco.
+主唇口朝向油侧；唇口磨损时弹簧保持接触。唇口刃边下极薄的油膜对它进行润滑，所以绝不能干运转。
+Основная кромка обращена к маслу; пружина сохраняет контакт по мере износа кромки. Очень тонкая масляная плёнка под кромкой смазывает её, поэтому она никогда не должна работать всухую.
+Warga główna jest zwrócona do oleju; sprężyna utrzymuje kontakt w miarę zużycia wargi. Bardzo cienki film oleju pod krawędzią wargi ją smaruje, więc nigdy nie może pracować na sucho.
+A fő tömítőajak az olaj felé néz; a rugó a kopás során is fenntartja az érintkezést. Az ajak éle alatti nagyon vékony olajfilm keni, ezért soha nem futhat szárazon.
+El labio principal mira hacia el aceite; el resorte mantiene el contacto a medida que el labio se desgasta. Una película de aceite muy fina bajo el filo del labio lo lubrica, por eso nunca debe funcionar en seco.
+
+#5810
+Fuite d'huile, lèvre durcie et craquelée par la chaleur, sillon usé dans l'arbre, lèvre retournée au montage, ressort sauté, dommages dus à un arbre sec ou rugueux.
+Vazamento de óleo, lábio duro e trincado pelo calor, sulco gasto no eixo, lábio virado na montagem, mola que saltou, dano por eixo seco ou áspero.
+漏油、唇口受热变硬开裂、轴上磨出沟槽、安装时唇口翻边、弹簧脱落、轴干燥或粗糙造成的损坏。
+Течь масла, затвердевшая и потрескавшаяся от нагрева кромка, канавка, протёртая на валу, вывернутая при монтаже кромка, соскочившая пружина, повреждение от сухого или шероховатого вала.
+Wyciek oleju, twarda i popękana od ciepła warga, rowek wytarty w wale, warga wywinięta przy montażu, zeskoczona sprężyna, uszkodzenie od suchego lub chropowatego wału.
+Olajszivárgás, hőtől megkeményedett és berepedt ajak, a tengelybe kopott horony, szereléskor kifordult ajak, leugrott rugó, száraz vagy érdes tengely okozta sérülés.
+Fuga de aceite, labio endurecido y agrietado por el calor, surco gastado en el eje, labio volteado al montar, resorte salido, daños por un eje seco o rugoso.
+
+#5811
+Emmanchez bien d'équerre avec un outil appuyant sur l'armature, côté ressort vers l'huile. Couvrez rainures de clavette et filetages avec une douille de montage et huilez la lèvre. Si l'arbre est marqué d'un sillon, posez une chemise de réparation ou placez le joint quelques mm plus profond.
+Prense no esquadro com uma ferramenta de montagem apoiada na carcaça, lado da mola voltado para o óleo. Cubra rasgos de chaveta e roscas com uma luva de montagem e lubrifique o lábio com óleo. Se o eixo estiver sulcado, instale uma luva de reparo ou monte o retentor alguns mm mais fundo.
+用安装工具压在骨架上，垂直压入，弹簧侧朝向油侧。用安装套筒盖住键槽和螺纹，并给唇口涂油。如果轴上已有沟槽，装修复轴套或把油封装深几 mm。
+Запрессовывайте без перекоса оправкой по каркасу, стороной пружины к маслу. Закройте шпоночные пазы и резьбу монтажной втулкой и смажьте кромку маслом. Если на валу есть канавка, установите ремонтную втулку или поставьте манжету на несколько mm глубже.
+Wciskaj prosto narzędziem opartym na obudowie, stroną sprężyny do oleju. Rowki wpustowe i gwinty przykryj tuleją montażową i naoliw wargę. Jeśli wał ma rowek, załóż tuleję naprawczą lub osadź uszczelniacz kilka mm głębiej.
+Szerelőszerszámmal a fémvázra nyomva, egyenesen sajtolja be, rugós oldallal az olaj felé. A reteszhornyokat és meneteket takarja szerelőhüvellyel, és olajozza meg az ajkat. Ha a tengely be van kopva, tegyen fel javítóhüvelyt, vagy építse be a tömítést néhány mm-rel mélyebbre.
+Introduzca a escuadra con una herramienta de montaje apoyada en la armadura, lado del resorte hacia el aceite. Cubra chaveteros y roscas con un manguito de montaje y aceite el labio. Si el eje tiene surco, monte una camisa de reparación o coloque el retén unos mm más adentro.
+
+#5812
+Alésage du logement
+Furo do alojamento
+轴承座孔
+Расточка корпуса
+Otwór obudowy
+Házfurat
+Alojamiento del retén
+
+#5813
+Alésage avec chanfrein d'entrée ; le joint est emmanché jusqu'au côté épaulement.
+Furo com chanfro de entrada; o retentor é prensado até o lado do encosto.
+带导入倒角的孔；油封压入到台肩一侧。
+Расточка с заходной фаской; манжета запрессовывается до упора в буртик.
+Otwór z fazą wprowadzającą; uszczelniacz wciska się aż do odsadzenia.
+Bevezető élletöréses furat; a tömítést a váll oldaláig sajtolják be.
+Alojamiento con chaflán de entrada; el retén se introduce a presión hasta el lado del resalte.
+
+#5814
+Armature métallique
+Carcaça metálica
+金属骨架
+Металлический каркас
+Metalowa obudowa
+Fém merevítő
+Armadura metálica
+
+#5815
+Insert en acier en forme de L qui donne au joint la rigidité nécessaire à l'emmanchement.
+Inserto de aço em L que dá rigidez ao retentor para o ajuste por interferência.
+L 形钢骨架，使油封有足够刚度进行压装。
+Г-образная стальная вставка, дающая манжете жёсткость для посадки с натягом.
+Stalowa wkładka w kształcie L, która daje uszczelniaczowi sztywność do wcisku.
+L alakú acélbetét, amely a sajtolt illesztéshez merevséget ad a tömítésnek.
+Inserto de acero en forma de L que da rigidez al retén para el ajuste a presión.
+
+#5816
+Corps en caoutchouc et lèvre principale
+Corpo de borracha e lábio principal
+橡胶本体和主唇口
+Резиновый корпус и основная кромка
+Korpus gumowy i warga główna
+Gumitest és fő tömítőajak
+Cuerpo de caucho y labio principal
+
+#5817
+Le diamètre extérieur en caoutchouc étanche dans l'alésage ; l'arête vive de la lèvre étanche sur l'arbre.
+O diâmetro externo de borracha veda no furo; a aresta viva do lábio veda no eixo.
+橡胶外径在孔内密封；锋利的唇口刃边在轴上密封。
+Резиновый наружный диаметр уплотняет в расточке; острая кромка уплотняет по валу.
+Gumowa średnica zewnętrzna uszczelnia w otworze; ostra krawędź wargi uszczelnia na wale.
+A gumi külső átmérő a furatban tömít; az éles ajakél a tengelyen tömít.
+El diámetro exterior de caucho sella en el alojamiento; el filo del labio sella sobre el eje.
+
+#5818
+Ressort de lèvre (ressort spiral)
+Mola garter
+箍紧弹簧
+Браслетная пружина
+Sprężyna obwodowa
+Szorítórugó
+Resorte toroidal
+
+#5819
+Ressort annulaire derrière la lèvre ; maintient une force radiale constante sur l'arbre.
+Mola em anel atrás do lábio; mantém uma força radial constante no eixo.
+唇口后面的环形弹簧；对轴保持恒定的径向力。
+Кольцевая пружина за кромкой; поддерживает постоянное радиальное усилие на вал.
+Sprężyna pierścieniowa za wargą; utrzymuje stałą siłę promieniową na wale.
+Gyűrű alakú rugó az ajak mögött; állandó radiális erőt tart a tengelyen.
+Resorte anular detrás del labio; mantiene una fuerza radial constante sobre el eje.
+
+#5820
+Lèvre anti-poussière
+Lábio contra pó
+防尘唇
+Пыльниковая кромка
+Warga przeciwpyłowa
+Porvédő ajak
+Labio guardapolvo
+
+#5821
+Petite lèvre extérieure sans ressort qui empêche la poussière et l'eau de lavage d'entrer.
+Pequeno lábio externo sem mola que impede a entrada de pó e água de lavagem.
+外侧不带弹簧的小唇口，挡住灰尘和冲洗水。
+Небольшая наружная кромка без пружины, не пропускающая пыль и моющую воду.
+Mała zewnętrzna warga bez sprężyny, która nie wpuszcza pyłu i wody z mycia.
+Kis külső ajak rugó nélkül, amely kizárja a port és a mosóvizet.
+Pequeño labio exterior sin resorte que impide la entrada de polvo y agua de lavado.
+
+#5822
+Surface de frottement rectifiée et polie sous la lèvre ; extrémité chanfreinée pour ne pas couper la lèvre.
+Superfície de trabalho retificada e polida sob o lábio; ponta chanfrada para não cortar o lábio.
+唇口下方是磨削抛光的运转面；轴端倒角，以免割伤唇口。
+Шлифованная полированная рабочая поверхность под кромкой; фаска на конце, чтобы не порезать кромку.
+Szlifowana, polerowana powierzchnia robocza pod wargą; sfazowany koniec, aby nie przeciąć wargi.
+Köszörült, polírozott futófelület az ajak alatt; letört vég, hogy ne vágja el az ajkat.
+Superficie de trabajo rectificada y pulida bajo el labio; extremo achaflanado para no cortar el labio.
+
+#5823
+Quel côté du joint à lèvre est tourné vers l'huile ?
+Qual lado do retentor fica voltado para o óleo?
+油封的哪一侧朝向油？
+Какой стороной манжета обращена к маслу?
+Która strona uszczelniacza jest zwrócona do oleju?
+A szimmering melyik oldala néz az olaj felé?
+¿Qué lado del retén mira hacia el aceite?
+
+#5824
+Le côté ressort (lèvre principale)
+O lado da mola (lábio principal)
+弹簧侧（主唇口）
+Сторона пружины (основная кромка)
+Strona ze sprężyną (warga główna)
+A rugós oldal (fő ajak)
+El lado del resorte (labio principal)
+
+#5825
+Le côté plat de l'armature
+O lado plano da carcaça
+平的骨架侧
+Плоская сторона каркаса
+Płaska strona obudowy
+A lapos fémvázas oldal
+El lado plano de la armadura
+
+#5826
+Le côté lèvre anti-poussière
+O lado do lábio contra pó
+防尘唇侧
+Сторона пыльниковой кромки
+Strona wargi przeciwpyłowej
+A porvédő ajak oldala
+El lado del labio guardapolvo
+
+#5827
+N'importe quel côté
+Qualquer lado
+哪一侧都行
+Любой стороной
+Dowolna strona
+Bármelyik oldal
+Cualquier lado
+
+#5828
+L'ancien joint a creusé un sillon dans l'arbre. Que faites-vous ?
+O retentor antigo gastou um sulco no eixo. O que você faz?
+旧油封在轴上磨出了沟槽。该怎么办？
+Старая манжета протёрла канавку на валу. Что делать?
+Stary uszczelniacz wytarł rowek w wale. Co robisz?
+A régi tömítés horonyt koptatott a tengelybe. Mit tesz?
+El retén viejo hizo un surco en el eje. ¿Qué hace?
+
+#5829
+Poser une chemise de réparation ou placer le joint neuf à une autre profondeur
+Instalar uma luva de reparo ou montar o retentor novo em outra profundidade
+装修复轴套，或把新油封装在不同深度
+Поставить ремонтную втулку или установить новую манжету на другую глубину
+Założyć tuleję naprawczą lub osadzić nowy uszczelniacz na innej głębokości
+Javítóhüvelyt felszerelni, vagy az új tömítést más mélységbe építeni
+Montar una camisa de reparación o colocar el retén nuevo a otra profundidad
+
+#5830
+Poser le joint neuf au même endroit
+Montar o retentor novo no mesmo lugar
+把新油封装在原位置
+Поставить новую манжету на то же место
+Osadzić nowy uszczelniacz w tym samym miejscu
+Az új tömítést ugyanoda beépíteni
+Montar el retén nuevo en el mismo sitio
+
+#5831
+Mettre de la graisse sous la lèvre
+Colocar graxa sob o lábio
+在唇口下加润滑脂
+Заложить смазку под кромку
+Nałożyć smar pod wargę
+Zsírt tenni az ajak alá
+Poner grasa bajo el labio
+
+#5832
+Retirer le ressort de lèvre
+Retirar a mola garter
+拆掉箍紧弹簧
+Снять браслетную пружину
+Zdjąć sprężynę obwodową
+Levenni a szorítórugót
+Quitar el resorte toroidal
+
+#5833
+Joint torique en gorge (avec bague anti-extrusion)
+O-ring em canal (com anel de apoio)
+沟槽中的 O 形圈（带挡圈）
+Кольцо O-ring в канавке (с защитным кольцом)
+O-ring w rowku (z pierścieniem oporowym)
+O-gyűrű horonyban (támasztógyűrűvel)
+Junta tórica en ranura (con anillo antiextrusión)
+
+#5834
+Un anneau en caoutchouc de section ronde dans une gorge rectangulaire. Il est écrasé (environ 15-30 % pour une étanchéité statique) entre le fond de gorge et l'alésage antagoniste, il étanche donc même à pression nulle.
+Um anel de borracha de seção redonda em um canal retangular. Ele é comprimido (cerca de 15-30 % em vedações estáticas) entre o fundo do canal e o furo de contato, por isso veda mesmo com pressão zero.
+圆截面橡胶圈装在矩形沟槽内。它在沟槽底部和配合孔之间被压缩（静密封约 15-30 %），所以即使零压力也能密封。
+Резиновое кольцо круглого сечения в прямоугольной канавке. Оно сжато (около 15-30 % для неподвижных уплотнений) между дном канавки и сопрягаемым отверстием, поэтому уплотняет даже при нулевом давлении.
+Gumowy pierścień o przekroju okrągłym w prostokątnym rowku. Jest ściśnięty (ok. 15-30 % w uszczelnieniach statycznych) między dnem rowka a współpracującym otworem, więc uszczelnia nawet przy zerowym ciśnieniu.
+Kör keresztmetszetű gumigyűrű téglalap alakú horonyban. A horony alja és a csatlakozó furat között össze van nyomva (statikus tömítésnél kb. 15-30 %), ezért nulla nyomáson is tömít.
+Un anillo de caucho de sección redonda en una ranura rectangular. Va comprimido (alrededor del 15-30 % en sellos estáticos) entre el fondo de la ranura y el alojamiento, por eso sella incluso a presión cero.
+
+#5835
+Vannes, raccords clamp et sanitaires, carters de filtres, vérins hydrauliques et pneumatiques, corps de pompes, intérieur des garnitures mécaniques.
+Válvulas, conexões tri-clamp e sanitárias, carcaças de filtros, cilindros hidráulicos e pneumáticos, carcaças de bombas, dentro de selos mecânicos.
+阀门、卡箍和卫生级管件、过滤器壳体、液压和气动缸、泵壳、机械密封内部。
+Клапаны, кламповые и санитарные соединения, корпуса фильтров, гидро- и пневмоцилиндры, корпуса насосов, внутри торцевых уплотнений.
+Zawory, złącza tri-clamp i sanitarne, obudowy filtrów, siłowniki hydrauliczne i pneumatyczne, korpusy pomp, wnętrze uszczelnień mechanicznych.
+Szelepek, tri-clamp és higiénikus kötőelemek, szűrőházak, hidraulikus és pneumatikus hengerek, szivattyúházak, csúszógyűrűs tömítések belseje.
+Válvulas, conexiones tri-clamp y sanitarias, carcasas de filtros, cilindros hidráulicos y neumáticos, cuerpos de bomba, interior de sellos mecánicos.
+
+#5836
+La pression pousse l'anneau vers le côté basse pression de la gorge et le fait étancher plus fort. Une bague anti-extrusion en PTFE de ce côté empêche le caoutchouc de fluer dans le jeu à haute pression.
+A pressão empurra o anel para o lado de baixa pressão do canal e faz ele vedar com mais força. Um anel de apoio de PTFE desse lado impede que a borracha extrude para a folga em alta pressão.
+压力把 O 形圈推向沟槽的低压侧，使其密封得更紧。该侧的 PTFE 挡圈防止橡胶在高压下被挤入配合间隙。
+Давление прижимает кольцо к стороне низкого давления в канавке и усиливает уплотнение. Защитное кольцо из PTFE с этой стороны не даёт резине выдавливаться в зазор при высоком давлении.
+Ciśnienie dociska pierścień do strony niskiego ciśnienia w rowku i zwiększa szczelność. Pierścień oporowy z PTFE po tej stronie zapobiega wyciskaniu gumy w szczelinę przy wysokim ciśnieniu.
+A nyomás a gyűrűt a horony kisnyomású oldalára tolja, és erősebben tömít. Az ezen az oldalon lévő PTFE támasztógyűrű megakadályozza, hogy nagy nyomáson a gumi kinyomódjon a résbe.
+La presión empuja el anillo hacia el lado de baja presión de la ranura y hace que selle con más fuerza. Un anillo antiextrusión de PTFE en ese lado impide que el caucho se extruya por la holgura a alta presión.
+
+#5837
+Bord grignoté ou extrudé (jeu trop grand, pas de bague anti-extrusion), déformation rémanente (chaleur, vieillissement), gonflement ou ramollissement (caoutchouc inadapté au fluide), coupures par des arêtes vives au montage.
+Borda mordida ou extrudada (folga grande demais, sem anel de apoio), deformação permanente achatada (calor, envelhecimento), inchaço ou amolecimento (borracha errada para o fluido), cortes por arestas vivas na montagem.
+边缘被啃咬或挤出（间隙太大、无挡圈）、压扁永久变形（高温、老化）、溶胀或变软（橡胶与介质不匹配）、安装时被锐边割伤。
+Обкусанная или выдавленная кромка (большой зазор, нет защитного кольца), остаточная деформация (нагрев, старение), разбухание или размягчение (резина не подходит к среде), порезы об острые кромки при монтаже.
+Poszarpana lub wyciśnięta krawędź (za duża szczelina, brak pierścienia oporowego), trwałe spłaszczenie (ciepło, starzenie), pęcznienie lub mięknięcie (zła guma do medium), nacięcia od ostrych krawędzi przy montażu.
+Kicsipkedett vagy kinyomódott szél (túl nagy rés, nincs támasztógyűrű), maradó lapulás (hő, öregedés), duzzadás vagy lágyulás (a közeghez nem megfelelő gumi), szereléskor éles élektől származó vágások.
+Borde mordido o extruido (holgura excesiva, sin anillo antiextrusión), deformación permanente plana (calor, envejecimiento), hinchazón o reblandecimiento (caucho inadecuado para el fluido), cortes por aristas vivas al montar.
+
+#5838
+Choisissez le matériau selon le fluide : EPDM pour l'eau et la vapeur (pas l'huile), NBR pour l'huile, FKM pour la chaleur et les solvants ; le contact produit exige FDA / USP Class VI. Lubrifiez, ne le roulez jamais sur un filetage, mesurez le diamètre intérieur et la section.
+Escolha o material conforme o fluido: EPDM para água e vapor (não óleo), NBR para óleo, FKM para calor e solventes; contato com produto exige FDA / USP Class VI. Lubrifique, nunca o role sobre roscas, meça o diâmetro interno e a seção.
+按介质选材：水和蒸汽用 EPDM（不能用于油），油用 NBR，高温和溶剂用 FKM；接触产品须符合 FDA / USP Class VI。安装前润滑，绝不能在螺纹上滚过，测量内径和截面直径。
+Выбирайте материал по среде: EPDM для воды и пара (не для масла), NBR для масла, FKM для высоких температур и растворителей; для контакта с продуктом нужен FDA / USP Class VI. Смазывайте, никогда не прокатывайте кольцо по резьбе, измеряйте внутренний диаметр и сечение.
+Dobierz materiał do medium: EPDM do wody i pary (nie do oleju), NBR do oleju, FKM do wysokiej temperatury i rozpuszczalników; kontakt z produktem wymaga FDA / USP Class VI. Smaruj, nigdy nie przetaczaj po gwincie, zmierz średnicę wewnętrzną i przekrój.
+A közegnek megfelelő anyagot válassza: EPDM víz és gőz esetén (olajhoz nem), NBR olajhoz, FKM hőhöz és oldószerekhez; termékkel érintkezve FDA / USP Class VI szükséges. Kenje meg, soha ne görgesse át meneten, mérje meg a belső átmérőt és a keresztmetszetet.
+Elija el material según el fluido: EPDM para agua y vapor (no aceite), NBR para aceite, FKM para calor y disolventes; el contacto con producto exige FDA / USP Class VI. Lubrique, nunca la haga rodar sobre roscas, mida el diámetro interior y la sección.
+
+#5839
+Couvercle / bouchon avec gorge
+Tampa / bujão com canal
+带沟槽的盖 / 堵头
+Крышка / пробка с канавкой
+Pokrywa / korek z rowkiem
+Fedél / dugó horonnyal
+Tapa / tapón con ranura
+
+#5840
+Pièce mâle dans laquelle est usinée la gorge rectangulaire (logement) ; trou taraudé pour un extracteur.
+Peça macho com o canal retangular (alojamento) usinado; furo roscado para um sacador.
+外圆零件上加工有矩形沟槽（密封槽）；有螺纹孔用于拉拔器。
+Охватываемая деталь с проточенной прямоугольной канавкой; резьбовое отверстие под съёмник.
+Część męska z wytoczonym prostokątnym rowkiem (gniazdem); otwór gwintowany na ściągacz.
+Külső (csap) alkatrész a beleszúrt téglalap alakú horonnyal; menetes furat a lehúzónak.
+Pieza macho con la ranura rectangular (alojamiento) mecanizada; agujero roscado para un extractor.
+
+#5841
+Bague anti-extrusion (PTFE)
+Anel de apoio (PTFE)
+挡圈（PTFE）
+Защитное кольцо (PTFE)
+Pierścień oporowy (PTFE)
+Támasztógyűrű (PTFE)
+Anillo antiextrusión (PTFE)
+
+#5842
+Côté basse pression : comble le jeu pour que le joint torique ne puisse pas fluer.
+No lado de baixa pressão: fecha a folga para o O-ring não ser espremido para fora.
+位于低压侧：封住间隙，使 O 形圈无法被挤出。
+Со стороны низкого давления: перекрывает зазор, чтобы кольцо O-ring не выдавливалось.
+Po stronie niskiego ciśnienia: zamyka szczelinę, aby O-ring nie został wyciśnięty.
+A kisnyomású oldalon: áthidalja a rést, hogy az O-gyűrű ne nyomódhasson ki.
+En el lado de baja presión: cubre la holgura para que la junta tórica no se salga.
+
+#5843
+Joint torique (écrasé)
+O-ring (comprimido)
+O 形圈（受压缩）
+Кольцо O-ring (сжатое)
+O-ring (ściśnięty)
+O-gyűrű (összenyomva)
+Junta tórica (comprimida)
+
+#5844
+Corde de 3,53 mm écrasée d'environ 20 % en ovale entre fond de gorge et alésage.
+Cordão de 3,53 mm comprimido cerca de 20 % em forma oval entre o fundo do canal e o furo.
+3.53 mm 截面的圈在槽底与孔之间被压缩约 20 %，呈椭圆形。
+Шнур 3,53 mm, сжатый примерно на 20 % в овал между дном канавки и отверстием.
+Sznur 3,53 mm ściśnięty o ok. 20 % do owalu między dnem rowka a otworem.
+3,53 mm-es zsinór, kb. 20 %-kal oválisra nyomva a horony alja és a furat között.
+Cordón de 3,53 mm comprimido alrededor de un 20 % en óvalo entre el fondo de la ranura y el alojamiento.
+
+#5845
+Alésage du corps (côté pression)
+Furo da carcaça (lado da pressão)
+壳体孔（压力侧）
+Отверстие корпуса (сторона давления)
+Otwór obudowy (strona ciśnienia)
+Házfurat (nyomás oldal)
+Alojamiento de la carcasa (lado de presión)
+
+#5846
+Alésage dans lequel entre le bouchon, avec un petit jeu ; la pression d'huile arrive côté orifice.
+Furo onde o bujão entra, com pequena folga; a pressão de óleo vem do lado da conexão.
+堵头装入的孔，有很小的配合间隙；油压从接口一侧进入。
+Отверстие, в которое входит пробка, с небольшим зазором; давление масла подаётся со стороны порта.
+Otwór, w który wchodzi korek, z małą szczeliną; ciśnienie oleju przychodzi od strony przyłącza.
+A furat, amelybe a dugó illeszkedik, kis réssel; az olajnyomás a csonk felől érkezik.
+Alojamiento donde entra el tapón, con una pequeña holgura; la presión de aceite llega por el lado de la conexión.
+
+#5847
+Circlip intérieur
+Anel elástico interno
+孔用卡簧
+Внутреннее стопорное кольцо
+Pierścień osadczy wewnętrzny
+Belső Seeger-gyűrű
+Anillo de retención interior
+
+#5848
+Anneau élastique dans la gorge de l'alésage qui retient le couvercle contre la pression.
+Anel de retenção no canal do furo que segura a tampa contra a pressão.
+装在孔槽里的卡环，顶住压力固定住盖子。
+Пружинное кольцо в канавке отверстия, удерживающее крышку от давления.
+Pierścień sprężysty w rowku otworu, który trzyma pokrywę wbrew ciśnieniu.
+Rugós gyűrű a furat hornyában, amely a nyomással szemben megtartja a fedelet.
+Anillo elástico en la ranura del alojamiento que sujeta la tapa contra la presión.
+
+#5849
+Mettre sous pression
+Aplicar pressão
+加压
+Подать давление
+Podaj ciśnienie
+Nyomás rá
+Aplicar presión
+
+#5850
+Pourquoi monte-t-on une bague anti-extrusion ?
+Por que se instala o anel de apoio?
+为什么要装挡圈？
+Зачем ставят защитное кольцо?
+Po co montuje się pierścień oporowy?
+Miért szerelnek be támasztógyűrűt?
+¿Por qué se monta el anillo antiextrusión?
+
+#5851
+Pour empêcher le joint torique de fluer dans le jeu à haute pression
+Para impedir que o O-ring extrude para a folga em alta pressão
+防止 O 形圈在高压下被挤入间隙
+Чтобы кольцо O-ring не выдавливалось в зазор при высоком давлении
+Aby O-ring nie był wyciskany w szczelinę przy wysokim ciśnieniu
+Hogy nagy nyomáson az O-gyűrű ne nyomódjon ki a résbe
+Para impedir que la junta tórica se extruya por la holgura a alta presión
+
+#5852
+Pour rendre le joint torique plus serré à pression nulle
+Para deixar o O-ring mais apertado com pressão zero
+为了让 O 形圈在零压力时更紧
+Чтобы кольцо O-ring плотнее сидело при нулевом давлении
+Aby O-ring był ciaśniejszy przy zerowym ciśnieniu
+Hogy nulla nyomáson szorosabb legyen az O-gyűrű
+Para que la junta tórica apriete más a presión cero
+
+#5853
+Pour empêcher le bouchon de tourner
+Para impedir que o bujão gire
+为了防止堵头转动
+Чтобы пробка не проворачивалась
+Aby korek się nie obracał
+Hogy a dugó ne forduljon el
+Para impedir que el tapón gire
+
+#5854
+Elle remplace la lubrification
+Ele substitui a lubrificação
+它可以代替润滑
+Оно заменяет смазку
+Zastępuje smarowanie
+Helyettesíti a kenést
+Sustituye a la lubricación
+
+#5855
+Un joint torique EPDM est monté dans un circuit hydraulique à huile minérale. Il va…
+Um O-ring de EPDM é instalado em um sistema hidráulico com óleo mineral. Ele vai…
+在矿物油液压系统中装了 EPDM O 形圈。它会…
+В гидросистему на минеральном масле поставили кольцо O-ring из EPDM. Оно…
+W układzie hydraulicznym z olejem mineralnym zamontowano O-ring z EPDM. On…
+Ásványolajos hidraulikába EPDM O-gyűrűt szereltek. Ez…
+Se monta una junta tórica de EPDM en un sistema hidráulico de aceite mineral. Va a…
+
+#5856
+Gonfler, ramollir et lâcher
+Inchar, amolecer e falhar
+溶胀、变软并失效
+Разбухнет, размягчится и выйдет из строя
+Spęcznieje, zmięknie i ulegnie awarii
+Megduzzad, meglágyul és tönkremegy
+Hincharse, ablandarse y fallar
+
+#5857
+Durer plus longtemps que le NBR
+Durar mais que o NBR
+比 NBR 更耐用
+Прослужит дольше, чем NBR
+Wytrzyma dłużej niż NBR
+Tovább bírja, mint az NBR
+Durar más que el NBR
+
+#5858
+Fonctionner normalement
+Funcionar normalmente
+正常工作
+Будет работать нормально
+Będzie działać normalnie
+Normálisan működik
+Funcionar con normalidad
+
+#5859
+Seulement rétrécir et durcir
+Só encolher e endurecer
+只会收缩并变硬
+Только сожмётся и затвердеет
+Tylko się skurczy i stwardnieje
+Csak összezsugorodik és megkeményedik
+Solo encogerse y endurecerse
+
+#5860
+De quel côté du joint torique place-t-on la bague anti-extrusion ?
+De que lado do O-ring fica o anel de apoio?
+挡圈放在 O 形圈的哪一侧？
+С какой стороны кольца O-ring ставят защитное кольцо?
+Po której stronie O-ringa umieszcza się pierścień oporowy?
+Az O-gyűrű melyik oldalára kerül a támasztógyűrű?
+¿En qué lado de la junta tórica se coloca el anillo antiextrusión?
+
+#5861
+Le côté basse pression
+O lado de baixa pressão
+低压侧
+Со стороны низкого давления
+Strona niskiego ciśnienia
+A kisnyomású oldalra
+El lado de baja presión
+
+#5862
+Le côté haute pression
+O lado de alta pressão
+高压侧
+Со стороны высокого давления
+Strona wysokiego ciśnienia
+A nagynyomású oldalra
+El lado de alta presión
+
+#5863
+Sous le joint torique
+Embaixo do O-ring
+O 形圈下面
+Под кольцом O-ring
+Pod O-ringiem
+Az O-gyűrű alá
+Debajo de la junta tórica
+
+#5864
+Tresse d'étanchéité (presse-étoupe)
+Gaxeta (caixa de gaxetas)
+填料密封（填料函）
+Сальниковая набивка (сальниковая камера)
+Szczeliwo (dławnica)
+Tömszelence-tömítés (tömszelence)
+Empaquetadura (prensaestopas)
+
+#5865
+Des anneaux de tresse sont comprimés par un fouloir autour de la chemise d'arbre. Contrairement à une garniture mécanique, elle doit fuir un peu pour se refroidir et se lubrifier.
+Anéis de gaxeta trançada são comprimidos pela sobreposta em volta da luva do eixo. Ao contrário de um selo mecânico, ela precisa vazar um pouco para se resfriar e se lubrificar.
+编织填料环被填料压盖压紧在轴套周围。与机械密封不同，它必须少量泄漏来冷却和润滑自身。
+Кольца плетёной набивки поджимаются грундбуксой вокруг защитной втулки вала. В отличие от торцевого уплотнения, она должна немного протекать, чтобы охлаждаться и смазываться.
+Pierścienie plecionego szczeliwa są ściskane przez dławik wokół tulei wału. W przeciwieństwie do uszczelnienia mechanicznego musi trochę przeciekać, aby się chłodzić i smarować.
+A fonott tömítőgyűrűket a tömszelence-szorító nyomja össze a tengelyhüvely körül. A csúszógyűrűs tömítéssel ellentétben kicsit szivárognia kell, hogy hűtse és kenje magát.
+Anillos de empaquetadura trenzada se comprimen con un casquillo prensaestopas alrededor de la camisa del eje. A diferencia de un sello mecánico, debe fugar un poco para refrigerarse y lubricarse.
+
+#5866
+Pompes anciennes des tours de refroidissement, d'eau brute et d'eau incendie, agitateurs lents et grosses tiges de vannes.
+Bombas antigas de torres de resfriamento, água bruta e de incêndio, agitadores lentos e hastes de válvulas grandes.
+冷却塔、原水和消防水的老式泵、低速搅拌器和大型阀杆。
+Старые насосы градирен, сырой и пожарной воды, тихоходные мешалки и штоки больших клапанов.
+Starsze pompy wież chłodniczych, wody surowej i przeciwpożarowej, wolnoobrotowe mieszadła i trzpienie dużych zaworów.
+Régebbi szivattyúk hűtőtornyokon, nyersvíz- és tűzivíz-rendszereken, lassú keverők és nagy szelepszárak.
+Bombas antiguas de torres de refrigeración, agua bruta y agua contra incendios, agitadores lentos y vástagos de válvulas grandes.
+
+#5867
+Le serrage des écrous du fouloir comprime les anneaux qui serrent alors la chemise. La lanterne est alignée avec l'orifice de rinçage pour que l'eau propre arrive au milieu du presse-étoupe.
+Apertar as porcas da sobreposta comprime os anéis para que agarrem a luva. O anel lanterna fica alinhado com a conexão de flush para que a água limpa chegue ao meio da caixa.
+拧紧压盖螺母会压缩填料环，使其抱紧轴套。灌封环（水封环）与冲洗口对齐，让干净的水到达填料函中部。
+Затяжка гаек грундбуксы сжимает кольца, и они обжимают втулку. Фонарное кольцо совмещено с портом промывки, чтобы чистая вода поступала в середину камеры.
+Dokręcanie nakrętek dławika ściska pierścienie, które obejmują tuleję. Pierścień lanternowy jest na wysokości przyłącza płukania, aby czysta woda dochodziła do środka dławnicy.
+A szorítóanyák meghúzása összenyomja a gyűrűket, így azok ráfognak a hüvelyre. A lámpásgyűrű az öblítőcsonkkal egy vonalban van, hogy tiszta víz jusson a tömszelence közepére.
+Apretar las tuercas del prensaestopas comprime los anillos para que agarren la camisa. El anillo linterna queda alineado con la conexión de lavado para que el agua limpia llegue al centro de la caja.
+
+#5868
+Trop serré : pas de fuite, fumée, presse-étoupe chaud et sillon profond usé dans la chemise. Trop desserré : fuite importante. Anneaux brûlés et durs, chemise rayée.
+Apertado demais: sem vazamento, fumaça, sobreposta quente e sulco profundo gasto na luva. Frouxo demais: vazamento forte. Anéis queimados e duros e luva riscada.
+过紧：无泄漏、冒烟、压盖发热，轴套上磨出深沟。过松：大量泄漏。填料环烧焦变硬，轴套拉伤。
+Слишком туго: нет утечки, дым, горячая грундбукса и глубокая канавка, протёртая на втулке. Слишком слабо: сильная течь. Сгоревшие, твёрдые кольца и задиры на втулке.
+Za mocno: brak wycieku, dym, gorący dławik i głęboki rowek wytarty w tulei. Za słabo: duży wyciek. Spalone, twarde pierścienie i porysowana tuleja.
+Túl szoros: nincs szivárgás, füst, forró tömszelence és mély horony a hüvelyben. Túl laza: erős szivárgás. Megégett, kemény gyűrűk és barázdált hüvely.
+Demasiado apretado: sin fuga, humo, prensaestopas caliente y un surco profundo en la camisa. Demasiado flojo: fuga fuerte. Anillos quemados y duros y camisa rayada.
+
+#5869
+Coupez les anneaux sur un mandrin du diamètre de la chemise, décalez les coupes de 90°, mettez chaque anneau en place un par un, placez la lanterne sous l'orifice de rinçage. Serrez les écrous uniformément par petites étapes jusqu'à un goutte-à-goutte régulier (environ 40-60 gouttes par minute).
+Corte os anéis em um mandril do tamanho da luva, defase as emendas em 90°, assente cada anel individualmente, coloque o anel lanterna sob a conexão de flush. Aperte as porcas por igual em pequenos passos até um gotejamento constante (cerca de 40-60 gotas por minuto).
+在与轴套同尺寸的芯棒上切割填料环，接口错开 90°，每个环单独压入到位，灌封环对准冲洗口。均匀地分小步拧紧螺母，直到稳定滴漏（约每分钟 40-60 滴）。
+Нарезайте кольца на оправке диаметром втулки, смещайте стыки на 90°, досылайте каждое кольцо отдельно, фонарное кольцо ставьте под порт промывки. Затягивайте гайки равномерно небольшими шагами до устойчивой капели (около 40-60 капель в минуту).
+Tnij pierścienie na trzpieniu o średnicy tulei, przesuwaj złącza o 90°, osadzaj każdy pierścień osobno, pierścień lanternowy umieść pod przyłączem płukania. Dokręcaj nakrętki równomiernie małymi krokami aż do stałego kapania (ok. 40-60 kropli na minutę).
+A gyűrűket a hüvely méretével azonos tüskén vágja, a vágásokat 90°-kal eltolva helyezze el, minden gyűrűt külön ültessen be, a lámpásgyűrűt az öblítőcsonk alá tegye. Az anyákat egyenletesen, kis lépésekben húzza, amíg egyenletes csöpögést nem kap (kb. 40-60 csepp percenként).
+Corte los anillos sobre un mandril del tamaño de la camisa, desfase las juntas 90°, asiente cada anillo por separado y ponga el anillo linterna bajo la conexión de lavado. Apriete las tuercas uniformemente en pequeños pasos hasta lograr un goteo constante (unas 40-60 gotas por minuto).
+
+#5870
+Presse-étoupe avec orifice de rinçage
+Caixa de gaxetas com conexão de flush
+带冲洗口的填料函
+Сальниковая камера с портом промывки
+Dławnica z przyłączem płukania
+Tömszelence öblítőcsonkkal
+Prensaestopas con conexión de lavado
+
+#5871
+Alésage qui reçoit la tresse ; goujons pour le fouloir et orifice d'eau de rinçage au niveau de la lanterne.
+Furo que aloja a gaxeta; prisioneiros para a sobreposta e conexão de água de flush no anel lanterna.
+容纳填料的腔孔；有固定压盖的双头螺柱，以及位于灌封环处的冲洗水口。
+Расточка для набивки; шпильки для грундбуксы и порт промывочной воды у фонарного кольца.
+Otwór mieszczący szczeliwo; szpilki dławika i przyłącze wody płuczącej przy pierścieniu lanternowym.
+A tömítést befogadó furat; tőcsavarok a szorítónak és öblítővíz-csonk a lámpásgyűrűnél.
+Alojamiento que contiene la empaquetadura; espárragos para el prensaestopas y conexión de agua de lavado en el anillo linterna.
+
+#5872
+Tourne dans le presse-étoupe ; protégé par la chemise.
+Gira dentro da caixa; protegido pela luva.
+在填料函内转动；由轴套保护。
+Вращается внутри камеры; защищён втулкой.
+Obraca się wewnątrz dławnicy; chroniony tuleją.
+A tömszelencében forog; a hüvely védi.
+Gira dentro de la caja; protegido por la camisa.
+
+#5873
+Chemise d'arbre
+Luva do eixo
+轴套
+Защитная втулка вала
+Tuleja wału
+Tengelyhüvely
+Camisa del eje
+
+#5874
+Chemise remplaçable à revêtement dur : la tresse use la chemise et non l'arbre.
+Luva substituível com revestimento duro, assim a gaxeta desgasta a luva e não o eixo.
+表面硬化、可更换的轴套，使填料磨损轴套而不是轴。
+Сменная втулка с твёрдым покрытием, чтобы набивка изнашивала втулку, а не вал.
+Wymienna tuleja z utwardzoną powierzchnią, aby szczeliwo zużywało tuleję, a nie wał.
+Kemény bevonatú, cserélhető hüvely, így a tömítés a hüvelyt koptatja, nem a tengelyt.
+Camisa recambiable con recubrimiento duro, así la empaquetadura desgasta la camisa y no el eje.
+
+#5875
+Lanterne
+Anel lanterna
+灌封环
+Фонарное кольцо
+Pierścień lanternowy
+Lámpásgyűrű
+Anillo linterna
+
+#5876
+Anneau rainuré et percé sous l'orifice de rinçage : répartit l'eau de rinçage autour de la chemise.
+Anel ranhurado e furado sob a conexão de flush: distribui a água de flush em volta da luva.
+带槽并钻孔的环，位于冲洗口下方：把冲洗水分布到轴套四周。
+Кольцо с канавкой и отверстиями под портом промывки: распределяет промывочную воду вокруг втулки.
+Rowkowany, nawiercony pierścień pod przyłączem płukania: rozprowadza wodę płuczącą wokół tulei.
+Hornyolt, furatos gyűrű az öblítőcsonk alatt: körben elosztja az öblítővizet a hüvely körül.
+Anillo ranurado y taladrado bajo la conexión de lavado: reparte el agua de lavado alrededor de la camisa.
+
+#5877
+Fouloir
+Sobreposta (aperta-gaxeta)
+填料压盖
+Грундбукса
+Dławik
+Tömszelence-szorító
+Casquillo prensaestopas
+
+#5878
+Pousse la tresse. Il ne doit jamais venir en butée sur la face du presse-étoupe.
+Empurra a gaxeta para dentro. Nunca deve encostar no fundo da face da caixa.
+把填料往里压。它绝不能压到填料函端面上见底。
+Вдавливает набивку. Она никогда не должна упираться в торец камеры.
+Wciska szczeliwo. Nigdy nie może dojść do oporu o czoło dławnicy.
+Benyomja a tömítést. Soha nem ülhet fel a tömszelence homlokára.
+Empuja la empaquetadura. Nunca debe hacer tope contra la cara de la caja.
+
+#5879
+Serrés uniformément, un peu à la fois, pour régler le débit de fuite.
+Apertadas por igual, um pouco de cada vez, para ajustar a taxa de vazamento.
+每次少量均匀拧紧，以调节泄漏量。
+Затягиваются равномерно понемногу, чтобы выставить величину утечки.
+Dokręcane równomiernie po trochu, aby ustawić wielkość wycieku.
+Egyenletesen, kis lépésekben húzzák a szivárgás beállításához.
+Se aprietan uniformemente poco a poco para ajustar el caudal de fuga.
+
+#5880
+Pourquoi décale-t-on les coupes des anneaux de tresse ?
+Por que as emendas dos anéis de gaxeta são defasadas?
+为什么填料环接口要错开？
+Зачем смещают стыки колец набивки?
+Dlaczego złącza pierścieni szczeliwa się przesuwa?
+Miért kell eltolni a tömítőgyűrűk vágásait?
+¿Por qué se desfasan las juntas de los anillos de empaquetadura?
+
+#5881
+Pour que les coupes ne s'alignent pas en un chemin de fuite
+Para que as emendas não se alinhem formando um caminho de vazamento
+防止接口对齐形成泄漏通道
+Чтобы стыки не выстроились в канал утечки
+Aby złącza nie ułożyły się w drogę wycieku
+Hogy a vágások ne álljanak egy vonalba szivárgási utat képezve
+Para que las juntas no se alineen formando un camino de fuga
+
+#5882
+Pour accélérer le montage
+Para montar mais rápido
+为了装得更快
+Чтобы быстрее монтировать
+Aby montaż był szybszy
+Hogy gyorsabb legyen a szerelés
+Para montar más rápido
+
+#5883
+Pour équilibrer l'arbre
+Para balancear o eixo
+为了平衡轴
+Чтобы отбалансировать вал
+Aby wyważyć wał
+A tengely kiegyensúlyozása miatt
+Para equilibrar el eje
+
+#5884
+Le presse-étoupe est chaud et il n'y a aucune fuite. Cela signifie…
+A sobreposta está quente e não há nenhum vazamento. Isso significa…
+压盖发热，而且完全没有泄漏。这说明…
+Грундбукса горячая, и утечки нет совсем. Это значит…
+Dławik jest gorący i nie ma żadnego wycieku. To oznacza…
+A tömszelence forró, és egyáltalán nincs szivárgás. Ez azt jelenti…
+El prensaestopas está caliente y no hay ninguna fuga. Esto significa…
+
+#5885
+Il est trop serré : desserrer et régler à nouveau
+Está apertada demais: afrouxe e reajuste
+拧得过紧：松开并重新调整
+Она перетянута: ослабьте и отрегулируйте заново
+Jest przeciągnięty: poluzuj i wyreguluj ponownie
+Túl van húzva: lazítsa meg és állítsa be újra
+Está demasiado apretado: aflójelo y reajústelo
+
+#5886
+Réglage parfait
+Ajuste perfeito
+调整得很完美
+Идеальная настройка
+Idealne ustawienie
+Tökéletes beállítás
+Ajuste perfecto
+
+#5887
+Le rinçage est trop fort
+O flush está forte demais
+冲洗水太大
+Слишком сильная промывка
+Płukanie jest za mocne
+Túl erős az öblítés
+El lavado es demasiado fuerte
+
+#5888
+La tresse est absente
+A gaxeta está faltando
+填料没装
+Набивка отсутствует
+Brakuje szczeliwa
+Hiányzik a tömítés
+Falta la empaquetadura
+
+#5889
+Assemblage à brides avec joint spiralé (DN100 PN16)
+Junta flangeada com junta espirometálica (DN100 PN16)
+带缠绕垫片的法兰连接（DN100 PN16）
+Фланцевое соединение со спирально-навитой прокладкой (DN100 PN16)
+Połączenie kołnierzowe z uszczelką spiralną (DN100 PN16)
+Karimás kötés spirálisan tekercselt tömítéssel (DN100 PN16)
+Unión embridada con junta espirometálica (DN100 PN16)
+
+#5890
+Deux brides à collerette à face surélevée serrent un joint avec 8 boulons. L'assemblage n'est étanche que si la charge des boulons est suffisante et uniforme sur tout le tour.
+Dois flanges de pescoço com face com ressalto comprimem uma junta com 8 parafusos. A junta só veda quando a carga dos parafusos é alta o suficiente e uniforme em toda a volta.
+两个突面带颈对焊法兰用 8 个螺栓压紧垫片。只有螺栓载荷足够大且整圈均匀时，接头才能密封。
+Два воротниковых фланца с соединительным выступом сжимают прокладку 8 болтами. Соединение герметично, только если усилие болтов достаточно и равномерно по всему кругу.
+Dwa kołnierze szyjkowe z przylgą ściskają uszczelkę 8 śrubami. Połączenie jest szczelne tylko wtedy, gdy siła śrub jest wystarczająca i równa na całym obwodzie.
+Két kiemelt tömítőfelületű hegtoldatos karima 8 csavarral szorít össze egy tömítést. A kötés csak akkor tömít, ha a csavarerő elég nagy és körben egyenletes.
+Dos bridas con cuello para soldar y cara realzada aprietan una junta con 8 pernos. La unión sella solo cuando la carga de los pernos es suficiente y uniforme en todo el contorno.
+
+#5891
+Vapeur et condensats, eau industrielle et eau glacée, piquages de cuves, échangeurs de chaleur et collecteurs d'utilités.
+Vapor e condensado, água industrial e gelada, bocais de tanques, trocadores de calor e coletores de utilidades.
+蒸汽和冷凝水、工业水和冷冻水、罐体接管、换热器和公用工程总管。
+Пар и конденсат, техническая и захоложенная вода, патрубки ёмкостей, теплообменники и коллекторы вспомогательных сред.
+Para i kondensat, woda technologiczna i lodowa, króćce zbiorników, wymienniki ciepła i kolektory mediów.
+Gőz és kondenzátum, üzemi és hidegvíz, tartálycsonkok, hőcserélők és közműgerincek.
+Vapor y condensado, agua de planta y agua helada, tubuladuras de depósitos, intercambiadores de calor y colectores de servicios.
+
+#5892
+La tension des boulons enfonce le joint dans l'état de surface des faces. Joint spiralé : enroulement d'acier avec garniture graphite ; l'anneau de centrage extérieur le centre sur les boulons et empêche l'écrasement excessif.
+A tensão dos parafusos pressiona a junta contra o acabamento da face. Espirometálica: enrolamento de aço com enchimento de grafite; o anel de centralização externo a centraliza nos parafusos e evita a sobrecompressão.
+螺栓拉力把垫片压进法兰密封面的纹路中。缠绕垫片：钢带缠绕加石墨填料；外侧定位环使其以螺栓为基准对中，并防止过度压缩。
+Натяжение болтов вдавливает прокладку в микрорельеф уплотнительной поверхности. Спирально-навитая: стальная лента с графитовым наполнителем; наружное центрирующее кольцо центрирует её по болтам и не даёт пережать.
+Naciąg śrub wciska uszczelkę w strukturę powierzchni przylgi. Spiralna: zwój stalowy z wypełnieniem grafitowym; zewnętrzny pierścień centrujący centruje ją na śrubach i zapobiega nadmiernemu ściśnięciu.
+A csavarerő a tömítést a tömítőfelület érdességébe nyomja. Spirálisan tekercselt: acélszalag grafittöltettel; a külső központosító gyűrű a csavarokhoz igazítja és megakadályozza a túlnyomást.
+La tensión de los pernos presiona la junta contra el acabado de la cara. Espirometálica: devanado de acero con relleno de grafito; el anillo de centrado exterior la centra en los pernos y evita la sobrecompresión.
+
+#5893
+Fuites après cycles thermiques (relâchement des boulons), joint écrasé ou décentré, serrage inégal qui incline les brides, boulons corrodés ou trop courts.
+Vazamentos após ciclos térmicos (relaxamento dos parafusos), junta esmagada ou descentralizada, aperto desigual que inclina os flanges, parafusos corroídos ou curtos.
+热循环后泄漏（螺栓松弛）、垫片被压碎或偏心、拧紧不均使法兰倾斜、螺栓腐蚀或太短。
+Течи после тепловых циклов (релаксация болтов), раздавленная или смещённая прокладка, неравномерная затяжка с перекосом фланцев, корродированные или короткие болты.
+Wycieki po cyklach cieplnych (relaksacja śrub), zgnieciona lub niewycentrowana uszczelka, nierówne dokręcenie przekrzywiające kołnierze, skorodowane lub za krótkie śruby.
+Szivárgás hőciklusok után (csavarlazulás), összeroppant vagy excentrikus tömítés, a karimákat megdöntő egyenetlen meghúzás, korrodált vagy rövid csavarok.
+Fugas tras ciclos térmicos (relajación de los pernos), junta aplastada o descentrada, apriete desigual que inclina las bridas, pernos corroídos o cortos.
+
+#5894
+Toujours un joint neuf, des faces propres, des filetages lubrifiés. Numérotez les boulons dans le sens horaire 1-8 et serrez en étoile : 1-5-3-7-2-6-4-8, en passes à environ 30 %, 60 % et 100 % du couple, puis un tour dans le sens horaire à 100 %. 2-3 filets doivent dépasser de l'écrou.
+Sempre junta nova, faces limpas, roscas lubrificadas. Numere os parafusos no sentido horário 1-8 e aperte em estrela: 1-5-3-7-2-6-4-8, em passadas de cerca de 30 %, 60 % e 100 % do torque, depois uma volta no sentido horário a 100 %. 2-3 filetes devem aparecer além da porca.
+一律用新垫片，密封面清洁，螺纹润滑。按顺时针给螺栓编号 1-8，按星形顺序拧紧：1-5-3-7-2-6-4-8，分约 30 %、60 % 和 100 % 扭矩几遍拧紧，最后按顺时针以 100 % 再拧一圈。螺母外应露出 2-3 扣螺纹。
+Всегда новая прокладка, чистые поверхности, смазанная резьба. Пронумеруйте болты по часовой стрелке 1-8 и затягивайте звездой: 1-5-3-7-2-6-4-8, проходами примерно 30 %, 60 % и 100 % момента, затем один круг по часовой стрелке на 100 %. Из гайки должны выступать 2-3 витка.
+Zawsze nowa uszczelka, czyste przylgi, nasmarowane gwinty. Ponumeruj śruby zgodnie z ruchem wskazówek zegara 1-8 i dokręcaj na gwiazdę: 1-5-3-7-2-6-4-8, w przejściach ok. 30 %, 60 % i 100 % momentu, potem jedno okrążenie zgodnie z ruchem wskazówek zegara na 100 %. Z nakrętki powinny wystawać 2-3 zwoje.
+Mindig új tömítés, tiszta felületek, megkent menetek. Számozza a csavarokat az óramutató járása szerint 1-8, és csillagban húzza: 1-5-3-7-2-6-4-8, kb. 30 %, 60 % és 100 % nyomatékú menetekben, majd egy kör az óramutató járása szerint 100 %-on. Az anyából 2-3 menetnek kell kilátszania.
+Siempre junta nueva, caras limpias y roscas lubricadas. Numere los pernos en sentido horario 1-8 y apriete en estrella: 1-5-3-7-2-6-4-8, en pasadas de aproximadamente 30 %, 60 % y 100 % del par, y después una vuelta en sentido horario al 100 %. Deben verse 2-3 hilos más allá de la tuerca.
+
+#5895
+Bride à collerette (gauche)
+Flange de pescoço (esquerdo)
+带颈对焊法兰（左）
+Воротниковый фланец (левый)
+Kołnierz szyjkowy (lewy)
+Hegtoldatos karima (bal)
+Brida con cuello para soldar (izquierda)
+
+#5896
+Bride à face surélevée soudée au tube ; le collet conique répartit les contraintes.
+Flange de face com ressalto soldado ao tubo; o pescoço cônico distribui a tensão.
+突面法兰焊在管子上；锥形颈部分散应力。
+Фланец с соединительным выступом, приваренный к трубе; конический воротник распределяет напряжения.
+Kołnierz z przylgą przyspawany do rury; stożkowa szyjka rozkłada naprężenia.
+A csőhöz hegesztett, kiemelt tömítőfelületű karima; a kúpos toldat elosztja a feszültséget.
+Brida de cara realzada soldada al tubo; el cuello cónico reparte la tensión.
+
+#5897
+Joint spiralé
+Junta espirometálica
+缠绕垫片
+Спирально-навитая прокладка
+Uszczelka spiralna
+Spirálisan tekercselt tömítés
+Junta espirometálica
+
+#5898
+Enroulement de feuillard d'acier et de graphite avec un anneau intérieur et un anneau de centrage extérieur coloré.
+Enrolamento de fita de aço e grafite com anel interno e anel de centralização externo colorido.
+钢带和石墨缠绕而成，带内环和彩色的外定位环。
+Навивка из стальной ленты и графита с внутренним кольцом и цветным наружным центрирующим кольцом.
+Zwój taśmy stalowej i grafitu z pierścieniem wewnętrznym i kolorowym zewnętrznym pierścieniem centrującym.
+Acélszalag és grafit tekercselés belső gyűrűvel és színes külső központosító gyűrűvel.
+Devanado de fleje de acero y grafito con anillo interior y un anillo de centrado exterior de color.
+
+#5899
+Bride à collerette (droite)
+Flange de pescoço (direito)
+带颈对焊法兰（右）
+Воротниковый фланец (правый)
+Kołnierz szyjkowy (prawy)
+Hegtoldatos karima (jobb)
+Brida con cuello para soldar (derecha)
+
+#5900
+Bride correspondante ; les trous de boulons doivent être alignés à cheval sur l'axe.
+Flange correspondente; os furos dos parafusos devem ficar alinhados, simétricos em relação à linha de centro.
+配对法兰；螺栓孔必须对齐，并跨中心线对称分布。
+Ответный фланец; отверстия под болты должны совпадать и располагаться симметрично относительно осевой линии.
+Kołnierz współpracujący; otwory śrub muszą się pokrywać, rozmieszczone symetrycznie względem osi.
+Ellenkarima; a csavarfuratoknak egy vonalba kell esniük, a középvonalhoz képest szimmetrikusan.
+Brida correspondiente; los agujeros de los pernos deben alinearse a ambos lados del eje.
+
+#5901
+Boulons M16 (8)
+Parafusos M16 (8)
+螺栓 M16（8 个）
+Болты M16 (8)
+Śruby M16 (8)
+M16 csavarok (8)
+Pernos M16 (8)
+
+#5902
+S'allongent comme des ressorts et maintiennent le joint sous charge. L'écrou jaune repère le boulon 1 ; numérotez les autres dans le sens horaire.
+Esticam como molas e mantêm a junta carregada. A porca amarela marca o parafuso 1; numere os outros no sentido horário.
+像弹簧一样伸长，使垫片保持受压。黄色螺母标示 1 号螺栓；其余的按顺时针编号。
+Растягиваются как пружины и держат прокладку под нагрузкой. Жёлтая гайка отмечает болт 1; остальные нумеруйте по часовой стрелке.
+Wydłużają się jak sprężyny i utrzymują nacisk na uszczelkę. Żółta nakrętka oznacza śrubę 1; pozostałe numeruj zgodnie z ruchem wskazówek zegara.
+Rugóként megnyúlnak és terhelés alatt tartják a tömítést. A sárga anya jelöli az 1-es csavart; a többit az óramutató járása szerint számozza.
+Se estiran como resortes y mantienen la junta cargada. La tuerca amarilla marca el perno 1; numere el resto en sentido horario.
+
+#5903
+Rondelles (côté tête)
+Arruelas (lado da cabeça)
+垫圈（头部侧）
+Шайбы (со стороны головки)
+Podkładki (od strony łba)
+Alátétek (fej oldal)
+Arandelas (lado de la cabeza)
+
+#5904
+Les rondelles trempées offrent une surface lisse pour que le couple se transforme en tension du boulon.
+Arruelas temperadas dão uma face lisa para que o torque vire tensão no parafuso.
+淬硬垫圈提供光滑的支承面，使扭矩转化为螺栓拉力。
+Закалённые шайбы дают гладкую поверхность, чтобы момент превращался в натяжение болта.
+Hartowane podkładki dają gładką powierzchnię, by moment zamieniał się w naciąg śruby.
+Az edzett alátétek sima felületet adnak, így a nyomaték csavarerővé alakul.
+Las arandelas templadas dan una cara lisa para que el par se convierta en tensión del perno.
+
+#5905
+Rondelles (côté écrou)
+Arruelas (lado da porca)
+垫圈（螺母侧）
+Шайбы (со стороны гайки)
+Podkładki (od strony nakrętki)
+Alátétek (anya oldal)
+Arandelas (lado de la tuerca)
+
+#5906
+Mêmes rondelles trempées sous les écrous.
+As mesmas arruelas temperadas sob as porcas.
+螺母下面也是同样的淬硬垫圈。
+Такие же закалённые шайбы под гайками.
+Takie same hartowane podkładki pod nakrętkami.
+Ugyanilyen edzett alátétek az anyák alatt.
+Las mismas arandelas templadas bajo las tuercas.
+
+#5907
+Écrous
+Porcas
+螺母
+Гайки
+Nakrętki
+Anyák
+Tuercas
+
+#5908
+Serrés dans l'ordre en étoile avec une clé dynamométrique.
+Apertadas na sequência em estrela com torquímetro.
+用扭矩扳手按星形顺序拧紧。
+Затягиваются в порядке «звезда» динамометрическим ключом.
+Dokręcane w kolejności na gwiazdę kluczem dynamometrycznym.
+Csillag sorrendben, nyomatékkulccsal meghúzva.
+Apretadas en orden de estrella con una llave dinamométrica.
+
+#5909
+Boulons numérotés 1-8 dans le sens horaire. Quel est l'ordre de serrage ?
+Parafusos numerados 1-8 no sentido horário. Qual é a ordem de aperto?
+螺栓按顺时针编号 1-8。拧紧顺序是什么？
+Болты пронумерованы по часовой стрелке 1-8. Каков порядок затяжки?
+Śruby ponumerowane zgodnie z ruchem wskazówek zegara 1-8. Jaka jest kolejność dokręcania?
+A csavarok az óramutató járása szerint 1-8 számozásúak. Mi a meghúzási sorrend?
+Pernos numerados 1-8 en sentido horario. ¿Cuál es el orden de apriete?
+
+#5910
+1-5-3-7-2-6-4-8 (en étoile)
+1-5-3-7-2-6-4-8 (estrela)
+1-5-3-7-2-6-4-8（星形）
+1-5-3-7-2-6-4-8 (звезда)
+1-5-3-7-2-6-4-8 (gwiazda)
+1-5-3-7-2-6-4-8 (csillag)
+1-5-3-7-2-6-4-8 (estrella)
+
+#5911
+N'importe quel ordre, plein couple d'un coup
+Qualquer ordem, torque total de uma vez
+任意顺序，一次拧到全扭矩
+В любом порядке, сразу полный момент
+Dowolna kolejność, od razu pełny moment
+Bármilyen sorrendben, egyből teljes nyomatékkal
+Cualquier orden, par completo de una vez
+
+#5912
+Peut-on remonter un joint spiralé usagé ?
+Uma junta espirometálica usada pode ser montada de novo?
+用过的缠绕垫片可以再装吗？
+Можно ли повторно установить бывшую в употреблении спирально-навитую прокладку?
+Czy używaną uszczelkę spiralną można założyć ponownie?
+Visszaszerelhető egy használt spirálisan tekercselt tömítés?
+¿Se puede volver a montar una junta espirometálica usada?
+
+#5913
+Non, toujours en monter un neuf
+Não, sempre monte uma nova
+不能，一律换新的
+Нет, всегда ставить новую
+Nie, zawsze zakładaj nową
+Nem, mindig újat kell beszerelni
+No, monte siempre una nueva
+
+#5914
+Oui, s'il a l'air propre
+Sim, se parecer limpa
+可以，只要看起来干净
+Да, если выглядит чистой
+Tak, jeśli wygląda na czystą
+Igen, ha tisztának látszik
+Sí, si parece limpia
+
+#5915
+Oui, retourné
+Sim, virada ao contrário
+可以，翻过来装
+Да, перевернув
+Tak, odwróconą
+Igen, megfordítva
+Sí, dada la vuelta
+
+#5916
+Oui, avec un couple plus élevé
+Sim, com torque extra
+可以，多加点扭矩
+Да, с увеличенным моментом
+Tak, z większym momentem
+Igen, nagyobb nyomatékkal
+Sí, con más par
+
+#5917
+Raccord sanitaire clamp (2")
+Conexão sanitária tri-clamp (2")
+卫生级卡箍连接（2"）
+Санитарное кламповое соединение (2")
+Sanitarne połączenie tri-clamp (2")
+Tri-clamp higiénikus kötés (2")
+Unión sanitaria tri-clamp (2")
+
+#5918
+Raccord clamp sanitaire : deux férules à dos conique, un joint entre elles, maintenues par un collier à charnière. La gorge conique du collier rapproche les férules quand on serre l'écrou papillon.
+Conexão sanitária tipo clamp: duas férulas com costas cônicas, uma junta entre elas, presas por uma abraçadeira articulada. O canal cônico da abraçadeira puxa as férulas uma contra a outra conforme a porca borboleta é apertada.
+卫生级卡箍连接：两个背面带锥度的卡盘，中间夹一个垫片，用铰链卡箍箍住。拧紧蝶形螺母时，卡箍的锥形槽把两个卡盘拉紧在一起。
+Санитарное кламповое соединение: две ферулы с коническими тыльными сторонами, прокладка между ними, всё стянуто шарнирным хомутом. Коническая канавка хомута стягивает ферулы при затяжке барашковой гайки.
+Sanitarne połączenie zaciskowe: dwie tuleje (ferrule) ze stożkowymi tyłami, uszczelka między nimi, trzymane przez zacisk zawiasowy. Stożkowy rowek zacisku ściąga tuleje przy dokręcaniu nakrętki motylkowej.
+Higiénikus bilincses kötés: két kúpos hátú ferrule, köztük tömítés, csuklós bilinccsel összefogva. A szárnyas anya meghúzásakor a bilincs kúpos hornya összehúzza a ferrule-okat.
+Unión sanitaria con abrazadera: dos férulas con dorso cónico, una junta entre ellas, sujetas por una abrazadera con bisagra. La ranura cónica de la abrazadera junta las férulas al apretar la tuerca de mariposa.
+
+#5919
+Boucles d'eau purifiée et de WFI, lignes CIP et SIP, transfert de produit, piquages de cuves, raccordements d'instruments et de prélèvement en pharmacie.
+Loops de água purificada e WFI, linhas de CIP e SIP, transferência de produto, bocais de tanques, conexões de instrumentos e de amostragem na indústria farmacêutica.
+制药厂的纯化水和 WFI 循环管路、CIP 和 SIP 管线、产品输送、罐体接管、仪表和取样接口。
+Контуры очищенной воды и WFI, линии CIP и SIP, перекачка продукта, патрубки ёмкостей, подключения приборов и пробоотборников в фарме.
+Pętle wody oczyszczonej i WFI, linie CIP i SIP, transfer produktu, króćce zbiorników, przyłącza aparatury i poboru próbek w farmacji.
+Tisztított víz és WFI körvezetékek, CIP és SIP vezetékek, termékátvitel, tartálycsonkok, műszer- és mintavételi csatlakozások a gyógyszeriparban.
+Lazos de agua purificada y WFI, líneas de CIP y SIP, transferencia de producto, tubuladuras de depósitos, conexiones de instrumentos y de muestreo en farmacia.
+
+#5920
+Le bourrelet du joint se loge dans les gorges des férules et son alésage affleure celui du tube : pas d'interstice, donc bonne vidange et bon nettoyage. S'ouvre en quelques secondes pour inspection et nettoyage.
+O cordão da junta fica nos canais das férulas e seu furo fica rente ao furo do tubo: sem frestas, por isso drena e limpa bem. Abre em segundos para inspeção e limpeza.
+垫片的凸筋坐在卡盘槽内，其内孔与管子内孔齐平：没有缝隙，所以排净和清洗效果好。几秒钟就能打开检查和清洗。
+Буртик прокладки сидит в канавках ферул, а её внутренний диаметр заподлицо с трубой: нет щелей, поэтому хорошо дренируется и моется. Открывается за секунды для осмотра и чистки.
+Wypustka uszczelki siedzi w rowkach tulei, a jej otwór jest na równo z otworem rury: brak szczelin, więc dobrze się opróżnia i myje. Otwiera się w kilka sekund do inspekcji i czyszczenia.
+A tömítés pereme a ferrule-ok hornyaiban ül, furata egy síkban van a cső furatával: nincs rés, így jól leürül és tisztítható. Másodpercek alatt nyitható ellenőrzéshez és tisztításhoz.
+El cordón de la junta encaja en las ranuras de las férulas y su diámetro interior queda a ras con el del tubo: sin intersticios, por lo que drena y se limpia bien. Se abre en segundos para inspección y limpieza.
+
+#5921
+Joint repoussé dans le passage (serrage excessif ou chaleur) créant une zone morte, EPDM fissuré ou durci après de nombreux cycles vapeur, fuites dues à une mauvaise taille de joint, collier desserré par les vibrations.
+Junta empurrada para dentro do furo (aperto excessivo ou calor) criando uma zona morta, EPDM trincado ou endurecido após muitos ciclos de vapor, vazamentos por tamanho errado de junta, abraçadeira solta por vibração.
+垫片被挤入管道内孔（拧得过紧或受热），形成死角；多次蒸汽循环后 EPDM 开裂或变硬；垫片尺寸不对导致泄漏；卡箍因振动松动。
+Прокладка выдавлена в проход (перетяжка или нагрев) и образует застойную зону, трещины или затвердевание EPDM после многих циклов пара, течи из-за неправильного размера прокладки, хомут, ослабший от вибрации.
+Uszczelka wciśnięta do światła rury (przeciągnięcie lub ciepło) tworząca martwą strefę, popękany lub stwardniały EPDM po wielu cyklach parowych, wycieki przez zły rozmiar uszczelki, zacisk poluzowany od drgań.
+A furatba benyomódott tömítés (túlhúzás vagy hő), amely holtteret képez, sok gőzciklus után berepedt vagy megkeményedett EPDM, rossz tömítésméret miatti szivárgás, rezgéstől meglazult bilincs.
+Junta empujada hacia el interior del tubo (exceso de apriete o calor) que crea una zona muerta, EPDM agrietado o endurecido tras muchos ciclos de vapor, fugas por tamaño de junta incorrecto, abrazadera aflojada por vibración.
+
+#5922
+Serrez l'écrou papillon uniquement à la main. Remplacez les joints selon un calendrier fixe et après toute intrusion. Utilisez des joints certifiés (FDA / USP Class VI) avec traçabilité de lot, et adaptez la taille et le matériau du joint à la ligne.
+Aperte a porca borboleta só com a mão. Substitua as juntas em um cronograma fixo e após qualquer intrusão. Use juntas certificadas (FDA / USP Class VI) com rastreabilidade de lote e adeque o tamanho e o material da junta à linha.
+蝶形螺母只能用手拧紧。按固定周期更换垫片，出现任何内凸后也要更换。使用有批次追溯的认证垫片（FDA / USP Class VI），垫片尺寸和材质要与管线匹配。
+Затягивайте барашковую гайку только рукой. Меняйте прокладки по фиксированному графику и после любого выдавливания в проход. Используйте сертифицированные прокладки (FDA / USP Class VI) с прослеживаемостью партии и подбирайте размер и материал под линию.
+Dokręcaj nakrętkę motylkową tylko ręcznie. Wymieniaj uszczelki według stałego harmonogramu i po każdym wciśnięciu do światła rury. Stosuj certyfikowane uszczelki (FDA / USP Class VI) z identyfikowalnością partii i dobieraj rozmiar i materiał uszczelki do linii.
+A szárnyas anyát csak kézzel húzza meg. A tömítéseket rögzített ütemterv szerint és minden benyomódás után cserélje. Tanúsított (FDA / USP Class VI), tételszinten nyomon követhető tömítéseket használjon, a méretet és az anyagot a vezetékhez igazítsa.
+Apriete la tuerca de mariposa solo a mano. Cambie las juntas según un calendario fijo y tras cualquier intrusión. Use juntas certificadas (FDA / USP Class VI) con trazabilidad de lote y adecúe tamaño y material de la junta a la línea.
+
+#5923
+Férule (gauche)
+Férula (esquerda)
+卡盘（左）
+Ферула (левая)
+Tuleja ferrule (lewa)
+Ferrule (bal)
+Férula (izquierda)
+
+#5924
+Soudée orbitalement au tube ; dos conique pour le collier, gorge dans la face pour le bourrelet du joint.
+Soldada orbitalmente ao tubo; costas cônicas para a abraçadeira, canal na face para o cordão da junta.
+用轨道焊焊在管子上；锥形背面配合卡箍，端面上有放垫片凸筋的槽。
+Приварена к трубе орбитальной сваркой; коническая тыльная сторона под хомут, канавка в торце под буртик прокладки.
+Przyspawana orbitalnie do rury; stożkowy tył pod zacisk, rowek w czole na wypustkę uszczelki.
+Orbitális hegesztéssel a csőre hegesztve; kúpos hátoldal a bilincsnek, horony a homlokon a tömítés peremének.
+Soldada orbitalmente al tubo; dorso cónico para la abrazadera, ranura en la cara para el cordón de la junta.
+
+#5925
+Joint (EPDM / PTFE)
+Junta (EPDM / PTFE)
+垫片（EPDM / PTFE）
+Прокладка (EPDM / PTFE)
+Uszczelka (EPDM / PTFE)
+Tömítés (EPDM / PTFE)
+Junta (EPDM / PTFE)
+
+#5926
+Joint à collerette avec un bourrelet sur chaque face ; son alésage affleure le tube.
+Junta com aba e um cordão em cada face; seu furo fica rente ao tubo.
+带边垫片，两面各有一圈凸筋；内孔与管子齐平。
+Прокладка с буртиком на каждой стороне; её внутренний диаметр заподлицо с трубой.
+Uszczelka kołnierzowa z wypustką na każdej stronie; jej otwór jest na równo z rurą.
+Peremes tömítés mindkét oldalán gyűrűs peremmel; furata egy síkban van a csővel.
+Junta con ala y un cordón en cada cara; su diámetro interior queda a ras con el tubo.
+
+#5927
+Férule (droite)
+Férula (direita)
+卡盘（右）
+Ферула (правая)
+Tuleja ferrule (prawa)
+Ferrule (jobb)
+Férula (derecha)
+
+#5928
+Même férule sur l'autre tube.
+A mesma férula no outro tubo.
+另一根管子上的相同卡盘。
+Такая же ферула на другой трубе.
+Taka sama tuleja na drugiej rurze.
+Ugyanilyen ferrule a másik csövön.
+La misma férula en el otro tubo.
+
+#5929
+Demi-collier avec axe de charnière
+Meia abraçadeira com pino de articulação
+带铰链销的半卡箍
+Половина хомута с шарнирной осью
+Połowa zacisku ze sworzniem zawiasu
+Bilincsfél csuklócsappal
+Media abrazadera con pasador de bisagra
+
+#5930
+Demi-anneau à gorge en V ; porte l'axe de charnière et le pivot du boulon à œil.
+Meio anel com canal em V; leva o pino de articulação e o pivô do parafuso olhal.
+带 V 形槽的半圆环；装有铰链销和活节螺栓的转轴。
+Полукольцо с V-образной канавкой; несёт шарнирную ось и ось откидного болта.
+Półpierścień z rowkiem V; ma sworzeń zawiasu i oś śruby oczkowej.
+V-hornyos félgyűrű; rajta van a csuklócsap és a szemes csavar forgáspontja.
+Medio anillo con ranura en V; lleva el pasador de bisagra y el pivote del perno de ojo.
+
+#5931
+Demi-collier (côté pivotant)
+Meia abraçadeira (lado móvel)
+半卡箍（活动侧）
+Половина хомута (откидная сторона)
+Połowa zacisku (strona uchylna)
+Bilincsfél (nyíló oldal)
+Media abrazadera (lado móvil)
+
+#5932
+S'ouvre en pivotant sur la charnière ; son oreille reçoit l'écrou papillon.
+Abre girando na articulação; sua orelha recebe a porca borboleta.
+绕铰链转开；其耳部承接蝶形螺母。
+Откидывается на шарнире; в её ушко упирается барашковая гайка.
+Odchyla się na zawiasie; jej ucho przyjmuje nakrętkę motylkową.
+A csuklón kinyílik; a füle fogadja a szárnyas anyát.
+Se abre girando en la bisagra; su oreja recibe la tuerca de mariposa.
+
+#5933
+Boulon à œil et écrou papillon
+Parafuso olhal e porca borboleta
+活节螺栓和蝶形螺母
+Откидной болт и барашковая гайка
+Śruba oczkowa i nakrętka motylkowa
+Szemes csavar és szárnyas anya
+Perno de ojo y tuerca de mariposa
+
+#5934
+Ferme le collier ; un serrage à la main suffit.
+Fecha a abraçadeira; aperto manual é suficiente.
+用来锁紧卡箍；用手拧紧就够了。
+Закрывает хомут; затяжки рукой достаточно.
+Zamyka zacisk; wystarczy dokręcić ręką.
+Zárja a bilincset; kézzel meghúzva elég.
+Cierra la abrazadera; basta con apretar a mano.
+
+#5935
+Ouvrir / fermer le collier
+Abrir / fechar abraçadeira
+打开 / 关闭卡箍
+Открыть / закрыть хомут
+Otwórz / zamknij zacisk
+Bilincs nyitása / zárása
+Abrir / cerrar abrazadera
+
+#5936
+Quel est le principal risque hygiénique d'un clamp trop serré ?
+Qual é o principal risco higiênico de um tri-clamp apertado demais?
+卡箍拧得过紧，主要的卫生风险是什么？
+Каков главный гигиенический риск перетянутого клампа?
+Jakie jest główne ryzyko higieniczne przeciągniętego połączenia tri-clamp?
+Mi a túlhúzott tri-clamp fő higiéniai kockázata?
+¿Cuál es el principal riesgo higiénico de un tri-clamp demasiado apretado?
+
+#5937
+Le joint est repoussé dans le passage et crée une zone morte difficile à nettoyer
+A junta entra no furo e cria uma zona morta difícil de limpar
+垫片被挤进管道内孔，形成难以清洗的死角
+Прокладка выдавливается в проход и образует трудноочищаемую застойную зону
+Uszczelka wciska się do światła rury i tworzy martwą strefę trudną do mycia
+A tömítés benyomódik a furatba, és nehezen tisztítható holtteret képez
+La junta se mete en el tubo y crea una zona muerta difícil de limpiar
+
+#5938
+Le collier chauffe trop
+A abraçadeira esquenta demais
+卡箍太热
+Хомут слишком нагревается
+Zacisk za bardzo się nagrzewa
+A bilincs túlmelegszik
+La abrazadera se calienta demasiado
+
+#5939
+Le débit augmente
+A vazão aumenta
+流量增大
+Расход увеличивается
+Przepływ się zwiększa
+Nő az áramlás
+Aumenta el caudal
+
+#5940
+Aucun, plus c'est serré mieux c'est
+Nenhum, mais apertado é sempre melhor
+没有风险，越紧越好
+Никакого, чем туже, тем лучше
+Żadne, im mocniej, tym lepiej
+Semmi, minél szorosabb, annál jobb
+Ninguno, cuanto más apretado mejor
+
+#5941
+Comment faut-il serrer l'écrou papillon ?
+Como a porca borboleta deve ser apertada?
+蝶形螺母应该怎样拧紧？
+Как нужно затягивать барашковую гайку?
+Jak należy dokręcać nakrętkę motylkową?
+Hogyan kell meghúzni a szárnyas anyát?
+¿Cómo se debe apretar la tuerca de mariposa?
+
+#5942
+À la main
+Com a mão
+用手
+Рукой
+Ręką
+Kézzel
+A mano
+
+#5943
+Avec une clé à tube
+Com uma chave de grifo
+用管子钳
+Трубным ключом
+Kluczem do rur
+Csőfogóval
+Con una llave de tubo (grifa)
+
+#5944
+Avec un marteau
+Com um martelo
+用锤子
+Молотком
+Młotkiem
+Kalapáccsal
+Con un martillo
+
+#5945
+Avec une clé à chocs
+Com uma parafusadeira de impacto
+用冲击扳手
+Ударным гайковёртом
+Kluczem udarowym
+Ütvecsavarozóval
+Con una pistola de impacto
+
+#6791
+Anneau de tresse {1}
+Anel de gaxeta {1}
+填料环 {1}
+Кольцо набивки {1}
+Pierścień szczeliwa {1}
+Tömítőgyűrű {1}
+Anillo de empaquetadura {1}

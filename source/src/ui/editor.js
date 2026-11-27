@@ -268,18 +268,19 @@
     function buildPins(p) {
       const n = cache.nodes.get(p.id); if (!n) return;
       let s = '';
+      const realLab = ed.real && !pcb && EL.real && EL.real[p.type];
       for (const q of EL.pinsOf(p)) {
         const dv = DIRV[q.dir || 'u'];
         const lx = q.x + dv[0] * 12 + (dv[0] ? (dv[0] > 0 ? 0 : 0) : 0), ly = q.y + dv[1] * 12 + (dv[1] > 0 ? 6 : 0);
         const anchor = dv[0] > 0 ? 'start' : dv[0] < 0 ? 'end' : 'middle';
-        s += `<g class="pin" data-pin="${p.id}.${q.id}"><circle class="hitc" cx="${q.x}" cy="${q.y}" r="${pcb ? 10 : 11}"/><circle class="dot" cx="${q.x}" cy="${q.y}" r="${pcb ? 6 : 4.6}"/>${pcb && EL.defs[p.type].board ? '' : `<text x="${lx}" y="${ly + 3}" text-anchor="${anchor}">${q.label == null ? q.id : q.label}</text>`}</g>`;
+        s += `<g class="pin" data-pin="${p.id}.${q.id}"><circle class="hitc" cx="${q.x}" cy="${q.y}" r="${pcb ? 10 : 11}"/><circle class="dot" cx="${q.x}" cy="${q.y}" r="${pcb ? 6 : 4.6}"/>${(pcb && EL.defs[p.type].board) || realLab ? '' : `<text x="${lx}" y="${ly + 3}" text-anchor="${anchor}">${q.label == null ? q.id : q.label}</text>`}</g>`;
       }
       n.pg.innerHTML = s; cache.pins.set(p.id, pinKey(p));
     }
     function drawArt(p, force) {
       const n = cache.nodes.get(p.id), d = EL.defs[p.type]; if (!n) return;
       let s;
-      try { s = d.draw(p); } catch (e) { s = `<rect class="pbody" width="${d.w}" height="${d.h}"/><text class="psub" x="4" y="14">draw error</text>`; console.error(p.type, e); }
+      try { const rf = ed.real && !pcb && EL.real && EL.real[p.type]; s = rf ? rf(p, d) : d.draw(p); } catch (e) { s = `<rect class="pbody" width="${d.w}" height="${d.h}"/><text class="psub" x="4" y="14">draw error</text>`; console.error(p.type, e); }
       if (p.fault && p.fault !== 'none' && !(p.hid && !ed.showHidden)) s += `<g transform="translate(${d.w - 14},-6)"><circle r="8" fill="#F55B41"/><text class="pbtn" y="4" text-anchor="middle">!</text></g>`;
       if (force || cache.art.get(p.id) !== s) { n.art.innerHTML = s; cache.art.set(p.id, s); }
       if (n.tag.textContent !== p.tag) n.tag.textContent = p.tag;
@@ -300,7 +301,7 @@
       n.p.setAttribute('d', d); n.hit.setAttribute('d', d); n.pts = pts;
       let col;
       if (pcb) col = w.kind === 'jumper' ? '#58b8ff' : '#d9a441';
-      else col = (w.color) || ROLE_COL[roleMap.get(w.id)] || '#cfd8ee';
+      else { const rr = roleMap.get(w.id); col = (w.color) || (!pcb && EL.real && EL.real.scheme() === 'ryb' && /^L[123]$/.test(rr || '') ? EL.real.phCol(rr) : ROLE_COL[rr]) || '#cfd8ee'; }
       n.p.style.stroke = col;
       if (pcb) n.p.style.strokeWidth = w.kind === 'jumper' ? 3 : 7;
       if (pcb && w.kind === 'jumper') n.p.style.strokeDasharray = '';
@@ -373,6 +374,28 @@
     function free(x, y, d) {
       return !ed.c.parts.some((p) => { const q = EL.defs[p.type]; return x < p.x + q.w + 14 && x + d.w + 14 > p.x && y < p.y + q.h + 14 && y + d.h + 14 > p.y; });
     }
+    /* DIN rail: a device dropped near a rail clips onto it (centre on the rail) and lines up with its neighbour */
+    function snapRail(p) {
+      if (pcb || !EL.real) return false;
+      const d = EL.defs[p.type]; if (!d || d.back || d.cat === 'draw') return false;
+      const cy = p.y + d.h / 2;
+      for (const r of ed.c.parts) {
+        const rd = EL.defs[r.type]; if (!rd || !rd.rail) continue;
+        const ry = r.y + rd.h / 2;
+        if (Math.abs(cy - ry) > 45 || p.x + d.w < r.x + 4 || p.x > r.x + rd.w - 4) continue;
+        p.y = Math.round(ry - d.h / 2);
+        if (p.x < r.x) p.x = r.x + 4; if (p.x + d.w > r.x + rd.w) p.x = Math.max(r.x + 4, r.x + rd.w - d.w - 4);
+        const mates = ed.c.parts.filter((q) => { if (q === p) return false; const qd = EL.defs[q.type]; return qd && !qd.back && qd.cat !== 'draw' && Math.abs(q.y + qd.h / 2 - ry) <= 1; }).sort((a, b) => a.x - b.x);
+        for (const q of mates) { const qd = EL.defs[q.type], gap = p.x - (q.x + qd.w); if (gap >= 0 && gap < 24) p.x = q.x + qd.w + 6; }
+        for (let k = 0; k < mates.length + 1; k++) { // never on top of a neighbour: move to the next free place on the right
+          const hit = mates.find((q) => p.x < q.x + EL.defs[q.type].w + 4 && p.x + d.w + 4 > q.x); if (!hit) break;
+          p.x = hit.x + EL.defs[hit.type].w + 6;
+        }
+        return true;
+      }
+      return false;
+    }
+    ed.snapRail = snapRail;
     ed.addPart = function (type, x, y, props, noPush) {
       const d = EL.defs[type]; if (!d) return null;
       const r = svg.getBoundingClientRect();
@@ -380,6 +403,7 @@
       else { x = Math.round((x - d.w / 2) / 10) * 10; y = Math.round((y - d.h / 2) / 10) * 10; }
       if (!noPush) ed.push();
       const p = EL.addPart(ed.c, type, x, y, props);
+      if (snapRail(p)) ui.toast(['Clipped onto the DIN rail.', 'اتركّب على الريل.'], 'info', 1800);
       mkPart(p); ed.select(p.id); ed.changed();
       return p;
     };
@@ -592,6 +616,43 @@
       }
     });
     function opposite(d) { return { u: 'd', d: 'u', l: 'r', r: 'l' }[d || 'u']; }
+    /* after a wire between two 3-phase terminals (L1 -> 1, 2 -> U1 ...), offer to wire the other phases the same way */
+    const GROUPS = [['L1', 'L2', 'L3'], ['1', '3', '5'], ['2', '4', '6'], ['U1', 'V1', 'W1'], ['U2', 'V2', 'W2'], ['W2', 'U2', 'V2'], ['U', 'V', 'W'], ['R', 'S', 'T'], ['T1', 'T2', 'T3'], ['L1', 'N1', 'L2']];
+    function groupOf(ref) {
+      const [id, pn] = ref.split('.'), p = ed.c.parts.find((x) => x.id === id); if (!p) return null;
+      const ids = EL.pinsOf(p).map((q) => q.id);
+      if (p.type === 'RCD2') return null;
+      for (const g of GROUPS) { const i = g.indexOf(pn); if (i >= 0 && g.every((x) => ids.includes(x))) return { id, g, i }; }
+      return null;
+    }
+    let phaseBox = null;
+    function closePhases() { if (phaseBox) { phaseBox.remove(); phaseBox = null; } }
+    function suggestPhases(a, b) {
+      closePhases();
+      let off = false; try { off = localStorage.getItem('ellab.autoPhase') === 'off'; } catch (e) {}
+      if (off) return;
+      const A = groupOf(a), B = groupOf(b); if (!A || !B || A.id === B.id || A.i !== B.i) return;
+      const used = (ref) => ed.c.wires.some((w) => w.a === ref || w.b === ref);
+      const pairs = [];
+      for (let i = 0; i < 3; i++) { if (i === A.i) continue; const ra = A.id + '.' + A.g[i], rb = B.id + '.' + B.g[i]; if (!used(ra) && !used(rb)) pairs.push([ra, rb, A.g[i]]); }
+      if (!pairs.length) return;
+      const pick = pairs.map(() => true);
+      const T2 = (x) => EL.tr(x), mk = (tag, cls, txt, f) => { const e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = txt; if (f) e.addEventListener('click', f); return e; };
+      phaseBox = mk('div', 'phase-ask');
+      phaseBox.append(mk('b', '', '⚡ ' + T2(['Wire the other ' + pairs.length + ' phases the same way?', 'اربط باقي الفازات (' + pairs.length + ') بنفس الطريقة؟'])));
+      const chips = mk('div', 'pa-chips');
+      pairs.forEach((pr, i) => { const c = mk('button', 'chip on', '✓ ' + pr[2], () => { pick[i] = !pick[i]; c.classList.toggle('on', pick[i]); c.textContent = (pick[i] ? '✓ ' : '') + pr[2]; }); c.type = 'button'; chips.append(c); });
+      const row = mk('div', 'pa-row');
+      const yes = mk('button', 'btn pri', T2(['Wire them', 'اربطها']) + ' ✓', () => { closePhases(); let n = 0; pairs.forEach((pr, i) => { if (pick[i] && ed.connect(pr[0], pr[1])) n++; }); if (n > 1) ed.undoS.splice(ed.undoS.length - (n - 1), n - 1); if (n) ui.toast(EL.tr(['Wired ' + n + ' more phase(s).', 'اتربط ' + n + ' فاز كمان.']), 'ok', 2200); refreshPins(); });
+      const no = mk('button', 'btn', T2(['No', 'لا']), closePhases);
+      const never = mk('button', 'linkb', T2(["Don't ask again", 'متسألنيش تاني']), () => { try { localStorage.setItem('ellab.autoPhase', 'off'); } catch (e) {} closePhases(); ui.toast(['You can turn it back on from Display.', 'تقدر ترجّعه من زرار العرض.'], 'info'); });
+      [yes, no].forEach((x) => { x.type = 'button'; }); never.type = 'button';
+      row.append(yes, no); phaseBox.append(chips, row, never);
+      host.appendChild(phaseBox);
+      setTimeout(() => { if (phaseBox) yes.focus({ preventScroll: true }); }, 30);
+      clearTimeout(suggestPhases.t); suggestPhases.t = setTimeout(closePhases, 15000);
+    }
+    ed.suggestPhases = suggestPhases;
     function end(e) {
       if (!ptrs.has(e.pointerId)) return;
       ptrs.delete(e.pointerId);
@@ -608,16 +669,16 @@
       if (g1.k === 'wiredrag') {
         L.over.innerHTML = '';
         if (g1.moved && g1.to && g1.to !== g1.from) {
-          ed.pending = null; ed.connect(g1.from, g1.to, pcb ? { kind: ed.wireKind } : null); showHint(); refreshPins();
+          ed.pending = null; const w1 = ed.connect(g1.from, g1.to, pcb ? { kind: ed.wireKind } : null); showHint(); refreshPins(); if (w1 && !pcb) suggestPhases(g1.from, g1.to);
         } else if (!g1.moved) {
-          if (ed.pending && ed.pending !== g1.from) { const a = ed.pending; ed.pending = null; ed.connect(a, g1.from, pcb ? { kind: ed.wireKind } : null); }
+          if (ed.pending && ed.pending !== g1.from) { const a = ed.pending; ed.pending = null; const w1 = ed.connect(a, g1.from, pcb ? { kind: ed.wireKind } : null); if (w1 && !pcb) suggestPhases(a, g1.from); }
           else ed.pending = ed.pending === g1.from ? null : g1.from;
           showHint(); refreshPins();
         }
         return;
       }
       if (g1.k === 'pan' && !g1.moved) { if (ed.pending) { ed.pending = null; showHint(); } ed.select(null); refreshPins(); return; }
-      if (g1.k === 'partdrag') { fastRoute = false; geomAll(); if (g1.moved) ed.changed(); }
+      if (g1.k === 'partdrag') { if (g1.moved && g1.p && snapRail(g1.p)) ed.moveGeom(g1.p); fastRoute = false; geomAll(); if (g1.moved) ed.changed(); }
       if (g1.k === 'bend' || g1.k === 'via') drawSelHandle();
     }
     svg.addEventListener('pointerup', end);

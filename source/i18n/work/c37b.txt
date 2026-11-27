@@ -1,0 +1,1502 @@
+#6244
+Accouplement à crabots (à étoile)
+Acoplamento de garras (tipo aranha)
+爪式联轴器（梅花垫型）
+Кулачковая муфта (со звёздочкой)
+Sprzęgło kłowe (z gwiazdą)
+Körmös tengelykapcsoló (csillag betétes)
+Acoplamiento de garras (tipo araña)
+
+#6245
+Accouplement élastique : deux moyeux métalliques à trois crabots chacun, et une étoile en élastomère entre les crabots.
+Acoplamento flexível: dois cubos metálicos com três garras cada, e uma aranha de elastômero entre as garras.
+弹性联轴器：两个金属轮毂各有三个爪，爪之间夹一个弹性体梅花垫。
+Упругая муфта: две металлические полумуфты по три кулачка и эластомерная звёздочка между кулачками.
+Sprzęgło podatne: dwie metalowe piasty z trzema kłami każda i elastomerowa gwiazda między kłami.
+Rugalmas tengelykapcsoló: két fém agy, mindegyiken három körömmel, és egy elasztomer csillag a körmök között.
+Acoplamiento flexible: dos cubos metálicos con tres garras cada uno y una araña de elastómero entre las garras.
+
+#6246
+Moteur vers pompe, petits ventilateurs, réducteurs et convoyeurs du site ; très courant sur les pompes des utilités.
+Motor para bomba, ventiladores pequenos, redutores e transportadores na planta; muito comum em bombas de utilidades.
+厂内电机与泵、小风机、减速箱和输送机之间的连接；在公用工程泵上非常常见。
+Двигатель–насос, небольшие вентиляторы, редукторы и конвейеры на площадке; очень распространена на насосах инженерных систем.
+Silnik–pompa, małe wentylatory, przekładnie i przenośniki w zakładzie; bardzo częste na pompach mediów.
+Motor–szivattyú, kis ventilátorok, hajtóművek és szállítószalagok az üzemben; a segédrendszeri szivattyúkon nagyon gyakori.
+Motor a bomba, ventiladores pequeños, reductores y transportadores de la planta; muy común en bombas de servicios.
+
+#6247
+Le couple passe des crabots aux branches de l'étoile, travaillant en compression. L'étoile absorbe les chocs et tolère un léger désalignement ; si elle casse, les crabots entraînent encore (sécurité positive).
+O torque passa das garras para as pernas da aranha, em compressão. A aranha absorve choques e permite um pequeno desalinhamento; se ela falhar, as garras ainda acionam (falha segura).
+扭矩从爪经梅花垫的各瓣以受压方式传递。梅花垫吸收冲击并允许少量不对中；即使它损坏，爪仍能带动（故障安全）。
+Момент передаётся от кулачков через лучи звёздочки, работающие на сжатие. Звёздочка гасит удары и допускает небольшую несоосность; если она разрушится, кулачки всё равно передают вращение (отказобезопасно).
+Moment przechodzi z kłów przez ramiona gwiazdy pracujące na ściskanie. Gwiazda tłumi udary i dopuszcza niewielką niewspółosiowość; jeśli się zniszczy, kły nadal napędzają (bezpieczne w razie awarii).
+A nyomaték a körmökről a csillag nyomott karjain keresztül adódik át. A csillag elnyeli a lökéseket és kis egytengelyűségi hibát megenged; ha tönkremegy, a körmök továbbra is hajtanak (hibabiztos).
+El par pasa de las garras a los brazos de la araña, que trabajan a compresión. La araña absorbe golpes y admite un pequeño desalineamiento; si falla, las garras siguen arrastrando (seguridad positiva).
+
+#6248
+Étoile usée ou fissurée (poussière de caoutchouc sous l'accouplement), cognement au démarrage, crabots usés par contact métal sur métal, moyeu qui patine sur une vis sans tête desserrée.
+Aranha gasta ou trincada (pó de borracha embaixo do acoplamento), batidas na partida, garras gastas por contato metal com metal, cubo patinando com parafuso sem cabeça solto.
+梅花垫磨损或开裂（联轴器下方有橡胶粉末）、启动时有撞击声、金属直接接触导致爪磨损、紧定螺钉松动导致轮毂打滑。
+Изношенная или треснувшая звёздочка (резиновая пыль под муфтой), стук при пуске, кулачки изношены от контакта металл по металлу, полумуфта проскальзывает на ослабшем установочном винте.
+Zużyta lub pęknięta gwiazda (pył gumowy pod sprzęgłem), stuki przy rozruchu, kły zużyte od kontaktu metal–metal, piasta ślizgająca się na luźnym wkręcie dociskowym.
+Kopott vagy repedt csillag (gumipor a tengelykapcsoló alatt), kopogás induláskor, fém a fémen érintkezéstől kopott körmök, laza hernyócsavar miatt megcsúszó agy.
+Araña desgastada o agrietada (polvo de goma bajo el acoplamiento), golpeteo en el arranque, garras gastadas por contacto metal con metal, cubo que patina por un prisionero flojo.
+
+#6249
+Inspecter l'étoile à chaque maintenance préventive, garder l'écart entre moyeux indiqué par le fabricant, aligner au laser ou au comparateur, bloquer les vis sans tête au frein-filet, garder le carter de protection en place.
+Inspecionar a aranha em cada manutenção preventiva, manter a folga entre cubos conforme o fabricante, alinhar com laser ou relógio comparador, travar os parafusos sem cabeça com trava-rosca, manter a proteção instalada.
+每次预防性维护时检查梅花垫，按制造商要求保持两轮毂间隙，用激光或百分表对中，紧定螺钉涂螺纹锁固胶，保持防护罩安装到位。
+Осматривать звёздочку при каждом ППР, держать зазор между полумуфтами по данным изготовителя, центровать лазером или индикатором, фиксировать установочные винты резьбовым фиксатором, не снимать ограждение.
+Sprawdzać gwiazdę przy każdym przeglądzie, utrzymywać odstęp między piastami wg producenta, osiować laserem lub czujnikiem zegarowym, zabezpieczać wkręty dociskowe klejem do gwintów, nie zdejmować osłony.
+Minden megelőző karbantartáskor ellenőrizze a csillagot, tartsa a gyártó szerinti hézagot az agyak között, igazítson lézerrel vagy mérőórával, a hernyócsavarokat menetrögzítővel biztosítsa, a védőburkolat maradjon fent.
+Inspeccionar la araña en cada mantenimiento preventivo, mantener la separación entre cubos que indica el fabricante, alinear con láser o reloj comparador, fijar los prisioneros con fijador de roscas, mantener puesta la protección.
+
+#6250
+Arbre moteur avec clavette
+Eixo do motor com chaveta
+带键的电机轴
+Вал двигателя со шпонкой
+Wał silnika z wpustem
+Motortengely retesszel
+Eje del motor con chaveta
+
+#6251
+Arbre menant ; la clavette est à moitié dans l'arbre, à moitié dans le moyeu.
+Eixo motriz; a chaveta fica metade no eixo, metade no cubo.
+主动轴；键一半在轴里，一半在轮毂里。
+Ведущий вал; шпонка наполовину в валу, наполовину в ступице.
+Wał napędzający; wpust siedzi w połowie w wale, w połowie w piaście.
+Hajtó tengely; a retesz félig a tengelyben, félig az agyban ül.
+Eje motriz; la chaveta va mitad en el eje y mitad en el cubo.
+
+#6252
+Moyeu côté moteur
+Cubo do lado do motor
+电机侧轮毂
+Полумуфта со стороны двигателя
+Piasta po stronie silnika
+Motor oldali agy
+Cubo del lado del motor
+
+#6253
+Moyeu alésé et rainuré avec trois crabots.
+Cubo furado e com rasgo de chaveta, com três garras.
+已镗孔并开键槽的轮毂，带三个爪。
+Расточенная ступица со шпоночным пазом и тремя кулачками.
+Piasta wytoczona, z rowkiem wpustowym i trzema kłami.
+Kifúrt, reteszhornyos agy három körömmel.
+Cubo mandrinado y con chavetero, con tres garras.
+
+#6254
+Étoile (insert en élastomère)
+Aranha (inserto de elastômero)
+梅花垫（弹性体垫）
+Звёздочка (эластомерная вставка)
+Gwiazda (wkładka elastomerowa)
+Csillag (elasztomer betét)
+Araña (inserto de elastómero)
+
+#6255
+Étoile en polyuréthane à six branches entre les crabots ; la pièce d'usure.
+Estrela de poliuretano de seis pernas entre as garras; a peça de desgaste.
+夹在爪之间的六瓣聚氨酯星形垫；易损件。
+Шестилучевая полиуретановая звёздочка между кулачками; изнашиваемая деталь.
+Sześcioramienna gwiazda z poliuretanu między kłami; część eksploatacyjna.
+Hatágú poliuretán csillag a körmök között; ez a kopóalkatrész.
+Estrella de poliuretano de seis brazos entre las garras; la pieza de desgaste.
+
+#6256
+Moyeu côté pompe
+Cubo do lado da bomba
+泵侧轮毂
+Полумуфта со стороны насоса
+Piasta po stronie pompy
+Szivattyú oldali agy
+Cubo del lado de la bomba
+
+#6257
+Deuxième moyeu ; ses crabots se placent entre les crabots du premier.
+Segundo cubo; suas garras ficam entre as garras do primeiro.
+第二个轮毂；它的爪插在第一个轮毂的爪之间。
+Вторая полумуфта; её кулачки входят между кулачками первой.
+Druga piasta; jej kły wchodzą między kły pierwszej.
+Második agy; körmei az első agy körmei közé illeszkednek.
+Segundo cubo; sus garras quedan entre las garras del primero.
+
+#6258
+Arbre de pompe avec clavette
+Eixo da bomba com chaveta
+带键的泵轴
+Вал насоса со шпонкой
+Wał pompy z wpustem
+Szivattyútengely retesszel
+Eje de la bomba con chaveta
+
+#6259
+Arbre mené.
+Eixo acionado.
+从动轴。
+Ведомый вал.
+Wał napędzany.
+Hajtott tengely.
+Eje conducido.
+
+#6260
+Vis sans tête
+Parafusos sem cabeça
+紧定螺钉
+Установочные винты
+Wkręty dociskowe
+Hernyócsavarok
+Prisioneros
+
+#6261
+Vis sans tête à six pans creux au-dessus des clavettes ; empêchent les moyeux de glisser sur les arbres.
+Parafusos sem cabeça allen sobre as chavetas; impedem que os cubos deslizem nos eixos.
+压在键上方的内六角紧定螺钉；防止轮毂在轴上滑动。
+Установочные винты под шестигранник над шпонками; не дают полумуфтам сдвигаться по валам.
+Wkręty dociskowe z gniazdem sześciokątnym nad wpustami; nie pozwalają piastom przesuwać się po wałach.
+Belső kulcsnyílású hernyócsavarok a reteszek felett; megakadályozzák, hogy az agyak elcsússzanak a tengelyeken.
+Prisioneros de cabeza hueca sobre las chavetas; impiden que los cubos se deslicen por los ejes.
+
+#6262
+On trouve une fine poussière de caoutchouc jaune ou noire sous le carter d'un accouplement à crabots. Signification ?
+Encontra-se um pó fino de borracha amarelo ou preto embaixo da proteção de um acoplamento de garras. Significado?
+在爪式联轴器防护罩下发现细小的黄色或黑色橡胶粉末。说明什么？
+Под ограждением кулачковой муфты найдена мелкая жёлтая или чёрная резиновая пыль. Что это значит?
+Pod osłoną sprzęgła kłowego znaleziono drobny żółty lub czarny pył gumowy. Co to oznacza?
+Finom sárga vagy fekete gumiport talál egy körmös tengelykapcsoló védőburkolata alatt. Mit jelent?
+Se encuentra un polvo fino de goma amarillo o negro bajo la protección de un acoplamiento de garras. ¿Qué significa?
+
+#6263
+L'étoile s'use : contrôler l'alignement et la remplacer
+A aranha está se desgastando: verificar o alinhamento e trocá-la
+梅花垫在磨损：检查对中并更换梅花垫
+Звёздочка изнашивается: проверить центровку и заменить её
+Gwiazda się zużywa: sprawdź osiowanie i ją wymień
+A csillag kopik: ellenőrizze az egytengelyűséget, és cserélje ki
+La araña se está desgastando: revisar la alineación y cambiarla
+
+#6264
+Normal, l'ignorer
+Normal, ignorar
+正常，可忽略
+Это нормально, не обращать внимания
+Normalne, zignorować
+Normális, figyelmen kívül hagyható
+Normal, ignorarlo
+
+#6265
+Le roulement du moteur est en train de lâcher
+O rolamento do motor está falhando
+电机轴承正在损坏
+Подшипник двигателя выходит из строя
+Łożysko silnika się psuje
+A motorcsapágy tönkremegy
+El rodamiento del motor está fallando
+
+#6266
+Un accouplement élastique permet-il de se passer de l'alignement ?
+Um acoplamento flexível dispensa o alinhamento?
+用了弹性联轴器就可以不对中了吗？
+Значит ли упругая муфта, что можно не центровать?
+Czy sprzęgło podatne oznacza, że można pominąć osiowanie?
+Rugalmas tengelykapcsolónál ki lehet hagyni a tengelybeállítást?
+¿Un acoplamiento flexible permite saltarse la alineación?
+
+#6267
+Non : le désalignement charge toujours les roulements et détruit l'étoile
+Não: o desalinhamento ainda carrega os rolamentos e destrói a aranha
+不能：不对中仍会加重轴承负荷并损坏梅花垫
+Нет: несоосность всё равно нагружает подшипники и губит звёздочку
+Nie: niewspółosiowość nadal obciąża łożyska i niszczy gwiazdę
+Nem: az egytengelyűségi hiba továbbra is terheli a csapágyakat és tönkreteszi a csillagot
+No: el desalineamiento sigue cargando los rodamientos y destroza la araña
+
+#6268
+Oui, il accepte n'importe quel désalignement
+Sim, ele aceita qualquer desalinhamento
+可以，它能承受任何不对中
+Да, она выдерживает любую несоосность
+Tak, przyjmie każdą niewspółosiowość
+Igen, bármilyen egytengelyűségi hibát elvisel
+Sí, admite cualquier desalineamiento
+
+#6269
+Seulement sur les gros moteurs
+Só em motores grandes
+只适用于大电机
+Только на больших двигателях
+Tylko przy dużych silnikach
+Csak nagy motoroknál
+Solo en motores grandes
+
+#6270
+Seulement pour les pompes
+Só para bombas
+只适用于泵
+Только для насосов
+Tylko dla pomp
+Csak szivattyúknál
+Solo para bombas
+
+#6271
+Accouplement à denture (à brides, double engrènement)
+Acoplamento de engrenagem (flangeado, engrenamento duplo)
+齿式联轴器（法兰式，双啮合）
+Зубчатая муфта (фланцевая, двойного зацепления)
+Sprzęgło zębate (kołnierzowe, podwójne zazębienie)
+Fogazott tengelykapcsoló (karimás, kettős kapcsolódású)
+Acoplamiento de engranajes (bridado, doble engrane)
+
+#6272
+Accouplement flexible entièrement métallique : deux moyeux à denture extérieure bombée engrènent avec la denture intérieure de deux manchons à brides boulonnés ensemble.
+Acoplamento flexível todo metálico: dois cubos com dentes externos abaulados engrenam com os dentes internos de duas luvas flangeadas aparafusadas entre si.
+全金属挠性联轴器：两个带鼓形外齿的轮毂与两个用螺栓连接的法兰内齿套啮合。
+Цельнометаллическая компенсирующая муфта: две втулки с бочкообразными наружными зубьями зацепляются с внутренними зубьями двух фланцевых обойм, скреплённых болтами.
+Całkowicie metalowe sprzęgło podatne: dwie piasty z baryłkowymi zębami zewnętrznymi zazębiają się z zębami wewnętrznymi dwóch skręconych ze sobą tulei kołnierzowych.
+Teljesen fém rugalmas tengelykapcsoló: két bombírozott külső fogazatú agy kapcsolódik két, egymáshoz csavarozott karimás hüvely belső fogazatával.
+Acoplamiento flexible totalmente metálico: dos cubos con dientes exteriores abombados engranan con los dientes interiores de dos manguitos bridados atornillados entre sí.
+
+#6273
+Entraînements à fort couple : grosses pompes, compresseurs, groupes froids, ventilateurs et convoyeurs lourds.
+Acionamentos de alto torque: bombas grandes, compressores, chillers, ventiladores e transportadores pesados.
+大扭矩传动：大型泵、压缩机、冷水机组、风机和重型输送机。
+Приводы с большим моментом: крупные насосы, компрессоры, чиллеры, вентиляторы и тяжёлые конвейеры.
+Napędy o dużym momencie: duże pompy, sprężarki, agregaty wody lodowej, wentylatory i ciężkie przenośniki.
+Nagy nyomatékú hajtások: nagy szivattyúk, kompresszorok, folyadékhűtők, ventilátorok és nehéz szállítószalagok.
+Accionamientos de alto par: bombas grandes, compresores, enfriadoras, ventiladores y transportadores pesados.
+
+#6274
+Les dents bombées peuvent basculer dans la denture du manchon, donc chaque engrènement accepte un petit angle ; les deux engrènements ensemble acceptent un décalage parallèle. Il doit tourner dans la graisse ou l'huile.
+Os dentes abaulados podem oscilar dentro dos dentes da luva, então cada engrenamento aceita um pequeno ângulo; os dois juntos aceitam desalinhamento paralelo. Precisa trabalhar com graxa ou óleo.
+鼓形齿可在齿套内齿中摆动，所以每个啮合处能承受一个小角度；两个啮合合起来能承受平行偏移。必须在润滑脂或油中运行。
+Бочкообразные зубья могут покачиваться в зубьях обоймы, поэтому каждое зацепление принимает небольшой угол; два зацепления вместе компенсируют параллельное смещение. Муфта должна работать в смазке или масле.
+Zęby baryłkowe mogą się przechylać w zębach tulei, więc każde zazębienie przyjmuje mały kąt; dwa zazębienia razem przyjmują przesunięcie równoległe. Musi pracować w smarze lub oleju.
+A bombírozott fogak billeghetnek a hüvely fogai között, így minden kapcsolódás kis szöget visel el; a kettő együtt párhuzamos eltolást. Zsírban vagy olajban kell futnia.
+Los dientes abombados pueden bascular dentro de los dientes del manguito, así que cada engrane admite un pequeño ángulo; los dos juntos admiten desplazamiento paralelo. Debe trabajar con grasa o aceite.
+
+#6275
+Une perte de graisse par des joints usés entraîne une usure rapide des dents, de la chaleur, du bruit et des vibrations ; un fort désalignement fait se bloquer les dents qui poussent sur les roulements.
+Perda de graxa por vedações gastas leva a desgaste rápido dos dentes, calor, ruído e vibração; desalinhamento alto faz os dentes travarem e empurrarem os rolamentos.
+密封磨损漏脂会导致齿面快速磨损、发热、噪声和振动；严重不对中会使齿卡死并推挤轴承。
+Потеря смазки через изношенные уплотнения ведёт к быстрому износу зубьев, нагреву, шуму и вибрации; большая несоосность заклинивает зубья, и они давят на подшипники.
+Utrata smaru przez zużyte uszczelnienia prowadzi do szybkiego zużycia zębów, grzania, hałasu i drgań; duża niewspółosiowość blokuje zęby, które naciskają na łożyska.
+A kopott tömítéseken át elvesző zsír gyors fogkopást, melegedést, zajt és rezgést okoz; nagy egytengelyűségi hibánál a fogak beszorulnak és nyomják a csapágyakat.
+La pérdida de grasa por juntas desgastadas causa un desgaste rápido de los dientes, calor, ruido y vibración; un gran desalineamiento hace que los dientes se bloqueen y empujen los rodamientos.
+
+#6276
+Regraisser à l'intervalle prévu avec de la graisse pour accouplements, contrôler les joints et les bouchons de graissage, aligner dans les tolérances, contrôler le couple de serrage des boulons.
+Relubrificar no intervalo com graxa para acoplamentos, verificar vedações e bujões de lubrificação, alinhar dentro dos limites, verificar o torque dos parafusos.
+按周期用联轴器专用润滑脂补脂，检查密封和注油塞，对中到允许范围内，检查螺栓扭矩。
+Пополнять смазку по графику муфтовой смазкой, проверять уплотнения и пробки смазки, центровать в пределах допусков, проверять момент затяжки болтов.
+Smarować w ustalonych odstępach smarem do sprzęgieł, sprawdzać uszczelnienia i korki smarowe, osiować w granicach tolerancji, sprawdzać moment dokręcenia śrub.
+Az előírt időközönként zsírozza tengelykapcsoló-zsírral, ellenőrizze a tömítéseket és a zsírzódugókat, igazítson a tűréshatáron belülre, ellenőrizze a csavarok nyomatékát.
+Reengrasar en el intervalo con grasa para acoplamientos, revisar juntas y tapones de engrase, alinear dentro de los límites, comprobar el par de los tornillos.
+
+#6277
+Moyeu A (dents bombées)
+Cubo A (dentes abaulados)
+轮毂 A（鼓形齿）
+Втулка A (бочкообразные зубья)
+Piasta A (zęby baryłkowe)
+A agy (bombírozott fogak)
+Cubo A (dientes abombados)
+
+#6278
+Claveté sur l'arbre moteur ; denture extérieure bombée.
+Enchavetado no eixo do motor; dentes externos abaulados.
+用键固定在电机轴上；外齿为鼓形齿。
+Посажена на шпонке на вал двигателя; наружные бочкообразные зубья.
+Osadzona na wpust na wale silnika; zewnętrzne zęby baryłkowe.
+Retesszel a motortengelyre rögzítve; külső bombírozott fogazat.
+Enchavetado al eje del motor; dientes exteriores abombados.
+
+#6279
+Joint A
+Anel de vedação A
+密封圈 A
+Уплотнительное кольцо A
+Pierścień uszczelniający A
+A tömítőgyűrű
+Anillo de sellado A
+
+#6280
+Joint torique qui retient la graisse à l'extrémité A du manchon.
+O-ring que mantém a graxa na ponta A da luva.
+在齿套 A 端把润滑脂封住的 O 形圈。
+Кольцо круглого сечения, удерживающее смазку на конце A обоймы.
+O-ring, który utrzymuje smar na końcu A tulei.
+O-gyűrű, amely bent tartja a zsírt a hüvely A végén.
+Junta tórica que retiene la grasa en el extremo A del manguito.
+
+#6281
+Manchon A (denture intérieure)
+Luva A (dentes internos)
+齿套 A（内齿）
+Обойма A (внутренние зубья)
+Tuleja A (zęby wewnętrzne)
+A hüvely (belső fogazat)
+Manguito A (dientes interiores)
+
+#6282
+Manchon à bride avec denture intérieure autour du moyeu A ; a un bouchon de graissage.
+Luva flangeada com dentes internos em volta do cubo A; tem um bujão de graxa.
+套在轮毂 A 外面的带内齿法兰套；带一个注脂塞。
+Фланцевая обойма с внутренними зубьями вокруг втулки A; имеет пробку для смазки.
+Tuleja kołnierzowa z zębami wewnętrznymi wokół piasty A; ma korek smarowy.
+Karimás hüvely belső fogazattal az A agy körül; zsírzódugója van.
+Manguito bridado con dientes interiores alrededor del cubo A; tiene un tapón de engrase.
+
+#6283
+Joint de bride
+Junta do flange
+法兰垫片
+Прокладка фланца
+Uszczelka kołnierza
+Karimatömítés
+Junta de brida
+
+#6284
+Assure l'étanchéité du joint entre les deux brides des manchons.
+Veda a união entre os dois flanges das luvas.
+密封两个齿套法兰之间的接合面。
+Уплотняет стык между двумя фланцами обойм.
+Uszczelnia połączenie między dwoma kołnierzami tulei.
+A két hüvelykarima közötti illesztést tömíti.
+Sella la unión entre las dos bridas de los manguitos.
+
+#6285
+Manchon B
+Luva B
+齿套 B
+Обойма B
+Tuleja B
+B hüvely
+Manguito B
+
+#6286
+Deuxième manchon à bride autour du moyeu B.
+Segunda luva flangeada em volta do cubo B.
+套在轮毂 B 外面的第二个法兰套。
+Вторая фланцевая обойма вокруг втулки B.
+Druga tuleja kołnierzowa wokół piasty B.
+Második karimás hüvely a B agy körül.
+Segundo manguito bridado alrededor del cubo B.
+
+#6287
+Joint B
+Anel de vedação B
+密封圈 B
+Уплотнительное кольцо B
+Pierścień uszczelniający B
+B tömítőgyűrű
+Anillo de sellado B
+
+#6288
+Joint torique à l'extrémité B du manchon.
+O-ring na ponta B da luva.
+齿套 B 端的 O 形圈。
+Кольцо круглого сечения на конце B обоймы.
+O-ring na końcu B tulei.
+O-gyűrű a hüvely B végén.
+Junta tórica en el extremo B del manguito.
+
+#6289
+Moyeu B
+Cubo B
+轮毂 B
+Втулка B
+Piasta B
+B agy
+Cubo B
+
+#6290
+Claveté sur l'arbre mené.
+Enchavetado no eixo acionado.
+用键固定在从动轴上。
+Посажена на шпонке на ведомый вал.
+Osadzona na wpust na wale napędzanym.
+Retesszel a hajtott tengelyre rögzítve.
+Enchavetado al eje conducido.
+
+#6291
+Boulons de bride
+Parafusos do flange
+法兰螺栓
+Фланцевые болты
+Śruby kołnierzowe
+Karimacsavarok
+Tornillos de brida
+
+#6292
+Boulons ajustés et écrous qui assemblent les manchons ; serrer au couple en croix.
+Parafusos ajustados e porcas que unem as luvas; apertar com torque em cruz.
+连接两个齿套的铰制孔螺栓和螺母；按扭矩对角拧紧。
+Призонные болты и гайки, соединяющие обоймы; затягивать с моментом крест-накрест.
+Śruby pasowane i nakrętki łączące tuleje; dokręcać momentem na krzyż.
+Illesztett csavarok és anyák, amelyek összekötik a hüvelyeket; keresztben, nyomatékra húzza meg.
+Tornillos calibrados y tuercas que unen los manguitos; apretar al par en cruz.
+
+#6293
+Pourquoi faut-il glisser les manchons et les joints sur les arbres avant de monter les moyeux ?
+Por que as luvas e vedações precisam ser colocadas nos eixos antes de montar os cubos?
+为什么必须在装轮毂之前先把齿套和密封圈套到轴上？
+Почему обоймы и уплотнения надо надеть на валы до установки втулок?
+Dlaczego tuleje i uszczelnienia trzeba nasunąć na wały przed montażem piast?
+Miért kell a hüvelyeket és tömítéseket az agyak felszerelése előtt a tengelyekre húzni?
+¿Por qué hay que pasar los manguitos y las juntas por los ejes antes de montar los cubos?
+
+#6294
+Ils ne peuvent plus passer par-dessus la denture des moyeux ensuite
+Depois eles não passam mais por cima dos dentes do cubo
+之后它们就无法越过轮毂的齿了
+Потом они уже не пройдут через зубья втулок
+Potem nie przejdą już przez zęby piast
+Utána már nem férnek át az agy fogain
+Después ya no pueden pasar por encima de los dientes del cubo
+
+#6295
+Pour les réchauffer
+Para aquecê-los
+为了让它们变热
+Чтобы их нагреть
+Aby je ogrzać
+Hogy felmelegedjenek
+Para calentarlos
+
+#6296
+Pour que la graisse reste propre
+Para a graxa ficar limpa
+为了保持润滑脂清洁
+Чтобы смазка оставалась чистой
+Aby smar pozostał czysty
+Hogy a zsír tiszta maradjon
+Para que la grasa se mantenga limpia
+
+#6297
+Un accouplement à denture chauffe et fait du bruit. Premier contrôle ?
+Um acoplamento de engrenagem está quente e barulhento. Primeira verificação?
+齿式联轴器发热且有噪声。首先检查什么？
+Зубчатая муфта греется и шумит. Что проверить первым?
+Sprzęgło zębate grzeje się i hałasuje. Co sprawdzić najpierw?
+Egy fogazott tengelykapcsoló melegszik és zajos. Mit ellenőriz először?
+Un acoplamiento de engranajes se calienta y hace ruido. ¿Primera comprobación?
+
+#6298
+Niveau de graisse et joints, puis alignement
+Nível de graxa e vedações, depois alinhamento
+润滑脂量和密封，然后是对中
+Уровень смазки и уплотнения, затем центровку
+Ilość smaru i uszczelnienia, potem osiowanie
+A zsír mennyiségét és a tömítéseket, utána az egytengelyűséget
+Nivel de grasa y juntas, luego la alineación
+
+#6299
+Tension du moteur
+Tensão do motor
+电机电压
+Напряжение двигателя
+Napięcie silnika
+Motorfeszültség
+Tensión del motor
+
+#6300
+Couleur de la peinture
+Cor da tinta
+油漆颜色
+Цвет краски
+Kolor farby
+Festék színe
+Color de la pintura
+
+#6301
+Longueur des boulons
+Comprimento dos parafusos
+螺栓长度
+Длина болтов
+Długość śrub
+Csavarhossz
+Longitud de los tornillos
+
+#6302
+Transmission par courroies trapézoïdales (poulies taper-lock)
+Transmissão por correias em V (polias taper-lock)
+V 带传动（Taper-lock 锥套皮带轮）
+Клиноремённая передача (шкивы с втулками Taper-Lock)
+Przekładnia pasowa klinowa (koła z tulejami taper-lock)
+Ékszíjhajtás (Taper-Lock tárcsák)
+Transmisión por correas trapezoidales (poleas taper-lock)
+
+#6303
+Deux poulies à gorges reliées par des courroies trapézoïdales appairées ; chaque poulie est serrée sur son arbre par un moyeu conique fendu taper-lock.
+Duas polias com canais ligadas por correias em V casadas; cada polia é presa ao seu eixo por uma bucha cônica bipartida taper-lock.
+两个带槽皮带轮由配组的 V 带连接；每个皮带轮用开口的 Taper-lock 锥套夹紧在轴上。
+Два шкива с канавками, соединённые подобранным комплектом клиновых ремней; каждый шкив зажат на своём валу разрезной конической втулкой Taper-Lock.
+Dwa koła rowkowe połączone dobranym kompletem pasów klinowych; każde koło jest zaciśnięte na swoim wale dzieloną tuleją stożkową taper-lock.
+Két hornyos tárcsa, amelyeket párosított ékszíjak kötnek össze; mindegyik tárcsát egy hasított, kúpos Taper-Lock persely szorítja a tengelyére.
+Dos poleas acanaladas unidas por correas trapezoidales emparejadas; cada polea se fija a su eje con un casquillo cónico partido taper-lock.
+
+#6304
+Ventilateurs de CTA et d'extraction, compresseurs, ventilateurs de tours de refroidissement et anciennes machines où la vitesse se change par la taille des poulies.
+Ventiladores de AHU e de exaustão, compressores, ventiladores de torres de resfriamento e máquinas antigas onde a velocidade é mudada pelo tamanho da polia.
+空调机组和排风风机、压缩机、冷却塔风机以及靠换皮带轮尺寸来改变转速的老设备。
+Вентиляторы приточных установок и вытяжные вентиляторы, компрессоры, вентиляторы градирен и старые машины, где скорость меняют размером шкива.
+Wentylatory central wentylacyjnych i wyciągowe, sprężarki, wentylatory wież chłodniczych i starsze maszyny, w których prędkość zmienia się wielkością koła.
+Légkezelők és elszívó ventilátorok, kompresszorok, hűtőtorony-ventilátorok és régebbi gépek, ahol a fordulatszámot a tárcsaméret változtatja.
+Ventiladores de UTA y de extracción, compresores, ventiladores de torres de refrigeración y máquinas antiguas donde la velocidad se cambia con el tamaño de la polea.
+
+#6305
+La tension coince les flancs de la courroie dans la gorge ; le frottement sur les flancs transmet la puissance. Rapport de vitesse = diamètre de la grande poulie ÷ diamètre de la petite poulie.
+A tensão encunha as laterais da correia no canal; o atrito nas laterais transmite a potência. Relação de velocidade = diâmetro da polia grande ÷ diâmetro da polia pequena.
+张紧力把皮带两侧楔入轮槽；靠两侧的摩擦力传递功率。速比 = 大轮直径 ÷ 小轮直径。
+Натяжение заклинивает боковины ремня в канавке; трение по боковинам передаёт мощность. Передаточное отношение = диаметр большого шкива ÷ диаметр малого шкива.
+Naciąg wciska boki pasa w rowek; tarcie na bokach przenosi moc. Przełożenie = średnica dużego koła ÷ średnica małego koła.
+A feszítés beékeli a szíj oldalait a horonyba; az oldalakon fellépő súrlódás viszi át a teljesítményt. Áttétel = nagy tárcsa átmérője ÷ kis tárcsa átmérője.
+La tensión acuña los flancos de la correa en la garganta; la fricción en los flancos transmite la potencia. Relación de velocidad = diámetro de la polea grande ÷ diámetro de la polea pequeña.
+
+#6306
+Sifflement et patinage par tension trop faible, courroies glacées ou fissurées, courroie qui touche le fond des gorges usées, courroies qui se retournent à cause du désalignement, roulements endommagés par une tension excessive.
+Chiado e patinação por tensão baixa, correias vitrificadas ou trincadas, correia tocando o fundo de canais gastos, correias virando por desalinhamento, dano nos rolamentos por tensão excessiva.
+张力不足导致尖叫和打滑、皮带打滑发亮或开裂、轮槽磨损使皮带触底、不对中使皮带翻转、张力过大损坏轴承。
+Визг и проскальзывание из-за слабого натяжения, глянцевые или потрескавшиеся ремни, ремень садится на дно изношенных канавок, ремни переворачиваются из-за несоосности, повреждение подшипников от перетяжки.
+Piski i poślizg przy zbyt małym naciągu, zeszklone lub popękane pasy, pas dotykający dna zużytych rowków, pasy przewracające się przez niewspółosiowość, uszkodzenie łożysk przez nadmierny naciąg.
+Csikorgás és csúszás alacsony feszítés miatt, kifényesedett vagy repedt szíjak, kopott hornyok alján felfekvő szíj, egytengelyűségi hiba miatt átforduló szíjak, túlfeszítéstől sérült csapágyak.
+Chirrido y patinaje por baja tensión, correas cristalizadas o agrietadas, correa que toca el fondo de gargantas gastadas, correas que se voltean por desalineación, daño en rodamientos por exceso de tensión.
+
+#6307
+Régler la tension avec un tensiomètre (flèche ou fréquence), aligner les poulies à la règle ou au laser, contrôler les gorges avec un gabarit, remplacer toutes les courroies d'un jeu ensemble, retendre après les premières heures.
+Ajustar a tensão com um tensiômetro (flecha ou frequência), alinhar as polias com régua ou laser, verificar os canais com um gabarito, trocar todas as correias de um jogo juntas, retensionar após as primeiras horas.
+用张力计（挠度法或频率法）调整张力，用直尺或激光对正皮带轮，用量规检查轮槽，一组皮带全部一起更换，运行最初几个小时后重新张紧。
+Устанавливать натяжение тензометром (по прогибу или частоте), выравнивать шкивы линейкой или лазером, проверять канавки шаблоном, менять все ремни комплекта вместе, подтягивать после первых часов работы.
+Ustawiać naciąg miernikiem naciągu (ugięcie lub częstotliwość), osiować koła liniałem lub laserem, sprawdzać rowki wzornikiem, wymieniać wszystkie pasy kompletu razem, ponownie napiąć po pierwszych godzinach pracy.
+A feszítést szíjfeszesség-mérővel állítsa (behajlás vagy frekvencia), a tárcsákat vonalzóval vagy lézerrel igazítsa, a hornyokat idomszerrel ellenőrizze, egy készlet minden szíját egyszerre cserélje, az első üzemórák után feszítse utána.
+Ajustar la tensión con un tensiómetro (flecha o frecuencia), alinear las poleas con regla o láser, revisar las gargantas con una galga, cambiar todas las correas de un juego a la vez, retensar tras las primeras horas.
+
+#6308
+Arbre menant.
+Eixo motriz.
+主动轴。
+Ведущий вал.
+Wał napędzający.
+Hajtó tengely.
+Eje motriz.
+
+#6309
+Moyeu taper-lock (menant)
+Bucha taper-lock (motora)
+Taper-lock 锥套（主动轮）
+Втулка Taper-Lock (ведущая)
+Tuleja taper-lock (napędzająca)
+Taper-Lock persely (hajtó)
+Casquillo taper-lock (motriz)
+
+#6310
+Moyeu conique fendu ; deux vis le tirent dans la poulie et serrent l'arbre.
+Bucha cônica bipartida; dois parafusos a puxam para dentro da polia e apertam o eixo.
+开口锥套；两个螺钉把它拉进皮带轮并抱紧轴。
+Разрезная коническая втулка; два винта втягивают её в шкив, и она зажимает вал.
+Dzielona tuleja stożkowa; dwie śruby wciągają ją w koło i zaciskają wał.
+Hasított kúpos persely; két csavar behúzza a tárcsába, és rászorítja a tengelyre.
+Casquillo cónico partido; dos tornillos lo meten en la polea y aprietan el eje.
+
+#6311
+Poulie menante (petite)
+Polia motora (pequena)
+主动皮带轮（小轮）
+Ведущий шкив (малый)
+Koło napędzające (małe)
+Hajtó tárcsa (kicsi)
+Polea motriz (pequeña)
+
+#6312
+Poulie SPA à deux gorges sur le moteur.
+Polia SPA de dois canais no motor.
+装在电机上的双槽 SPA 皮带轮。
+Двухручьёвый шкив SPA на двигателе.
+Dwurowkowe koło SPA na silniku.
+Kéthornyos SPA tárcsa a motoron.
+Polea SPA de dos gargantas en el motor.
+
+#6313
+Arbre de ventilateur avec clavette
+Eixo do ventilador com chaveta
+带键的风机轴
+Вал вентилятора со шпонкой
+Wał wentylatora z wpustem
+Ventilátortengely retesszel
+Eje del ventilador con chaveta
+
+#6314
+Moyeu taper-lock (mené)
+Bucha taper-lock (movida)
+Taper-lock 锥套（从动轮）
+Втулка Taper-Lock (ведомая)
+Tuleja taper-lock (napędzana)
+Taper-Lock persely (hajtott)
+Casquillo taper-lock (conducido)
+
+#6315
+Même type de moyeu, alésage plus grand.
+Mesmo tipo de bucha, furo maior.
+同型号锥套，孔径更大。
+Такая же втулка, больший диаметр отверстия.
+Ten sam typ tulei, większy otwór.
+Azonos típusú persely, nagyobb furattal.
+Mismo tipo de casquillo, agujero más grande.
+
+#6316
+Poulie menée (grande)
+Polia movida (grande)
+从动皮带轮（大轮）
+Ведомый шкив (большой)
+Koło napędzane (duże)
+Hajtott tárcsa (nagy)
+Polea conducida (grande)
+
+#6317
+Poulie plus grande : vitesse plus basse, plus de couple.
+Polia maior: velocidade menor, mais torque.
+较大的皮带轮：转速更低，扭矩更大。
+Шкив больше: ниже скорость, больше момент.
+Większe koło: mniejsza prędkość, większy moment.
+Nagyobb tárcsa: kisebb fordulatszám, nagyobb nyomaték.
+Polea más grande: menor velocidad, más par.
+
+#6318
+Courroies trapézoïdales (jeu appairé)
+Correias em V (jogo casado)
+V 带（配组）
+Клиновые ремни (подобранный комплект)
+Pasy klinowe (dobrany komplet)
+Ékszíjak (párosított készlet)
+Correas trapezoidales (juego emparejado)
+
+#6319
+Courroies trapézoïdales étroites avec câblés à l'intérieur ; toujours changées par jeu complet.
+Correias em cunha com cordonéis por dentro; sempre trocadas em jogo completo.
+内有线绳的窄 V 带；总是整组更换。
+Узкие клиновые ремни с кордом внутри; всегда меняются комплектом.
+Pasy klinowe wąskie z kordem w środku; zawsze wymieniane kompletem.
+Keskeny ékszíjak belső kordszállal; mindig készletben cserélik.
+Correas trapezoidales estrechas con cordones interiores; siempre se cambian por juego completo.
+
+#6320
+Une courroie d'un jeu de 3 est cassée. Que remplacez-vous ?
+Uma correia de um jogo de 3 está quebrada. O que você troca?
+3 根一组的皮带断了一根。你换什么？
+Один ремень из комплекта из 3 порван. Что вы меняете?
+Jeden pas z kompletu 3 pasów jest zerwany. Co wymieniasz?
+Egy 3 szíjas készlet egyik szíja elszakadt. Mit cserél?
+Se ha roto una correa de un juego de 3. ¿Qué cambia?
+
+#6321
+Les trois, en jeu appairé
+As três, como jogo casado
+三根全换，作为配组
+Все три, подобранным комплектом
+Wszystkie trzy, jako dobrany komplet
+Mind a hármat, párosított készletként
+Las tres, como juego emparejado
+
+#6322
+Seulement celle qui est cassée
+Só a quebrada
+只换断的那根
+Только порванный
+Tylko zerwany
+Csak az elszakadtat
+Solo la rota
+
+#6323
+Deux d'entre elles
+Duas delas
+换其中两根
+Два из них
+Dwa z nich
+Kettőt közülük
+Dos de ellas
+
+#6324
+Les poulies
+As polias
+皮带轮
+Шкивы
+Koła pasowe
+A tárcsákat
+Las poleas
+
+#6325
+Poulie moteur 100 mm, poulie ventilateur 200 mm, moteur 1450 rpm. Vitesse du ventilateur ?
+Polia do motor 100 mm, polia do ventilador 200 mm, motor 1450 rpm. Rotação do ventilador?
+电机皮带轮 100 mm，风机皮带轮 200 mm，电机 1450 rpm。风机转速是多少？
+Шкив двигателя 100 mm, шкив вентилятора 200 mm, двигатель 1450 rpm. Скорость вентилятора?
+Koło silnika 100 mm, koło wentylatora 200 mm, silnik 1450 rpm. Prędkość wentylatora?
+Motortárcsa 100 mm, ventilátortárcsa 200 mm, motor 1450 rpm. Mekkora a ventilátor fordulatszáma?
+Polea del motor 100 mm, polea del ventilador 200 mm, motor 1450 rpm. ¿Velocidad del ventilador?
+
+#6326
+Environ 725 rpm
+Cerca de 725 rpm
+约 725 rpm
+Около 725 rpm
+Około 725 rpm
+Körülbelül 725 rpm
+Unas 725 rpm
+
+#6327
+2900 rpm
+2900 rpm
+2900 rpm
+2900 rpm
+2900 rpm
+2900 rpm
+2900 rpm
+
+#6328
+1450 rpm
+1450 rpm
+1450 rpm
+1450 rpm
+1450 rpm
+1450 rpm
+1450 rpm
+
+#6329
+362 rpm
+362 rpm
+362 rpm
+362 rpm
+362 rpm
+362 rpm
+362 rpm
+
+#6330
+Transmission par chaîne à rouleaux avec tendeur
+Transmissão por corrente de rolos com tensionador
+带张紧器的滚子链传动
+Цепная передача роликовой цепью с натяжителем
+Przekładnia łańcuchowa rolkowa z napinaczem
+Görgős lánchajtás láncfeszítővel
+Transmisión por cadena de rodillos con tensor
+
+#6331
+Deux pignons reliés par une chaîne à rouleaux (axes, douilles, rouleaux, plaques intérieures et extérieures) ; un patin à ressort reprend le mou.
+Duas rodas dentadas ligadas por uma corrente de rolos (pinos, buchas, rolos, placas internas e externas); uma sapata com mola tira a folga.
+两个链轮由滚子链（销轴、套筒、滚子、内外链板）连接；弹簧压紧的张紧块吸收松边。
+Две звёздочки, соединённые роликовой цепью (валики, втулки, ролики, внутренние и наружные пластины); подпружиненный башмак выбирает провисание.
+Dwa koła łańcuchowe połączone łańcuchem rolkowym (sworznie, tulejki, rolki, płytki wewnętrzne i zewnętrzne); płoza ze sprężyną kasuje luz.
+Két lánckerék görgős lánccal összekötve (csapok, perselyek, görgők, belső és külső hevederek); rugós csúszósaru veszi fel a lazaságot.
+Dos piñones unidos por una cadena de rodillos (pasadores, casquillos, rodillos, placas interiores y exteriores); un patín con resorte recoge la holgura.
+
+#6332
+Convoyeurs et tables de transfert, machines d'emballage, alimentateurs rotatifs, appareils de levage et entraînements lents et lourds.
+Transportadores e mesas de transferência, máquinas de embalagem, alimentadores rotativos, equipamentos de elevação e acionamentos lentos e pesados.
+输送机和转移台、包装机、旋转给料器、起重设备以及低速重载传动。
+Конвейеры и столы перегрузки, упаковочные машины, роторные питатели, грузоподъёмные механизмы и медленные тяжёлые приводы.
+Przenośniki i stoły przekazujące, maszyny pakujące, podajniki obrotowe, urządzenia dźwigowe oraz wolne, ciężkie napędy.
+Szállítószalagok és átadóasztalok, csomagológépek, cellás adagolók, emelőberendezések és lassú, nehéz hajtások.
+Transportadores y mesas de transferencia, máquinas de envasado, alimentadores rotativos, equipos de elevación y accionamientos lentos y pesados.
+
+#6333
+Les dents du pignon poussent sur les rouleaux de la chaîne, donc il n'y a pas de glissement. Le brin tendu tire ; le brin mou revient et est guidé par le tendeur. Rapport = dents du pignon mené ÷ dents du pignon menant.
+Os dentes da roda empurram os rolos da corrente, então não há escorregamento. O lado tenso puxa; o lado frouxo retorna e é guiado pelo tensionador. Relação = dentes da movida ÷ dentes da motora.
+链轮齿推动链条滚子，所以不会打滑。紧边受拉；松边返回并由张紧器引导。传动比 = 从动轮齿数 ÷ 主动轮齿数。
+Зубья звёздочки давят на ролики цепи, поэтому проскальзывания нет. Ведущая ветвь тянет; холостая ветвь возвращается и направляется натяжителем. Передаточное отношение = зубья ведомой ÷ зубья ведущей.
+Zęby koła naciskają na rolki łańcucha, więc nie ma poślizgu. Cięgno czynne ciągnie; cięgno bierne wraca i jest prowadzone przez napinacz. Przełożenie = zęby koła napędzanego ÷ zęby koła napędzającego.
+A lánckerék fogai a lánc görgőit tolják, így nincs csúszás. A feszes ág húz; a laza ág visszatér, és a feszítő vezeti. Áttétel = hajtott kerék fogszáma ÷ hajtó kerék fogszáma.
+Los dientes del piñón empujan los rodillos de la cadena, así que no hay deslizamiento. El ramal tenso tira; el ramal flojo vuelve y lo guía el tensor. Relación = dientes del conducido ÷ dientes del motriz.
+
+#6334
+Allongement de la chaîne par usure des axes et douilles (elle monte sur les dents et saute), dents de pignon en crochet, maillons raides par chaîne sèche ou sale, bruit et fouettement dus à un mou incorrect ou à des pignons désalignés.
+Alongamento da corrente por desgaste de pinos e buchas (ela sobe nos dentes e pula), dentes da roda em gancho, elos duros por corrente seca ou suja, ruído e chicoteamento por folga errada ou rodas desalinhadas.
+销轴和套筒磨损导致链条伸长（链条爬高并跳齿）、链轮齿磨成钩状、链条干涩或脏污导致链节发卡、松边不当或链轮不对正导致噪声和甩动。
+Вытяжка цепи из-за износа валиков и втулок (она поднимается на зубьях и перескакивает), крючкообразные зубья звёздочки, тугие звенья от сухой или грязной цепи, шум и хлёст от неправильного провисания или несоосных звёздочек.
+Wydłużenie łańcucha od zużycia sworzni i tulejek (wchodzi wysoko na zęby i przeskakuje), haczykowate zęby kół, sztywne ogniwa od suchego lub brudnego łańcucha, hałas i bicie od złego zwisu lub niewspółosiowych kół.
+A csapok és perselyek kopásából eredő láncnyúlás (magasan fut a fogakon és átugrik), horgasra kopott lánckerékfogak, száraz vagy szennyezett lánc miatt merev szemek, helytelen belógás vagy egymáshoz képest elállított lánckerekek miatti zaj és csapkodás.
+Alargamiento de la cadena por desgaste de pasadores y casquillos (monta alto en los dientes y salta), dientes del piñón en gancho, eslabones rígidos por cadena seca o sucia, ruido y latigazos por holgura incorrecta o piñones desalineados.
+
+#6335
+Lubrifier régulièrement, mesurer l'allongement sur plusieurs maillons (remplacer à environ 2-3 %), remplacer les pignons avec la chaîne, garder un mou d'environ 2 % de l'entraxe, aligner les pignons à la règle.
+Lubrificar regularmente, medir o alongamento em vários elos (trocar com cerca de 2-3 %), trocar as rodas dentadas junto com a corrente, manter cerca de 2 % de folga do vão, alinhar as rodas com régua.
+定期润滑，在若干链节上测量伸长量（约 2-3 % 时更换），链轮随链条一起更换，松边垂度保持约为跨距的 2 %，用直尺对正链轮。
+Регулярно смазывать, измерять вытяжку на нескольких звеньях (менять примерно при 2-3 %), менять звёздочки вместе с цепью, держать провисание около 2 % пролёта, выравнивать звёздочки линейкой.
+Smarować regularnie, mierzyć wydłużenie na kilku ogniwach (wymieniać przy około 2-3 %), wymieniać koła razem z łańcuchem, utrzymywać zwis około 2 % rozpiętości, osiować koła liniałem.
+Rendszeresen kenje, mérje a nyúlást több láncszemen (kb. 2-3 %-nál cserélje), a lánckerekeket a lánccal együtt cserélje, a belógás a fesztáv kb. 2 %-a legyen, a lánckerekeket vonalzóval igazítsa.
+Lubricar con regularidad, medir el alargamiento sobre varios eslabones (cambiar hacia el 2-3 %), cambiar los piñones con la cadena, mantener una holgura de alrededor del 2 % del tramo, alinear los piñones con regla.
+
+#6336
+Arbre menant
+Eixo motor
+主动轴
+Ведущий вал
+Wał napędzający
+Hajtó tengely
+Eje motriz
+
+#6337
+Arbre de sortie du motoréducteur.
+Eixo de saída do motorredutor.
+减速电机的输出轴。
+Выходной вал мотор-редуктора.
+Wał wyjściowy motoreduktora.
+A hajtóműves motor kimenő tengelye.
+Eje de salida del motorreductor.
+
+#6338
+Pignon menant (13 T)
+Roda dentada motora (13 T)
+主动链轮（13 T）
+Ведущая звёздочка (13 T)
+Koło napędzające (13 T)
+Hajtó lánckerék (13 T)
+Piñón motriz (13 T)
+
+#6339
+Petit pignon ; avec peu de dents, il s'use plus vite.
+Roda pequena; com poucos dentes, gasta mais rápido.
+小链轮；齿数少，磨损更快。
+Малая звёздочка; при малом числе зубьев изнашивается быстрее.
+Małe koło; przy małej liczbie zębów zużywa się szybciej.
+Kis lánckerék; kevés foga miatt gyorsabban kopik.
+Piñón pequeño; con pocos dientes se desgasta más rápido.
+
+#6340
+Arbre mené
+Eixo movido
+从动轴
+Ведомый вал
+Wał napędzany
+Hajtott tengely
+Eje conducido
+
+#6341
+Arbre de tête du convoyeur.
+Eixo de cabeça do transportador.
+输送机头部轴。
+Приводной (головной) вал конвейера.
+Wał czołowy przenośnika.
+A szállítószalag fejtengelye.
+Eje de cabeza del transportador.
+
+#6342
+Pignon mené (26 T)
+Roda dentada movida (26 T)
+从动链轮（26 T）
+Ведомая звёздочка (26 T)
+Koło napędzane (26 T)
+Hajtott lánckerék (26 T)
+Piñón conducido (26 T)
+
+#6343
+Grand pignon : moitié de la vitesse, double couple.
+Roda grande: metade da velocidade, o dobro do torque.
+大链轮：转速减半，扭矩加倍。
+Большая звёздочка: вдвое меньше скорость, вдвое больше момент.
+Duże koło: połowa prędkości, podwójny moment.
+Nagy lánckerék: fele fordulatszám, kétszeres nyomaték.
+Piñón grande: la mitad de velocidad, el doble de par.
+
+#6344
+Chaîne à rouleaux
+Corrente de rolos
+滚子链
+Роликовая цепь
+Łańcuch rolkowy
+Görgős lánc
+Cadena de rodillos
+
+#6345
+Rouleaux sur axes entre plaques intérieures et extérieures ; pas de 12.7 mm.
+Rolos sobre pinos entre placas internas e externas; passo de 12.7 mm.
+滚子套在内外链板之间的销轴上；节距 12.7 mm。
+Ролики на валиках между внутренними и наружными пластинами; шаг 12.7 mm.
+Rolki na sworzniach między płytkami wewnętrznymi i zewnętrznymi; podziałka 12.7 mm.
+Görgők csapokon a belső és külső hevederek között; osztás 12.7 mm.
+Rodillos sobre pasadores entre placas interiores y exteriores; paso de 12.7 mm.
+
+#6346
+Maillon de raccord avec clip à ressort
+Elo de emenda com grampo de mola
+带弹簧卡片的连接链节
+Соединительное звено с пружинным замком
+Ogniwo złączne z zapinką sprężynową
+Összekötő láncszem rugós zárral
+Eslabón de unión con clip de resorte
+
+#6347
+Maillon extérieur démontable qui ferme la chaîne ; l'ouverture du clip est tournée à l'opposé du sens de marche.
+Elo externo removível que fecha a corrente; a abertura do grampo fica voltada para o lado contrário ao sentido de movimento.
+封闭链条的可拆外链节；卡片的开口朝向与运行方向相反。
+Съёмное наружное звено, замыкающее цепь; разрез замка обращён против направления движения.
+Zdejmowane ogniwo zewnętrzne zamykające łańcuch; otwór zapinki skierowany przeciwnie do kierunku ruchu.
+Levehető külső láncszem, amely zárja a láncot; a zár nyitott vége a haladási iránnyal ellentétes irányba néz.
+Eslabón exterior desmontable que cierra la cadena; la abertura del clip mira en sentido contrario a la marcha.
+
+#6348
+Tendeur de chaîne
+Tensionador de corrente
+链条张紧器
+Натяжитель цепи
+Napinacz łańcucha
+Láncfeszítő
+Tensor de cadena
+
+#6349
+Bras à ressort avec un patin en plastique appuyant sur le brin mou.
+Braço com mola e uma sapata de plástico pressionando o lado frouxo.
+带塑料张紧块的弹簧臂，压在松边上。
+Подпружиненный рычаг с пластиковым башмаком, прижатым к холостой ветви.
+Ramię ze sprężyną i plastikową płozą dociskającą cięgno bierne.
+Rugós kar műanyag csúszósaruval, amely a laza ágra nyom.
+Brazo con resorte y un patín de plástico que presiona el ramal flojo.
+
+#6350
+Quand remplacer une chaîne à rouleaux ?
+Quando trocar uma corrente de rolos?
+什么时候更换滚子链？
+Когда менять роликовую цепь?
+Kiedy wymienić łańcuch rolkowy?
+Mikor kell cserélni a görgős láncot?
+¿Cuándo se cambia una cadena de rodillos?
+
+#6351
+Quand l'allongement atteint environ 2-3 %, et les pignons avec
+Quando o alongamento chega a cerca de 2-3 %, e as rodas junto
+伸长量达到约 2-3 % 时，并连同链轮一起更换
+Когда вытяжка достигает примерно 2-3 %, и звёздочки вместе с ней
+Gdy wydłużenie osiągnie około 2-3 %, razem z kołami
+Amikor a nyúlás eléri a kb. 2-3 %-ot, a lánckerekekkel együtt
+Cuando el alargamiento llega a un 2-3 %, y los piñones con ella
+
+#6352
+Seulement quand elle casse
+Só quando quebrar
+只在断了的时候
+Только когда порвётся
+Tylko gdy pęknie
+Csak ha elszakad
+Solo cuando se rompe
+
+#6353
+Tous les mois
+Todo mês
+每个月
+Каждый месяц
+Co miesiąc
+Havonta
+Cada mes
+
+#6354
+Quand elle est sale
+Quando ficar suja
+脏了的时候
+Когда она загрязнится
+Gdy się zabrudzi
+Ha piszkos lesz
+Cuando se ensucia
+
+#6355
+Dans quel sens doit être orienté le clip à ressort d'un maillon de raccord ?
+Para que lado deve ficar o grampo de mola de um elo de emenda?
+连接链节的弹簧卡片应朝哪个方向？
+Куда должен быть обращён пружинный замок соединительного звена?
+W którą stronę powinna być skierowana zapinka ogniwa złącznego?
+Merre nézzen az összekötő láncszem rugós zárja?
+¿Hacia dónde debe mirar el clip de resorte de un eslabón de unión?
+
+#6356
+Extrémité ouverte en arrière, à l'opposé du sens de marche
+Ponta aberta para trás, contra o sentido de movimento
+开口端在后，与运行方向相反
+Открытым концом назад, против направления движения
+Otwartym końcem do tyłu, przeciwnie do kierunku ruchu
+Nyitott véggel hátrafelé, a haladási iránnyal ellentétesen
+Extremo abierto hacia atrás, en sentido contrario a la marcha
+
+#6357
+Extrémité ouverte en avant
+Ponta aberta para frente
+开口端在前
+Открытым концом вперёд
+Otwartym końcem do przodu
+Nyitott véggel előre
+Extremo abierto hacia delante
+
+#6358
+Vers le pignon
+Para a roda dentada
+朝向链轮
+К звёздочке
+W stronę koła
+A lánckerék felé
+Hacia el piñón
+
+#6359
+Transmission par courroie crantée (HTD 8M)
+Transmissão por correia sincronizadora (HTD 8M)
+同步带传动（HTD 8M）
+Зубчаторемённая передача (HTD 8M)
+Przekładnia z pasem zębatym (HTD 8M)
+Fogasszíjhajtás (HTD 8M)
+Transmisión por correa dentada (HTD 8M)
+
+#6360
+Courroie dentée sur poulies dentées : un entraînement positif sans glissement, donc les deux arbres restent synchronisés.
+Correia dentada em polias dentadas: um acionamento positivo sem escorregamento, então os dois eixos ficam sincronizados.
+齿形带配齿形带轮：无打滑的啮合传动，所以两轴保持同步。
+Зубчатый ремень на зубчатых шкивах: передача без проскальзывания, поэтому оба вала идут синхронно.
+Pas zębaty na kołach zębatych: napęd kształtowy bez poślizgu, więc oba wały pozostają zsynchronizowane.
+Fogazott szíj fogazott tárcsákon: csúszásmentes, kényszerkapcsolatú hajtás, így a két tengely szinkronban marad.
+Correa dentada sobre poleas dentadas: un accionamiento positivo sin deslizamiento, así que los dos ejes siguen sincronizados.
+
+#6361
+Machines d'emballage (étuyeuses, blistereuses et étiqueteuses), axes servo, entraînements d'indexage et de convoyeurs qui doivent rester synchronisés.
+Máquinas de embalagem (encartuchadeiras, blisteradeiras e rotuladoras), eixos servo, acionamentos de indexação e de transportadores que precisam manter o sincronismo.
+包装机（装盒机、泡罩机和贴标机）、伺服轴、需要保持同步的分度和输送传动。
+Упаковочные машины (картонажные, блистерные и этикетировочные), сервооси, приводы индексации и конвейеров, которые должны оставаться синхронными.
+Maszyny pakujące (kartoniarki, blistrownice i etykieciarki), osie serwo, napędy indeksujące i przenośników, które muszą zachować synchronizację.
+Csomagológépek (dobozolók, bliszterező és címkéző gépek), szervotengelyek, osztó- és szállítószalag-hajtások, amelyeknek szinkronban kell maradniuk.
+Máquinas de envasado (estuchadoras, blisteadoras y etiquetadoras), ejes servo, accionamientos de indexado y de transportadores que deben mantenerse sincronizados.
+
+#6362
+Les dents de la courroie se logent dans les gorges de la poulie ; des câblés en verre ou en aramide portent la charge et ne s'allongent pas. Une poulie à flasques maintient la courroie ; un galet sur le brin mou règle la tension.
+Os dentes da correia encaixam nos canais da polia; cordonéis de vidro ou aramida levam a carga e não esticam. Uma polia com flanges segura a correia; uma polia tensora no lado frouxo ajusta a tensão.
+带齿嵌入带轮齿槽；玻璃纤维或芳纶线绳承受负荷且不伸长。带挡边的带轮防止皮带跑偏脱落；松边上的惰轮调整张力。
+Зубья ремня входят во впадины шкива; стекловолоконный или арамидный корд несёт нагрузку и не растягивается. Шкив с ребордами удерживает ремень; ролик на холостой ветви задаёт натяжение.
+Zęby pasa siedzą w rowkach koła; linki szklane lub aramidowe przenoszą obciążenie i się nie wydłużają. Koło z obrzeżami utrzymuje pas; rolka na cięgnie biernym ustawia naciąg.
+A szíj fogai a tárcsa hornyaiba illeszkednek; az üveg- vagy aramidszálas kord viseli a terhelést és nem nyúlik. A peremes tárcsa a helyén tartja a szíjat; a laza ágon lévő görgő állítja a feszességet.
+Los dientes de la correa encajan en las ranuras de la polea; cordones de vidrio o aramida llevan la carga y no se estiran. Una polea con pestañas mantiene la correa en su sitio; un rodillo en el ramal flojo ajusta la tensión.
+
+#6363
+Dents arrachées par un choc ou une tension trop faible (saut de dents), bords de courroie usés par le désalignement, fissures sur le dos, bruit dû à une tension excessive, gorges de poulie usées.
+Dentes cisalhados por choque ou tensão baixa (pulo de dente), bordas da correia gastas por desalinhamento, trincas no dorso, ruído por tensão excessiva, canais da polia gastos.
+冲击或张力不足导致齿被剪断（跳齿）、不对中使皮带边缘磨损、带背开裂、张力过大产生噪声、带轮齿槽磨损。
+Срезанные зубья от удара или слабого натяжения (перескок зубьев), изношенные кромки ремня от несоосности, трещины на спинке, шум от перетяжки, изношенные впадины шкивов.
+Ścięte zęby od udaru lub zbyt małego naciągu (przeskok zębów), zużyte krawędzie pasa od niewspółosiowości, pęknięcia na grzbiecie, hałas od nadmiernego naciągu, zużyte rowki kół.
+Lökéstől vagy alacsony feszítéstől lenyíródott fogak (fogugrás), egytengelyűségi hiba miatt kopott szíjszélek, repedések a háton, túlfeszítés okozta zaj, kopott tárcsahornyok.
+Dientes cizallados por golpe o baja tensión (salto de dientes), bordes de la correa gastados por desalineación, grietas en el dorso, ruido por exceso de tensión, ranuras de polea desgastadas.
+
+#6364
+Régler la tension avec un fréquencemètre, aligner les poulies, ne jamais plier ni monter une courroie au levier, contrôler les dents et les bords, remplacer les poulies usées avec la courroie.
+Ajustar a tensão com um medidor de frequência, alinhar as polias, nunca dobrar ou forçar uma correia com alavanca, verificar dentes e bordas, trocar polias gastas junto com a correia.
+用频率计调整张力，对正带轮，绝不折弯皮带或用撬棍撬上皮带，检查齿和边缘，磨损的带轮随皮带一起更换。
+Устанавливать натяжение частотомером, выравнивать шкивы, никогда не перегибать ремень и не надевать его рычагом, проверять зубья и кромки, менять изношенные шкивы вместе с ремнём.
+Ustawiać naciąg miernikiem częstotliwości, osiować koła, nigdy nie zaginać ani nie podważać pasa, sprawdzać zęby i krawędzie, wymieniać zużyte koła razem z pasem.
+A feszességet frekvenciamérővel állítsa, igazítsa a tárcsákat, a szíjat soha ne törje meg és ne feszítse fel szerszámmal, ellenőrizze a fogakat és a széleket, a kopott tárcsákat a szíjjal együtt cserélje.
+Ajustar la tensión con un medidor de frecuencia, alinear las poleas, nunca doblar ni montar una correa haciendo palanca, revisar dientes y bordes, cambiar las poleas gastadas con la correa.
+
+#6365
+Arbre du servomoteur
+Eixo do servomotor
+伺服电机轴
+Вал серводвигателя
+Wał serwosilnika
+Szervomotor tengelye
+Eje del servomotor
+
+#6366
+Poulie menante (22 T, à flasques)
+Polia motora (22 T, com flanges)
+主动带轮（22 T，带挡边）
+Ведущий шкив (22 T, с ребордами)
+Koło napędzające (22 T, z obrzeżami)
+Hajtó tárcsa (22 T, peremes)
+Polea motriz (22 T, con pestañas)
+
+#6367
+Petite poulie dentée avec des flasques qui maintiennent la courroie.
+Polia dentada pequena com flanges que seguram a correia.
+带挡边的小齿形带轮，挡边防止皮带脱落。
+Малый зубчатый шкив с ребордами, которые удерживают ремень.
+Małe koło zębate z obrzeżami, które utrzymują pas.
+Kis fogazott tárcsa peremekkel, amelyek a helyén tartják a szíjat.
+Polea dentada pequeña con pestañas que mantienen la correa.
+
+#6368
+Axe machine entraîné en synchronisme avec le moteur.
+Eixo da máquina acionado em sincronismo com o motor.
+与电机同步驱动的机器轴。
+Ось машины, приводимая синхронно с двигателем.
+Oś maszyny napędzana synchronicznie z silnikiem.
+A motorral szinkronban hajtott géptengely.
+Eje de la máquina accionado en sincronía con el motor.
+
+#6369
+Poulie menée (44 T)
+Polia movida (44 T)
+从动带轮（44 T）
+Ведомый шкив (44 T)
+Koło napędzane (44 T)
+Hajtott tárcsa (44 T)
+Polea conducida (44 T)
+
+#6370
+Grande poulie dentée : réduction 2:1.
+Polia dentada grande: redução 2:1.
+大齿形带轮：2:1 减速。
+Большой зубчатый шкив: редукция 2:1.
+Duże koło zębate: redukcja 2:1.
+Nagy fogazott tárcsa: 2:1 lassítás.
+Polea dentada grande: reducción 2:1.
+
+#6371
+Courroie crantée
+Correia sincronizadora
+同步带
+Зубчатый ремень
+Pas zębaty
+Fogasszíj
+Correa dentada
+
+#6372
+Courroie en néoprène ou polyuréthane avec dents arrondies et câblés de traction.
+Correia de neoprene ou poliuretano com dentes curvos e cordonéis de tração.
+氯丁橡胶或聚氨酯带，带圆弧齿和抗拉线绳。
+Ремень из неопрена или полиуретана с закруглёнными зубьями и несущим кордом.
+Pas z neoprenu lub poliuretanu z zaokrąglonymi zębami i linkami nośnymi.
+Neoprén vagy poliuretán szíj íves fogakkal és húzószálakkal.
+Correa de neopreno o poliuretano con dientes curvos y cordones de tracción.
+
+#6373
+Galet tendeur
+Polia tensora
+张紧惰轮
+Натяжной ролик
+Rolka napinająca
+Feszítőgörgő
+Rodillo tensor
+
+#6374
+Galet lisse sur le dos du brin mou ; son support coulisse dans une rainure pour régler la tension.
+Rolo liso nas costas do lado frouxo; seu suporte desliza num rasgo para ajustar a tensão.
+压在松边背面的光面滚轮；其支架在槽中滑动以调整张力。
+Гладкий ролик по спинке холостой ветви; его кронштейн перемещается в пазу для регулировки натяжения.
+Gładka rolka na grzbiecie cięgna biernego; jej wspornik przesuwa się w szczelinie, aby ustawić naciąg.
+Sima görgő a laza ág hátán; tartója hosszlyukban csúszik a feszesség beállításához.
+Rodillo liso sobre el dorso del ramal flojo; su soporte se desliza en una ranura para ajustar la tensión.
+
+#6375
+Pourquoi utilise-t-on une courroie crantée plutôt qu'une courroie trapézoïdale sur un axe d'étuyeuse ?
+Por que se usa correia sincronizadora em vez de correia em V num eixo de encartuchadeira?
+为什么装盒机的轴上用同步带而不用 V 带？
+Почему на оси картонажной машины применяют зубчатый ремень, а не клиновой?
+Dlaczego na osi kartoniarki stosuje się pas zębaty zamiast klinowego?
+Miért fogasszíjat használnak ékszíj helyett a dobozológép tengelyén?
+¿Por qué se usa una correa dentada en lugar de una trapezoidal en un eje de estuchadora?
+
+#6376
+Elle ne peut pas glisser, donc les axes restent synchronisés
+Ela não pode escorregar, então os eixos ficam sincronizados
+它不会打滑，所以各轴保持同步
+Он не проскальзывает, поэтому оси остаются синхронными
+Nie może się ślizgać, więc osie pozostają zsynchronizowane
+Nem tud megcsúszni, így a tengelyek szinkronban maradnak
+No puede patinar, así que los ejes siguen sincronizados
+
+#6377
+Elle est moins chère
+É mais barata
+它更便宜
+Он дешевле
+Jest tańszy
+Olcsóbb
+Es más barata
+
+#6378
+Elle n'a pas besoin de tension
+Não precisa de tensão
+它不需要张紧
+Ему не нужно натяжение
+Nie wymaga naciągu
+Nem kell feszíteni
+No necesita tensión
+
+#6379
+Elle chauffe davantage
+Ela esquenta mais
+它运行时更热
+Он сильнее греется
+Bardziej się grzeje
+Jobban melegszik
+Se calienta más
+
+#6380
+Comment monter une courroie crantée neuve ?
+Como deve ser montada uma correia sincronizadora nova?
+新同步带应该怎样安装？
+Как правильно надеть новый зубчатый ремень?
+Jak należy założyć nowy pas zębaty?
+Hogyan kell felszerelni egy új fogasszíjat?
+¿Cómo se debe montar una correa dentada nueva?
+
+#6381
+Détendre le galet ou réduire l'entraxe, ne jamais la faire passer au levier par-dessus un flasque
+Afrouxar a polia tensora ou a distância entre centros, nunca forçá-la com alavanca por cima de um flange
+松开惰轮或缩短中心距，绝不用撬棍把它撬过挡边
+Ослабить ролик или уменьшить межосевое расстояние, никогда не надевать его через реборду рычагом
+Poluzować rolkę lub zmniejszyć rozstaw osi, nigdy nie podważać go przez obrzeże
+Lazítsa meg a feszítőgörgőt vagy csökkentse a tengelytávot, soha ne feszítse át a peremen szerszámmal
+Aflojar el rodillo tensor o la distancia entre centros, nunca hacerla pasar por encima de una pestaña con palanca
+
+#6382
+La faire passer au levier par-dessus le flasque
+Forçá-la com alavanca por cima do flange
+用撬棍把它撬过挡边
+Надеть через реборду рычагом
+Podważyć go przez obrzeże
+Szerszámmal átfeszíteni a peremen
+Hacerla pasar por encima de la pestaña con palanca
+
+#6383
+La chauffer d'abord
+Aquecê-la primeiro
+先加热
+Сначала нагреть его
+Najpierw go podgrzać
+Előbb felmelegíteni
+Calentarla primero
+
+#6384
+La plier en deux pour la monter
+Dobrá-la ao meio para encaixar
+对折后装上去
+Сложить пополам, чтобы надеть
+Złożyć go na pół, aby założyć
+Félbehajtani, hogy felmenjen
+Doblarla por la mitad para montarla
+
+#6385
+Arbre claveté (clavette, circlip, bague d'arrêt)
+Eixo com chaveta (chaveta, anel elástico, colar)
+带键轴（键、卡簧、轴环）
+Вал со шпонкой (шпонка, стопорное кольцо, установочное кольцо)
+Wał z wpustem (wpust, pierścień Segera, pierścień ustalający)
+Reteszes tengely (retesz, Seeger-gyűrű, állítógyűrű)
+Eje chavetado (chaveta, anillo elástico, collarín)
+
+#6386
+Un arbre relié à un moyeu (engrenage, poulie, accouplement) par une clavette parallèle ; un circlip et une bague d'arrêt fixent le moyeu le long de l'arbre.
+Um eixo ligado a um cubo (engrenagem, polia, acoplamento) por uma chaveta paralela; um anel elástico e um colar fixam o cubo ao longo do eixo.
+轴通过平键与轮毂（齿轮、皮带轮、联轴器）连接；卡簧和轴环把轮毂沿轴向固定。
+Вал, соединённый со ступицей (шестерня, шкив, муфта) призматической шпонкой; стопорное кольцо и установочное кольцо фиксируют ступицу вдоль вала.
+Wał połączony z piastą (koło zębate, koło pasowe, sprzęgło) wpustem pryzmatycznym; pierścień Segera i pierścień ustalający ustalają piastę wzdłuż wału.
+Párhuzamos retesszel agyhoz (fogaskerék, szíjtárcsa, tengelykapcsoló) kötött tengely; egy Seeger-gyűrű és egy állítógyűrű rögzíti az agyat a tengely mentén.
+Un eje unido a un cubo (engranaje, polea, acoplamiento) mediante una chaveta paralela; un anillo elástico y un collarín fijan el cubo a lo largo del eje.
+
+#6387
+Chaque arbre de moteur, réducteur, pompe et convoyeur du site porte des moyeux clavetés.
+Todo eixo de motor, redutor, bomba e transportador da planta tem cubos com chaveta.
+厂内每根电机、减速箱、泵和输送机轴上都装有带键的轮毂。
+Каждый вал двигателя, редуктора, насоса и конвейера на площадке несёт ступицы на шпонках.
+Każdy wał silnika, przekładni, pompy i przenośnika w zakładzie ma piasty na wpust.
+Az üzem minden motor-, hajtómű-, szivattyú- és szállítószalag-tengelyén reteszes agyak vannak.
+Todos los ejes de motores, reductores, bombas y transportadores de la planta llevan cubos chavetados.
+
+#6388
+La clavette est à moitié dans la rainure de l'arbre et à moitié dans celle du moyeu et transmet le couple en cisaillement. La clavette ne tient pas le moyeu axialement : ce sont le circlip et la bague qui le font.
+A chaveta fica metade no rasgo do eixo e metade no rasgo do cubo e transmite o torque por cisalhamento. A chaveta não segura o cubo axialmente: quem faz isso são o anel elástico e o colar.
+键一半在轴的键槽里，一半在轮毂的键槽里，以受剪方式传递扭矩。键不能轴向固定轮毂：这要靠卡簧和轴环。
+Шпонка наполовину в пазу вала и наполовину в пазу ступицы и передаёт момент на срез. Шпонка не держит ступицу в осевом направлении: это делают стопорное и установочное кольца.
+Wpust siedzi w połowie w rowku wału i w połowie w rowku piasty i przenosi moment na ścinanie. Wpust nie trzyma piasty osiowo: robią to pierścień Segera i pierścień ustalający.
+A retesz félig a tengely, félig az agy reteszhornyában ül, és nyírással viszi át a nyomatékot. A retesz tengelyirányban nem tartja az agyat: ezt a Seeger-gyűrű és az állítógyűrű teszi.
+La chaveta va mitad en el chavetero del eje y mitad en el del cubo y transmite el par a cortadura. La chaveta no sujeta el cubo en sentido axial: lo hacen el anillo elástico y el collarín.
+
+#6389
+Clavette desserrée : corrosion de contact (poudre de rouille brun-rouge), rainures élargies et jeu, clavette cisaillée après un blocage, moyeu qui se déplace le long de l'arbre si le circlip manque ou si la vis de la bague est desserrée.
+Chaveta solta: corrosão por atrito (pó de ferrugem marrom-avermelhado), rasgos alargados e folga, chaveta cisalhada após um travamento, cubo andando ao longo do eixo quando falta o anel elástico ou o parafuso do colar está solto.
+键松动：微动磨损（红褐色锈粉）、键槽变宽和间隙、卡死后键被剪断、缺少卡簧或轴环螺钉松动时轮毂沿轴窜动。
+Ослабшая шпонка: фреттинг-коррозия (красно-коричневый ржавый порошок), разбитые пазы и люфт, срезанная шпонка после заклинивания, ступица смещается вдоль вала, если нет стопорного кольца или ослаб винт установочного кольца.
+Luźny wpust: korozja cierna (czerwonobrązowy proszek rdzy), rozbite rowki i luz, ścięty wpust po zakleszczeniu, piasta wędrująca po wale, gdy brakuje pierścienia Segera lub poluzował się wkręt pierścienia ustalającego.
+Laza retesz: illesztési korrózió (vörösesbarna rozsdapor), kitágult reteszhornyok és holtjáték, beszorulás után elnyíródott retesz, a tengelyen elvándorló agy, ha hiányzik a Seeger-gyűrű vagy laza az állítógyűrű csavarja.
+Chaveta floja: corrosión por fricción (polvo de óxido marrón rojizo), chaveteros ensanchados y holgura, chaveta cizallada tras un atasco, cubo que se desplaza por el eje si falta el anillo elástico o el tornillo del collarín está flojo.
+
+#6390
+Ajuster la clavette à la largeur de la rainure (montage au maillet léger, pas au marteau), vérifier qu'elle ne bascule pas, utiliser la bonne pince à circlips et loger complètement le circlip dans sa gorge, serrer la vis de la bague sur un méplat.
+Ajustar a chaveta à largura do rasgo (montagem com leves batidas, não a marteladas), verificar que não balança, usar o alicate de anel elástico correto e assentar o anel totalmente no canal, apertar o parafuso do colar sobre um rebaixo plano.
+按键槽宽度配键（轻敲装入，不要用锤子砸），确认键不晃动，用正确的卡簧钳并把卡簧完全卡入槽内，把轴环螺钉拧紧在轴的平面上。
+Подгонять шпонку по ширине паза (лёгкая посадка постукиванием, не забивать молотком), проверять, что она не качается, использовать правильные съёмники стопорных колец и полностью сажать кольцо в канавку, затягивать винт установочного кольца на лыску.
+Dopasować wpust do szerokości rowka (lekkie wbicie, nie młotkiem na siłę), sprawdzić, czy się nie kołysze, używać właściwych szczypiec do pierścieni Segera i osadzić pierścień całkowicie w rowku, dokręcać wkręt pierścienia ustalającego na spłaszczenie.
+A reteszt a horony szélességéhez illessze (enyhe ütögetéssel, ne kalapáccsal beverve), ellenőrizze, hogy nem billeg, használja a megfelelő Seeger-fogót, és a gyűrűt teljesen ültesse a hornyába, az állítógyűrű csavarját egy lelapolt felületre húzza meg.
+Ajustar la chaveta al ancho del chavetero (montaje con golpes suaves, no a martillazos), comprobar que no bascula, usar los alicates de anillos elásticos correctos y asentar el anillo por completo en su ranura, apretar el tornillo del collarín sobre un plano.
+
+#6391
+Arbre avec rainure de clavette et gorge
+Eixo com rasgo de chaveta e canal
+带键槽和卡簧槽的轴
+Вал со шпоночным пазом и канавкой
+Wał z rowkiem wpustowym i rowkiem pod pierścień
+Tengely reteszhoronnyal és gyűrűhoronnyal
+Eje con chavetero y ranura
+
+#6392
+Rainure de clavette fraisée pour la clavette et gorge tournée pour le circlip.
+Rasgo de chaveta fresado para a chaveta e canal torneado para o anel elástico.
+铣出的键槽用于装键，车出的槽用于装卡簧。
+Фрезерованный шпоночный паз для шпонки и проточенная канавка для стопорного кольца.
+Frezowany rowek wpustowy na wpust i toczony rowek na pierścień Segera.
+Mart reteszhorony a retesznek és esztergált horony a Seeger-gyűrűnek.
+Chavetero fresado para la chaveta y ranura torneada para el anillo elástico.
+
+#6393
+Bague d'arrêt
+Colar do eixo
+轴环
+Установочное кольцо
+Pierścień ustalający
+Állítógyűrű
+Collarín del eje
+
+#6394
+Bague avec une vis sans tête ; une butée fixe d'un côté du moyeu.
+Anel com um parafuso sem cabeça; um batente fixo de um lado do cubo.
+带紧定螺钉的环；在轮毂一侧作固定挡块。
+Кольцо с установочным винтом; неподвижный упор с одной стороны ступицы.
+Pierścień z wkrętem dociskowym; stały ogranicznik po jednej stronie piasty.
+Gyűrű hernyócsavarral; rögzített ütköző az agy egyik oldalán.
+Anillo con un prisionero; un tope fijo a un lado del cubo.
+
+#6395
+Vis sans tête de la bague
+Parafuso sem cabeça do colar
+轴环紧定螺钉
+Установочный винт кольца
+Wkręt dociskowy pierścienia
+Az állítógyűrű hernyócsavarja
+Prisionero del collarín
+
+#6396
+Vis sans tête à six pans creux qui bloque la bague sur l'arbre.
+Parafuso sem cabeça allen que prende o colar no eixo.
+把轴环锁紧在轴上的内六角紧定螺钉。
+Установочный винт под шестигранник, который зажимает кольцо на валу.
+Wkręt dociskowy z gniazdem sześciokątnym, który zaciska pierścień na wale.
+Belső kulcsnyílású hernyócsavar, amely a gyűrűt a tengelyre szorítja.
+Prisionero de cabeza hueca que fija el collarín al eje.
+
+#6397
+Clavette parallèle
+Chaveta paralela
+平键
+Призматическая шпонка
+Wpust pryzmatyczny
+Párhuzamos retesz
+Chaveta paralela
+
+#6398
+Clavette carrée en acier qui transmet le couple.
+Chaveta quadrada de aço que transmite o torque.
+传递扭矩的方形钢键。
+Квадратная стальная шпонка, передающая момент.
+Kwadratowy wpust stalowy przenoszący moment.
+Négyzetes acélretesz, amely a nyomatékot átviszi.
+Chaveta cuadrada de acero que transmite el par.
+
+#6399
+Moyeu d'engrenage avec rainure de clavette
+Cubo de engrenagem com rasgo de chaveta
+带键槽的齿轮轮毂
+Ступица шестерни со шпоночным пазом
+Piasta koła zębatego z rowkiem wpustowym
+Fogaskerékagy reteszhoronnyal
+Cubo de engranaje con chavetero
+
+#6400
+Moyeu alésé au diamètre de l'arbre avec une rainure de clavette correspondante.
+Cubo furado na medida do eixo, com rasgo de chaveta correspondente.
+按轴径镗孔的轮毂，带相配的键槽。
+Ступица, расточенная под вал, с ответным шпоночным пазом.
+Piasta wytoczona pod wał z pasującym rowkiem wpustowym.
+A tengelyhez kifúrt agy, hozzá illő reteszhoronnyal.
+Cubo mandrinado a la medida del eje con un chavetero a juego.
+
+#6401
+Circlip extérieur
+Anel elástico externo
+轴用卡簧
+Наружное стопорное кольцо
+Pierścień Segera zewnętrzny
+Külső Seeger-gyűrű
+Anillo elástico exterior
+
+#6402
+Anneau en acier à ressort dans la gorge de l'arbre ; empêche le moyeu de sortir.
+Anel de aço mola no canal do eixo; impede que o cubo saia.
+卡在轴槽里的弹簧钢环；防止轮毂滑出。
+Кольцо из пружинной стали в канавке вала; не даёт ступице соскочить.
+Pierścień ze stali sprężynowej w rowku wału; nie pozwala piaście zsunąć się.
+Rugóacél gyűrű a tengely hornyában; megakadályozza, hogy az agy lecsússzon.
+Anillo de acero de muelle en la ranura del eje; impide que el cubo se salga.
+
+#6403
+Quelle pièce transmet le couple de l'arbre au moyeu ?
+Qual peça transmite o torque do eixo para o cubo?
+哪个零件把扭矩从轴传到轮毂？
+Какая деталь передаёт момент с вала на ступицу?
+Która część przenosi moment z wału na piastę?
+Melyik alkatrész viszi át a nyomatékot a tengelyről az agyra?
+¿Qué pieza transmite el par del eje al cubo?
+
+#6404
+La bague d'arrêt
+O colar
+轴环
+Установочное кольцо
+Pierścień ustalający
+Az állítógyűrű
+El collarín
+
+#6405
+La vis sans tête
+O parafuso sem cabeça
+紧定螺钉
+Установочный винт
+Wkręt dociskowy
+A hernyócsavar
+El prisionero
+
+#6406
+Une poudre brun-rouge au niveau d'un moyeu sur un arbre signifie…
+Pó marrom-avermelhado num cubo sobre um eixo significa…
+轴上轮毂处出现红褐色粉末，意味着……
+Красно-коричневый порошок у ступицы на валу означает…
+Czerwonobrązowy proszek przy piaście na wale oznacza…
+Vörösesbarna por egy tengelyen lévő agynál azt jelenti…
+Polvo marrón rojizo en un cubo sobre un eje significa…
+
+#6407
+Corrosion de contact : l'ajustement ou la clavette a du jeu et les pièces frottent
+Corrosão por atrito: o ajuste ou a chaveta está folgado e as peças estão roçando
+微动磨损：配合或键松动，零件在相互摩擦
+Фреттинг-коррозия: посадка или шпонка ослабли, и детали трутся
+Korozja cierna: pasowanie lub wpust jest luźny i części się ocierają
+Illesztési korrózió: az illesztés vagy a retesz laza, és az alkatrészek dörzsölődnek
+Corrosión por fricción: el ajuste o la chaveta están flojos y las piezas rozan
+
+#6408
+La peinture s'écaille
+A tinta está descascando
+油漆在剥落
+Отслаивается краска
+Łuszczy się farba
+Hámlik a festék
+La pintura se está pelando
+
+#6409
+Couleur normale de la graisse
+Cor normal da graxa
+润滑脂的正常颜色
+Обычный цвет смазки
+Normalny kolor smaru
+A zsír normál színe
+Color normal de la grasa
+
+#6410
+L'arbre surchauffe à cause du courant
+O eixo está superaquecendo por corrente
+轴因电流而过热
+Вал перегревается от тока
+Wał przegrzewa się od prądu
+A tengely túlmelegszik az áramtól
+El eje se sobrecalienta por la corriente

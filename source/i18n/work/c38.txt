@@ -1,0 +1,1763 @@
+#4570
+Électrovanne 2/2 (à commande directe, NC)
+Válvula solenoide 2/2 (ação direta, NC)
+二位二通电磁阀 2/2（直动式，常闭 NC）
+Электромагнитный клапан 2/2 (прямого действия, NC)
+Zawór elektromagnetyczny 2/2 (bezpośredniego działania, NC)
+2/2-es mágnesszelep (közvetlen működésű, NC)
+Electroválvula 2/2 (accionamiento directo, NC)
+
+#4571
+Vanne tout-ou-rien à commande électrique. Une bobine soulève un noyau plongeur en acier d'un petit orifice ; un ressort le referme.
+Válvula liga/desliga de acionamento elétrico. Uma bobina puxa um êmbolo de aço para fora de um pequeno orifício; uma mola o fecha de novo.
+电动开关阀。线圈把钢制动铁芯从小孔上吸开；弹簧再把它关闭。
+Запорный клапан с электрическим управлением. Катушка поднимает стальной плунжер с маленького отверстия; пружина снова его закрывает.
+Zawór odcinający sterowany elektrycznie. Cewka odciąga stalowy rdzeń ruchomy od małej kryzy; sprężyna ponownie ją zamyka.
+Elektromos működtetésű nyitó-záró szelep. A tekercs felhúzza az acél mozgó vasmagot egy kis furatról; egy rugó újra lezárja.
+Válvula todo/nada de accionamiento eléctrico. Una bobina levanta un émbolo de acero de un pequeño orificio; un muelle lo vuelve a cerrar.
+
+#4572
+Dosage et ouverture/fermeture d'eau, d'air et de vapeur : eau de CIP, vapeur d'humidificateur, air de turbine d'enrobage, eau de refroidissement des machines, lignes de purge.
+Dosagem e liga/desliga de água, ar e vapor: água de CIP, vapor de umidificador, ar da drageadeira, água de resfriamento das máquinas, linhas de purga.
+水、气和蒸汽的定量与开关：CIP 用水、加湿器蒸汽、包衣锅用气、设备冷却水、吹扫管路。
+Дозирование и включение/отключение воды, воздуха и пара: вода CIP, пар увлажнителя, воздух дражировочного котла, охлаждающая вода машин, линии продувки.
+Dozowanie i otwieranie/zamykanie wody, powietrza i pary: woda CIP, para nawilżacza, powietrze do bębna powlekającego, woda chłodząca maszyn, linie przedmuchu.
+Víz, levegő és gőz adagolása és nyitása/zárása: CIP-víz, párásító gőz, bevonóüst levegője, gépek hűtővize, öblítővezetékek.
+Dosificación y apertura/cierre de agua, aire y vapor: agua de CIP, vapor del humidificador, aire del bombo de recubrimiento, agua de refrigeración de máquinas, líneas de purga.
+
+#4573
+Bobine hors tension : le ressort et la pression de ligne maintiennent le joint sur l'orifice. Bobine sous tension : le champ magnétique attire le noyau plongeur contre le noyau fixe et le fluide passe. La commande directe fonctionne dès 0 bar.
+Bobina desligada: a mola e a pressão da linha mantêm a vedação sobre o orifício. Bobina ligada: o campo magnético puxa o êmbolo até o núcleo fixo e o fluxo passa. A ação direta funciona a partir de 0 bar.
+线圈断电：弹簧和管路压力把密封压在孔口上。线圈通电：磁场把动铁芯向上吸到静铁芯，介质通过。直动式从 0 bar 起即可工作。
+Катушка обесточена: пружина и давление в линии прижимают уплотнение к отверстию. Катушка под напряжением: магнитное поле притягивает плунжер вверх к неподвижному сердечнику, и поток проходит. Клапан прямого действия работает от 0 bar.
+Cewka wyłączona: sprężyna i ciśnienie w linii dociskają uszczelkę do kryzy. Cewka włączona: pole magnetyczne podciąga rdzeń ruchomy do rdzenia nieruchomego i medium przepływa. Zawór bezpośredniego działania pracuje od 0 bar.
+Tekercs ki: a rugó és a vezetéknyomás a tömítést a furaton tartja. Tekercs be: a mágneses tér felhúzza a mozgó vasmagot az álló vasmaghoz, és az áramlás megindul. A közvetlen működésű szelep 0 bar-tól működik.
+Bobina sin tensión: el muelle y la presión de la línea mantienen la junta sobre el orificio. Bobina con tensión: el campo magnético atrae el émbolo hacia el núcleo fijo y el fluido pasa. El accionamiento directo funciona desde 0 bar.
+
+#4574
+Bobine grillée (circuit ouvert, odeur, couleur foncée), vanne qui ronfle ou vibre en courant alternatif (bague de déphasage cassée, saleté sous le noyau), fuite en position fermée (joint sale ou usé), noyau plongeur grippé.
+Bobina queimada (circuito aberto, cheiro, cor escura), válvula zumbindo ou vibrando em CA (anel de defasagem quebrado, sujeira sob o êmbolo), passagem quando fechada (vedação suja ou gasta), êmbolo travado.
+线圈烧毁（断路、有焦味、颜色发黑），交流电磁阀发出嗡嗡声或振动（短路环断裂、动铁芯下有脏物），关闭时内漏（密封脏污或磨损），动铁芯卡死。
+Катушка сгорела (обрыв, запах, потемнение), клапан гудит или дребезжит на переменном токе (сломан короткозамкнутый виток, грязь под плунжером), пропуск в закрытом положении (грязное или изношенное уплотнение), заклинивший плунжер.
+Spalona cewka (przerwa w obwodzie, zapach, ciemny kolor), zawór buczy lub brzęczy przy zasilaniu AC (pęknięty pierścień zwarty, brud pod rdzeniem), przepuszcza w stanie zamkniętym (brudna lub zużyta uszczelka), zablokowany rdzeń.
+Kiégett tekercs (szakadás, szag, sötét szín), a szelep zúg vagy berreg AC-n (törött árnyékológyűrű, szennyeződés a vasmag alatt), zárt állapotban átenged (szennyezett vagy kopott tömítés), beragadt vasmag.
+Bobina quemada (circuito abierto, olor, color oscuro), la válvula zumba o vibra en CA (anillo de sombra roto, suciedad bajo el émbolo), fuga estando cerrada (junta sucia o gastada), émbolo atascado.
+
+#4575
+Vérifiez la tension et la résistance de la bobine, ne mettez jamais une bobine sous tension hors de son tube (elle grille), montez un filtre en amont, respectez la flèche dans le sens du flux, remplacez joint et noyau avec un kit de réparation.
+Verifique a tensão e a resistência da bobina, nunca energize uma bobina fora do tubo (ela queima), instale um filtro antes dela, mantenha a seta no sentido do fluxo, troque vedação e êmbolo com um kit de reparo.
+检查线圈电压和电阻；切勿在线圈未套在导管上时通电（会烧毁）；在阀前加装过滤器；箭头方向与流向一致；用维修包更换密封和动铁芯。
+Проверяйте напряжение и сопротивление катушки, никогда не подавайте питание на катушку, снятую с трубки (сгорит), ставьте перед клапаном сетчатый фильтр, стрелка — по потоку, меняйте уплотнение и плунжер из ремкомплекта.
+Sprawdź napięcie i rezystancję cewki, nigdy nie zasilaj cewki zdjętej z rurki (spali się), zamontuj przed zaworem filtr siatkowy, strzałka zgodnie z przepływem, uszczelkę i rdzeń wymieniaj z zestawu naprawczego.
+Ellenőrizze a tekercs feszültségét és ellenállását, soha ne helyezze feszültség alá a csőről levett tekercset (kiég), tegyen elé szűrőt, a nyíl az áramlás irányába mutasson, a tömítést és a vasmagot javítókészlettel cserélje.
+Compruebe la tensión y la resistencia de la bobina, nunca energice una bobina fuera de su tubo (se quema), instale un filtro antes de la válvula, mantenga la flecha en el sentido del flujo, sustituya junta y émbolo con un kit de reparación.
+
+#4576
+Corps en laiton avec les orifices de raccordement, l'orifice de passage et le siège.
+Corpo de latão com as conexões, o orifício e a sede.
+黄铜阀体，带接口、孔口和阀座。
+Латунный корпус с присоединительными отверстиями, проходным отверстием и седлом.
+Korpus mosiężny z przyłączami, kryzą i gniazdem.
+Sárgaréz ház a csatlakozókkal, a furattal és az üléssel.
+Cuerpo de latón con las conexiones, el orificio y el asiento.
+
+#4577
+Joint (bout du noyau)
+Vedação (ponta do êmbolo)
+密封（动铁芯端部）
+Уплотнение (наконечник плунжера)
+Uszczelka (końcówka rdzenia)
+Tömítés (vasmag vége)
+Junta (punta del émbolo)
+
+#4578
+Pastille en caoutchouc au bout du noyau qui ferme l'orifice.
+Pastilha de borracha na ponta do êmbolo que fecha o orifício.
+动铁芯端部的橡胶垫，用于封闭孔口。
+Резиновая вставка в наконечнике плунжера, закрывающая отверстие.
+Gumowa wkładka w końcówce rdzenia, która zamyka kryzę.
+Gumibetét a vasmag végén, amely lezárja a furatot.
+Pastilla de goma en la punta del émbolo que cierra el orificio.
+
+#4579
+Noyau plongeur (armature)
+Êmbolo (armadura)
+动铁芯（衔铁）
+Плунжер (якорь)
+Rdzeń ruchomy (zwora)
+Mozgó vasmag (horgony)
+Émbolo (armadura)
+
+#4580
+Noyau en inox magnétique qui coulisse dans le tube de guidage.
+Êmbolo de inox magnético que se move dentro do tubo guia.
+在导管内移动的导磁不锈钢动铁芯。
+Магнитный плунжер из нержавеющей стали, движущийся внутри направляющей трубки.
+Magnetyczny rdzeń ze stali nierdzewnej, poruszający się w rurce prowadzącej.
+Mágnesezhető rozsdamentes vasmag, amely a vezetőcsőben mozog.
+Émbolo de inoxidable magnético que se desplaza dentro del tubo guía.
+
+#4581
+Repousse le noyau vers le bas pour fermer quand la bobine est hors tension.
+Empurra o êmbolo para baixo para fechar quando a bobina está desligada.
+线圈断电时把动铁芯向下推，关闭阀门。
+Прижимает плунжер вниз и закрывает клапан, когда катушка обесточена.
+Dociska rdzeń w dół, zamykając zawór, gdy cewka jest wyłączona.
+Kikapcsolt tekercsnél lenyomja a vasmagot és zár.
+Empuja el émbolo hacia abajo para cerrar cuando la bobina está sin tensión.
+
+#4582
+Tube de guidage avec noyau fixe
+Tubo guia com núcleo fixo
+导管与静铁芯
+Направляющая трубка с неподвижным сердечником
+Rurka prowadząca z rdzeniem nieruchomym
+Vezetőcső álló vasmaggal
+Tubo guía con núcleo fijo
+
+#4583
+Tube inox étanche ; le noyau fixe en haut porte la bague de déphasage en cuivre pour le courant alternatif.
+Tubo de inox estanque; o núcleo fixo no topo leva o anel de defasagem de cobre para CA.
+密封的不锈钢管；顶部的静铁芯装有交流用的铜短路环。
+Герметичная трубка из нержавеющей стали; неподвижный сердечник сверху несёт медный короткозамкнутый виток для переменного тока.
+Szczelna rurka ze stali nierdzewnej; rdzeń nieruchomy u góry ma miedziany pierścień zwarty dla AC.
+Zárt rozsdamentes cső; a felső álló vasmagon van a réz árnyékológyűrű AC-hez.
+Tubo de inoxidable estanco; el núcleo fijo superior lleva el anillo de sombra de cobre para CA.
+
+#4584
+Bobinage en cuivre enrobé d'époxy ; s'enfile sur le tube de guidage. La tension y est imprimée.
+Enrolamento de cobre em epóxi; desliza sobre o tubo guia. A tensão vem impressa nela.
+环氧树脂封装的铜绕组；套在导管上。电压印在线圈上。
+Медная обмотка в эпоксидном компаунде; надевается на направляющую трубку. Напряжение указано на ней.
+Uzwojenie miedziane zalane epoksydem; nasuwane na rurkę prowadzącą. Napięcie jest na niej nadrukowane.
+Epoxiba ágyazott rézzekercs; a vezetőcsőre csúszik. A feszültség rá van nyomtatva.
+Bobinado de cobre en epoxi; se desliza sobre el tubo guía. La tensión viene impresa en ella.
+
+#4585
+Écrou de bobine
+Porca da bobina
+线圈螺母
+Гайка катушки
+Nakrętka cewki
+Tekercsrögzítő anya
+Tuerca de la bobina
+
+#4586
+Maintient la bobine sur le tube de guidage.
+Fixa a bobina no tubo guia.
+把线圈固定在导管上。
+Удерживает катушку на направляющей трубке.
+Utrzymuje cewkę na rurce prowadzącej.
+A tekercset a vezetőcsövön tartja.
+Sujeta la bobina en el tubo guía.
+
+#4587
+Connecteur (DIN)
+Conector de plugue (DIN)
+插头连接器（DIN）
+Штекерный разъём (DIN)
+Złącze wtykowe (DIN)
+Csatlakozódugó (DIN)
+Conector enchufable (DIN)
+
+#4588
+Fiche avec joint et vis ; amène l'alimentation aux broches de la bobine.
+Plugue com junta e parafuso; leva a alimentação aos pinos da bobina.
+带密封垫和螺钉的插头；把电源送到线圈插针。
+Разъём с прокладкой и винтом; подводит питание к контактам катушки.
+Wtyczka z uszczelką i śrubą; doprowadza zasilanie do styków cewki.
+Dugó tömítéssel és csavarral; a tápot a tekercs érintkezőire vezeti.
+Conector con junta y tornillo; lleva la alimentación a los pines de la bobina.
+
+#4589
+Sous tension / hors tension
+Energizar / desligar
+通电 / 断电
+Подать питание / снять
+Zasil / wyłącz
+Bekapcsolás / ki
+Energizar / apagar
+
+#4590
+Une électrovanne en courant alternatif ronfle fort quand elle est sous tension. Cause probable ?
+Uma válvula solenoide CA zumbe alto quando energizada. Causa provável?
+交流电磁阀通电时嗡嗡声很大。可能原因？
+Электромагнитный клапан переменного тока громко гудит под напряжением. Вероятная причина?
+Zawór elektromagnetyczny AC głośno buczy po zasileniu. Prawdopodobna przyczyna?
+Egy AC mágnesszelep bekapcsolva hangosan zúg. Valószínű ok?
+Una electroválvula de CA zumba fuerte al energizarla. ¿Causa probable?
+
+#4591
+Bague de déphasage cassée ou saleté empêchant le noyau de fermer l'entrefer
+Anel de defasagem quebrado ou sujeira impede o êmbolo de fechar o entreferro
+短路环断裂或有脏物，使动铁芯无法吸合到位
+Сломан короткозамкнутый виток или грязь не даёт плунжеру закрыть зазор
+Pęknięty pierścień zwarty lub brud nie pozwala rdzeniowi zamknąć szczeliny
+Törött árnyékológyűrű vagy szennyeződés miatt a vasmag nem zárja a légrést
+Anillo de sombra roto o suciedad que impide al émbolo cerrar el entrehierro
+
+#4592
+Uniquement une tension d'alimentation trop élevée
+Apenas tensão de alimentação alta demais
+仅仅是电源电压过高
+Только слишком высокое напряжение питания
+Wyłącznie zbyt wysokie napięcie zasilania
+Csak a túl magas tápfeszültség
+Solo una tensión de alimentación demasiado alta
+
+#4593
+Mauvais sens de flux
+Sentido de fluxo errado
+流向装反
+Неправильное направление потока
+Zły kierunek przepływu
+Rossz áramlási irány
+Sentido de flujo incorrecto
+
+#4594
+Le joint du connecteur manque
+Falta a junta do conector
+连接器密封垫缺失
+Отсутствует прокладка разъёма
+Brak uszczelki złącza
+Hiányzik a csatlakozó tömítése
+Falta la junta del conector
+
+#4595
+Pourquoi ne faut-il jamais mettre une bobine sous tension hors de la vanne ?
+Por que nunca se deve energizar uma bobina fora da válvula?
+为什么线圈绝不能在脱离阀门时通电？
+Почему нельзя подавать питание на катушку, снятую с клапана?
+Dlaczego nigdy nie wolno zasilać cewki zdjętej z zaworu?
+Miért nem szabad soha a szelepről levett tekercset feszültség alá helyezni?
+¿Por qué nunca se debe energizar una bobina fuera de la válvula?
+
+#4596
+Sans circuit magnétique en fer, le courant reste élevé et la bobine grille
+Sem o caminho de ferro a corrente fica alta e a bobina queima
+没有铁芯磁路，电流一直偏大，线圈会烧毁
+Без железного магнитопровода ток остаётся большим, и катушка сгорает
+Bez obwodu żelaznego prąd pozostaje wysoki i cewka się spala
+Vas mágneskör nélkül az áram nagy marad, és a tekercs kiég
+Sin el circuito de hierro la corriente sigue alta y la bobina se quema
+
+#4597
+Elle peut être éjectée
+Ela pode sair voando
+它会飞出去
+Она может отлететь
+Może odskoczyć
+Leugorhat
+Puede salir despedida
+
+#4598
+Elle perd son aimant
+Ela perde o ímã
+它会失去磁性
+Она теряет магнит
+Traci magnes
+Elveszíti a mágnesét
+Pierde su imán
+
+#4599
+Il ne se passe rien
+Nada acontece
+什么也不会发生
+Ничего не происходит
+Nic się nie dzieje
+Semmi sem történik
+No pasa nada
+
+#4600
+NC signifie…
+NC significa…
+NC 的意思是…
+NC означает…
+NC oznacza…
+Az NC jelentése…
+NC significa…
+
+#4601
+Fermée sans alimentation
+Fechada sem energia
+不通电时关闭
+Закрыт без питания
+Zamknięty bez zasilania
+Áram nélkül zárva
+Cerrada sin alimentación
+
+#4602
+Fermée avec alimentation
+Fechada com energia
+通电时关闭
+Закрыт под питанием
+Zamknięty przy zasilaniu
+Árammal zárva
+Cerrada con alimentación
+
+#4603
+Sans bobine
+Sem bobina
+没有线圈
+Без катушки
+Bez cewki
+Nincs tekercs
+Sin bobina
+
+#4604
+Ne nécessite pas de câble
+Não precisa de cabo
+不需要电缆
+Не нужен кабель
+Nie wymaga kabla
+Nem kell hozzá kábel
+No necesita cable
+
+#4605
+Distributeur 5/2 (monostable, rappel par ressort)
+Válvula 5/2 (simples solenoide, retorno por mola)
+5/2 换向阀（单电控，弹簧复位）
+Распределитель 5/2 (с одним электромагнитом, пружинный возврат)
+Zawór 5/2 (jedna cewka, powrót sprężyną)
+5/2-es szelep (egy mágnestekercs, rugós visszaállítás)
+Válvula 5/2 (monoestable, retorno por muelle)
+
+#4606
+Distributeur à 5 orifices et 2 positions. Un tiroir coulissant relie l'alimentation à une chambre du vérin et met l'autre à l'échappement.
+Válvula direcional com 5 vias e 2 posições. Um carretel deslizante liga a alimentação a um lado do cilindro e escapa o outro.
+5 个接口、2 个位置的换向阀。滑动阀芯把气源接到气缸一侧，另一侧排气。
+Распределитель с 5 линиями и 2 позициями. Подвижный золотник соединяет питание с одной полостью цилиндра, а другую — с выхлопом.
+Zawór rozdzielający z 5 przyłączami i 2 położeniami. Przesuwny suwak łączy zasilanie z jedną stroną siłownika, a drugą odpowietrza.
+Útszelep 5 csatlakozással és 2 állással. Egy csúszó tolattyú a tápot a henger egyik oldalára köti, a másikat légteleníti.
+Válvula distribuidora de 5 vías y 2 posiciones. Una corredera deslizante conecta la alimentación a un lado del cilindro y descarga el otro.
+
+#4607
+Commande les vérins double effet des machines de conditionnement : poussoirs d'encartonneuse, alimentateurs de blisters, portes d'éjection, manipulation d'étiquettes et de gélules.
+Aciona cilindros de dupla ação nas máquinas de embalagem: empurradores da encartuchadeira, alimentadores de blíster, portas de rejeito, manuseio de rótulos e cápsulas.
+驱动包装机上的双作用气缸：装盒机推杆、泡罩供料器、剔除门、标签和胶囊的搬运。
+Управляет цилиндрами двустороннего действия на упаковочных машинах: толкатели картонажной машины, подачи блистеров, заслонки отбраковки, работа с этикетками и капсулами.
+Steruje siłownikami dwustronnego działania w maszynach pakujących: popychacze kartoniarki, podajniki blistrów, klapy odrzutu, obsługa etykiet i kapsułek.
+Kettős működésű hengereket vezérel a csomagológépeken: dobozológép tolói, buborékfólia-adagolók, selejtkapuk, címke- és kapszulakezelés.
+Acciona cilindros de doble efecto en máquinas de envasado: empujadores de estuchadora, alimentadores de blísteres, compuertas de rechazo, manejo de etiquetas y cápsulas.
+
+#4608
+Orifice 1 = alimentation, 2 et 4 = sorties, 3 et 5 = échappements. Au repos, le ressort relie 1 à 2 et 4 à 5. L'électrovanne ouvre un petit pilote, l'air de pilotage pousse le piston et le tiroir : 1 vers 4 et 2 vers 3.
+Via 1 = alimentação, 2 e 4 = saídas, 3 e 5 = escapes. Em repouso a mola mantém 1 com 2 e 4 com 5. O solenoide abre um pequeno piloto, o ar de pilotagem empurra o pistão e o carretel: 1 com 4 e 2 com 3.
+1 口 = 进气，2 和 4 = 输出口，3 和 5 = 排气口。静止时弹簧保持 1 通 2、4 通 5。电磁铁打开小先导阀，先导气推动活塞和阀芯换向：1 通 4、2 通 3。
+Линия 1 = питание, 2 и 4 = выходы, 3 и 5 = выхлопы. В покое пружина держит 1 на 2 и 4 на 5. Электромагнит открывает небольшой пилот, управляющий воздух сдвигает поршень и золотник: 1 на 4 и 2 на 3.
+Przyłącze 1 = zasilanie, 2 i 4 = wyjścia, 3 i 5 = wydechy. W spoczynku sprężyna utrzymuje 1 z 2 i 4 z 5. Cewka otwiera mały pilot, powietrze sterujące przesuwa tłoczek i suwak: 1 z 4 i 2 z 3.
+1-es csatlakozó = táp, 2 és 4 = kimenetek, 3 és 5 = kipufogók. Nyugalomban a rugó 1-et 2-vel és 4-et 5-tel köti össze. A mágnestekercs egy kis elővezérlést nyit, a vezérlőlevegő átnyomja a dugattyút és a tolattyút: 1 a 4-re és 2 a 3-ra.
+Vía 1 = alimentación, 2 y 4 = salidas, 3 y 5 = escapes. En reposo el muelle mantiene 1 con 2 y 4 con 5. El solenoide abre un pequeño piloto, el aire de pilotaje desplaza el pistón y la corredera: 1 con 4 y 2 con 3.
+
+#4609
+Air qui souffle en permanence par un échappement (joints de tiroir usés), le distributeur ne commute pas (pression de pilotage faible, saleté, bobine grillée), tiroir collant à cause d'huile ou d'eau dans l'air.
+Ar soprando o tempo todo por um escape (vedações do carretel gastas), válvula não comuta (pressão de pilotagem baixa, sujeira, bobina queimada), carretel preso por óleo ou água no ar.
+排气口持续漏气（阀芯密封磨损），阀不换向（先导压力低、脏物、线圈烧毁），气源中有油或水导致阀芯发黏。
+Постоянная утечка воздуха из выхлопа (изношены уплотнения золотника), распределитель не переключается (низкое управляющее давление, грязь, сгоревшая катушка), залипание золотника от масла или воды в воздухе.
+Powietrze stale uchodzi z wydechu (zużyte uszczelki suwaka), zawór nie przełącza (niskie ciśnienie sterujące, brud, spalona cewka), suwak klei się od oleju lub wody w powietrzu.
+Egy kipufogón folyamatosan fúj a levegő (kopott tolattyútömítések), a szelep nem vált (alacsony vezérlőnyomás, szennyeződés, kiégett tekercs), a tolattyú beragad a levegőben lévő olajtól vagy víztől.
+Aire que sale continuamente por un escape (juntas de la corredera gastadas), la válvula no conmuta (presión de pilotaje baja, suciedad, bobina quemada), corredera pegajosa por aceite o agua en el aire.
+
+#4610
+Testez avec le bouton de commande manuelle, vérifiez la LED et la tension de bobine, gardez l'air sec et filtré, remplacez les silencieux bouchés, changez le kit de joints quand les échappements fuient.
+Teste com o botão de acionamento manual, verifique o LED e a tensão da bobina, mantenha o ar seco e filtrado, troque silenciadores entupidos, troque o kit de vedações quando os escapes vazarem.
+用手动按钮测试，检查 LED 和线圈电压，保持气源干燥、过滤，消声器堵塞时更换，排气口漏气时更换密封包。
+Проверяйте кнопкой ручного дублирования, контролируйте светодиод и напряжение катушки, держите воздух сухим и отфильтрованным, меняйте забитые глушители, меняйте комплект уплотнений при утечке через выхлопы.
+Testuj przyciskiem ręcznego sterowania, sprawdzaj diodę LED i napięcie cewki, utrzymuj powietrze suche i przefiltrowane, wymieniaj zatkane tłumiki, wymień zestaw uszczelek, gdy wydechy przepuszczają.
+Teszteljen a kézi működtető gombbal, ellenőrizze a LED-et és a tekercsfeszültséget, a levegő legyen száraz és szűrt, cserélje az eltömődött hangtompítókat, szivárgó kipufogóknál cserélje a tömítéskészletet.
+Pruebe con el botón de accionamiento manual, compruebe el LED y la tensión de la bobina, mantenga el aire seco y filtrado, cambie los silenciadores obstruidos, cambie el kit de juntas cuando los escapes fuguen.
+
+#4611
+Corps en aluminium avec l'alésage du tiroir et les orifices 1 à 5.
+Corpo de alumínio com o furo do carretel e as vias 1 a 5.
+铝制阀体，带阀芯孔和 1 至 5 号接口。
+Алюминиевый корпус с отверстием под золотник и линиями от 1 до 5.
+Korpus aluminiowy z otworem suwaka i przyłączami od 1 do 5.
+Alumínium ház a tolattyúfurattal és az 1-től 5-ig számozott csatlakozókkal.
+Cuerpo de aluminio con el alojamiento de la corredera y las vías 1 a 5.
+
+#4612
+Tiroir
+Carretel
+阀芯
+Золотник
+Suwak
+Tolattyú
+Corredera
+
+#4613
+Les portées obturent, les gorges relient les orifices voisins.
+Os ressaltos bloqueiam, os canais ligam as vias vizinhas.
+台肩起隔断作用，凹槽连通相邻接口。
+Пояски перекрывают, проточки соединяют соседние линии.
+Kołnierze odcinają, rowki łączą sąsiednie przyłącza.
+A vállak zárnak, a hornyok összekötik a szomszédos csatlakozókat.
+Los resaltes bloquean, las ranuras conectan las vías vecinas.
+
+#4614
+Joints de tiroir
+Vedações do carretel
+阀芯密封
+Уплотнения золотника
+Uszczelki suwaka
+Tolattyútömítések
+Juntas de la corredera
+
+#4615
+Les joints toriques sur les portées assurent l'étanchéité entre les orifices.
+Anéis O-ring nos ressaltos vedam entre as vias.
+台肩上的 O 形圈在各接口之间密封。
+Уплотнительные кольца на поясках герметизируют пространство между линиями.
+O-ringi na kołnierzach uszczelniają między przyłączami.
+A vállakon lévő O-gyűrűk tömítenek a csatlakozók között.
+Las juntas tóricas de los resaltes sellan entre las vías.
+
+#4616
+Piston de pilotage
+Pistão de pilotagem
+先导活塞
+Управляющий поршень
+Tłoczek sterujący
+Vezérlődugattyú
+Pistón de pilotaje
+
+#4617
+L'air de pilotage sur ce piston fait basculer le tiroir.
+O ar de pilotagem neste pistão empurra o carretel.
+先导气作用于该活塞，推动阀芯换向。
+Управляющий воздух на этот поршень сдвигает золотник.
+Powietrze sterujące na tym tłoczku przesuwa suwak.
+A dugattyúra jutó vezérlőlevegő átnyomja a tolattyút.
+El aire de pilotaje sobre este pistón desplaza la corredera.
+
+#4618
+Repousse le tiroir quand l'électroaimant est hors tension.
+Empurra o carretel de volta quando o solenoide está desligado.
+电磁铁断电时把阀芯推回。
+Возвращает золотник, когда электромагнит обесточен.
+Cofa suwak, gdy cewka jest wyłączona.
+Kikapcsolt mágnesnél visszatolja a tolattyút.
+Devuelve la corredera cuando el solenoide está sin tensión.
+
+#4619
+Couvercle (côté ressort)
+Tampa (lado da mola)
+端盖（弹簧侧）
+Торцевая крышка (со стороны пружины)
+Pokrywa (strona sprężyny)
+Zárófedél (rugó oldal)
+Tapa (lado del muelle)
+
+#4620
+Ferme l'alésage et maintient le ressort.
+Fecha o furo e segura a mola.
+封闭阀孔并支撑弹簧。
+Закрывает отверстие и удерживает пружину.
+Zamyka otwór i utrzymuje sprężynę.
+Lezárja a furatot és tartja a rugót.
+Cierra el alojamiento y sujeta el muelle.
+
+#4621
+Couvercle de pilotage
+Tampa do piloto
+先导端盖
+Крышка пилота
+Pokrywa pilota
+Vezérlőoldali fedél
+Tapa del piloto
+
+#4622
+Abrite le piston de pilotage.
+Aloja o pistão de pilotagem.
+内装先导活塞。
+В ней находится управляющий поршень.
+Mieści tłoczek sterujący.
+Ebben van a vezérlődugattyú.
+Aloja el pistón de pilotaje.
+
+#4623
+Pilote électrique avec commande manuelle
+Piloto solenoide com acionamento manual
+带手动按钮的电磁先导阀
+Электромагнитный пилот с ручным дублированием
+Pilot elektromagnetyczny z ręcznym sterowaniem
+Mágneses elővezérlés kézi működtetéssel
+Piloto solenoide con accionamiento manual
+
+#4624
+Petite électrovanne qui envoie l'air de pilotage ; le bouton la commute à la main.
+Pequena válvula solenoide que envia o ar de pilotagem; o botão a comuta manualmente.
+发送先导气的小型电磁阀；按钮可手动换向。
+Небольшой электромагнитный клапан, подающий управляющий воздух; кнопка переключает его вручную.
+Mały zawór elektromagnetyczny podający powietrze sterujące; przycisk przełącza go ręcznie.
+Kis mágnesszelep, amely a vezérlőlevegőt adja; a gomb kézzel átváltja.
+Pequeña electroválvula que envía el aire de pilotaje; el botón la conmuta a mano.
+
+#4625
+Raccords instantanés (orifices 2, 4)
+Conexões instantâneas (vias 2, 4)
+快插接头（2、4 口）
+Цанговые фитинги (линии 2, 4)
+Złączki wtykowe (przyłącza 2, 4)
+Dugaszolható csatlakozók (2, 4)
+Racores instantáneos (vías 2, 4)
+
+#4626
+Sorties vers le vérin : 4 va d'un côté, 2 de l'autre.
+Saídas para o cilindro: a 4 vai para um lado, a 2 para o outro.
+通往气缸的输出口：4 口接一侧，2 口接另一侧。
+Выходы на цилиндр: 4 идёт в одну полость, 2 — в другую.
+Wyjścia do siłownika: 4 idzie na jedną stronę, 2 na drugą.
+Kimenetek a hengerhez: a 4 az egyik oldalra megy, a 2 a másikra.
+Salidas al cilindro: la 4 va a un lado, la 2 al otro.
+
+#4627
+Raccord d'alimentation (orifice 1)
+Conexão de alimentação (via 1)
+进气接头（1 口）
+Фитинг питания (линия 1)
+Złączka zasilania (przyłącze 1)
+Tápcsatlakozó (1)
+Racor de alimentación (vía 1)
+
+#4628
+Entrée d'air comprimé.
+Entrada de ar comprimido.
+压缩空气进口。
+Вход сжатого воздуха.
+Wlot sprężonego powietrza.
+Sűrített levegő be.
+Entrada de aire comprimido.
+
+#4629
+Silencieux d'échappement (orifices 3, 5)
+Silenciadores de escape (vias 3, 5)
+排气消声器（3、5 口）
+Глушители выхлопа (линии 3, 5)
+Tłumiki wydechu (przyłącza 3, 5)
+Kipufogó hangtompítók (3, 5)
+Silenciadores de escape (vías 3, 5)
+
+#4630
+Bouchons en bronze fritté qui atténuent le bruit d'échappement.
+Tampões de bronze sinterizado que reduzem o ruído do escape.
+烧结青铜塞，降低排气噪声。
+Пробки из спечённой бронзы, глушащие выхлоп.
+Korki ze spiekanego brązu wyciszające wydech.
+Szinterelt bronz dugók, amelyek csillapítják a kipufogó zaját.
+Tapones de bronce sinterizado que silencian el escape.
+
+#4631
+Sur un distributeur 5/2, l'orifice 1 est…
+Numa válvula 5/2, a via 1 é…
+在 5/2 阀上，1 口是…
+У распределителя 5/2 линия 1 — это…
+W zaworze 5/2 przyłącze 1 to…
+Egy 5/2-es szelepen az 1-es csatlakozó…
+En una válvula 5/2, la vía 1 es…
+
+#4632
+L'alimentation (entrée d'air comprimé)
+Alimentação (entrada de ar comprimido)
+进气（压缩空气进口）
+Питание (вход сжатого воздуха)
+Zasilanie (wlot sprężonego powietrza)
+a táp (sűrített levegő be)
+Alimentación (entrada de aire comprimido)
+
+#4633
+L'échappement
+Escape
+排气口
+Выхлоп
+Wydech
+a kipufogó
+Escape
+
+#4634
+La sortie vers le vérin
+Saída para o cilindro
+通往气缸的输出口
+Выход на цилиндр
+Wyjście do siłownika
+a henger felé menő kimenet
+Salida al cilindro
+
+#4635
+Uniquement le pilote
+Só o piloto
+仅用于先导
+Только пилот
+Tylko pilot
+csak vezérlés
+Solo el piloto
+
+#4636
+De l'air sort en continu d'un silencieux alors que le vérin est arrêté. Cause probable ?
+O ar sopra continuamente por um silenciador com o cilindro parado. Provável?
+气缸停止时，一个消声器持续排气。可能原因？
+При остановленном цилиндре воздух постоянно выходит из одного глушителя. Вероятно?
+Przy zatrzymanym siłowniku z jednego tłumika stale uchodzi powietrze. Prawdopodobnie?
+Álló hengernél az egyik hangtompítóból folyamatosan fúj a levegő. Valószínű ok?
+Sale aire continuamente por un silenciador con el cilindro parado. ¿Causa probable?
+
+#4637
+Joint de tiroir usé ou joint de piston du vérin qui fuit
+Vedação do carretel gasta ou vedação do pistão do cilindro vazando
+阀芯密封磨损或气缸活塞密封泄漏
+Изношено уплотнение золотника или течёт уплотнение поршня цилиндра
+Zużyta uszczelka suwaka lub nieszczelna uszczelka tłoka siłownika
+Kopott tolattyútömítés vagy szivárgó hengerdugattyú-tömítés
+Junta de la corredera gastada o junta del pistón del cilindro con fuga
+
+#4638
+Pression d'alimentation trop basse
+Pressão de alimentação baixa demais
+供气压力过低
+Слишком низкое давление питания
+Zbyt niskie ciśnienie zasilania
+Túl alacsony tápnyomás
+Presión de alimentación demasiado baja
+
+#4639
+Silencieux bouché
+Silenciador entupido
+消声器堵塞
+Забит глушитель
+Zatkany tłumik
+Eltömődött hangtompító
+Silenciador obstruido
+
+#4640
+La bobine est HS mais vous devez déplacer le vérin pour un contrôle. Vous utilisez…
+A bobina está queimada, mas você precisa mover o cilindro para uma verificação. Você usa…
+线圈已坏，但检查时必须让气缸动作。你应使用…
+Катушка неисправна, но для проверки нужно переместить цилиндр. Вы используете…
+Cewka jest uszkodzona, ale do sprawdzenia trzeba poruszyć siłownikiem. Używasz…
+A tekercs tönkrement, de ellenőrzéshez mozgatni kell a hengert. Ezt használja…
+La bobina está averiada pero debe mover el cilindro para una comprobación. Usa…
+
+#4641
+Le bouton de commande manuelle (protecteurs en place et zone sécurisée)
+O botão de acionamento manual (com proteções e área seguras)
+手动按钮（防护装置到位、区域安全）
+Кнопку ручного дублирования (ограждения на месте, зона безопасна)
+Przycisk ręcznego sterowania (osłony i strefa zabezpieczone)
+a kézi működtető gombot (védőburkolatok és terület biztonságban)
+El botón de accionamiento manual (con las protecciones y la zona seguras)
+
+#4642
+Un tournevis sur le tiroir
+Uma chave de fenda no carretel
+用螺丝刀顶阀芯
+Отвёртку на золотник
+Śrubokręt na suwak
+egy csavarhúzót a tolattyún
+Un destornillador sobre la corredera
+
+#4643
+Retirer le silencieux
+Retirar o silenciador
+拆下消声器
+Снять глушитель
+Wykręcenie tłumika
+a hangtompító kiszerelését
+Quitar el silenciador
+
+#4644
+Augmenter la pression
+Aumentar a pressão
+提高压力
+Повысить давление
+Podniesienie ciśnienia
+a nyomás emelését
+Subir la presión
+
+#4645
+Vérin pneumatique (ISO 15552, double effet)
+Cilindro pneumático (ISO 15552, dupla ação)
+气缸（ISO 15552，双作用）
+Пневмоцилиндр (ISO 15552, двустороннего действия)
+Siłownik pneumatyczny (ISO 15552, dwustronnego działania)
+Pneumatikus munkahenger (ISO 15552, kettős működésű)
+Cilindro neumático (ISO 15552, doble efecto)
+
+#4646
+Actionneur linéaire : l'air d'un côté du piston fait sortir la tige, l'air de l'autre côté la fait rentrer.
+Atuador linear: ar de um lado do pistão empurra a haste para fora, ar do outro lado a recolhe.
+直线执行器：活塞一侧进气推出活塞杆，另一侧进气将其拉回。
+Линейный привод: воздух с одной стороны поршня выдвигает шток, с другой — втягивает.
+Napęd liniowy: powietrze z jednej strony tłoka wysuwa tłoczysko, z drugiej je wsuwa.
+Lineáris hajtás: a dugattyú egyik oldalán a levegő kitolja a rudat, a másikon behúzza.
+Actuador lineal: el aire en un lado del pistón saca el vástago, el aire en el otro lado lo recoge.
+
+#4647
+Poussoirs, élévateurs, portes et serrages sur encartonneuses, blistéreuses et encaisseuses, protecteurs de presses à comprimés, registres de dépoussiéreurs.
+Empurradores, elevadores, portas e grampos em encartuchadeiras, blisteradeiras e encaixotadoras, proteções de compressoras, dampers de coletores de pó.
+装盒机、泡罩包装机和装箱机上的推杆、升降、门和夹紧，压片机防护罩，除尘器风门。
+Толкатели, подъёмники, заслонки и зажимы на картонажных, блистерных и коробочных машинах, ограждения таблеточных прессов, заслонки пылеуловителей.
+Popychacze, podnośniki, klapy i zaciski w kartoniarkach, blistrownicach i pakowaczkach zbiorczych, osłony tabletkarek, przepustnice odpylaczy.
+Tolók, emelők, kapuk és szorítók dobozológépeken, buborékcsomagolókon és gyűjtőcsomagolókon, tablettaprés-védőburkolatok, porleválasztó csappantyúk.
+Empujadores, elevadores, compuertas y pinzas en estuchadoras, blisteadoras y encajadoras, protecciones de prensas de comprimidos, compuertas de colectores de polvo.
+
+#4648
+Force = pression x surface du piston (alésage 50 à 6 bar ≈ 1,2 kN en sortie). En fin de course, les nez d'amortissement entrent dans les joints d'amortissement et emprisonnent l'air pour freiner le piston ; les vis pointeau règlent l'amortissement. L'aimant du piston actionne les capteurs reed.
+Força = pressão x área do pistão (diâmetro 50 a 6 bar ≈ 1,2 kN avançando). No fim do curso as ponteiras de amortecimento entram nas vedações de amortecimento, prendendo ar para frear o pistão; os parafusos de agulha ajustam o amortecimento. O ímã no pistão aciona os sensores reed.
+力 = 压力 x 活塞面积（缸径 50、6 bar 时伸出力 ≈ 1.2 kN）。接近行程末端时缓冲柱塞进入缓冲密封，封住空气使活塞减速；针阀螺钉调节缓冲。活塞内的磁环触发磁性开关。
+Сила = давление x площадь поршня (диаметр 50 при 6 bar ≈ 1,2 kN на выдвижение). У конца хода демпферные втулки входят в уплотнения демпфера, запирая воздух и тормозя поршень; игольчатые винты регулируют демпфирование. Магнит в поршне переключает герконовые датчики.
+Siła = ciśnienie x pole tłoka (średnica 50 przy 6 bar ≈ 1,2 kN przy wysuwie). Pod koniec skoku tulejki amortyzacji wchodzą w uszczelki amortyzacji, zamykając powietrze i hamując tłok; śruby iglicowe regulują amortyzację. Magnes w tłoku przełącza czujniki kontaktronowe.
+Erő = nyomás x dugattyúfelület (50-es furat 6 bar-on ≈ 1,2 kN kifelé). A löket végén a csillapító tüskék a csillapító tömítésekbe lépnek, levegőt zárnak be és lassítják a dugattyút; a tűszelepcsavarok állítják a csillapítást. A dugattyúban lévő mágnes működteti a reed érzékelőket.
+Fuerza = presión x área del pistón (diámetro 50 a 6 bar ≈ 1,2 kN al salir). Cerca del final de carrera los casquillos de amortiguación entran en las juntas de amortiguación, atrapando aire para frenar el pistón; los tornillos de aguja ajustan la amortiguación. El imán del pistón acciona los sensores reed.
+
+#4649
+Air qui passe à travers le piston (joint de piston usé : vérin faible, qui dérive), fuite à la tige (joint de tige usé, tige rayée), chocs en fin de course (amortissement mal réglé), tige pliée par une charge latérale.
+Ar passando pelo pistão (vedação do pistão gasta: fraco, deriva), vazamento na haste (vedação da haste gasta, haste riscada), batidas nos fins de curso (amortecimento mal ajustado), haste empenada por carga lateral.
+活塞窜气（活塞密封磨损：无力、漂移），活塞杆处漏气（杆密封磨损、活塞杆拉伤），行程末端撞击（缓冲调节不当），侧向负载导致活塞杆弯曲。
+Перетечка воздуха через поршень (изношено уплотнение поршня: слабый, ползёт), утечка по штоку (изношено уплотнение штока, задиры на штоке), удары в конце хода (неправильно настроено демпфирование), шток изогнут боковой нагрузкой.
+Przedmuch przez tłok (zużyta uszczelka tłoka: słaby, dryfuje), wyciek przy tłoczysku (zużyta uszczelka tłoczyska, porysowane tłoczysko), uderzenia na końcach (źle ustawiona amortyzacja), tłoczysko wygięte siłą boczną.
+Átfúvás a dugattyún (kopott dugattyútömítés: gyenge, elmászik), szivárgás a rúdnál (kopott rúdtömítés, karcos rúd), ütés a véghelyzetekben (rosszul állított csillapítás), oldalterheléstől elhajlott rúd.
+Aire que pasa a través del pistón (junta del pistón gastada: débil, deriva), fuga por el vástago (junta del vástago gastada, vástago rayado), golpes al final de carrera (amortiguación mal ajustada), vástago doblado por carga lateral.
+
+#4650
+Alignez la charge pour éviter les efforts latéraux, utilisez une rotule flottante, gardez la tige propre, réglez la vitesse avec des régleurs de débit à l'échappement, vérifiez les capteurs reed, remplacez le kit de joints en cas de fuite.
+Alinhe a carga para evitar força lateral, use uma junta flutuante, mantenha a haste limpa, ajuste a velocidade com reguladores de fluxo no escape, verifique os sensores reed, troque o kit de vedações quando vazar.
+对中负载避免侧向力，使用浮动接头，保持活塞杆清洁，用排气节流阀调速，检查磁性开关，漏气时更换密封包。
+Выравнивайте нагрузку, чтобы не было боковых сил, используйте плавающее соединение, держите шток чистым, скорость задавайте дросселями на выхлопе, проверяйте герконовые датчики, при утечке меняйте комплект уплотнений.
+Wyosiuj obciążenie, aby uniknąć sił bocznych, stosuj złącze kompensacyjne, utrzymuj tłoczysko w czystości, ustawiaj prędkość zaworami dławiącymi na wylocie, sprawdzaj czujniki kontaktronowe, przy wycieku wymień zestaw uszczelek.
+Igazítsa a terhet, hogy ne legyen oldalerő, használjon kiegyenlítő csatlakozót, tartsa tisztán a rudat, a sebességet kipufogó oldali fojtókkal állítsa, ellenőrizze a reed érzékelőket, szivárgáskor cserélje a tömítéskészletet.
+Alinee la carga para evitar fuerzas laterales, use una rótula flotante, mantenga el vástago limpio, ajuste la velocidad con reguladores de caudal en el escape, compruebe los sensores reed, cambie el kit de juntas cuando fugue.
+
+#4651
+Tube (fût)
+Camisa
+缸筒
+Гильза
+Tuleja cylindra
+Hengercső
+Camisa
+
+#4652
+Tube en aluminium rodé dans lequel coulisse le piston.
+Tubo de alumínio brunido onde o pistão desliza.
+内壁珩磨的铝管，活塞在其中滑动。
+Хонингованная алюминиевая труба, в которой скользит поршень.
+Honowana rura aluminiowa, w której przesuwa się tłok.
+Hónolt alumíniumcső, amelyben a dugattyú csúszik.
+Tubo de aluminio bruñido por el que se desliza el pistón.
+
+#4653
+Fond arrière
+Tampa traseira
+后端盖
+Задняя крышка
+Pokrywa tylna
+Hátsó fedél
+Tapa trasera
+
+#4654
+Ferme l'arrière, porte l'orifice, le joint d'amortissement et le pointeau de réglage.
+Fecha a traseira, leva a conexão, a vedação de amortecimento e a agulha de ajuste.
+封闭后端，装有气口、缓冲密封和调节针阀。
+Закрывает тыльную сторону, несёт присоединение, уплотнение демпфера и регулировочную иглу.
+Zamyka tył, ma przyłącze, uszczelkę amortyzacji i iglicę regulacyjną.
+Lezárja a hátoldalt, ebben van a csatlakozó, a csillapító tömítés és az állítótű.
+Cierra la parte trasera, lleva la conexión, la junta de amortiguación y la aguja de ajuste.
+
+#4655
+Piston avec aimant
+Pistão com ímã
+带磁环的活塞
+Поршень с магнитом
+Tłok z magnesem
+Mágneses dugattyú
+Pistón con imán
+
+#4656
+Piston en aluminium ; la bague aimantée déclenche les capteurs de position.
+Pistão de alumínio; o anel magnético aciona os sensores de posição.
+铝制活塞；磁环触发位置传感器。
+Алюминиевый поршень; магнитное кольцо включает датчики положения.
+Tłok aluminiowy; pierścień magnetyczny wyzwala czujniki położenia.
+Alumínium dugattyú; a mágnesgyűrű kapcsolja a helyzetérzékelőket.
+Pistón de aluminio; el anillo magnético activa los sensores de posición.
+
+#4657
+Joints de piston
+Vedações do pistão
+活塞密封
+Уплотнения поршня
+Uszczelki tłoka
+Dugattyútömítések
+Juntas del pistón
+
+#4658
+Deux joints à lèvre, un pour chaque sens de pression.
+Duas vedações de lábio, uma para cada sentido de pressão.
+两个唇形密封，各对应一个压力方向。
+Две манжеты, по одной на каждое направление давления.
+Dwie uszczelki wargowe, po jednej na każdy kierunek ciśnienia.
+Két ajakos tömítés, egy-egy mindkét nyomásirányra.
+Dos juntas de labio, una para cada sentido de presión.
+
+#4659
+Écrou de piston (nez d'amortissement arrière)
+Porca do pistão (ponteira de amortecimento traseira)
+活塞螺母（后缓冲柱塞）
+Гайка поршня (задняя демпферная втулка)
+Nakrętka tłoka (tylna tulejka amortyzacji)
+Dugattyúanya (hátsó csillapító tüske)
+Tuerca del pistón (casquillo de amortiguación trasero)
+
+#4660
+Bloque le piston sur la tige et entre dans le joint d'amortissement arrière.
+Trava o pistão na haste e entra na vedação de amortecimento traseira.
+把活塞锁紧在活塞杆上，并进入后缓冲密封。
+Фиксирует поршень на штоке и входит в заднее уплотнение демпфера.
+Blokuje tłok na tłoczysku i wchodzi w tylną uszczelkę amortyzacji.
+A dugattyút a rúdra rögzíti, és belép a hátsó csillapító tömítésbe.
+Fija el pistón en el vástago y entra en la junta de amortiguación trasera.
+
+#4661
+Tige de piston
+Haste do pistão
+活塞杆
+Шток
+Tłoczysko
+Dugattyúrúd
+Vástago
+
+#4662
+Tige chromée dur ; la douille d'amortissement avant se trouve derrière le piston.
+Haste com cromo duro; a bucha de amortecimento dianteira fica atrás do pistão.
+镀硬铬活塞杆；前缓冲套位于活塞后方。
+Шток с твёрдым хромированием; передняя демпферная втулка стоит за поршнем.
+Tłoczysko chromowane twardo; przednia tulejka amortyzacji jest za tłokiem.
+Keménykrómozott rúd; az első csillapító hüvely a dugattyú mögött ül.
+Vástago de cromo duro; el casquillo de amortiguación delantero está detrás del pistón.
+
+#4663
+Fond avant
+Tampa dianteira
+前端盖
+Передняя крышка
+Pokrywa przednia
+Első fedél
+Tapa delantera
+
+#4664
+Fond côté tige avec orifice, joint d'amortissement et guidage de tige.
+Tampa do lado da haste com conexão, vedação de amortecimento e guia da haste.
+活塞杆侧端盖，装有气口、缓冲密封和导向套。
+Крышка со стороны штока с присоединением, уплотнением демпфера и направляющей штока.
+Pokrywa od strony tłoczyska z przyłączem, uszczelką amortyzacji i prowadzeniem tłoczyska.
+Rúdoldali fedél csatlakozóval, csillapító tömítéssel és rúdvezetéssel.
+Tapa del lado del vástago con conexión, junta de amortiguación y guía del vástago.
+
+#4665
+Bague de guidage, joint de tige et racleur
+Bucha, vedação e raspador da haste
+导向套、杆密封和防尘圈
+Направляющая втулка, уплотнение и грязесъёмник штока
+Tulejka prowadząca, uszczelka i zgarniacz tłoczyska
+Rúdvezető persely, tömítés és porlehúzó
+Casquillo guía, junta y rascador del vástago
+
+#4666
+La bague guide la tige, le joint retient l'air, le racleur empêche la saleté d'entrer.
+A bucha guia a haste, a vedação segura o ar, o raspador impede a entrada de sujeira.
+导向套引导活塞杆，密封保持气压，防尘圈挡住脏物。
+Втулка направляет шток, уплотнение держит воздух, грязесъёмник не пускает грязь.
+Tulejka prowadzi tłoczysko, uszczelka trzyma powietrze, zgarniacz nie wpuszcza brudu.
+A persely vezeti a rudat, a tömítés tartja a levegőt, a porlehúzó kizárja a szennyeződést.
+El casquillo guía el vástago, la junta retiene el aire, el rascador impide la entrada de suciedad.
+
+#4667
+Tirants et écrous
+Tirantes e porcas
+拉杆和螺母
+Стяжные шпильки и гайки
+Ściągi i nakrętki
+Összefogó rudak és anyák
+Tirantes y tuercas
+
+#4668
+Quatre tirants serrent les deux fonds sur le tube.
+Quatro tirantes prendem as duas tampas na camisa.
+四根拉杆把两端盖夹紧在缸筒上。
+Четыре шпильки стягивают обе крышки с гильзой.
+Cztery ściągi dociskają obie pokrywy do tulei.
+Négy rúd szorítja a két fedelet a hengercsőhöz.
+Cuatro tirantes aprietan las dos tapas contra la camisa.
+
+#4669
+Sortie / rentrée
+Avançar / recuar
+伸出 / 缩回
+Выдвинуть / втянуть
+Wysuń / wsuń
+Ki / be
+Extender / retraer
+
+#4670
+Alésage 50 mm à 6 bar. Force de poussée approximative ?
+Diâmetro 50 mm a 6 bar. Força de avanço aproximada?
+缸径 50 mm，6 bar。推力大约多少？
+Диаметр 50 mm при 6 bar. Примерное усилие толкания?
+Średnica 50 mm przy 6 bar. Przybliżona siła pchania?
+50 mm-es furat 6 bar-on. Hozzávetőleges tolóerő?
+Diámetro 50 mm a 6 bar. ¿Fuerza de empuje aproximada?
+
+#4671
+Environ 1,2 kN (≈120 kg)
+Cerca de 1,2 kN (≈120 kg)
+约 1.2 kN（≈120 kg）
+Около 1,2 kN (≈120 kg)
+Około 1,2 kN (≈120 kg)
+Kb. 1,2 kN (≈120 kg)
+Unos 1,2 kN (≈120 kg)
+
+#4672
+Environ 30 N
+Cerca de 30 N
+约 30 N
+Около 30 N
+Około 30 N
+Kb. 30 N
+Unos 30 N
+
+#4673
+Environ 12 kN
+Cerca de 12 kN
+约 12 kN
+Около 12 kN
+Około 12 kN
+Kb. 12 kN
+Unos 12 kN
+
+#4674
+Elle dépend uniquement de la course
+Depende apenas do curso
+只取决于行程
+Зависит только от хода
+Zależy tylko od skoku
+Csak a lökettől függ
+Solo depende de la carrera
+
+#4675
+Le vérin cogne en fin de course. Premier réglage ?
+O cilindro bate no fim do curso. Primeiro ajuste?
+气缸在行程末端猛烈撞击。首先调整什么？
+Цилиндр бьёт в конце хода. Первая регулировка?
+Siłownik uderza na końcu skoku. Pierwsza regulacja?
+A henger nagyot üt a löket végén. Első beállítás?
+El cilindro golpea al final de carrera. ¿Primer ajuste?
+
+#4676
+Fermer un peu le pointeau d'amortissement et vérifier le régleur de débit à l'échappement
+Fechar um pouco a agulha de amortecimento e verificar o regulador de fluxo do escape
+稍微关小缓冲针阀，并检查排气节流阀
+Немного закрыть иглу демпфера и проверить дроссель на выхлопе
+Lekko przykręcić iglicę amortyzacji i sprawdzić zawór dławiący na wylocie
+Kissé zárja a csillapító tűt, és ellenőrizze a kipufogó oldali fojtót
+Cerrar un poco la aguja de amortiguación y comprobar el regulador de caudal del escape
+
+#4677
+Graisser les tirants
+Lubrificar os tirantes
+给拉杆涂油脂
+Смазать стяжные шпильки
+Nasmarować ściągi
+Zsírozza meg az összefogó rudakat
+Engrasar los tirantes
+
+#4678
+Quelle pièce fait commuter le capteur reed ?
+Qual peça faz o sensor reed comutar?
+哪个零件使磁性开关动作？
+Какая деталь переключает герконовый датчик?
+Która część przełącza czujnik kontaktronowy?
+Melyik alkatrész kapcsolja a reed érzékelőt?
+¿Qué pieza hace conmutar el sensor reed?
+
+#4679
+La bague aimantée du piston
+O anel magnético no pistão
+活塞中的磁环
+Магнитное кольцо в поршне
+Pierścień magnetyczny w tłoku
+A dugattyúban lévő mágnesgyűrű
+El anillo magnético del pistón
+
+#4680
+Les tirants
+Os tirantes
+拉杆
+Стяжные шпильки
+Ściągi
+Az összefogó rudak
+Los tirantes
+
+#4681
+Le racleur
+O raspador
+防尘圈
+Грязесъёмник
+Zgarniacz
+A porlehúzó
+El rascador
+
+#4682
+La pression d'air
+A pressão do ar
+气压
+Давление воздуха
+Ciśnienie powietrza
+A légnyomás
+La presión del aire
+
+#4683
+Actionneur pneumatique (pignon-crémaillère)
+Atuador pneumático (pinhão e cremalheira)
+气动执行器（齿轮齿条式）
+Пневмопривод (реечный)
+Siłownik pneumatyczny (zębatkowy)
+Pneumatikus hajtómű (fogasléces)
+Actuador neumático (piñón y cremallera)
+
+#4684
+Actionneur quart de tour : deux pistons opposés à crémaillère font tourner un pignon de 90°. Monté sur vannes à boisseau sphérique et vannes papillon.
+Atuador de um quarto de volta: dois pistões opostos com cremalheiras giram um pinhão 90°. Montado em válvulas de esfera e borboleta.
+角行程执行器：两个带齿条的对置活塞使齿轮轴转动 90°。安装在球阀和蝶阀上。
+Четвертьоборотный привод: два встречных поршня с рейками поворачивают шестерню на 90°. Устанавливается на шаровые краны и дисковые затворы.
+Siłownik ćwierćobrotowy: dwa przeciwbieżne tłoki z zębatkami obracają zębnik o 90°. Montowany na zaworach kulowych i przepustnicach.
+Negyedfordulatos hajtómű: két szembenálló, fogasléces dugattyú 90°-kal elforgat egy fogaskereket. Golyóscsapokra és pillangószelepekre szerelik.
+Actuador de cuarto de vuelta: dos pistones opuestos con cremalleras giran un piñón 90°. Se monta en válvulas de bola y de mariposa.
+
+#4685
+Vannes automatiques tout-ou-rien sur les circuits d'eau purifiée, CIP et SIP, eau glacée, registres HVAC et cuves de process.
+Válvulas automáticas liga/desliga em circuitos de água purificada, CIP e SIP, água gelada, dampers de HVAC e tanques de processo.
+纯化水、CIP 和 SIP 回路、冷冻水、HVAC 风门及工艺罐上的自动开关阀。
+Автоматическая запорная арматура на контурах очищенной воды, CIP и SIP, охлаждённой воды, заслонках HVAC и технологических ёмкостях.
+Automatyczne zawory odcinające w obiegach wody oczyszczonej, CIP i SIP, wody lodowej, przepustnice HVAC i zbiorniki procesowe.
+Automatikus nyitó-záró szelepek tisztított víz, CIP és SIP körökön, hűtött vízen, HVAC csappantyúkon és technológiai tartályokon.
+Válvulas automáticas todo/nada en circuitos de agua purificada, CIP y SIP, agua helada, compuertas de HVAC y tanques de proceso.
+
+#4686
+L'air en A remplit la chambre centrale et pousse les pistons vers l'extérieur : les crémaillères font tourner le pignon et la vanne s'ouvre. L'air en B (ou les ressorts en version à rappel par ressort) les ramène pour fermer.
+Ar na via A enche a câmara central e empurra os pistões para fora: as cremalheiras giram o pinhão e a válvula abre. Ar na via B (ou as molas na versão com retorno por mola) os traz de volta para fechar.
+空气进入 A 口，充满中间腔，推动活塞向外：齿条带动齿轮轴转动，阀门打开。空气进入 B 口（弹簧复位型则靠弹簧）使活塞返回，阀门关闭。
+Воздух в порт A заполняет центральную камеру и разводит поршни наружу: рейки поворачивают шестерню, и арматура открывается. Воздух в порт B (или пружины в версии с пружинным возвратом) возвращает их и закрывает.
+Powietrze do przyłącza A wypełnia komorę środkową i rozsuwa tłoki na zewnątrz: zębatki obracają zębnik i zawór się otwiera. Powietrze do przyłącza B (lub sprężyny w wersji ze sprężyną powrotną) cofa je i zamyka zawór.
+Az A csatlakozóba jutó levegő kitölti a középső kamrát és kifelé hajtja a dugattyúkat: a fogaslécek elforgatják a fogaskereket, és a szelep nyit. A B csatlakozóba jutó levegő (vagy rugós visszatérítésű változatnál a rugók) visszahajtja őket és zár.
+El aire en la vía A llena la cámara central y empuja los pistones hacia fuera: las cremalleras giran el piñón y la válvula abre. El aire en la vía B (o los muelles en la versión de retorno por muelle) los devuelve para cerrar.
+
+#4687
+Course lente ou partielle (air insuffisant, joint torique de piston qui fuit, guide usé), fuite d'air en haut (joint torique du pignon), mauvaise position finale (butées de course déréglées), ressorts cassés.
+Curso lento ou parcial (ar baixo, O-ring do pistão vazando, guia gasta), vazamento de ar no topo (O-ring do pinhão), posição final errada (batentes de curso desregulados), molas quebradas.
+动作慢或行程不到位（气压低、活塞 O 形圈泄漏、导向件磨损），顶部漏气（齿轮轴 O 形圈），终点位置不对（行程限位螺钉失调），弹簧断裂。
+Медленный или неполный ход (мало воздуха, течёт кольцо поршня, изношена направляющая), утечка воздуха сверху (кольцо вала-шестерни), неверное конечное положение (сбиты упоры хода), сломаны пружины.
+Wolny lub niepełny skok (za mało powietrza, nieszczelny O-ring tłoka, zużyte prowadzenie), wyciek powietrza u góry (O-ring zębnika), złe położenie krańcowe (rozregulowane ograniczniki skoku), pęknięte sprężyny.
+Lassú vagy részleges mozgás (kevés levegő, szivárgó dugattyú O-gyűrű, kopott vezetés), légszivárgás felül (fogaskerék-tengely O-gyűrűje), rossz véghelyzet (elállítódott ütközőcsavarok), törött rugók.
+Carrera lenta o parcial (aire bajo, junta tórica del pistón con fuga, guía gastada), fuga de aire arriba (junta tórica del piñón), posición final incorrecta (topes de carrera desajustados), muelles rotos.
+
+#4688
+Comparez l'indicateur de position avec la vanne, réglez les vis de butée, gardez l'air sec, n'ouvrez jamais un actionneur à rappel par ressort sans les longues vis de couvercle et la bonne procédure (énergie stockée dans les ressorts).
+Confira o indicador de posição com a válvula, ajuste os parafusos de batente, mantenha o ar seco, nunca abra um atuador com retorno por mola sem os parafusos longos da tampa e o procedimento correto (energia armazenada nas molas).
+核对位置指示器与阀门实际位置，调整行程限位螺钉，保持气源干燥；没有长端盖螺栓和正确程序时，绝不能打开弹簧复位执行器（弹簧储存能量）。
+Сверяйте указатель положения с арматурой, настраивайте винты упоров хода, держите воздух сухим, никогда не вскрывайте привод с пружинным возвратом без длинных болтов крышек и правильной процедуры (запасённая энергия пружин).
+Porównaj wskaźnik położenia z zaworem, ustaw śruby ograniczników skoku, utrzymuj powietrze suche, nigdy nie otwieraj siłownika ze sprężyną powrotną bez długich śrub pokryw i właściwej procedury (energia zgromadzona w sprężynach).
+Vesse össze a helyzetjelzőt a szeleppel, állítsa be az ütközőcsavarokat, a levegő legyen száraz, rugós visszatérítésű hajtóművet soha ne nyisson ki a hosszú fedélcsavarok és a helyes eljárás nélkül (a rugókban tárolt energia).
+Compare el indicador de posición con la válvula, ajuste los tornillos de tope, mantenga el aire seco, nunca abra un actuador de retorno por muelle sin los tornillos largos de las tapas y el procedimiento correcto (energía acumulada en los muelles).
+
+#4689
+Corps en aluminium extrudé avec l'alésage des pistons et les orifices d'air NAMUR.
+Corpo de alumínio extrudado com o furo dos pistões e as conexões de ar NAMUR.
+挤压铝缸体，带活塞孔和 NAMUR 气口。
+Корпус из экструдированного алюминия с расточкой под поршни и пневмопортами NAMUR.
+Korpus z wytłaczanego aluminium z otworem tłoków i przyłączami powietrza NAMUR.
+Extrudált alumínium ház a dugattyúfurattal és NAMUR légcsatlakozókkal.
+Cuerpo de aluminio extruido con el alojamiento de los pistones y las conexiones de aire NAMUR.
+
+#4690
+Pignon (arbre de sortie)
+Pinhão (eixo de saída)
+齿轮轴（输出轴）
+Вал-шестерня (выходной вал)
+Zębnik (wałek wyjściowy)
+Fogaskerék (kimenő tengely)
+Piñón (eje de salida)
+
+#4691
+Arbre denté entraîné par les deux crémaillères ; le bas entraîne la tige de la vanne.
+Eixo dentado girado pelas duas cremalheiras; a parte de baixo aciona a haste da válvula.
+由两根齿条带动的齿轮轴；底部驱动阀杆。
+Зубчатый вал, вращаемый обеими рейками; нижний конец вращает шток арматуры.
+Wałek zębaty obracany przez obie zębatki; dół napędza trzpień zaworu.
+Mindkét fogasléc által forgatott fogaskerék-tengely; az alja hajtja a szelepszárat.
+Eje dentado girado por ambas cremalleras; la parte inferior acciona el vástago de la válvula.
+
+#4692
+Rondelle de butée et joint torique du pignon
+Arruela de encosto e O-ring do pinhão
+推力垫圈和齿轮轴 O 形圈
+Упорная шайба и уплотнительное кольцо вала
+Podkładka oporowa i O-ring zębnika
+Axiális alátét és fogaskerék O-gyűrű
+Arandela de empuje y junta tórica del piñón
+
+#4693
+Rondelle à faible frottement sous le circlip ; le joint torique retient l'air.
+Arruela de baixo atrito sob o anel elástico; o O-ring mantém o ar dentro.
+卡簧下面的低摩擦垫圈；O 形圈防止漏气。
+Шайба с низким трением под стопорным кольцом; уплотнительное кольцо удерживает воздух.
+Podkładka o niskim tarciu pod pierścieniem osadczym; O-ring trzyma powietrze w środku.
+Kis súrlódású alátét a seeger-gyűrű alatt; az O-gyűrű bent tartja a levegőt.
+Arandela de baja fricción bajo el anillo elástico; la junta tórica retiene el aire.
+
+#4694
+Circlip
+Anel elástico
+卡簧
+Стопорное кольцо
+Pierścień osadczy (Segera)
+Seeger-gyűrű
+Anillo elástico (circlip)
+
+#4695
+Maintient le pignon dans le corps.
+Mantém o pinhão no corpo.
+把齿轮轴固定在缸体内。
+Удерживает вал-шестерню в корпусе.
+Utrzymuje zębnik w korpusie.
+A fogaskereket a házban tartja.
+Sujeta el piñón en el cuerpo.
+
+#4696
+Piston A avec crémaillère
+Pistão A com cremalheira
+带齿条的活塞 A
+Поршень A с рейкой
+Tłok A z zębatką
+A dugattyú fogasléccel
+Pistón A con cremallera
+
+#4697
+Piston gauche ; sa crémaillère entraîne le pignon d'un côté.
+Pistão esquerdo; sua cremalheira aciona o pinhão de um lado.
+左侧活塞；其齿条从一侧驱动齿轮轴。
+Левый поршень; его рейка вращает шестерню с одной стороны.
+Lewy tłok; jego zębatka napędza zębnik z jednej strony.
+Bal dugattyú; fogasléce az egyik oldalról hajtja a fogaskereket.
+Pistón izquierdo; su cremallera acciona el piñón por un lado.
+
+#4698
+Piston B avec crémaillère
+Pistão B com cremalheira
+带齿条的活塞 B
+Поршень B с рейкой
+Tłok B z zębatką
+B dugattyú fogasléccel
+Pistón B con cremallera
+
+#4699
+Piston droit ; sa crémaillère entraîne le pignon de l'autre côté.
+Pistão direito; sua cremalheira aciona o pinhão do outro lado.
+右侧活塞；其齿条从另一侧驱动齿轮轴。
+Правый поршень; его рейка вращает шестерню с другой стороны.
+Prawy tłok; jego zębatka napędza zębnik z drugiej strony.
+Jobb dugattyú; fogasléce a másik oldalról hajtja a fogaskereket.
+Pistón derecho; su cremallera acciona el piñón por el otro lado.
+
+#4700
+Jeux de ressorts (version à rappel par ressort uniquement)
+Conjuntos de molas (só na versão com retorno por mola)
+弹簧组（仅弹簧复位型）
+Пакеты пружин (только в версии с пружинным возвратом)
+Pakiety sprężyn (tylko wersja ze sprężyną powrotną)
+Rugókészletek (csak rugós visszatérítésű változatnál)
+Juegos de muelles (solo versión de retorno por muelle)
+
+#4701
+Ferment la vanne en cas de manque d'air ; les actionneurs double effet n'en ont pas.
+Fecham a válvula na falta de ar; atuadores de dupla ação não têm molas.
+断气时关闭阀门；双作用执行器没有弹簧。
+Закрывают арматуру при пропадании воздуха; у приводов двустороннего действия их нет.
+Zamykają zawór przy zaniku powietrza; siłowniki dwustronnego działania ich nie mają.
+Légkimaradáskor zárják a szelepet; a kettős működésű hajtóművekben nincsenek.
+Cierran la válvula si falla el aire; los actuadores de doble efecto no los tienen.
+
+#4702
+Couvercle A
+Tampa A
+端盖 A
+Крышка A
+Pokrywa A
+A fedél
+Tapa A
+
+#4703
+Ferme la chambre extérieure ; la vis de butée règle la position finale.
+Fecha a câmara externa; o parafuso de batente ajusta a posição final.
+封闭外腔；限位螺钉调节终点位置。
+Закрывает наружную камеру; винт упора задаёт конечное положение.
+Zamyka komorę zewnętrzną; śruba ogranicznika ustawia położenie krańcowe.
+Lezárja a külső kamrát; az ütközőcsavar állítja a véghelyzetet.
+Cierra la cámara exterior; el tornillo de tope ajusta la posición final.
+
+#4704
+Couvercle B
+Tampa B
+端盖 B
+Крышка B
+Pokrywa B
+B fedél
+Tapa B
+
+#4705
+Ferme l'autre chambre extérieure.
+Fecha a outra câmara externa.
+封闭另一侧外腔。
+Закрывает другую наружную камеру.
+Zamyka drugą komorę zewnętrzną.
+Lezárja a másik külső kamrát.
+Cierra la otra cámara exterior.
+
+#4706
+Indicateur de position
+Indicador de posição
+位置指示器
+Указатель положения
+Wskaźnik położenia
+Helyzetjelző
+Indicador de posición
+
+#4707
+Tourne avec le pignon : indique la position de la vanne, trait dans l'axe du tuyau = ouverte, en travers = fermée.
+Gira com o pinhão: mostra a posição da válvula, faixa alinhada com o tubo = aberta, atravessada = fechada.
+随齿轮轴转动：显示阀门位置，标线与管道平行 = 开，垂直 = 关。
+Поворачивается вместе с валом: показывает положение арматуры, полоса вдоль трубы = открыто, поперёк = закрыто.
+Obraca się z zębnikiem: pokazuje położenie zaworu, pasek wzdłuż rury = otwarty, w poprzek = zamknięty.
+A fogaskerékkel együtt forog: mutatja a szelep állását, csővel párhuzamos csík = nyitva, keresztben = zárva.
+Gira con el piñón: muestra la posición de la válvula, franja alineada con la tubería = abierta, atravesada = cerrada.
+
+#4708
+Air en A (ouvrir) / B (fermer)
+Ar em A (abrir) / B (fechar)
+气到 A（开）/ B（关）
+Воздух в A (открыть) / B (закрыть)
+Powietrze do A (otwórz) / B (zamknij)
+Levegő A-ra (nyit) / B-re (zár)
+Aire a A (abrir) / B (cerrar)
+
+#4709
+L'air arrive en A (chambre centrale). Les pistons se déplacent…
+O ar vai para a via A (câmara central). Os pistões se movem…
+空气进入 A 口（中间腔）。活塞会…
+Воздух подан в порт A (центральная камера). Поршни движутся…
+Powietrze idzie do przyłącza A (komora środkowa). Tłoki przesuwają się…
+A levegő az A csatlakozóba megy (középső kamra). A dugattyúk…
+El aire va a la vía A (cámara central). Los pistones se mueven…
+
+#4710
+Vers l'extérieur, en faisant tourner le pignon pour ouvrir
+Para fora, girando o pinhão para abrir
+向外移动，带动齿轮轴转动开阀
+Наружу, поворачивая шестерню на открытие
+Na zewnątrz, obracając zębnik w kierunku otwarcia
+kifelé mozognak, és nyitásra forgatják a fogaskereket
+Hacia fuera, girando el piñón para abrir
+
+#4711
+Vers l'intérieur
+Para dentro
+向内移动
+Внутрь
+Do środka
+befelé mozognak
+Hacia dentro
+
+#4712
+Un seul se déplace
+Só um se move
+只有一个移动
+Движется только один
+Porusza się tylko jeden
+csak az egyik mozog
+Solo se mueve uno
+
+#4713
+Ils ne bougent pas ; le pignon glisse
+Não se movem; o pinhão desliza
+活塞不动；齿轮轴滑动
+Не движутся; шестерня скользит
+Nie ruszają się; zębnik się przesuwa
+nem mozognak; a fogaskerék elcsúszik
+No se mueven; el piñón se desliza
+
+#4714
+Avant d'ouvrir un actionneur à rappel par ressort, il faut…
+Antes de abrir um atuador com retorno por mola você deve…
+打开弹簧复位执行器之前，必须…
+Перед вскрытием привода с пружинным возвратом нужно…
+Przed otwarciem siłownika ze sprężyną powrotną musisz…
+Rugós visszatérítésű hajtómű kinyitása előtt…
+Antes de abrir un actuador de retorno por muelle debe…
+
+#4715
+Couper l'air et suivre la procédure pour libérer en sécurité la force stockée des ressorts
+Retirar o ar e seguir o procedimento para liberar com segurança a força armazenada nas molas
+断开气源，并按程序安全释放弹簧储存的力
+Снять воздух и по процедуре безопасно освободить запасённую силу пружин
+Odłączyć powietrze i zgodnie z procedurą bezpiecznie zwolnić siłę zgromadzoną w sprężynach
+le kell venni a levegőt, és az eljárás szerint biztonságosan fel kell szabadítani a rugókban tárolt erőt
+Quitar el aire y seguir el procedimiento para liberar con seguridad la fuerza acumulada de los muelles
+
+#4716
+Simplement dévisser vite les couvercles
+Só desaparafusar as tampas rapidamente
+直接快速拧下端盖
+Просто быстро открутить крышки
+Po prostu szybko odkręcić pokrywy
+csak gyorsan le kell csavarni a fedeleket
+Simplemente desenroscar rápido las tapas
+
+#4717
+Mettre de l'air en B
+Aplicar ar na via B
+向 B 口供气
+Подать воздух в порт B
+Podać powietrze do przyłącza B
+levegőt kell adni a B csatlakozóra
+Aplicar aire a la vía B
+
+#4718
+Graisser le circlip
+Lubrificar o anel elástico
+给卡簧涂油脂
+Смазать стопорное кольцо
+Nasmarować pierścień osadczy
+meg kell zsírozni a seeger-gyűrűt
+Engrasar el anillo elástico
+
+#4719
+Unité de traitement d'air à l'entrée de la machine : le filtre retire l'eau et les saletés, le régulateur fixe une pression stable, le lubrificateur ajoute un brouillard d'huile.
+Unidade de preparação de ar na entrada da máquina: o filtro remove água e sujeira, o regulador mantém uma pressão estável, o lubrificador adiciona névoa de óleo.
+设备进气口的气源处理单元：过滤器去除水和杂质，减压阀设定稳定压力，油雾器加入油雾。
+Блок подготовки воздуха на входе машины: фильтр удаляет воду и грязь, регулятор задаёт стабильное давление, маслораспылитель добавляет масляный туман.
+Zespół przygotowania powietrza na wlocie maszyny: filtr usuwa wodę i zanieczyszczenia, reduktor ustawia stałe ciśnienie, smarownica dodaje mgłę olejową.
+Levegő-előkészítő egység a gép bemeneténél: a szűrő eltávolítja a vizet és a szennyeződést, a nyomásszabályozó stabil nyomást állít be, az olajozó olajködöt ad hozzá.
+Unidad de mantenimiento a la entrada de la máquina: el filtro elimina agua y suciedad, el regulador fija una presión estable, el lubricador añade una niebla de aceite.
+
+#4720
+À l'entrée d'air de chaque machine de conditionnement, presse à comprimés et turbine d'enrobage. En zone propre et pour les vannes sans huile, le lubrificateur est souvent supprimé.
+Na entrada de ar de toda máquina de embalagem, compressora e drageadeira. Em áreas limpas e para válvulas sem óleo o lubrificador muitas vezes é omitido.
+用于每台包装机、压片机和包衣机的进气口。在洁净区和无油阀门场合常不装油雾器。
+На входе воздуха каждой упаковочной машины, таблеточного пресса и коатера. В чистых зонах и для безмасляных клапанов маслораспылитель часто не ставят.
+Na wlocie powietrza każdej maszyny pakującej, tabletkarki i powlekarki. W strefach czystych i dla zaworów bezolejowych smarownicę często się pomija.
+Minden csomagológép, tablettaprés és bevonógép levegőbemeneténél. Tiszta téren és olajmentes szelepeknél az olajozót gyakran elhagyják.
+En la entrada de aire de cada máquina de envasado, prensa de comprimidos y bombo de recubrimiento. En zonas limpias y para válvulas sin aceite, a menudo se omite el lubricador.
+
+#4721
+Filtre : les ailettes mettent l'air en rotation, l'eau est projetée dans la cuve, l'élément arrête les particules. Régulateur : le bouton comprime un ressort sur une membrane qui ouvre le clapet jusqu'à ce que la pression de sortie l'équilibre. Lubrificateur : un venturi aspire l'huile par le tube plongeur et la fait goutter dans l'air.
+Filtro: os defletores giram o ar, a água é lançada para o copo, o elemento retém as partículas. Regulador: o manípulo comprime uma mola sobre um diafragma que abre o obturador até que a pressão de saída o equilibre. Lubrificador: um venturi puxa o óleo pelo tubo sifão e o goteja no ar.
+过滤器：导流叶片使空气旋转，水被甩到滤杯中，滤芯拦截颗粒。减压阀：旋钮压缩膜片上方的弹簧，膜片顶开阀瓣，直到出口压力与之平衡。油雾器：文丘里管把油沿虹吸管吸上来，滴入气流。
+Фильтр: завихритель закручивает воздух, вода отбрасывается в стакан, фильтроэлемент задерживает частицы. Регулятор: рукоятка сжимает пружину над мембраной, которая открывает клапан, пока давление на выходе её не уравновесит. Маслораспылитель: трубка Вентури поднимает масло по сифонной трубке и капает его в воздух.
+Filtr: łopatki zawirowują powietrze, woda jest odrzucana do miski, wkład zatrzymuje cząstki. Reduktor: pokrętło ściska sprężynę nad membraną, która otwiera grzybek zaworu, aż ciśnienie wyjściowe ją zrównoważy. Smarownica: zwężka Venturiego zasysa olej rurką syfonową i wkrapla go do powietrza.
+Szűrő: a terelőlapátok megforgatják a levegőt, a víz a pohárba csapódik, a szűrőbetét megfogja a részecskéket. Nyomásszabályozó: a gomb összenyom egy rugót a membránon, amely addig nyitja a szeleptányért, amíg a kimenő nyomás ki nem egyenlíti. Olajozó: egy Venturi-cső felszívja az olajat a szívócsövön, és a levegőbe csepegteti.
+Filtro: los deflectores hacen girar el aire, el agua se proyecta al vaso, el elemento retiene las partículas. Regulador: el pomo comprime un muelle sobre una membrana que abre el obturador hasta que la presión de salida la equilibra. Lubricador: un venturi aspira el aceite por el tubo sifón y lo gotea en el aire.
+
+#4722
+Eau dans la cuve au-dessus de la chicane (purge bouchée), élément colmaté (perte de charge), régulateur qui dérive ou qui échappe (membrane déchirée, clapet sale), cuve craquelée par des solvants (risque d'éclatement).
+Água no copo acima do defletor (dreno entupido), elemento entupido (queda de pressão), regulador subindo sozinho ou aliviando (diafragma rasgado, obturador sujo), copo trincado por solventes (perigo de estouro).
+滤杯中的水位超过挡板（排水堵塞），滤芯堵塞（压降），减压阀压力爬升或泄气（膜片破裂、阀瓣脏污），滤杯被溶剂腐蚀出龟裂（有爆裂危险）。
+Вода в стакане выше отражателя (засорён слив), фильтроэлемент забит (перепад давления), регулятор «ползёт» или стравливает (порвана мембрана, грязный клапан), стакан покрыт сеткой трещин от растворителей (опасность разрыва).
+Woda w misce powyżej przegrody (zatkany spust), zatkany wkład (spadek ciśnienia), reduktor pełznie lub upuszcza (rozdarta membrana, brudny grzybek), miska z siatką pęknięć od rozpuszczalników (niebezpieczeństwo rozerwania).
+Víz a pohárban a terelőlemez fölött (eltömődött leeresztő), eltömődött betét (nyomásesés), a nyomásszabályozó kúszik vagy lefúj (szakadt membrán, szennyezett szeleptányér), oldószertől hajszálrepedezett pohár (szétrepedés veszélye).
+Agua en el vaso por encima del deflector (purga obstruida), elemento colmatado (caída de presión), regulador que sube solo o descarga (membrana rota, obturador sucio), vaso cuarteado por disolventes (peligro de estallido).
+
+#4723
+Purgez la cuve chaque jour ou vérifiez la purge automatique, changez l'élément en cas de perte de charge, nettoyez les cuves uniquement à l'eau savonneuse, gardez le protège-cuve en place, réglez la pression bouton tiré puis enfoncez-le pour verrouiller.
+Drene o copo diariamente ou verifique o dreno automático, troque o elemento quando houver queda de pressão, limpe os copos só com água e sabão, mantenha o protetor do copo instalado, ajuste a pressão com o manípulo puxado e depois empurre-o para travar.
+每天排放滤杯积水或检查自动排水器，出现压降时更换滤芯，滤杯只能用肥皂水清洗，保持滤杯护罩安装到位，拉出旋钮调压，然后按下锁定。
+Ежедневно сливайте стакан или проверяйте автоматический слив, меняйте фильтроэлемент при перепаде давления, мойте стаканы только мыльной водой, не снимайте защитный кожух стакана, давление настраивайте с вытянутой рукояткой, затем нажмите её для фиксации.
+Codziennie spuszczaj wodę z miski lub sprawdzaj spust automatyczny, wymieniaj wkład przy spadku ciśnienia, myj miski tylko wodą z mydłem, nie zdejmuj osłony miski, ustawiaj ciśnienie przy wyciągniętym pokrętle, a potem wciśnij je, aby zablokować.
+Naponta eressze le a poharat vagy ellenőrizze az automata leeresztőt, nyomásesésnél cserélje a betétet, a poharakat csak szappanos vízzel tisztítsa, a pohárvédő maradjon fent, a nyomást kihúzott gombbal állítsa, majd nyomja be a rögzítéshez.
+Purgue el vaso a diario o compruebe la purga automática, cambie el elemento cuando haya caída de presión, limpie los vasos solo con agua y jabón, mantenga puesta la protección del vaso, ajuste la presión con el pomo extraído y luego empújelo para bloquearlo.
+
+#4724
+Corps du filtre
+Corpo do filtro
+过滤器本体
+Корпус фильтра
+Korpus filtra
+Szűrőház
+Cuerpo del filtro
+
+#4725
+L'entrée descend vers la cuve ; la sortie remonte de l'intérieur de l'élément.
+A entrada desce até o copo; a saída sobe de dentro do elemento.
+进气向下通到滤杯；出气从滤芯内部向上引出。
+Вход идёт вниз в стакан; выход поднимается изнутри фильтроэлемента.
+Wlot prowadzi w dół do miski; wylot wychodzi w górę z wnętrza wkładu.
+A bemenet lefelé vezet a pohárba; a kimenet a betét belsejéből jön fel.
+La entrada baja hacia el vaso; la salida sube desde el interior del elemento.
+
+#4726
+Déflecteur et élément filtrant
+Defletor e elemento filtrante
+导流器和滤芯
+Завихритель и фильтроэлемент
+Deflektor i wkład filtra
+Terelő és szűrőbetét
+Deflector y elemento filtrante
+
+#4727
+Les ailettes font tourbillonner l'air ; l'élément fritté arrête les particules ; la chicane garde l'eau calme en dessous.
+Os defletores giram o ar; o elemento sinterizado retém as partículas; a placa defletora mantém a água calma embaixo.
+导流叶片使空气旋转；烧结滤芯拦截颗粒；挡板使下方的水保持平静。
+Лопатки закручивают воздух; спечённый элемент задерживает частицы; отражатель успокаивает воду внизу.
+Łopatki zawirowują powietrze; spiekany wkład zatrzymuje cząstki; przegroda utrzymuje spokojną wodę poniżej.
+A terelőlapátok megforgatják a levegőt; a szinterelt betét megfogja a részecskéket; a terelőlemez alatt nyugton tartja a vizet.
+Los deflectores arremolinan el aire; el elemento sinterizado retiene las partículas; la placa mantiene el agua en calma abajo.
+
+#4728
+Cuve transparente qui recueille l'eau ; la bague la verrouille sur le corps.
+Copo transparente que coleta a água; o colar o trava no corpo.
+收集水分的透明滤杯；锁环把它锁在本体上。
+Прозрачный стакан, собирающий воду; кольцо фиксирует его на корпусе.
+Przezroczysta miska zbierająca wodę; pierścień blokuje ją na korpusie.
+Átlátszó pohár, amely összegyűjti a vizet; a gyűrű a házhoz rögzíti.
+Vaso transparente que recoge el agua; el collarín lo bloquea en el cuerpo.
+
+#4729
+Purge de cuve
+Dreno do copo
+滤杯排水阀
+Слив стакана
+Spust miski
+Pohárleeresztő
+Purga del vaso
+
+#4730
+Purge manuelle à vis ou automatique pour l'eau recueillie.
+Dreno de giro ou automático para a água coletada.
+手拧式或自动排水，排出积水。
+Поворотный или автоматический слив собранной воды.
+Spust obrotowy lub automatyczny zebranej wody.
+Csavaros vagy automata leeresztő az összegyűlt vízhez.
+Purga giratoria o automática del agua recogida.
+
+#4731
+Corps du régulateur
+Corpo do regulador
+减压阀本体
+Корпус регулятора
+Korpus reduktora
+Nyomásszabályozó ház
+Cuerpo del regulador
+
+#4732
+Chambre d'entrée, siège de clapet, chambre de sortie et trou de mesure vers la membrane.
+Câmara de entrada, sede da válvula, câmara de saída e o furo de pressão para o diafragma.
+进口腔、阀座、出口腔以及通向膜片的感压孔。
+Входная камера, седло клапана, выходная камера и импульсное отверстие к мембране.
+Komora wlotowa, gniazdo zaworu, komora wylotowa i otwór impulsowy do membrany.
+Bemenő kamra, szelepülés, kimenő kamra és a membránhoz vezető érzékelőfurat.
+Cámara de entrada, asiento de la válvula, cámara de salida y el orificio de toma hacia la membrana.
+
+#4733
+Clapet et ressort
+Obturador e mola
+阀瓣和弹簧
+Клапан и пружина
+Grzybek zaworu i sprężyna
+Szeleptányér és rugó
+Obturador y muelle
+
+#4734
+Ouvert par la tige de la membrane, fermé par son petit ressort.
+Aberto pela haste do diafragma, fechado pela sua pequena mola.
+由膜片顶杆顶开，由小弹簧关闭。
+Открывается штоком мембраны, закрывается своей маленькой пружиной.
+Otwierany trzpieniem membrany, zamykany małą sprężyną.
+A membrán szára nyomja nyitva, a kis rugója zárja.
+Lo abre el vástago de la membrana y lo cierra su pequeño muelle.
+
+#4735
+Membrane
+Diafragma
+膜片
+Мембрана
+Membrana
+Membrán
+Membrana
+
+#4736
+La pression de sortie sous elle équilibre le ressort au-dessus.
+A pressão de saída embaixo dele equilibra a mola acima.
+膜片下方的出口压力与上方的弹簧力平衡。
+Давление на выходе снизу уравновешивает пружину сверху.
+Ciśnienie wyjściowe pod nią równoważy sprężynę nad nią.
+Az alatta lévő kimenő nyomás egyensúlyt tart a fölötte lévő rugóval.
+La presión de salida bajo ella equilibra el muelle de encima.
+
+#4737
+Ressort de réglage
+Mola de faixa
+调压弹簧
+Задающая пружина
+Sprężyna nastawcza
+Állítórugó
+Muelle de rango
+
+#4738
+Sa force, réglée par le bouton, fixe la pression de sortie.
+Sua força, ajustada pelo manípulo, define a pressão de saída.
+由旋钮设定的弹簧力决定出口压力。
+Её усилие, задаваемое рукояткой, определяет давление на выходе.
+Jej siła, ustawiana pokrętłem, określa ciśnienie wyjściowe.
+A gombbal állított ereje határozza meg a kimenő nyomást.
+Su fuerza, fijada con el pomo, fija la presión de salida.
+
+#4739
+Chapeau
+Castelo
+阀盖
+Колпак
+Kołpak
+Fedél (harang)
+Bonete
+
+#4740
+Logement du ressort au-dessus du régulateur.
+Alojamento da mola no topo do regulador.
+减压阀顶部的弹簧罩。
+Корпус пружины в верхней части регулятора.
+Obudowa sprężyny na górze reduktora.
+Rugóház a nyomásszabályozó tetején.
+Alojamiento del muelle en la parte superior del regulador.
+
+#4741
+Bouton de réglage
+Manípulo de ajuste
+调节旋钮
+Регулировочная рукоятка
+Pokrętło regulacyjne
+Állítógomb
+Pomo de ajuste
+
+#4742
+Tirez, tournez dans le sens horaire pour plus de pression, enfoncez pour verrouiller.
+Puxe, gire no sentido horário para mais pressão, empurre para travar.
+拔出，顺时针旋转增压，按下锁定。
+Вытяните, вращайте по часовой стрелке для увеличения давления, нажмите для фиксации.
+Wyciągnij, obróć w prawo, aby zwiększyć ciśnienie, wciśnij, aby zablokować.
+Húzza ki, az óramutató járásával egyezően forgatva nő a nyomás, nyomja be a rögzítéshez.
+Tire, gire en sentido horario para más presión, empuje para bloquear.
+
+#4743
+Indique la pression de sortie régulée.
+Mostra a pressão de saída regulada.
+显示调节后的出口压力。
+Показывает отрегулированное давление на выходе.
+Pokazuje wyregulowane ciśnienie wyjściowe.
+A szabályozott kimenő nyomást mutatja.
+Muestra la presión de salida regulada.
+
+#4744
+Corps du lubrificateur avec dôme de visualisation
+Corpo do lubrificador com visor
+带观察罩的油雾器本体
+Корпус маслораспылителя со смотровым колпачком
+Korpus smarownicy z wziernikiem
+Olajozóház nézőkupolával
+Cuerpo del lubricador con visor
+
+#4745
+Col de venturi dans le corps ; l'huile goutte à travers le dôme dans l'air ; la vis règle le nombre de gouttes par minute.
+Garganta venturi no corpo; o óleo goteja pelo visor no ar; o parafuso ajusta as gotas por minuto.
+本体内有文丘里喉管；油通过观察罩滴入气流；螺钉调节每分钟滴数。
+Горловина Вентури в корпусе; масло капает через смотровой колпачок в воздух; винт задаёт число капель в минуту.
+Gardziel Venturiego w korpusie; olej kapie przez wziernik do powietrza; śruba ustawia liczbę kropli na minutę.
+Venturi-torok a házban; az olaj a nézőkupolán át a levegőbe csepeg; a csavar állítja a percenkénti cseppszámot.
+Garganta venturi en el cuerpo; el aceite gotea a través del visor al aire; el tornillo ajusta las gotas por minuto.
+
+#4746
+Cuve du lubrificateur avec huile
+Copo do lubrificador com óleo
+装油的油雾器油杯
+Стакан маслораспылителя с маслом
+Miska smarownicy z olejem
+Olajozó pohár olajjal
+Vaso del lubricador con aceite
+
+#4747
+Contient l'huile ; la pression d'air sur celle-ci fait monter l'huile par le tube plongeur.
+Guarda o óleo; a pressão do ar sobre ele empurra o óleo pelo tubo sifão.
+盛油；作用在油面上的气压把油压上虹吸管。
+Содержит масло; давление воздуха на него выдавливает масло вверх по сифонной трубке.
+Mieści olej; ciśnienie powietrza na nim wypycha olej w górę rurki syfonowej.
+Tartja az olajat; a rá ható légnyomás felnyomja az olajat a szívócsövön.
+Contiene el aceite; la presión del aire sobre él lo empuja por el tubo sifón.
+
+#4748
+Raccords de modules et blocs de raccordement
+Conectores de módulo e blocos de conexão
+模块连接件和接口块
+Соединители модулей и присоединительные блоки
+Łączniki modułów i bloki przyłączeniowe
+Modulösszekötők és csatlakozóblokkok
+Conectores de módulos y bloques de conexión
+
+#4749
+Serrent les modules entre eux avec des joints toriques ; les blocs d'extrémité portent les taraudages G1/4.
+Prendem os módulos entre si com O-rings; os blocos das pontas têm as roscas G1/4.
+用 O 形圈把各模块夹紧在一起；端块带 G1/4 管螺纹。
+Стягивают модули вместе с уплотнительными кольцами; концевые блоки имеют резьбу G1/4.
+Spinają moduły razem z O-ringami; bloki końcowe mają gwinty G1/4.
+O-gyűrűkkel fogják össze a modulokat; a végblokkokon vannak a G1/4 csőmenetek.
+Unen los módulos con juntas tóricas; los bloques extremos llevan las roscas G1/4.
+
+#4750
+Tourner le bouton : plus de pression
+Girar o manípulo: mais pressão
+旋转旋钮：增加压力
+Повернуть рукоятку: больше давления
+Obróć pokrętło: więcej ciśnienia
+Gomb elforgatása: több nyomás
+Girar el pomo: más presión
+
+#4751
+Ordre des éléments dans le flux d'air ?
+Ordem das unidades no fluxo de ar?
+各单元在气流中的顺序？
+Порядок элементов по потоку воздуха?
+Kolejność elementów w przepływie powietrza?
+Az egységek sorrendje a légáramban?
+¿Orden de las unidades en el flujo de aire?
+
+#4752
+Filtre, puis régulateur, puis lubrificateur
+Filtro, depois regulador, depois lubrificador
+先过滤器，再减压阀，最后油雾器
+Фильтр, затем регулятор, затем маслораспылитель
+Filtr, potem reduktor, potem smarownica
+Szűrő, majd nyomásszabályozó, majd olajozó
+Filtro, luego regulador, luego lubricador
+
+#4753
+Lubrificateur, filtre, régulateur
+Lubrificador, filtro, regulador
+油雾器、过滤器、减压阀
+Маслораспылитель, фильтр, регулятор
+Smarownica, filtr, reduktor
+Olajozó, szűrő, nyomásszabályozó
+Lubricador, filtro, regulador
+
+#4754
+Régulateur, lubrificateur, filtre
+Regulador, lubrificador, filtro
+减压阀、油雾器、过滤器
+Регулятор, маслораспылитель, фильтр
+Reduktor, smarownica, filtr
+Nyomásszabályozó, olajozó, szűrő
+Regulador, lubricador, filtro
+
+#4755
+N'importe quel ordre convient
+Qualquer ordem serve
+任何顺序都可以
+Подходит любой порядок
+Każda kolejność jest dobra
+Bármilyen sorrend jó
+Cualquier orden sirve
+
+#4756
+La cuve du filtre est trouble et craquelée. Que faites-vous ?
+O copo do filtro está opaco e trincado. O que você faz?
+过滤器滤杯发浑并出现龟裂。你该怎么做？
+Стакан фильтра мутный и покрыт сеткой трещин. Что делать?
+Miska filtra jest zmętniała i popękana. Co robisz?
+A szűrőpohár zavaros és hajszálrepedezett. Mit tesz?
+El vaso del filtro está turbio y cuarteado. ¿Qué hace?
+
+#4757
+Isoler et remplacer la cuve : elle peut éclater
+Isolar e trocar o copo: ele pode estourar
+隔离气源并更换滤杯：它可能爆裂
+Отсечь и заменить стакан: он может разорваться
+Odciąć i wymienić miskę: może pęknąć
+Leválasztja és kicseréli a poharat: szétrepedhet
+Aislar y sustituir el vaso: puede estallar
+
+#4758
+La nettoyer au solvant
+Limpá-lo com solvente
+用溶剂清洗
+Промыть его растворителем
+Umyć ją rozpuszczalnikiem
+Oldószerrel tisztítja
+Limpiarlo con disolvente
+
+#4759
+Serrer la bague
+Apertar o colar
+拧紧锁环
+Подтянуть кольцо
+Dokręcić pierścień
+Meghúzza a gyűrűt
+Apretar el collarín
+
+#4760
+Baisser la pression et continuer à l'utiliser
+Baixar a pressão e continuar usando
+降低压力继续使用
+Снизить давление и продолжать работать
+Obniżyć ciśnienie i dalej używać
+Csökkenti a nyomást és tovább használja
+Bajar la presión y seguir usándolo
+
+#4761
+Pourquoi enfoncer le bouton du régulateur après le réglage ?
+Por que empurrar o manípulo do regulador após o ajuste?
+为什么调好后要把减压阀旋钮按下？
+Зачем нажимать рукоятку регулятора после настройки?
+Dlaczego po ustawieniu wciska się pokrętło reduktora?
+Miért kell beállítás után benyomni a nyomásszabályozó gombját?
+¿Por qué empujar el pomo del regulador tras ajustarlo?
+
+#4762
+Il verrouille le réglage pour que les vibrations ne le modifient pas
+Trava o ajuste para que a vibração não o altere
+锁定设定值，防止振动改变它
+Фиксирует настройку, чтобы вибрация её не сбила
+Blokuje nastawę, aby drgania jej nie zmieniły
+Rögzíti a beállítást, hogy a rezgés ne állítsa el
+Bloquea el ajuste para que la vibración no lo cambie
+
+#4763
+Il ouvre la purge
+Abre o dreno
+打开排水阀
+Открывает слив
+Otwiera spust
+Kinyitja a leeresztőt
+Abre la purga
+
+#4764
+Il met en route le lubrificateur
+Liga o lubrificador
+启动油雾器
+Запускает маслораспылитель
+Uruchamia smarownicę
+Elindítja az olajozót
+Pone en marcha el lubricador
+
+#4765
+Il remet le manomètre à zéro
+Zera o manômetro
+使压力表复位
+Сбрасывает манометр
+Zeruje manometr
+Nullázza a manométert
+Pone a cero el manómetro

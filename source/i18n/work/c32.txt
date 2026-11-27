@@ -1,0 +1,1027 @@
+#4551
+Apparence des appareils
+Aparência dos dispositivos
+设备外观
+Внешний вид устройств
+Wygląd urządzeń
+Készülékek megjelenése
+Aspecto de los dispositivos
+
+#4552
+Aspect réel
+Aparência real
+真实外观
+Реальный вид
+Wygląd rzeczywisty
+Valósághű megjelenés
+Aspecto real
+
+#4553
+Couleurs des fils de phase
+Cores dos fios de fase
+相线颜色
+Цвета фазных проводов
+Kolory przewodów fazowych
+Fázisvezetékek színei
+Colores de los cables de fase
+
+#4554
+Marron Noir Gris (IEC)
+Marrom Preto Cinza (IEC)
+棕 黑 灰 (IEC)
+Коричневый Чёрный Серый (IEC)
+Brązowy Czarny Szary (IEC)
+Barna Fekete Szürke (IEC)
+Marrón Negro Gris (IEC)
+
+#4555
+Rouge Jaune Bleu
+Vermelho Amarelo Azul
+红 黄 蓝
+Красный Жёлтый Синий
+Czerwony Żółty Niebieski
+Piros Sárga Kék
+Rojo Amarillo Azul
+
+#4556
+Après le câblage d'une phase
+Depois de ligar uma fase
+接好一相之后
+После подключения одной фазы
+Po podłączeniu jednej fazy
+Egy fázis bekötése után
+Después de cablear una fase
+
+#4557
+Proposer les autres phases
+Sugerir as outras fases
+提示其他相
+Предложить остальные фазы
+Zaproponuj pozostałe fazy
+A többi fázis felajánlása
+Proponer las otras fases
+
+#4558
+Ne pas demander
+Não perguntar
+不询问
+Не спрашивать
+Nie pytaj
+Ne kérdezze
+No preguntar
+
+#4559
+Fils : faites glisser d'une borne à une autre, ou touchez une borne puis la seconde. Les deux fonctionnent.
+Fios: arraste de um borne para outro, ou toque em um borne e depois no segundo. Os dois funcionam.
+导线：从一个端子拖到另一个端子，或先点一个端子再点第二个。两种方式都可以。
+Провода: перетащите от одной клеммы к другой или нажмите на клемму, затем на вторую. Работают оба способа.
+Przewody: przeciągnij od jednego zacisku do drugiego albo dotknij zacisku, a potem drugiego. Oba sposoby działają.
+Vezetékek: húzza az egyik sorkapocstól a másikig, vagy koppintson egy kapocsra, majd a másodikra. Mindkettő működik.
+Cables: arrastre de un borne a otro, o toque un borne y luego el segundo. Ambos funcionan.
+
+#4560
+Montage d'armoire : ajoutez une plaque de montage, des rails DIN et des goulottes depuis la liste des pièces (groupe Dessin). Les appareils déposés près d'un rail s'y clipsent.
+Montagem do painel: adicione uma placa de montagem, trilhos DIN e canaletas da lista de peças (grupo Desenho). Dispositivos soltos perto de um trilho encaixam nele.
+组装控制柜：从零件列表（绘图组）添加安装板、DIN 导轨和线槽。放在导轨附近的设备会卡装到导轨上。
+Сборка шкафа: добавьте монтажную панель, DIN-рейки и кабель-каналы из списка деталей (группа «Чертёж»). Устройства, брошенные рядом с рейкой, защёлкиваются на ней.
+Budowa szafy: dodaj płytę montażową, szyny DIN i korytka kablowe z listy części (grupa Rysunek). Urządzenia upuszczone obok szyny zatrzaskują się na niej.
+Szekrényépítés: adjon hozzá szerelőlapot, DIN-sínt és kábelcsatornát az alkatrészlistából (Rajz csoport). A sín közelébe ejtett készülékek rápattannak.
+Montaje del cuadro: añada una placa de montaje, carriles DIN y canaletas desde la lista de piezas (grupo Dibujo). Los dispositivos soltados cerca de un carril se enganchan en él.
+
+#4561
+Construire une armoire exemple sur rails
+Montar um painel de exemplo em trilhos
+在导轨上搭建示例控制柜
+Собрать пример шкафа на рейках
+Zbuduj przykładową szafę na szynach
+Mintaszekrény építése síneken
+Montar un cuadro de ejemplo en carriles
+
+#4562
+Remplacer le dessin par une armoire exemple sur rails DIN ?
+Substituir o desenho por um painel de exemplo em trilhos DIN?
+用 DIN 导轨上的示例控制柜替换当前图纸？
+Заменить чертёж примером шкафа на DIN-рейках?
+Zastąpić rysunek przykładową szafą na szynach DIN?
+Lecseréli a rajzot egy DIN-síneken lévő mintaszekrényre?
+¿Reemplazar el dibujo por un cuadro de ejemplo en carriles DIN?
+
+#4563
+Armoire exemple : câblez G1 à QF1 (essayez la proposition automatique des phases), puis QF1 à KM1, KM1 à FR1, FR1 au moteur.
+Painel de exemplo: ligue G1 ao QF1 (experimente a sugestão automática de fases), depois QF1 ao KM1, KM1 ao FR1, FR1 ao motor.
+示例控制柜：将 G1 接到 QF1（试试自动提示其他相），然后 QF1 接 KM1，KM1 接 FR1，FR1 接电机。
+Пример шкафа: подключите G1 к QF1 (попробуйте автопредложение фаз), затем QF1 к KM1, KM1 к FR1, FR1 к двигателю.
+Przykładowa szafa: połącz G1 z QF1 (wypróbuj automatyczną propozycję faz), potem QF1 z KM1, KM1 z FR1, FR1 z silnikiem.
+Mintaszekrény: kösse G1-et QF1-re (próbálja ki az automatikus fázisajánlást), majd QF1-et KM1-re, KM1-et FR1-re, FR1-et a motorra.
+Cuadro de ejemplo: cablee G1 a QF1 (pruebe la propuesta automática de fases), luego QF1 a KM1, KM1 a FR1, FR1 al motor.
+
+#4564
+Clipsé sur le rail DIN.
+Encaixado no trilho DIN.
+已卡装到 DIN 导轨上。
+Защёлкнуто на DIN-рейке.
+Zatrzaśnięto na szynie DIN.
+Rápattintva a DIN-sínre.
+Enganchado en el carril DIN.
+
+#4565
+Les câbler
+Ligar
+接线
+Подключить
+Podłącz je
+Bekötés
+Cablearlas
+
+#4566
+Ne plus demander
+Não perguntar novamente
+不再询问
+Больше не спрашивать
+Nie pytaj ponownie
+Ne kérdezze újra
+No volver a preguntar
+
+#4567
+Vous pouvez le réactiver depuis Affichage.
+Você pode reativar em Exibição.
+可以在“显示”中重新开启。
+Можно снова включить в разделе «Отображение».
+Możesz to ponownie włączyć w menu Wyświetlanie.
+A Megjelenítés menüben újra bekapcsolhatja.
+Puede volver a activarlo desde Visualización.
+
+#4568
+Mécanique
+Mecânica
+机械
+Механика
+Mechanika
+Mechanika
+Mecánica
+
+#4569
+Affichage : aspect réel, couleurs des phases
+Exibição: aparência real, cores das fases
+显示：真实外观、相线颜色
+Отображение: реальный вид, цвета фаз
+Wyświetlanie: wygląd rzeczywisty, kolory faz
+Megjelenítés: valósághű kinézet, fázisszínek
+Visualización: aspecto real, colores de fase
+
+#6700
+Outillage à main et mesure
+Ferramentas manuais e medição
+手工工具与测量
+Ручной инструмент и измерения
+Narzędzia ręczne i pomiarowe
+Kéziszerszámok és mérés
+Herramientas manuales y medición
+
+#6701
+Fixations et assemblages
+Fixadores e uniões
+紧固件与连接
+Крепёж и соединения
+Elementy złączne i połączenia
+Kötőelemek és kötések
+Fijaciones y uniones
+
+#6702
+Électrovannes et pneumatique
+Solenoides e pneumática
+电磁阀与气动
+Электромагнитные клапаны и пневматика
+Elektrozawory i pneumatyka
+Mágnesszelepek és pneumatika
+Electroválvulas y neumática
+
+#6703
+Pompes
+Bombas
+泵
+Насосы
+Pompy
+Szivattyúk
+Bombas
+
+#6704
+Moteurs et réducteurs
+Motores e redutores
+电机与减速机
+Двигатели и редукторы
+Silniki i przekładnie
+Motorok és hajtóművek
+Motores y reductores
+
+#6705
+Courroies, chaînes et accouplements
+Correias, correntes e acoplamentos
+皮带、链条与联轴器
+Ремни, цепи и муфты
+Pasy, łańcuchy i sprzęgła
+Szíjak, láncok és tengelykapcsolók
+Correas, cadenas y acoplamientos
+
+#6706
+Roulements
+Rolamentos
+轴承
+Подшипники
+Łożyska
+Csapágyak
+Rodamientos
+
+#6707
+Joints et garnitures
+Vedações e juntas
+密封件与垫片
+Уплотнения и прокладки
+Uszczelnienia i uszczelki
+Tömítések
+Sellos y juntas
+
+#6708
+Cuves et équipements pharmaceutiques
+Tanques e equipamentos farmacêuticos
+储罐与制药设备
+Ёмкости и фармацевтическое оборудование
+Zbiorniki i urządzenia farmaceutyczne
+Tartályok és gyógyszeripari berendezések
+Tanques y equipos farmacéuticos
+
+#6709
+Bibliothèque
+Biblioteca
+资料库
+Библиотека
+Biblioteka
+Könyvtár
+Biblioteca
+
+#6710
+Atelier : montage
+Oficina: montagem
+车间：组装
+Мастерская: сборка
+Warsztat: budowa
+Műhely: építés
+Taller: montaje
+
+#6711
+Quiz
+Quiz
+测验
+Тест
+Quiz
+Kvíz
+Cuestionario
+
+#6712
+Tous les éléments
+Todos os itens
+全部项目
+Все элементы
+Wszystkie elementy
+Minden elem
+Todos los elementos
+
+#6713
+Rechercher (vanne, joint, roulement...)
+Pesquisar (válvula, vedação, rolamento...)
+搜索（阀门、密封件、轴承...）
+Поиск (клапан, уплотнение, подшипник...)
+Szukaj (zawór, uszczelnienie, łożysko...)
+Keresés (szelep, tömítés, csapágy...)
+Buscar (válvula, sello, rodamiento...)
+
+#6714
+Aucun résultat.
+Nada encontrado.
+未找到任何内容。
+Ничего не найдено.
+Nic nie znaleziono.
+Nincs találat.
+No se encontró nada.
+
+#6715
+Vue éclatée
+Vista explodida
+爆炸视图
+Разнесённый вид
+Widok rozstrzelony
+Robbantott nézet
+Vista explosionada
+
+#6716
+Démonter
+Desmontar
+拆解
+Разобрать
+Rozmontuj
+Szétszerelés
+Desmontar
+
+#6717
+Vue en coupe
+Vista em corte
+剖视图
+Разрез
+Przekrój
+Metszet
+Vista en corte
+
+#6718
+Noms
+Nomes
+名称
+Названия
+Nazwy
+Nevek
+Nombres
+
+#6719
+Remontez-le
+Monte-o
+组装它
+Соберите его
+Zmontuj to
+Szerelje össze
+Móntelo
+
+#6720
+Tourner
+Girar
+旋转
+Вращать
+Obróć
+Forgatás
+Girar
+
+#6721
+Réinitialiser la vue
+Redefinir vista
+重置视图
+Сбросить вид
+Resetuj widok
+Nézet visszaállítása
+Restablecer vista
+
+#6722
+Seulement celle-ci
+Só esta
+仅显示此项
+Только эту
+Tylko ta
+Csak ez
+Solo esta
+
+#6723
+Tout afficher
+Mostrar tudo
+全部显示
+Показать все
+Pokaż wszystko
+Összes megjelenítése
+Mostrar todo
+
+#6724
+Qu'est-ce que c'est
+O que é
+这是什么
+Что это
+Co to jest
+Mi ez
+Qué es
+
+#6725
+Où on le trouve
+Onde se encontra
+在哪里能找到
+Где встречается
+Gdzie występuje
+Hol található
+Dónde se encuentra
+
+#6726
+Fonctionnement
+Como funciona
+工作原理
+Как работает
+Jak działa
+Hogyan működik
+Cómo funciona
+
+#6727
+Défaillances courantes
+Falhas comuns
+常见故障
+Типичные неисправности
+Typowe usterki
+Gyakori hibák
+Fallos comunes
+
+#6728
+Contrôles et maintenance
+Verificações e manutenção
+检查与维护
+Проверки и обслуживание
+Kontrole i konserwacja
+Ellenőrzések és karbantartás
+Comprobaciones y mantenimiento
+
+#6729
+Afficher / masquer
+Mostrar / ocultar
+显示 / 隐藏
+Показать / скрыть
+Pokaż / ukryj
+Megjelenítés / elrejtés
+Mostrar / ocultar
+
+#6730
+Pièces internes
+Peças internas
+内部零件
+Внутренние детали
+Części wewnętrzne
+Belső alkatrészek
+Piezas internas
+
+#6731
+Touchez une pièce en 3D ou dans la liste.
+Toque em uma peça no 3D ou na lista.
+在 3D 视图或列表中点选一个零件。
+Нажмите на деталь в 3D или в списке.
+Dotknij części w widoku 3D lub na liście.
+Koppintson egy alkatrészre a 3D nézetben vagy a listában.
+Toque una pieza en 3D o en la lista.
+
+#6732
+Votre meilleur montage :
+Sua melhor montagem:
+你的最佳组装：
+Ваша лучшая сборка:
+Twój najlepszy montaż:
+Legjobb összeszerelése:
+Su mejor montaje:
+
+#6733
+erreurs
+erros
+处错误
+ошибок
+błędów
+hiba
+errores
+
+#6734
+Remontez-le dans le bon ordre
+Monte-o na ordem certa
+按正确顺序组装
+Соберите его в правильном порядке
+Zmontuj to we właściwej kolejności
+Szerelje össze a helyes sorrendben
+Móntelo en el orden correcto
+
+#6735
+Choisissez les pièces dans l'ordre où vous les monteriez.
+Escolha as peças na ordem em que você as montaria.
+按你实际安装的顺序选择零件。
+Выбирайте детали в том порядке, в котором вы бы их устанавливали.
+Wybieraj części w kolejności, w jakiej byś je montował.
+Válassza ki az alkatrészeket abban a sorrendben, ahogy beszerelné őket.
+Elija las piezas en el orden en que las montaría.
+
+#6736
+Monter
+Montar
+组装
+Собрать
+Zmontuj
+Összeszerelés
+Montar
+
+#6737
+Arrêter
+Parar
+停止
+Стоп
+Zatrzymaj
+Leállítás
+Detener
+
+#6738
+Pas encore :
+Ainda não:
+还不行：
+Ещё рано:
+Jeszcze nie:
+Még nem:
+Todavía no:
+
+#6739
+ se monte plus tard.
+ entra depois.
+ 要稍后安装。
+ ставится позже.
+ montuje się później.
+ később kerül sorra.
+ va más tarde.
+
+#6740
+Monté !
+Montado!
+组装完成！
+Собрано!
+Zmontowano!
+Összeszerelve!
+¡Montado!
+
+#6741
+Encore
+De novo
+再来一次
+Ещё раз
+Jeszcze raz
+Újra
+Otra vez
+
+#6742
+Aucun projet d'atelier pour l'instant.
+Ainda não há projetos de oficina.
+还没有车间项目。
+Пока нет проектов мастерской.
+Brak projektów warsztatowych.
+Még nincsenek műhelyprojektek.
+Aún no hay proyectos de taller.
+
+#6743
+Vérifier mon montage
+Verificar minha montagem
+检查我的组装
+Проверить мою сборку
+Sprawdź moją budowę
+Építésem ellenőrzése
+Comprobar mi montaje
+
+#6744
+Recommencer
+Recomeçar
+重新开始
+Начать заново
+Zacznij od nowa
+Újrakezdés
+Empezar de nuevo
+
+#6745
+Projet
+Projeto
+项目
+Проект
+Projekt
+Projekt
+Proyecto
+
+#6746
+Choisissez ce qui se monte sur :
+Escolha o que vai em:
+选择要装在此处的部件：
+Выберите, что ставится на:
+Wybierz, co montuje się na:
+Válassza ki, mi kerül ide:
+Elija qué va en:
+
+#6747
+Faites glisser une pièce sur un point +, ou touchez d'abord un point.
+Arraste uma peça para um ponto +, ou toque primeiro em um ponto.
+把零件拖到一个 + 点上，或先点一个点。
+Перетащите деталь на точку + или сначала нажмите на точку.
+Przeciągnij część na punkt + albo najpierw dotknij punktu.
+Húzzon egy alkatrészt egy + pontra, vagy előbb koppintson egy pontra.
+Arrastre una pieza a un punto +, o toque primero un punto.
+
+#6748
+Touchez d'abord un point + sur le dessin, ou faites-y glisser la pièce.
+Toque primeiro em um ponto + no desenho, ou arraste a peça até ele.
+先在图上点一个 + 点，或把零件拖到该点上。
+Сначала нажмите на точку + на чертеже или перетащите на неё деталь.
+Najpierw dotknij punktu + na rysunku albo przeciągnij na niego część.
+Először koppintson egy + pontra a rajzon, vagy húzza rá az alkatrészt.
+Toque primero un punto + en el dibujo, o arrastre la pieza sobre él.
+
+#6749
+Déposez-la sur un point +.
+Solte-a em um ponto +.
+放到一个 + 点上。
+Отпустите её на точке +.
+Upuść ją na punkt +.
+Ejtse egy + pontra.
+Suéltela en un punto +.
+
+#6750
+ ne va pas sur
+ não encaixa em
+ 不能装在
+ не подходит для
+ nie pasuje do
+ nem illik ide:
+ no encaja en
+
+#6751
+Tout est correct. Appuyez sur Lancer.
+Tudo certo. Pressione Executar.
+全部正确。请按“运行”。
+Всё верно. Нажмите «Пуск».
+Wszystko poprawnie. Naciśnij Uruchom.
+Minden helyes. Nyomja meg a Futtatás gombot.
+Todo correcto. Pulse Ejecutar.
+
+#6752
+Correct :
+Corretas:
+正确：
+Верно:
+Poprawnie:
+Helyes:
+Correctas:
+
+#6753
+Corrigez d'abord les points rouges.
+Corrija primeiro os pontos vermelhos.
+请先修正红色的点。
+Сначала исправьте красные точки.
+Najpierw popraw czerwone punkty.
+Először javítsa ki a piros pontokat.
+Corrija primero los puntos rojos.
+
+#6754
+Atelier
+Oficina
+车间
+Мастерская
+Warsztat
+Műhely
+Taller
+
+#6755
+Voir l'intérieur
+Ver por dentro
+查看内部
+Посмотреть внутри
+Zobacz wnętrze
+Belső nézet
+Ver por dentro
+
+#6756
+(facultatif)
+(opcional)
+（可选）
+(необязательно)
+(opcjonalnie)
+(opcionális)
+(opcional)
+
+#6757
+Points de montage
+Pontos de montagem
+安装点
+Точки сборки
+Punkty montażowe
+Szerelési pontok
+Puntos de montaje
+
+#6758
+manquant
+faltando
+缺失
+не хватает
+brakuje
+hiányzik
+falta
+
+#6759
+10 questions tirées de la bibliothèque 3D : nommez la pièce en surbrillance, nommez l'élément, et questions pratiques.
+10 perguntas da biblioteca 3D: diga o nome da peça destacada, diga o nome do item e perguntas práticas.
+来自 3D 资料库的 10 道题：说出高亮零件的名称、说出设备名称，以及实际操作题。
+10 вопросов из 3D-библиотеки: назовите выделенную деталь, назовите изделие и практические вопросы.
+10 pytań z biblioteki 3D: nazwij podświetloną część, nazwij element i pytania praktyczne.
+10 kérdés a 3D könyvtárból: nevezze meg a kiemelt alkatrészt, nevezze meg az elemet, és gyakorlati kérdések.
+10 preguntas de la biblioteca 3D: nombre la pieza resaltada, nombre el elemento y preguntas prácticas.
+
+#6760
+Meilleur score :
+Melhor pontuação:
+最高分：
+Лучший результат:
+Najlepszy wynik:
+Legjobb eredmény:
+Mejor puntuación:
+
+#6761
+Nouveau quiz
+Novo quiz
+新测验
+Новый тест
+Nowy quiz
+Új kvíz
+Nuevo cuestionario
+
+#6762
+Quelle est la pièce en surbrillance sur :
+Qual é a peça destacada em:
+以下设备中高亮的零件是什么：
+Какая деталь выделена в изделии:
+Jaka część jest podświetlona w:
+Mi a kiemelt alkatrész ebben:
+¿Cuál es la pieza resaltada de:
+
+#6763
+Question
+Pergunta
+题目
+Вопрос
+Pytanie
+Kérdés
+Pregunta
+
+#6764
+score
+pontuação
+得分
+результат
+wynik
+pontszám
+puntuación
+
+#6765
+Juste.
+Certo.
+正确。
+Верно.
+Dobrze.
+Helyes.
+Correcto.
+
+#6766
+Réponse :
+Resposta:
+答案：
+Ответ:
+Odpowiedź:
+Válasz:
+Respuesta:
+
+#6767
+Voir le résultat
+Ver resultado
+查看结果
+Показать результат
+Zobacz wynik
+Eredmény megtekintése
+Ver resultado
+
+#6768
+Suivant
+Próxima
+下一题
+Далее
+Dalej
+Következő
+Siguiente
+
+#6769
+Ouvrir dans la bibliothèque
+Abrir na biblioteca
+在资料库中打开
+Открыть в библиотеке
+Otwórz w bibliotece
+Megnyitás a könyvtárban
+Abrir en la biblioteca
+
+#6770
+Résultat
+Resultado
+结果
+Результат
+Wynik
+Eredmény
+Resultado
+
+#6771
+Très bien.
+Muito bom.
+非常好。
+Очень хорошо.
+Bardzo dobrze.
+Nagyon jó.
+Muy bien.
+
+#6772
+Bien. Révisez dans la bibliothèque les éléments manqués.
+Bom. Revise na biblioteca os itens que você errou.
+不错。请到资料库复习答错的项目。
+Хорошо. Повторите в библиотеке элементы, на которых ошиблись.
+Dobrze. Powtórz w bibliotece elementy, które pominąłeś.
+Jó. Nézze át a könyvtárban az elhibázott elemeket.
+Bien. Repase en la biblioteca los elementos que falló.
+
+#6773
+Ouvrez la bibliothèque, démontez les éléments et réessayez.
+Abra a biblioteca, desmonte os itens e tente de novo.
+打开资料库，拆解各个项目，然后再试一次。
+Откройте библиотеку, разберите элементы и попробуйте снова.
+Otwórz bibliotekę, rozmontuj elementy i spróbuj ponownie.
+Nyissa meg a könyvtárat, szedje szét az elemeket, és próbálja újra.
+Abra la biblioteca, desmonte los elementos e inténtelo de nuevo.
+
+#6774
+La 3D nécessite WebGL. Activez l'accélération matérielle dans le navigateur.
+O 3D precisa de WebGL. Ative a aceleração de hardware no navegador.
+3D 需要 WebGL。请在浏览器中开启硬件加速。
+Для 3D нужен WebGL. Включите аппаратное ускорение в браузере.
+Widok 3D wymaga WebGL. Włącz akcelerację sprzętową w przeglądarce.
+A 3D-hez WebGL szükséges. Kapcsolja be a hardveres gyorsítást a böngészőben.
+El 3D necesita WebGL. Active la aceleración por hardware en el navegador.
+
+#6775
+Afficher la liste
+Mostrar a lista
+显示列表
+Показать список
+Pokaż listę
+Lista megjelenítése
+Mostrar la lista
+
+#6776
+Masquer la liste
+Ocultar a lista
+隐藏列表
+Скрыть список
+Ukryj listę
+Lista elrejtése
+Ocultar la lista
+
+#6777
+Afficher le panneau latéral
+Mostrar o painel lateral
+显示侧边面板
+Показать боковую панель
+Pokaż panel boczny
+Oldalpanel megjelenítése
+Mostrar el panel lateral
+
+#6778
+Afficher les instructions
+Mostrar as instruções
+显示说明
+Показать инструкции
+Pokaż instrukcje
+Útmutató megjelenítése
+Mostrar las instrucciones
+
+#6779
+Afficher la bibliothèque de pièces
+Mostrar a biblioteca de peças
+显示零件库
+Показать библиотеку деталей
+Pokaż bibliotekę części
+Alkatrészkönyvtár megjelenítése
+Mostrar la biblioteca de piezas
+
+#6780
+Afficher l'explication
+Mostrar a explicação
+显示讲解
+Показать объяснение
+Pokaż wyjaśnienie
+Magyarázat megjelenítése
+Mostrar la explicación
+
+#6781
+Station d'eau à partir de zéro : faites glisser des unités depuis la liste (alimentation, bâche de rupture, pompes, filtres, RO, UV, cuves) et reliez-les par des tuyaux. Appuyez sur Test pour lancer.
+Estação de água do zero: arraste unidades da lista (alimentação, tanque de quebra, bombas, filtros, RO, UV, tanques) e ligue-as com tubos. Pressione Testar para rodar.
+从零开始搭建水站：从列表拖入单元（供水、断流水箱、泵、过滤器、RO、UV、储罐），并用管道连接。按“测试”运行。
+Водоподготовка с нуля: перетащите узлы из списка (подача, разрывной бак, насосы, фильтры, RO, UV, баки) и соедините их трубами. Нажмите «Тест» для запуска.
+Stacja wody od zera: przeciągnij jednostki z listy (zasilanie, zbiornik przerywający, pompy, filtry, RO, UV, zbiorniki) i połącz je rurami. Naciśnij Test, aby uruchomić.
+Vízállomás a nulláról: húzzon egységeket a listából (betáplálás, megszakító tartály, szivattyúk, szűrők, RO, UV, tartályok), és kösse össze őket csövekkel. A futtatáshoz nyomja meg a Teszt gombot.
+Estación de agua desde cero: arrastre unidades de la lista (suministro, tanque de rotura, bombas, filtros, RO, UV, tanques) y únalas con tuberías. Pulse Probar para ejecutar.
+
+#6782
+Construire une station d'eau à partir de zéro
+Montar uma estação de água do zero
+从零开始搭建水站
+Собрать станцию водоподготовки с нуля
+Zbuduj stację wody od zera
+Vízállomás építése a nulláról
+Montar una estación de agua desde cero
+
+#6783
+Construire un skid mécanique
+Montar um skid mecânico
+搭建机械撬装
+Собрать механический модуль (skid)
+Zbuduj mechaniczny skid
+Mechanikus skid építése
+Montar un skid mecánico
+
+#6784
+Rail DIN 35 mm. Déposez disjoncteurs, contacteurs et bornes à proximité : ils se clipsent en ligne, comme dans une vraie armoire.
+Trilho DIN de 35 mm. Solte disjuntores, contatores e bornes perto dele: eles encaixam em linha, como em um painel real.
+35 mm DIN 导轨。把断路器、接触器和端子放到它附近：它们会排成一行卡装上去，就像真实的控制柜。
+DIN-рейка 35 mm. Бросьте рядом автоматы, контакторы и клеммы: они защёлкнутся в ряд, как в настоящем шкафу.
+Szyna DIN 35 mm. Upuść obok wyłączniki, styczniki i zaciski: zatrzasną się w rzędzie, jak w prawdziwej szafie.
+35 mm-es DIN-sín. Ejtsen a közelébe megszakítókat, mágneskapcsolókat és sorkapcsokat: sorban rápattannak, mint egy valódi szekrényben.
+Carril DIN de 35 mm. Suelte interruptores, contactores y bornes cerca de él: se enganchan en fila, como en un cuadro real.
+
+#6785
+Goulotte (verticale)
+Canaleta (vertical)
+线槽（竖直）
+Кабель-канал (вертикальный)
+Korytko kablowe (pionowe)
+Kábelcsatorna (függőleges)
+Canaleta (vertical)
+
+#6786
+Goulotte (horizontale)
+Canaleta (horizontal)
+线槽（水平）
+Кабель-канал (горизонтальный)
+Korytko kablowe (poziome)
+Kábelcsatorna (vízszintes)
+Canaleta (horizontal)
+
+#6787
+Goulotte de câblage à fentes. Faites passer les fils à l'intérieur, entre les rangées d'appareils.
+Canaleta ranhurada para fiação. Passe os fios por dentro dela, entre as fileiras de dispositivos.
+开槽式线槽。把导线从设备排之间的线槽内走线。
+Перфорированный кабель-канал. Прокладывайте провода внутри него между рядами устройств.
+Perforowane korytko kablowe. Prowadź w nim przewody między rzędami urządzeń.
+Réselt kábelcsatorna. A vezetékeket ebben vezesse a készüléksorok között.
+Canaleta ranurada para cableado. Pase los cables por dentro, entre las filas de dispositivos.
+
+#6788
+Plaque de montage galvanisée d'une armoire. Posez-y les rails DIN et les goulottes, puis les appareils.
+Placa de montagem galvanizada de um painel. Coloque os trilhos DIN e as canaletas nela, depois os dispositivos.
+控制柜的镀锌安装板。先在上面装 DIN 导轨和线槽，再装设备。
+Оцинкованная монтажная панель шкафа. Установите на неё DIN-рейки и кабель-каналы, затем устройства.
+Ocynkowana płyta montażowa szafy. Umieść na niej szyny DIN i korytka, a potem urządzenia.
+Szekrény horganyzott szerelőlapja. Helyezze rá a DIN-síneket és a csatornákat, majd a készülékeket.
+Placa de montaje galvanizada de un cuadro. Coloque en ella los carriles DIN y las canaletas, y luego los dispositivos.
+
+#6789
+Câbler les {1} autres phases de la même façon ?
+Ligar as outras {1} fases da mesma forma?
+以同样方式连接其余 {1} 相？
+Подключить остальные {1} фазы так же?
+Podłączyć pozostałe {1} fazy w ten sam sposób?
+Bekösse a többi {1} fázist ugyanígy?
+¿Cablear las otras {1} fases de la misma manera?
+
+#6790
+{1} phase(s) supplémentaire(s) câblée(s).
+{1} fase(s) a mais ligada(s).
+已多连接 {1} 相。
+Подключено ещё фаз: {1}.
+Podłączono {1} dodatkowe fazy.
+{1} további fázis bekötve.
+{1} fase(s) más cableada(s).
+
+#6795
+Rail DIN {1} cm
+Trilho DIN {1} cm
+DIN 导轨 {1} cm
+DIN-рейка {1} cm
+Szyna DIN {1} cm
+DIN-sín {1} cm
+Carril DIN {1} cm
+
+#6796
+Plaque de montage {1} x {2}
+Placa de montagem {1} x {2}
+安装板 {1} x {2}
+Монтажная панель {1} x {2}
+Płyta montażowa {1} x {2}
+Szerelőlap {1} x {2}
+Placa de montaje {1} x {2}
+
+
+#6797
+Options d’affichage
+Opções de visualização
+显示选项
+Параметры вида
+Opcje widoku
+Nézet beállításai
+Opciones de vista
+
+
+#6798
+Afficher toutes les pièces
+Mostrar todas as peças
+显示全部零件
+Показать все детали
+Pokaż wszystkie części
+Összes alkatrész mutatása
+Mostrar todas las piezas

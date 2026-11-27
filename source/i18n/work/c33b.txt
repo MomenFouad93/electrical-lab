@@ -1,0 +1,1322 @@
+#6100
+Écrou fileté de précision, pas 0,5 mm, fendu pour rattraper l'usure.
+Porca roscada de precisão, passo 0,5 mm, bipartida para compensar o desgaste.
+精密螺纹螺母，螺距 0.5 mm，开口式结构可补偿磨损。
+Прецизионная резьбовая гайка с шагом 0,5 mm, разрезная для выборки износа.
+Precyzyjna nakrętka gwintowana, skok 0,5 mm, nacięta, aby kasować zużycie.
+Precíziós menetes anya, 0,5 mm menetemelkedés, hasított, hogy a kopás utánállítható legyen.
+Tuerca roscada de precisión, paso 0,5 mm, partida para compensar el desgaste.
+
+#6101
+Écrou de réglage
+Porca de ajuste
+调节螺母
+Регулировочная гайка
+Nakrętka regulacyjna
+Állítóanya
+Tuerca de ajuste
+
+#6102
+Resserre l'écrou fendu pour supprimer le jeu du filetage.
+Fecha a porca bipartida para eliminar a folga da rosca.
+收紧开口螺母，消除螺纹间隙。
+Стягивает разрезную гайку, устраняя люфт в резьбе.
+Zaciska naciętą nakrętkę, kasując luz gwintu.
+Összehúzza a hasított anyát, megszüntetve a menethézagot.
+Cierra la tuerca partida para eliminar la holgura de la rosca.
+
+#6103
+Broche à filet de 0,5 mm
+Fuso com rosca de 0,5 mm
+0.5 mm 螺纹测微螺杆
+Микровинт с резьбой 0,5 mm
+Wrzeciono z gwintem 0,5 mm
+Orsó 0,5 mm-es menettel
+Husillo con rosca de 0,5 mm
+
+#6104
+Vis rectifiée : chaque tour complet déplace la touche de 0,5 mm.
+Rosca retificada: cada volta completa move a face 0,5 mm.
+磨削螺杆：每转一整圈测量面移动 0.5 mm。
+Шлифованный винт: каждый полный оборот перемещает поверхность на 0,5 mm.
+Szlifowana śruba: każdy pełny obrót przesuwa powierzchnię o 0,5 mm.
+Köszörült csavar: minden teljes fordulat 0,5 mm-rel mozdítja a mérőfelületet.
+Tornillo rectificado: cada vuelta completa mueve la cara 0,5 mm.
+
+#6105
+Tambour (50 traits)
+Tambor (50 linhas)
+微分筒（50 格）
+Барабан (50 делений)
+Bęben (50 kresek)
+Dob (50 vonal)
+Tambor (50 líneas)
+
+#6106
+Solidaire de la broche ; 50 traits sur le pourtour, chacun = 0,01 mm.
+Preso ao fuso; 50 linhas em volta, cada uma = 0,01 mm.
+与测微螺杆固定；圆周 50 格，每格 = 0.01 mm。
+Закреплён на микровинте; 50 делений по окружности, каждое = 0,01 mm.
+Przymocowany do wrzeciona; 50 kresek na obwodzie, każda = 0,01 mm.
+Az orsóhoz rögzítve; körben 50 vonal, mindegyik = 0,01 mm.
+Fijado al husillo; 50 líneas alrededor, cada una = 0,01 mm.
+
+#6107
+Cliquet limiteur (friction)
+Catraca de fricção
+测力棘轮
+Трещотка
+Sprzęgiełko
+Racsnis nyomatékhatároló
+Trinquete limitador
+
+#6108
+Patine à une force fixe pour que chaque mesure ait la même pression.
+Patina em uma força fixa para que toda leitura tenha a mesma pressão.
+达到固定力时打滑，使每次读数的测量力相同。
+Проскальзывает при постоянном усилии, чтобы каждое измерение было с одинаковым нажимом.
+Ślizga się przy stałej sile, więc każdy odczyt ma ten sam nacisk.
+Meghatározott erőnél megcsúszik, így minden mérés azonos nyomással történik.
+Patina a una fuerza fija para que cada lectura tenga la misma presión.
+
+#6109
+Blocage de la broche
+Trava do fuso
+测微螺杆锁紧
+Стопор микровинта
+Blokada wrzeciona
+Orsórögzítő
+Bloqueo del husillo
+
+#6110
+Bloque la broche pour garder une lecture.
+Trava o fuso para manter a leitura.
+锁住测微螺杆以保持读数。
+Фиксирует микровинт, чтобы сохранить показание.
+Blokuje wrzeciono, aby zachować odczyt.
+Rögzíti az orsót a leolvasás megtartásához.
+Bloquea el husillo para mantener una lectura.
+
+#6111
+Ouvrir à 7,85 mm
+Abrir até 7,85 mm
+打开到 7.85 mm
+Развести до 7,85 mm
+Otwórz na 7,85 mm
+Nyitás 7,85 mm-re
+Abrir a 7,85 mm
+
+#6112
+Le fourreau montre 7 mm et le demi-trait, le trait 35 du tambour est sur la ligne de référence. Lecture ?
+A bainha mostra 7 mm e a meia linha, a linha 35 do tambor está na referência. Leitura?
+固定套管显示 7 mm 和半毫米线，微分筒第 35 格对准基准线。读数是多少？
+На стебле видно 7 mm и полумиллиметровую риску, деление барабана 35 на продольной риске. Показание?
+Tuleja pokazuje 7 mm i kreskę połówkową, kreska bębna 35 jest na linii odniesienia. Odczyt?
+A hüvelyen 7 mm és a félvonal látszik, a dob 35-ös vonala az alapvonalon áll. Leolvasás?
+El cilindro muestra 7 mm y la media línea, la línea 35 del tambor está sobre la referencia. ¿Lectura?
+
+#6113
+Pourquoi fermer le micromètre avec le cliquet ?
+Por que fechar o micrômetro com a catraca?
+为什么要用测力棘轮合拢千分尺？
+Зачем сводить микрометр трещоткой?
+Dlaczego zamykać mikrometr sprzęgiełkiem?
+Miért a racsnival kell zárni a mikrométert?
+¿Por qué cerrar el micrómetro con el trinquete?
+
+#6114
+Même force de mesure à chaque fois
+Mesma força de medição sempre
+每次测量力相同
+Одинаковое измерительное усилие каждый раз
+Za każdym razem ta sama siła pomiarowa
+Minden alkalommal azonos mérőerő
+La misma fuerza de medición cada vez
+
+#6115
+C'est plus rapide
+É mais rápido
+更快
+Так быстрее
+Jest szybciej
+Gyorsabb
+Es más rápido
+
+#6116
+Pour bloquer la broche
+Para travar o fuso
+为了锁住螺杆
+Чтобы застопорить микровинт
+Aby zablokować wrzeciono
+Az orsó rögzítéséhez
+Para bloquear el husillo
+
+#6117
+Pour régler le zéro
+Para ajustar o zero
+为了调零
+Чтобы установить ноль
+Aby ustawić zero
+A nulla beállításához
+Para ajustar el cero
+
+#6118
+Comparateur sur support magnétique
+Relógio comparador em base magnética
+磁力表座上的百分表
+Индикатор часового типа на магнитной стойке
+Czujnik zegarowy na statywie magnetycznym
+Mérőóra mágneses talpon
+Reloj comparador en base magnética
+
+#6119
+Une touche (palpeur) déplace une crémaillère, qui entraîne un train d'engrenages et l'aiguille. En général 0,01 mm par trait, un tour = 1 mm. Le support magnétique et le bras le tiennent dans n'importe quelle position.
+Um apalpador move uma cremalheira, que gira um trem de engrenagens e o ponteiro. Normalmente 0,01 mm por linha, uma volta = 1 mm. A base magnética e o braço o seguram em qualquer posição.
+测杆带动齿条，齿条带动齿轮系和指针。通常每格 0.01 mm，一圈 = 1 mm。磁力表座和表杆可将其固定在任意位置。
+Измерительный стержень двигает рейку, рейка вращает зубчатую передачу и стрелку. Обычно 0,01 mm на деление, один оборот = 1 mm. Магнитная стойка и штанга держат его в любом положении.
+Trzpień pomiarowy przesuwa zębatkę, a ta obraca przekładnię zębatą i wskazówkę. Zwykle 0,01 mm na kreskę, jeden obrót = 1 mm. Statyw magnetyczny i ramię utrzymują go w dowolnej pozycji.
+A mérőcsap fogaslécet mozgat, a fogasléc fogaskerék-áttételt és a mutatót forgatja. Általában 0,01 mm vonalanként, egy fordulat = 1 mm. A mágneses talp és a kar bármilyen helyzetben megtartja.
+Un palpador mueve una cremallera, que gira un tren de engranajes y la aguja. Normalmente 0,01 mm por línea, una vuelta = 1 mm. La base magnética y el brazo lo sujetan en cualquier posición.
+
+#6120
+Faux-rond et jeu axial des arbres, alignement d'accouplement pompe-moteur, planéité et parallélisme des plaques, réglage des cames, des guides et de la hauteur de tourelle sur les presses.
+Batimento e folga axial de eixos, alinhamento de acoplamento bomba-motor, planicidade e paralelismo de placas, ajuste de cames, guias e altura da torre nas compressoras.
+轴的跳动和轴向窜动、泵与电机联轴器对中、板的平面度和平行度、压片机凸轮、导轨和转台高度的调整。
+Биение и осевой люфт валов, центровка муфт насосов и двигателей, плоскостность и параллельность плит, настройка кулачков, направляющих и высоты ротора на прессах.
+Bicie i luz osiowy wałów, osiowanie sprzęgieł pomp i silników, płaskość i równoległość płyt, ustawianie krzywek, prowadnic i wysokości głowicy na prasach.
+Tengelyek ütése és axiális játéka, szivattyú–motor tengelykapcsoló beállítása, lapok síklapúsága és párhuzamossága, bütykök, vezetők és revolverfej-magasság beállítása préseken.
+Descentramiento y juego axial de ejes, alineación de acoplamientos de bomba y motor, planitud y paralelismo de placas, ajuste de levas, guías y altura de la torreta en prensas.
+
+#6121
+Posez la touche perpendiculairement à la surface, précontraignez d'environ un demi-tour, mettez la lunette à zéro, puis tournez l'arbre. Débattement total de l'aiguille = faux-rond total indiqué (TIR).
+Encoste o apalpador perpendicular à superfície, dê uma pré-carga de cerca de meia volta, zere a moldura e gire o eixo. Oscilação total do ponteiro = batimento total indicado (TIR).
+测杆垂直接触表面，预压约半圈，转动表圈对零，然后转动轴。指针总摆动量 = 总指示跳动（TIR）。
+Установите стержень перпендикулярно поверхности, дайте натяг около полуоборота, выставьте ободок на ноль, затем вращайте вал. Полный размах стрелки = полное биение по индикатору (TIR).
+Ustaw trzpień prostopadle do powierzchni, daj napięcie wstępne ok. pół obrotu, ustaw pierścień na zero, potem obracaj wał. Całkowite wychylenie wskazówki = całkowite bicie (TIR).
+A mérőcsapot merőlegesen illessze a felületre, adjon kb. fél fordulat előfeszítést, állítsa a skálagyűrűt nullára, majd forgassa a tengelyt. A mutató teljes kitérése = teljes mért ütés (TIR).
+Apoye el palpador perpendicular a la superficie, precargue alrededor de media vuelta, ponga el bisel a cero y luego gire el eje. Oscilación total de la aguja = descentramiento total indicado (TIR).
+
+#6122
+Touche qui accroche à cause de saleté ou de liquide de coupe, aiguille qui saute à cause d'un engrenage abîmé après une chute, support qui ne tient pas sur acier peint ou mince, bras qui fléchit et fausse les mesures.
+Apalpador emperrado por sujeira ou fluido refrigerante, ponteiro pulando por engrenagem danificada após queda, base que não fixa em aço pintado ou fino, braço cedendo e dando leituras falsas.
+测杆因污物或冷却液发涩、跌落后齿轮损坏导致指针跳动、表座在涂漆或薄钢板上吸不牢、表杆下垂造成读数失真。
+Заедание стержня от грязи или СОЖ, скачки стрелки из-за повреждённой шестерни после падения, стойка не держится на окрашенной или тонкой стали, провисание штанги даёт ложные показания.
+Zacinający się trzpień od brudu lub chłodziwa, skacząca wskazówka z uszkodzonego koła zębatego po upadku, podstawa nie trzyma na malowanej lub cienkiej stali, ugięcie ramienia daje fałszywe odczyty.
+Szennyeződéstől vagy hűtőfolyadéktól akadó mérőcsap, leejtés után sérült fogaskerék miatt ugráló mutató, festett vagy vékony acélon nem tartó talp, belógó kar hamis leolvasást ad.
+Palpador que se pega por suciedad o refrigerante, aguja que salta por un engranaje dañado tras una caída, base que no sujeta sobre acero pintado o delgado, brazo que cede y da lecturas falsas.
+
+#6123
+Gardez la touche sèche et propre (pas d'huile), serrez toutes les noix du bras, mettez l'aimant sur OFF avant de le déplacer, contrôlez-le sur une cale étalon selon le plan.
+Mantenha o apalpador seco e limpo (sem óleo), aperte todas as fixações do braço, coloque o ímã em OFF antes de movê-lo, verifique-o com um bloco-padrão conforme o plano.
+保持测杆干燥清洁（不加油），拧紧所有表杆夹紧件，移动前把磁铁拨到 OFF，按计划用量块校验。
+Держите стержень сухим и чистым (без масла), затяните все зажимы штанги, переводите магнит в OFF перед перемещением, проверяйте по концевой мере согласно плану.
+Utrzymuj trzpień suchy i czysty (bez oleju), dokręć wszystkie zaciski ramienia, przed przesunięciem przełącz magnes na OFF, sprawdzaj go na płytce wzorcowej zgodnie z planem.
+Tartsa a mérőcsapot szárazon és tisztán (olaj nélkül), húzza meg a kar összes szorítóját, mozgatás előtt kapcsolja a mágnest OFF állásba, a terv szerint ellenőrizze mérőhasábon.
+Mantenga el palpador seco y limpio (sin aceite), apriete todas las mordazas del brazo, ponga el imán en OFF antes de moverlo, compruébelo con un bloque patrón según el plan.
+
+#6124
+Support magnétique
+Base magnética
+磁力表座
+Магнитное основание
+Podstawa magnetyczna
+Mágneses talp
+Base magnética
+
+#6125
+Bloc aimanté commutable avec une rainure en V pour les pièces rondes.
+Bloco magnético comutável com rasgo em V para peças redondas.
+可开关的磁力座，带 V 形槽用于圆形零件。
+Переключаемый магнитный блок с V-образной канавкой для круглых деталей.
+Przełączany blok magnetyczny z rowkiem V do części okrągłych.
+Kapcsolható mágnestömb V-horonnyal a hengeres alkatrészekhez.
+Bloque magnético conmutable con ranura en V para piezas redondas.
+
+#6126
+Bouton ON/OFF
+Botão ON/OFF
+ON/OFF 旋钮
+Ручка ON/OFF
+Pokrętło ON/OFF
+ON/OFF gomb
+Pomo ON/OFF
+
+#6127
+Tourne l'aimant intérieur : ON tient, OFF libère.
+Gira o ímã interno: ON prende, OFF solta.
+转动内部磁铁：ON 吸住，OFF 释放。
+Поворачивает внутренний магнит: ON — держит, OFF — отпускает.
+Obraca wewnętrzny magnes: ON trzyma, OFF zwalnia.
+Elforgatja a belső mágnest: ON tart, OFF elenged.
+Gira el imán interior: ON sujeta, OFF suelta.
+
+#6128
+Colonne
+Coluna
+立柱
+Стойка
+Kolumna
+Oszlop
+Columna
+
+#6129
+Tige en acier vissée dans le support.
+Haste de aço rosqueada na base.
+拧入表座的钢杆。
+Стальной стержень, ввинченный в основание.
+Stalowy pręt wkręcony w podstawę.
+A talpba csavart acélrúd.
+Varilla de acero roscada en la base.
+
+#6130
+Noix orientable
+Fixador articulado
+旋转夹头
+Поворотный зажим
+Zacisk obrotowy
+Forgó szorító
+Mordaza giratoria
+
+#6131
+Tient le bras sur la colonne à n'importe quelle hauteur et angle.
+Prende o braço na coluna em qualquer altura e ângulo.
+将表杆固定在立柱任意高度和角度。
+Держит штангу на стойке на любой высоте и под любым углом.
+Trzyma ramię na kolumnie na dowolnej wysokości i pod dowolnym kątem.
+Bármilyen magasságban és szögben rögzíti a kart az oszlopon.
+Sujeta el brazo en la columna a cualquier altura y ángulo.
+
+#6132
+Bras
+Braço
+表杆
+Штанга
+Ramię
+Kar
+Brazo
+
+#6133
+Tige horizontale qui atteint le point à mesurer.
+Haste horizontal que alcança o ponto a medir.
+伸到测量点的水平杆。
+Горизонтальный стержень, доходящий до точки измерения.
+Poziomy pręt sięgający do punktu pomiaru.
+Vízszintes rúd, amely eléri a mérendő pontot.
+Varilla horizontal que llega al punto a medir.
+
+#6134
+Porte-comparateur
+Suporte do relógio
+表夹
+Держатель индикатора
+Uchwyt czujnika
+Mérőóra-tartó
+Soporte del comparador
+
+#6135
+Petite pince qui tient l'oreille arrière du comparateur.
+Pequena presilha que segura a orelha traseira do relógio.
+夹住百分表后耳的小夹子。
+Небольшой зажим, держащий заднее ушко индикатора.
+Mały zacisk trzymający tylne ucho czujnika.
+Kis szorító, amely a mérőóra hátsó fülét tartja.
+Pequeña pinza que sujeta la oreja trasera del comparador.
+
+#6136
+Boîtier, canon et oreille
+Caixa, haste e orelha
+表壳、轴套和后耳
+Корпус, гильза и ушко
+Obudowa, tuleja i ucho
+Ház, szár és fül
+Caja, vástago y oreja
+
+#6137
+Contient les engrenages ; le canon guide la touche.
+Abriga as engrenagens; a haste guia o apalpador.
+内装齿轮；轴套为测杆导向。
+Вмещает шестерни; гильза направляет стержень.
+Mieści koła zębate; tuleja prowadzi trzpień.
+Ebben vannak a fogaskerekek; a szár vezeti a mérőcsapot.
+Aloja los engranajes; el vástago guía el palpador.
+
+#6138
+Touche à crémaillère
+Apalpador com cremalheira
+带齿条的测杆
+Стержень с рейкой
+Trzpień z zębatką
+Mérőcsap fogasléccel
+Palpador con cremallera
+
+#6139
+Remonte quand elle touche la pièce ; sa crémaillère fait tourner le pignon.
+Sobe quando toca a peça; sua cremalheira gira o pinhão.
+接触零件时上移；其齿条带动小齿轮。
+Поднимается при касании детали; его рейка вращает трибку.
+Unosi się, gdy dotknie części; jego zębatka obraca zębnik.
+Felfelé mozdul, amikor hozzáér a darabhoz; fogasléce a kis fogaskereket forgatja.
+Sube cuando toca la pieza; su cremallera gira el piñón.
+
+#6140
+Repousse la touche vers le bas sur la surface.
+Empurra o apalpador de volta para baixo sobre a superfície.
+将测杆压回到表面上。
+Возвращает стержень вниз к поверхности.
+Dociska trzpień z powrotem w dół do powierzchni.
+Visszanyomja a mérőcsapot a felületre.
+Empuja el palpador de nuevo hacia abajo sobre la superficie.
+
+#6141
+Pignon et grande roue
+Pinhão e engrenagem grande
+小齿轮和大齿轮
+Трибка и большое колесо
+Zębnik i duże koło
+Kis fogaskerék és nagy fogaskerék
+Piñón y engranaje grande
+
+#6142
+Pignon sur la crémaillère, grande roue sur le même axe : ils multiplient le mouvement.
+Pinhão na cremalheira, engrenagem grande no mesmo eixo: eles multiplicam o movimento.
+小齿轮与齿条啮合，大齿轮同轴：放大位移。
+Трибка на рейке, большое колесо на том же валу: они увеличивают перемещение.
+Zębnik na zębatce, duże koło na tym samym wałku: zwielokrotniają ruch.
+A kis fogaskerék a fogaslécen, a nagy ugyanazon a tengelyen: megsokszorozzák az elmozdulást.
+Piñón sobre la cremallera, engranaje grande en el mismo eje: multiplican el movimiento.
+
+#6143
+Cadran, lunette et verre
+Mostrador, moldura e vidro
+表盘、表圈和表蒙
+Циферблат, ободок и стекло
+Tarcza, pierścień i szybka
+Számlap, skálagyűrű és üveg
+Esfera, bisel y cristal
+
+#6144
+100 traits de 0,01 mm. Tournez la lunette pour régler le zéro ; le petit cadran compte les mm entiers.
+100 linhas de 0,01 mm. Gire a moldura para zerar; o mostrador pequeno conta os mm inteiros.
+100 格，每格 0.01 mm。转动表圈对零；小表盘计整毫米数。
+100 делений по 0,01 mm. Поверните ободок, чтобы выставить ноль; малая шкала считает целые mm.
+100 kresek po 0,01 mm. Obróć pierścień, aby ustawić zero; mała tarcza liczy pełne mm.
+100 vonal, egyenként 0,01 mm. A skálagyűrű forgatásával állítsa be a nullát; a kis számlap az egész mm-eket számolja.
+100 líneas de 0,01 mm. Gire el bisel para poner a cero; la esfera pequeña cuenta los mm enteros.
+
+#6145
+Aiguille et pignon central
+Ponteiro e pinhão central
+指针和中心小齿轮
+Стрелка и центральная трибка
+Wskazówka i zębnik środkowy
+Mutató és középső fogaskerék
+Aguja y piñón central
+
+#6146
+Entraînés par la grande roue ; un tour = 1 mm.
+Acionados pela engrenagem grande; uma volta = 1 mm.
+由大齿轮驱动；一圈 = 1 mm。
+Приводятся большим колесом; один оборот = 1 mm.
+Napędzane przez duże koło; jeden obrót = 1 mm.
+A nagy fogaskerék hajtja; egy fordulat = 1 mm.
+Accionados por el engranaje grande; una vuelta = 1 mm.
+
+#6147
+Arbre contrôlé
+Eixo sendo verificado
+被检测的轴
+Проверяемый вал
+Sprawdzany wał
+Ellenőrzött tengely
+Eje en control
+
+#6148
+Tournez-le lentement et observez l'aiguille pour le faux-rond.
+Gire-o devagar e observe o ponteiro para ver o batimento.
+缓慢转动并观察指针读取跳动。
+Медленно вращайте его и следите за стрелкой, чтобы определить биение.
+Obracaj go powoli i obserwuj wskazówkę, aby ocenić bicie.
+Lassan forgassa és figyelje a mutatót az ütés megállapításához.
+Gírelo despacio y observe la aguja para ver el descentramiento.
+
+#6149
+Point haut : +1,25 mm
+Ponto alto: +1,25 mm
+高点：+1.25 mm
+Высокая точка: +1,25 mm
+Punkt najwyższy: +1,25 mm
+Legmagasabb pont: +1,25 mm
+Punto alto: +1,25 mm
+
+#6150
+Sur un comparateur au 0,01 mm, l'aiguille va de -3 à +5 traits pendant que l'arbre tourne. Faux-rond (TIR) ?
+Em um relógio de 0,01 mm, o ponteiro oscila de -3 a +5 linhas enquanto o eixo gira. Batimento (TIR)?
+在 0.01 mm 百分表上，轴转动时指针从 -3 格摆到 +5 格。跳动（TIR）是多少？
+На индикаторе 0,01 mm стрелка при вращении вала ходит от -3 до +5 делений. Биение (TIR)?
+Na czujniku 0,01 mm wskazówka wychyla się od -3 do +5 kresek podczas obrotu wału. Bicie (TIR)?
+Egy 0,01 mm-es mérőórán a mutató -3 és +5 vonal között leng, miközben a tengely forog. Ütés (TIR)?
+En un comparador de 0,01 mm la aguja oscila de -3 a +5 líneas mientras gira el eje. ¿Descentramiento (TIR)?
+
+#6151
+Comment la touche doit-elle toucher la surface ?
+Como o apalpador deve tocar a superfície?
+测杆应如何接触表面？
+Как стержень должен касаться поверхности?
+Jak trzpień powinien dotykać powierzchni?
+Hogyan kell a mérőcsapnak a felülethez érnie?
+¿Cómo debe tocar el palpador la superficie?
+
+#6152
+Perpendiculaire à la surface, avec une petite précontrainte
+Perpendicular à superfície, com uma pequena pré-carga
+垂直于表面，略加预压
+Перпендикулярно поверхности, с небольшим натягом
+Prostopadle do powierzchni, z małym napięciem wstępnym
+Merőlegesen a felületre, kis előfeszítéssel
+Perpendicular a la superficie, con una pequeña precarga
+
+#6153
+À 45° pour plus de course
+A 45° para mais curso
+45° 倾斜以增加行程
+Под 45° для большего хода
+Pod kątem 45° dla większego skoku
+45°-ban a nagyobb löketért
+A 45° para más recorrido
+
+#6154
+Juste en contact, sans précontrainte
+Apenas encostando, sem pré-carga
+刚好接触，不预压
+Только касаясь, без натяга
+Ledwo dotykając, bez napięcia wstępnego
+Épp hogy hozzáérve, előfeszítés nélkül
+Solo tocando, sin precarga
+
+#6155
+Huilée pour une course douce
+Lubrificado para deslizar suave
+加油使行程顺滑
+Смазан для плавного хода
+Naoliwiony dla płynnego ruchu
+Olajozva a sima mozgásért
+Aceitado para un recorrido suave
+
+#6156
+Plaque de protection en acier qui protège les lames une fois repliées.
+Placa de cobertura de aço que protege as lâminas quando dobradas.
+钢制护板，折叠时保护塞尺片。
+Стальная накладка, защищающая пластины в сложенном виде.
+Stalowa płytka osłonowa chroniąca listki po złożeniu.
+Acél fedőlap, amely összecsukva védi a lapokat.
+Placa de cubierta de acero que protege las láminas cuando están plegadas.
+
+#6157
+Plaque inférieure
+Tampa inferior
+下护板
+Нижняя накладка
+Osłona dolna
+Alsó fedőlap
+Cubierta inferior
+
+#6158
+Plaque supérieure
+Tampa superior
+上护板
+Верхняя накладка
+Osłona górna
+Felső fedőlap
+Cubierta superior
+
+#6159
+Vis pivot
+Parafuso pivô
+枢轴螺钉
+Ось-винт
+Śruba osiowa
+Forgócsavar
+Tornillo pivote
+
+#6160
+Tient le paquet de lames ; serrez pour que les lames restent là où vous les placez.
+Prende o conjunto; aperte para as lâminas ficarem onde você as coloca.
+固定整叠塞尺片；拧紧使塞尺片停在所放位置。
+Держит пакет пластин; затяните так, чтобы пластины оставались в нужном положении.
+Trzyma pakiet; dokręć tak, aby listki zostawały tam, gdzie je ustawisz.
+Összetartja a lapköteget; úgy húzza meg, hogy a lapok ott maradjanak, ahová teszi őket.
+Sujeta el paquete; apriételo para que las láminas se queden donde las ponga.
+
+#6161
+Écrou moleté
+Porca recartilhada
+滚花螺母
+Рифлёная гайка
+Nakrętka radełkowana
+Recézett anya
+Tuerca moleteada
+
+#6162
+Bloque la vis pivot par en dessous.
+Trava o parafuso pivô por baixo.
+从下方锁紧枢轴螺钉。
+Стопорит ось-винт снизу.
+Blokuje śrubę osiową od spodu.
+Alulról rögzíti a forgócsavart.
+Bloquea el tornillo pivote desde abajo.
+
+#6163
+Jeu de cales d'épaisseur
+Jogo de calibre de lâminas
+塞尺组
+Набор щупов
+Szczelinomierz (komplet listków)
+Hézagmérő készlet
+Juego de galgas de espesores
+
+#6164
+Jeu de fines lames trempées d'épaisseur exacte (0,05 à 1,00 mm) sur un même pivot. Mesure les petits interstices et jeux.
+Conjunto de lâminas finas temperadas de espessura exata (0,05 a 1,00 mm) em um só pivô. Mede pequenas folgas e frestas.
+一组厚度精确（0.05 至 1.00 mm）的淬硬薄片装在同一枢轴上。用于测量小间隙和配合间隙。
+Набор тонких закалённых пластин точной толщины (от 0,05 до 1,00 mm) на одной оси. Измеряет малые зазоры.
+Zestaw cienkich hartowanych listków o dokładnej grubości (0,05 do 1,00 mm) na jednej osi. Mierzy małe szczeliny i luzy.
+Pontos vastagságú (0,05-től 1,00 mm-ig), vékony edzett lapok egy tengelyen. Kis réseket és hézagokat mér.
+Juego de láminas finas templadas de espesor exacto (0,05 a 1,00 mm) en un mismo pivote. Mide holguras y huelgos pequeños.
+
+#6165
+Écartement et alignement angulaire des accouplements, jeux des roulements et engrenages, jeux des mâchoires de scellage et des couteaux sur les blistéreuses et étuyeuses, distance des capteurs, poussoirs de soupapes.
+Folga e alinhamento angular de acoplamentos, folgas de rolamentos e engrenagens, folgas das mordaças de selagem e facas nas blistadeiras e encartuchadeiras, distância de sensores, tuchos de válvulas.
+联轴器间隙和角度对中、轴承和齿轮间隙、泡罩机和装盒机热封钳口及切刀间隙、传感器间隙、气门挺杆。
+Зазор и угловая центровка муфт, зазоры подшипников и зубчатых передач, зазоры сварочных губок и ножей на блистерных и картонажных машинах, зазоры датчиков, толкатели клапанов.
+Szczelina i osiowanie kątowe sprzęgieł, luzy łożysk i kół zębatych, szczeliny szczęk zgrzewających i noży na blistrownicach i kartoniarkach, odległości czujników, popychacze zaworów.
+Tengelykapcsoló-rés és szögbeállítás, csapágy- és fogaskerékhézagok, hegesztőpofa- és késrések blisztercsomagoló és dobozológépeken, érzékelőtávolságok, szelepemelők.
+Separación y alineación angular de acoplamientos, holguras de rodamientos y engranajes, holguras de mordazas de sellado y cuchillas en blisteadoras y estuchadoras, distancia de sensores, taqués de válvulas.
+
+#6166
+Glissez une lame (ou deux superposées) dans l'interstice : la bonne épaisseur entre avec un léger frottement. Si une épaisseur entre librement et la suivante n'entre pas, le jeu est entre les deux.
+Deslize uma lâmina (ou duas sobrepostas) na folga: a medida certa entra com um leve atrito. Se uma medida entra solta e a seguinte não entra, a folga está entre elas.
+把一片（或两片叠合）塞尺插入间隙：合适的尺寸插入时有轻微阻力。如果某片插入松动而下一片插不进，间隙就在两者之间。
+Вставьте одну пластину (или две вместе) в зазор: нужная толщина входит с лёгким сопротивлением. Если одна проходит свободно, а следующая не входит, зазор между ними.
+Wsuń jeden listek (lub dwa złożone) w szczelinę: właściwy rozmiar wchodzi z lekkim oporem. Jeśli jeden rozmiar wchodzi luźno, a następny nie wchodzi, szczelina jest pomiędzy nimi.
+Csúsztasson egy lapot (vagy kettőt egymásra téve) a résbe: a megfelelő méret enyhe súrlódással megy be. Ha egy méret lazán bemegy, a következő pedig nem fér be, a rés a kettő között van.
+Introduzca una lámina (o dos apiladas) en la holgura: el espesor correcto entra con un ligero roce. Si un espesor entra suelto y el siguiente no entra, la holgura está entre ambos.
+
+#6167
+Des lames tordues, pliées ou rouillées donnent des mesures fausses ; bouts usés ; un pivot desserré laisse tomber les lames.
+Lâminas tortas, dobradas ou enferrujadas dão leituras erradas; pontas gastas; um pivô frouxo deixa cair lâminas.
+弯曲、折痕或生锈的塞尺片读数不准；端部磨损；枢轴松动会掉片。
+Погнутые, заломленные или ржавые пластины дают неверные показания; изношенные концы; ослабленная ось роняет пластины.
+Wygięte, załamane lub zardzewiałe listki dają błędne odczyty; zużyte końcówki; luźna oś gubi listki.
+Hajlott, megtört vagy rozsdás lapok hibás eredményt adnak; kopott végek; laza tengelynél kiesnek a lapok.
+Láminas dobladas, con pliegues u oxidadas dan lecturas erróneas; puntas desgastadas; un pivote flojo deja caer láminas.
+
+#6168
+Essuyez et huilez légèrement après usage, ne forcez jamais une lame dans un interstice, remplacez les lames pliées, repliez-les dans leurs protections.
+Limpe e lubrifique levemente após o uso, nunca force uma lâmina na folga, troque lâminas dobradas, recolha-as de volta nas tampas.
+用后擦净并略涂油，切勿把塞尺片硬塞进间隙，更换有折痕的片，用后折回护板内。
+После работы протрите и слегка смажьте, никогда не вгоняйте пластину в зазор силой, заменяйте заломленные пластины, складывайте их обратно в накладки.
+Po użyciu wytrzyj i lekko naoliw, nigdy nie wciskaj listka na siłę, wymieniaj załamane listki, składaj je z powrotem do osłon.
+Használat után törölje tisztára és enyhén olajozza, soha ne erőltesse a lapot a résbe, cserélje a megtört lapokat, hajtsa vissza őket a fedőlapok közé.
+Límpielas y acéitelas ligeramente después de usarlas, nunca fuerce una lámina en una holgura, sustituya las láminas con pliegues, pliéguelas de nuevo en las cubiertas.
+
+#6169
+Replier / déplier
+Dobrar / desdobrar
+折叠 / 展开
+Сложить / разложить
+Złóż / rozłóż
+Összecsukás / kinyitás
+Plegar / desplegar
+
+#6170
+La lame de 0,20 entre librement et celle de 0,30 n'entre pas. Le jeu est…
+A lâmina de 0,20 entra solta e a de 0,30 não entra. A folga é…
+0.20 片插入松动，0.30 片插不进。间隙是……
+Пластина 0,20 входит свободно, а 0,30 не входит. Зазор…
+Listek 0,20 wchodzi luźno, a 0,30 nie wchodzi. Szczelina wynosi…
+A 0,20-as lap lazán bemegy, a 0,30-as nem fér be. A rés…
+La lámina de 0,20 entra suelta y la de 0,30 no entra. La holgura es…
+
+#6171
+Entre 0,20 et 0,30 mm : essayez deux lames superposées
+Entre 0,20 e 0,30 mm: teste duas lâminas sobrepostas
+在 0.20 与 0.30 mm 之间：试两片叠合
+Между 0,20 и 0,30 mm: попробуйте две пластины вместе
+Między 0,20 a 0,30 mm: spróbuj dwóch złożonych listków
+0,20 és 0,30 mm között: próbáljon két egymásra tett lapot
+Entre 0,20 y 0,30 mm: pruebe dos láminas apiladas
+
+#6172
+Exactement 0,20 mm
+Exatamente 0,20 mm
+正好 0.20 mm
+Ровно 0,20 mm
+Dokładnie 0,20 mm
+Pontosan 0,20 mm
+Exactamente 0,20 mm
+
+#6173
+Ne peut pas être mesuré
+Não pode ser medida
+无法测量
+Измерить нельзя
+Nie da się zmierzyć
+Nem mérhető
+No se puede medir
+
+#6174
+Que provoque une lame de cale tordue ?
+O que uma lâmina de calibre torta causa?
+弯曲的塞尺片会怎样？
+К чему приводит погнутая пластина щупа?
+Co powoduje wygięty listek szczelinomierza?
+Mit okoz egy hajlott hézagmérő lap?
+¿Qué provoca una lámina de galga doblada?
+
+#6175
+Une mesure fausse : elle frotte ou n'entre pas
+Dá leitura errada: arrasta ou não entra
+读数不准：会卡涩或插不进
+Неверное показание: она тормозит или не входит
+Błędny odczyt: ociera lub nie wchodzi
+Hibás mérést: súrlódik vagy nem fér be
+Da una lectura errónea: roza o no entra
+
+#6176
+Rien si on pousse plus fort
+Nada, se empurrar mais forte
+用力推就没事
+Ничего, если сильнее нажать
+Nic, jeśli mocniej pchniesz
+Semmit, ha erősebben nyomja
+Nada si empuja más fuerte
+
+#6177
+Elle mesure plus précisément
+Mede com mais exatidão
+读数更精确
+Показывает точнее
+Mierzy dokładniej
+Pontosabban mér
+Mide con más exactitud
+
+#6178
+Elle convient mieux aux jeux serrés
+É melhor para folgas apertadas
+更适合小间隙
+Лучше подходит для малых зазоров
+Lepiej nadaje się do ciasnych szczelin
+Jobb szűk résekhez
+Es mejor para holguras estrechas
+
+#6179
+Extracteur de roulement à 3 griffes
+Saca-rolamentos de 3 garras
+三爪轴承拉马
+Съёмник подшипников с 3 лапами
+Ściągacz do łożysk 3-ramienny
+3-körmös csapágylehúzó
+Extractor de rodamientos de 3 garras
+
+#6180
+Extracteur à trois griffes crochues montées sur un croisillon et une vis de pression centrale. La vis pousse sur le bout de l'arbre pendant que les griffes tirent le roulement.
+Saca com três garras em gancho em uma cruzeta e um fuso central de força. O fuso empurra a ponta do eixo enquanto as garras puxam o rolamento.
+三只带钩的爪装在爪架上，中间为顶压螺杆。螺杆顶住轴端，爪子把轴承拉出。
+Съёмник с тремя крючковыми лапами на траверсе и центральным силовым винтом. Винт упирается в торец вала, а лапы стягивают подшипник.
+Ściągacz z trzema hakowymi ramionami na krzyżaku i centralną śrubą dociskową. Śruba pcha na koniec wału, a ramiona ściągają łożysko.
+Lehúzó három kampós körömmel egy csillagon és központi nyomócsavarral. A csavar a tengelyvéget nyomja, a körmök pedig lehúzzák a csapágyat.
+Extractor con tres garras de gancho en una cruceta y un husillo de empuje central. El husillo empuja el extremo del eje mientras las garras sacan el rodamiento.
+
+#6181
+Dépose des roulements, poulies, engrenages et demi-accouplements sur les arbres de moteurs, de pompes et de réducteurs.
+Remoção de rolamentos, polias, engrenagens e meias-luvas de acoplamento dos eixos de motores, bombas e redutores.
+从电机、泵和齿轮箱轴上拆卸轴承、皮带轮、齿轮和半联轴器。
+Снятие подшипников, шкивов, шестерён и полумуфт с валов двигателей, насосов и редукторов.
+Zdejmowanie łożysk, kół pasowych, kół zębatych i połówek sprzęgieł z wałów silników, pomp i przekładni.
+Csapágyak, szíjtárcsák, fogaskerekek és tengelykapcsoló-felek lehúzása motor-, szivattyú- és hajtóműtengelyekről.
+Desmontaje de rodamientos, poleas, engranajes y semiacoplamientos de ejes de motores, bombas y reductores.
+
+#6182
+Accrochez les griffes derrière la bague montée serrée (bague intérieure sur un arbre), centrez la pointe de la vis dans le trou de centre de l'arbre, gardez les griffes parallèles et tournez la vis régulièrement.
+Engate as garras atrás do anel com ajuste com interferência (anel interno no eixo), centralize a ponta do fuso no furo de centro do eixo, mantenha as garras paralelas e gire o fuso de forma constante.
+把爪钩在过盈配合的那个圈后面（装在轴上的内圈），将螺杆顶尖对准轴端中心孔，保持爪子平行并匀速转动螺杆。
+Заведите лапы за кольцо с натягом (внутреннее кольцо на валу), отцентрируйте конец винта в центровом отверстии вала, держите лапы параллельно и вращайте винт равномерно.
+Zaczep ramiona za pierścieniem osadzonym z wciskiem (pierścień wewnętrzny na wale), wyśrodkuj końcówkę śruby w nakiełku wału, trzymaj ramiona równolegle i obracaj śrubę równomiernie.
+A körmöket a túlfedéssel illesztett gyűrű mögé akassza (a tengelyen lévő belső gyűrű), a csavar hegyét központosítsa a tengely központfuratában, tartsa párhuzamosan a körmöket, és egyenletesen forgassa a csavart.
+Enganche las garras detrás del aro con ajuste de apriete (aro interior en el eje), centre la punta del husillo en el punto de centro del eje, mantenga las garras paralelas y gire el husillo de forma constante.
+
+#6183
+Les griffes glissent si elles ne sont pas d'équerre ou pas serrées, tirer sur la bague extérieure abîme les billes et les chemins de roulement, vis de pression tordue, centre d'arbre endommagé.
+As garras escapam se não estiverem no esquadro ou firmes, puxar pelo anel externo estraga as esferas e as pistas, fuso de força torto, centro do eixo danificado.
+爪子不垂直或未夹紧会滑脱；拉外圈会损坏钢球和滚道；顶压螺杆弯曲；轴端中心孔损坏。
+Лапы срываются, если стоят не прямо или не зажаты; тяга за наружное кольцо портит шарики и дорожки качения; погнутый силовой винт; повреждённый центр вала.
+Ramiona zsuwają się, gdy nie są prostopadle lub nie są dociśnięte; ciągnięcie za pierścień zewnętrzny niszczy kulki i bieżnie; wygięta śruba dociskowa; uszkodzony nakiełek wału.
+A körmök lecsúsznak, ha nem merőlegesek vagy nem szorosak; a külső gyűrűnél húzva tönkremennek a golyók és a futópályák; hajlott nyomócsavar; sérült tengelyközpont.
+Las garras se escapan si no están a escuadra o apretadas, tirar del aro exterior estropea las bolas y las pistas, husillo de empuje doblado, punto de centro del eje dañado.
+
+#6184
+Graissez la vis de pression, vérifiez que les griffes n'ont ni fissures ni crochets tordus, ne frappez jamais sur la vis et n'utilisez pas de rallonge. Jetez un roulement extrait ; chauffez la bague si elle ne bouge pas.
+Engraxe o fuso de força, verifique trincas e ganchos tortos nas garras, nunca martele o fuso nem use barra de extensão. Descarte o rolamento sacado; aqueça o anel se ele não sair.
+给顶压螺杆涂润滑脂，检查爪子有无裂纹和钩部弯曲，切勿锤击螺杆或使用加长杆。拉下的轴承要报废；拉不动时加热轴承圈。
+Смажьте силовой винт, проверьте лапы на трещины и погнутые крюки, никогда не бейте по винту и не используйте удлинитель. Снятый подшипник утилизируйте; если кольцо не идёт, нагрейте его.
+Nasmaruj śrubę dociskową, sprawdź ramiona pod kątem pęknięć i wygiętych haków, nigdy nie uderzaj w śrubę ani nie używaj przedłużki. Ściągnięte łożysko wyrzuć; podgrzej pierścień, jeśli nie chce zejść.
+Zsírozza a nyomócsavart, ellenőrizze a körmöket repedésre és hajlott kampóra, soha ne üsse kalapáccsal a csavart és ne használjon toldószárat. A lehúzott csapágyat selejtezze; ha a gyűrű nem mozdul, melegítse.
+Engrase el husillo de empuje, revise las garras por grietas y ganchos doblados, nunca golpee el husillo ni use una barra de extensión. Deseche el rodamiento extraído; caliente el aro si no se mueve.
+
+#6185
+Arbre moteur
+Eixo do motor
+电机轴
+Вал двигателя
+Wał silnika
+Motortengely
+Eje del motor
+
+#6186
+Arbre avec un trou de centre à l'extrémité pour la pointe de la vis.
+Eixo com furo de centro na ponta para a ponta do fuso.
+轴端带中心孔，供螺杆顶尖顶住。
+Вал с центровым отверстием на торце для конца винта.
+Wał z nakiełkiem na końcu na końcówkę śruby.
+Tengely, végén központfurattal a csavar hegyének.
+Eje con un punto de centro en el extremo para la punta del husillo.
+
+#6187
+Roulement (6205)
+Rolamento (6205)
+轴承（6205）
+Подшипник (6205)
+Łożysko (6205)
+Csapágy (6205)
+Rodamiento (6205)
+
+#6188
+La bague intérieure est montée serrée sur l'arbre : tirez sur cette bague.
+O anel interno tem o ajuste apertado no eixo: puxe por esse anel.
+内圈与轴为紧配合：应拉内圈。
+Внутреннее кольцо сидит на валу с натягом: тяните за это кольцо.
+Pierścień wewnętrzny jest osadzony na wale z wciskiem: ciągnij za ten pierścień.
+A belső gyűrű szorosan ül a tengelyen: ezt a gyűrűt húzza.
+El aro interior tiene el ajuste apretado en el eje: tire de ese aro.
+
+#6189
+Croisillon (traverse)
+Cruzeta (garfo)
+爪架（横梁）
+Траверса (крестовина)
+Krzyżak (jarzmo)
+Csillag (kereszttartó)
+Cruceta (yugo)
+
+#6190
+Croisillon à trois bras qui porte les griffes et le centre fileté.
+Cruzeta de três braços que leva as garras e o centro roscado.
+三臂爪架，装有爪子和中心螺纹孔。
+Трёхлучевая траверса, на которой держатся лапы и резьбовой центр.
+Trójramienny krzyżak niosący ramiona i gwintowany środek.
+Háromkarú csillag, amely a körmöket és a menetes középrészt hordozza.
+Cruceta de tres brazos que lleva las garras y el centro roscado.
+
+#6191
+Axes des griffes
+Pinos das garras
+爪销
+Оси лап
+Sworznie ramion
+Körömcsapok
+Pasadores de las garras
+
+#6192
+Permettent à chaque griffe de pivoter pour s'adapter à différentes tailles.
+Deixam cada garra oscilar para assentar em tamanhos diferentes.
+使每只爪可摆动，以适应不同尺寸。
+Позволяют каждой лапе качаться, чтобы садиться на разные размеры.
+Pozwalają każdemu ramieniu się wychylać, aby pasowało do różnych rozmiarów.
+Minden köröm elfordulhat, így különböző méretekre is felfekszik.
+Permiten que cada garra bascule para asentarse en distintos tamaños.
+
+#6193
+Écrou central
+Porca central
+中心螺母
+Центральная гайка
+Nakrętka środkowa
+Középső anya
+Tuerca central
+
+#6194
+Centre fileté dans lequel tourne la vis de pression.
+Centro roscado em que o fuso de força gira.
+顶压螺杆旋入的中心螺纹孔。
+Резьбовой центр, в котором вращается силовой винт.
+Gwintowany środek, w którym obraca się śruba dociskowa.
+Menetes középrész, amelyben a nyomócsavar forog.
+Centro roscado en el que gira el husillo de empuje.
+
+#6195
+Vis de pression
+Fuso de força
+顶压螺杆
+Силовой винт
+Śruba dociskowa
+Nyomócsavar
+Husillo de empuje
+
+#6196
+Vis à pas fin avec une pointe trempée qui pousse sur le centre de l'arbre.
+Fuso de rosca fina com ponta temperada que empurra o centro do eixo.
+细牙螺杆，带淬硬顶尖，顶住轴端中心。
+Винт с мелкой резьбой и закалённым концом, упирающимся в центр вала.
+Śruba z gwintem drobnozwojnym i hartowaną końcówką, która pcha na nakiełek wału.
+Finommenetes csavar edzett heggyel, amely a tengelyközpontot nyomja.
+Husillo de rosca fina con punta templada que empuja el centro del eje.
+
+#6197
+Extraire le roulement
+Sacar o rolamento
+拉出轴承
+Снять подшипник
+Ściągnij łożysko
+Csapágy lehúzása
+Extraer el rodamiento
+
+#6198
+Un roulement est serré sur l'arbre. Où les griffes doivent-elles tirer ?
+Um rolamento está apertado no eixo. Onde as garras devem puxar?
+轴承紧配在轴上。爪子应拉在哪里？
+Подшипник сидит на валу с натягом. За что должны тянуть лапы?
+Łożysko jest ciasno osadzone na wale. Za co powinny ciągnąć ramiona?
+Egy csapágy szorosan ül a tengelyen. Hol húzzanak a körmök?
+Un rodamiento está apretado en el eje. ¿Dónde deben tirar las garras?
+
+#6199
+Derrière la bague intérieure
+Atrás do anel interno
+内圈后面
+За внутреннее кольцо
+Za pierścień wewnętrzny
+A belső gyűrű mögött
+Detrás del aro interior
+
+#6200
+Sur la bague extérieure
+No anel externo
+外圈上
+За наружное кольцо
+Za pierścień zewnętrzny
+A külső gyűrűn
+En el aro exterior
+
+#6201
+Sur le joint
+Na vedação
+密封圈上
+За уплотнение
+Za uszczelnienie
+A tömítésen
+En el sello
+
+#6202
+N'importe où, c'est pareil
+Em qualquer lugar, tanto faz
+哪里都一样
+Без разницы, куда угодно
+Gdziekolwiek, to bez różnicy
+Bárhol, mindegy
+En cualquier sitio, da igual
+
+#6203
+Les griffes glissent sans arrêt. Qu'est-ce qui ne va pas ?
+As garras continuam escapando. O que está errado?
+爪子总是打滑。哪里不对？
+Лапы постоянно срываются. В чём ошибка?
+Ramiona ciągle się zsuwają. Co jest nie tak?
+A körmök folyton lecsúsznak. Mi a hiba?
+Las garras siguen resbalando. ¿Qué está mal?
+
+#6204
+Griffes pas parallèles ou vis pas centrée
+Garras não paralelas ou fuso não centralizado
+爪子不平行或螺杆未对中
+Лапы не параллельны или винт не по центру
+Ramiona nie są równoległe lub śruba nie jest wyśrodkowana
+A körmök nem párhuzamosak, vagy a csavar nincs központosítva
+Garras no paralelas o husillo no centrado
+
+#6205
+La vis est graissée
+O fuso está engraxado
+螺杆涂了润滑脂
+Винт смазан
+Śruba jest nasmarowana
+A csavar zsírozva van
+El husillo está engrasado
+
+#6206
+Le roulement est trop froid
+O rolamento está frio demais
+轴承太冷
+Подшипник слишком холодный
+Łożysko jest za zimne
+Túl hideg a csapágy
+El rodamiento está demasiado frío
+
+#6207
+Trois griffes, c'est trop
+Três garras são demais
+三只爪太多
+Три лапы — это слишком много
+Trzy ramiona to za dużo
+Három köröm túl sok
+Tres garras son demasiadas
+
+#6208
+Pompe à graisse à levier
+Engraxadeira de alavanca
+杠杆式黄油枪
+Рычажный шприц для смазки
+Smarownica dźwigniowa
+Karos zsírzóprés
+Engrasadora de palanca
+
+#6209
+Pompe manuelle à graisse : le levier actionne un petit piston qui pousse la graisse à haute pression par le flexible jusqu'au graisseur. Un fouloir à ressort alimente la graisse depuis la cartouche.
+Bomba manual de graxa: a alavanca aciona um pequeno pistão que empurra a graxa em alta pressão pela mangueira até o pino graxeiro. Um seguidor com mola alimenta a graxa a partir do cartucho.
+手动注油泵：杠杆驱动小活塞，以高压将润滑脂经软管压入黄油嘴。弹簧推杆从油脂筒中补充润滑脂。
+Ручной насос для пластичной смазки: рычаг двигает небольшой поршень, который под высоким давлением подаёт смазку через шланг к пресс-маслёнке. Подпружиненный толкатель подаёт смазку из картриджа.
+Ręczna pompa do smaru: dźwignia napędza mały tłoczek, który pod wysokim ciśnieniem tłoczy smar przez wąż do smarowniczki. Sprężynowy tłok podający dostarcza smar z kartusza.
+Kézi zsírzópumpa: a kar egy kis dugattyút mozgat, amely nagy nyomással a tömlőn át a zsírzógombhoz nyomja a zsírt. Rugós követődugattyú adagolja a zsírt a patronból.
+Bomba manual de grasa: la palanca acciona un pequeño pistón que empuja la grasa a alta presión por la manguera hasta el engrasador. Un seguidor con muelle alimenta la grasa desde el cartucho.
+
+#6210
+Tournées de graissage : roulements de moteurs et de pompes, roulements de convoyeurs et de ventilateurs, tendeurs de chaîne, graisseurs des presses et des blistéreuses. Graisse de qualité alimentaire (H1) près du produit.
+Rotas de lubrificação: rolamentos de motores e bombas, rolamentos de transportadores e ventiladores, tensores de corrente, graxeiras de compressoras e blistadeiras. Graxa grau alimentício (H1) perto do produto.
+润滑巡检：电机和泵轴承、输送机和风机轴承、链条张紧器、压片机和泡罩机的油嘴。靠近产品处使用食品级（H1）润滑脂。
+Обходы смазки: подшипники двигателей и насосов, подшипники конвейеров и вентиляторов, натяжители цепей, маслёнки прессов и блистерных машин. Рядом с продуктом — пищевая смазка (H1).
+Obchody smarowania: łożyska silników i pomp, łożyska przenośników i wentylatorów, napinacze łańcuchów, smarowniczki pras i blistrownic. W pobliżu produktu smar spożywczy (H1).
+Kenési körök: motor- és szivattyúcsapágyak, szállítószalag- és ventilátorcsapágyak, láncfeszítők, prések és blisztergépek zsírzógombjai. A termék közelében élelmiszeripari (H1) zsír.
+Rondas de lubricación: rodamientos de motores y bombas, rodamientos de transportadores y ventiladores, tensores de cadena, engrasadores de prensas y blisteadoras. Grasa de grado alimentario (H1) cerca del producto.
+
+#6211
+Chaque course complète du levier donne une dose fixe (environ 1 g). Nettoyez le graisseur, engagez l'embout bien droit dessus, donnez le nombre de coups prévu au plan PM, puis inclinez pour dégager.
+Cada curso completo da alavanca dá uma dose fixa (cerca de 1 g). Limpe o pino graxeiro, encaixe o acoplador reto sobre ele, dê o número de bombadas do plano de PM e incline para soltar.
+杠杆每完整压一次输出固定剂量（约 1 g）。清洁油嘴，将注油嘴垂直压上，按 PM 计划规定的次数压注，然后倾斜取下。
+Каждый полный ход рычага даёт фиксированную порцию (около 1 g). Очистите маслёнку, наденьте наконечник прямо, сделайте число ходов по плану PM, затем наклоните, чтобы снять.
+Każdy pełny ruch dźwigni daje stałą dawkę (około 1 g). Oczyść smarowniczkę, nałóż końcówkę prosto, wykonaj liczbę ruchów z planu PM, potem przechyl, aby zdjąć.
+A kar minden teljes lökete fix adagot ad (kb. 1 g). Tisztítsa meg a zsírzógombot, nyomja rá egyenesen a csatlakozót, adja meg a PM-tervben előírt löketszámot, majd döntse meg a levételhez.
+Cada carrera completa de la palanca da una dosis fija (unos 1 g). Limpie el engrasador, coloque el acoplador recto sobre él, dé el número de bombeos del plan de PM y luego inclínelo para soltarlo.
+
+#6212
+Bouchon d'air (pas de graisse alors qu'on pompe), embout qui fuit autour du graisseur, flexible fissuré, mors d'embout usés, graisses de types mélangés.
+Bolha de ar (não sai graxa mesmo bombeando), acoplador vazando em volta do pino, mangueira trincada, garras do acoplador gastas, tipos de graxa misturados.
+气阻（压了也不出油脂）、注油嘴在油嘴周围漏油、软管开裂、注油嘴卡爪磨损、润滑脂型号混用。
+Воздушная пробка (смазка не идёт, хотя качаете), наконечник течёт вокруг маслёнки, треснувший шланг, изношенные губки наконечника, смешанные типы смазки.
+Korek powietrzny (brak smaru mimo pompowania), końcówka przecieka wokół smarowniczki, pęknięty wąż, zużyte szczęki końcówki, zmieszane rodzaje smaru.
+Légzsák (pumpálásra sem jön zsír), a csatlakozó szivárog a zsírzógomb körül, repedt tömlő, kopott csatlakozópofák, kevert zsírtípusok.
+Bolsa de aire (no sale grasa aunque bombee), acoplador con fuga alrededor del engrasador, manguera agrietada, mordazas del acoplador desgastadas, tipos de grasa mezclados.
+
+#6213
+Étiquetez chaque pompe avec un seul type de graisse, purgez l'air après chaque nouvelle cartouche, gardez l'embout propre et bouché, ne graissez jamais trop : l'excès de graisse fait chauffer les roulements et chasse les joints.
+Identifique cada engraxadeira com um só tipo de graxa, sangre o ar após trocar o cartucho, mantenha o acoplador limpo e tampado, nunca engraxe demais: graxa em excesso superaquece os rolamentos e expulsa as vedações.
+每支油枪只标一种润滑脂，换新油脂筒后排气，保持注油嘴清洁并加盖，切勿过量注脂：油脂过多会使轴承过热并顶出密封。
+Маркируйте каждый шприц одним типом смазки, после нового картриджа стравливайте воздух, держите наконечник чистым и закрытым колпачком, никогда не перешприцовывайте: избыток смазки перегревает подшипники и выдавливает уплотнения.
+Oznacz każdą smarownicę jednym rodzajem smaru, odpowietrz po założeniu nowego kartusza, utrzymuj końcówkę czystą i zakrytą, nigdy nie przesmarowuj: nadmiar smaru przegrzewa łożyska i wypycha uszczelnienia.
+Minden zsírzót egyetlen zsírtípussal címkézzen, új patron után légtelenítsen, tartsa a csatlakozót tisztán és lezárva, soha ne zsírozzon túl: a túl sok zsír túlmelegíti a csapágyakat és kinyomja a tömítéseket.
+Etiquete cada engrasadora con un solo tipo de grasa, purgue el aire tras un cartucho nuevo, mantenga el acoplador limpio y tapado, nunca engrase de más: demasiada grasa sobrecalienta los rodamientos y expulsa los retenes.
+
+#6214
+Tube qui contient la cartouche de graisse.
+Tubo que contém o cartucho de graxa.
+装油脂筒的管筒。
+Труба, в которой находится картридж со смазкой.
+Rura, w której mieści się kartusz ze smarem.
+Cső, amely a zsírpatront tartja.
+Tubo que contiene el cartucho de grasa.
+
+#6215
+Tête de pompe
+Cabeçote da bomba
+泵头
+Головка насоса
+Głowica pompy
+Pumpafej
+Cabezal de la bomba
+
+#6216
+Se visse sur le corps ; porte le cylindre de pompe, le clapet anti-retour et le pivot du levier.
+Rosqueia no tubo; contém o cilindro da bomba, a válvula de retenção e o pivô da alavanca.
+拧在筒身上；装有泵缸、单向阀和杠杆支点。
+Навинчивается на корпус; в ней цилиндр насоса, обратный клапан и ось рычага.
+Nakręca się na rurę; mieści cylinder pompy, zawór zwrotny i oś dźwigni.
+A hengerre csavarodik; benne a pumpahenger, a visszacsapó szelep és a kar forgáspontja.
+Se enrosca en el cuerpo; aloja el cilindro de la bomba, la válvula antirretorno y el pivote de la palanca.
+
+#6217
+Piston de pompe
+Pistão da bomba
+泵活塞
+Поршень насоса
+Tłoczek pompy
+Pumpadugattyú
+Pistón de la bomba
+
+#6218
+Poussé vers le bas par le levier : il chasse une dose de graisse.
+Empurrado para baixo pela alavanca: força uma dose de graxa para fora.
+被杠杆压下：挤出一剂润滑脂。
+Опускается рычагом: выдавливает одну порцию смазки.
+Wciskany przez dźwignię: wytłacza jedną dawkę smaru.
+A kar nyomja le: egy adag zsírt nyom ki.
+Empujado hacia abajo por la palanca: expulsa una dosis de grasa.
+
+#6219
+Le long levier donne la haute pression ; il remonte par ressort après chaque course.
+A alavanca longa gera a alta pressão; ela volta por mola após cada curso.
+长杠杆产生高压；每次压完后靠弹簧弹回。
+Длинный рычаг создаёт высокое давление; после каждого хода он возвращается пружиной.
+Długa dźwignia daje wysokie ciśnienie; po każdym ruchu wraca sprężyną do góry.
+A hosszú kar adja a nagy nyomást; minden löket után rugó emeli vissza.
+La palanca larga da la alta presión; vuelve arriba por muelle tras cada carrera.
+
+#6220
+Flexible haute pression
+Mangueira de alta pressão
+高压软管
+Шланг высокого давления
+Wąż wysokociśnieniowy
+Nagynyomású tömlő
+Manguera de alta presión
+
+#6221
+Flexible à embouts sertis pour atteindre les graisseurs cachés.
+Mangueira flexível com pontas prensadas para alcançar graxeiras escondidas.
+两端压接的软管，可够到隐蔽的油嘴。
+Гибкий шланг с обжатыми концами для доступа к скрытым маслёнкам.
+Elastyczny wąż z zaciskanymi końcówkami, by dosięgnąć ukrytych smarowniczek.
+Hajlékony tömlő préselt végekkel a rejtett zsírzógombok eléréséhez.
+Manguera flexible con extremos prensados para llegar a engrasadores ocultos.
+
+#6222
+Embout (4 mors)
+Acoplador (4 garras)
+注油嘴（4 爪）
+Наконечник (4 губки)
+Końcówka (4-szczękowa)
+Csatlakozó (4 pofás)
+Acoplador (4 mordazas)
+
+#6223
+Les mors à ressort s'enclenchent sur le graisseur et assurent l'étanchéité.
+Garras com mola encaixam no pino graxeiro e vedam nele.
+弹簧卡爪卡在黄油嘴上并密封。
+Подпружиненные губки защёлкиваются на пресс-маслёнке и уплотняются на ней.
+Sprężynowe szczęki zatrzaskują się na smarowniczce i uszczelniają na niej.
+A rugós pofák rápattannak a zsírzógombra és tömítenek rajta.
+Las mordazas de muelle encajan en el engrasador y sellan sobre él.
+
+#6224
+Cartouche de graisse (400 g)
+Cartucho de graxa (400 g)
+油脂筒（400 g）
+Картридж со смазкой (400 g)
+Kartusz ze smarem (400 g)
+Zsírpatron (400 g)
+Cartucho de grasa (400 g)
+
+#6225
+Cartouche standard ; l'extrémité ouverte est tournée vers la tête.
+Cartucho padrão; a ponta aberta fica voltada para o cabeçote.
+标准油脂筒；开口端朝向泵头。
+Стандартный картридж; открытый конец обращён к головке.
+Standardowy kartusz; otwarty koniec skierowany do głowicy.
+Szabványos patron; a nyitott vége a fej felé néz.
+Cartucho estándar; el extremo abierto mira hacia el cabezal.
+
+#6226
+Fouloir
+Êmbolo seguidor
+推油活塞
+Толкатель (поршень подачи)
+Tłok podający
+Követődugattyú
+Émbolo seguidor
+
+#6227
+Étanche dans le corps et pousse la graisse vers l'entrée de la pompe.
+Veda no tubo e empurra a graxa até a entrada da bomba.
+在筒内密封，把润滑脂推向泵入口。
+Уплотняется в корпусе и подаёт смазку к входу насоса.
+Uszczelnia w rurze i pcha smar do wlotu pompy.
+Tömít a hengerben és a pumpa bemenetéhez nyomja a zsírt.
+Sella en el cuerpo y empuja la grasa a la entrada de la bomba.
+
+#6228
+Ressort du fouloir
+Mola do seguidor
+推油弹簧
+Пружина толкателя
+Sprężyna tłoka podającego
+Követőrugó
+Muelle del seguidor
+
+#6229
+Maintient le fouloir en appui sur la graisse.
+Mantém o seguidor pressionando a graxa.
+使推油活塞始终压在润滑脂上。
+Постоянно прижимает толкатель к смазке.
+Utrzymuje nacisk tłoka podającego na smar.
+A követődugattyút folyamatosan a zsírra nyomja.
+Mantiene el seguidor presionando la grasa.
+
+#6230
+Ferme l'arrière du corps et guide la tige ; comporte la fente de purge d'air.
+Fecha a traseira do tubo e guia a haste; tem o rasgo de sangria de ar.
+封闭筒身尾端并为推杆导向；带排气槽。
+Закрывает заднюю часть корпуса и направляет шток; имеет паз для стравливания воздуха.
+Zamyka tył rury i prowadzi drążek; ma szczelinę odpowietrzającą.
+Lezárja a henger hátulját és vezeti a rudat; ebben van a légtelenítő horony.
+Cierra la parte trasera del cuerpo y guía la varilla; tiene la ranura de purga de aire.
+
+#6231
+Tige du fouloir et poignée en T
+Haste do seguidor e cabo em T
+推杆和 T 形拉手
+Шток толкателя и Т-образная ручка
+Drążek tłoka i uchwyt T
+Követőrúd és T-fogantyú
+Varilla del seguidor y mango en T
+
+#6232
+Tirez-la pour charger une cartouche ; elle indique la quantité de graisse restante.
+Puxe-a para trás para colocar um cartucho; ela mostra quanta graxa resta.
+向后拉出以装油脂筒；也可显示剩余油脂量。
+Оттяните его, чтобы вставить картридж; он показывает, сколько смазки осталось.
+Pociągnij go do tyłu, aby załadować kartusz; pokazuje, ile smaru zostało.
+Húzza hátra a patron betöltéséhez; mutatja, mennyi zsír maradt.
+Tire hacia atrás para cargar un cartucho; indica cuánta grasa queda.
+
+#6233
+Coup de pompe
+Bombada
+压注一次
+Ход насоса
+Ruch pompy
+Pumpalöket
+Bombeo
+
+#6234
+Vous pompez mais aucune graisse ne sort après une nouvelle cartouche. Première vérification ?
+Você bombeia, mas não sai graxa após um cartucho novo. Primeira verificação?
+换新油脂筒后压了却不出油脂。首先检查什么？
+Вы качаете, но после нового картриджа смазка не идёт. Что проверить первым?
+Pompujesz, ale po nowym kartuszu smar nie wychodzi. Co sprawdzić najpierw?
+Pumpál, de új patron után nem jön zsír. Mit ellenőriz először?
+Bombea pero no sale grasa tras un cartucho nuevo. ¿Primera comprobación?
+
+#6235
+Purger l'air emprisonné
+Sangrar o ar preso
+排出积存的空气
+Стравить попавший воздух
+Odpowietrzyć uwięzione powietrze
+A bezárt levegő légtelenítése
+Purgar el aire atrapado
+
+#6236
+Changer le flexible
+Trocar a mangueira
+更换软管
+Заменить шланг
+Wymienić wąż
+Tömlőcsere
+Cambiar la manguera
+
+#6237
+Pomper plus vite
+Bombear mais rápido
+压得更快
+Качать быстрее
+Pompować szybciej
+Gyorsabban pumpálni
+Bombear más rápido
+
+#6238
+Chauffer la pompe
+Aquecer a engraxadeira
+加热油枪
+Нагреть шприц
+Podgrzać smarownicę
+A zsírzó melegítése
+Calentar la engrasadora
+
+#6239
+Que se passe-t-il si un roulement reçoit trop de graisse ?
+O que acontece se um rolamento recebe graxa demais?
+轴承注脂过多会怎样？
+Что будет, если в подшипник набить слишком много смазки?
+Co się dzieje, gdy łożysko dostanie za dużo smaru?
+Mi történik, ha egy csapágy túl sok zsírt kap?
+¿Qué pasa si un rodamiento recibe demasiada grasa?
+
+#6240
+Il chauffe et peut chasser les joints
+Esquenta e pode expulsar as vedações
+会发热并可能顶出密封
+Он греется и может выдавить уплотнения
+Grzeje się i może wypchnąć uszczelnienia
+Melegszik, és kinyomhatja a tömítéseket
+Se calienta y puede expulsar los retenes
+
+#6241
+Il dure plus longtemps
+Dura mais
+寿命更长
+Он служит дольше
+Wytrzymuje dłużej
+Tovább bírja
+Dura más
+
+#6242
+Rien, l'excès ressort
+Nada, o excesso sai
+没事，多余的会流出
+Ничего, лишнее выйдет
+Nic, nadmiar wyjdzie
+Semmi, a fölösleg kijön
+Nada, el exceso sale
+
+#6243
+Il devient silencieux pour toujours
+Fica mais silencioso para sempre
+永远变得更安静
+Он навсегда станет тише
+Na zawsze robi się cichsze
+Örökre csendesebb lesz
+Se vuelve más silencioso para siempre
+
+#6792
+Clé hexagonale {1} mm
+Chave Allen {1} mm
+内六角扳手 {1} mm
+Шестигранный ключ {1} mm
+Klucz imbusowy {1} mm
+Imbuszkulcs {1} mm
+Llave Allen {1} mm
+
+#6793
+Lame {1} mm
+Lâmina {1} mm
+塞尺片 {1} mm
+Пластина {1} mm
+Listek {1} mm
+Lap {1} mm
+Lámina {1} mm
+
+#6794
+Griffe {1}{2}
+Garra {1}{2}
+爪 {1}{2}
+Лапа {1}{2}
+Ramię {1}{2}
+Köröm {1}{2}
+Garra {1}{2}
