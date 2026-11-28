@@ -302,35 +302,99 @@
     const esc = (x) => String(x).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
     V.slotPos = [];
     function proj(v3, w, h) { const c = v3.clone().project(cam); return c.z > 1 ? null : { x: (c.x + 1) / 2 * w, y: (1 - c.y) / 2 * h }; }
-    function drawLabels() {
+    /* callout anchor: a point that is really on the part as seen from the camera (the box centre of a casing is often
+       inside it, on another part). Searched when the view is still, kept in part coordinates while it moves. */
+    const anc = new Map(), labW = new Map();
+    function anchorOf(pid, pp, w, h, still) {
+      const a = anc.get(pid);
+      if (a) return a.p.clone().applyMatrix4(pp.g.matrixWorld);
+      const b = new T.Box3(); for (const m of pp.meshes) b.expandByObject(m);
+      const ctr = b.getCenter(new T.Vector3());
+      if (!still) return ctr;
+      const r = host.getBoundingClientRect(), c0 = proj(ctr, w, h), cand = [ctr], v = new T.Vector3();
+      for (const m of pp.meshes) {
+        const pos = m.geometry && m.geometry.attributes && m.geometry.attributes.position; if (!pos) continue;
+        const st = Math.max(1, Math.floor(pos.count / 10));
+        for (let i = 0; i < pos.count; i += st) cand.push(v.fromBufferAttribute(pos, i).applyMatrix4(m.matrixWorld).clone().lerp(m.getWorldPosition(new T.Vector3()), 0.12));
+      }
+      const pts = cand.map((p) => ({ p, q: proj(p, w, h) })).filter((o) => o.q && o.q.x > 4 && o.q.y > 4 && o.q.x < w - 4 && o.q.y < h - 4);
+      if (c0) pts.sort((x, y) => Math.hypot(x.q.x - c0.x, x.q.y - c0.y) - Math.hypot(y.q.x - c0.x, y.q.y - c0.y));
+      let best = null;
+      for (const o of pts.slice(0, 24)) {
+        const hit = V.pickAt(r.left + o.q.x, r.top + o.q.y); if (!hit) continue;
+        let ob = hit.object; while (ob && !(ob.userData && ob.userData.pid)) ob = ob.parent;
+        if (ob && ob.userData.pid === pid) { best = hit.point.clone(); break; }
+      }
+      // hidden inside other parts: point at its nearest surface point (a ring's box centre is in its hole)
+      if (!best) best = (pts.find((o) => o.p !== ctr) || { p: ctr }).p;
+      pp.g.updateMatrixWorld();
+      anc.set(pid, { p: best.clone().applyMatrix4(pp.g.matrixWorld.clone().invert()) });
+      return best;
+    }
+    function drawLabels(busy) {
       const w = host.clientWidth, h = host.clientHeight; let s = '';
-      if (V.labels && V.cur) for (const [pid, pp] of V.cur.parts) {
-        if (V.hidden.has(pid) || !pp.meshes.length || !pp.g.visible) continue;
-        const b = new T.Box3(); for (const m of pp.meshes) b.expandByObject(m);
-        const q = proj(b.getCenter(new T.Vector3()), w, h); if (!q) continue;
-        s += '<span class="mc-lab' + (V.sel === pid ? ' on' : '') + '" style="left:' + q.x.toFixed(0) + 'px;top:' + q.y.toFixed(0) + 'px">' + esc(EL.ui.T(pp.def.name)) + '</span>';
+      if (V.cur !== drawLabels.cur) { anc.clear(); drawLabels.cur = V.cur; }
+      busy = busy || ptr.size > 0 || V.auto; // while the user turns the model, the anchors ride along (searched again when it stops)
+      if (!busy) { const sig = cam.position.toArray().map((x) => x.toFixed(3)).join() + '|' + V.k.toFixed(3) + V.cut + V.hidden.size + V.anim.toFixed(3) + w + 'x' + h; if (sig !== drawLabels.sig) { anc.clear(); drawLabels.sig = sig; } }
+      if (V.labels && V.cur) {
+        /* callouts: anchor dot on the part, label in a column left or right of the model, leader line between */
+        const items = [], fk = (g.innerWidth || 1200) <= 900 ? 'm' : 'd';
+        for (const [pid, pp] of V.cur.parts) {
+          if (V.hidden.has(pid) || !pp.meshes.length || !pp.g.visible) continue;
+          const q = proj(anchorOf(pid, pp, w, h, !busy), w, h); if (!q) continue;
+          const name = EL.ui.T(pp.def.name);
+          items.push({ pid, x: q.x, y: q.y, name, lw: Math.min(labW.get(fk + name) || 120, w / 2 - 16) });
+        }
+        if (items.length) {
+          let minX = Infinity, maxX = -Infinity; for (const it of items) { minX = Math.min(minX, it.x); maxX = Math.max(maxX, it.x); }
+          const cx = (minX + maxX) / 2, narrow = w < 520;
+          const colL = Math.max(8, Math.min(minX - 40, w * 0.3)), colR = Math.min(w - 8, Math.max(maxX + 40, w * 0.7));
+          const sides = { L: items.filter((it) => it.x < cx), R: items.filter((it) => it.x >= cx) };
+          let lines = '';
+          for (const sd of ['L', 'R']) {
+            const arr = sides[sd].sort((a, b) => a.y - b.y), lh = narrow ? 19 : 22;
+            const gap = Math.max(lh, Math.min(narrow ? 22 : 26, arr.length > 1 ? (h - 24) / (arr.length - 1) : 99));
+            for (let i = 0; i < arr.length; i++) arr[i].ly = Math.max(12, arr[i].y);
+            for (let i = 1; i < arr.length; i++) if (arr[i].ly < arr[i - 1].ly + gap) arr[i].ly = arr[i - 1].ly + gap;
+            const over = arr.length ? arr[arr.length - 1].ly - (h - 12) : 0;
+            if (over > 0) { for (const it of arr) it.ly -= over; for (let i = arr.length - 2; i >= 0; i--) if (arr[i].ly > arr[i + 1].ly - gap) arr[i].ly = arr[i + 1].ly - gap; }
+            for (const it of arr) {
+              // keep the whole label inside the view: the column moves in when the label would be cut at the edge
+              const lx = sd === 'L' ? Math.max(colL, it.lw + 6) : Math.min(colR, w - it.lw - 6);
+              lines += '<polyline points="' + it.x.toFixed(0) + ',' + it.y.toFixed(0) + ' ' + (lx + (sd === 'L' ? 14 : -14)).toFixed(0) + ',' + it.ly.toFixed(0) + ' ' + lx.toFixed(0) + ',' + it.ly.toFixed(0) + '"/><circle cx="' + it.x.toFixed(0) + '" cy="' + it.y.toFixed(0) + '" r="3.5"/>';
+              s += '<button type="button" class="mc-lab co ' + sd + (V.sel === it.pid ? ' on' : '') + '" data-pid="' + esc(it.pid) + '" title="' + esc(it.name) + '" style="left:' + lx.toFixed(0) + 'px;top:' + it.ly.toFixed(0) + 'px"><i>i</i><span>' + esc(it.name) + '</span></button>';
+            }
+          }
+          s = '<svg class="mc-lead" width="' + w + '" height="' + h + '">' + lines + '</svg>' + s;
+        }
       }
       V.slotPos = [];
       if (V.extra) for (const L of V.extra()) {
         const q = proj(new T.Vector3(...L.p), w, h); if (!q) continue; V.slotPos.push({ id: L.id, x: q.x, y: q.y });
         s += '<button type="button" class="mc-slot' + (L.cls ? ' ' + L.cls : '') + '" data-slot="' + esc(L.id) + '" style="left:' + q.x.toFixed(0) + 'px;top:' + q.y.toFixed(0) + 'px">' + esc(L.text) + '</button>';
       }
-      if (lab.innerHTML !== s) lab.innerHTML = s;
+      if (lab.innerHTML !== s) {
+        lab.innerHTML = s;
+        /* measure the label widths (per name and font size); when one changed, draw again with it */
+        let fresh = false; const fk = (g.innerWidth || 1200) <= 900 ? 'm' : 'd';
+        for (const e of lab.querySelectorAll('.mc-lab.co')) { const k = fk + e.title, ow = e.offsetWidth; if (ow && Math.abs((labW.get(k) || 0) - ow) > 1) { labW.set(k, ow); fresh = true; } }
+        if (fresh) V.kick();
+      }
     }
-    lab.addEventListener('click', (e) => { const b = e.target.closest('[data-slot]'); if (b && V.onSlot) V.onSlot(b.dataset.slot); });
+    lab.addEventListener('click', (e) => { const b = e.target.closest('[data-slot]'); if (b && V.onSlot) { V.onSlot(b.dataset.slot); return; } const l = e.target.closest('[data-pid]'); if (l) V.select(V.sel === l.dataset.pid ? null : l.dataset.pid); });
     V.slotAt = function (cx, cy, max) { const r = host.getBoundingClientRect(); let best = null, bd = max || 90; for (const q of V.slotPos) { const d = Math.hypot(cx - r.left - q.x, cy - r.top - q.y); if (d < bd) { bd = d; best = q.id; } } return best; };
     let last = 0, raf = 0, alive = true;
     function loop(t) {
       raf = 0; if (!alive) return;
       const dt = Math.min(0.05, last ? (t - last) / 1000 : 0.016); last = t;
       const busy = update(dt);
-      if (V.dirty || busy) { renderer.render(scene, cam); drawLabels(); V.dirty = false; }
+      if (V.dirty || busy) { V.dirty = false; renderer.render(scene, cam); drawLabels(busy); } // drawLabels may ask for one more frame (new label widths)
       if (busy || V.dirty) raf = requestAnimationFrame(loop); else last = 0;
     }
     V.kick = function () { V.dirty = true; if (!raf && alive) raf = requestAnimationFrame(loop); };
     const _kick = V.kick;
     ['setCut', 'setExplode', 'apply', 'operate', 'setLabels', 'fit', 'fitAll'].forEach((k) => { const f = V[k]; V[k] = function () { const r = f.apply(V, arguments); _kick(); return r; }; });
-    V.renderNow = function () { update(0.016); renderer.render(scene, cam); drawLabels(); };
+    V.renderNow = function () { update(0.016); renderer.render(scene, cam); drawLabels(false); };
     V.dispose = function () { alive = false; if (ro) ro.disconnect(); V.clear(); renderer.dispose(); cv.remove(); lab.remove(); };
     V.orbit = orb; V.placeCam = placeCam;
     V.view = function (th, ph) { orb.th = th; orb.ph = ph; placeCam(); V.kick(); };

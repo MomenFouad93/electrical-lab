@@ -16,6 +16,7 @@
     { id: 'bearings', ic: '◎', name: ['Bearings', 'البلي (الرولمان)'] },
     { id: 'seals', ic: '⭕', name: ['Seals & gaskets', 'الجوانات والسيلات'] },
     { id: 'process', ic: '🛢️', name: ['Tanks & pharma equipment', 'التانكات ومعدات الأدوية'] },
+    { id: 'power', ic: '🔋', name: ['Generators & switchgear', 'المولدات والقواطع الكبيرة'] },
   ];
   const SHAPES = ['box', 'cyl', 'cone', 'sph', 'torus', 'lathe', 'hex', 'gear', 'ext', 'flange', 'spring', 'tube', 'balls', 'rollers', 'vanes'];
   const pair = (x) => Array.isArray(x) && x.length === 2 && typeof x[0] === 'string' && typeof x[1] === 'string';

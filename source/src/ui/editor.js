@@ -589,6 +589,7 @@
       const mkEl = e.target.closest && e.target.closest('.mk');
       if (mkEl) { if (opts.onMark) opts.onMark(ed.markList[+mkEl.dataset.i], +mkEl.dataset.i); gest = null; return; }
       let t = targetOf(e); const w = ed.toWorld(e.clientX, e.clientY);
+      if (ui.explain && ui.explain.on && !pcb && t.k !== 'bg' && t.k !== 'bend' && ptrs.size <= 1) { gest = null; ui.explain.tap(ed, host, t); return; }
       // Test mode, zoomed out (phones, Whole plant): a tap on a terminal of a switch / button operates the device;
       // with no meter tool a terminal tap always goes to the device
       if (t.k === 'pin' && ed.mode === 'test' && !pcb) {

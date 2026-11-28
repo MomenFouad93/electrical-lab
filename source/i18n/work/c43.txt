@@ -1,0 +1,809 @@
+#7103
+Dans quelle position d'embrochage peut-on tester ON/OFF et le câblage de commande alors que le circuit principal est isolé ?
+Em qual posição de extração você pode testar ON/OFF e a fiação de comando com o circuito principal isolado?
+在哪个抽出位置可以在主回路隔离的情况下测试 ON/OFF 和控制接线？
+В каком положении выкатывания можно проверять ON/OFF и цепи управления при изолированной главной цепи?
+W której pozycji wysunięcia można sprawdzić ON/OFF i obwody sterowania przy odizolowanym obwodzie głównym?
+Melyik kihúzási helyzetben lehet a ki/be kapcsolást és a vezérlő huzalozást tesztelni, miközben a főáramkör le van választva?
+¿En qué posición de extracción se pueden probar ON/OFF y el cableado de control con el circuito principal aislado?
+
+#7104
+Retiré du châssis
+Removido do chassi
+已从底盘上取出
+Снят с шасси
+Wyjęty z podwozia
+Kivéve a kocsiból
+Retirado del chasis
+
+#7105
+Un gros moteur démarre et le disjoncteur ACB d'arrivée déclenche instantanément. Quel réglage est le plus probablement trop bas ?
+Um motor grande parte e o ACB de entrada desarma instantaneamente. Qual ajuste provavelmente está baixo demais?
+大电机启动时进线 ACB 立即跳闸。哪个整定值最可能过低？
+Большой двигатель запускается, и вводной ACB мгновенно отключается. Какая уставка, скорее всего, слишком низкая?
+Duży silnik się rozruchowo uruchamia i wyłącznik główny ACB natychmiast wyzwala. Które nastawienie jest najprawdopodobniej za niskie?
+Egy nagy motor indul, és a bejövő ACB azonnal kioldál. Melyik beállítás a legvalószínűbben túl alacsony?
+Un motor grande arranca y el ACB de entrada dispara al instante. ¿Qué ajuste es más probable que esté demasiado bajo?
+
+#7106
+Ii (instantané) ou Isd (court retard)
+Ii (instantâneo) ou Isd (tempo curto)
+Ii（瞬时）或 Isd（短延时）
+Ii (мгновенная) или Isd (короткая задержка)
+Ii (zwarciowe zwłoczne bezzwłoczne) lub Isd (krótkozwłoczne)
+Ii (azonnali) vagy Isd (rövid időkésleltetésű)
+Ii (instantáneo) o Isd (retardo corto)
+
+#7107
+Ir (long retard)
+Ir (tempo longo)
+Ir（长延时）
+Ir (длительная задержка)
+Ir (długozwłoczne)
+Ir (hosszú időkésleltetésű)
+Ir (retardo largo)
+
+#7108
+La charge du ressort
+A carga da mola
+弹簧储能
+Взвод пружины
+Naciąg sprężyny
+A rugó felhúzása
+La carga del resorte
+
+#7109
+Le compteur de manœuvres
+O contador de operações
+操作计数器
+Счётчик операций
+Licznik łączeń
+A kapcsolásszámláló
+El contador de maniobras
+
+#7110
+Consignation (LOTO) correcte sur un départ ACB débrochable :
+LOTO correto em um alimentador com ACB extraível:
+抽出式 ACB 馈线的正确上锁挂牌（LOTO）：
+Правильная блокировка LOTO на фидере с выкатным ACB:
+Prawidłowa procedura LOTO na polu z wysuwnym ACB:
+Helyes LOTO kihúzható ACB-s leágazáson:
+LOTO correcto en una salida con ACB extraíble:
+
+#7111
+L'ouvrir, le débrocher en position DÉCONNECTÉ, cadenasser le débrochage/les volets, retirer la manivelle, décharger les ressorts, vérifier l'absence de tension
+Abri-lo, extraí-lo para DESCONECTADO, colocar cadeado na extração/persianas, retirar a manivela, descarregar as molas, testar ausência de tensão
+先断开，抽出至“断开”位置，对抽出机构/挡板挂锁，取下摇柄，释放弹簧能量，验电确认无电
+Отключить, выкатить в положение DISCONNECTED, повесить замок на механизм выкатывания/шторки, снять рукоятку, разрядить пружины, проверить отсутствие напряжения
+Wyłączyć, wysunąć do pozycji DISCONNECTED, zamknąć kłódką mechanizm wysuwania/żaluzje, zdjąć korbę, rozładować sprężyny, sprawdzić brak napięcia
+Kikapcsolni, DISCONNECTED helyzetbe kihúzni, llakatolni a kihúzó szerkezetet/zsalukat, levenni a kart, kisütni a rugókat, feszültségmentességet ellenőrizni
+Abrirlo, extraerlo a DESCONECTADO, poner candado al mecanismo de extracción/persianas, quitar la manivela, descargar los resortes, comprobar ausencia de tensión
+
+#7112
+Appuyer sur OFF et accrocher seulement une étiquette
+Apenas pressionar OFF e pendurar uma etiqueta
+只按 OFF 并挂一个标签
+Только нажать OFF и повесить бирку
+Tylko nacisnąć OFF i powiesić tabliczkę
+Csak az OFF-ot megnyomni és egy cédulát kitenni
+Pulsar OFF y colgar solo una etiqueta
+
+#7113
+Le débrocher alors qu'il est fermé
+Extraí-lo enquanto está fechado
+在合闸状态下抽出
+Выкатить его во включённом состоянии
+Wysunąć go, gdy jest załączony
+Kihúzni, amíg zárt állapotban van
+Extraerlo estando cerrado
+
+#7114
+Régler Ir au minimum
+Ajustar Ir para o mínimo
+将 Ir 设为最小
+Установить Ir на минимум
+Ustawić Ir na minimum
+Az Ir-t minimumra állítani
+Poner Ir al mínimo
+
+#7115
+Groupes électrogènes et appareillage
+Geradores e painéis de manobra
+发电机与开关柜
+Генераторы и распредустройства
+Generatory i rozdzielnice
+Generátorok és kapcsolóberendezések
+Generadores y aparamenta
+
+#7116
+Borne de bobine A1 : l'alimentation de commande arrive ici (+ ou L). Quand A1 et A2 reçoivent la tension de bobine, l'appareil colle.
+Terminal de bobina A1: a alimentação de comando entra aqui (+ ou L). Quando A1 e A2 recebem a tensão da bobina, o dispositivo atua.
+线圈端子 A1：控制电源从这里接入（+ 或 L）。当 A1 和 A2 得到线圈电压时，器件吸合。
+Клемма катушки A1: сюда подаётся питание цепи управления (+ или L). Когда на A1 и A2 подаётся напряжение катушки, аппарат срабатывает.
+Zacisk cewki A1: tu wchodzi zasilanie sterownicze (+ lub L). Gdy A1 i A2 dostaną napięcie cewki, aparat zadziała.
+A1 tekercsvég: ide érkezik a vezérlőtáp (+ vagy L). Amikor A1 és A2 megkapja a tekercsfeszültséget, a készülék meghúz.
+Borne de bobina A1: aquí entra la alimentación de control (+ o L). Cuando A1 y A2 reciben la tensión de bobina, el aparato se activa.
+
+#7117
+Borne de bobine A2 : le retour de la bobine (0 V ou N).
+Terminal de bobina A2: o retorno da bobina (0 V ou N).
+线圈端子 A2：线圈的回路端（0 V 或 N）。
+Клемма катушки A2: возврат катушки (0 В или N).
+Zacisk cewki A2: powrót cewki (0 V lub N).
+A2 tekercsvég: a tekercs visszavezetése (0 V vagy N).
+Borne de bobina A2: el retorno de la bobina (0 V o N).
+
+#7118
+Contact de déclenchement du relais thermique 95-96, normalement fermé : le mettre en série avec la bobine du contacteur pour qu'un déclenchement coupe le moteur.
+Contato de disparo do relé de sobrecarga 95-96, normalmente fechado: ligue em série com a bobina do contator para que um disparo desligue o motor.
+过载脱扣触点 95-96，常闭：与接触器线圈串联，脱扣时电机即停。
+Контакт отключения теплового реле 95-96, нормально замкнутый: включается последовательно с катушкой контактора, чтобы при срабатывании двигатель отключался.
+Styk wyzwalania przekaźnika przeciążeniowego 95-96, normalnie zamknięty: włącza się szeregowo z cewką stycznika, aby wyzwolenie wyłączyło silnik.
+Túlterhelés-kioldó érintkező 95-96, alaphelyzetben zárt: a kontaktor tekercsével sorba kötve, hogy kioldáskor a motor leálljon.
+Contacto de disparo del relé térmico 95-96, normalmente cerrado: ponerlo en serie con la bobina del contactor para que un disparo pare el motor.
+
+#7119
+Contact de signalisation du relais thermique 97-98, normalement ouvert : se ferme au déclenchement, pour un voyant de défaut ou une entrée d'automate.
+Contato de sinalização do relé de sobrecarga 97-98, normalmente aberto: fecha no disparo, para uma lâmpada de falha ou uma entrada de CLP.
+过载信号触点 97-98，常开：脱扣时闭合，用于故障指示灯或 PLC 输入。
+Сигнальный контакт теплового реле 97-98, нормально разомкнутый: замыкается при срабатывании, для лампы аварии или входа ПЛК.
+Styk sygnalizacyjny przekaźnika przeciążeniowego 97-98, normalnie otwarty: zamyka się przy wyzwoleniu, do lampki awarii lub wejścia PLC.
+Túlterhelés jelző érintkező 97-98, alaphelyzetben nyitott: kioldáskor zár, hibalámpához vagy PLC bemenethez.
+Contacto de señal del relé térmico 97-98, normalmente abierto: se cierra al disparar, para una lámpara de fallo o una entrada del PLC.
+
+#7120
+Bloc de contact 3-4, normalement ouvert : se ferme tant que le bouton est appuyé (ou que le sélecteur est tourné).
+Bloco de contato 3-4, normalmente aberto: fecha enquanto o botão está pressionado (ou o seletor está girado).
+触点块 3-4，常开：按钮按下（或选择开关旋转）时闭合。
+Контактный блок 3-4, нормально разомкнутый: замыкается, пока нажата кнопка (или повёрнут переключатель).
+Blok styków 3-4, normalnie otwarty: zamyka się, gdy przycisk jest wciśnięty (lub przełącznik obrócony).
+Érintkezőblokk 3-4, alaphelyzetben nyitott: zár, amíg a gombot nyomják (vagy a választókapcsolót elfordítják).
+Bloque de contactos 3-4, normalmente abierto: se cierra mientras se pulsa el botón (o se gira el selector).
+
+#7121
+Bloc de contact 1-2, normalement fermé : s'ouvre quand on appuie sur le bouton. Arrêt et arrêt d'urgence utilisent NF pour qu'un fil coupé arrête aussi.
+Bloco de contato 1-2, normalmente fechado: abre quando o botão é pressionado. Parada e emergência usam NF para que um fio rompido também pare.
+触点块 1-2，常闭：按下按钮时断开。停止和急停使用常闭，这样断线时也会停机。
+Контактный блок 1-2, нормально замкнутый: размыкается при нажатии кнопки. «Стоп» и аварийный останов используют НЗ, чтобы обрыв провода тоже останавливал.
+Blok styków 1-2, normalnie zamknięty: otwiera się po naciśnięciu przycisku. Stop i wyłącznik awaryjny używają NC, aby przerwany przewód też zatrzymywał.
+Érintkezőblokk 1-2, alaphelyzetben zárt: a gomb megnyomásakor nyit. A stop és a vészleállító NC-t használ, így a szakadt vezeték is leállít.
+Bloque de contactos 1-2, normalmente cerrado: se abre al pulsar el botón. Paro y paro de emergencia usan NC para que un cable roto también pare.
+
+#7122
+Neutre : le retour des charges monophasées. Ne jamais couper le neutre seul.
+Neutro: o retorno das cargas monofásicas. Nunca chaveie só o neutro.
+中性线：单相负载的回路。绝不要单独切断 N。
+Нейтраль: возврат однофазных нагрузок. Никогда не коммутируйте один N.
+Przewód neutralny: powrót obciążeń jednofazowych. Nigdy nie przełączaj samego N.
+Nullavezető: az egyfázisú fogyasztók visszavezetése. Soha ne kapcsold külön az N-t.
+Neutro: el retorno de las cargas monofásicas. Nunca se debe conmutar solo el N.
+
+#7123
+Terre de protection (vert-jaune) : chaque masse métallique et carcasse de moteur y est reliée. Jamais fusionnée ni coupée.
+Terra de proteção (verde-amarelo): toda carcaça metálica e carcaça de motor vai aqui. Nunca com fusível, nunca chaveada.
+保护接地（黄绿）：所有金属外壳和电机机座都接到这里。绝不加熔断器，绝不切断。
+Защитное заземление (жёлто-зелёное): сюда подключаются все металлические корпуса и станины двигателей. Никогда не защищается предохранителем и не коммутируется.
+Przewód ochronny (zielono-żółty): każda metalowa obudowa i korpus silnika idą tutaj. Nigdy nie bezpieczniki, nigdy nie przełączany.
+Védőföld (zöld-sárga): minden fémtest és motorváz ide csatlakozik. Soha nincs biztosítva, soha nem kapcsolható.
+Tierra de protección (verde-amarillo): toda masa metálica y carcasa de motor va aquí. Nunca con fusible, nunca conmutada.
+
+#7124
+Fil marron du capteur : alimentation +24 V.
+Fio marrom do sensor: alimentação +24 V.
+传感器棕色线：+24 V 电源。
+Коричневый провод датчика: питание +24 В.
+Brązowy przewód czujnika: zasilanie +24 V.
+Az érzékelő barna vezetéke: +24 V tápellátás.
+Cable marrón del sensor: alimentación +24 V.
+
+#7125
+Fil bleu du capteur : alimentation 0 V.
+Fio azul do sensor: alimentação 0 V.
+传感器蓝色线：0 V 电源。
+Синий провод датчика: питание 0 В.
+Niebieski przewód czujnika: zasilanie 0 V.
+Az érzékelő kék vezetéke: 0 V tápellátás.
+Cable azul del sensor: alimentación 0 V.
+
+#7126
+Fil noir du capteur : la sortie. Un PNP envoie +24 V à l'entrée de l'automate quand le capteur voit sa cible.
+Fio preto do sensor: a saída. O PNP envia +24 V à entrada do CLP quando o sensor detecta seu alvo.
+传感器黑色线：输出。PNP 型在传感器检测到目标时向 PLC 输入送出 +24 V。
+Чёрный провод датчика: выход. PNP подаёт +24 В на вход ПЛК, когда датчик видит цель.
+Czarny przewód czujnika: wyjście. PNP podaje +24 V na wejście PLC, gdy czujnik widzi cel.
+Az érzékelő fekete vezetéke: a kimenet. A PNP +24 V-ot ad a PLC bemenetére, amikor az érzékelő látja a célt.
+Cable negro del sensor: la salida. El PNP da +24 V a la entrada del PLC cuando el sensor ve su objetivo.
+
+#7127
+Alimentation 24 V DC de l'automate (+).
+Alimentação 24 V DC do CLP (+).
+PLC 24 V DC 电源（+）。
+Питание ПЛК 24 В DC (+).
+Zasilanie PLC 24 V DC (+).
+A PLC 24 V DC tápellátása (+).
+Alimentación de 24 V DC del PLC (+).
+
+#7128
+0 V de l'automate (M) : la référence des entrées, sorties et signaux analogiques.
+0 V do CLP (M): a referência das entradas, saídas e sinais analógicos.
+PLC 0 V（M）：输入、输出和模拟信号的参考点。
+0 В ПЛК (M): опорный потенциал входов, выходов и аналоговых сигналов.
+0 V PLC (M): odniesienie dla wejść, wyjść i sygnałów analogowych.
+A PLC 0 V-ja (M): a bemenetek, kimenetek és analóg jelek vonatkoztatási pontja.
+0 V del PLC (M): la referencia de entradas, salidas y señales analógicas.
+
+#7129
+Entrée analogique (0-10 V / 4-20 mA avec une résistance shunt) : la valeur d'un transmetteur, lue comme un nombre (IW64...).
+Entrada analógica (0-10 V / 4-20 mA com resistor shunt): o valor de um transmissor, lido como um número (IW64...).
+模拟量输入（0-10 V / 4-20 mA，需并联电阻）：变送器的数值，以数字形式读取（IW64...）。
+Аналоговый вход (0-10 В / 4-20 мА с шунтом): значение датчика-преобразователя, читаемое как число (IW64...).
+Wejście analogowe (0-10 V / 4-20 mA z rezystorem bocznikującym): wartość z przetwornika, odczytywana jako liczba (IW64...).
+Analóg bemenet (0-10 V / 4-20 mA söntellenállással): egy távadó értéke, számként olvasva (IW64...).
+Entrada analógica (0-10 V / 4-20 mA con resistencia shunt): el valor de un transmisor, leído como un número (IW64...).
+
+#7130
+Borne positive (+).
+Terminal positivo (+).
+正极（+）端子。
+Положительная клемма (+).
+Zacisk dodatni (+).
+Pozitív (+) csatlakozó.
+Borne positivo (+).
+
+#7131
+Borne négative (-) / 0 V.
+Terminal negativo (-) / 0 V.
+负极（-）/ 0 V 端子。
+Отрицательная клемма (-) / 0 В.
+Zacisk ujemny (-) / 0 V.
+Negatív (-) / 0 V csatlakozó.
+Borne negativo (-) / 0 V.
+
+#7132
+Boucle de réarmement du relais de sécurité S33-S34 : le bouton de réarmement et les contacts NF de retour des contacteurs commandés se raccordent ici.
+Laço de reset do relé de segurança S33-S34: o botão de reset e os contatos NF de realimentação dos contatores controlados ligam-se aqui.
+安全继电器复位回路 S33-S34：复位按钮和被控接触器的常闭反馈触点接在这里。
+Цепь сброса реле безопасности S33-S34: сюда подключаются кнопка сброса и НЗ контакты обратной связи управляемых контакторов.
+Pętla resetu przekaźnika bezpieczeństwa S33-S34: tu podłącza się przycisk resetu i styki zwrotne NC sterowanych styczników.
+A biztonsági relé visszaállító hurka S33-S34: ide kerül a visszaállító gomb és a vezérelt kontaktorok NC visszajelző érintkezői.
+Lazo de rearme del relé de seguridad S33-S34: aquí van el pulsador de rearme y los contactos NC de realimentación de los contactores controlados.
+
+#7133
+Câblé actuellement à : 
+Ligado agora a: 
+当前接到：
+Сейчас подключено к: 
+Obecnie podłączone do: 
+Jelenleg ide van kötve: 
+Conectado ahora a: 
+
+#7134
+Pas encore câblé.
+Ainda não ligado.
+尚未接线。
+Ещё не подключено.
+Jeszcze nie podłączone.
+Még nincs bekötve.
+Aún sin conectar.
+
+#7135
+Touchez une borne pour savoir à quoi elle sert :
+Toque em um terminal para saber para que serve:
+点击一个端子了解其用途：
+Нажмите на клемму, чтобы узнать её назначение:
+Dotknij zacisku, aby dowiedzieć się, do czego służy:
+Érintsen meg egy csatlakozót, hogy megtudja, mire való:
+Toque un borne para saber para qué sirve:
+
+#7136
+Mode explication : touchez un appareil ou une borne. Touchez ? de nouveau pour revenir au travail.
+Modo explicação: toque em qualquer dispositivo ou terminal. Toque em ? novamente para voltar ao trabalho.
+讲解模式：点击任意器件或端子。再次点击 ? 返回工作。
+Режим пояснений: нажмите на любой аппарат или клемму. Нажмите ? ещё раз, чтобы вернуться к работе.
+Tryb objaśnień: dotknij dowolnego urządzenia lub zacisku. Dotknij ? ponownie, aby wrócić do pracy.
+Magyarázó mód: érintsen meg bármilyen készüléket vagy csatlakozót. Érintse meg újra a ? jelet a munkához való visszatéréshez.
+Modo explicación: toque cualquier aparato o borne. Toque ? otra vez para volver al trabajo.
+
+#7137
+Dessin à partir d'une image
+Desenho a partir de uma imagem
+根据图片绘制
+Чертёж по картинке
+Rysunek na podstawie obrazu
+Rajz képből
+Dibujo a partir de una imagen
+
+#7138
+Dessiné par l'assistant IA à partir d'une image ou d'un PDF. Vérifiez-le par rapport à l'original.
+Desenhado pelo assistente de IA a partir de uma imagem ou PDF. Confira com o original.
+由 AI 助手根据图片或 PDF 绘制。请与原图核对。
+Нарисовано ИИ-помощником по картинке или PDF. Сверьте с оригиналом.
+Narysowane przez asystenta AI na podstawie obrazu lub pliku PDF. Sprawdź z oryginałem.
+Az AI segéd rajzolta képből vagy PDF-ből. Ellenőrizze az eredetivel.
+Dibujado por el asistente de IA a partir de una imagen o un PDF. Compruébelo con el original.
+
+#7139
+Vérifiez chaque composant et chaque fil par rapport au dessin original.
+Confira cada peça e cada fio com o desenho original.
+请将每个部件和每根导线与原图核对。
+Сверьте каждый элемент и каждый провод с исходным чертежом.
+Sprawdź każdą część i każdy przewód z oryginalnym rysunkiem.
+Ellenőrizze minden alkatrészt és vezetéket az eredeti rajzzal.
+Compruebe cada pieza y cada cable con el dibujo original.
+
+#7140
+Schéma de câblage
+Diagrama de ligação
+接线图
+Монтажная схема
+Schemat okablowania
+Huzalozási rajz
+Esquema de cableado
+
+#7141
+→ Dessin du tableau
+→ Desenho do painel
+→ 配电盘图纸
+→ Чертёж щита
+→ Rysunek rozdzielnicy
+→ Szekrényrajz
+→ Dibujo del cuadro
+
+#7142
+Schémas de puissance et de commande, plans de bornes, pages d'E/S automate.
+Diagramas de potência e comando, planos de bornes, páginas de E/S do CLP.
+动力与控制电路图、端子图、PLC I/O 页。
+Схемы силовых цепей и цепей управления, схемы клемм, страницы входов/выходов ПЛК.
+Schematy obwodów mocy i sterowania, plany zacisków, strony wejść/wyjść PLC.
+Erő- és vezérlőáramköri rajzok, kapocsrajzok, PLC I/O oldalak.
+Esquemas de potencia y control, planos de bornes, páginas de E/S del PLC.
+
+#7143
+→ Dessin de l'installation
+→ Desenho da planta
+→ 工艺装置图纸
+→ Чертёж установки
+→ Rysunek instalacji
+→ Üzemrajz
+→ Dibujo de la planta
+
+#7144
+Schémas de tuyauterie et d'instrumentation, schémas de procédé d'eau ou de skids de process.
+Diagramas de tubulação e instrumentação, fluxogramas de processo de água ou de skids de processo.
+水系统或工艺撬块的管道仪表图、工艺流程图。
+Схемы трубопроводов и КИП, технологические схемы водных или технологических скидов.
+Schematy P&ID i schematy technologiczne układów wodnych lub skidów procesowych.
+Csővezeték- és műszerezési rajzok, vízrendszerek vagy technológiai egységek folyamatábrái.
+Diagramas de tuberías e instrumentación, diagramas de proceso de agua o de skids de proceso.
+
+#7145
+Dessin mécanique
+Desenho mecânico
+机械图纸
+Механический чертёж
+Rysunek mechaniczny
+Gépészeti rajz
+Dibujo mecánico
+
+#7146
+→ Explication + liste des pièces
+→ Explicação + lista de peças
+→ 说明 + 零件清单
+→ Пояснение + перечень деталей
+→ Objaśnienie + lista części
+→ Magyarázat + alkatrészlista
+→ Explicación + lista de piezas
+
+#7147
+Vues d'assemblage, éclatées ou en coupe de pompes, vannes, réducteurs...
+Vistas de montagem, explodidas ou em corte de bombas, válvulas, redutores...
+泵、阀门、减速机等的装配图、爆炸图或剖视图...
+Сборочные, разнесённые или разрезные виды насосов, клапанов, редукторов...
+Widoki montażowe, rozstrzelone lub przekroje pomp, zaworów, przekładni...
+Szivattyúk, szelepek, hajtóművek összeállítási, robbantott vagy metszeti nézetei...
+Vistas de ensamblaje, despiece o corte de bombas, válvulas, reductores...
+
+#7148
+ images à la fois.
+ imagens por vez.
+ 张图片。
+ картинок за раз.
+ obrazów naraz.
+ kép egyszerre.
+ imágenes a la vez.
+
+#7149
+Impossible de lire cette image.
+Não foi possível ler essa imagem.
+无法读取该图片。
+Не удалось прочитать эту картинку.
+Nie udało się odczytać tego obrazu.
+Nem sikerült beolvasni a képet.
+No se pudo leer esa imagen.
+
+#7150
+Ce n'est pas un fichier PDF.
+Isso não é um arquivo PDF.
+这不是 PDF 文件。
+Это не файл PDF.
+To nie jest plik PDF.
+Ez nem PDF fájl.
+Eso no es un archivo PDF.
+
+#7151
+Le PDF est trop volumineux (
+O PDF é grande demais (
+PDF 文件太大（
+PDF слишком большой (
+Plik PDF jest za duży (
+A PDF túl nagy (
+El PDF es demasiado grande (
+
+#7152
+). La limite est de 22 Mo : envoyez seulement les pages nécessaires, ou prenez-les en photo.
+). O limite é 22 MB: envie só as páginas de que precisa, ou tire fotos delas.
+）。上限为 22 MB：只发送需要的页面，或者拍照上传。
+). Лимит 22 МБ: отправьте только нужные страницы или сфотографируйте их.
+). Limit to 22 MB: wyślij tylko potrzebne strony lub zrób im zdjęcia.
+). A határ 22 MB: csak a szükséges oldalakat küldje, vagy fényképezze le őket.
+). El límite es 22 MB: envíe solo las páginas que necesite, o tómeles fotos.
+
+#7153
+Impossible de lire ce fichier.
+Não foi possível ler esse arquivo.
+无法读取该文件。
+Не удалось прочитать этот файл.
+Nie udało się odczytać tego pliku.
+Nem sikerült beolvasni a fájlt.
+No se pudo leer ese archivo.
+
+#7154
+Vous êtes hors ligne. Cela demande internet (le reste du labo fonctionne hors ligne).
+Você está offline. Isso precisa de internet (o resto do laboratório funciona offline).
+您处于离线状态。此功能需要联网（实验室的其余部分可离线使用）。
+Вы не в сети. Для этого нужен интернет (остальная часть лаборатории работает офлайн).
+Jesteś offline. To wymaga internetu (reszta laboratorium działa offline).
+Nincs internetkapcsolat. Ehhez internet kell (a labor többi része offline is működik).
+Está sin conexión. Esto necesita internet (el resto del laboratorio funciona sin conexión).
+
+#7155
+L'IA a répondu, mais pas avec un dessin au format attendu. Réessayez, ajoutez une note (par exemple « seulement la page 2, le démarreur moteur ») ou utilisez une image plus nette.
+A IA respondeu, mas não com um desenho no formato esperado. Tente de novo, adicione uma nota (por exemplo "só a página 2, a partida do motor") ou use uma imagem mais nítida.
+AI 已回复，但不是预期格式的图纸。请重试，添加备注（例如“只要第 2 页，电机启动器”），或使用更清晰的图片。
+ИИ ответил, но не чертежом в ожидаемом формате. Повторите попытку, добавьте примечание (например, «только страница 2, пускатель двигателя») или используйте более чёткую картинку.
+AI odpowiedziało, ale nie rysunkiem w oczekiwanym formacie. Spróbuj ponownie, dodaj uwagę (na przykład „tylko strona 2, rozrusznik silnika”) lub użyj ostrzejszego obrazu.
+Az AI válaszolt, de nem a várt formátumú rajzzal. Próbálja újra, adjon hozzá megjegyzést (például „csak a 2. oldal, a motorindító”), vagy használjon élesebb képet.
+La IA respondió, pero no con un dibujo en el formato esperado. Inténtelo de nuevo, añada una nota (por ejemplo «solo la página 2, el arrancador del motor») o use una imagen más nítida.
+
+#7156
+Le service d'IA a refusé la clé. Vérifiez la clé API ci-dessous.
+O serviço de IA recusou a chave. Verifique a chave de API abaixo.
+AI 服务拒绝了该密钥。请检查下方的 API 密钥。
+Сервис ИИ отклонил ключ. Проверьте ключ API ниже.
+Usługa AI odrzuciła klucz. Sprawdź poniższy klucz API.
+Az AI szolgáltatás elutasította a kulcsot. Ellenőrizze az alábbi API-kulcsot.
+El servicio de IA rechazó la clave. Compruebe la clave de API de abajo.
+
+#7157
+Les fichiers sont trop volumineux pour une seule requête. Envoyez moins de pages ou des images plus petites.
+Os arquivos são grandes demais para uma única requisição. Envie menos páginas ou imagens menores.
+文件太大，无法在一次请求中发送。请减少页数或使用更小的图片。
+Файлы слишком велики для одного запроса. Отправьте меньше страниц или картинки меньшего размера.
+Pliki są za duże na jedno żądanie. Wyślij mniej stron lub mniejsze obrazy.
+A fájlok túl nagyok egyetlen kéréshez. Küldjön kevesebb oldalt vagy kisebb képeket.
+Los archivos son demasiado grandes para una sola solicitud. Envíe menos páginas o imágenes más pequeñas.
+
+#7158
+Le service d'IA est occupé. Attendez une minute et réessayez.
+O serviço de IA está ocupado agora. Aguarde um minuto e tente de novo.
+AI 服务目前繁忙。请等一分钟后重试。
+Сервис ИИ сейчас занят. Подождите минуту и повторите попытку.
+Usługa AI jest teraz zajęta. Poczekaj minutę i spróbuj ponownie.
+Az AI szolgáltatás jelenleg foglalt. Várjon egy percet, és próbálja újra.
+El servicio de IA está ocupado ahora. Espere un minuto e inténtelo de nuevo.
+
+#7159
+Pas de réponse à temps. Réessayez avec moins de pages.
+Sem resposta a tempo. Tente de novo com menos páginas.
+等待超时无应答。请减少页数后重试。
+Ответ не получен вовремя. Повторите попытку с меньшим числом страниц.
+Brak odpowiedzi w czasie. Spróbuj ponownie z mniejszą liczbą stron.
+Nem érkezett válasz időben. Próbálja újra kevesebb oldallal.
+Sin respuesta a tiempo. Inténtelo de nuevo con menos páginas.
+
+#7160
+Une erreur s'est produite.
+Algo deu errado.
+出了点问题。
+Что-то пошло не так.
+Coś poszło nie tak.
+Valami hiba történt.
+Algo salió mal.
+
+#7161
+Ajoutez d'abord une image ou un PDF.
+Adicione primeiro uma imagem ou um PDF.
+请先添加图片或 PDF。
+Сначала добавьте картинку или PDF.
+Najpierw dodaj obraz lub plik PDF.
+Először adjon hozzá egy képet vagy PDF-et.
+Primero añada una imagen o un PDF.
+
+#7162
+Ajoutez d'abord votre clé API (ci-dessous).
+Adicione primeiro sua chave de API (abaixo).
+请先添加您的 API 密钥（见下方）。
+Сначала добавьте свой ключ API (ниже).
+Najpierw dodaj swój klucz API (poniżej).
+Először adja meg az API-kulcsát (lent).
+Primero añada su clave de API (abajo).
+
+#7163
+Les fichiers sont trop volumineux ensemble. Retirez quelques images ou pages.
+Os arquivos juntos são grandes demais. Remova algumas imagens ou páginas.
+文件总大小过大。请移除一些图片或页面。
+Файлы вместе слишком велики. Удалите несколько картинок или страниц.
+Pliki razem są za duże. Usuń kilka obrazów lub stron.
+A fájlok együtt túl nagyok. Távolítson el néhány képet vagy oldalt.
+Los archivos juntos son demasiado grandes. Quite algunas imágenes o páginas.
+
+#7164
+Ouvert en visite : votre propre établi est conservé (⌂ Mon établi). Vérifiez chaque composant par rapport à l'original.
+Aberto como visita: sua própria bancada é mantida (⌂ Minha bancada). Confira cada peça com o original.
+以访问方式打开：您自己的工作台已保留（⌂ 我的工作台）。请将每个部件与原图核对。
+Открыто как просмотр: ваш собственный стенд сохранён (⌂ Мой стенд). Сверьте каждый элемент с оригиналом.
+Otwarto jako wizyta: Twoje własne stanowisko zostało zachowane (⌂ Moje stanowisko). Sprawdź każdą część z oryginałem.
+Látogatásként megnyitva: a saját munkapadja megmarad (⌂ Saját munkapad). Ellenőrizze minden alkatrészt az eredetivel.
+Abierto como visita: se conserva su propio banco (⌂ Mi banco). Compruebe cada pieza con el original.
+
+#7165
+Remplacer votre dessin sur l'établi par celui-ci ? (Enregistrez le vôtre comme projet d'abord si nécessaire.)
+Substituir seu desenho na bancada por este? (Salve o seu como projeto antes, se precisar.)
+用这个图纸替换工作台上您的图纸吗？（如需保留，请先将您的图纸保存为项目。）
+Заменить ваш чертёж на стенде этим? (Сначала сохраните свой как проект, если нужно.)
+Zastąpić Twój rysunek na stanowisku tym rysunkiem? (Jeśli potrzeba, najpierw zapisz swój jako projekt.)
+Lecseréli a munkapadon lévő rajzát erre? (Ha szüksége van rá, előbb mentse el a sajátját projektként.)
+¿Reemplazar su dibujo en el banco por este? (Guarde el suyo antes como proyecto si lo necesita.)
+
+#7166
+Le dessin est maintenant votre propre dessin d'établi.
+O desenho agora é o desenho da sua própria bancada.
+该图纸现在是您自己的工作台图纸。
+Чертёж теперь стал вашим собственным чертежом на стенде.
+Rysunek jest teraz Twoim własnym rysunkiem stanowiska.
+A rajz mostantól a saját munkapadi rajza.
+El dibujo es ahora su propio dibujo del banco.
+
+#7167
+Qté
+Qtd
+数量
+Кол-во
+Ilość
+Menny.
+Cant.
+
+#7168
+Ordre de montage
+Ordem de montagem
+装配顺序
+Порядок сборки
+Kolejność montażu
+Összeszerelési sorrend
+Orden de montaje
+
+#7169
+Vérifications
+Verificações
+检查
+Проверки
+Kontrole
+Ellenőrzések
+Comprobaciones
+
+#7170
+Dessin prêt
+Desenho pronto
+图纸已就绪
+Чертёж готов
+Rysunek gotowy
+Rajz kész
+Dibujo listo
+
+#7171
+composants
+peças
+部件
+элементы
+części
+alkatrész
+piezas
+
+#7172
+fils
+fios
+导线
+провода
+przewody
+vezeték
+cables
+
+#7173
+unités
+unidades
+单元
+блоки
+jednostki
+egység
+unidades
+
+#7174
+tuyaux
+tubos
+管道
+трубы
+rury
+cső
+tuberías
+
+#7175
+placés par le labo (sans emplacement ou superposés)
+posicionados pelo laboratório (sem lugar ou sobrepostos)
+由实验室放置（无位置或重叠）
+размещено лабораторией (без места или перекрываются)
+umieszczone przez laboratorium (brak miejsca lub nakładanie)
+a labor helyezte el (nincs hely vagy átfedés)
+colocados por el laboratorio (sin lugar o superpuestos)
+
+#7176
+Notes de l'IA
+Notas da IA
+AI 备注
+Заметки ИИ
+Uwagi AI
+AI megjegyzések
+Notas de la IA
+
+#7177
+Pas sûr (à vérifier sur l'original)
+Incerto (confira no original)
+不确定（请对照原图检查）
+Не уверен (проверьте по оригиналу)
+Niepewne (sprawdź w oryginale)
+Bizonytalan (ellenőrizze az eredetin)
+Dudoso (compruebe en el original)
+
+#7178
+Liaisons vers des repères qui ne sont pas sur le tableau
+Ligações a tags que não estão no painel
+链接到不在配电盘上的标签
+Связи с обозначениями, которых нет на щите
+Powiązania z oznaczeniami, których nie ma w rozdzielnicy
+Hivatkozások olyan jelölésekre, amelyek nincsenek a szekrényen
+Enlaces a etiquetas que no están en el cuadro
+
+#7179
+Renommé (repère utilisé deux fois)
+Renomeado (tag usada duas vezes)
+已重命名（标签重复使用）
+Переименовано (обозначение использовано дважды)
+Zmieniono nazwę (oznaczenie użyte dwa razy)
+Átnevezve (a jelölés kétszer szerepelt)
+Renombrado (etiqueta usada dos veces)
+
+#7180
+éléments omis (absents du catalogue du labo)
+itens omitidos (não estão no catálogo do laboratório)
+已省略的项目（不在实验室目录中）
+пропущенные элементы (нет в каталоге лаборатории)
+pominięte elementy (brak w katalogu laboratorium)
+kihagyott elemek (nincsenek a labor katalógusában)
+elementos omitidos (no están en el catálogo del laboratorio)
+
+#7181
+Ouvrir dans la bibliothèque 3D
+Abrir na biblioteca 3D
+在 3D 库中打开
+Открыть в 3D-библиотеке
+Otwórz w bibliotece 3D
+Megnyitás a 3D könyvtárban
+Abrir en la biblioteca 3D
+
+#7182
+Ouvrir sur l'établi
+Abrir na bancada
+在工作台上打开
+Открыть на стенде
+Otwórz na stanowisku
+Megnyitás a munkapadon
+Abrir en el banco
+
+#7183
+Ouvrir dans Toute l'installation
+Abrir em Planta completa
+在“整个工厂”中打开
+Открыть в «Весь завод»
+Otwórz w widoku Cała instalacja
+Megnyitás a Teljes üzem nézetben
+Abrir en Planta completa
+
+#7184
+Remplacer mon dessin
+Substituir meu desenho
+替换我的图纸
+Заменить мой чертёж
+Zastąp mój rysunek
+Saját rajzom cseréje
+Reemplazar mi dibujo
+
+#7185
+Copier le JSON
+Copiar JSON
+复制 JSON
+Копировать JSON
+Kopiuj JSON
+JSON másolása
+Copiar JSON
+
+#7186
+Dessiner à partir d'une image ou d'un PDF
+Desenhar a partir de uma imagem ou PDF
+根据图片或 PDF 绘制
+Нарисовать по картинке или PDF
+Rysuj na podstawie obrazu lub PDF
+Rajzolás képből vagy PDF-ből
+Dibujar a partir de una imagen o PDF
+
+#7187
+Photographiez un schéma d'un manuel ou importez le PDF. L'IA le lit et le labo le dessine avec ses propres composants, pour que vous puissiez le faire fonctionner, le mesurer et le casser.
+Fotografe um desenho de um manual ou envie o PDF. A IA o lê e o laboratório o desenha com suas próprias peças, para você poder executá-lo, medi-lo e quebrá-lo.
+拍下手册中的图纸或上传 PDF。AI 会读取，实验室用自己的部件把它画出来，这样您就能运行、测量，甚至把它弄坏。
+Сфотографируйте чертёж из руководства или загрузите PDF. ИИ прочитает его, а лаборатория нарисует его своими элементами, чтобы вы могли запускать, измерять и ломать его.
+Sfotografuj rysunek z instrukcji lub wgraj plik PDF. AI go odczyta, a laboratorium narysuje go własnymi częściami, abyś mógł go uruchomić, zmierzyć i zepsuć.
+Fényképezzen le egy rajzot egy kézikönyvből, vagy töltse fel a PDF-et. Az AI beolvassa, a labor pedig a saját alkatrészeivel megrajzolja, így futtathatja, mérheti és elronthatja.
+Fotografíe un dibujo de un manual o suba el PDF. La IA lo lee y el laboratorio lo dibuja con sus propias piezas, para que pueda ponerlo en marcha, medirlo y averiarlo.
+
+#7188
+Prendre une photo
+Tirar uma foto
+拍照
+Сделать фото
+Zrób zdjęcie
+Fénykép készítése
+Tomar una foto
+
+#7189
+Images
+Imagens
+图片
+Картинки
+Obrazy
+Képek
+Imágenes
+
+#7190
+Plusieurs pages sont possibles (jusqu'à 10 images). PDF jusqu'à 22 Mo et 100 pages.
+Várias páginas são aceitas (até 10 imagens). PDF até 22 MB e 100 páginas.
+可以多页（最多 10 张图片）。PDF 最大 22 MB，最多 100 页。
+Можно несколько страниц (до 10 картинок). PDF до 22 МБ и 100 страниц.
+Kilka stron jest w porządku (do 10 obrazów). PDF do 22 MB i 100 stron.
+Több oldal is megfelel (legfeljebb 10 kép). PDF legfeljebb 22 MB és 100 oldal.
+Varias páginas está bien (hasta 10 imágenes). PDF hasta 22 MB y 100 páginas.
+
+#7191
+p. ex. page 12, ou pages 30-33
+ex.: página 12, ou páginas 30-33
+例如第 12 页，或第 30-33 页
+напр. страница 12 или страницы 30-33
+np. strona 12 lub strony 30-33
+pl. 12. oldal, vagy 30-33. oldal
+p. ej. página 12, o páginas 30-33
+
+#7192
+p. ex. seulement la partie démarreur moteur
+ex.: só a parte da partida do motor
+例如只要电机启动器部分
+напр. только часть с пускателем двигателя
+np. tylko część z rozrusznikiem silnika
+pl. csak a motorindító rész
+p. ej. solo la parte del arrancador del motor

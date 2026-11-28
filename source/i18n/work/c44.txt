@@ -1,0 +1,161 @@
+#7193
+Quelle page (pour un PDF, facultatif)
+Qual página (para um PDF, opcional)
+哪一页(PDF 适用,可选)
+Какая страница (для PDF, необязательно)
+Która strona (dla PDF, opcjonalnie)
+Melyik oldal (PDF esetén, nem kötelező)
+Qué página (para un PDF, opcional)
+
+#7194
+Note pour l'IA (facultatif)
+Observação para a IA (opcional)
+给 AI 的备注(可选)
+Примечание для ИИ (необязательно)
+Uwaga dla AI (opcjonalnie)
+Megjegyzés az MI-nek (nem kötelező)
+Nota para la IA (opcional)
+
+#7195
+Clé et modèle d'IA
+Chave e modelo de IA
+AI 密钥和模型
+Ключ и модель ИИ
+Klucz i model AI
+MI-kulcs és modell
+Clave y modelo de IA
+
+#7196
+Confidentialité : les images et le PDF sont envoyés au service d'IA avec votre propre clé, et nulle part ailleurs. N'envoyez pas de plans confidentiels de l'entreprise sans autorisation. Nécessite Internet ; les réseaux d'entreprise le bloquent souvent.
+Privacidade: as imagens e o PDF vão para o serviço de IA com a sua própria chave, e para mais nenhum lugar. Não envie desenhos confidenciais da empresa sem autorização. Precisa de internet; as redes corporativas costumam bloqueá-la.
+隐私:图片和 PDF 会通过您自己的密钥发送到 AI 服务,不会发送到其他任何地方。未经许可,请勿上传公司的机密图纸。需要联网;公司网络通常会屏蔽。
+Конфиденциальность: изображения и PDF отправляются в сервис ИИ с вашим собственным ключом и больше никуда. Не загружайте конфиденциальные чертежи компании без разрешения. Нужен интернет; корпоративные сети часто его блокируют.
+Prywatność: obrazy i plik PDF trafiają do usługi AI z użyciem Twojego własnego klucza i nigdzie indziej. Nie przesyłaj poufnych rysunków firmy bez zezwolenia. Wymaga internetu; sieci firmowe często go blokują.
+Adatvédelem: a képek és a PDF a saját kulcsoddal kerülnek az MI-szolgáltatáshoz, máshová nem. Ne tölts fel bizalmas céges rajzokat engedély nélkül. Internetet igényel; a céges hálózatok gyakran blokkolják.
+Privacidad: las imágenes y el PDF van al servicio de IA con tu propia clave, y a ningún otro sitio. No subas planos confidenciales de la empresa sin permiso. Necesita internet; las redes de empresa suelen bloquearlo.
+
+#7197
+Lecture du schéma...
+Lendo o desenho...
+正在读取图纸...
+Чтение чертежа...
+Odczytywanie rysunku...
+A rajz beolvasása...
+Leyendo el plano...
+
+#7198
+Lire et dessiner
+Ler e desenhar
+读取并绘制
+Прочитать и нарисовать
+Odczytaj i narysuj
+Beolvasás és rajzolás
+Leer y dibujar
+
+#7199
+Cela peut prendre une minute pour une grande page.
+Isso pode levar um minuto para uma página grande.
+页面较大时可能需要一分钟。
+Для большой страницы это может занять минуту.
+W przypadku dużej strony może to potrwać minutę.
+Nagy oldalnál ez egy percig is eltarthat.
+Esto puede tardar un minuto en una página grande.
+
+#7200
+Réponse de l'IA
+O que a IA respondeu
+AI 的回答
+Ответ ИИ
+Odpowiedź AI
+Az MI válasza
+Lo que respondió la IA
+
+#7201
+Pôle principal, côté alimentation ({1}). Numéros impairs = arrivée de ligne, depuis la source.
+Polo principal, lado da alimentação ({1}). Números ímpares = entrada da linha, vinda da fonte.
+主极,电源侧({1})。奇数 = 来自电源的进线。
+Силовой полюс, сторона питания ({1}). Нечётные номера = вход линии от источника.
+Biegun główny, strona zasilania ({1}). Numery nieparzyste = wejście linii ze źródła.
+Főpólus, tápoldal ({1}). Páratlan számok = vezetékbemenet a forrás felől.
+Polo principal, lado de alimentación ({1}). Números impares = entrada de línea, desde la fuente.
+
+#7202
+Pôle principal, côté charge ({1}). Numéros pairs = sortie vers la charge (moteur, appareil suivant).
+Polo principal, lado da carga ({1}). Números pares = saída para a carga (motor, próximo dispositivo).
+主极,负载侧({1})。偶数 = 通往负载(电机、下一级设备)的出线。
+Силовой полюс, сторона нагрузки ({1}). Чётные номера = выход на нагрузку (двигатель, следующий аппарат).
+Biegun główny, strona obciążenia ({1}). Numery parzyste = wyjście do obciążenia (silnik, następne urządzenie).
+Főpólus, terhelési oldal ({1}). Páros számok = kimenet a terhelés felé (motor, következő készülék).
+Polo principal, lado de carga ({1}). Números pares = salida hacia la carga (motor, siguiente dispositivo).
+
+#7203
+Contact auxiliaire {1}{2} : le premier chiffre est le numéro du contact, le second {3}
+Contato auxiliar {1}{2}: o primeiro dígito é o número do contato, o segundo {3}
+辅助触点 {1}{2}:第一位数字是触点编号,第二位 {3}
+Вспомогательный контакт {1}{2}: первая цифра — номер контакта, вторая {3}
+Styk pomocniczy {1}{2}: pierwsza cyfra to numer styku, druga {3}
+Segédérintkező {1}{2}: az első számjegy az érintkező száma, a második {3}
+Contacto auxiliar {1}{2}: el primer dígito es el número del contacto, el segundo {3}
+
+#7204
+Phase {1} (400 V entre phases, 230 V vers N).
+Fase {1} (400 V entre fases, 230 V para o N).
+相线 {1}(相间 400 V,对 N 为 230 V)。
+Фаза {1} (400 В между фазами, 230 В до N).
+Faza {1} (400 V między fazami, 230 V do N).
+{1} fázis (400 V a fázisok között, 230 V az N-hez).
+Fase {1} (400 V entre fases, 230 V al N).
+
+#7205
+Enroulement moteur {1}{2}
+Enrolamento do motor {1}{2}
+电机绕组 {1}{2}
+Обмотка двигателя {1}{2}
+Uzwojenie silnika {1}{2}
+Motortekercs {1}{2}
+Devanado del motor {1}{2}
+
+#7206
+Entrée numérique I{1}.{2} : 24 V ici = 1 dans le programme.
+Entrada digital I{1}.{2}: 24 V aqui = 1 no programa.
+数字输入 I{1}.{2}:此处 24 V = 程序中的 1。
+Дискретный вход I{1}.{2}: 24 В здесь = 1 в программе.
+Wejście cyfrowe I{1}.{2}: 24 V tutaj = 1 w programie.
+Digitális bemenet I{1}.{2}: 24 V itt = 1 a programban.
+Entrada digital I{1}.{2}: 24 V aquí = 1 en el programa.
+
+#7207
+Sortie numérique Q{1}.{2} : le programme commande ici la charge (bobine, lampe, vanne). Ramenez la charge au 0 V.
+Saída digital Q{1}.{2}: o programa aciona aqui a carga (bobina, lâmpada, válvula). Retorne a carga ao 0 V.
+数字输出 Q{1}.{2}:程序通过此处控制负载(线圈、指示灯、阀门)。负载回路接到 0 V。
+Дискретный выход Q{1}.{2}: программа включает здесь нагрузку (катушку, лампу, клапан). Верните нагрузку на 0 В.
+Wyjście cyfrowe Q{1}.{2}: program załącza tutaj obciążenie (cewkę, lampkę, zawór). Obciążenie zawróć do 0 V.
+Digitális kimenet Q{1}.{2}: a program innen kapcsolja a terhelést (tekercs, lámpa, szelep). A terhelés másik végét kösd a 0 V-ra.
+Salida digital Q{1}.{2}: el programa conecta aquí la carga (bobina, lámpara, válvula). Lleva el retorno de la carga a 0 V.
+
+#7208
+Borne de lampe {1} : X1 alimentation, X2 retour.
+Terminal da lâmpada {1}: X1 alimentação, X2 retorno.
+指示灯端子 {1}:X1 接电源,X2 接回路。
+Клемма лампы {1}: X1 — питание, X2 — возврат.
+Zacisk lampki {1}: X1 zasilanie, X2 powrót.
+Lámpa kivezetése {1}: X1 betáplálás, X2 visszavezetés.
+Borne de la lámpara {1}: X1 alimentación, X2 retorno.
+
+#7209
+Canal d'entrée {1} du relais de sécurité : les contacts NC de l'arrêt d'urgence (deux canaux) sont câblés ici, de sorte qu'un défaut unique est détecté.
+Canal de entrada {1} do relé de segurança: os contatos NC da parada de emergência (dois canais) são ligados aqui, para que uma falha única seja detectada.
+安全继电器输入通道 {1}:急停的 NC 触点(双通道)接在此处,这样单一故障即可被检测到。
+Входной канал {1} реле безопасности: сюда подключаются NC-контакты аварийного останова (два канала), чтобы одиночная неисправность обнаруживалась.
+Kanał wejściowy {1} przekaźnika bezpieczeństwa: tu podłącza się styki NC wyłącznika awaryjnego (dwa kanały), aby pojedyncza usterka została wykryta.
+A biztonsági relé {1}. bemeneti csatornája: ide kell bekötni a vészleállító NC érintkezőit (két csatorna), így egyetlen hiba is észlelhető.
+Canal de entrada {1} del relé de seguridad: aquí se cablean los contactos NC de la parada de emergencia (dos canales), de modo que se detecte un fallo único.
+
+#7210
+Borne {1} de {2}.
+Terminal {1} de {2}.
+{2} 的端子 {1}。
+Клемма {1} устройства {2}.
+Zacisk {1} z {2}.
+{2} {1}. kivezetése.
+Borne {1} de {2}.

@@ -1,0 +1,809 @@
+#7013
+À partir d'un schéma
+A partir de um desenho
+从图纸开始
+По чертежу
+Na podstawie rysunku
+Rajz alapján
+A partir de un dibujo
+
+#7014
+Explication : touchez un appareil ou une borne
+Explicar: toque em um dispositivo ou terminal
+讲解：点击设备或端子
+Пояснение: нажмите на устройство или клемму
+Wyjaśnienie: dotknij urządzenia lub zacisku
+Magyarázat: koppintson egy készülékre vagy kapocsra
+Explicar: toque un dispositivo o un borne
+
+#7015
+Groupe électrogène diesel (GE)
+Grupo gerador a diesel (genset)
+柴油发电机组
+Дизель-генераторная установка (ДГУ)
+Agregat prądotwórczy z silnikiem Diesla
+Dízelgenerátor-aggregát
+Grupo electrógeno diésel (generador)
+
+#7016
+Un moteur diesel accouplé à un alternateur sans balais sur un châssis en acier unique, avec le réservoir de carburant à l'intérieur. Un contrôleur le démarre, surveille les capteurs du moteur et l'arrête en cas de défaut.
+Um motor a diesel acoplado a um alternador sem escovas em uma única base de aço, com o tanque de combustível dentro dela. Um controlador o liga, monitora os sensores do motor e o desliga em caso de falha.
+柴油发动机与无刷交流发电机联接在同一钢制底架上，油箱位于底架内。控制器负责启动、监测发动机传感器，并在故障时停机。
+Дизельный двигатель, соединённый с бесщёточным генератором на общей стальной раме, внутри которой находится топливный бак. Контроллер запускает его, следит за датчиками двигателя и останавливает при неисправности.
+Silnik Diesla sprzężony z bezszczotkowym alternatorem na jednej stalowej ramie, w której mieści się zbiornik paliwa. Sterownik uruchamia agregat, monitoruje czujniki silnika i wyłącza go w razie awarii.
+Dízelmotor, amely kefe nélküli váltakozó áramú generátorhoz kapcsolódik egyetlen acél alapkereten, amelyben az üzemanyagtartály is van. A vezérlő indítja, figyeli a motor érzékelőit, és hiba esetén leállítja.
+Un motor diésel acoplado a un alternador sin escobillas sobre un único bastidor de acero con el depósito de combustible en su interior. Un controlador lo arranca, vigila los sensores del motor y lo para ante una falla.
+
+#7017
+Alimentation de secours du site : il prend le relais via l'ATS en cas de coupure du réseau, afin de maintenir en marche la CVC des salles blanches, les boucles d'eau purifiée, les chambres froides, les pompes incendie, la GTB et l'éclairage de secours.
+Energia de reserva para a planta: assume pelo ATS quando a rede falha, mantendo em funcionamento o HVAC das salas limpas, os circuitos de água purificada, as câmaras frias, as bombas de incêndio, o BMS e a iluminação de emergência.
+工厂备用电源：电网失电时通过ATS接管负载，保证洁净室暖通空调、纯化水循环、冷库、消防泵、楼宇管理系统和应急照明持续运行。
+Резервное электроснабжение предприятия: при пропадании сети принимает нагрузку через АВР (ATS), чтобы продолжали работать ОВК чистых помещений, контуры очищенной воды, холодильные камеры, пожарные насосы, система BMS и аварийное освещение.
+Zasilanie awaryjne zakładu: przejmuje obciążenie przez ATS, gdy zawiedzie sieć, utrzymując pracę klimatyzacji i wentylacji pomieszczeń czystych, pętli wody oczyszczonej, chłodni, pomp przeciwpożarowych, BMS i oświetlenia awaryjnego.
+Tartalék áramellátás az üzem számára: hálózatkimaradáskor az ATS-en keresztül átveszi a terhelést, hogy a tisztaterek HVAC-ja, a tisztított víz körei, a hűtőkamrák, a tűzoltó szivattyúk, a BMS és a vészvilágítás tovább működjenek.
+Alimentación de respaldo para la planta: asume la carga a través del ATS cuando falla la red, para mantener en marcha el HVAC de las salas limpias, los lazos de agua purificada, las cámaras frías, las bombas contra incendios, el BMS y el alumbrado de emergencia.
+
+#7018
+Démarrage : le contrôleur ouvre l'électrovanne de carburant et lance le moteur avec le démarreur ; le capteur MPU compte les dents du volant moteur, donc vers 500 tr/min le démarreur se désengage. Le régulateur maintient 1500 tr/min (50 Hz) et le régulateur de tension (AVR) fait monter la tension à partir du magnétisme rémanent jusqu'à 400 V, puis la charge est transférée.
+Partida: o controlador abre a solenoide de combustível e aciona o motor com o motor de partida; o MPU conta os dentes do volante, então em cerca de 500 rpm o motor de partida desliga. O regulador de velocidade mantém 1500 rpm (50 Hz) e o AVR cria a tensão a partir do magnetismo residual até 400 V; em seguida a carga é transferida.
+启动：控制器打开燃油电磁阀并用起动机拖动发动机；MPU对飞轮齿计数，因此在约500 rpm时起动机脱开。调速器保持1500 rpm（50 Hz），AVR利用剩磁将电压建立到400 V，然后转移负载。
+Пуск: контроллер открывает топливный соленоид и проворачивает двигатель стартером; датчик MPU считает зубья маховика, поэтому примерно при 500 об/мин стартер отключается. Регулятор оборотов держит 1500 об/мин (50 Гц), а АРН (AVR) наращивает напряжение от остаточного магнетизма до 400 В, после чего нагрузка переключается на генератор.
+Rozruch: sterownik otwiera elektrozawór paliwa i obraca silnik rozrusznikiem; czujnik MPU liczy zęby koła zamachowego, więc przy ok. 500 obr./min rozrusznik się wyłącza. Regulator obrotów utrzymuje 1500 obr./min (50 Hz), a AVR buduje napięcie z magnetyzmu szczątkowego do 400 V, po czym obciążenie zostaje przełączone.
+Indítás: a vezérlő kinyitja az üzemanyag-mágnesszelepet, és az önindítóval átforgatja a motort; az MPU a lendkerék fogait számolja, így kb. 500 ford./perc fordulatnál az önindító kiold. A szabályozó 1500 ford./percet tart (50 Hz), az AVR pedig a remanens mágnesességből felépíti a feszültséget 400 V-ig, majd a terhelés átkapcsol.
+Arranque: el controlador abre la electroválvula de combustible y gira el motor con el motor de arranque; el MPU cuenta los dientes del volante, así que a unas 500 rpm el arranque se desconecta. El gobernador mantiene 1500 rpm (50 Hz) y el AVR genera la tensión a partir del magnetismo residual hasta 400 V; después se transfiere la carga.
+
+#7019
+Ne démarre pas : batterie faible ou bornes desserrées, air ou eau dans le carburant, électrovanne de carburant qui ne colle pas. Arrêts : basse pression d'huile, température de liquide de refroidissement élevée, survitesse (MPU), niveau de carburant bas. Tourne mais sans tension : défaut de l'AVR, diodes tournantes en panne ou magnétisme rémanent perdu (amorçage de l'excitation nécessaire).
+Não parte: bateria fraca ou terminais frouxos, ar ou água no combustível, solenoide de combustível não atua. Desligamentos: baixa pressão de óleo, alta temperatura do líquido de arrefecimento, sobrevelocidade (MPU), baixo nível de combustível. Funciona mas sem tensão: falha do AVR, diodos rotativos queimados ou magnetismo residual perdido (precisa de escorvamento do campo).
+无法启动：蓄电池电量不足或端子松动、燃油中有空气或水、燃油电磁阀不吸合。停机原因：机油压力低、冷却液温度高、超速（MPU）、燃油液位低。运转但无电压：AVR故障、旋转二极管损坏或剩磁丢失（需要充磁）。
+Не запускается: слабый аккумулятор или ослабленные клеммы, воздух или вода в топливе, топливный соленоид не втягивается. Остановы: низкое давление масла, высокая температура охлаждающей жидкости, превышение оборотов (MPU), низкий уровень топлива. Работает, но нет напряжения: неисправность АРН (AVR), выход из строя вращающихся диодов или потеря остаточного магнетизма (нужна подмагничивание обмотки возбуждения).
+Nie uruchamia się: słaby akumulator lub luźne zaciski, powietrze lub woda w paliwie, elektrozawór paliwa nie przyciąga. Wyłączenia: niskie ciśnienie oleju, wysoka temperatura płynu chłodzącego, nadmierne obroty (MPU), niski poziom paliwa. Pracuje, ale brak napięcia: awaria AVR, uszkodzone diody wirujące lub utrata magnetyzmu szczątkowego (potrzebne podmagnesowanie wzbudzenia).
+Nem indul: gyenge akkumulátor vagy laza saruk, levegő vagy víz az üzemanyagban, az üzemanyag-mágnesszelep nem húz be. Leállások: alacsony olajnyomás, magas hűtőfolyadék-hőmérséklet, túlfordulat (MPU), alacsony üzemanyagszint. Jár, de nincs feszültség: AVR-hiba, meghibásodott forgó diódák vagy elveszett remanens mágnesesség (gerjesztés újrafelmágnesezése szükséges).
+No arranca: batería débil o bornes flojos, aire o agua en el combustible, la electroválvula de combustible no actúa. Paros: baja presión de aceite, alta temperatura del refrigerante, sobrevelocidad (MPU), bajo nivel de combustible. Gira pero sin tensión: falla del AVR, diodos rotativos dañados o pérdida del magnetismo residual (requiere cebado del campo).
+
+#7020
+Essai hebdomadaire et, chaque mois, essai en charge réelle (au moins 30 %) pour éviter l'encrassement par imbrûlés (wet stacking) ; essai annuel sur banc de charge. Contrôler la tension de la batterie et les bornes, le niveau de liquide de refroidissement et le réchauffeur, le niveau d'huile, la tension de la courroie, le témoin de colmatage du filtre à air, purger l'eau du filtre à carburant, changer l'huile et les filtres selon les heures de fonctionnement.
+Teste semanal e, todo mês, em carga real (no mínimo 30 %) para evitar o acúmulo de combustível não queimado (wet stacking); teste anual com banco de carga. Verificar a tensão da bateria e os terminais, o nível do líquido de arrefecimento e o aquecedor, o nível de óleo, a tensão da correia, o indicador do filtro de ar, drenar a água do filtro de combustível e trocar óleo e filtros conforme as horas de operação.
+每周试运行，每月带实际负载（至少30 %）运行以避免湿堆积（wet stacking）；每年做一次负载箱试验。检查蓄电池电压和端子、冷却液液位和加热器、机油液位、皮带张力、空气滤清器指示器，排放燃油滤清器中的水，并按运行小时数更换机油和滤清器。
+Еженедельный пробный пуск и ежемесячная работа на реальной нагрузке (не менее 30 %), чтобы избежать «мокрого стекания» (wet stacking); ежегодное испытание на нагрузочном модуле. Проверять напряжение аккумулятора и клеммы, уровень охлаждающей жидкости и подогреватель, уровень масла, натяжение ремня, индикатор засорения воздушного фильтра, сливать воду из топливного фильтра, менять масло и фильтры по моточасам.
+Cotygodniowy rozruch próbny, a co miesiąc praca pod rzeczywistym obciążeniem (co najmniej 30 %), aby uniknąć zalewania układu wydechowego niespalonym paliwem (wet stacking); coroczna próba na banku obciążeń. Sprawdzać napięcie akumulatora i zaciski, poziom płynu chłodzącego i grzałkę, poziom oleju, napięcie paska, wskaźnik zanieczyszczenia filtra powietrza, spuszczać wodę z filtra paliwa, wymieniać olej i filtry według godzin pracy.
+Heti próbaüzem, havonta valódi terheléssel (legalább 30 %) a nem elégett üzemanyag lerakódása (wet stacking) elkerülésére; évente terhelésbankos próba. Ellenőrizze az akkumulátor feszültségét és a sarukat, a hűtőfolyadék szintjét és az előmelegítőt, az olajszintet, a szíj feszességét, a légszűrő jelzőjét, engedje le a vizet az üzemanyagszűrőből, és az üzemóra szerint cserélje az olajat és a szűrőket.
+Prueba semanal y, cada mes, con carga real (al menos 30 %) para evitar el wet stacking (acumulación de combustible sin quemar); prueba anual con banco de carga. Revisar la tensión de la batería y los bornes, el nivel de refrigerante y el calefactor, el nivel de aceite, la tensión de la correa, el indicador del filtro de aire, drenar el agua del filtro de combustible y cambiar aceite y filtros según las horas.
+
+#7021
+Châssis avec réservoir de carburant
+Base com tanque de combustível
+带油箱的底架
+Рама с топливным баком
+Rama z zbiornikiem paliwa
+Alapkeret üzemanyagtartállyal
+Bastidor con depósito de combustible
+
+#7022
+Des profilés en acier portent le moteur et l'alternateur sur des supports antivibratoires en caoutchouc ; le réservoir journalier intégré contient du diesel pour plusieurs heures de fonctionnement.
+Perfis de aço sustentam o motor e o alternador sobre coxins de borracha antivibração; o tanque diário interno contém diesel para várias horas de operação.
+槽钢通过橡胶减振垫承载发动机和发电机；内部日用油箱储存的柴油可供运行数小时。
+Стальные швеллеры несут двигатель и генератор на резиновых виброопорах; расходный бак внутри рамы вмещает дизельное топливо на несколько часов работы.
+Stalowe ceowniki podtrzymują silnik i alternator na gumowych podkładkach antywibracyjnych; wbudowany zbiornik dobowy mieści olej napędowy na kilka godzin pracy.
+Az acél U-szelvények gumi rezgéscsillapító alátéteken tartják a motort és a generátort; a belső napi tartályban több órányi üzemhez elegendő dízelolaj van.
+Perfiles de acero sostienen el motor y el alternador sobre soportes antivibratorios de caucho; el depósito diario interior contiene diésel para varias horas de funcionamiento.
+
+#7023
+Bloc moteur, carter d'huile et pompe d'injection
+Bloco do motor, cárter e bomba injetora
+机体、油底壳和喷油泵
+Блок цилиндров, масляный поддон и ТНВД
+Blok silnika, miska olejowa i pompa wtryskowa
+Motorblokk, olajteknő és befecskendező szivattyú
+Bloque del motor, cárter y bomba de inyección
+
+#7024
+Quatre cylindres avec pistons et vilebrequin ; le carter contient l'huile ; la pompe d'injection dose le diesel pour chaque cylindre ; la courroie entraîne le ventilateur et la pompe à eau.
+Quatro cilindros com pistões e virabrequim; o cárter contém o óleo; a bomba injetora dosa o diesel para cada cilindro; a correia aciona o ventilador e a bomba d'água.
+四个气缸带活塞和曲轴；油底壳储存机油；喷油泵向每个气缸计量柴油；皮带驱动风扇和水泵。
+Четыре цилиндра с поршнями и коленчатым валом; поддон содержит масло; ТНВД дозирует дизельное топливо в каждый цилиндр; ремень приводит вентилятор и водяной насос.
+Cztery cylindry z tłokami i wałem korbowym; miska olejowa zawiera olej; pompa wtryskowa dozuje olej napędowy do każdego cylindra; pasek napędza wentylator i pompę wody.
+Négy henger dugattyúkkal és főtengellyel; az olajteknő tartalmazza az olajat; a befecskendező szivattyú adagolja a dízelt minden hengerhez; a szíj hajtja a ventilátort és a vízszivattyút.
+Cuatro cilindros con pistones y cigüeñal; el cárter contiene el aceite; la bomba de inyección dosifica el diésel a cada cilindro; la correa mueve el ventilador y la bomba de agua.
+
+#7025
+Culasse et cache-culbuteurs
+Cabeçote e tampa de válvulas
+气缸盖和气门室盖
+Головка блока и клапанная крышка
+Głowica i pokrywa zaworów
+Hengerfej és szelepfedél
+Culata y tapa de válvulas
+
+#7026
+Elle porte les soupapes et les injecteurs au-dessus des cylindres ; le boîtier de thermostat à l'avant envoie le liquide de refroidissement chaud vers le radiateur.
+Contém as válvulas e os injetores sobre os cilindros; a carcaça do termostato na frente envia o líquido de arrefecimento quente ao radiador.
+缸盖上装有气门和喷油器；前端的节温器壳将热冷却液送往散热器。
+Несёт клапаны и форсунки над цилиндрами; корпус термостата спереди направляет горячую охлаждающую жидкость в радиатор.
+Mieści zawory i wtryskiwacze nad cylindrami; obudowa termostatu z przodu kieruje gorący płyn chłodzący do chłodnicy.
+Rajta vannak a szelepek és az injektorok a hengerek felett; elöl a termosztátház vezeti a forró hűtőfolyadékot a hűtőbe.
+Aloja las válvulas y los inyectores sobre los cilindros; la carcasa del termostato en el frente envía el refrigerante caliente al radiador.
+
+#7027
+Collecteur d'échappement et turbocompresseur
+Coletor de escape e turbocompressor
+排气歧管和涡轮增压器
+Выпускной коллектор и турбокомпрессор
+Kolektor wydechowy i turbosprężarka
+Kipufogócsonk és turbófeltöltő
+Colector de escape y turbocompresor
+
+#7028
+Les gaz d'échappement font tourner la turbine, qui entraîne le compresseur qui envoie plus d'air dans les cylindres.
+Os gases de escape giram a turbina, que aciona o compressor que empurra mais ar para os cilindros.
+废气推动涡轮旋转，涡轮带动压气机，向气缸压入更多空气。
+Выхлопные газы вращают турбину, которая приводит компрессор, нагнетающий в цилиндры больше воздуха.
+Spaliny obracają turbinę, która napędza sprężarkę tłoczącą więcej powietrza do cylindrów.
+A kipufogógáz forgatja a turbinát, az pedig a kompresszort hajtja, amely több levegőt présel a hengerekbe.
+Los gases de escape hacen girar la turbina, que acciona el compresor que empuja más aire a los cilindros.
+
+#7029
+Filtre à air
+Filtro de ar
+空气滤清器
+Воздушный фильтр
+Filtr powietrza
+Légszűrő
+Filtro de aire
+
+#7030
+Élément sec en papier qui nettoie l'air d'admission. Son indicateur de colmatage devient rouge quand il est encrassé.
+Elemento seco de papel que limpa o ar de admissão. O indicador de restrição fica vermelho quando está entupido.
+干式纸质滤芯，用于净化进气。堵塞时，其阻力指示器变红。
+Сухой бумажный элемент, очищающий всасываемый воздух. Индикатор засорения становится красным, когда фильтр забит.
+Suchy papierowy wkład oczyszczający powietrze zasysane. Wskaźnik zanieczyszczenia robi się czerwony, gdy filtr jest zapchany.
+Száraz papírbetét, amely tisztítja a beszívott levegőt. Az eltömődést jelző indikátor pirosra vált, ha a szűrő eltömődött.
+Elemento seco de papel que limpia el aire de admisión. Su indicador de restricción se pone rojo cuando está obstruido.
+
+#7031
+Radiateur avec durites
+Radiador com mangueiras
+带软管的散热器
+Радиатор с патрубками
+Chłodnica z przewodami
+Hűtő tömlőkkel
+Radiador con mangueras
+
+#7032
+Refroidit l'eau du moteur dans le faisceau ; la durite supérieure amène le liquide chaud du thermostat, la durite inférieure le renvoie à la pompe à eau.
+Resfria a água do motor no núcleo; a mangueira superior traz o líquido quente do termostato e a inferior o devolve à bomba d'água.
+在芯体中冷却发动机的冷却水；上水管从节温器送来热冷却液，下水管将其送回水泵。
+Охлаждает воду двигателя в сердцевине; верхний патрубок подводит горячую жидкость от термостата, нижний возвращает её к водяному насосу.
+Chłodzi wodę silnika w rdzeniu; górny przewód doprowadza gorący płyn od termostatu, dolny zwraca go do pompy wody.
+Lehűti a motor vizét a hűtőblokkban; a felső tömlő hozza a forró hűtőfolyadékot a termosztáttól, az alsó viszi vissza a vízszivattyúhoz.
+Enfría el agua del motor en el panal; la manguera superior trae el refrigerante caliente del termostato y la inferior lo devuelve a la bomba de agua.
+
+#7033
+Ventilateur de refroidissement et poulie
+Ventoinha de arrefecimento e polia
+冷却风扇和皮带轮
+Вентилятор охлаждения и шкив
+Wentylator chłodnicy i koło pasowe
+Hűtőventilátor és szíjtárcsa
+Ventilador de refrigeración y polea
+
+#7034
+Ventilateur soufflant entraîné par courroie qui pousse l'air à travers le faisceau du radiateur.
+Ventoinha propulsora acionada por correia que sopra ar através do núcleo do radiador.
+皮带驱动的推式风扇，将空气吹过散热器芯体。
+Вентилятор с ременным приводом, нагнетающий воздух через сердцевину радиатора.
+Wentylator tłoczący napędzany paskiem, który przepycha powietrze przez rdzeń chłodnicy.
+Szíjhajtású nyomó ventilátor, amely levegőt fúj át a hűtőblokkon.
+Ventilador impulsor accionado por correa que sopla aire a través del panal del radiador.
+
+#7035
+Volant moteur avec couronne dentée
+Volante do motor com cremalheira
+带齿圈的飞轮
+Маховик с зубчатым венцом
+Koło zamachowe z wieńcem zębatym
+Lendkerék fogaskoszorúval
+Volante de inercia con corona dentada
+
+#7036
+Lourd disque sur le vilebrequin qui régularise la vitesse et entraîne l'alternateur ; le pignon du démarreur s'engrène dans sa couronne et le capteur MPU compte ses dents.
+Disco pesado no virabrequim que suaviza a velocidade e aciona o alternador; o pinhão do motor de partida engata em sua cremalheira e o MPU conta seus dentes.
+曲轴上的重型圆盘，用于平稳转速并驱动发电机；起动机小齿轮与其齿圈啮合，MPU对其齿计数。
+Тяжёлый диск на коленчатом валу, сглаживающий неравномерность вращения и приводящий генератор; шестерня стартера входит в зацепление с его венцом, а датчик MPU считает его зубья.
+Ciężka tarcza na wale korbowym, która wygładza obroty i napędza alternator; zębnik rozrusznika zazębia się z jej wieńcem, a czujnik MPU liczy jej zęby.
+Nehéz tárcsa a főtengelyen, amely kiegyenlíti a fordulatszámot és hajtja a generátort; az önindító fogaskereke a fogaskoszorúba kapcsolódik, az MPU pedig a fogait számolja.
+Disco pesado en el cigüeñal que suaviza la velocidad y mueve el alternador; el piñón del arranque engrana con su corona y el MPU cuenta sus dientes.
+
+#7037
+Démarreur
+Motor de partida
+起动机
+Стартер
+Rozrusznik
+Önindító
+Motor de arranque
+
+#7038
+Moteur DC 12/24 V ; son solénoïde projette le pignon dans la couronne et lance le moteur jusqu'à ce que le contrôleur détecte la vitesse d'allumage.
+Motor CC de 12/24 V; seu solenoide empurra o pinhão contra a cremalheira e gira o motor até o controlador detectar a velocidade de ignição.
+12/24 V直流电机；其电磁开关将小齿轮推入齿圈并拖动发动机，直到控制器检测到着火转速。
+Двигатель постоянного тока 12/24 В; его втягивающее реле вводит шестерню в зацепление с венцом и проворачивает двигатель, пока контроллер не увидит обороты запуска.
+Silnik prądu stałego 12/24 V; jego elektromagnes wsuwa zębnik w wieniec i obraca silnik, aż sterownik wykryje obroty zapłonu.
+12/24 V-os egyenáramú motor; a mágneskapcsolója a fogaskereket a koszorúba löki, és addig forgatja a motort, amíg a vezérlő meg nem látja a begyújtási fordulatszámot.
+Motor de CC de 12/24 V; su solenoide lanza el piñón contra la corona y hace girar el motor hasta que el controlador detecta la velocidad de encendido.
+
+#7039
+Électrovanne d'arrêt carburant
+Solenoide de corte de combustível
+燃油停机电磁阀
+Топливный отсечной соленоид
+Elektrozawór odcinający paliwo
+Üzemanyag-elzáró mágnesszelep
+Electroválvula de corte de combustible
+
+#7040
+Alimentée par le contrôleur pour ouvrir la crémaillère de carburant (marche) ; désalimentée pour arrêter le moteur. Tout arrêt aboutit ici.
+Energizada pelo controlador para abrir a cremalheira de combustível (funcionamento); desenergizada para parar o motor. Todo desligamento termina aqui.
+控制器使其通电以打开油量齿条（运行）；断电则发动机停机。所有停机最终都落在这里。
+Получает питание от контроллера, открывая рейку топлива (работа); при обесточивании двигатель останавливается. Любой останов заканчивается здесь.
+Zasilana przez sterownik, otwiera listwę paliwa (praca); po odłączeniu zasilania silnik zatrzymuje się. Każde wyłączenie kończy się tutaj.
+A vezérlő megtáplálja, hogy kinyissa az üzemanyag-fogaslécet (üzem); áramtalanítva a motor leáll. Minden leállás itt végződik.
+Alimentada por el controlador para abrir la cremallera de combustible (marcha); sin alimentación el motor se detiene. Todo paro termina aquí.
+
+#7041
+Capteur de pression d'huile
+Sensor de pressão do óleo
+机油压力传感器
+Датчик давления масла
+Czujnik ciśnienia oleju
+Olajnyomás-érzékelő
+Sensor de presión de aceite
+
+#7042
+Capteur monté sur la rampe d'huile. Il indique la pression d'huile au contrôleur ; sous le seuil (environ 1 bar), le groupe s'arrête sur basse pression d'huile.
+Sensor na galeria de óleo. Informa a pressão do óleo ao controlador; abaixo do ajuste (cerca de 1 bar), o grupo desliga por baixa pressão de óleo.
+安装在主油道上的传感器。向控制器报告机油压力；低于设定值（约1 bar）时，机组因机油压力低而停机。
+Датчик на масляной магистрали. Сообщает контроллеру давление масла; ниже уставки (около 1 бар) установка останавливается по низкому давлению масла.
+Czujnik na magistrali olejowej. Przekazuje sterownikowi ciśnienie oleju; poniżej nastawy (ok. 1 bar) agregat wyłącza się z powodu niskiego ciśnienia oleju.
+Az olajfőcsatornán lévő jeladó. Jelzi a vezérlőnek az olajnyomást; a beállított érték alatt (kb. 1 bar) az aggregát alacsony olajnyomás miatt leáll.
+Sensor en la galería de aceite. Informa al controlador la presión de aceite; por debajo del ajuste (unos 1 bar) el grupo se detiene por baja presión de aceite.
+
+#7043
+Capteur de température du liquide de refroidissement
+Sensor de temperatura do líquido de arrefecimento
+冷却液温度传感器
+Датчик температуры охлаждающей жидкости
+Czujnik temperatury płynu chłodzącego
+Hűtőfolyadék-hőmérséklet érzékelő
+Sensor de temperatura del refrigerante
+
+#7044
+Capteur dans la sortie de culasse. Il alerte vers 95 °C et arrête le groupe sur température de liquide de refroidissement élevée.
+Sensor na saída do cabeçote. Emite alerta em cerca de 95 °C e desliga o grupo por alta temperatura do líquido de arrefecimento.
+安装在缸盖出水口的传感器。约95 °C时发出警告，并因冷却液温度过高使机组停机。
+Датчик в выходном патрубке головки блока. Предупреждает примерно при 95 °C и останавливает установку по высокой температуре охлаждающей жидкости.
+Czujnik w wylocie głowicy. Ostrzega przy ok. 95 °C i wyłącza agregat z powodu wysokiej temperatury płynu chłodzącego.
+A hengerfej kimeneténél lévő jeladó. Kb. 95 °C-nál figyelmeztet, és magas hűtőfolyadék-hőmérséklet miatt leállítja az aggregátot.
+Sensor en la salida de la culata. Avisa a unos 95 °C y detiene el grupo por alta temperatura del refrigerante.
+
+#7045
+Capteur magnétique (capteur de vitesse MPU)
+Sensor magnético (sensor de velocidade MPU)
+磁电式传感器（MPU转速传感器）
+Магнитный датчик (датчик оборотов MPU)
+Czujnik magnetyczny (czujnik obrotów MPU)
+Mágneses jeladó (MPU fordulatszám-érzékelő)
+Sensor magnético (sensor de velocidad MPU)
+
+#7046
+Vissé dans le carter de volant, au-dessus de la couronne ; chaque dent qui passe donne une impulsion, ce qui permet au contrôleur de lire les tr/min pour le désengagement du démarreur, la survitesse et la sous-vitesse.
+Rosqueado na carcaça do volante, sobre a cremalheira; cada dente que passa gera um pulso, assim o controlador lê as rpm para o desligamento da partida, sobrevelocidade e subvelocidade.
+旋入飞轮壳内，位于齿圈上方；每个齿经过产生一个脉冲，控制器据此读取转速，用于起动脱开、超速和欠速保护。
+Ввёрнут в картер маховика над зубчатым венцом; каждый проходящий зуб даёт импульс, поэтому контроллер считывает обороты для отключения стартера, защиты от превышения и от снижения оборотов.
+Wkręcony w obudowę koła zamachowego nad wieńcem zębatym; każdy przechodzący ząb daje impuls, dzięki czemu sterownik odczytuje obroty do wyłączenia rozrusznika oraz zabezpieczeń nadmiarowych i zbyt niskich obrotów.
+A lendkerékház fogaskoszorú feletti furatába csavarozva; minden elhaladó fog egy impulzust ad, így a vezérlő a fordulatszámot olvassa az önindító kioldásához, a túl- és az alulfordulat védelemhez.
+Atornillado en la carcasa del volante sobre la corona; cada diente que pasa da un pulso, así el controlador lee las rpm para desconectar el arranque y para la sobrevelocidad y subvelocidad.
+
+#7047
+Batterie de démarrage et câbles
+Bateria de partida e cabos
+启动蓄电池和电缆
+Стартерная аккумуляторная батарея и кабели
+Akumulator rozruchowy i kable
+Indítóakkumulátor és kábelek
+Batería de arranque y cables
+
+#7048
+Batterie au plomb : câble rouge + vers le solénoïde du démarreur, câble noir - vers le châssis. Un chargeur la maintient pleine quand le groupe est à l'arrêt.
+Bateria de chumbo-ácido: cabo vermelho + para o solenoide do motor de partida, cabo preto - para o chassi. Um carregador a mantém cheia quando o grupo está parado.
+铅酸蓄电池：红色+电缆接起动机电磁开关，黑色-电缆接机架。机组停机时由充电器保持满电。
+Свинцово-кислотная батарея: красный кабель + к втягивающему реле стартера, чёрный кабель - к раме. Зарядное устройство поддерживает её заряд, пока установка стоит.
+Akumulator kwasowo-ołowiowy: czerwony kabel + do elektromagnesu rozrusznika, czarny kabel - do ramy. Ładowarka utrzymuje go naładowanego, gdy agregat stoi.
+Ólomsavas akkumulátor: a piros + kábel az önindító mágneskapcsolójához, a fekete - kábel a kerethez megy. A töltő teli állapotban tartja, amikor az aggregát áll.
+Batería de plomo-ácido: cable rojo + al solenoide del arranque, cable negro - al bastidor. Un cargador la mantiene llena cuando el grupo está parado.
+
+#7049
+Alternateur avec AVR et boîte à bornes
+Alternador com AVR e caixa de terminais
+带AVR和接线盒的交流发电机
+Генератор с АРН (AVR) и клеммной коробкой
+Alternator z AVR i skrzynką zaciskową
+Generátor AVR-rel és kapocsdobozzal
+Alternador con AVR y caja de bornes
+
+#7050
+Alternateur synchrone sans balais : inducteur tournant dans un stator à 3 phases. L'AVR alimente l'excitatrice pour maintenir 400 V ; la boîte à bornes donne L1 L2 L3 N PE.
+Alternador síncrono sem escovas: campo rotativo dentro de um estator de 3 fases. O AVR alimenta a excitatriz para manter 400 V; a caixa de terminais fornece L1 L2 L3 N PE.
+无刷同步发电机：旋转磁场位于3相定子内。AVR向励磁机供电以保持400 V；接线盒引出L1 L2 L3 N PE。
+Бесщёточный синхронный генератор: вращающееся поле внутри статора с 3 фазами. АРН (AVR) питает возбудитель, удерживая 400 В; в клеммной коробке выведены L1 L2 L3 N PE.
+Bezszczotkowy alternator synchroniczny: wirujące pole wewnątrz stojana 3-fazowego. AVR zasila wzbudnicę, aby utrzymać 400 V; skrzynka zaciskowa udostępnia L1 L2 L3 N PE.
+Kefe nélküli szinkrongenerátor: forgó gerjesztés egy 3 fázisú állórészben. Az AVR táplálja a gerjesztőgépet a 400 V tartásához; a kapocsdoboz L1 L2 L3 N PE kivezetéseket ad.
+Alternador síncrono sin escobillas: campo giratorio dentro de un estator de 3 fases. El AVR alimenta la excitatriz para mantener 400 V; la caja de bornes entrega L1 L2 L3 N PE.
+
+#7051
+Armoire du contrôleur
+Painel do controlador
+控制器面板
+Панель контроллера
+Panel sterownika
+Vezérlőpanel
+Panel del controlador
+
+#7052
+Contrôleur de démarrage automatique avec écran, boutons et arrêt d'urgence : démarre et arrête le groupe, lit le MPU et les capteurs, affiche les alarmes et donne l'ordre d'arrêt.
+Controlador de partida automática com tela, botões e parada de emergência: liga e desliga o grupo, lê o MPU e os sensores, mostra os alarmes e comanda o desligamento.
+带显示屏、按钮和急停的自动启动控制器：启动和停止机组，读取MPU和传感器，显示报警并发出停机指令。
+Контроллер автозапуска с экраном, кнопками и аварийным остановом: запускает и останавливает установку, считывает MPU и датчики, показывает аварии и выдаёт команду на останов.
+Sterownik automatycznego startu z ekranem, przyciskami i wyłącznikiem awaryjnym: uruchamia i zatrzymuje agregat, odczytuje MPU i czujniki, wyświetla alarmy i wydaje polecenie wyłączenia.
+Automata indító vezérlő kijelzővel, gombokkal és vészleállítóval: indítja és leállítja az aggregátot, olvassa az MPU-t és az érzékelőket, kijelzi a riasztásokat, és kiadja a leállítási parancsot.
+Controlador de arranque automático con pantalla, botones y paro de emergencia: arranca y detiene el grupo, lee el MPU y los sensores, muestra las alarmas y da la orden de paro.
+
+#7053
+Le groupe démarre, puis s'arrête au bout de quelques secondes avec « Overspeed ». Quel capteur a donné cette mesure ?
+O grupo parte e depois de alguns segundos desliga com "Overspeed". Qual sensor deu essa leitura?
+机组启动后几秒钟就以“Overspeed”停机。是哪个传感器给出的这个读数？
+Установка запускается, а через несколько секунд останавливается с сообщением «Overspeed». Какой датчик дал это показание?
+Agregat uruchamia się, a po kilku sekundach wyłącza z komunikatem „Overspeed”. Który czujnik dał taki odczyt?
+Az aggregát elindul, majd néhány másodperc múlva „Overspeed” hibával leáll. Melyik érzékelő adta ezt az értéket?
+El grupo arranca y luego de unos segundos se detiene con «Overspeed». ¿Qué sensor dio esa lectura?
+
+#7054
+Le capteur magnétique (MPU) au niveau du volant moteur
+O sensor magnético (MPU) no volante
+飞轮处的磁电式传感器（MPU）
+Магнитный датчик (MPU) у маховика
+Czujnik magnetyczny (MPU) przy kole zamachowym
+A lendkeréknél lévő mágneses jeladó (MPU)
+El sensor magnético (MPU) en el volante
+
+#7055
+Le capteur de pression d'huile
+O sensor de pressão do óleo
+机油压力传感器
+Датчик давления масла
+Czujnik ciśnienia oleju
+Az olajnyomás-érzékelő
+El sensor de presión de aceite
+
+#7056
+Le capteur de température du liquide de refroidissement
+O sensor de temperatura do líquido de arrefecimento
+冷却液温度传感器
+Датчик температуры охлаждающей жидкости
+Czujnik temperatury płynu chłodzącego
+A hűtőfolyadék-hőmérséklet érzékelő
+El sensor de temperatura del refrigerante
+
+#7057
+Le chargeur de batterie
+O carregador de bateria
+蓄电池充电器
+Зарядное устройство аккумулятора
+Ładowarka akumulatora
+Az akkumulátortöltő
+El cargador de batería
+
+#7058
+Le moteur tourne à 1500 tr/min mais le voltmètre indique presque 0 V. Premier suspect ?
+O motor roda a 1500 rpm mas o voltímetro mostra quase 0 V. Qual o primeiro suspeito?
+发动机以1500 rpm运转，但电压表显示接近0 V。首先怀疑什么？
+Двигатель работает на 1500 об/мин, но вольтметр показывает почти 0 В. Что подозревать в первую очередь?
+Silnik pracuje przy 1500 obr./min, ale woltomierz wskazuje prawie 0 V. Co podejrzewać w pierwszej kolejności?
+A motor 1500 ford./perccel jár, de a voltmérő majdnem 0 V-ot mutat. Mi az első gyanúsított?
+El motor gira a 1500 rpm pero el voltímetro marca casi 0 V. ¿Cuál es el primer sospechoso?
+
+#7059
+L'AVR ou la perte du magnétisme rémanent (amorçage de l'excitation nécessaire)
+O AVR ou a perda do magnetismo residual (precisa de escorvamento do campo)
+AVR故障或剩磁丢失（需要充磁）
+АРН (AVR) или потеря остаточного магнетизма (нужно подмагничивание)
+AVR lub utrata magnetyzmu szczątkowego (potrzebne podmagnesowanie)
+Az AVR vagy a remanens mágnesesség elvesztése (újrafelmágnesezés szükséges)
+El AVR o la pérdida del magnetismo residual (requiere cebado del campo)
+
+#7060
+Niveau de carburant bas
+Baixo nível de combustível
+燃油液位低
+Низкий уровень топлива
+Niski poziom paliwa
+Alacsony üzemanyagszint
+Bajo nivel de combustible
+
+#7061
+Batterie de démarrage faible
+Bateria de partida fraca
+启动蓄电池电量不足
+Слабый стартерный аккумулятор
+Słaby akumulator rozruchowy
+Gyenge indítóakkumulátor
+Batería de arranque débil
+
+#7062
+Filtre à air colmaté
+Filtro de ar entupido
+空气滤清器堵塞
+Засорённый воздушный фильтр
+Zapchany filtr powietrza
+Eltömődött légszűrő
+Filtro de aire obstruido
+
+#7063
+Pourquoi faire tourner le groupe sur charge réelle (ou banc de charge), et pas seulement des essais à vide ?
+Por que rodar o grupo gerador com carga real (ou banco de carga), e não apenas testes em vazio?
+为什么要让机组带实际负载（或负载箱）运行，而不是只做空载试运行？
+Почему нужно запускать генератор на реальной нагрузке (или нагрузочном модуле), а не только делать пробные пуски без нагрузки?
+Dlaczego uruchamiać agregat pod rzeczywistym obciążeniem (lub na banku obciążeń), a nie tylko na biegu jałowym?
+Miért kell az aggregátot valódi terheléssel (vagy terhelésbankkal) járatni, nem csak üresjárati próbákat végezni?
+¿Por qué hacer funcionar el grupo con carga real (o banco de carga) y no solo pruebas en vacío?
+
+#7064
+Une faible charge provoque l'encrassement par imbrûlés (wet stacking : carburant non brûlé et calamine) et ne prouve pas que le groupe peut reprendre la charge
+Carga leve causa acúmulo de combustível não queimado (wet stacking: combustível não queimado e carbono) e não prova que o grupo suporta a carga
+轻载会造成湿堆积（未燃燃油和积碳），也不能证明机组能带得动负载
+Малая нагрузка вызывает «мокрое стекание» (несгоревшее топливо и нагар) и не доказывает, что установка способна принять нагрузку
+Małe obciążenie powoduje wet stacking (niespalone paliwo i nagar) i nie dowodzi, że agregat przejmie obciążenie
+Kis terhelésnél nem elégett üzemanyag és korom rakódik le (wet stacking), és nem bizonyítja, hogy az aggregát elbírja a terhelést
+La carga ligera provoca wet stacking (combustible sin quemar y carbonilla) y no demuestra que el grupo pueda tomar la carga
+
+#7065
+Pour recharger plus vite la batterie de démarrage
+Para carregar mais rápido a bateria de partida
+为了更快给启动蓄电池充电
+Чтобы быстрее зарядить стартерный аккумулятор
+Aby szybciej naładować akumulator rozruchowy
+Hogy gyorsabban töltse az indítóakkumulátort
+Para cargar más rápido la batería de arranque
+
+#7066
+Pour refroidir le radiateur
+Para resfriar o radiador
+为了冷却散热器
+Чтобы охладить радиатор
+Aby ochłodzić chłodnicę
+Hogy lehűtse a hűtőt
+Para enfriar el radiador
+
+#7067
+Le fonctionnement à vide use l'AVR
+A operação em vazio desgasta o AVR
+空载运行会损坏AVR
+Работа вхолостую изнашивает АРН (AVR)
+Praca na biegu jałowym zużywa AVR
+Az üresjárat tönkreteszi az AVR-t
+El funcionamiento en vacío desgasta el AVR
+
+#7068
+Disjoncteur à air (ACB, débrochable)
+Disjuntor a ar (ACB, extraível)
+空气断路器（ACB，抽出式）
+Воздушный автоматический выключатель (ACB, выкатной)
+Wyłącznik powietrzny (ACB, wysuwny)
+Légmegszakító (ACB, kihúzható)
+Interruptor automático de aire (ACB, extraíble)
+
+#7069
+Grand disjoncteur de puissance (environ 800-6300 A) qui coupe l'arc à l'air libre dans des chambres de coupure. Le type débrochable est placé dans un châssis (berceau) fixé dans le tableau et peut être débroché.
+Grande disjuntor de potência (cerca de 800-6300 A) que interrompe o arco no ar livre dentro de câmaras de extinção. O tipo extraível fica em um chassi (berço) fixo no painel e pode ser retirado.
+大型电力断路器（约800-6300 A），在灭弧室内于空气中熄灭电弧。抽出式安装在固定于开关柜的底盘（摇架）中，可以摇出。
+Большой силовой выключатель (около 800-6300 А), гасящий дугу на открытом воздухе в дугогасительных камерах. Выкатной тип стоит в шасси (кассете), закреплённом в шкафу, и его можно выкатить.
+Duży wyłącznik mocy (ok. 800-6300 A), który gasi łuk w otwartym powietrzu w komorach gaszeniowych. Wersja wysuwna siedzi w ramie (kasecie) zamocowanej w rozdzielnicy i może być wysunięta.
+Nagy teljesítménykapcsoló (kb. 800-6300 A), amely a nyílt levegőben, ívoltó kamrákban szakítja meg az ívet. A kihúzható típus a kapcsolószekrényben rögzített alváz (kosár) benne ül, és kihúzható.
+Interruptor de potencia grande (unos 800-6300 A) que corta el arco en aire libre dentro de cámaras de extinción. El tipo extraíble va en un chasis (cuna) fijo en el tablero y puede sacarse.
+
+#7070
+Entrée du tableau BT principal après le transformateur, arrivée du groupe électrogène et couplage de barres avec l'ATS, gros départs vers les groupes froids et les compresseurs.
+Entrada do quadro principal de BT após o transformador, entrada do gerador e acoplamento de barras com o ATS, grandes alimentadores para chillers e compressores.
+变压器之后低压主配电柜的进线、发电机进线、与ATS配合的母联，以及通往冷水机组和空压机的大型出线。
+Ввод главного щита НН после трансформатора, ввод от генератора и секционный выключатель с АВР (ATS), мощные фидеры к чиллерам и компрессорам.
+Zasilanie główne rozdzielnicy nN za transformatorem, zasilanie z agregatu i sprzęgło szyn z ATS, duże odpływy do agregatów wody lodowej i sprężarek.
+A főelosztó kisfeszültségű táblájának bemenete a transzformátor után, a generátor bemenete és a sín-összekötő az ATS-sel, nagy kimenetek a hűtőgépekhez és kompresszorokhoz.
+Entrada del tablero principal de BT tras el transformador, entrada del generador y acoplador de barras con el ATS, grandes salidas a enfriadoras y compresores.
+
+#7071
+Un moteur ou la manivelle de charge arme le ressort de fermeture ; ON le libère et les contacts se ferment en quelques dizaines de ms pendant que le ressort d'ouverture est armé. OFF ou le déclencheur libère le verrou et le ressort d'ouverture écarte les contacts ; l'arc est entraîné dans les chambres de coupure, où il est fractionné et refroidi.
+Um motor ou a alavanca de carga carrega a mola de fechamento; ON a libera e os contatos fecham em algumas dezenas de ms enquanto a mola de abertura é carregada. OFF ou a unidade de disparo libera a trava e a mola de abertura separa os contatos; o arco vai para as câmaras de extinção, onde é dividido e resfriado.
+电机或手动储能手柄给合闸弹簧储能；按ON释放弹簧，触头在几十毫秒内闭合，同时分闸弹簧被储能。按OFF或脱扣器释放锁扣，分闸弹簧把触头弹开；电弧被引入灭弧室，被分割并冷却。
+Двигатель или рукоятка взвода заряжает пружину включения; ON отпускает её, и контакты замыкаются за несколько десятков мс, при этом взводится пружина отключения. OFF или расцепитель освобождает защёлку, и пружина отключения разводит контакты; дуга уходит в дугогасительные камеры, где дробится и охлаждается.
+Silnik lub dźwignia napinania napina sprężynę załączającą; ON ją zwalnia i styki zamykają się w kilkadziesiąt ms, podczas gdy napinana jest sprężyna wyłączająca. OFF lub wyzwalacz zwalnia zapadkę, a sprężyna wyłączająca rozrzuca styki; łuk wchodzi do komór gaszeniowych, gdzie jest dzielony i chłodzony.
+Egy motor vagy a felhúzókar felhúzza a bekapcsoló rugót; az ON elengedi, és az érintkezők néhány tíz ms alatt zárnak, miközben a kikapcsoló rugó felhúzódik. Az OFF vagy a kioldó kiengedi a retesz, és a kikapcsoló rugó szétveti az érintkezőket; az ív az ívoltó kamrákba fut, ahol felosztódik és lehűl.
+Un motor o la palanca de carga arma el resorte de cierre; ON lo libera y los contactos cierran en unas pocas decenas de ms mientras se arma el resorte de apertura. OFF o la unidad de disparo libera el pestillo y el resorte de apertura separa los contactos; el arco corre a las cámaras de extinción, donde se divide y se enfría.
+
+#7072
+Ne se ferme pas (ressorts non armés, bobine à minimum de tension non alimentée, verrouillage, déclencheur non réarmé), déclenchements intempestifs (mauvais réglages Ir/Isd), pinces ou jonctions de barres chaudes (desserrées, doigts brûlés), contacts érodés et chambres de coupure noircies ou fissurées après une coupure sur défaut.
+Não fecha (molas não carregadas, bobina de subtensão sem alimentação, intertravamento, disparo não rearmado), disparos indevidos (ajustes Ir/Isd errados), garras ou emendas de barramento quentes (frouxas, dedos queimados), contatos erodidos e câmaras de extinção enegrecidas ou trincadas após interrupção de falta.
+无法合闸（弹簧未储能、欠压线圈未供电、联锁、脱扣未复位）、误脱扣（Ir/Isd整定错误）、触头座或母线接头过热（松动、触指烧蚀）、触头磨损，以及切断故障后灭弧室发黑或开裂。
+Не включается (пружины не взведены, катушка минимального напряжения не запитана, блокировка, расцепитель не сброшен), ложные срабатывания (неверные уставки Ir/Isd), нагрев контактных узлов или шинных соединений (ослабление, обгоревшие пальцы), эрозия контактов и закопчённые или треснувшие дугогасительные камеры после отключения короткого замыкания.
+Nie zamyka się (sprężyny nienapięte, cewka podnapięciowa nie zasilona, blokada, wyzwalacz niezresetowany), zbędne wyzwolenia (błędne nastawy Ir/Isd), nagrzane zaciski stykowe lub połączenia szyn (luźne, przepalone palce), wyerodowane styki oraz osmolone lub popękane komory gaszeniowe po wyłączeniu zwarcia.
+Nem zár (a rugók nincsenek felhúzva, a feszültségvédelmi tekercs nem kap tápot, reteszelés, a kioldó nincs visszaállítva), indokolatlan kioldások (hibás Ir/Isd beállítás), forró érintkezőcsoportok vagy sínillesztések (laza, kiégett ujjak), kopott érintkezők, valamint kormos vagy repedt ívoltó kamrák zárlat megszakítása után.
+No cierra (resortes sin armar, bobina de mínima tensión sin alimentación, enclavamiento, disparo sin rearmar), disparos intempestivos (ajustes Ir/Isd incorrectos), garras o uniones de barras calientes (flojas, dedos quemados), contactos erosionados y cámaras de extinción tiznadas o agrietadas tras interrumpir una falla.
+
+#7073
+Chaque année avec consignation (LOTO) : inspecter l'usure des contacts et les chambres de coupure, nettoyer et lubrifier le mécanisme et les pinces avec la graisse spécifiée, relever le nombre de manœuvres, tester le déclencheur par injection secondaire et tous les quelques ans par injection primaire, mégohmmètre, couple de serrage et thermographie des jonctions de barres.
+Anualmente com LOTO: inspecionar o desgaste dos contatos e as câmaras de extinção, limpar e lubrificar o mecanismo e as garras com a graxa especificada, registrar o número de operações, testar a unidade de disparo por injeção secundária e, a cada alguns anos, por injeção primária, megômetro, torque e termografia das emendas de barramento.
+每年在上锁挂牌（LOTO）后：检查触头磨损和灭弧室，用指定润滑脂清洁并润滑机构和触头座，记录操作次数，用二次注入测试脱扣器，每隔几年用一次大电流（一次）注入测试，做绝缘测试，检查母线接头力矩并做红外热成像。
+Ежегодно после блокировки (LOTO): осматривать износ контактов и дугогасительные камеры, чистить и смазывать механизм и контактные узлы указанной смазкой, записывать число операций, проверять расцепитель вторичной инжекцией, а раз в несколько лет первичной, мегомметр, момент затяжки и тепловизор на шинных соединениях.
+Co roku po zastosowaniu LOTO: sprawdzić zużycie styków i komory gaszeniowe, oczyścić i nasmarować mechanizm oraz zaciski stykowe wskazanym smarem, zapisać liczbę łączeń, przetestować wyzwalacz wtryskiem wtórnym, a co kilka lat pierwotnym, megaomomierz, moment dokręcenia i termowizja połączeń szyn.
+Évente LOTO-val: ellenőrizze az érintkezők kopását és az ívoltó kamrákat, tisztítsa és kenje meg a mechanizmust és az érintkezőcsoportokat az előírt zsírral, jegyezze fel a kapcsolásszámot, tesztelje a kioldót szekunder injektálással, néhány évente pedig primer injektálással, szigetelésmérés, sínillesztések nyomatéka és hőkamerás vizsgálata.
+Cada año con LOTO: inspeccionar el desgaste de los contactos y las cámaras de extinción, limpiar y lubricar el mecanismo y las garras con la grasa especificada, registrar el número de operaciones, probar la unidad de disparo por inyección secundaria y cada pocos años por inyección primaria, megóhmetro, par de apriete y termografía de las uniones de barras.
+
+#7074
+Châssis (berceau)
+Chassi (berço)
+底盘（摇架）
+Шасси (кассета)
+Rama (kaseta)
+Alváz (kosár)
+Chasis (cuna)
+
+#7075
+Fixé dans le tableau. Les flasques latéraux guident le disjoncteur ; le panneau isolant arrière porte les pinces principales, la barre avant porte la vis de débrochage et l'indicateur de position.
+Fixo no painel. As chapas laterais guiam o disjuntor; a moldura traseira sustenta as garras primárias, e a barra frontal contém o parafuso de extração e o indicador de posição.
+固定在开关柜内。侧板引导断路器；后部绝缘板承载主触头座，前横梁装有摇进螺杆和位置指示器。
+Закреплено в шкафу. Боковые пластины направляют выключатель; задняя изоляционная панель несёт главные контактные узлы, а передняя планка — винт перемещения и указатель положения.
+Zamocowana w rozdzielnicy. Boczne blachy prowadzą wyłącznik; tylna płyta izolacyjna niesie główne zaciski stykowe, a przednia belka — śrubę wysuwania i wskaźnik położenia.
+A kapcsolószekrényben rögzítve. Az oldallemezek vezetik a megszakítót; a hátsó szigetelőlap hordozza a főérintkezőket, az elülső rúdon van a kihúzócsavar és a helyzetjelző.
+Fijo en el tablero. Las placas laterales guían el interruptor; la placa trasera aislante lleva las garras principales y la barra frontal contiene el tornillo de extracción y el indicador de posición.
+
+#7076
+Bornes de barres arrière L1 L2 L3 N
+Terminais de barramento traseiros L1 L2 L3 N
+后部母线端子 L1 L2 L3 N
+Задние шинные выводы L1 L2 L3 N
+Tylne zaciski szynowe L1 L2 L3 N
+Hátsó sínkivezetések L1 L2 L3 N
+Terminales de barras traseros L1 L2 L3 N
+
+#7077
+Bornes plats horizontaux en cuivre : la rangée supérieure côté alimentation, la rangée inférieure vers la charge. Les barres du tableau se boulonnent ici.
+Terminais planos horizontais de cobre: a fileira superior vem da alimentação, a inferior vai para a carga. Os barramentos do painel são parafusados aqui.
+水平扁铜端子：上排接电源侧，下排接负载侧。开关柜母线用螺栓连接于此。
+Плоские горизонтальные медные выводы: верхний ряд — от питания, нижний — к нагрузке. Шины щита крепятся здесь болтами.
+Płaskie poziome zaciski miedziane: górny rząd od zasilania, dolny do odbioru. Szyny rozdzielnicy są tu przykręcane śrubami.
+Vízszintes lapos rézkivezetések: a felső sor a betáplálás felől, az alsó a terhelés felé. A kapcsolószekrény sínjei itt csavarozódnak.
+Terminales planos horizontales de cobre: la fila superior desde la alimentación, la inferior hacia la carga. Las barras del tablero se atornillan aquí.
+
+#7078
+Obturateurs de sécurité
+Obturadores de segurança
+安全挡板
+Защитные шторки
+Przesłony bezpieczeństwa
+Biztonsági zsalúk
+Obturadores de seguridad
+
+#7079
+Volets en acier devant les pinces. Ils s'ouvrent quand le disjoncteur est embroché et se ferment seuls quand il est débroché, de sorte que les pinces sous tension ne peuvent pas être touchées ; ils peuvent être cadenassés fermés.
+Venezianas de aço na frente das garras. Abrem quando o disjuntor é inserido e fecham sozinhas quando ele é extraído, de modo que as garras energizadas não podem ser tocadas; podem ser trancadas com cadeado.
+位于触头座前的钢制挡板。断路器摇入时打开，摇出时自动关闭，因此无法触及带电触头座；可用挂锁锁住。
+Стальные шторки перед контактными узлами. Они открываются, когда выключатель вкатывают, и закрываются сами при выкатывании, так что до токоведущих узлов не дотронуться; их можно запереть навесным замком.
+Stalowe przesłony przed zaciskami stykowymi. Otwierają się po wsunięciu wyłącznika i zamykają samoczynnie po jego wysunięciu, więc nie można dotknąć zacisków pod napięciem; można je zablokować kłódką.
+Acélzsalúk az érintkezőcsoportok előtt. A megszakító betolásakor kinyílnak, kihúzásakor maguktól bezárulnak, így a feszültség alatti érintkezők nem érinthetők; lakattal zárhatók.
+Persianas de acero frente a las garras. Se abren cuando el interruptor se inserta y se cierran solas cuando se extrae, de modo que no se pueden tocar las garras con tensión; pueden bloquearse con candado.
+
+#7080
+Rails de débrochage
+Trilhos de extração
+抽出导轨
+Направляющие выкатывания
+Szyny wysuwne
+Kihúzósínek
+Rieles de extracción
+
+#7081
+Rails télescopiques sur les deux flasques ; le disjoncteur roule dessus quand il est sorti pour la maintenance.
+Trilhos telescópicos nas duas chapas laterais; o disjuntor corre sobre eles quando é retirado para manutenção.
+两侧板上的伸缩导轨；断路器抽出进行维护时在其上滑行。
+Телескопические направляющие на обеих боковых пластинах; выключатель едет по ним, когда его выкатывают для обслуживания.
+Prowadnice teleskopowe na obu blachach bocznych; wyłącznik jedzie po nich, gdy jest wysuwany do konserwacji.
+Teleszkópos sínek mindkét oldallemezen; a megszakító ezeken gördül, amikor karbantartásra kihúzzák.
+Rieles telescópicos en ambas placas laterales; el interruptor se desliza sobre ellos cuando se extrae para mantenimiento.
+
+#7082
+Corps du disjoncteur (boîtier moulé)
+Corpo do disjuntor (caixa moldada)
+断路器本体（塑壳）
+Корпус выключателя (литой)
+Korpus wyłącznika (obudowa formowana)
+A megszakító háza (öntött ház)
+Cuerpo del interruptor (caja moldeada)
+
+#7083
+Boîtier isolant avec cloisons entre phases ; les plots arrière s'enfichent dans les pinces, la bande supérieure s'accouple aux bornes secondaires.
+Carcaça isolante com barreiras entre fases; as pontas traseiras encaixam nas garras e a régua superior acopla nos terminais secundários.
+带相间隔板的绝缘外壳；后部触臂插入触头座，上部条形插件与二次端子对接。
+Изоляционный корпус с межфазными перегородками; задние выводы входят в контактные узлы, верхняя планка стыкуется с вторичными клеммами.
+Obudowa izolacyjna z przegrodami międzyfazowymi; tylne wyprowadzenia wchodzą w zaciski stykowe, górna listwa łączy się z zaciskami wtórnymi.
+Szigetelőház fázisválaszfalakkal; a hátsó csatlakozók az érintkezőcsoportokba dugódnak, a felső sáv a szekunder kapcsokhoz illeszkedik.
+Carcasa aislante con barreras entre fases; los terminales traseros se enchufan en las garras y la tira superior acopla con los bornes secundarios.
+
+#7084
+Conducteurs principaux et contacts fixes
+Condutores principais e contatos fixos
+主导体和静触头
+Главные токоведущие части и неподвижные контакты
+Przewody główne i styki stałe
+Főáramutak és álló érintkezők
+Conductores principales y contactos fijos
+
+#7085
+Chemin de cuivre de chaque pôle : plot supérieur vers le contact fixe (pastille d'argent), plot inférieur vers la tresse flexible du contact mobile.
+Percurso de cobre de cada polo: terminal superior até o contato fixo (ponta de prata), terminal inferior até a trança flexível do contato móvel.
+每极的铜导电路径：上部触臂连接静触头（银触点），下部触臂连接动触头的软编织线。
+Медный путь каждого полюса: верхний вывод к неподвижному контакту (серебряная напайка), нижний вывод к гибкой шунтирующей связи подвижного контакта.
+Miedziana ścieżka każdego bieguna: górne wyprowadzenie do styku stałego (srebrna końcówka), dolne do giętkiego splotu styku ruchomego.
+Az egyes pólusok rézútja: a felső csatlakozó az álló érintkezőhöz (ezüst csúcs), az alsó a mozgó érintkező hajlékony fonatához vezet.
+Trayecto de cobre de cada polo: terminal superior al contacto fijo (punta de plata), terminal inferior a la trenza flexible del contacto móvil.
+
+#7086
+Contacts mobiles et arbre des pôles
+Contatos móveis e eixo dos polos
+动触头和极间轴
+Подвижные контакты и вал полюсов
+Styki ruchome i wał biegunów
+Mozgó érintkezők és pólustengely
+Contactos móviles y eje de polos
+
+#7087
+Un bras par pôle sur un arbre isolé commun, de sorte que tous les pôles s'ouvrent et se ferment ensemble. La pression de contact vient de ressorts derrière chaque bras.
+Um braço por polo em um eixo isolado comum, de modo que todos os polos abrem e fecham juntos. A pressão de contato vem de molas atrás de cada braço.
+每极一个触臂安装在同一根绝缘轴上，因此各极同时分合。触头压力来自每个触臂后面的弹簧。
+По одному рычагу на полюс на общем изолированном валу, поэтому все полюса размыкаются и замыкаются вместе. Контактное нажатие создают пружины за каждым рычагом.
+Jedno ramię na biegun na wspólnym izolowanym wale, więc wszystkie bieguny otwierają się i zamykają razem. Docisk styków zapewniają sprężyny za każdym ramieniem.
+Pólusonként egy kar egy közös szigetelt tengelyen, így minden pólus együtt nyit és zár. Az érintkezési nyomást az egyes karok mögötti rugók adják.
+Un brazo por polo en un eje aislado común, de modo que todos los polos abren y cierran juntos. La presión de contacto proviene de resortes detrás de cada brazo.
+
+#7088
+Chambres de coupure
+Câmaras de extinção
+灭弧室
+Дугогасительные камеры
+Komory gaszeniowe
+Ívoltó kamrák
+Cámaras de extinción
+
+#7089
+Empilements de plaques de fractionnement en acier au-dessus de chaque intervalle de contact : l'arc est attiré, découpé en de nombreux petits arcs, refroidi et éteint.
+Pilhas de placas divisoras de aço acima de cada vão de contato: o arco é puxado para dentro, dividido em muitos arcos curtos, resfriado e extinto.
+每个触头间隙上方的钢制栅片组：电弧被吸入，分割成许多短弧，被冷却并熄灭。
+Пакеты стальных пластин-делителей над каждым контактным промежутком: дугу втягивает внутрь, дробит на множество коротких дуг, охлаждает и гасит.
+Stosy stalowych płytek dzielących nad każdą szczeliną styków: łuk jest wciągany, dzielony na wiele krótkich łuków, chłodzony i gaszony.
+Acél ívosztó lemezek kötegei minden érintkezőrés felett: az ívet behúzzák, sok rövid ívre bontják, lehűtik és kioltják.
+Pilas de placas divisoras de acero sobre cada separación de contactos: el arco es arrastrado, dividido en muchos arcos cortos, enfriado y extinguido.
+
+#7090
+Mécanisme à énergie accumulée
+Mecanismo de energia armazenada
+储能机构
+Пружинно-моторный привод
+Mechanizm z zasobnikiem energii
+Energiatároló mechanizmus
+Mecanismo de energía almacenada
+
+#7091
+Ressorts de fermeture, came et verrou, moteur d'armement, bobine de fermeture et bobine de déclenchement shunt. Les ressorts sont d'abord armés, puis libérés pour fermer d'un seul mouvement rapide.
+Molas de fechamento, came e trava, motor de carga, bobina de fechamento e bobina de disparo shunt. As molas são carregadas primeiro e depois liberadas para fechar em um único movimento rápido.
+合闸弹簧、凸轮和锁扣、储能电机、合闸线圈和分励脱扣线圈。弹簧先储能，再释放，一次快速动作完成合闸。
+Пружины включения, кулачок и защёлка, двигатель взвода, катушка включения и катушка независимого расцепителя. Пружины сначала взводятся, затем отпускаются и замыкают контакты одним быстрым ходом.
+Sprężyny załączające, krzywka i zapadka, silnik napinania, cewka załączająca i cewka wyzwalająca bocznikowa. Sprężyny są najpierw napinane, potem zwalniane, aby zamknąć styki jednym szybkim ruchem.
+Bekapcsoló rugók, bütyök és retesz, felhúzómotor, bekapcsoló tekercs és söntkioldó tekercs. A rugókat először felhúzzák, majd elengedik, hogy egyetlen gyors mozdulattal zárjanak.
+Resortes de cierre, leva y pestillo, motor de carga, bobina de cierre y bobina de disparo shunt. Los resortes se arman primero y luego se liberan para cerrar en una sola carrera rápida.
+
+#7092
+Façade avant avec boutons et indicateurs
+Tampa frontal com botões e indicadores
+带按钮和指示器的前盖
+Передняя крышка с кнопками и индикаторами
+Pokrywa czołowa z przyciskami i wskaźnikami
+Előlap gombokkal és jelzőkkel
+Tapa frontal con botones e indicadores
+
+#7093
+Boutons-poussoirs ON et OFF, indicateur ressort armé / désarmé, indicateur de position des contacts (I / O) et compteur de manœuvres.
+Botões ON e OFF, indicador de mola carregada / descarregada, indicador de posição dos contatos (I / O) e contador de operações.
+ON和OFF按钮、弹簧已储能/未储能指示器、触头位置指示器（I / O）和操作计数器。
+Кнопки ON и OFF, индикатор «пружина взведена / не взведена», указатель положения контактов (I / O) и счётчик операций.
+Przyciski ON i OFF, wskaźnik sprężyna napięta / zwolniona, wskaźnik położenia styków (I / O) i licznik łączeń.
+ON és OFF nyomógombok, rugó felhúzva / kioldva jelző, érintkezők helyzetjelzője (I / O) és működésszámláló.
+Pulsadores ON y OFF, indicador de resorte armado / descargado, indicador de posición de contactos (I / O) y contador de operaciones.
+
+#7094
+Levier d'armement du ressort
+Alavanca de carga da mola
+弹簧储能手柄
+Рукоятка взвода пружины
+Dźwignia napinania sprężyny
+Rugófelhúzó kar
+Palanca de carga del resorte
+
+#7095
+Pompez-le (environ 7-10 coups) pour armer à la main le ressort de fermeture quand il n'y a pas d'alimentation de commande.
+Bombeie-a (cerca de 7-10 movimentos) para carregar a mola de fechamento manualmente quando não há alimentação de comando.
+在没有控制电源时，反复扳动（约7-10次）即可手动给合闸弹簧储能。
+Покачайте её (примерно 7-10 ходов), чтобы взвести пружину включения вручную, когда нет оперативного питания.
+Pompuj nią (ok. 7-10 ruchów), aby ręcznie napiąć sprężynę załączającą, gdy brak zasilania sterowania.
+Pumpálja (kb. 7-10 mozdulat), hogy kézzel felhúzza a bekapcsoló rugót, ha nincs vezérlőáram.
+Acciónela (unas 7-10 carreras) para armar a mano el resorte de cierre cuando no hay alimentación de control.
+
+#7096
+Déclencheur électronique
+Unidade de disparo eletrônica
+电子脱扣器
+Электронный расцепитель
+Elektroniczny wyzwalacz
+Elektronikus kioldóegység
+Unidad de disparo electrónica
+
+#7097
+Lit les capteurs de courant de chaque pôle. Ir = surcharge long retard, Isd = court retard (temporisé, pour la sélectivité), Ii = instantané ; déclenche le disjoncteur via sa bobine de déclenchement.
+Lê os sensores de corrente de cada polo. Ir = sobrecarga com tempo longo, Isd = curta duração (com atraso, para seletividade), Ii = instantâneo; dispara o disjuntor por meio de sua bobina de disparo.
+读取每极上的电流传感器。Ir = 长延时过载，Isd = 短延时（延时，用于选择性配合），Ii = 瞬时；通过脱扣线圈使断路器脱扣。
+Считывает датчики тока на каждом полюсе. Ir = перегрузка с большой выдержкой времени, Isd = короткое замыкание с малой выдержкой (для селективности), Ii = мгновенное срабатывание; отключает выключатель через катушку расцепителя.
+Odczytuje czujniki prądu na każdym biegunie. Ir = przeciążenie z długim opóźnieniem, Isd = zwarcie z krótkim opóźnieniem (dla selektywności), Ii = zadziałanie natychmiastowe; wyzwala wyłącznik przez cewkę wyzwalającą.
+Beolvassa az egyes pólusok áramérzékelőit. Ir = hosszú időzítésű túlterhelés, Isd = rövid időzítésű (késleltetett, szelektivitáshoz), Ii = azonnali; a kioldótekercsen keresztül kioldja a megszakítót.
+Lee los sensores de corriente de cada polo. Ir = sobrecarga de tiempo largo, Isd = tiempo corto (retardado, para selectividad), Ii = instantáneo; dispara el interruptor mediante su bobina de disparo.
+
+#7098
+Bornes secondaires (commande)
+Terminais secundários (comando)
+二次（控制）端子
+Вторичные клеммы (управления)
+Zaciski wtórne (sterowania)
+Szekunder (vezérlő) kapcsok
+Bornes secundarios (control)
+
+#7099
+Bornier sur le châssis pour le câblage du moteur, des bobines, des contacts auxiliaires et du déclencheur ; reste connecté en position TEST.
+Régua de terminais no chassi para a fiação do motor, bobinas, contatos auxiliares e unidade de disparo; permanece conectada na posição TEST.
+底盘上的端子排，用于电机、线圈、辅助触点和脱扣器的接线；在TEST位置保持连接。
+Клеммная колодка на шасси для проводки двигателя, катушек, вспомогательных контактов и расцепителя; остаётся подключённой в положении TEST.
+Listwa zaciskowa na ramie do okablowania silnika, cewek, styków pomocniczych i wyzwalacza; pozostaje podłączona w położeniu TEST.
+Kapocssor az alvázon a motor, a tekercsek, a segédérintkezők és a kioldóegység vezetékeihez; TEST helyzetben is csatlakoztatva marad.
+Regleta de bornes en el chasis para el cableado del motor, bobinas, contactos auxiliares y unidad de disparo; permanece conectada en la posición TEST.
+
+#7100
+Manivelle de débrochage
+Manivela de extração
+摇进摇出手柄
+Рукоятка перемещения
+Korba wysuwania
+Kihúzókar
+Manivela de extracción
+
+#7101
+Manivelle tournée dans la vis de débrochage pour déplacer le disjoncteur entre CONNECTED, TEST et DISCONNECTED. Ne fonctionne que disjoncteur ouvert ; la retirer et cadenasser pour la consignation (LOTO).
+Manivela girada no parafuso de extração para mover o disjuntor entre CONNECTED, TEST e DISCONNECTED. Só funciona com o disjuntor aberto; retire-a e use cadeado para o LOTO.
+插入摇进螺杆转动的手柄，使断路器在CONNECTED、TEST和DISCONNECTED位置之间移动。仅在断路器断开时有效；LOTO时取下并上锁。
+Рукоятка, вращаемая в винте перемещения, чтобы переводить выключатель между положениями CONNECTED, TEST и DISCONNECTED. Работает только при отключённом выключателе; для LOTO снимите её и заприте на замок.
+Korba obracana w śrubie wysuwania, aby przesuwać wyłącznik między położeniami CONNECTED, TEST i DISCONNECTED. Działa tylko przy otwartym wyłączniku; do LOTO zdejmij ją i zablokuj kłódką.
+A kihúzócsavarban forgatott kar, amellyel a megszakítót a CONNECTED, TEST és DISCONNECTED helyzet között mozgatják. Csak nyitott megszakítóval működik; LOTO-hoz vegye le és lakatolja le.
+Manivela que gira en el tornillo de extracción para mover el interruptor entre CONNECTED, TEST y DISCONNECTED. Solo funciona con el interruptor abierto; retírela y ponga candado para el LOTO.
+
+#7102
+Ouvrir et débrocher
+Abrir e extrair
+断开并摇出
+Отключить и выкатить
+Otworzyć i wysunąć
+Nyitás és kihúzás
+Abrir y extraer

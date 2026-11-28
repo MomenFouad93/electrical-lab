@@ -348,6 +348,7 @@
     $('#btnFile').addEventListener('click', () => B.fileDialog());
     $('#btnClear').addEventListener('click', () => B.clearAll());
     $('#btnLook').addEventListener('click', () => B.lookMenu());
+    $('#btnExplain').addEventListener('click', () => ui.explain && ui.explain.set(!ui.explain.on));
     $('#btnMute').addEventListener('click', (e) => { ui.muted = !ui.muted; e.currentTarget.classList.toggle('on', ui.muted); if (ui.muted) ui.beep(false); });
     // side tabs
     for (const b of ui.$$('#stabs .stab')) b.addEventListener('click', () => B.pane(b.dataset.p));

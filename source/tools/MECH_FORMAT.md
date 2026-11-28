@@ -15,7 +15,7 @@ Text is always a pair `[English, Arabic]`. Arabic is Egyptian technical Arabic a
 ```js
 M.add({
   id: 'ball_valve',            // [a-z0-9_]
-  cat: 'valves',               // tools fasteners valves actuators pumps motors transmission bearings seals process
+  cat: 'valves',               // tools fasteners valves actuators pumps motors transmission bearings seals process power
   name: ['Ball valve (2-piece)', 'محبس كورة (قطعتين)'],
   info: {
     what: [en, ar],   // what it is
